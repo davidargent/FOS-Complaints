@@ -1,0 +1,91 @@
+DRN-2836913
+The complaint
+Mr P and Mrs P complain that Santander rejected a CHAPS that delayed a significant 
+amount of funds reaching their account.
+For ease of reading I will refer to Mr P only in my decision.
+What happened
+In April 2020, following the sale of a property, Mr P looked to transfer the funds across 
+several bank accounts. He contacted his bank and arranged for the transfer of £284,997 to 
+another of his accounts. This was his and his wifes joint account with another bank, 
+Santander.
+Mr P said he was expecting the payment to credit the account with Santander by close of 
+business. But the payment wasnt showing as having credited to the account. He called 
+Santander and was told Santander wouldnt reject the payment and he needed to check with 
+the sending bank. Mr P was also told that the payment would have been sent by the 
+Clearing House Automated Payment System (CHAPS). Mr P disputed this as he said it had 
+been sent by Faster Payment as hed have had to pay a £17 fee for sending by CHAPS, 
+which on principle he wouldnt do.
+Mr P and the sending bank said the transfer should have been accepted. To check what had 
+happened they made successful test transfers of £1 and £10,000 but transfers of £40,000 
+and £49,999 were rejected by Santander. Mr P complained to Santander.
+Santander said the payment had been rejected as the account identifiers were incorrect. And 
+for a CHAPS payment to be successful the sort code, account number and the names of the 
+account holders had to be provided. They said the beneficiary details given by the sending 
+bank didnt fully reflect the account holders names. Santander said as it was the sending 
+bank who made the payment by CHAPS, and it was they or the sender who completed the 
+account details they couldnt be held responsible for the payment being rejected.
+Mr P didnt agree and referred his complaint to us.
+Our investigator said the payment was sent as a CHAPS transfer, and this had been decided 
+by the sending bank and not Santander. He said Santander had acted fairly and reasonably 
+in rejecting the transfer.
+Mr P didnt agree as hed used the same account identifiers on previous payments without 
+any problems. And the delay for such a high value transfer had caused him considerable 
+upset. He asked for an ombudsman to decide.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so Im not upholding this complaint. Ill explain why.
+I recognise the frustration and annoyance Mr P undoubtedly experienced when the transfer 
+of funds did not materialise as expected. Mr P had frequently used the Faster Payment 
+process to transfer funds and had used the same account identifiers for this without any 
+problems.
+But there are usually limits to how much can be sent using the Faster Payment transfer 
+process. And where the amount being sent is of a high value such as the transfer Mr P 
+wanted to make, and is above the sending banks Faster Payment limit, the usual option is to 
+send it by CHAPS. And this is what has happened here. CHAPS is an electronic interbank 
+transfer system for sending same-day value payments from bank to bank. And are usually 
+guaranteed for requests made by 2pm (varies between different financial businesses) on 
+that day. Unlike Faster Payments there is usually a fee for a CHAPS payment. The cost will 
+vary depending on the sender bank. 
+I know Mr P said he wouldnt pay the CHAPS fee of £17 on principle and so thought the 
+payment had been sent by Faster Payment, but this wasnt the case. And the sending bank 
+had sent the payment by CHAPS. 
+At the beginning of August 2019, the Payment Systems Regulator (PSR) issued a specific 
+direction to the UKs six largest banking groups to fully implement Confirmation of Payee 
+by 31 March 2020. This deadline was extended due to the pandemic to 30 June 2020.
+Confirmation of Payee is a way of checking account details to give greater assurance that 
+payments are being sent to the intended recipient, helping avoid misdirected payments 
+being sent to the wrong account as well as helping to prevent fraud and scams.
+For a CHAPS payment to be successfully received, the sender will need to provide the sort 
+code, account number and the full name(s) as they appear on the beneficiary account.
+Mr Ps CHAPS payment was rejected by Santander because the sending bank or the sender 
+provided the incorrect account name, and this wasnt as a result of anything Santander did 
+or did not do. I can understand Mr Ps frustration as the details used gave his and his wifes 
+surname which he feels should have been enough to identify the account. But for a CHAPS 
+payment to be accepted it must reflect the account name details, and not part of the account 
+name. So, I cant say Santander acted unfairly or unreasonably in rejecting the CHAPS 
+payment.
+Mr P said he used the same details for the test payments, and these had been accepted by 
+Santander. But the test payments were made using the Faster Payment process and had 
+been used previously for making similar Faster Payments. And payments such as those 
+made by Mr P previously as they were to existing recipients might not have been checked 
+using Confirmation of Payee - although individual account providers may, in time, begin to 
+check the details of existing recipients with Confirmation of Payee. But as this was, from 
+what I can see, the first transfer by CHAPS it was subject to being checked under 
+Confirmation of Payee.
+I can see Santander in their initial response provided incorrect information to Mr P about the 
+mis-stated name upon the transfer. But this didnt change the position Mr P was in as his 
+transfer wouldnt be accepted unless the account name details were given fully.And when Mr P first called to check about the transfer, he was told that Santander wouldnt 
+stop money coming in. Which has been shown wasnt correct as it was Santander that 
+rejected the CHAPS payment. But I agree with our investigator that it was a general 
+comment made without knowing the full details of the transfer. And Mr P was correctly 
+directed back to the sending bank to make further checks.
+I know Mr P will be disappointed by my decision, but I think Santander were applying the 
+right measures to safeguard the payment. And I dont think they acted unreasonably.
+My final decision
+I dont uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mrs P and Mr P to 
+accept or reject my decision before 14 January 2022.
+ 
+Anne Scarr
+Ombudsman

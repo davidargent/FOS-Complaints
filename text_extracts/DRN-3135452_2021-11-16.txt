@@ -1,0 +1,104 @@
+DRN-3135452
+The complaint
+Mr Q complains that Barclays Bank UK PLC wont refund a payment he says he didnt make 
+from his account.
+What happened
+Mr Q disputes a payment for £2,000 made using mobile banking on 19 February 2021. He 
+says he didnt authorise this  or an attempted payment the day before to a different payee 
+also for £2,000. That other payment was cancelled by Barclays and he thinks it should have 
+checked the second payment with him. 
+Barclays said it wouldnt be refunding the money. It said that the payment was made using a 
+device linked to Mr Qs mobile phone number. This had been used for previous genuine 
+payments and logins since February 2019. The payment required a successful log in to his 
+account using his security code. And his card information including the 16-digit card number, 
+the expiry date and CV2 code  the three-digit security number on the card. It said it hadnt 
+identified any point of compromise from Mr Q for his security information or his phone. It said 
+that it was almost certain that a text message would have been sent to Mr Q about the new 
+payee, but it couldnt evidence this now. The earlier attempted payment had been picked up 
+by security checks and then cancelled as it wasnt able to speak to Mr Q about it. But all the 
+details on the successful payment including the account details and payee name matched 
+and so that one was allowed to go through.
+Our investigator didnt recommend that the complaint be upheld. She said that she had 
+received systems information from Barclays about the log ins to Mr Qs account. And about 
+both payments. She set out the IP address used. And that the first attempted payment was 
+made at 18:36 on 18 February 2021. Barclays had called Mr Q about this but not been able 
+to speak to him and cancelled it. The payment that did go through was made after a new 
+payee was created at 09:00 and payment sent at 09:09 on 19 February 2021. Further log ins 
+using the same IP address and device had continued to 08:08 on 22 February 2021. And   
+Mr Q had raised a fraud claim at 08:38 on that day.
+Mr Q had told her that he was at home at the time. He says he received a notification on his 
+mobile app about the attempted payment. He tried to call Barclays on 20 February 2021 but 
+couldnt get through after waiting for 40 minutes and he has sent a screen shot of the call. 
+He says he didnt receive a text or email notification about the second payment. Mr Q said 
+he has a lock on his mobile phone, and this needed a code to use it that couldnt easily be 
+guessed. He hadnt written this down or his mobile banking passcode or told anyone his 
+security information. His phone was with him at the time and he says when the payment took 
+place he was asleep in his room. He didnt lose his bank card which was in his wallet with 
+him. And he had no plans to pay for any goods or services around this time.
+Mr Q said his phone must have been hacked but our investigator couldnt see there was any 
+evidence for that. Mr Q said that the IP address wasnt consistent with that he used at the 
+location of his home. She agreed that was the case but didnt think that this was the most 
+important information about the payment. The information was that the payment had been 
+made with all Mr Qs security information and his phone. And there was no explanation how 
+anyone else other than Mr Q could have made this payment. Barclays wasnt required to 
+check every payment as Mr Q wanted it to do.
+Mr Q didnt agree. He said that he hadnt authorised payments to these two different payees 
+who were complete strangers to him. He remained unhappy that as the first payment was 
+declined when he didnt respond the second was allowed to go through. He wanted this 
+reviewed by an ombudsman. He thought it convenient that Barclays didnt keep information 
+about texts it had sent beyond the period when it had responded about his complaint. Mr Q 
+said he was going to try and get information from his phone provider about the history of his 
+calls and texts.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+I need to take into account the Payment Services Regulations 2017 in considering this 
+complaint. These state that a payment can only be authorised if it was consented to. So, its 
+not enough for it to be authenticated, say with security information. And if it wasnt 
+authorised Mr Q wouldnt generally be responsible for them. Mr Q has not provided any 
+further information and I think he has had a reasonable opportunity to do so and I can fairly 
+make a decision about his complaint.
+So, I will be thinking about the following areas in looking at this complaint:
+- What is the most likely explanation of what happened with the attempted and actual 
+payments here?
+- Did Mr Q authorise the payment on the account, as Barclays says?
+- Did Barclays act reasonably?
+Ive reviewed copies of the payment and log in information and Im satisfied that these were 
+authenticated with Mr Qs security information. The issue is whether he consented to them.
+Mr Q says his mobile phone must have been hacked. He hasnt provided any evidence of 
+this or say of a swap in his SIM and a loss of service on his own number. He has provided 
+evidence for example that he used his phone to call Barclays on 20 February 2021. And Ive 
+noted that log ins using mobile banking and his device details continued until just before he 
+was able to speak to Barclays. The IP address used wasnt one consistent with the phone 
+being at Mr Qs address at the relevant times.
+Mr Q says his phone was with him. And even if an unknown third party had been able to take 
+it without his knowledge and then somehow return it, I dont have an explanation of how that 
+person would have known the passcode for his phone. Mr Q also says that no-one else 
+would have his mobile banking passcode. And he had his bank card with him. Its not 
+impossible that some of these details might have been obtained by a fraudster. But there is 
+no credible explanation in my view for how a fraudster got hold of all of the information and 
+his phone without him knowing. And as there was significantly more money in Mr Qs 
+account then paid out and his online details werent cancelled until 22 February 2021 Id 
+have also expected a fraudster to attempt to take out as much money as quickly as possible; 
+especially when the second payee had been set up.
+The first payment of £2,000 was attempted on 18 February 2021. Barclays says it tried to 
+contact Mr Q on his home number and mobile to confirm this and left a message. Mr Q didnt 
+attempt to call Barclays back until after the second and successful payment had left his 
+account. He thinks it should have cancelled this one too. That would be particularly relevant 
+if I came to the view that Mr Q hadnt authorised it. But as Im persuaded that he most likely did I dont consider Barclays acted unreasonably in allowing this payment through as all the 
+details matched. Mr Q is unhappy as he says it didnt send a text. In any event Barclays 
+position is that the text it says it likely did send wasnt one asking for Mr Qs confirmation but 
+informing him of the payment. And so, I dont think I need to rely on that having been sent 
+and received by Mr Q in thinking about whether he authorised the payment.
+I appreciate the amount at stake here for Mr Q who explains that his financial position was 
+difficult when he was furloughed and then lost his employment. I know he has strong feelings 
+about what happened. But Im afraid that I find for the reasons Ive given that on balance he 
+authorised the payment that was debited to his account. And so, I dont have a basis to find 
+that Barclays should take any further action and refund this money to him.
+My final decision
+My decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr Q to accept or 
+reject my decision before 15 December 2021.
+ 
+Michael Crewe
+Ombudsman

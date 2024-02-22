@@ -1,0 +1,155 @@
+DRN-2897883
+The complaint
+The trustees of T, a registered charity, complain that Barclays Bank UK PLC has declined to 
+refund the money lost when T fell victim to an APP scam. T is represented by its finance 
+manager, Mrs L.
+What happened
+The background to this complaint is well known to both parties and I wont repeat it here in 
+detail. In brief, its not disputed that Mrs L was contacted over email by a fraudster 
+impersonating Ts chief executive and asking her to make a payment.
+Ts chief executive was away on business at the time. The fraudster, presumably by means 
+of intercepting Ts email communications, was aware of a legitimate payment due from T to 
+another organisation. The email asked for a corresponding payment of £6,328.50 to be sent 
+to a new set of account details. 
+Mrs L checked the requested payment against Ts list of expected payments, confirming it 
+matched a genuine payment that was due. She says it is not unusual for Ts payments to be 
+sent to more than one recipient account, rather that is reasonably typical for T. So she says 
+she had no concerns about this payment being to a new payee. Mrs L made the payment by 
+CHAPS through Ts online banking facility.
+The scam came to light a few days later when a further payment request was received by 
+Mrs L - this time not corresponding to an expected payment. T notified Barclays of the scam. 
+Barclays in turn attempted to recover the funds from the recipient account, but unfortunately 
+none remained.
+Barclays is a signatory of the Lending Standards Board Contingent Reimbursement Model 
+CRM Code which requires firms to reimburse customers who have been the victims of APP 
+scams like this in all but a limited number of circumstances. Barclays says one or more of 
+those exceptions applies in this case. On that basis, Barclays has declined to provide any 
+refund to T.
+One of our investigators looked into Ts subsequent complaint. The investigator didnt think 
+Barclays had established it could rely on the exceptions to reimbursement given in the CRM 
+Code in this instance. 
+Specifically, the investigator didnt find that Barclays had provided an effective warning, or 
+that Mrs L, on behalf of T, lacked a reasonable basis of belief when making the payment. 
+The investigator also noted that Ts internal processes for payment approval appeared to 
+have been followed when the payment was made. The investigator recommended the 
+complaint be upheld and the payment refunded in full.
+Barclays disagreed with the investigators findings. I have therefore been asked to reach a 
+final decision on the matter.
+  
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I am satisfied that:
+Under the terms of the CRM Code, Barclays should have fully refunded the money T 
+lost. I am not persuaded any of the permitted exceptions to reimbursement apply in 
+the circumstances of this case.
+In the circumstances, Barclays should fairly and reasonably refund the money T lost, 
+less any sums already recovered and refunded.
+The money was taken from Ts business current account and Im satisfied T has 
+been deprived of money it would otherwise have paid to the intended organisation. 
+So Barclays should also pay interest on the money it should have refunded at 8% 
+simple per year from the date Barclays originally declined Ts claim under the CRM 
+Code until the date of settlement.
+I have carefully considered Barclays representations about the reasons it believes it has 
+been able to establish that one or more of the exceptions to reimbursement under the CRM 
+Code can fairly be applied here. But they do not persuade me to reach a different view. In 
+particular I am not persuaded that T failed to take the requisite level of care required for 
+Barclays to choose not to reimburse under the terms of the CRM Code.
+Did T fail to follow its own internal procedures for approval of payments?
+A potential exception to reimbursement can apply where the customer is a micro-enterprise 
+or charity (as is the case here). This exception to reimbursement requires that the customer:
+did not follow its own internal procedures for approval of payments, 
+and those procedures would have been effective in preventing the APP scam. 
+[my emphasis added] 
+I believe the intent here is to catch situations where a customer has failed to follow its 
+procedures and where it can also be established that this failure was material to the success 
+of the scam. There are two parts to the test, and both must be established to show the 
+exception can be applied. In other words, that the procedures were not followed and, further, 
+that the failure to follow those procedures was material.
+T states that its own internal procedures were followed here  the payment request being 
+validated against a database of payments due. Barclays does not appear to be disputing 
+this. Given the evidence Ive been provided, Im not satisfied Barclays has established the 
+first part here  on balance I am persuaded T did follow its own internal procedures. 
+In itself, this is sufficient for me to find that Barclays cannot fairly apply this exception. 
+For completeness however I have gone on to consider Barclays further representations 
+here. Barclays argues that Ts procedures were not adequate to prevent this type of scam. 
+Now, even were I to agree with Barclays on that point, that would lead to the conclusion that 
+the second element of the exception test is not met. Neither part of the test would therefore 
+be met (and the exception requires both parts to be established). So, Barclays argument 
+here does not alter my finding. Barclays has not established it can fairly apply this exception 
+to reimbursement under the CRM Code.
+For the avoidance of doubt, even were I to find those internal procedures were in some way 
+defective  perhaps in not anticipating this type of scam - the evidence here doesnt persuade me that Barclays could fairly establish the separate exception to reimbursement 
+relating to gross negligence.
+Did T ignore an effective warning given by Barclays in compliance with the CRM Code?
+Barclays says Mrs L would have seen the following when she was setting up the payment:
+"New Beneficiary. Ensure new or amended bank account details are verified independently 
+with the beneficiary, by using details held on file or confirmed verbally via a phone number 
+you know and trust before making the payment. It is your responsibility to confirm the 
+account number and sort code are correct.
+I appreciate that, in displaying this message, Barclays took steps to provide T with an 
+effective warning during this payment journey. However, despite this, Im not persuaded 
+Barclays has demonstrated that this warning message met the minimum requirements of an 
+effective warning under the CRM Code. 
+The CRM Code sets out minimum criteria that a warning must meet to be an effective 
+warning. In very broad terms, it requires that a warning will be capable of countering the 
+typical features of the generic scam type identified during the payment journey.
+The warning Barclays gave does appear directed at the prevention of invoice interception 
+scams, and as such is appropriate to the type of scam risk Barclays identified. 
+But Im not satisfied this warning did enough to counter such a scam risk. I dont consider it 
+would bring to life what this type of scam might look like or outline how fraudsters carry out 
+or go about such a scam. It could for example have explained that fraudsters often gain 
+access to and monitor email accounts so as to impersonate someone and send emails from 
+their email address (or similar).
+I dont find the warning sufficient to make the nature of that scam risk apparent to a typical 
+customer (including a microenterprise or charity) or give them enough information to allow 
+the practical assessment of the level of that risk in a specific transaction.
+I also dont consider the warning text would help a typical customer understand why reliance 
+on some forms of communication would not mitigate the risk in the way they might otherwise 
+believe (given most such scams involve compromises of communication, most commonly 
+email).
+In short, the warning fails to get across in an impactful way what an incipient risk of this type 
+would look like for a customer who hasnt already recognised the scam they may be falling 
+victim to.
+Im also mindful that in order for the warning to meet the CRM Codes minimum 
+requirements of an effective warning it should clearly set out the consequences of not 
+taking the suggested steps in the warning. I dont find the warning given makes this 
+sufficiently clear: for example setting out that the transaction will be irrevocable, and that if it 
+proves not to be legitimate this will likely mean the funds cannot be recovered. So Im not 
+satisfied Barclays warning met the requisite criteria here either.
+Overall, I dont consider the warning given was an effective warning as defined by the CRM 
+Code. It follows that Barclays has not established it can fairly apply the exception to 
+reimbursement relating to ignoring an effective warning. Has Barclays established that T made the payment without a reasonable basis for belief?
+In addition, Im not satisfied Barclays has established that T lacked a reasonable basis for 
+belief when making this payment. I say this because:
+- The payee details were provided in email correspondence appearing to have 
+originated with the CEO of T. In placing her reliance on that email correspondence, 
+Im satisfied Mrs L wasnt aware of the real risk it might not be genuine. Im also 
+satisfied that Barclays warning did not make her aware of that specific risk. I dont 
+think it was therefore unreasonable for Mrs L, when making this payment, to have 
+believed she was sending payment to the intended payee on the instructions of the 
+CEO of T;
+- It further appears the payment request matched an anticipated payment in amount 
+and payee  again making it not unreasonable for Mrs L to have believed this was a 
+legitimate request;
+- While there were some grammatical errors in the correspondence, email is inherently 
+an informal means of communication. I dont find these minor errors sufficient to 
+persuade me that Mrs L should reasonably have had concerns about its validity.
+- Im satisfied that Mrs L had no other reason to find the payment request unusual or 
+otherwise concerning. I consider that Mrs L acted reasonably in believing this to be a 
+legitimate payment request.
+To conclude, Im satisfied that Barclays should have reimbursed the money T lost under the 
+terms of the CRM Code. I am not satisfied that any of the permitted exceptions to 
+reimbursement apply in the circumstances of this case.
+My final decision
+For the reasons outlined above, Ive decided it is fair and reasonable to uphold Ts complaint 
+about Barclays Bank UK PLC. I therefore require Barclays Bank UK PLC to pay T:
+The balance of the money lost through this scam, being the sum of £6328.50 less 
+any sums already reimbursed or otherwise refunded; and,
+8% simple interest per year on that amount, calculated from the date Barclays 
+originally declined Ts claim under the CRM Code until the date of settlement.
+Under the rules of the Financial Ombudsman Service, Im required to ask T to accept or 
+reject my decision before 7 December 2021.
+ 
+Stephen Dickie
+Ombudsman

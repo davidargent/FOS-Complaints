@@ -1,0 +1,392 @@
+DRN-2820452
+The complaint
+Mr M says Swissquote Ltd (SL) is responsible for financial losses that resulted from an 
+erroneous trade (or the trade) in his account on 13 May 2020 (13 May) caused by a fault in 
+SLs platform, leading to an equally faulty correction by SL and to his losses.
+SL concedes that the trade was wrongly executed (and should not have been executed) 
+because of a fault in its platform. It says the fault was fixed, that corrections to the account 
+were agreed by Mr M and applied, that they were not faulty corrections and that he suffered 
+no financial loss. 
+What happened
+One of our investigators looked into the matter. Initially, she addressed a concern that SL 
+held about our jurisdiction over the complaint and about Mr Ms eligibility as a complainant. 
+Its concern was addressed, and that issue was resolved. In the course of addressing the 
+merits of the complaint, the investigator identified that its crux is not in dispute and has been 
+accepted by SL, so she considered that the main issue to determine is redress for any 
+financial loss Mr M incurred (and the dispute between the parties in this respect). In the 
+main, she found the background facts as follows:
+The trade on 13 May was in the GBP/CHF pair and was supposed to be in the size of 
+0.05 LOT. Instead it was executed at the size of 5 LOTS. It is not clear how 0.05 
+turned into 5, but it is clear that SLs platform wrongly executed it, because a fault 
+within it meant it calculated Available Margin (AM) wrongly  it calculated it as 
+Balance (B) minus Required Margin (RM) instead of Equity (E) minus RM, and 
+had its calculation been based on the latter (which was the correct approach) the 
+trade would not have been executed because there would have been insufficient AM 
+to do so.
+Execution of the trade had the immediate effect of reducing AM in Mr Ms account, 
+which led to automatic margin breach close-outs of some of the open trades he had 
+in the account. He noticed the trade and its effects in the account and he contacted 
+SL. He also set out to mitigate the effects by closing some trades that remained 
+opened and by cancelling some pending orders. His mitigation conduct in this 
+respect was reasonable as it was important to re-balance the account and avoid 
+further loss after the events. Evidence in the end-of-day statement of account for 13 
+May shows that he was broadly successful in his conduct and that he closed most of 
+the open positions in profit.
+On 14 May 2020 (14 May) SL agreed to apply corrections to the matter, by voiding 
+the 5 LOTS trade, by restoring the trades that were closed-out as part of the margin 
+breach close-outs triggered by execution of the 5 LOTS trade and by adjusting the 
+accounts B to reflect the corrections that were made. In order to do this, it 
+temporarily applied (and then withdrew) 50,000 EUR to the account to provide 
+enough temporary AM to carry out the corrections. Upon completion of the 
+corrections and withdrawal of this temporary deposit, the account experienced a 
+second phase of margin breach close-outs.
+Initially, the investigator concluded that, despite the corrections, there had been a financial 
+loss to Mr M (a significant loss in his accounts B). She considered that the second phase of 
+close-outs, SLs failure to keep Mr M updated on its correction work despite his requests for 
+updates and its failure to give him notice of completion and notice that he could resume 
+trading in the account (after it blocked him from doing so whilst the corrections were 
+ongoing) were parts of the basis to find such loss. She also considered the compounded 
+effect of the loss to date and set out her view on how Mr M should be compensated for this  
+in addition to a payment to him in the EUR equivalent of £250 for the trouble and upset the 
+matter had caused him.
+SL agreed with the trouble and upset award proposed by the investigator. However, it 
+disputed her initial conclusion on redress and on the existence of a financial loss. It invited 
+her to consider what it viewed as relevant clarifications about the state of Mr Ms account, 
+before and after the corrections; and about its offer to him, which he declined, to repeat the 
+corrections for a second time after the second phase of close-outs in order to address that 
+too.
+SL submitted mainly as follows:
+The investigator misguided herself by basing her assessment of a financial loss on 
+the closing B in Mr Ms account on 12 May 2020 (12 May) being around 37,000 
+EUR and then most of that B being lost thereafter despite the corrections. 
+[In this respect, SL provided account statement information showing the closing B for 
+13 May at around 2,100 EUR and that for 14 May at around 9,800 EUR; but it said 
+this did not define value (retained or lost) in the account.]
+Even though the closing B for 12 May was as it was (around 37,000 EUR) the closing 
+floating profit/loss (P/L) position in the account on the same date was around -
+34,800 EUR, which is why closing E in the account for the date (E being B plus or 
+minus P/L) was around 2,200 EUR. This  the E  was the true value of the account 
+and consideration of B alone wrongly neglects the accounts net P/L position, which 
+cannot be ignored. Closing E in the account on 13 May was the same as the closing 
+B (around 2,100 EUR. Closing E on 14 May was just over 2,000 EUR. This shows 
+that overall, the state of E in Mr Ms account before, during and after the erroneous 
+trade and corrections was broadly around the same level; and it is the accounts E 
+that shows its value, so there was negligible loss (due to market movements) in this 
+respect and none caused by the corrections.
+The above explains why SL had to apply (and then withdraw) the temporary 50,000 
+EUR deposit on 14 May. But for that, the account had insufficient E (just over 2,000 
+EUR) at the time to sustain the restoration of trades that had floating P/L of around -
+34,800 EUR.
+SLs corrections put Mr Ms account back to the state it was prior to the trade that 
+was wrongly executed. It accepts that after the corrections Mr M was not in a 
+position, and would not have had the time, to take any action in order to avoid the 
+second phase of close-outs on 14 May. However, this second phase had nothing to 
+do with its corrections. The relevant markets that he was trading in had already 
+moved against his trades on 12 May, hence the negative P/L position at closing on 
+that day; in addition, Mr M had opened new trades after the first phase of close-outs 
+which had reduced E capacity in the account. The first phase of close-outs, triggered 
+by the wrongly executed trade, crystalised that total loss on 13 May. However, the corrections on 14 May returned that total loss to floating status because the relevant 
+trades were restored as agreed. The markets for those trades moved further against 
+them after they were restored and the account had insufficient E to cope with that, 
+hence the triggering of the second phase of close-outs. 
+SLs corrections had nothing to do with Mr Ms sole contractual responsibility to keep 
+his account properly funded and to maintain E and AM required to sustain his trades. 
+Nevertheless, and in discussions with him after the second phase, it made another 
+offer to him to try to resolve the second phase of close-outs. It gave him the option of 
+having another corrections exercise, essentially a repeat of the first exercise but this 
+time with him required to fund the account in order to have enough E/AM to maintain 
+the re-opened positions after the corrections. He declined this offer.
+Overall, the investigator was persuaded by what she considered key points in SLs 
+submissions and she reversed her view about the existence of a financial loss. She 
+essentially concluded that there had been no notable loss to Mr M, caused by SL or by its 
+corrections, and that he should receive only the award for trouble and upset (which she 
+increased to the EUR equivalent of £550). He strongly disagreed with this outcome and 
+maintained he had incurred a financial loss at the time and continuing losses to date, in 
+terms of the compounding effects of his initial loss and the values of lost trading 
+opportunities that have resulted and continued from that. The investigator stressed that she 
+had discussed the matter with him and had invited him to show the financial loss he claims, 
+but he had not done so. 
+Mr M made a number of submissions in response to the investigators revised views. He 
+made references to some past issues he had with SL/his account and some ongoing issues 
+he was having with the account. In response, the investigator clarified that these matters 
+have not been presented as part of the complaint to SL (and the complaint referred to this 
+service) so she is not in a position to make any findings on them. In the main, and directly 
+related to the complaint, his submissions said as follows:
+SL should explain the error that caused his 0.05 LOT trade to transform into a 5 
+LOTS trade.
+Nothing in SLs submissions substantiates why it considers  the net profit / 
+balance / active P/L that was lost, not a loss.
+Crystallisation of floating P/L was a matter for him to determine as the account 
+holder/trader. SLs actions deprived him of his right to determine this and deprived 
+him the opportunity to apply his trading strategy to the floating P/L issue.
+Contrary to the investigators view and SLs claim, there was time after the 
+corrections for him to rebalance the account to avoid another phase of close-outs. 
+The problem is that SL did not give him notice that it had completed the corrections 
+and notice that the block on him trading had been lifted. All he needed to do, based 
+on his longstanding trading strategy, was to make one particular transaction and the 
+account would have been rebalanced, but lack of notice from SL prevented that. 
+With regards to the matter of financial loss, he was  cut almost 38.000 EUR in 
+balance / PnL that was worked hardly for. Almost 28.000 EUR are net profits made. 
+[It can be seen] in the statement that the actual gross profit was over 44.000 EUR 
+and some losses as well. The losses represent technical closings done by the trader. 
+There was a plan and a strategy very well applied and [he] got cut off in the middle of 
+the way. This service should obtain expert/technical input from a professional trader if we do not understand his case for financial loss.
+Mr M summarised the history of his trading in the account and of his trading strategy as 
+background for the above assertions; with emphasis on a long term trading strategy that he 
+says the event of 13 May disrupted; a strategy that he says had made gains up to the event 
+(that could be verified in his account statements) and that would have made even more 
+gains but for the event; and, he says, those lost gains are a significant part of the financial 
+loss he claims. In addition, he submitted a document in which he set out the calculation of a 
+24,502.69 EUR E value loss (from gains made on 11 May 2020 (11 May)), caused by the 
+events on 13/14 May and based on the following state of the account on 11 May  total B of 
+36,766.08 EUR and E of 2,050.73 EUR. He attached his account statement from 11 May for 
+this purpose.
+Mr M also made what appears to be a settlement proposal, which he set out as follows: 
+I would be happy, provided this would be a solution, to recuperate my account with all the 
+opened positions found on GBP/USD on 13th of May 2020, with the mention that the other 
+three pairs, GBP/AUD, GBP/CAD, GBP/CHF are restored as balance only. They were 
+already eliminated once through the effort of my work so far, and the help of the 10000 EUR 
+balance with about 1500 EUR E. This information can be found in the already offered 
+documentation. 
+If this would be the case, to prevent overlapping with other positions, I suggest opening a 
+separate account number in which SQUK would reopen the transactions found on the 
+GBP/USD pair, and the E value of 24502.69 EUR as I described above. The account with 
+the number  should remain as it is since it represent the defective reopening of SQUK as 
+well as my work and investments with the achieved goal of eliminating the other 3 currency 
+pairs.
+The matter was referred to an ombudsman.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+These are my findings:
+Responsibility for the platform error that allowed execution of the trade has been 
+accepted by SL. There is also an explanation about how that error happened  the 
+platform wrongly calculated AM based on B instead of E, had it done the opposite 
+there would have been insufficient E in the account to support the trade and it would 
+not have been executed. There is sufficient evidence from Mr Ms submissions that 
+he was not misguided in any way by any of this  it appears that he suspected there 
+was a likely error in this calculation as he noticed the executed trade. It is reasonably 
+clear that he knew the true state of his account at the time, so the notion that he was 
+misled on the capacity of his account does not stand and is not relevant to the case. I 
+do not say or suggest that he has claimed this  he does not appear to have done 
+that  but I consider it noteworthy that there was no misunderstanding about the true 
+state and capacity of his account prior to the trade.
+He says there should be an explanation of how the trade he placed for 0.05 LOT 
+transformed to one for 5 LOTS. In the context of this decision, I do not consider this 
+to be relevant. The responsibilities for the event on 13 May (that is, the trade that was 
+executed) and for the corrections made on 14 May are not in dispute and have been accepted by SL, so the only matters to address are whether (or not) SLs overall 
+conduct in correcting the trade (and its effects), including the offers it made in this 
+regard, was fair and reasonable; and, if not, how Mr M should be compensated for 
+any failure(s) on its part and for any proven financial loss he incurred; and, even if 
+SLs conduct was fair and reasonable, whether (or not) there are still matters 
+(including any proven financial loss) for which Mr M should be compensated. These 
+are the outstanding complaint issues. The explanation Mr M seeks about the 
+transformation he has referred to has no potential to play a role in these 
+considerations, so I do not need that explanation to determine his complaint.
+Like the investigator said, the matters Mr M has raised about historical and allegedly 
+ongoing issues with SL and/or his account are beyond the scope of the complaint he 
+presented to SL and referred to us  so they are beyond the remit of this decision.
+At this stage of our process  that is, the ombudsmans decision stage, which Mr M 
+expressly asked for  the task is to determine a complaint and issue a decision. It is 
+not to mediate settlement. I note the settlement proposal that he has set out (as 
+quoted above). However, unless there is a finding of financial loss in his case and, if 
+so, unless contents of his proposal are relevant to that finding (and/or to redress for 
+any such loss), the proposal will not be addressed.
+The effects of the trade on 13 May (with relevant reference(s) to the state of the 
+account previously), of the corrections on 14 May, of the events in between and of 
+the events subsequent to the corrections are mainly set out in undisputable 
+documentary evidence of the activities in Mr Ms trading account. This body of 
+evidence is as it is and will be considered as it is. I appreciate that both parties have 
+offered explanations to guide this service in interpreting the evidence and, where 
+necessary and relevant, such guidance will be taken in this decision  but where no 
+interpretation is needed (where the account statements are clear) none will be sought 
+or taken. 
+A first step is to establish the facts surrounding the complaint related events, and I 
+consider that this primarily relates to activities in the account between 12 May (the 
+day before the erroneous trade was executed) and 14 May (the day of the 
+corrections and of the second phase of close-outs). As Mr M has made specific 
+submissions on his account on 11 May I am prepared to extend the period for my 
+consideration to begin on this date. He has also made more general submissions 
+about his trading activities up to 90 days before the event (and, it appears, even up to 
+the inception of the account). If my requisite considerations lead me in this direction I 
+will follow, otherwise I do not consider that treatment of the outstanding complaint 
+issues that I summarised above is about analysing months of Mr Ms trading prior to 
+the event.
+The account statement ending 11 May confirms that the account at 22:59 hours on 
+this date had B of 36,832.52 EUR (including a positive crystallised P/L of 66.44 
+EUR), a negative floating (uncrystallised) P/L of -34,711.64 EUR and E of 2,120.88 
+EUR. This does not match Mr Ms description of an E value/gain of 24,502.69 EUR 
+on 11 May that was subsequently lost because of the events on 13/14 May. If his 
+description relates to an intra-day state of the account that is not clear and, in any 
+case, I consider that for the purposes of addressing the outstanding complaint issues 
+and, in particular, considering the impact (if any) of the events from 13 May onwards 
+compared to how the account previously was, it is the closing state of the account on 
+11 May (and on 12 May), prior to the events on 13 May, that is important. There is no 
+allegation that SL is responsible for any events prior to 13 May.At close on 12 May, the account had B of 36,951.93 EUR (including crystallised 
+profits of 119.41 EUR), a negative floating P/L of -34,764.43 EUR and E of 2,187.50 
+EUR. At close on 13 May, the account had B of 2,113.77 EUR after crystallised 
+losses of -34,838.16, no floating P/L and 2,113.77 EUR in E. At close on 14 May, the 
+account had B of 9,752.66 EUR after crystallised losses of -27,524.30 EUR, a 
+negative floating P/L of -7,723.82 EUR and E of 2,028.80 EUR. 
+The above supports SLs argument about the true state of, and true value in, Mr Ms 
+account during these dates. I do not accept any part of Mr Ms submissions that says 
+or suggests that value in, or lost from, his account is defined by anything other than 
+the E in the account. The E value is the figure that reflects the full picture of the 
+account whereby the B (inclusive of cash and any net crystallised P/L) and the 
+floating P/L (which inevitably impacts upon B at all times up to crystallisation) are 
+both taken into account. I also do not accept any claim or suggestion that the 
+significant floating net loss at close on 12 May, which was broadly around the same 
+level as it was at close on 11 May, did not play a role in the events thereafter. It did 
+and, as SL says, it was a significant net floating loss that pre-existed, and had 
+nothing to do with, its responsibilities on 13 May and 14 May. 
+The event on 13 May happened and Mr M mitigated its effects on his account on this 
+date as the investigator summarised. SLs corrections happened on 14 May. It is not 
+disputed that it cancelled the erroneous 5 LOTS trade, so that was a valid and fair 
+correction. The trades that were closed out because of the margin breach caused by 
+the 5 LOTS trade were restored, as agreed with Mr M. This too was a valid and fair 
+correction. SLs use of the temporary 50,000 EUR deposit does not appear to be  
+and should not be  controversial, its purpose was reasonably based on the need to 
+carry out the corrections with enough E (bolstered by the temporarily deposited cash) 
+to avoid triggering a close-out in the course of the corrections.
+SL was wrong in its failure to update Mr M on its correction activities and in its failure 
+to give him notice once that was completed. Particularly so because there is 
+evidence that it told him he could not trade in the account during the process and 
+because there is also evidence of him chasing SL for such updates and notice 
+(without response from SL). It still needs to be established that, as alleged, this led to 
+a loss and I address this later. First, and in this context, I can see how the part of 
+SLs argument that says or suggests Mr M had an overarching contractual 
+responsibility during this period to manage his [execution-only] account could be 
+perceived as unfair, given that he was told by SL not to trade in the account during 
+this period. However, as I address next, in a wider context the argument seems more 
+evenly balanced.
+Given the notable weight that Mr M has given to what appears to have been a tried 
+and tested trading strategy he used and abided by diligently, and his evidence that 
+revenue from his trading sustained his livelihood, it is reasonable to conclude that he 
+was up-to-date and well informed about his trading and that he would have known 
+there was a potential problem to manage in the significant negative floating P/L on 11 
+May and 12 May. That potential problem was not just limited to how the markets for 
+the relevant trades could move against them and what impact that would have on the 
+floating P/L position in the account, it also extended to consideration of whether (or 
+not) there was enough E and AM to sustain them (and to help them survive any 
+negative movements in the accounts floating P/L status). It appears to be SLs point 
+ or, if not, it is a reasonable point nevertheless  that it was for Mr M to have been 
+managing this potential problem prior to the events on 13 May (which, I gather from the gist of what he has said, he seems to have been doing); and that as he 
+negotiated the corrections with SL on 14 May he ought reasonably to have been 
+mindful about continuing to do this and mindful of the need to ensure there was 
+enough E (and AM) in the account after the corrections to maintain the trades. I am 
+not persuaded that this was something SL should have foreseen for him  it could 
+have, but in the circumstances of this case, I am not convinced that it was obliged to. 
+It was his responsibility to manage his trades, he knew about their history (including 
+their place/role in the overall trading strategy he has referred to) and the significant 
+negative floating P/L issue, and he would have known what could potentially happen 
+to them after restoration. At the very least, I consider that he should have raised and 
+resolved all this with SL as part of the corrections arrangement and, arguably, should 
+have funded the account with cash as part of the overall corrections exercise, in 
+order to ensure there was enough E (and AM) capacity for the restored trades after 
+the corrections. He knew the trades, he knew they would be restored after the 
+corrections, he knew they carried a pre-existing negative net floating P/L position and 
+he knew this would become a live issue immediately after restoration, so he should 
+have planned ahead for this before the corrections began. 
+Mr M has not established that he did the above.
+Mr Ms counter argument will be that he could have managed the matter after the 
+corrections if he was given the updates and notice from SL at the time that he did not 
+get. The problem that ensued at the time appears to be clear from the account 
+statements. At 15:00:34 hours the temporary 50,000 EUR deposit was withdrawn 
+and that seems to have marked the end of the corrections exercise. The markets for 
+some of the restored trades moved against them and from around 15:03 hours the 
+second phase of close-outs began  and continued up to around 15:26 hours. Mr Ms 
+argument will be that the three minutes in between correction and close-out would 
+have been enough for him to rebalance the account, but instead he continued to wait 
+for a response from SL thereafter before he took the initiative to resume trading in the 
+account, at which point the damage had been done. 
+His argument therefore rests on the notion of trading his way out of the risk of the 
+second phase of close-outs, whereas my consideration relates to the notion of trying 
+to avoid taking that risk (or reducing that risk). I consider the latter to be more 
+relevant than the former because, as set out above, there was time and opportunity 
+to do it as part of the corrections arrangement. It is also not clear precisely how Mr M 
+would have traded his way out of the risk or if three minutes would have been 
+enough time to do so. He says all that was needed was one transaction. However, he 
+would have had, at or around 15:00:34 hours on 14 May, an account with E (and 
+potentially AM) of around 2,000 EUR, restored trades with around 35,000 EUR in net 
+floating losses and markets for some or many of those trades moving, overall, 
+against them. With a substantial negative floating P/L about to trigger another phase 
+of close-outs the options would arguably have been limited  being, mainly, to fund 
+the account and feed E (and AM) or to close trades and hopefully ease pressure on 
+E (and AM). He has not claimed that he tried to fund, but was prevented from 
+funding, the account, and the opening of new trades would seem unlikely as that 
+would risk consuming more E and bringing forward a margin breach and close-outs. 
+It is possible that Mr Ms strategy, perhaps starting with the one transaction he has 
+referred to, would have begun with closure of a trade(s) (to ease pressure) and then 
+followed with other actions but I do not have enough evidence to draw conclusions 
+on that. In contrast, I have evidence supporting the conclusion that, on balance and 
+primarily, he should have forward planned his management of the restored trades 
+before they were restored and within the corrections arrangement, and that should 
+have been done by funding the account.This finding lends itself to my consideration of the fact that SL subsequently offered 
+Mr M a repeat of the corrections exercise and this time SL was the one that proposed 
+funding of the account for the reasons I have addressed above. Unreasonably, I 
+consider, he declined this offer and he says he viewed it as a form of an elaborate 
+scam. He made the following counter proposal at the time  
+The investigator expressed some understanding about how he felt about the matter 
+at the time, but she concluded that the rationale behind his decision (to decline the 
+offer) is unclear. I too can understand Mr M would have been unhappy with events at 
+the time, but this was a proposal to fund his own account for the sake of having safer 
+terms for the restoration of his own trades, so potential for a scam does not appear to 
+have existed. SLs good faith in trying to repair the matter had already been tested 
+(and shown) in the corrections exercise (and its use of the temporary 50,000 EUR 
+deposit) it had conducted. It is not clear why Mr M mistrusted SL in this proposal and 
+not clear that he was reasonable in doing so. On balance, he should have accepted 
+the proposal and he cannot reasonably blame SL for the effects of not doing so. It 
+also appears that it was his counter proposal that was unduly elaborate, it seems to 
+have gone beyond the corrections that were fair and necessary and I am not 
+persuaded that it was a reasonable counter proposal.
+It follows from the above that, on balance, I do not consider it reasonable to hold SL 
+responsible for the aftermath of the corrections exercise. I also consider the exercise 
+to have been a fair response from SL and that, in strict terms, it corrected the 
+erroneous trade of 13 May and the close-outs caused by that trade and adjusted the 
+account to reflect both. 
+Mr M has made submissions about how the events have disrupted progress in his 
+pre-existing and long-term trading strategy from when they happened to date. I do 
+not explore this further because even if his submissions about a disruption are 
+correct, the findings above mean SL cannot reasonably be held responsible for that. 
+First, as the investigator said, the corrections (in isolation) did not lose him money. 
+As summarised above, his accounts E  and therefore its true value to him  on 11, 
+12, 13 and 14 May (that is, before and after the corrections) remained roughly around 
+the same level and the slight differences were caused mainly by market movements 
+the account was exposed to. In addition, there is of course the matter of the close-
+outs on 13 May and I understand Mr Ms argument that crystallising floating P/L 
+should be at his discretion as the trader, but he is aware that such a right is also 
+subject to legitimate (and automatic) close-outs in the account. What happened on 
+13 May was not a legitimate set of close-outs, but SL already conceded that at the 
+time and repaired them, so it was an error that was fixed and it was not a case of SL 
+intentionally depriving Mr M of his rights as a trader. The second point is that the 
+account was restored, as the comparisons between 11 and 14 May show. The 
+second phase of close-outs happened. I am not persuaded that SL was to blame for 
+that, but even I am wrong in that finding  which, on balance, I do not consider I am  
+and even if SL was to blame for that, SL proposed another set of corrections (on 
+safer terms) to repair the second phase of close-outs too. That was reasonable, but 
+Mr M unreasonably declined the offer. Overall and on balance, the account was 
+restored on 14 May, that would have corrected any disruption to the trading strategy 
+caused by the events of 13 May and any disruption that happened after the 
+restoration was not SLs responsibility.
+Having said all the above, I too acknowledge that Mr M faced trouble, upset and 
+inconvenience in the matter. The issue about transformation of the trade from 0.05 
+LOT to 5 LOTS is not clear, but it is clear his experience in the case could have been 
+avoided, but for the platforms error in executing the trade. In this respect, and 
+including the upset caused by SLs failure to update him during the corrections 
+process, he should be compensated for the trouble, upset and inconvenience he 
+experienced. I consider this should also be done in the context of SL resolving the 
+matter a day after it happened, so the effects of the part of the experience caused by 
+SL were not unduly prolonged. Overall, I agree with the investigators proposal that 
+Mr M should be awarded the EUR equivalent of £550 for this.
+Putting things right
+For the trouble, upset and inconvenience caused to Mr M, SL must pay him the EUR 
+equivalent of £550. 
+My final decision
+For the reasons given above, I uphold Mr Ms complaint but only with regards to the trouble, 
+upset and inconvenience that the subject of the complaint caused him. I order Swissquote 
+Ltd to pay him the EUR equivalent of £550 for this.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr M to accept or 
+reject my decision before 14 January 2022.
+ 
+Roy Kuku
+Ombudsman

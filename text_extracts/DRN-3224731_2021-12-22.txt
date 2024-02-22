@@ -1,0 +1,199 @@
+DRN-3224731
+The complaint
+Mrs C complains Omni Capital Retail Finance Limited (Omni) wont honour a section 75 
+claim shes made.
+What happened
+I issued a provisional decision on Mrs Cs case on 3 December 2021, which described the 
+background to this complaint, and the findings I was minded to make, in detail. The 
+complaint was about some furniture Mrs C had bought using a point of sale loan agreement 
+from Omni. Ive included the relevant part of my provisional decision describing the 
+background below:
+Mrs C bought a dining table, six chairs, a bed and a mattress from a shop Ill call H, 
+costing £1,350. She paid a deposit of £150 and H arranged a loan for her with Omni to 
+pay for the rest, under which she was expected to make 12 payments of £100.
+There were some problems with the items. Mrs C says the bed was broken on delivery 
+and the mattress was also defective. H promised to sort things out, but it didnt and 
+then it ceased trading, leaving Mrs C with the broken items and an outstanding loan 
+with Omni.
+Mrs C contacted Omni as she believed it was jointly liable with H for the quality of the 
+bed and mattress, under section 75 of the Consumer Credit Act 1974 (CCA). Omni 
+didnt agree that it was liable. It explained that the loan agreement wasnt for a 
+purchase from H, it was for a purchase from another company (R). This meant the 
+necessary debtor-creditor- supplier (DCS) agreement wasnt in place for Mrs C to be 
+able to make a claim against Omni under section 75.
+Unhappy with this response, Mrs C complained and referred her complaint to this 
+service for an independent assessment. There was initially a question over whether 
+the Financial Ombudsman Service had the jurisdiction to look into a complaint about 
+this particular loan. This issue was resolved when Omni accepted the loan was of a 
+type this service could consider complaints about.
+Our investigator had upheld the complaint, having concluded the necessary DCS agreement 
+was likely in place. I hadnt agreed, and carried out an analysis of section 75 of the CCA and 
+the technical requirements for it to apply in a given scenario. 
+I concluded that for a valid DCS agreement to be in place in a situation where a consumer 
+had purchased goods from a company which was not the company whose name appeared 
+on the credit agreement as the supplier, the two companies would need to be associates, 
+or the contractual arrangements between them would need to be such that pre-existing 
+arrangements should be said to be in place between the creditor and the true supplier of the 
+goods:
+When someone buys goods or services using a point of sale loan such as the one 
+provided by Omni here, section 75 of the CCA gives a legal right for that person to 
+claim against the lender in respect of breaches of contract or misrepresentations by 
+the supplier of the goods or services, so long as certain technical conditions have been 
+met.
+One of the technical conditions is the need for there to be a valid DCS agreement in 
+place. While it is a technical term, what it means in practice is that in order to be able 
+to make a successful section 75 claim, the borrower needs to have used the loan to 
+pay the same company which it says has misrepresented something to them, or 
+breached its contract with them.
+It isnt quite as simple as that however, as section 75 is connected to several other 
+provisions of the CCA which help to bring about an understanding of just what is 
+meant by the DCS link and certain scenarios where it might not matter that the 
+company paid by the loan is not the same as the company which the complainant has 
+a contract with. These include sections 11(1)(b), 12(b), 184, and 187. Rather than 
+quote all these sections in this decision, I will summarise the effect they have:
+In order for a person to be able to bring a claim against their lender under section 75, 
+the loan needs to have financed a transaction between them and a supplier. There 
+also need to have been pre-existing arrangements between the lender and the 
+supplier. Finally, the person needs to have a claim against the supplier in respect of a 
+misrepresentation or a breach of contract.
+The problem with having the loan arranged by and paid to someone other than the 
+supplier, is that the lender may not have pre-existing arrangements with the supplier. It 
+will certainly have pre-existing arrangements with the company which arranged the 
+loan and was paid the funds. But the lack of any pre-existing arrangements with the 
+supplier means a valid DCS agreement wont be in place and a successful section 75 
+claim therefore cant be made.
+There are, however, some exceptions. If the supplier and the company which was paid 
+the loan funds are associates as defined in section 184 of the CCA, then it doesnt 
+matter which one of them was paid the loan funds. They are treated as being 
+interchangeable. The definition of associates is complicated, but in most cases two 
+companies will be associates if they are controlled by the same people, or by people 
+who are themselves associates of one another. People are associates of one anther if 
+they are relatives or if they are in partnership. A person controls a company if they 
+are a person whose instructions will normally be followed by the officers of the 
+company, or if they are entitled to exercise a third or more of voting power at any 
+general meeting of the company. Typically this would include company directors and 
+major shareholders.
+Another exception was identified in the case of Bank of Scotland v. Alfred Truman 
+[2005] EWHC 583 QB. Although this case involved credit card transactions rather than 
+loans, it set out some important and relevant principles.
+The case concerned a firm of solicitors who had a motor trader as a client. The 
+solicitors took credit card payments from customers of the motor trader, which had no 
+facility to take such payments itself, as deposits for cars which they had ordered. The 
+court found that the contractual arrangements between the motor trader and the 
+solicitors were adequate to link the motor trader to the card scheme through the 
+transactions processed via the solicitors credit card facilities, and therefore mean 
+there were pre-existing arrangements between them and the creditor and therefore a 
+valid DCS agreement.The judge observed in the Alfred Truman case that there were problems with 
+applying this conclusion as a general principle, and there were difficulties in 
+establishing where the line should be drawn between scenarios where pre-existing 
+arrangements should be considered to exist, and where things were too tenuous to 
+be able to draw such a conclusion. The judge went on to say that the problem would 
+need to be resolved on a case by case basis, and the precise contractual 
+arrangements between the parties would determine whether the creditor had any 
+liability under section 75.
+In a later County Court case, Marshall v. Retail Installation Services Ltd [2016], the 
+judge considered Alfred Truman in a slightly different context. In this case company A 
+had contracted with a consumer to supply and install solar panels, but an unrelated 
+company B had taken the credit card payments. The precise nature of the 
+arrangements between the companies was not known, but company A had invoiced 
+company B after the latter had taken payment. It was also established that company B 
+was the supplier of the solar panels themselves. The judge found that company B had 
+an interest in the supply and installation of the solar panels and this was sufficient for 
+pre-existing arrangements to be in place between company A and the creditor.
+The conclusion I draw from this is that, in the absence of precise knowledge of the 
+contractual arrangements between the supplier and the payee, the involvement of the 
+payee in the provision of the services under the contract between the debtor and the 
+supplier, should be sufficient for me to be able to conclude there were pre-existing 
+arrangements between the supplier and the creditor.
+I then analysed Mrs Cs particular scenario with the above findings in mind. I couldnt find 
+evidence of the company she had bought the furniture from (H) and the company whose 
+name had appeared on the credit agreement (R) being associates as defined in the CCA. 
+I found the reason why R had allowed H to use its finance facility with Omni was because H 
+had owed R money and R had found this to be a convenient way for it to be repaid. I 
+concluded Omni was unaware of this arrangement and that the agreement it had signed with 
+R for the finance facility didnt permit arrangements of this type.
+I didnt think the arrangements were analogous, or similar to, the arrangements in the case 
+law Id considered. So I didnt think an exception applied which would mean a valid DCS 
+agreement would be in place which would allow Mrs C to hold Omni liable for the problems 
+with the goods under section 75 of the CCA:
+In Mrs Cs case, the transaction financed by the loan was her purchase of goods from 
+H. This means H was the supplier for the purposes of the CCA. The loan, however, 
+named R as the credit broker and the loan funds would have been paid out to R, not H. 
+Ive thought carefully therefore about whether any of the exceptions I mentioned above 
+apply in Mrs Cs case.
+Ive examined Companies House records and have been unable to find evidence that 
+R and H were associates according to section 184 of the CCA, meaning I dont think 
+this exception applies.
+Ive also considered whether the precise arrangements between H and R would be 
+enough for me to say there were pre-existing arrangements between H and Omni.
+ 
+Our investigator thought it was likely H and R had an arrangement to sell goods, with 
+H supplying the goods and R arranging the finance for them, acting like an agent. He concluded this would be enough to say that pre-existing arrangements existed 
+between H and Omni.
+I didnt think we had enough information about what exactly the arrangements were 
+between the parties for us to reach that conclusion. I asked for more information from 
+Omni, and also from R (now in liquidation) to find out more about their relationship with 
+H.
+R explained that H had been a customer of theirs, and owed money to R for stock. R 
+had allowed H to use its finance facility with Omni as a way of paying back the money 
+it owed, so long as it could prove it had delivered the goods it had sold to consumers. 
+In other words, Hs customers were buying goods from H on finance, but the loan 
+money for the purchases went to R to pay off the debts H owed.
+Omni says it was unaware of any relationship R had with other companies. It says its 
+agreement with R didnt permit R to operate as an agent for other suppliers. Ive seen 
+a copy of the agreement and it says:
+[Omni] hereby appoints [R], acting by its Authorised Salespersons, solely and 
+exclusively for the purpose of introducing Customers to [Omni] in order to finance a 
+Customers purchase of Goods from [R].
+Ive not seen any wording elsewhere in the agreement which suggests R was 
+permitted to introduce customers to Omni for the purpose of financing purchases of 
+goods from other retailers.
+Based on the above, I feel I can draw the following conclusions:
+Firstly, the arrangement between H and R appears to have been an informal one with 
+the main purpose of discharging a debt owed by H to R, rather than enabling Hs 
+customers to pay for goods. This would appear to put some distance between it and 
+the scenario in Alfred Truman where the solicitors made a formal agreement to 
+process payments on behalf of the motor trader, as part of a package of professional 
+services it was providing to its client.
+Secondly, unlike the case of Marshall, R appears to have had no involvement at all in 
+the supply of the goods to Mrs C. R was a supplier of floor coverings, not furniture. 
+And its interest in the supply of the goods extended only to seeking proof of delivery (a 
+requirement for Omni to release the loan funds).
+Thirdly, the kind of arrangement R had with H went against the terms of Rs agreement 
+with Omni, which was intended for the financing of purchases of goods from R, not 
+anyone else.
+Armed with these conclusions, Im able to answer the question of whether pre-existing 
+arrangements should be said to exist between H and Omni, which would mean a valid 
+DCS agreement would exist for Mrs C to be able to make a successful section 75 
+claim against Omni.
+I appreciate my answer will disappoint Mrs C, but I cant conclude pre-existing 
+arrangements existed between H and Omni. The arrangements between H and R 
+were quite unlike those which the courts have decided meant pre-existing 
+arrangements existed between a creditor and supplier. And Omni had signed an 
+agreement with R which didnt allow it to make these kinds of agreements with other 
+companies. It doesnt appear fair and reasonable to say pre-existing arrangements were in place between Omni and H via R, when it had made R aware it didnt agree to 
+provide finance for purchases from other suppliers.
+ 
+Mrs C has ended up in this position through no fault of her own, and I dont lack 
+sympathy for her. She understandably didnt appreciate the potential problems which 
+could be caused by the way the goods were financed. But ultimately I dont think she 
+would have a valid claim against Omni under section 75 of the CCA. So I dont think 
+Omni was wrong to turn down her claim.
+Concluding, I said I was minded not to uphold Mrs Cs complaint and invited both parties 
+to provide me with any further submissions they wanted me to consider, by 20 December 
+2021. That date has now passed and no submissions have been received by either 
+party, so the case has been returned to me to decide.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Because neither party to the complaint has provided any new evidence, arguments or 
+comments for me to consider, I see no reason to change my provisional findings which Ive 
+set out and explained above.
+It follows that I do not think Omni was wrong to decline Mrs Cs section 75 claim.
+My final decision
+For the reasons explained above, I do not uphold Mrs Cs complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mrs C to accept or 
+reject my decision before 19 January 2022.
+ 
+Will Culley
+Ombudsman

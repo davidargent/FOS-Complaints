@@ -1,0 +1,116 @@
+DRN-2969036
+The complaint
+Cs complaint, in summary, is that Barclays Bank Plc failed to prevent a fraud perpetrated on 
+C by one of the banks customers. In particular, C believes that when the payment was 
+received into the beneficiarys account, Barclays ought to have verified the account name 
+with the name of the intended payee as per the SWIFT instruction. Had it done so, the fraud 
+would have come to light and the financial loss to C could have been prevented.
+What happened
+The details of what had happened are known to both parties and so I wont repeat them at 
+length here. 
+Briefly, in April 2019, fraudsters intercepted an existing email thread between C and its 
+supplier and altered the payment details on the suppliers invoice. This resulted in a payment 
+of about £18,000 into a different account with Barclays instead of the intended payees 
+account. The fraud came to light when few weeks later the genuine supplier contacted C for 
+non-receipt of the payment.
+The supplier then contacted Barclays but unfortunately by that time there was hardly 
+anything left in the beneficiarys account. 
+C says that Barclays should have flagged the incoming payment as suspicious. It also says 
+that Barclays was negligent in allowing the recipient to open an account for fraudulent 
+purposes. Barclays says that the account the funds were credited to, was a direct result of 
+the remitting banks actions and Barclays would not have power to change the details. The 
+payment went into the account as directed by the remitting bank. Barclays took action as 
+soon as it was advised of the fraud but by that time no funds remained in the account.
+One of our investigators reviewed the complaint and concluded that the complaint could not 
+be upheld. In summary they said:
+The relevant account was opened few years before the disputed transaction, and there 
+wasnt anything at the time to indicate to Barclays that the account would be used for 
+fraudulent purpose much later. 
+Subsequent to opening of the account, it was being used regularly and there didnt 
+appear to be anything unusual.
+When Cs payment was received into the account, it was the case that the money was 
+being moved out swiftly through multiple transactions. So, itd be reasonable to expect 
+that Barclays flagged the transactions and investigated further.
+Barclays did place a block on the first outgoing payment and contacted their customer 
+(the beneficiary) to confirm the account activity. The customer obliged Barclays by going 
+through the security checks over the phone. They then visited the branch and provided 
+the required identification and confirmed that it was they who were making the payment 
+and that it was genuine. It is unclear whether on those occasions, Barclays asked about 
+the incoming payment. However given that the account holder was confident enough to 
+visit the branch to persuade Barclays in relation to the outgoing payment, it was more 
+likely that they would have explained away the incoming payment too if Barclays had 
+queried it.  
+Overall, the investigator concluded that Barclays did what it reasonably could in the 
+circumstances and therefore they were unable to recommend that the bank take any further 
+action.
+C did not agree. It said: 
+The account name should have been verified by Barclays before the credit was accepted 
+into the account. 
+If the account name was checked and if it matched the name of the genuine supplier, 
+then something had gone wrong when the account was opened by fraudster as there 
+couldnt be two corporate entities with the same name. This means the fraudster must 
+have provided some forged documents when the account was opened, and Barclays 
+failed to check this.
+It appears that Barclays may have interacted with its customer after the bank was put on 
+notice of the fraud. If so, it is not clear what action Barclays took when it contacted its 
+customer.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I agree with the conclusions reached by the investigator essentially for the 
+same reasons.
+I am sorry to hear that C has been an innocent victim of a callous scam. From their 
+perspective I can see why they feel that Barclays should reimburse them for their loss. 
+However, an account found to have received funds which were made as a result of 
+authorised push payment fraud doesnt automatically entitle the payer (victim) to a refund 
+nor does it indisputably mean that the recipient bank failed reasonably to prevent the loss.
+In this instance, the account was opened a couple of years prior to the fraud. I havent seen 
+anything to suggest that Barclays could reasonably have foreseen when the account was 
+opened that it would later be used to receive fraudulent credit. 
+One of Cs concerns is whether the name of the account matched that of the genuine 
+suppliers and if so, C queries how that could have happened. I can confirm that the account 
+name wasnt the same as the name of Cs supplier. 
+C also says that if the name of the recipient was different to that of the intended payee, then 
+Barclays failed to notice and act on the mismatch. Had it done so, the fraud would have 
+come to light straightaway, thereby preventing the loss to C. 
+Whilst the payment instruction may have included the name of the intended payee, the 
+unique identifier was IBAN. So, the payment would be received into the account so long as 
+the IBAN was correct, which was the case here. The Payment Systems Regulator who are the regulator for the payment systems industry in 
+the UK, have last year introduced a system called Confirmation of Payee (CoP). This 
+provides for the checking - by the payers bank - of the recipients name against the intended 
+payee in certain circumstances. However, the CoP was not in place at the time this 
+transaction happened, and in any case, it doesnt apply to international transfers such as 
+this.
+Soon after the payment was received into the account, the recipient attempted to withdraw 
+the funds. At that time, Barclays placed a block on the first outgoing payment and queried 
+that with its customer. The customer visited the branch and was able to provide all the 
+required identification and confirmed that the payment was genuine. It is not exactly clear 
+what was discussed at the time but as noted by the investigator, the account holder was 
+prepared to engage fully with their bank. So, it seems more likely that they would have 
+answered away any question by the bank concerning the incoming payment. Further, the 
+payment was from abroad. So, I am not sure what more Barclays could have done in this 
+instance other than question their customer. And on an established account built on an 
+established relationship, it doesnt appear that there is enough to reasonably expect the 
+bank to conclude that their customer was acting dishonestly. It is also important to note that 
+at that point Barclays wasnt yet notified of the scam and so it had no inkling of what had 
+happened.
+Ultimately, the bank needed to strike a balance between questioning transactions to confirm 
+they are legitimate and allowing its customers to transact business. In this instance, given 
+the circumstances, I am not persuaded that Barclays ought to have done more. 
+And finally, upon notification of the scam, a receiving bank is expected to take action 
+immediately to prevent any further loss of funds. Here, by the time Barclays were notified of 
+the scam their customer had already removed the money from their account. So, there 
+wasnt much Barclays could do to prevent Cs loss  though I can see that the bank did 
+immediately place a block on the account and following its investigation, it went on to close 
+the account.
+In summary, I am sorry to have to disappoint C. But I can only make an award against the 
+bank if I consider that it had done something wrong which led to Cs loss. From what Ive 
+seen, I cant fairly conclude that there was an error or omission by Barclays which resulted in 
+Cs loss. As such I cant fairly or reasonably ask it to refund Cs loss.
+My final decision
+For the reasons given above, my final decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask C to accept or 
+reject my decision before 8 January 2022.
+ 
+Raj Varadarajan
+Ombudsman

@@ -1,0 +1,129 @@
+DRN-2965839
+The complaint
+Mr P complains that Santander UK Plc did not do enough to recover the money he paid to 
+an investment scam company. 
+What happened
+The circumstances of this complaint are well known to both parties, so I will not repeat them 
+all again here in detail. But I will provide an overview of events below. 
+Around August 2019, Mr P saw an investment opportunity advertised by Gurvin 
+Singh of GS3 Trading. 
+Gurvin Singh persuaded him to invest with a company called Infinox Capital 
+(Infinox). Mr P invested a total of £37,500 between August 2019  October 2019 
+with Infinox (£10,500 of these funds were sent to a company called KTAFX.com 
+which Mr P believed was an affiliate of Infinox). 
+Mr P was initially told by Gurvin Singh that he could withdraw his money at any time 
+but was subsequently told that he had to wait a period of 90 days from the opening of 
+his account before he could do so. 
+Mr Ps trading account was performing well so towards the end of November 2019, 
+Mr P made a request to withdraw £46,345.70 from it. This request was 
+acknowledged and agreed by Infinox but was subsequently cancelled by them.  
+By 24 December 2019 most of the funds in Mr Ps trading account were lost. 
+Mr P disputed the transactions to KTAFX.com and Infinox with Santander and 
+requested that it process chargebacks for him. He presented Santander with 
+information to evidence that Infinox didnt honour his withdrawal requests, that he 
+was misled about the investment opportunity and that he was scammed. 
+Santander processed chargeback claims for all the disputed transactions and the claims 
+were partially successful. KTAFX.com didnt defend Santanders pre-arbitration chargeback 
+claims so £10,500 was refunded to Mr P in February 2020. Infinoxs bank defended 
+Santanders chargeback claims at its pre-arbitration stage and Santander concluded it had 
+very little prospect of success should it escalate the claims to Visas final stage of arbitration, 
+so it decided not to. Santander recognised that it didnt provide some of the correct 
+chargeback process time limits to Mr P and credited his account with £30 by way of an 
+apology. Unhappy with Santanders response, Mr P referred his complaint to this service. 
+One of our investigators didnt think Mr P met the Visa scheme rule requirements by 
+presenting the necessary evidence, so he didnt think Santander should refund the 
+remaining disputed amount. Mr P asked for an ombudsman to review his case, so it has 
+been passed to me. 
+I wrote to Santander to ask why it didnt consider Mr Ps email from Infinox dated 2 
+December 2019 relevant. In this email, Infinox acknowledged Mr Ps withdrawal request of 
+£46,345.70 and confirmed the funds would be paid to him within five working days. I asked 
+why it didnt consider processing a chargeback under the reason code specified for matters 
+relating to problems with withdrawals from investment trading accounts. I also explained that 
+Visa had confirmed this evidence was sufficient in processing a valid chargeback claim 
+under this specific reason code. Santander replied that it didnt think Mr P presented the 
+required evidence of this particular reason code and in its past experience, when the 
+necessary evidence wasnt provided, Visa would deem the claim invalid at its final stage of 
+arbitration. 
+Having considered Santanders additional information, I wrote back to them explaining I was 
+minded to uphold Mr Ps complaint because I did think he presented the required evidence 
+for his claim to have succeeded under this more appropriate reason code.
+ 
+I discussed my provisional outcome with Mr P and he confirmed he accepted it. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Chargeback is a voluntary scheme run by Visa whereby they will ultimately arbitrate on a 
+dispute between the merchant and customer if it cannot be resolved between them after two 
+presentments. Such arbitration is subject to the rules of each scheme  so there are 
+limited grounds on which a chargeback can succeed. Our role in such cases is not to 
+second-guess Visas arbitration decision or scheme rules, but to determine whether the 
+regulated card issuer (i.e. Santander) acted fairly and reasonably when presenting (or 
+choosing not to present) a chargeback claim on behalf of its cardholder.
+Mr P is upset because Santander refused to progress his chargeback claims further than it 
+did. In my judgment, I dont think Santander acted unreasonably by not escalating Mr Ps 
+claims to Visas arbitration stage. But this is because it stood no reasonable prospect of 
+success by using what I consider to have been an inappropriate reason code based on the 
+evidence supplied by Mr P. I think Santander would have stood a better prospect of success 
+had it used a more appropriate reason code.  
+Ill begin with my considerations against the Visa chargeback scheme rules. I am mindful 
+that the Visa chargeback rules did cover binary-options (or investment) trading from 14 
+October 2017, i.e. after the disputed transactions: see Visa Business News, 26 October 
+2017:
+Effective 14 October 2017, issuers may use Reason Code 53 to address cases whereby a 
+binary options (or forex) merchant has imposed obstacles to prevent cardholders from 
+withdrawing funds. This chargeback right is limited to the amount available in the binary 
+option account at the time funds are requested. Issuers cannot charge back more than the 
+original transaction amount, so capital gains from binary options trades cannot be paid out via 
+the chargeback process.
+However, Reason Code 53 (later re-coded by Visa to 13.5) required Santander to present 
+evidence that Mr P had an available balance and that he tried to withdraw sums equal to, or 
+less than, his available balances on the same day. However, Visa required evidence in the 
+form of a dated screenshot on the day the withdrawal was requested. Visa clarified to this 
+service that it would consider a dated acknowledgment from the merchant advising the 
+withdrawal request will be processed, and includes the amount of the request, as sufficient 
+to support the chargeback for 13.5 and an additional screen shot would not be required if 
+this information was presented.  
+Santander took the decision to process Mr Ps chargeback claims under reason code 13.3 
+(services not as described). For claims under this reason code to have succeeded at Visas 
+final stage of arbitration, Santander would have needed to provide evidence that Infinox made written representations to Mr P guaranteeing an amount of profit/return he was due to 
+receive. Its clear this evidence was not available.
+We know that KTAFX.com didnt defend Santanders chargeback claims at Visas pre-
+arbitration stage, so Mr Ps claims succeeded on this basis. But when Infinoxs bank 
+defended the chargeback claims under reason code 13.3, Santander was correct to 
+conclude that it didnt have any prospect of success at arbitration.
+ 
+However, Im satisfied Mr P presented Santander with sufficient evidence for a claim under 
+reason code 13.5 to have likely succeeded at Visas final stage of arbitration. This reason 
+code covered scenarios where merchants placed obstacles in the way of cardholders 
+withdrawing their available balances. This was the crux of Mr Ps complaint about Infinox to 
+Santander. And so, when Mr P provided Santander with an email dated 2 December 2019 
+from Infinox acknowledging his withdrawal request (for the available balances in his trading 
+account totalling £46,345.70) and confirming the funds would be paid within five working 
+days, Santander ought to have processed Mr Ps chargeback claims under reason code 
+13.5, not 13.3.  
+I dont dispute that Santander tried to assist Mr P given his claim that he fell victim to an 
+investment scam. But Santander are the experts when it comes to chargeback, not Mr P. If 
+Santander were unsure of the most appropriate reason code to use given the information 
+provided by Mr P, it could have taken advice from Visa directly, I dont see that it did. 
+I think if it had presented Mr Ps chargeback claims to Infinoxs bank differently and under a 
+more appropriate reason code, these claims, on balance, would have succeeded. And its 
+unlikely that Infinox could have defended the claims when it had agreed to honour Mr Ps 
+withdrawal request in writing. In any event, Santander would have had the option to take the 
+claims to Visas final stage of arbitration, because it had the necessary evidence to do so. 
+Its now too late for Santander to process chargeback claims under a more appropriate 
+reason code, not least because it can only use one reason code to process chargeback 
+claims and it used what I consider to have been the wrong one. In my view, Santanders 
+decision significantly impacted Mr Ps prospect of success in recovering his money.
+My final decision
+For the reasons set out above, I have decided to uphold this complaint. I therefore require 
+Santander UK Plc to refund Mr Ps remaining disputed transactions paid to Infinox (totalling 
+£27,000).
+The funds originated from Mr Ps savings account, so Santander should add interest to that 
+sum (less any tax properly deductible) at the interest rate of the savings pot (account) the 
+funds originated from, from the date it declined the chargeback claims to the date of 
+settlement. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr P to accept or 
+reject my decision before 28 January 2022.
+ 
+Dolores Njemanze
+Ombudsman

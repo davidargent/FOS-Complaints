@@ -1,0 +1,118 @@
+DRN-3072967
+The complaint
+Mr M complains that National Westminster Bank Plc failed to refund several transactions he 
+didnt recognise making from his account.
+What happened
+Mr M has said that he received a notification by text from NatWest about a new payee being 
+set up on his account. Because he didnt recognise this activity he tried to access his mobile 
+banking app and log in to online banking, both of which failed. He then called NatWest who 
+told him that several payments had left his account to a new payee. 
+Mr M explained that when he eventually gained access to his account, the first payment he 
+saw was an incoming payment, which was subsequently removed from his account. Several 
+further transactions were made from his account totalling £6,000.
+Mr M confirmed to NatWest that he still had his debit card and he hadnt provided his online 
+banking details to anyone else or entered them into any texts or emails. Mr M said during his 
+first call to NatWest that he hadnt used his mobile banking app for a few days.
+Mr M asked for a refund because he told NatWest that he hadnt made any transactions, but 
+NatWest declined his request. They told Mr M that the new payee was arranged through 
+online banking and had to be confirmed through the use of his genuine debit card and his 
+card reader. NatWests audit data confirmed this information and they explained that it 
+couldnt be made without the genuine card, which Mr M still had in his possession. 
+Mr M continued to deny that hed made any of these transactions and thought he may have 
+been hacked. He complained to NatWest who, after their investigation, continued to believe 
+that Mr M was responsible. Mr M was unhappy about how theyd handled the investigation 
+and brought his complaint to our service for an independent review.
+It was looked into by one of our investigators who explained that Mr M had successfully 
+logged on to his mobile banking less than 20 minutes before the disputed transactions 
+started and there were no records showing unsuccessful login attempts by Mr M. Because 
+the transactions needed Mr Ms physical card to be used, and it was still in Mr Ms 
+possession, our investigator thought it was reasonable for NatWest to hold Mr M liable for 
+the transactions.
+Mr M didnt accept the investigators outcome and asked for a further review. He said he had  
+witnesses who were with him at the time of the transactions and NatWests records were 
+wrong. Mr M also couldnt understand why NatWest hadnt tried to retrieve his funds.
+The complaint has now been passed to me for a decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+The relevant law surrounding authorisations are the Payment Service Regulations 2017. The 
+basic position is that NatWest can hold Mr M liable for the disputed payments if the evidence 
+suggests that its more likely than not that he made them or authorised them.
+Coming to the question of authorisation, this is made up of two parts. Authentication and 
+consent. Authentication is usually referred to as the technical evidence and in this case, 
+NatWest have supplied evidence that shows Mr Ms online banking was successfully logged 
+into and his genuine card was used to confirm the payments using a card reader and 
+Personal Identification Number (PIN). These were used to set up a new payee and make the 
+first transaction. The other transactions no longer required the card reader but were similarly 
+recorded in the audit. So, Im satisfied that the evidence shows all the disputed transactions 
+were authenticated.
+Consent refers to the way in which NatWest and Mr M agreed to use the various devices 
+and security information for transactions. For example, when using online banking, together 
+with the genuine debit card/PIN and card reader, NatWest agree to accept that this is a 
+legitimate payment instruction made by the cardholder or another approved user and make 
+the payment on their behalf. The transactions in this case used online banking, the genuine 
+card and the correct PIN, which generated a specific code to authorise the setting up of a 
+new payee and the first payment to the new account, so Im satisfied that consent was given 
+and the disputed transactions were authorised. But, there are exceptions where it wouldnt 
+be appropriate for NatWest to hold Mr M responsible, for example if the payment was set up 
+without his permission.
+Mr M thought that a payment was received into his account before the disputed transactions 
+were made. I can understand why Mr M thought that because thats how it looks on the 
+statement. Having looked at the data relevant to the payments, the first disputed transaction 
+was set up for a larger amount  this was the payment that Mr M referred to and was 
+returned from the receiving bank, although I dont know the reason for its return. So, it wasnt 
+a payment into the account, it was the first disputed transaction being rejected by the 
+receiving bank. The rest of the transactions were then made for smaller amounts.
+Mr M has explained that he was at home with other persons when he received a notification 
+from NatWest about the new account that had been set up. He then tried to log in to both his 
+mobile banking and online banking but was unsuccessful. Mr M told the NatWest call 
+handler that he hadnt used his mobile banking for a couple of days. This call took place less 
+than ten minutes after the series of disputed transactions were completed. Ive closely 
+examined the audit data related to the activity on Mr Ms mobile and online banking activity 
+and can see that Mr M was using it with his phone less than twenty minutes prior to the 
+disputed transactions being set up. So, I would have thought that Mr M would have 
+remembered this as his phone was logged in about 40 minutes earlier.
+Mr Ms online banking was successfully logged into with the proper security details less than 
+20 minutes after using his mobile banking app, this included the validation from a One Time 
+Passcode sent to Mr Ms mobile. NatWests records confirm that Mr Ms mobile has been 
+registered with their mobile banking for some time. Mr Ms genuine card and the card reader 
+were then used to set up the new payee which requires the use of Mr Ms PIN to generate a 
+specific code to authorise the new payee and then used again to authorise the first payment. 
+The additional payments were then made without the need of the card reader.
+Mr M thinks NatWests data is wrong and that he may have been hacked. Whilst that is a 
+possibility, I dont think its the likely explanation here. The procedure required to log in to 
+NatWests online banking and set up a new payee has several stages, requiring Mr Ms customer number and online banking PIN to access the website. It then needs Mr Ms 
+genuine debit card which contains a chip. That chip is then read by the card reader after the 
+PIN for the debit card is entered. Because a successful code was then entered into the 
+online banking, which is generated by the card reader, its unlikely this could be created by 
+anything other than the genuine card, which Mr M confirmed was still in his possession and 
+the PIN, known only to him. 
+Ive also considered the possibility of the card being cloned, but based on what our service 
+has seen, and the industry guidance available to us, we have yet to see a complaint where 
+the Chip on a card has been cloned. So, Im satisfied Mr Ms card wasnt cloned and it was 
+Mr Ms genuine card that was used to set up and make the payments.
+It is a possibility that if this information was given to someone else, along with additional 
+security information to log in to the online banking, then that could account for the 
+transactions. Mr M has explained that he hadnt been contacted by anyone else or given any 
+details to a third party. So, based on what Mr M said, I dont think the explanation for the 
+transaction lies with a third party. I realise thatll be a difficult message for Mr M, but its what 
+the evidence leads me to conclude when looking at all the circumstances objectively here.
+Mr M also complained that NatWest didnt follow up with the receiving bank. When they 
+investigated the transactions, NatWest believed Mr M had authorised them and as there was 
+no indication of a scam, they didnt follow this up. I dont think this was an unreasonable 
+position for them to take considering they believed Mr M had made the payments himself.
+Whilst Im sure Mr M will disagree with me, the evidence that Ive considered leads me to the 
+conclusion that, on the balance of probabilities, it was more likely than not that Mr M 
+authorised or allowed his banking details to be used to make these payments. I say that 
+because the authorisation process requires the genuine card to be used to generate a code. 
+That code is unlikely to be replicated by anyone else and Mr M confirmed he still had his 
+card in his possession. So, taking everything into account, I think it is fair and reasonable for 
+NatWest to hold Mr M responsible for these transactions and I dont uphold this complaint.
+ 
+My final decision
+My final decision is that I dont uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr M to accept or 
+reject my decision before 19 January 2022.
+ 
+David Perry
+Ombudsman

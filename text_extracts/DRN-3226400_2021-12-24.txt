@@ -1,0 +1,367 @@
+DRN-3226400
+The complaint
+Mr C complains Weatherbys Bank Limited, trading as Weatherbys Private Bank 
+(Weatherbys) has refused to refund him three disputed transactions made using online 
+banking.
+What happened
+Mr C opened a current account with Weatherbys in 2009. Around 2015, Mr C employed a
+new secretary to help him on an ad-hoc basis with his business affairs. I will now refer to the
+secretary as Mr S.
+Mr C paid Mr S through his current account. No payments were made on Mr Cs online
+banking facility until a beneficiary was set-up in May 2019. That beneficiaries surname was
+spelt with one letter missing to that of Mr S full name.
+To set-up the beneficiary a username and online PIN number was required. This was then
+followed by Weatherbys sending a one-time-passcode or OTP to Mr Cs mobile phone
+number. This number was then inserted into the security field on Weatherbys online banking
+platform to complete the process of setting up a new beneficiary.
+A payment of £200 was then sent from Mr Cs bank account using the online facility to the
+newly set-up beneficiary.
+About a year later in May 2020, an online transaction was made which sent £48,000 to the
+beneficiary account as set-up a year earlier. The following day a further £5,000 was sent to
+this account also using Mr Cs online banking facility.
+Just over a week later Mr C contacted Weatherbys to query the payments and explain that
+he hadnt authorised them. He went onto explain Mr S had defrauded him and breached his
+trust. Mr C also explained he had contacted the police and provided Weatherbys with a
+crime reference number.
+Amongst other things Mr C asked Weatherbys to refund him the transactions and questioned
+why its security measures did not stop them. Weatherbys looked into the matter and it did
+not uphold Mr Cs complaint.
+In summary Weatherbys said:
+Mr S likely had access to Mr Cs online banking security credentials. And this
+contravenes Weatherbys terms and conditions
+Weatherbys acted properly in validating the payments using its established 
+processes. So it is not liable for them
+Mr C is the victim of employee fraud and should seek remedy through the police 
+services
+Weatherbys hasnt been able to recover any of the funds from the beneficiary 
+account as no funds remain
+In line with regulatory standards, Weatherbys online banking system uses two-factor 
+authentication to set up and pay new beneficiaries. Subsequent payments to that 
+beneficiary are deemed to be genuine
+Weatherbys provides both telephone online banking services. And it is not unusual 
+for its clients to use multiple methods of generating payments
+Unhappy with what Weatherbys said, Mr C referred his complaint to this service. Mr C has
+made several complaint points, some of the key ones are:
+- He didnt opt for online banking and his application form shows this. Mr C didnt 
+realise that looking at a bank statement online was part of Weatherbys online 
+banking services
+- Weatherbys should have noticed the large sum of £48,000 transferred in May 2020 
+as unusual given Mr Cs usual pattern of spending. Mr C is disappointed Weatherbys 
+does not have systems in place to alert it when something like this happens
+- Had Weatherbys called Mr C to query the large £48,000 or the £5,000 transaction, 
+the payments would not have gone through. All Mr Cs previous payments have 
+either been by cheque or over telephone banking
+- Weatherbys say Mr S was a trusted beneficiary. But Mr C made regular payments to 
+him with his name spelt correctly  not with a letter missing. Weatherbys should have 
+picked up on this
+One of our investigators looked into Mr Cs complaint. They only considered the disputed
+transactions for £200 and £48,000 and not the £5,000. Thats because the £5,000
+transaction was the subject of court proceedings at that time.
+The investigator did not uphold Mr Cs complaint. 
+Mr C didnt agree with what our investigator said. Amongst points previously made, Mr C
+argued his personal circumstances, vulnerabilities and customer profile  which includes his
+age - meant Weatherbys should have shown a higher duty of care towards him by better
+monitoring his account. He added he knew little about the online banking and doesnt recall
+having a conversation with Weatherbys about any change in his online banking in 2015.
+Mr C also said even though Mr S had authenticated himself as a payee previously,
+Weatherbys should still have called Mr C to confirm the validity of such a large payment of
+£48,000. 
+As Mr C didnt agree with what our investigator said, the matter was passed to me to decide.
+Mr C says he has now stayed any court action regards the £5,000 disputed transaction. So 
+my decision will consider this amount too.
+As part of this process both Mr C and Weatherbys were given a further opportunity to
+provide any relevant information and/or present further arguments. In summary, Weatherbys
+added:- Weatherbys clients are generally high net worth, and so its not unusual for large 
+sums of payments to be made using its online service
+- Given the particular industry Weatherbys clients are typically involved in, a £48,000 
+payment would be fairly common place. As Mr C is also involved in this industry, and 
+as hes been, or still is, involved in several partnerships and syndicates, large 
+payments from his account are not unusual
+- There have been no failed attempts or logins on the online audit trail. As Mr C most 
+likely left his online security details accessible to Mr S, this amounts to gross 
+negligence
+- A correct username and password were needed to set up a new beneficiary. 
+Additionally a One Time Password (OTP), which was sent to Mr Cs mobile phone, 
+was also needed at the point of setting a new beneficiary up. So as Mr S was an 
+approved beneficiary on Mr Cs online banking account, the risk of fraud is reduced
+- Mr C failed to notice, and thereby alert Weatherbys, to the initial £200 that was sent 
+to Mr S account at the same time he was set-up as a beneficiary. Had he done so, 
+Weatherbys would have placed an alert on the account which would have prevented 
+further payments to Mr S
+- The Police are still investigating the matter against Mr S
+- As Mr C gave details for his online banking to Mr S, its not fair nor appropriate that 
+he seeks to recover these funds from Weatherbys rather than through legal action
+Relevant considerations 
+When considering what is fair and reasonable, I'm required to take into account: relevant law 
+and regulations; regulators' rules, guidance and standards; codes of practice; and, where 
+appropriate, what I consider having been good industry practice at the relevant time.
+Of particular importance to my decision about what is fair and reasonable in the 
+circumstances of this complaint, are the Payment Services Regulations 2017 (the PSR 
+2017) which apply to transactions like the ones Mr C disputes. Among other things the PSR 
+2017 include the following:
+Regulation 67 of the PSR 2017 explains:
+67. (1) A payment transaction is to be regarded as having been authorised by the
+payer for the purposes of this Part only if the payer has given its consent to
+(a) the execution of the payment transaction; or
+(b) the execution of a series of payment transactions of which that payment
+transaction forms part.
+Whether a payment transaction has been authorised or not is important because account 
+holders will usually be liable for payments theyve authorised and, generally speaking, banks 
+will be liable for unauthorised payments.
+Gross negligenceWhether a customer has acted with "gross negligence" is something that can only be 
+assessed on a case by case basis taking into account all the circumstances. The term is not
+defined in the PSR or in the Payment Services Directive. However, recital 72 of the second 
+Payment Services Directive provides as follows:
+"In order to assess possible negligence or gross negligence on the part of the payment 
+service user account should be taken of all of the circumstances. The evidence and degree 
+of alleged negligence should generally be evaluated according to national law. However 
+while the concept of negligence implies a breach of a duty of care, gross negligence should 
+mean more than mere negligence, involving conduct exhibiting a significant degree of 
+carelessness, for example keeping the credentials used to authorise a payment transaction 
+beside the payment instrument in a format that is open and easily detectable by third 
+parties..."
+Reflecting on this, the FCA, in its document setting out its role under the Payment Services 
+Regulations 2017, says: "... we interpret "gross negligence" to be a higher standard than the 
+standard of negligence under common law. The customer needs to have shown a very 
+significant degree of carelessness."
+Although not specific to this case, the FCAs interpretation is of value as a relevant 
+consideration in the absence of contemporaneous interpretive guidance, and because it 
+informs the meaning of a concept that had been in place for some time in the Banking Code.
+Negligence is often referred to as a failure to exercise reasonable care. And, as I have 
+described above, the use of gross negligence, rather than mere negligence, suggests a 
+lack of care that goes significantly beyond ordinary negligence or carelessness.
+So, if I find the disputed transactions were unauthorised, I have to consider whether Mr Cs 
+actions fell so far below the standard of a reasonable person that he failed with gross 
+negligence to meet his obligations as a payment service user or to comply with his accounts 
+terms and conditions.
+But that is not the end of the story:
+Regulated firms like Weatherbys are also required to conduct their business with due 
+skill, care and diligence (FCA Principle for Businesses 2) and to pay due regard to 
+the interests of its customers (Principle 6)
+And as a matter of good industry practice at the time, I consider firms should also have taken
+proactive steps to:
+Identify and assist vulnerable consumers and consumers in vulnerable 
+circumstances, including those at risk of financial exploitation (something recognised 
+by the FCA in recent years and by the British Bankers Associations February 2016 
+report improving outcomes for customers in vulnerable circumstances);
+Look to identify and help prevent transactions  particularly unusual or out of 
+character transactions  that could involve fraud or be the result of a scam 
+(something also recognised by the British Standards Institutes October 2017 
+Protecting Customers from Financial harm as a result of fraud or financial abuse  
+Code of Practice, which a number of banks and trade associations were involved in 
+the development of)
+This means there are circumstances, irrespective of the payment channel used, where a 
+bank should, in my opinion, fairly and reasonably take additional steps, or make additional checks, before processing a payment, or in some cases decline to make a payment 
+altogether, to help customers from the possibility of financial harm.
+This is particularly so in light of the environment created by the increase in sophisticated 
+fraud and scams in recent years  which banks are generally more familiar with than the 
+average customer.
+My provisional decision
+I issued my provisional decision on the matter and said I was planning to partially uphold the 
+complaint. Ive copied the relevant extract from my provisional decision which gives my 
+reasons for doing so below: 
+Did Mr C authorise the payments? 
+Im satisfied from the banks technical evidence that Mr Cs online banking security
+credentials were used to make the disputed transactions. So, that means Im satisfied the 
+transactions were authenticated in line with what the PSRs say. But the PSRs say that is
+not, on its own, enough to enable Weatherbys to hold Mr C liable.
+So I also need to think about whether the evidence suggests its more likely than not Mr C
+consented to the payments being made. Having given this considerable thought, Im
+persuaded, on balance Mr C didnt consent to these payments. I say that because:
+-Ive seen statements of Mr Cs account paying Mr S  with the name spelt correctly. 
+They show Mr C paying Mr S generally in the low hundreds of pounds on a frequent 
+basis. This is consistent with what Mr C has told us about his working arrangement 
+with Mr S. So to pay him large amounts in the thousands of pounds is definitely out of 
+place with that
+-Mr C has argued he didnt know he had online banking, but he does accept he had 
+the facility to check his statements online. Mr C also questions being given any of the 
+security credentials he needed to access online banking. He says he didnt opt for 
+online services at application.
+-Weatherbys have given me a copy of Mr Cs bank account application form. This is 
+signed and dated in 2009. There is a box to select online banking, and I note this 
+hasnt been completed. But theres another section which asks for three words to 
+help set-up security questions. This has been completed. So I think this would have 
+been a strong indicator to Weatherbys that he wanted online banking  even though 
+he didnt think it was anything more than viewing his statements
+-Weatherbys has also given me a call recording from 2015. Having spoken to Mr C 
+myself, Im satisfied its him thats called Weatherbys. In short, this call is about Mr C 
+no longer having access to online banking and he thinks its a mix up with the 
+passwords. He is then told that due to system changes he will need to deregister and 
+then re-register with new PIN details. Weatherbys tell Mr C as hasnt used his online 
+banking much, it will send him the new security credentials needed. Mr C says he 
+only wants to view his statements and not use the online banking facilities.
+-Overall, Im persuaded Mr C had online banking which he set-up and initiated. Im 
+also satisfied he only wanted it to view statements and that its likely he didnt even 
+know it had the capability to do other things like send payments. Because of this Im 
+persuaded Mr C didnt likely authorise the payments that were made using online 
+banking-Having considered Mr Cs customer profile and the vulnerabilities he says he has 
+with technology because of this, and as no other online banking payments were ever 
+made from 2009 onwards other than to Mr S, Im persuaded Mr Cs testimony is 
+genuine. That is, he didnt authorise these payments, but was deceived by his 
+employee, Mr S, at the time
+-Mr Cs actions in reporting the matter both to Weatherbys and to the Police also 
+demonstrate what I think a reasonable person would do when discovering theyve 
+been the victim of fraud. I havent seen anything that undermines or brings into 
+question him being complicit
+Did Mr C fail with intent or gross negligence?
+Given what Ive said above in the relevant considerations section, Im persuaded Mr C has 
+failed with gross negligence to meet his obligations as a payment service user. And thereby 
+hasnt complied with his accounts terms and conditions.
+In order to have pulled off this deception, Mr S initially needed Mr Cs user ID and password. 
+Then a transaction PIN number would be required and an OTP that was sent to Mr Cs 
+mobile phone had to be entered to set himself up as a beneficiary  albeit with a mis-spelt 
+name. Most of these security credentials would then be needed to make further payments in 
+the future.
+Following our investigators view, Mr C has told us these security credentials were written 
+down and they werent locked away. He added that Mr S would have been able to get to 
+these details and he would have known what they were for. Mr C also explained that Mr S 
+knew where he kept all his things, including his mobile and that he had built up a lot of trust 
+with him over the many years he worked for him.
+Mr C was however clear that he didnt give Mr S permission to use his online banking and 
+emphasised he didnt know he had it. 
+So even though Mr C didnt understand fully what services his online banking gave him, its 
+clear he left important security credentials in a position that were easily accessible to Mr S. 
+Mr C has also said the he would have conversations with Weatherbys telephone banking in 
+Mr S presence. So, to my mind, Mr Cs actions although done on trust, amount to more than 
+just mere negligence.
+This means, Im satisfied Mr Cs lack of care goes significantly beyond ordinary negligence 
+or carelessness and is therefore grossly negligent. As Ive said before, this would mean Mr C 
+ought to be held liable for the transactions.
+So, I know need to consider if this outcome is fair and reasonable in the circumstances of 
+this complaint.
+Should SBI have done more to protect Mr C from financial harm?
+Mr Cs customer profile, which includes his age and account activity, would have been well 
+known to Weatherbys. I say that because of the type of bank Weatherbys says it is  they 
+deal prominently with high net worth clients who work in a specific industry. Additionally, 
+Mr C used to regularly call Weatherbys to carry out his banking activities.Having looked through Mr Cs bank records, I can see he didnt use online banking to make 
+payments. The only payments made are those sent to Mr S for £200 in 2019 and then the 
+£48,000 and £5,000 payments a year later in May 2020.
+Weatherbys have given me records of banking activity for this account, which was in Mr Cs 
+sole name, from 2016. Having carefully reviewed these, I note there have been large 
+payments in and out of the account. These are mainly in the thousands, but there has been 
+occasion when a few payments have been in the tens of thousands of pounds.
+These are few and far apart. The largest of which is around £35,000 with the reference 
+related to a property. Most of the other relate to transfers between Mr Cs personal and joint 
+accounts which are typically related to the industry Mr C works in.
+Importantly, none of these have been made using online banking. They all appear as they 
+were either made using a cheque or as Mr C tells us, instructed by him over the telephone. 
+Mr Cs online banking technical records support this.
+I note Weatherbys say its customers use multiple methods, including online services, to 
+make payments. But for the purposes of this complaint, Im looking at Mr Cs banking activity 
+and his behaviour not that of other customers. After all, given the type of customer Mr C is, 
+and the type of service Weatherbys provide, Id imagine it would have a very close 
+understanding of its individual customer accounting needs and behaviours.
+So, given the way Mr C used his account; that being well known to Weatherbys; the smaller 
+values of payments usually made; that online banking was pretty much never used before; a 
+substantially and unusually large online payment being made of £48,000, Im persuaded 
+there was enough here for Weatherbys to have been alerted and for it to have taken steps to 
+find out if the payment was genuine.
+That means I think Weatherbys should have done more and taken additional steps to protect 
+Mr C from the possibility of suffering financial harm.
+I note Weatherbys says it had no reason to doubt the authenticity of the £48,000 given the 
+beneficiary had been set up on the account the year before. To my mind, its unusual that no 
+other online transfers were made for nearly a year after the first was set-up and made. And 
+when the service was used it was for a substantively large amount to a known payee who 
+typically received payments in the hundreds of pounds, and not in the tens of thousands.
+Weatherbys has argued Mr C has been, or still is, party to other joint account and syndicates 
+- given the industry hes involved in  where large payments are not unusual. Weatherbys 
+have also given me records to show this. But they are separate accounts used for different 
+purposes. The disputed payments all took place from Mr Cs personal account, and Ive 
+already explained why the £48,000 should have flagged as unusual to Weatherbys.
+Weatherbys say Mr C should have picked up on the £200 online payment in 2019 and raised 
+it. But this payment was in line with what Mr C typically paid Mr S, so I can understand why 
+he didnt pick up on it. I also note the spelling in the name when setting up this beneficiary 
+wasnt picked up. But this was before banks brought in systems to check this sort of thing.
+So, this means I think Weatherbys should have done more at the point the £48,000 payment 
+was made to protect Mr C from potentially suffering from financial harm. And had it of taken 
+steps to contact Mr C to question it, then its most likely the subsequent £5,000 payment 
+wouldnt have been made either.I think its incumbent on Weatherbys to ensure it protects its customers from financial harm 
+especially as it, as a bank, is well placed to know about fraud and scams. I also think Mr C s 
+age is a factor when considering how it goes about doing this.
+So after weighing everything up, I dont think Mr C authorised the transactions in dispute. But 
+he did fail with gross negligence to protect his security credentials and should as a result be 
+held liable for them. But Weatherbys should have done more to protect Mr C from financial 
+harm. And had it have done so, Im persuaded Mr C is likely to have only lost out financially 
+on the first payment of the three he disputes.
+Mr C would have no doubt been caused stress and worry with everything thats happened. 
+He also would have been inconvenienced in trying to get this matter resolved. So because of 
+that I think Weatherbys should pay him compensation
+Responses to my provisional decision 
+Mr C said he was happy to accept my decision. Weatherbys do not agree, and have made 
+the following arguments: 
+- The provisional decision is inconsistent. It says Mr C was grossly negligent, so 
+Weatherbys question on what legal basis it is being held liable. The police 
+investigation is still ongoing. 
+- Mr S, Mr Cs assistant, admitted to taking the money but said he was owed it 
+- Its questionable as to why Mr C initiated a small claims process in court for only the 
+£5,000 when he could have claimed up to £50,000. This suggest Mr C thinks Mr S 
+has a valid claim on funds only over £5,000
+- What protection will Weatherbys have if Mr Cs small claim is successful given it may 
+return funds to him
+- If the police find Mr S owes Mr C the money, and if they are able to recover some of 
+the funds, will this service compensate Weatherbys for its loss? 
+I will now decide this matter.  
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done that, Ive decided to uphold this complaint. I note Weatherbys did not agree 
+and have made further arguments. Ill respond to them here. 
+It is accurate to say I found Mr C to have been grossly negligent for how he kept his security 
+credentials easily accessible  and given he was aware Mr S knew where this was kept. But 
+I then moved onto say Weatherbys should have done more to protect Mr C from financial 
+harm. 
+Ive already said that when considering what is fair and reasonable, I'm required to take into 
+account: relevant law and regulations; regulators' rules, guidance and standards; codes of 
+practice; and, where appropriate, what I consider to have been good industry practice at the 
+relevant time. And in the relevant considerations section above, I also said the following: Regulated firms like Weatherbys are also required to conduct their business with due 
+skill, care and diligence (FCA Principle for Businesses 2) and to pay due regard to 
+the interests of its customers (Principle 6)
+And as a matter of good industry practice at the time, I consider firms should also have taken
+proactive steps to:
+Identify and assist vulnerable consumers and consumers in vulnerable 
+circumstances, including those at risk of financial exploitation (something recognised 
+by the FCA in recent years and by the British Bankers Associations February 2016 
+report improving outcomes for customers in vulnerable circumstances);
+Look to identify and help prevent transactions  particularly unusual or out of 
+character transactions  that could involve fraud or be the result of a scam 
+(something also recognised by the British Standards Institutes October 2017 
+Protecting Customers from Financial harm as a result of fraud or financial abuse  
+Code of Practice, which a number of banks and trade associations were involved in 
+the development of)
+This means there are circumstances, irrespective of the payment channel used, where a 
+bank should, in my opinion, fairly and reasonably take additional steps, or make additional 
+checks, before processing a payment, or in some cases decline to make a payment 
+altogether, to help customers from the possibility of financial harm.
+So, it is for these reasons, that I have found basis to uphold Mr Cs complaint. 
+Mr C has said Mr S admitted to taking the money. But I found in my provisional decision that 
+Mr C didnt authorise these  in other words he was defrauded. 
+Mr C has said he only went to the court and started a claim for £5,000 due to the costs 
+involved with starting a claim for the much larger amount. This sound plausible to me. But I 
+dont think it matters given Mr C has stayed any court action to see what the outcome of my 
+decision will be. 
+Given Im upholding Mr Cs complaint, he should cease any court action against 
+Weatherbys. And if he did, Weatherbys would no doubt explain to the court what has 
+happened so there is no double recovery. 
+Lastly, if the police were able to recover any of Mr Cs stolen funds, Id imagine it would 
+speak to Weatherbys in the course of its investigations. Id also expect Mr C to explain hes 
+received his money back.  
+In this decision, Ive had to think about whether Weatherbys has done what it should have. 
+And as I dont think it has, I am directing it to put things right by placing Mr C back in the 
+position had it done what it should have. 
+Its not for me to comment on a criminal matter. But for the sake of completeness, should the 
+Police recover any funds and return them to Mr C, Weatherbys could consider pursuing Mr C 
+for double recovery should that ever happen.  
+Putting things right
+For the reasons given above, Weatherbys should: 
+- Refund £53,000 to Mr C- Waive any fee(s) that have been charged to Mr C as a result of what has happened; 
+and 
+- Pay Mr C £250 compensation for the distress and inconvenience this matter has 
+caused   
+My final decision
+For the reasons explained above, I uphold this complaint. Weatherbys Bank Limited must 
+now put things right as set out above.   
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr C to accept or 
+reject my decision before 21 January 2022.
+ 
+Ketan Nagla
+Ombudsman

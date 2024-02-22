@@ -1,0 +1,148 @@
+DRN-3080885
+The complaint
+Mr S complains that Monzo Bank Ltd failed to refund several transactions he didnt 
+recognise.
+What happened
+Mr S was working abroad and contacted Monzo to report that hed made several errors 
+when sending payments to different merchants who transfer money. Mr S explained to 
+Monzo that hed input the wrong details and the merchants had sent his funds to the wrong 
+people. Mr S asked Monzo to conduct chargeback requests for these payments and quoted 
+S.75 of the Consumer Credit Act 1974 .
+Monzo looked into the situation and initially thought they might have chargeback rights to 
+make a claim on Mr Ss behalf, but this later turned out to be incorrect. Monzo told Mr S that 
+because the transactions had been successfully made to the merchants, there was no 
+possibility of a successful chargeback request.
+Mr S then told Monzo that the transactions were unauthorised and that his account had been 
+hacked. He explained that some months earlier his phone had been stolen with his cards 
+and that there was no security on his phone to stop other people from accessing it. Monzo 
+didnt have any report of this and their data showed that only one phone was using the 
+account during this period, which was the same one that Mr S was still using to 
+communicate with them about the disputed transactions.
+Mr S said that someone else was using his phone and impersonating him when contacting 
+Monzo. He later made further claims about other unauthorised transactions, some of these 
+were eventually refunded to Mr S.
+Mr S then made two further claims for unrecognised transactions made at Automated Teller 
+Machines (ATMs) and told Monzo that hed written all his security details down and left them 
+on the dashboard of his car which a former employee had access to and used to make these 
+withdrawals. Monzo declined to refund Mr S because they thought hed either made them 
+himself or allowed someone else to use his details by the way hed handled his security 
+information. Mr S denied that hed allowed anyone else to use his details. Mr S continued to 
+make claims about transactions he was disputing and Monzo declined them. Mr S made a 
+complaint about the way Monzo had dealt with his claims. Monzo issued their final response, 
+accepting that theyd given Mr S poor service when dealing with the chargeback information 
+and credited him £75. Monzo declined to offer a refund relating to any of the other claims 
+made by Mr S and advised Mr S that his account was to be closed.
+Mr S then received two merchant refunds and Monzo sent the balance to Mr S at a different 
+account after deducting a duplicate merchant refund. Mr S then brought his complaint to our 
+service for an independent review. He stated that five transactions were unauthorised. Also, 
+that someone had impersonated him on the chat with Monzo and made the chargeback 
+requests without his knowledge. Mr S confirmed hed received two merchant refunds.
+Our investigator thought that Mr Ss version of events werent consistent and didnt uphold 
+the complaint. He thought that it was reasonable for Monzo not to pursue a chargeback or 
+refund Mr S. Mr S disagreed and asked for a further review of the outstanding transactions 
+to the money exchange merchants. He argued that because hed had some refunds, this 
+was proof that the other claims should be refunded.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Ive read and considered the whole file, but Ill concentrate my comments on what I think is 
+relevant. If I dont comment on any specific point its not because Ive failed to take it on 
+board and think about it, but because I dont think I need to comment on it in order to reach 
+what I think is the right outcome. Our investigators report gave a detailed version of the 
+events, so I wont repeat them here unless I feel its relevant to Mr Ss complaint.
+Mr S referenced the Consumer Credit Act 1974 (S.75) when he asked for a chargeback. 
+Chargebacks are a process run by the payment scheme, in this case Mastercard, and are 
+available for both debit and credit card payments. S.75 claims relate only to certain credit 
+payments  and because these transactions were made with debit cards, S.75 wasnt 
+relevant.
+Mr S has made several different claims to Monzo about the transactions to the money 
+transfer merchants  he first told them that hed made them in error by giving the merchant 
+the wrong details and then changed this to saying the transactions were unauthorised. He 
+then made further claims about other transactions. Mr S has claimed that someone took his 
+phone and impersonated him regarding the conversations related to the chargebacks, which 
+is why theres two different versions. The crux of this complaint is whether Monzo can hold 
+Mr S liable for the transactions.
+The relevant law surrounding authorisations are the Payment Service Regulations 2017. The 
+basic position is that Monzo can hold Mr S liable for the disputed payments if the evidence 
+suggests that its more likely than not that he made them or authorised them. 
+Authorisation is made up of two parts. Authentication and consent. Authentication is usually 
+referred to as the technical evidence and in this case, Monzo have supplied evidence that 
+shows the transactions were made using the correct credentials through the Mastercard 
+system. Im satisfied the evidence shows the disputed transaction was authenticated.
+Consent refers to the way in which Monzo and Mr S agreed to operate the account to allow 
+Monzo to make payments on Mr Ss behalf. For example, Monzos terms and conditions set 
+out that if a payment is made using the card details, then Monzo accept that the instruction 
+to make the payment is authorised by the account holder. So, because these payments used 
+Mr Ss debit card details to make the payments, Im satisfied that consent was given and the 
+disputed transactions were authorised. But, there are exceptions where it wouldnt be 
+appropriate for Monzo to hold Mr S responsible, for example if his card was used without his 
+permission.
+Firstly, Ill deal with the loss of Mr Ss phone and cards and the compromise of Mr Ss 
+account. About a month after the disputed transactions were made, Mr S told Monzo that his 
+phone and his card was stolen prior to the disputed transactions taking place. It was this that 
+led to the impersonation during the chats with Monzo. Mr S was abroad at the time and 
+appeared to be running a business  he told our service that hed needed to write down the security information related to his accounts because he had a lot of information to 
+remember. He also said that hed left all his security details on the dashboard of his car, 
+which was available for an employee to use. 
+Monzo looked into the audit data about the use of Mr Ss phone , which showed that a 
+consistent device had been registered to his account during the period that Mr S said his 
+phone was stolen and the disputed transactions took place. There were no other devices 
+registered so I dont think that Mr Ss account was hacked  because this would show up 
+differently on the audit data as a secondary device  which wasnt the case here.
+Mr S said that the phone that was stolen had been replaced and his old phone had 
+unsecured notes with his account passwords and PIN contained in it. But, Monzos data 
+shows that the same phone was used throughout this period and they asked Mr S to confirm 
+his identity which he did by sending a photo of himself with his driving licence. These 
+matched the original documents when Mr S opened his account and were sent from the 
+same phone that Mr S said was stolen. Theres also no indication that Mr S reported his 
+phone stolen to the authorities or told Monzo about it at the time. Ive no reason to doubt the 
+information shown in the audit which leads me to believe that I dont think there was another 
+phone.
+Because I dont think the phone was stolen, I think Mr S was more than likely the person 
+who originally told Monzo that hed made the payments in error, rather than someone else 
+impersonating him. It also doesnt make sense to me that if someone other than Mr S had 
+access to his phone, why they would attempt to engage in lengthy chats with Monzo and the 
+merchants to obtain refunds for an account that they had taken control of. That person 
+wouldnt know when the phone would be reported stolen and would more than likely have 
+wanted to utilise their access to the phone to empty the account as soon as possible, which 
+didnt happen here. 
+The three payments Mr S went on to complain about are spaced out over a number of 
+weeks. When looking at the account history, there are a number of transactions that Mr S 
+hasnt disputed from when his phone was stolen. These undisputed ones used both Mr Ss 
+card and the faster payment system that can only be used through his phone on the Monzo 
+app. So, it would appear that Mr S had his phone and card during this period to make 
+legitimate transactions.
+There were also incoming transfers, one of which funded the third disputed payment which 
+was received only a few hours before the outbound payment was made. This would indicate 
+that the user of the account knew funds were being transferred and once they arrived they 
+were soon sent back out again through one of the money exchange merchants.
+It would only be possible for someone else to have been responsible for the disputed 
+transactions if they were able to remove both the card and the phone on multiple occasions 
+without Mr S realising. But that isnt the testimony that Mr S has given  hes told Monzo and 
+our service that they were stolen. Overall, I think its more likely than not that Mr S had his 
+phone and made these payments himself.
+Mr S argued that because he received refunds from some of the merchants, thats evidence 
+that he should get all the other refunds. I dont know the reason why other refunds were 
+made by the merchants, but this complaint is about whether Monzo can hold Mr S liable for 
+the transactions and not what happened with the merchants. 
+Because Ive made a finding that I think it was Mr S using his phone to ask Monzo for 
+refunds using the chargeback system, it follows that I think it was Mr S who more than likely 
+authorised the transactions, even if he made an error when he entered details for the merchants accounts. Once he asked Monzo to send the money and the funds reached the 
+merchants, that stage of the transaction was complete and Monzos involvement was over. 
+The problem appears to be when the merchants sent the money to the accounts that Mr S 
+has said was a mistake.
+Because the transactions were successfully sent to the merchants by Monzo, they didnt 
+have any realistic chance of requesting the funds back through the chargeback system. I 
+think it was reasonable for Monzo to decline the chargeback request by Mr S. They did 
+accept that they gave Mr S an indication early on that they could make a chargeback 
+request, but this was corrected and they credited Mr S £75 for this error which I think is a 
+reasonable amount and I wont be asking them to increase this.
+Taking everything into account, I think it was more likely than not that Mr S authorised the 
+payments and its reasonable for Monzo to hold him liable for them.
+My final decision
+My final decision is that I dont uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr S to accept or 
+reject my decision before 19 January 2022.
+ 
+David Perry
+Ombudsman

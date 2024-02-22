@@ -1,0 +1,197 @@
+DRN-3217486
+The complaint
+L, a limited company, is unhappy because Lloyds Bank PLC did not reimburse the 
+money it transferred to a fraudster.
+ 
+What happened
+On 3 December 2021, I issued my provisional decision on this complaint. I explained why, 
+based on what I had seen so far, I was intending to uphold the complaint in part. I wanted to 
+give both parties a chance to respond to my findings. I have copied my provisional decision 
+below and it forms part of this final decision. 
+What happened
+L is represented by one of its directors  Mr L. As he was the person who interacted with 
+the fraudster, Ill be mostly referring to Mr L, rather than L.
+L employed a builder to renovate a property it owns. The builder was suffering some 
+cash flow problems due to the pandemic and asked for a part payment from L. Mr L 
+agreed and, On 29 April 2020, he received an invoice containing the builders account 
+details, by email, from the builder. Soon after, a second email followed. It claimed funds 
+could not, in fact, be received into the account given on the invoice, and asked Mr L to 
+confirm hed make the payment to a different account. After Mr L agreed, he received 
+another email the following morning with different account details.
+Mr L says he spoke to the builder that morning and they confirmed theyd sent him the 
+most recent bank details hed received. In hindsight he thinks the builder was referring to 
+the details hed sent the previous day, rather than those received that morning.
+That afternoon Mr L attempted to add the new account details as a payee. Unlike the first 
+set of details contained within the invoice, the second set of details didnt give an account 
+name. Mr L made three different guesses, over four attempts, at the account name. On 
+each occasion he received a negative Confirmation of Payee (CoP) message, advising 
+him that the account details did not match. On the fourth attempt he decided to proceed 
+with setting up the new payee despite this. At that time, Lloyds applied a delay which 
+prevented a payment being made to a new payee until an hour after it had been set up. 
+So, Mr L returned to work and only came to make the payment of £7,430 that evening. 
+Unfortunately for Mr L, hed actually been communicating with a fraudster.
+When, a few days later, the builder informed Mr L they hadnt been paid and the scam 
+came to light, he reported the matter to Lloyds. It said Mr L had ignored several CoP 
+messages when making the payments so, under the provisions of the Contingent 
+Reimbursement Model CRM Code, it was entitled to refuse reimbursement.
+Our investigator agreed with Lloyds. They noted that Mr L had received several 
+messages saying the account details didnt match  but had proceeded regardless. They 
+also thought that the several hours taken to complete the payment gave Mr L sufficient 
+time to check the account details before going ahead.
+Mr L disagreed, in summary he said:
+-He ought to have been informed whether the account was a close match to the 
+correct details or not. If this had happened, he would have known that the issue 
+was not how the builders name appeared on his account.
+-He should have been informed whether he was paying a business or a 
+personal account.
+-CoP was poorly implemented by the bank and has since significantly improved  
+with much more detailed and useful CoP messages.
+-Hed confirmed the account details with the builder that morning, so it was 
+reasonable for him to think that he and the builder were referring to the same 
+set of details.
+-He does not think the messages he saw met the definition of an Effective 
+Warning under the Code.
+As no agreement could be reached, the case was passed to me for a final decision.
+What Ive provisionally decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+The CRM Code was introduced in 2019 to reimburse victims of APP scams in all but a 
+limited number of circumstances. Here Lloyds argue that as Mr L ignored several negative 
+CoP messages it can rely on one of the exceptions to reimbursement set out in the Code. 
+The fact Mr L proceeded with the payment having received a negative CoP result is not 
+sufficient for Lloyds to refuse reimbursement (though such an exception does exist in the 
+Code it has yet to be implemented and is also dependent on the firm having met its own 
+standards).
+So, although Lloyds hasnt been particularly clear, the inference is that the negative CoP 
+messages ought to have prompted Mr L to take further steps to establish that the recipient 
+was legitimate  and therefore Mr L lacked a reasonable basis for believing the person he 
+was paying was who he was expecting to pay (which is an exception to reimbursement 
+under the Code).
+The CRM Code sets out that if a consumer meets their Requisite Level of Care then they 
+will be entitled to a full refund. If they dont, then consideration must still be given to whether 
+a firm has met its standards. Of particular relevance here is whether, having identified a 
+scam risk, the firm provided an Effective Warning. If it did not, and that failure is likely to 
+have had a material effect on preventing the scam, then it will normally be liable for 50% of a 
+customers losses.
+Having carefully considered the circumstances of this case, I dont think Mr L had a 
+reasonable basis for believing that the payee was the person they were expecting to pay, but 
+neither do I think Lloyds provided an Effective Warning to L. So, Lloyds should refund 50% 
+of Ls losses. Ill explain why below.
+Did Mr L meet his Requisite Level of Care under the CRM Code?Without prior understanding of how scams of this nature work, they can be very convincing 
+and difficult to spot  especially, as in this case, when the fraudulent email comes from the 
+impersonated partys actual email address. Mr L does indeed say he wasnt aware of this 
+type of scam, so I can understand why he may have been less likely to be on the lookout for 
+its common features  such as the change of account details happening so soon after an 
+invoice had been received. I can also understand why, because of the conversation hed had 
+that morning, he was confident that the email had come from the builder.
+So, despite one or two grammatical errors in the fraudulent email, at the point Mr L came to 
+set up the new payee (before seeing the CoP messages), I think it was reasonable for him to 
+believe that the email had come from the builder and contained their genuine account 
+details.
+Ive gone onto consider whether that belief ought to have changed in light of the negative 
+CoP messages. The message, on each of the four occasions Mr L attempted to set up the 
+payee, said the following:
+Payee name and account number do not match. This might be because:
+-You entered a nickname
+-Youre trying to pay a business thats held in the owners personal name
+-Its the wrong account number
+Double check the details with the payee, we may not be able to recover your money if it 
+goes to the wrong account.
+Do you want to continue No or Yes.
+The evidence Ive seen confirms Mr L attempted variations of the builders business and 
+personal names  corroborating his testimony that he believed the negative results were 
+simply down to the various ways the builders name might have appeared on their account.
+So, while I understand why Mr L, believing he had already checked the account details that 
+morning, and attributing an innocent explanation for the negative confirmation of payee 
+results didnt foresee the risk of fraud, even after seeing the CoP messages. But, that wasnt 
+the only risk. There was also the possibility that the builder had simply made a mistake when 
+providing the account details to Mr L. I think thats something Mr L ought to have considered 
+for a number of reasons:
+-The details were written in the body of an email, rather than on an invoice, 
+potentially increasing the risk of human error when the details were being 
+communicated.
+-The builder had (albeit mistakenly) only confirmed that hed sent the 
+email that morning, not that the account details were correct.
+-The negative CoP message specifically mentioned that the account details 
+might not be right.
+-Despite four separate attempts, Mr L was unable to obtain a match for the account 
+details.If Mr L was unaware of this type of scam, then its actually the possibility that there had been 
+a mistake with the account details that Id expect him to be mainly considering.
+So, despite the explanation he attributed to the CoP warnings, I think it should have been 
+reasonably in the contemplation of Mr L that the account details may be incorrect. He ought 
+to have known that the earlier conversation with the builder was not enough to confirm the 
+account details were accurate and the CoP message suggested a simple step he could have 
+taken to ensure that they were (albeit not necessarily one that would have protected him 
+against fraud).
+I also think the gap of several hours between Mr L setting up the payment and making it is 
+relevant here. He had time to think about the fact the payment details didnt match and, 
+crucially, to contact the builder to confirm they were correct. He didnt do this, and while he 
+might have made the payment believing he was paying the builder, there was a clear risk he 
+was paying someone else.
+I agree that the way that CoP has been implemented has changed over time and there are 
+features of the system that werent in place then that might have alerted Mr L to what was 
+happening. But I can only consider whether Mr Ls belief was reasonable based on the 
+information he saw at the time and, overall, I dont think he held a reasonable basis of belief 
+that he was paying the person he was expecting to pay.
+Did Lloyds meet its standards as a firm under the CRM Code?
+As noted, Lloyds also have standards under the CRM Code, of particular relevance here is 
+their obligation, having identified a scam risk, to provide an Effective Warning. Given the 
+significant size of the payment and, as Ill go on to discuss, how unusual it was for L, I think 
+Lloyds ought to have recognised a scam risk and provided a warning.
+Its important to distinguish Effective Warnings and negative confirmation of payee results 
+under the Code. Effective Warnings are intended specifically to address the risk of, and 
+enable customers to protect themselves from, APP scams. An Effective Warning must, as a 
+minimum, meet the definition under the Code  that is to be understandable, clear, impactful, 
+timely and specific. Messages accompanying negative confirmation of payee results, though 
+sometimes mentioning the possibility of fraud, are primarily intended to warn customers that 
+payment details do not match (as was the case here).
+I agree with Mr L that the negative confirmation of payee results are not Effective Warnings, 
+in the sense that they are not presumably intended to be Effective Warnings but rather serve 
+a largely different purpose altogether.
+As Lloyds have confirmed they provided no warnings about APP scams during the payment 
+journey, and theres no reason to think an Effective Warning wouldnt have had a material 
+impact on preventing the scam, I dont think theyve met their standards as a firm and should 
+provide a refund of 50% of Ls loss.
+Could Lloyds have done anything else to protect L from financial harm from fraud?
+Unlike the investigator, I also think the transaction did stand out as being remarkable. In the 
+six months before the fraud, there was one very large CHAPS payment, but the largest 
+faster payment was for just over £1,000. On this basis, I think Lloyds should have contacted 
+Mr L before allowing the payment to leave his account. If it had done so, given that it would 
+have been aware of the earlier confirmation of payee mismatches and, taking into account 
+its knowledge of scams, I think Lloyds would have advised L to check the account details 
+over the phone or in person and, most likely, the scam would have come to light. But, as Ive already set out, I think Mr L had a role to play in what happened, so I think a 50% refund is 
+still the fair outcome. That means this finding doesnt change the overall outcome Ive 
+reached.
+Turning to interest, the money came from Ls current account and was going to be used for a 
+specific purpose  to pay the builder. L wasnt deprived of the funds until it paid the builder 
+again as it always intended to make the payment and be without the money. Mr L says the 
+invoice was not paid until 19 April 2021. So, I think interest should be paid from that date. As 
+its been deprived of the funds since then, and its not clear how they would have been used, 
+I think interest should be paid at 8%.
+Finally, Im satisfied that Lloyds did what it could to recover Ls funds  it contacted the bank 
+which received Ls money the same day the fraud was reported but that bank said no funds 
+remained.
+My provisional decision
+Im minded to uphold this complaint in part and instruct Lloyds Bank PLC to pay L:
+-Half the lost funds - £3,715
+-Interest at 8% simple per annum on that amount from 19 April 2021 to the 
+date of settlement
+Lloyds accepted my provisional decision and Mr L, on behalf of L, had nothing further 
+to add.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+As Lloyds have accepted my provisional decision and Mr L has made no further 
+submissions, my final decision is unchanged from the provisional findings Ive set out above. 
+My final decision
+For the reasons Ive explained, I uphold this complaint in part and instruct Lloyds Bank PLC 
+to pay L:
+- Half the lost funds - £3,715
+- Interest at 8% simple per annum on that amount from 19 April 2021 to the 
+date of settlement
+ 
+Under the rules of the Financial Ombudsman Service, Im required to ask L to accept or 
+reject my decision before 13 January 2022.
+ 
+Rich Drury
+Ombudsman

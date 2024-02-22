@@ -1,0 +1,270 @@
+DRN-3143978
+The complaint
+Mr N is unhappy that HiFX Europe Limited (trading as XE) refuses to refund the money he 
+lost having fallen victim to a scam.
+What happened
+In early-2018 Mr N fell victim to a forex trading investment scam after searching online for 
+somewhere to put his money in order to earn a better rate of return. He provided his details 
+in response to an advert on a social media platform and was subsequently contacted and 
+persuaded to invest. Mr N made 17 payments (two of which were split in two due to 
+transaction limits imposed by the receiving bank) over the course of almost a year  totalling 
+more than £650,000  from his XE account to two overseas accounts which appear to have 
+been under the scammers control. 
+In May 2019 XE appears to have received some intelligence from a third party about the 
+beneficiary to whom his last two payments had been sent. This prompted it to ask Mr N for 
+some additional information about his payments to that beneficiary. XE subsequently told 
+Mr N it thought he had fallen victim to an investment scam and refused to process any 
+further payments to that beneficiary. 
+In July 2019 Mr N raised a complaint with XE and asked it to try and recall all the payments 
+hed sent to the scammer. XE said it had found no errors in its handling of Mr Ns payments 
+or claim. It said he authorised the payments, it had no reason to prevent him doing so and 
+the recipient banks had refused (or said they were unable) to return any money when it 
+notified them about the scam. 
+Mr N remained unhappy and asked us to look into his complaint. I recently issued a 
+provisional decision setting out why I didnt think Mr Ns complaint should be upheld. I have 
+reproduced, below, my provisional findings
+The relevant law and regulations  plus good industry practice and XEs own submissions  
+suggest XE has a duty of care to protect its customers against the risk of fraud and scams 
+so far as reasonably possible. XE might be negligent and liable for reasonably foreseeable 
+losses if, in breach of that duty of care, it fails to act on information which ought reasonably 
+to alert a prudent authorised payment institution to potential fraud or financial crime by, or 
+against, its customer. 
+Having said that, the Payment Services Regulations 2017, in conjunction with XEs terms 
+and conditions, also indicate that XE should execute authorised payment instructions without 
+undue delay  and there is a presumption that liability for an authorised payment rests with 
+the payer, even if that authorisation was obtained by third-party fraud. 
+Theres no dispute in this case that Mr N authorised all of the disputed transactions. And Ive 
+taken the above obligations into account when deciding if XE acted fairly and reasonably 
+when it processed his instructions. I also note the following.
+Given the level of sophistication employed by the fraudster, I initially had doubts about 
+whether Mr N had actually been the victim of a scam. I say that because, while investment 
+scams are not uncommon, some of the complaints we receive simply involve high-risk 
+investment trading. In essence these are bets on the performance of, for example, 
+commodities, or stocks. That kind of investment, by their very nature, can result in very 
+disappointing returns or losses. And, when simply executing an authorised payments, XE 
+does not have to protect its customers against the risk of bad bargains or give investment 
+advice.
+Mr N thought he was investing with Algotechs Limited and BAX Ltd (or BeAlgo) and I think 
+its clear he understood he was putting his money into forex trading, which carries the 
+inherent risks Ive mentioned. Ive also managed to obtain (via www.web.archive.org)
+some screen shots of Algotechs website from around the time Mr Ns disputed transactions 
+started and can see the home screen explained:
+The capital markets and forex trading entails significant risks and is not appropriate for 
+all investors. The possibility of incurring substantial losses should be taken into account. It 
+is therefore important to understand the possible consequences of investing. Investors 
+should weigh their earning potential against the risks involved and act accordingly. Past 
+results should not be considered a promise for a similar outcome in the future.
+Mr N has also shared a screenshot with us of the BeAlgo customer dashboard he was given 
+access to which shows, amongst other things, his deposits and withdrawals. At the bottom it 
+says Risk Warning: Forex and Algo Trading involve significant risk to your capital, and might 
+lead to loss of part or all of invested capital. In my experience, its unusual for investment 
+scammers to include these types of warning. Usually theyre trying to tempt individuals to 
+invest who have little knowledge, or experience, of investments and they tend to do so by 
+promising high returns without any risk. Including this type of risk warning might easily scare 
+off potential victims. 
+I also note Mr N was encouraged to subscribe to a genuine investment tracking app to keep 
+an eye on his investments as well as having access to the dashboard Ive already 
+mentioned. And it seems reasonable to think the scammers must have invested a 
+considerable amount of time into maintaining the data-feed into these two applications as 
+well as their own websites.
+When deciding if Mr N was scammed, I have contrasted the above with the information thats 
+been published by a couple of, what I consider to be, trustworthy sources.
+The Financial Conduct Authority (FCA) is the UK financial services industrys regulator. It 
+publishes a warning list on its website to help protect consumers against investment scams. 
+It also includes warnings on its register if it is aware of a particular financial business 
+operating without the required authorisation. Algotechs and BeAlgo first appeared on the 
+warning list and unauthorised firm listing on 25 April and 15 May 2019 respectively. They 
+also were both mentioned on the International Organization of Securities Commissions 
+(IOSCO) investor alerts portal on 30 April and 20 May 2019 respectively. However, those 
+publications all occurred after Mr N sent his final transfer. And they dont specifically say the 
+companies are scammers, the FCA simply say:
+Almost all firms and individuals offering, promoting or selling financial services or 
+products in the UK have to be authorised or registered by us.
+This firm is not authorised by us and is targeting people in the UK. You will not have 
+access to the Financial Ombudsman Service or be protected by the Financial Services Compensation Scheme (FSCS), so you are unlikely to get your money back if things go 
+wrong.
+And IOSCOs warnings give this generic description  Regarding fraudulent or manipulative 
+practices (insider dealing, market manipulation, misrepresentation of material information, 
+etc.).
+Mr N has also provided posts from some forums which suggest Algotechs or BeAlgo are 
+scammers. I dont think this is conclusive evidence, given everything else Ive seen, that 
+Mr N was scammed. Ive taken it into account but must also note that most, if not all, of the 
+posts post-date the bulk of the transfers Mr N made.
+Overall, I have some doubts that Mr N was scammed. But, even if he was, the level of 
+sophistication the scammers employed would, I think, have made it difficult for XE to uncover 
+or prevent Mr N falling victim to the scam had it questioned him about why he was making 
+the transfers. In all the circumstances, Im not currently persuaded XE ought to have done 
+more than it did after receiving Mr Ns transfer instructions. I say this with the following in 
+mind:
+Mr N sent all but two of his payments to UPC Consulting and Toot Capital, rather than to 
+Algotechs or BeAlgo. A phone call seems to have taken place between Mr N and XE on 
+the day the first payment was sent because Mr N wasnt sure how to set up a new 
+payee. XEs notes dont suggest it discussed the reason for making the payment. And 
+Ive seen nothing which makes me think XE ought to have been aware that Mr N thought 
+he was sending his money to an investment company, such that it ought to have 
+questioned him further and/or warned him about investment scams. 
+XEs notes show that, on 20 December 2018, it emailed Mr N and said We take security 
+very seriously and like all companies involved in making international payments, we have 
+to carry out appropriate screening to prevent fraud and money laundering. Following a 
+recent review of your account, we will need you to provide us with further information as 
+follows: Please clarify the full reason for your transactions to UPC Consulting Ltd & 
+please provide any supporting documentation such as invoices. XE also asked why 
+Mr N was making payments to two other business and asked if he had been using his 
+personal account to make business-related payments. XEs records suggest Mr N 
+replied by phone on 4 January 2019 (after it chased him) and said hed been trying to 
+open a business account. On 10 January 2019 XE ascertained that Mr N was living and 
+transacting from America, so it restricted his account as Due to US legislation we are 
+not authorised for our clients to trade while they are in the US. In response Mr N said I 
+am leaving the USA on the 17th January. I have a number of personal and business 
+payments that need to be made over the next couple of weeks (including a €500.000) 
+purchase of a property in Malta. If you restrict my account this is going to cause a huge 
+amount of inconvenience for me. XE then permitted Mr N to transact because he was 
+only temporarily in America. 
+I note all of this because there is no mention in any of the correspondence that the UPC 
+Consulting payments related to an investment. Its not the case that businesses should 
+always take at face value the reasons a consumer gives for making a payment, because 
+businesses ought to know that scammers sometimes persuade their victims to give a 
+cover story in order to help prevent the payment from being blocked. But Mr N wasnt 
+given a cover story and, given everything Ive seen, Im not currently persuaded he 
+would have told XE about his investment opportunity even if XE had questioned him at 
+any other point about it. Mr N had given plausible reasons, when questioned, for making 
+payments and was relatively insistent that he be allowed to continue using his account. .None of the warnings mentioned above link Algotechs and BeAlgo to either UPC 
+Consulting or Toot Capital. As Ive said, those are the recipient names Mr N gave when 
+he placed the transfers. And neither of those names are, even now, mentioned on the 
+FCAs or IOSCOs warning lists. I mention this, in particular, because Mr N say XE 
+should have identified, from discussions on various online forums, that there was a link 
+between these four businesses and that some or all were involved in scams. I disagree 
+with Mr Ns suggestion. I think it would be good practice for XE to take account of alerts 
+published by relevant regulators and I included IOSCO, in addition to the FCA, in this 
+particular case because Mr Ns payments were being sent overseas. But I dont think its 
+reasonable (or proportionate) to expect XE to trawl the internet in relation to every one of 
+the hundreds or thousands of transactions it likely facilitates each day or week. And 
+forums such as the ones Mr N has pointed to arent always wholly reliable and/or 
+factually accurate.
+HiFX Europe Limited has been an FCA authorised payment institution (what they prefer 
+to refer to as, an online money transfer service) since 13 January 2018  the XE trading 
+name was introduced in February 2019. And Im satisfied it was acting under this 
+authorisation when it processed all of Mr Ns disputed transactions. 
+XE says it has screening mechanisms in place to prevent money laundering and fraud 
+and Ive already quoted from an email it sent Mr N which says as much. But no flags 
+were raised until after Mr N placed his final transfer in March 2019. As I say, Ive seen 
+nothing on the FCA or IOSCOs website that shouldve prompted earlier intervention. 
+And Im willing to accept XEs assertion that it was not until May 2019 that it received 
+notification from an external party that the Toot Capital account might have been 
+involved in investment fraud. Having said this, it would be helpful if XE would provide in 
+response to this provisional decision (and in confidence, if necessary) more detailed 
+information about how this external notification came about (from where did it arise and 
+what did it say exactly).
+I think the relationship Mr N had with XE was different to the one he would have with, for 
+example, his current account provider. Current accounts tend to be used on an almost 
+daily basis for the receipt of income and for everyday spending. Whereas Mr N set up his 
+XE account in June 2017 (just 11 months before the first disputed transaction) and he 
+tells us he used it primarily to make payments for a property he owned overseas. In my 
+experience, this kind of usage is quite normal, mainly because payment institutions like 
+XE offer better exchange rates than the high street banks. What this also means is that 
+the pattern of spending is often irregular and may include larger value, international 
+transfers. I mention this, in particular, because Mr N has pointed to various pieces of 
+guidance and best practice in support of his complaint and to demonstrate that XE ought 
+to have done more to verify his transfers. But I disagree  the checks and measures a 
+business undertakes should be proportionate to the relationship that exists between it 
+and its customer. And the way Mr N was using his account was not, I dont think, unusual 
+for the type of account or the usage he envisaged when he opened the account, even 
+though the amounts being transferred from April 2018 were somewhat higher than in the 
+previous 11 months. And, despite what Mr N says, it does seem he indicated he might 
+transfer over £1million per year. Mr N now says that was never his intention as he did not 
+have that much money at his disposal then, nor could he have ever earned that figure 
+(his salary at the time was £130,000). But the notes Ive already referred to talks about 
+him planning to sell a property for €500,000, which is a considerable amount in and of 
+itself. In the circumstances, Im prepared to accept the evidence supplied by XE about 
+what Mr N told it when he opened the account. . It seems Mr N was prepared to put his money into forex trading despite the risks 
+mentioned above. I also note, despite what Mr N says, the Personal Client Addendum 
+doesnt actually guarantee that he will receive the quoted success fee and this 
+document also talks about making investment activities in the market. Mr N has also 
+shared with us various emails he received about the investment, one of which refers him 
+to an article about Algotechs in The European  a quarterly business magazine 
+(available online and in hard copy), published by a UK company. The link that was 
+provided no longer works, but Mr N seems to suggest he read it at the time and this 
+independent review encouraged him to invest. Mr N also says that he instigated first 
+contact with the scammer and no high-pressure sales tactics were employed, which is 
+the opposite of what we tend to see with investment scams.
+Overall, at the time the payments were made Im satisfied XE did have systems
+in place to look out for fraud. Taking into account what XE did and the way firms obligations 
+have changed over time, as well as the particular circumstances of this complaint, Im 
+satisfied XE did enough to try to protect Mr H from financial harm, I dont think XE was 
+obligated to do any more than this at the time the scam occurred.
+And, in any event, given the relative sophistication of the scam, as Ive mentioned above and 
+Mr Ns willingness to take the risks set out on Algotechs website, even if XE had questioned 
+Mr N earlier about the intended recipients and/or purpose for his payments, Im not satisfied 
+it would have made a difference. I think its more likely than not hed still have gone ahead 
+with the investments.
+I know this will be very disappointing for Mr N but, considering XEs obligations and the 
+specific circumstances of this case, I cant fairly tell it to refund any of his money.
+In response to my provisional decision, XE provided, in confidence, additional evidence to 
+show when and how it became aware that the Toot Capital account might have been 
+involved in fraud.
+Mr N didnt accept my provisional findings and maintains that XE should refund all his money 
+because it should have done more to prevent the scam. He said, in summary, that:
+He believed, like thousands of other people, that Algotechs and BeAlgo were genuine 
+investment firms. He was not an experienced investor, was not willing to risk his money 
+and believed he would get an 8% return. It was a professionally orchestrated scam and 
+no-one who sent money to the fraudsters has managed to generate the promised 
+income or been able to withdraw their money. The FCA never explicitly states that a 
+certain company is scam.
+XE did not have effective money laundering or fraud prevention measures in place and it 
+failed to comply with the BSI PAS code which sets out the type of transactional 
+behaviour which might indicate fraud is taking place. It called him towards the end of 
+December 2018, by which time hed already sent more than £516,000 to the scammers. 
+A restriction was placed on his account simply because he was transacting while 
+overseas. He didnt provide detailed information about his investment plans in response 
+to XEs enquires because he didnt realise, at that time, he was being scammed and saw 
+no reason to disclose information that was not specifically requested.
+Our investigator thought XE ought to have made enquiries about the payments. And he 
+suggested that a conversation did take place in which the purpose of the payments was 
+discussed. This seems to contradict what I said in my provisional decision  that no discussion took place. And if XE have now denied that such a conversation took place, it 
+is lying and its testimony should be ignored.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+I set out in my provisional decision why I didnt think XE ought to refund any of Mr Ns money 
+and my overall opinion about that has not changed.  But I would add the following.
+My role has been to review Mr Ns complaint independently and Im not bound by any 
+conclusions the investigator reached. So I dont intend on explaining why my findings 
+differed from the investigators. 
+I dont think theres anything which supports Mr Ns suggestion that XE has lied or fabricated 
+evidence. So Ive made my decision after reviewing everything that has been said and 
+provided by both Mr N and XE.
+I note what Mr N says about XEs obligations, including his references to the BSI code, 
+various pieces of FSA and/or FCA guidance and best practice. But I must point out that 
+some of what he refers to relates to expectations for banks and building societies and, at the 
+time his transactions occurred, were not necessarily applicable to payment institutions like 
+XE. I have also already acknowledged that XE had a duty of care to protect its customers 
+against the risk of fraud and scams so far as reasonably possible. But it also had to balance 
+that with the requirement to execute authorised payment instructions without undue delay. 
+And I also think its relevant, as set out in my provisional decision, that the relationship 
+between customers and payment institutions like XE are often different to the relationship 
+between customers and their primary bank.
+Mr N has explained why he didnt disclose to XE his reasons for making the payments to 
+UPC Consulting. But XEs records suggest it did ask for this information by email in 
+December 2018 and his failure to reply was what prompted his account to be restricted. The 
+restriction appears to have been lifted in January 2019 after a phone call and email 
+exchanges with Mr N. The notes relating to the call are fairly limited, but suggest Mr N 
+merely explained he was trying to open a business account but had been making payments 
+from his personal account in the meantime. And he subsequently said in an email that he 
+wanted the account to be unrestricted because he was planning on making a number of 
+personal and business payments over the next couple of weeks. I think the name UPC 
+Consulting could feasible be assumed to relate to business activities and this name alone 
+doesnt suggest anything relating to an investment. Mr N has also said he wouldnt have 
+seen any need to disclose his investment plans to XE because he didnt know he was being 
+scammed then. Without that information, and given everything else Ive said, I cant agree 
+that XE ought to have taken steps to alert him to, or educate him about, possible investment 
+scams. 
+There remains nothing which suggests XE had, or ought to had have, concerns about the 
+recipient of Mr Ns payments at the time he made them. And Im satisfied it contacted him 
+promptly, in May 2019, after learning that one of the receiving accounts might have been 
+involved in a scam.
+My final decisionFor the reasons set out above, my final decision is that I dont uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr N to accept or 
+reject my decision before 3 December 2021.
+ 
+Ruth Hersey
+Ombudsman

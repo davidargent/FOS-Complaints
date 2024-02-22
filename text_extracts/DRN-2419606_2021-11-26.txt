@@ -1,0 +1,122 @@
+DRN-2419606
+The complaint
+Mr Hs complaint relates to the trade positions he held in his Contracts for Difference (CFD) 
+account with CMC Markets UK plc. He says that inconsistent pricing resulted in the 
+guaranteed stop loss order being triggered and his positions being closed prematurely.
+What happened
+Mr Hs position
+Mr H opened a sell position in Crude Oil Brent Cash in February 2020. The following day he 
+placed a guaranteed stop loss order at 49.091 for the weekend. On Monday, the market 
+opened at 23:00 GMT at 48.947. He says he intended to lower his stop loss to 48.50 but 
+never got the opportunity to do so because he was priced out as soon as the market had 
+opened. The sell price had dropped which triggered the guaranteed stop loss so CMC 
+closed the position he held. 
+He says this movement in price  against his position meant the price dropped below his 
+stop loss amount. The legitimacy of the drop in price is what Mr H disputes. He says these 
+positions were affected by an alleged price manipulation. He says, essentially, that the price 
+drop didnt reflect the underlying and wider market, and that but for CMCs price drop, the 
+stop loss would not have been exercised. 
+Mr H says there was no market volatility or liquidity issue that applied to these trades that 
+would explain the movement in CMCs prices.  There was no change in the underlying 
+market that would justify this.
+ 
+He says CMCs website showed the buy/sell price to be between 49.6 and 49.8 at the time 
+and not the price CMC say so it was above the 49.091 stop loss he had set. He also said 
+CMC gave him contradictory information regarding the spread. He says it was initially 
+implied the spread was 1.5 points but later was told it was 6 points. He said this was 
+deliberate to cover all bases.
+As a resolution he would like his losses and holding costs reimbursed, as well as 
+compensation for distress and inconvenience hes suffered in dealing with this complaint. He 
+calculates his loss to be £5000 based on the market rates available at that time as well as 
+interest until the complaint is resolved.
+CMCs position 
+CMC disagrees. They say the opening sell price was 48.947 which was lower than Mr Hs 
+guaranteed stop loss order at 49.091. They say a stop loss closure was applied when the 
+stop loss amount was reached so they correctly closed out his position and in line with his 
+instruction. 
+CMC have provided evidence which justifies their prices. They say the evidence Mr H has 
+provided, the line chart shows limited information and have provided a candlestick chart 
+instead which shows more detailed information. They say Mr H has misunderstood the high 
+and low prices in the market and incorrectly thought the difference in price is the spread. 
+CMC reject the allegation of manipulated pricing and say their prices could differ from other 
+providers and the Terms of Business explain this. The terms make clear their contractual 
+right to apply the stop losses where necessary so the closure was valid.
+Investigators view
+Our investigator looked at the complaint and said she couldnt see any evidence that CMC 
+had manipulated the prices. She said their prices were fair and generally in line with the 
+underlying market. She also wasnt able to say that theyd given Mr H any incorrect or 
+contradictory information regarding the spread and so didnt uphold the complaint.
+Mr H didnt agree with the investigator and maintained his position, so this has come to me 
+for a final decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I will not be upholding this complaint. I will explain further.
+ 
+Guaranteed stop loss closure
+CMC had a contractual right to apply stop loss closures to open positions in circumstances 
+where a stop loss amount has been reached. The terms of the agreement gave CMC the 
+right to close any positions affected without prior notice. The chart evidence shows that the 
+stop loss amount was reached when the market opened on Monday and so the guaranteed 
+stop loss closure was correctly applied. 
+The stop loss closure itself isnt in dispute so I have considered below Mr Hs complaint 
+about the pricing that led to the stop loss closure. But in terms of CMCs application of the 
+stop loss closure, I dont believe theyve done anything wrong.
+Legitimacy of the price 
+Mr H believes the stop loss price was not achieved when CMC say and that they have 
+provided contradictory evidence of this. CMC have provided candlestick chart which shows 
+the low price was 48.766. Ive also seen their internal tick data which shows the historical 
+price. The pricing data shows the position opened at 48.947 and within four minutes of 
+trading the price changed to 49.091. I am satisfied the pricing information I have been 
+provided is accurate.
+Although the prices for CFD trades would be based on CMCs prices and not any relevant 
+exchanges, CMC have also provided underlying market data. This shows the opening price 
+to be 48.57 and didnt exceed 49.091 until the forth minute of trading. The independent third 
+parties that provide the source feed can also vary, so there is room for variation in the prices 
+with the different providers. This point is also covered in clause 4 of the Terms of Business 
+(TOB), that the prices may not be identical to prices for similar financial instruments or other 
+relevant underlying instrument quoted in an exchange or other trading venues. Mr H 
+accepted the terms and conditions for his execution only account and that included his 
+acceptance of their TOB.I dont contest the information Mr H provides but CMC has shown that their prices were 
+reflective of the prices in the underlying market. Whilst I appreciate Mr Hs strength of 
+feelings on this issue, I havent seen any evidence that CMC have done anything wrong 
+here. 
+Spread adjustment
+Clause 6.2 of the TOB says Prices and Settlement Prices will take into account market data 
+from various sources, in order to enable us to check whether our prices are fair and we are 
+delivering on our best execution obligation. However, Prices and Settlement Prices may not 
+match prices that you see elsewhere (including prices quoted on Trading Venues or by other 
+providers). Prices and Settlement Prices include our reasonable margin.
+The terms required CMC to use its price feed, so I expect to see prices that reflect that price 
+feed. CMC say their prices reflected the prices available in the underlying market plus a 
+spread adjustment that is applied within tolerance levels. The terms and policy allowed them 
+to apply spreads within a certain tolerance level of those prices or of the wider market prices. 
+I would expect that the arrangements for applying spreads and the levels relevant to them 
+should be reasonably transparent and accessible to an account holder. 
+I can see that the price feeds and spreads information is available on CMCs platform and 
+they also display the spread on the traders main trading page so it is easily accessible. This 
+suggests that CMC wanted a degree of transparency in their platforms prices.
+I appreciate Mr H feels he was given contradictory information but looking at the information 
+provided, it seems he has understood the difference in price in the underlying market and 
+the sell price to be the spread. As Ive explained above, there can be a variation in the price 
+feed which comes from the source so the price isnt always identical to the underlying 
+market. 
+The evidence CMC has shown largely are reflective of the prices in the underlying market. I 
+think to go beyond this and begin to determine what is or is not reasonable tolerance, could 
+arguably be interfering with the firms commercial discretion  a discretion which are they 
+entitled to exercise. Our role here is not to interfere with a firms commercial decision but to 
+consider whether they have done anything wrong. I think anything further than this would be 
+crossing over to the remit of regulation which is for the regulator to consider, not this service. 
+Mr H does not appear to have presented evidence to support the manipulation that he has 
+described. CMC source its price feeds from a third party and this is explained in the TOB. 
+Overall, on balance and for the above reasons, I am not persuaded that the closing price for 
+the trade was false or manipulated or that the position was closed prematurely. As such, I do 
+not uphold Mr Hs complaint.
+My final decision
+For the reasons given above, my decision is that I do not uphold this complaint against CMC 
+Markets UK Plc. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr H to accept or 
+reject my decision before 24 December 2021.
+ 
+Naima Abdul-Rasool
+Ombudsman

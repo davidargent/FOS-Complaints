@@ -1,0 +1,257 @@
+DRN-2924578
+The complaint
+Mr B and Mrs B complain about changes National Westminster Bank Plc (NatWest) made to 
+the way they access their accounts online. Although Mrs B has consented to this complaint 
+our communication has been with Mr B. So, for ease of reading, Ill refer only to him.
+Mr B says hes been inconvenienced by the changes. Hes also unhappy with how 
+NatWest responded to his concerns.
+What happened
+In December 2019 Mr B complained that accessing his online banking now involved him 
+having to use a card reader, and that the requirement for the card reader was not consistent. 
+In a call with NatWest he said he objected to being forced to use a card reader because he 
+doesnt have a mobile phone. He said, I shouldnt be hampered in any way because I dont 
+have a mobile phone.
+Mr B also said that, as hes someone who doesnt use a mobile phone, NatWest should 
+refrain from presenting him with online messages relevant to mobile phones, and other 
+irrelevant notices.
+NatWest responded to Mr Bs complaint. They said:
+theyd introduced two-factor or strong customer authentication (SCA) in response to 
+regulations;
+the card reader was their only authentication option for customers who dont use a 
+mobile phone;
+whether a card reader is required will depend on a number of factors including the 
+banks knowledge of a customers logging in pattern;
+they were sorry that Mr B had previously been given unclear information about the 
+requirement for a card reader (hed been wrongly told it was linked to time elapsed 
+since last log in or was random); and
+the online messages Mr B sees and finds irrelevant are generic, not personalized.
+Unhappy with this response, Mr B brought his complaint to our service. Mr B made a 
+detailed 5-page submission to us about his complaint and has since added to that detail in 
+his correspondence with our investigator. Id like to reassure Mr B that I have read all his 
+submissions in full, and my summary here is in no way intended to reduce any aspect of his 
+complaint or to deny his strength of feeling about it. Mr B complained that:
+Hed been pressured to make his complaint to NatWest over the phone, rather than 
+in writing;
+NatWest refused to tell him exactly what the regulation said so he could be sure a 
+card reader was the only way to comply;
+NatWests response had brushed the issue of the randomness of the card reader 
+requirement under the carpet  he wanted further information on this, but they 
+refused to supply it;
+Hed wrongly been told that the card reader requirement related to the elapsed time 
+since the previous access;
+Hed not been advised how he should behave to create a profile that would avoid the 
+hassle of a card reader; and
+He remained unhappy that NatWest had said they couldnt avoid him receiving 
+unsolicited and irrelevant messages/notices. He said: I dont think NatWest should 
+push out messages indiscriminately, perhaps as an easy way to disseminate 
+information. That, in my opinion, is too crude and shows an avoidable disregard for 
+the customer.
+What Mr B told us
+At the end of 2020 Mr B updated us on the situation and explained that sometimes when he 
+tried to log in to his account he was asked to use the card reader, but when he restarted or 
+refreshed the log in sequence he was able to gain access to my account as of old i.e. 
+without any invitation to use a card reader. He said this undermined the layer of security 
+NatWest had said the card reader was intended to add.
+Mr B provided us with screenshots of the process to demonstrate that he was not being 
+asked to use his card reader but was able to get into his account and perform all the usual 
+functions of online banking.
+When our investigator explained that this was likely to be due to NatWest using device 
+recognition, Mr B said he was still mystified as to how the card reader provides additional 
+security because a thief illegally in possession of his log in details and his computer device 
+would be able to log in without a card reader.
+What NatWest told us
+NatWest explained that they made changes to their security processes in order to comply 
+with the Payment Services Directive 2 (PSD2) and the requirement to bring in two-factor or 
+strong customer authentication.
+We asked NatWest to explain why Mr B is not required to use his card reader every time he 
+logs in. As the Financial Conduct Authority (FCA) had required payment service providers 
+(PSPs), like NatWest, to implement SCA by March 2020 we asked NatWest whether the 
+reason Mr B wasnt always required to use his card reader was because NatWest were 
+applying a permitted exemption from SCA (Regulation 100 (5) of the Payment Service 
+Regulations 2017 specifies certain circumstances in which payment service providers are 
+allowed not to apply SCA).
+NatWest confirmed that they are not applying any exemption to Mr Bs account. Rather, they 
+explained that they use device recognition as part of two-factor authentication. Their system 
+also requests authentication by card reader (or mobile phone if one is owned/used) in some 
+other circumstances  circumstances which suggest an increased risk or threat to the 
+account.Our investigators view
+Our investigator didnt uphold Mr B and Mrs Bs complaint. He said he couldnt consider 
+Mr Bs complaint that hed been pressured to make his complaint to NatWest over the phone 
+because that was solely about complaint handling and, for that reason, not something wed 
+look at. About Mr Bs other complaint points our investigator said:
+Although Mr B finds some of the online notices and messaging irrelevant to him, how 
+NatWest chooses to use its website to provide information to its customers is a 
+commercial decision;
+NatWests decision to require the use of a card reader for online banking is not unfair 
+or unreasonable  PSPs are required by the FCA to implement SCA;
+Hed seen no evidence that Mr B and Mrs B have any difficulty with using the card 
+reader beyond finding it an extra step theyd prefer not to have to take; and
+He was satisfied with NatWests explanation regarding the apparent randomness of 
+the card reader requirement. Their approach is not unusual and did not indicate a 
+problem with NatWests implementation of SCA.
+Mr B didnt agree with the investigators conclusions. He said NatWest is the only bank to his 
+knowledge to insist on the use of a card reader and he maintained that its a bogus con if it 
+can be avoided by refreshing the log in page. He said he finds using the card reader a real 
+inconvenience and that NatWest had been dismissive rather than taking the problem to 
+system designers to see whether theyd got it wrong.
+Complaint handling
+Mr Bs complaint about how his complaint had been handled by NatWest wasnt addressed 
+by our investigator because our investigator didnt think it was within our jurisdiction to look 
+at. I disagreed with that. So, I set out both why I considered it to be something we could look 
+at, and my provisional thoughts on NatWests complaint handling, in an email to both parties. 
+In summary, I said:
+although a complaint solely about complaint handling without any connection to the 
+underlying financial service that the firm provided may be out of our jurisdiction, if the 
+actions being complained about relate to the underlying financial service or the way 
+in which the firm has administered its business in providing that financial service, as I 
+think is the case here, we are able to consider them;
+Id listened to a recording of the telephone conversation NatWest had with Mr B in 
+December 2019;
+I thought there was some miscommunication between the parties during the 
+conversation about the complaint process, but ultimately I found Mr B was given an 
+opportunity to expand on his written complaint, it wasnt a complaint that could be 
+resolved over the phone, and Mr B received a final response letter giving the 
+rationale for NatWests position and referral rights to this service;
+I didnt agree that NatWest had been dismissive of Mr Bs complaint or given him 
+referral rights to this service too soon  I found that NatWest had done what was 
+required under the FCAs Dispute Resolution (DISP) rules;
+given that NatWest were clear early on that they were complying with regulations (PSD2) and that they couldnt accommodate Mr Bs desired outcomes, I didnt think 
+additional written correspondence prior to the final response letter would have been 
+productive or resolved the complaint; and
+I didnt agree that NatWest had acted unfairly or unreasonably or that Mr B was in 
+any way disadvantaged by the way they handled his complaint.
+In response, Mr B said he still felt NatWest had acted unacceptably by issuing a final 
+response letter when they did because, it left no possibility of an exchange or clarification of 
+views on the matter . He said hed been put at a disadvantage when he brought his 
+complaint here as written exchanges would have allowed him to articulate his complaint 
+better. He further commented that PSD2 does not mandate the use of a card reader and 
+said he deserves to know the reasons behind being forced to use one.
+As no agreement was reached, the complaint has been passed to me for a final decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, although Im sorry Mr B and Mrs B are likely to be disappointed, I have 
+reached the same outcome as our investigator did and for broadly the same reasons. Ill 
+explain why.
+The Payment Services Regulations 2017 (the PSRs) Reg. 100, which came into force on 
+14 September 2019, says that a payment service provider (PSP) must apply strong 
+customer authentication where a payment service user accesses its payment account 
+online, initiates an electronic payment transaction; or carries out any action through a remote 
+channel which may imply a risk of payment fraud or other abuses.
+Strong customer authentication (SCA) is defined in the PSRs. It means:
+authentication based on the use of two or more elements that are independent, in 
+that the breach of one element does not compromise the reliability of any other 
+element, and designed in such a way as to protect the confidentiality of the 
+authentication data, with the elements falling into two or more of the following 
+categories
+(a)     something known only by the payment service user (knowledge);
+(b)     something held only by the payment service user (possession);
+(c)     something inherent to the payment service user (inherence);
+The FCA and UK Finance have both issued guidance to PSPs on the implementation of 
+SCA. The FCA in its guidance document Payment Service and Electronic Money  Our 
+Approach says:
+We encourage firms to consider the impact of strong customer authentication 
+solutions on different groups of customers, in particular those with protected 
+characteristics, as part of the design process. Additionally, it may be necessary for a 
+PSP to provide different methods of authentication, to comply with their obligation to 
+apply strong customer authentication in line with regulation 100 of the PSRs 2017. 
+For example, not all payment service users will possess a mobile phone or smart phone and payments may be made in areas without mobile phone reception. PSPs 
+must provide a viable means to strongly authenticate customers in these situations.
+UK Finance has also issued guidance to businesses detailing a non-exhaustive list of 
+authentication methods a PSP can employ to satisfy the possession element of SCA. 
+These include possession of a card evidenced by use of a card reader, and possession of a 
+device evidenced by a hardware or software signature or device binding. In other words, 
+PSPs can use device recognition to meet the possession element of SCA.
+I think these regulations, and the associated guidance, mean that NatWest are required to 
+implement two-factor authentication. Theyre also required to offer authentication methods 
+which are workable for customers who do not use mobile phones. But neither the regulations 
+nor the guidance is prescriptive about the authentication methods a PSP must offer. Its clear 
+there are a range of ways PSPs can authenticate customers and not all PSPs will adopt the 
+same range.
+NatWests primary option for satisfying the possession element of SCA is to send a code to 
+a mobile phone registered to their customer. But where the customer does not have or use a 
+mobile phone, as is the case with Mr B and Mrs B, NatWest offer a card reader to establish 
+possession of the customers card. NatWest have explained that, over time, once the 
+customers device becomes recognised by NatWests systems, the need to establish 
+possession of either a mobile phone or a card lessens. At that point NatWest is satisfying the 
+SCA requirements by checking a customers knowledge (the customers number, and 
+characters from their online banking PIN and password) and recognising possession of a 
+device that the customer has used to access online banking previously.
+When a device becomes recognised and the card reader is called for less often, I dont think 
+that means the card reader was unnecessary to begin with or will never be required again. 
+On the contrary, it would have been necessary to use the card reader to satisfy the 
+possession element of SCA until such time as Mr Bs device became recognised by 
+NatWests systems. As Mr B has already discovered through trying, the card reader is still 
+required if Mr B attempts to log in from a different device. And it may also be required if he 
+undertakes any action remotely which suggests a risk of payment fraud or other abuses. 
+Mr B has interpreted this as inconsistent; a random application of the security measure 
+which renders it worthless. But Ive seen nothing to suggest NatWest are applying the card 
+reader requirement arbitrarily  its applied when the circumstances require the possession 
+element of SCA to be satisfied with possession of a card.
+Although I appreciate that Mr B finds using the card reader a real inconvenience, I dont 
+think its an unviable method of authentication for either him or Mrs B, or one theyre unable 
+to use. And whilst I accept that two-factor authentication can create some extra steps which 
+some consumers might find frustrating, that must be balanced against the aim of reducing 
+the significant risk payment fraud presents to both customers and businesses.
+That risk is difficult to eliminate entirely. As Mr B has pointed out, if an unauthorised third 
+party obtained his log in information along with the device he ordinarily uses for doing online 
+banking theyd be able to access his accounts (satisfying both the knowledge and 
+possession elements of SCA) without the card reader. But the fact that there is a small risk 
+of that happening  of a third party being able to compromise the knowledge and possession 
+elements of SCA  does not undermine the requirement for two-factor authentication. It 
+stands to reason that authentication based on two or more elements that are independent of 
+each other, will offer better protection against fraud than authentication by one element 
+alone.I find that NatWest have made changes which they are required by regulation to make. 
+Initially the explanations given to Mr B about these changes could have been better, but I 
+think NatWest corrected any errors in those explanations when they responded to his 
+complaint. In their final response NatWest did explain that the device used for logging into 
+online banking was part of a customers logging in pattern and relevant to the requirement to 
+use the card reader.
+Mr B also raised concerns about how NatWest handled his complaint. In particular, he said 
+that he was pressured to make his complaint to NatWest over the phone, rather than in 
+writing, and that NatWest dismissed his concerns by moving as directly as possible to  
+[the] ombudsman process. I set out my provisional thoughts on this aspect of Mr Bs 
+complaint in an email on 11 November 2021 and Ive summarised what I said above. Having 
+considered Mr Bs reply Ive found no reason to come to a different conclusion. I think 
+NatWest dealt with Mr Bs complaint fairly and reasonably by listening to his concerns, 
+providing him with their written final response, and giving him referral rights to this service. I 
+remain of the view that an exchange of written correspondence between NatWest and Mr B 
+about the SCA changes, prior to the final response, is unlikely to have resolved matters any 
+sooner or avoided Mr Bs escalation of his complaint to this service.
+I also dont think that by not having more correspondence with NatWest Mr B was put at any 
+disadvantage when he brought his complaint to this service. We decide complaints based on 
+what is fair and reasonable in all the circumstances taking into account: relevant law and 
+regulations; regulators rules, guidance and standards; codes of practice; and, where 
+appropriate, what we consider to have been good industry practice at the relevant time. 
+Were an informal and free alternative to the courts, and consumers do not require any 
+specialist subject knowledge to bring their complaint to this service. We also have an 
+inquisitorial remit and so look at the substance of the complaint not just the complaint as it's 
+written or explained to us. In short, the complainant does not have to investigate their own 
+complaint and articulate it in technical terms before coming to us.
+Finally, with regard to Mr Bs complaint about receiving information or notices online that are 
+irrelevant to him, I agree with what the investigator said. I appreciate Mr B has at times felt 
+bombarded with information but I dont think NatWest acted unfairly or unreasonably when 
+it used its website to provide customers using online banking with generic rather than 
+personalised information. Mr B told us in July 2021 hes no longer impeded by irrelevant 
+questions and market information when he logs in. So, it seems this is no longer an issue 
+for Mr B in any event.
+In conclusion, I dont uphold Mr B and Mrs Bs complaint about the changes NatWest made 
+to the process for accessing online banking services or how NatWest have behaved towards 
+Mr B and Mrs B in relation to those changes. I know that Mr B is likely to be disappointed 
+with this outcome; hes shown through his submissions how deeply invested he is in this 
+complaint. But I cant agree with Mr B that hes been penalised for not having a mobile 
+phone, or that NatWest have acted unreasonably.
+The changes were, as NatWest correctly explained to Mr B when he first complained by 
+phone, driven by the Payment Services Directive 2  a European Directive brought into UK 
+law by the PSRs 2017. NatWest also gave Mr B and Mrs B a viable alternative to 
+authenticating with a mobile phone; a card reader. And NatWest have since explained why, 
+now device recognition has been established, the card reader is required less frequently.
+Overall, I dont think NatWest have acted unfairly or unreasonably, and I wont be asking 
+them to do anything more.
+My final decisionMy final decision is that I dont uphold Mr and Mrs Bs complaint about National Westminster 
+Bank Plc.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr B and Mrs B to 
+accept or reject my decision before 23 December 2021.
+ 
+Beth Wilcox
+Ombudsman

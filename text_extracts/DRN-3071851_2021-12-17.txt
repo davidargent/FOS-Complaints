@@ -1,0 +1,235 @@
+DRN-3071851
+The complaint
+Ms D complains that Lloyds Bank PLC didnt do enough to help when shed sent funds to 
+one of its customers accounts as a result of an email interception scam.
+Ms D is represented in this complaint by Mr M. But for ease of reading, Ill mostly refer to 
+Ms D.
+What happened
+The detailed background to this complaint is well known to both parties. So, Ill only provide 
+an overview of some of the key events here.
+Ms D is a solicitor and was acting for Mr M in relation to the sale of a property, she was 
+expecting to send a payment of 80,555.03 euros to Mr M, following the sale of his property. 
+On 27 January 2020 Ms D emailed Mr M to advise that she would be arranging to send the 
+payment to him later that day (to account details hed previously provided). Following this 
+she received an email from someone purporting to be Mr M asking for the payment to be 
+sent to different account details. Ms D sent the money to the new account details, unaware 
+at the time the email communication between her and Mr M had been intercepted and the 
+new account details shed been provided with were not Mr Ms. The money credited an 
+unknown third-party account held with Lloyds. 
+Ms D realised something was wrong when Mr M contacted her as the money he was 
+expecting had not arrived. She notified her bank, who Ill refer to as B, to request the return 
+of the money. B contacted Lloyds, who advised no funds remained that could be returned. 
+Mr M also reported the matter to Lloyds, the police and Action Fraud.
+Ultimately, Ms D complained. She was unhappy that Lloyds had failed to carry out due 
+diligence on a large incoming payment and had credited the money to its customers account 
+without checking that the named beneficiary on the payment instruction matched the named 
+account holder. She also had concerns about the action taken by Lloyds following 
+notification of fraud and its failure to co-operate with B. She asked Lloyds to return the 
+money which she says has been incorrectly paid into Lloyds customers account.
+Lloyds issued its final response after Ms D had brought her complaint to our service. It didnt 
+uphold Ms Ds complaint. It said it couldnt agree to returning the money as it had made no 
+errors. The beneficiary account was opened correctly, was operating normally and there 
+were no reasons for concern prior to receiving notification of fraud from B. Upon notification, 
+it blocked the account and informed B no funds remained. It confirmed an investigation into 
+the account was carried out and appropriate action had been taken. It also said that it had 
+managed to recover £7,755 from other banks the money had been paid away to, which was 
+returned to Ms Ds account.  
+Ms D was not satisfied with Lloyds response. She was also unhappy with the length of time 
+Lloyds had taken in responding to her complaint. She said that it was unacceptable, and the 
+delay has hindered the likelihood of recovery of the funds, identification of the criminals and 
+the polices ability to take action. In addition to returning the money, she said she would like 
+Lloyds to award compensation for the considerable amount of stress its actions have caused 
+her client Mr M. 
+Our investigator considered Ms Ds complaint but didnt think it should be upheld. In 
+summary, he couldnt fairly say that Lloyds had done anything wrong. He concluded that 
+Lloyds couldnt reasonably have identified the fraud nor could it have recovered more 
+money. Ms D disagreed and asked for an ombudsman to review the complaint. 
+Upon reviewing Ms D and Lloyds submissions I thought that in reaching his conclusion, our 
+investigator had taken into account some considerations which fall outside our services 
+jurisdiction. I wrote to Ms D as I wanted to clarify what I can  and cant  look into. I also 
+shared what I thought about the aspect of her complaint that I could consider. 
+Ms D asked for a formal written decision. 
+On 16 December 2021, I issued a jurisdiction decision in which I explained the limits on 
+which parts of Ms Ds complaint I can consider and why. Now the jurisdiction matter has 
+been decided, Ive shared below what I think about the aspects of Ms Ds complaint I do 
+have the power to investigate. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, Im sorry to disappoint Ms D, but Im not upholding this complaint. Ill 
+explain why. 
+Firstly, I think it would be helpful for me to explain that an account later found to have been 
+utilised to misappropriate funds doesnt automatically entitle the payer (victim) to a refund 
+nor does it definitively mean that the recipient bank reasonably failed to prevent a loss. I also 
+can't consider the complaint with the benefit of hindsight. I need to decide whether the steps 
+taken by Lloyds, based on the information available to it at the time, were reasonable. In 
+reaching that decision I must take into account what at the time were Lloyds regulatory 
+obligations and what was considered good industry practice. It wouldnt be fair or reasonable 
+to apply standards or processes that apply to payments made today if these werent in place 
+at the time of the event complained of.
+Due diligence on incoming payment
+Ms D's says that Lloyds ought to have checked that the named beneficiary on the payment 
+instruction matched the named account holder before crediting funds to the third-party 
+account. I can understand why she feels strongly about this point. But at the time the 
+payment was made, there was no requirement on receipt of a payment for the receiving 
+bank to check whether the name on an account matched the named payee.  As Ive previously explained in my jurisdiction decision, I cant consider a complaint about a 
+payment service users rights and Lloyds obligations arising under Parts 6 and 7 of the 
+Payment Services Regulations 2017 (PSRs). My consideration is limited to whether, on 
+receipt of the payment, Lloyds failed in its obligations to identify its customers account was 
+being used to receive authorised push payment (APP) scam funds. I will, however, need to 
+refer to some sections of the regulations to explain the reasons for why I dont think Lloyds 
+reasonably ought to have checked the beneficiary name on receipt of payment. But to be 
+clear it will only be in the context of explaining why, I dont think, Lloyds could have 
+reasonably done more to prevent the fraud.  
+The PSRs set out that a payment is sent according to a unique identifier. This is the key 
+information used to route the payment to the correct destination and payee. 
+The PSRs define a unique identifier as follows: 
+ .. unique identifier means a combination of letters, numbers or symbols specified to the 
+payment service user by the payment service provider and to be provided by the payment 
+service user in relation to a payment transaction in order to identify unambiguously one or 
+both of 
+(a) another payment service user who is a party to the payment transaction; 
+(b) the other payment service users payment account
+The effect of this is that for UK payments this is typically the account number and sort code. 
+And for an overseas payment (like here) it will be the international banking account number 
+(IBAN) of the payee. Other information may be provided as part of the payment instruction, 
+but this is not part of the unique identifier, unless it has been specified as such by the 
+payment service provider (PSP)  which is not the case here. 
+I explained when I wrote to Ms D a payee name is not unique. A bank/PSP could hold 
+multiple accounts for persons with the same name, however, no two payment accounts 
+share the same account number and sort-code (or IBAN)  this is unique to the payment 
+account. Therefore, typically these details (not a payees name) are considered the unique 
+identifier.
+Section 90 of the PSRs states: 
+(1) Where a payment order is executed in accordance with the unique identifier, the 
+payment order is deemed to have been correctly executed by each payment service provider 
+involved in executing the payment order with respect to the payee specified by the unique 
+identifier 
+The impact of this is that as long as the receiving PSP processes the payment transaction in 
+accordance with the unique identifier provided and the funds are credited to the specified 
+account number and sort-code (in Ms Ds case the IBAN provided) the payment is 
+considered to be executed correctly. 
+Ms D says B told her it is the receiving banks responsibility to check the IBAN and 
+beneficiary details on receipt of payment  not theirs  as they wouldnt have access to this 
+information. I appreciate the point Ms D makes, that unlike UK banks which have signed up 
+to confirmation of payee (CoP), overseas banks do not have access to the beneficiary 
+account holder details. So certain checks cant be completed when the payment is initiated. I 
+can see why having been the victim of a scam perpetrated in this way, Ms D feels that a 
+simple, yet effective step to prevent this type of fraud occurring would be for receiving banks 
+to carry out these additional checks on receipt of an overseas payment. However, at the time, Lloyds systems were set up to automatically credit payments received  
+from overseas banks to the account with the corresponding unique identifier (IBAN)  
+checking the payee name against the account holder name was not part of the process. Nor 
+was this a requirement under the relevant regulations. It also wasnt industry practice, on 
+receipt of an overseas payment, to check that the beneficiary name matched. So I can't fairly 
+say that Lloyds havent acted reasonably when crediting the payment Ms D sent to the 
+payment account associated with the IBAN details shed provided in her payment instruction 
+to B, and I am not persuaded Lloyds should have done more to check the beneficiary name 
+in the circumstances of this payment. So Im satisfied Lloyds couldnt reasonably have 
+prevented the fraud on receipt of Ms Ds payment.
+Account activity 
+I agree with the investigator that there was a change in the operation of the account. But 
+simply because something might appear to be unusual or uncharacteristic doesn't always 
+equate to fraud nor does a failure to intervene invariably lead to the conclusion that the loss 
+was preventable. Whilst one reason to explain a change in the operation of an account is 
+possible fraud. There are several other legitimate reasons which can equally be a possible 
+reason for the change in someones account operation, such as, a lifestyle change 
+(employment, marriage, relocation, inheritance) or a one-off sale/purchase.
+In these circumstances, looking at the change in activity on the account I think its 
+reasonable to have expected Lloyds to have made some enquiries. However, Im persuaded 
+upon contact the beneficiary account holder would've provided a plausible explanation for 
+the receipt and expenditure of the funds. I say this because, here, the account holder did 
+respond to Lloyds investigations after receipt of notification of fraud from B. I think if Lloyds 
+had intervened at an earlier point, they most likely wouldve been provided with the same 
+explanation about the source of funds and spending. At this stage I don't think Lloyds 
+wouldve had a reasonable basis upon which it could say that it did not accept what its 
+customer had said based on what wouldve been known to it at that point in time  which 
+was the following:
+beneficiary account was an established account;
+there were no notably obvious signs or warnings of fraud;
+the spending on the account did not fit the usual pattern of fraud Lloyds may expect 
+to see in cases of misappropriation of funds;
+in fact the spending supported the narrative the account holder provided Lloyds 
+during its investigations about the source of funds; and
+there was no suspicious or unusual activity on the account prior to Ms D's funds 
+arriving and being paid away.
+With the benefit of hindsight, its easy to say the Lloyds ought to have identified this as fraud. 
+But faced with the above scenario, with no notifications of fraud and an explanation provided 
+by the account holder that wasnt noticeably suspicious, and which could easily have been a 
+genuine set of circumstances. I dont think in this situation prior to receipt of notification of 
+fraud there was enough evidence or grounds upon which Lloyds couldve withheld the funds 
+from their customer and reasonably concluded fraud.Response and recovery
+Im also satisfied that Lloyds responded appropriately to notification of fraud and acted 
+reasonably by returning funds it had managed to recover from one of the banks its account 
+holder had transferred money to. I have taken on board the point Ms D raises about the 
+fraud being reported to Lloyds in February 2020 and funds not being returned until 
+August 2020. Naturally I would expect this to raise concerns and questions around whether 
+proper action was taken by Lloyds? and whether there were delays that impacted sums that 
+couldve been recovered? 
+With that in mind, Ive reviewed the account statements and I am satisfied that by the time 
+Lloyds received notification of fraud (even at the earliest point of 6 February 2020) the 
+balance of the account at that point was under £1 and the money Ms D had sent, had 
+already been spent.
+The process a receiving bank would generally follow upon receipt of notification of fraud 
+would be to immediately place blocks on the account to prevent any further loss and notify 
+the sending bank whether any funds remained. The receiving bank would then conduct its 
+own investigation before returning any funds (if any remained). Here, Im satisfied Lloyds 
+promptly blocked the beneficiary account upon notification and informed B no funds 
+remained in the account that could be returned. The information provided at the time was 
+correct. 
+I can see Lloyds went a step further by contacting the banks where the funds had been 
+transferred to from their customers account, to assist in any recovery beyond the account 
+they held. In April 2020 and May 2020, one of the banks notified Lloyds some funds had 
+been recovered. Lloyds sent swift messages to B in April and May 2020 informing them 
+money had been recovered. It asked B to send an indemnity so that the recovered money 
+could be returned. No indemnity was received from B until August 2020. Upon receipt of 
+which the money recovered was returned.   
+So ultimately, I dont think Lloyds actions in assisting Ms D with the recovery of her funds 
+have been unreasonable and in my judgement from what Ive seen I dont think the delay in 
+returning the money recovered resulted from Lloyds failure.
+Whilst I appreciate Ms D has suggested the delay in responding to her complaint has 
+impacted the recovery of her payment, identification of the criminals and action that couldve 
+been taken by the police  Im afraid I disagree. I think its important to distinguish that there 
+is a difference in the time Lloyds took to respond to the fraud and the time it took to respond 
+to Ms Ds complaint  and the impact on the recovery of the money. As Ive explained above, 
+Im satisfied Lloyds acted promptly upon notification of fraud  unfortunately by the time it 
+received notification Ms Ds money had left the account. A police investigation into a 
+reported crime is an independent matter. I can see that Mr M informed the police at the time 
+the scam was discovered. It wouldve then been for the police to contact Lloyds. Im sure 
+had Lloyds been contacted by the police; it wouldve co-operated with their enquiries. So Im 
+satisfied that even if Lloyds had provided its response to Ms Ds complaint sooner it still 
+wouldnt have resulted in more money being recovered.  Co-operation with M
+Part of Ms Ds complaint is about Lloyds failure to respond to Bs request for confirmation 
+that Mr M was not the beneficiary account holder. Ive not seen any evidence that B has 
+requested this information from Lloyds. Also taking into consideration that Ms D has said she 
+chased B for Lloyds response but obtained no reply. I think its most likely that B did not ask 
+Lloyds for this information. So, I cant fairly say that Lloyds have failed to co-operate with B 
+in its efforts to recover Ms Ds funds.     
+Trouble and Upset
+Ive carefully considered whether I think compensation is payable for any trouble and upset 
+for the overall handling of the matter and delays in responding to Ms Ds complaint. 
+Ultimately, I think the majority of the distress and inconvenience Ms D has experienced 
+stems from the actions of the fraudsters who intercepted the email communication between 
+her and Mr M. It follows that I cant fairly ask Lloyds to pay Ms D compensation for the stress 
+caused by the actions of a third-party. And as I don't consider this complaint should be 
+upheld in favour of Ms D - whilst I accept the whole incident will have caused distress and 
+inconvenience, I'm not satisfied this should warrant any payment of compensation. 
+Overall, to be able to ask Lloyds to return Ms Ds money I would need to be satisfied that its 
+failure to intervene and/or appropriately respond upon notification of fraud caused money to 
+be paid away that otherwise wouldnt have been. Ive carefully considered this and on 
+balance, based on what I've seen I don't think Lloyds couldve done more. I say this 
+because looking at everything known to Lloyds at the time (not what is known today) I can't 
+say that prior to notification of fraud there was enough going on that ought to have 
+reasonably given Lloyds a material cause for concern over fraud/misappropriation of funds. I 
+also dont think the observed activity would've reasonably led Lloyds to the conclusion that 
+this was fraud with the required level of certainty needed to act outside its customer mandate 
+and refuse payments its account holder had authorised. Im also satisfied Lloyds responded 
+appropriately when notified of the fraud. So it follows that I cant fairly ask Lloyds to do 
+anything more.
+My final decision
+For the reasons above, my final decision is that I dont uphold Ms Ds complaint against 
+Lloyds Bank PLC.
+Under the rules of the Financial Ombudsman Service, Im required to ask Ms D to accept or 
+reject my decision before 14 January 2022.
+ 
+Sonal Matharu
+Ombudsman

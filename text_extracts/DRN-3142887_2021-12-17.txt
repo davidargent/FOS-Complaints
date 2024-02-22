@@ -1,0 +1,150 @@
+DRN-3142887
+The complaint
+Mr L complains Santander UK Plc failed to treat him fairly when he disputed transactions he 
+had made towards a contract with a third party.  
+What happened
+The background is well known to all parties to I will summarise only briefly:
+Mr L used his Santander credit card to pay a company I will call MRL £1,000 on 
+31 May 2017. The payment was made towards a contract he signed with another 
+company, R, to secure his release from a holiday club membership with a third 
+company (C), and claim compensation. Mr L paid a larger sum of £5,000 by 
+cheque to R, some time later.
+Mr L says R never carried out the work it said it would. He tried to get in touch 
+with it in 2018 but it didnt reply, and it turned out the company had gone into 
+liquidation. He contacted Santander on 4 July 2018 to dispute the amounts hed 
+paid. 
+Santander said it wasnt liable under section 75 because one of the key technical 
+criteria for a claim to be valid hadnt been met. It said that because the credit card 
+payment had been made to MRL, and not R, this broke one of the criteria: the 
+debtor-creditor- supplier (DCS) link. Internally, it considered whether it could have 
+disputed Mr Ls £1,000 card payment via a chargeback, but concluded that it 
+couldnt do this, again because the payment had gone to MRL.
+Dissatisfied with this response, Mr L brought a complaint to this service about 
+Santanders decision. The most recent investigator look into the complaint 
+thought that Santander had been right to decline the section 75 claim, but wrong 
+not to have pursued a chargeback. She recommended the bank refund Mr L the 
+£1,000 he paid on his card. Santander accepted this, but Mr L disagreed as he 
+thought he should receive a refund of everything hed paid.
+No agreement could be reached, so the case has now been passed to me to decide.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+When a person makes a payment for goods or services using a credit card, their credit card 
+provider may be able to help them in limited circumstances if something goes wrong with 
+what they have bought. The credit card provider may have a legal responsibility under 
+section 75 of the CCA, or it may be able to assist in obtaining a refund via the dispute 
+resolution procedures operated by the card network, typically referred to as chargeback.
+The Section 75 claim
+Section 75 of the CCA allows a consumer to claim against their credit card provider if they 
+have paid a supplier of the goods or services, and that supplier has breached its contract 
+with them, or misrepresented something to them. Certain technical criteria need to be met in 
+order for section 75 to apply to a particular purchase. One of these criteria is a key point of 
+dispute in Mr Ls case: the need for there to be a debtor-creditor-supplier agreement in 
+place.
+What having a valid debtor-creditor-supplier agreement in place generally means is that the 
+person making a claim needs to have used their credit card to pay the same company they 
+say has breached its contract with them, or misrepresented something to them. This is a 
+basic explanation but it is sufficient for the purposes of this decision.
+If the payment has been made to a third party then this will often cause the delicate chain of 
+connections to be broken, and for there to be no valid claim against the credit card provider.
+In Mr Ls case, his credit card payment has not been made to R, which it appears nobody 
+disputes breached its contract with him. His payment instead went to MRL. On the face of it 
+then, the necessary criteria for him to be able to make a claim against Santander under 
+section 75 of the CCA, are not in place.
+There are some exceptions however, to this general rule. If two companies are associates 
+as defined in section 184 of the CCA, then for the purposes of a claim under section 75 of 
+the CCA, a payment to one can be treated as being the same as a payment to the other. 
+This is because section 187 of the CCA has the effect of making companies which are 
+associates interchangeable for the purpose of the debtor-creditor-supplier agreement.
+What exactly is meant by associates is very specifically defined in the CCA. Just being 
+linked in some way, or having a commercial relationship, isnt enough by itself to make 
+companies associates. As defined in the CCA, two companies will be associates of one 
+another if they are controlled by the same people, or if people who control one company are 
+associates of people who control the other company. People are associates of one another if 
+they have certain familial relationships, or if they are in partnership.
+Our investigator looked into the question of whether or not R and MRL were associates. She 
+found that they were, but only until 1 December 2016, and they would have needed to have 
+been associates at the time of the payment to MRL, for this exception to apply. I share our 
+investigators analysis of the links between the companies. There was an individual, a Mr K 
+who caused R and MRL to be associates up until 1 December 2016. However, it appears he 
+then departed R, causing the association, in terms of section 184 of the CCA, to break.
+Ive thought carefully about whether, notwithstanding the fact R and MRL were not 
+associates at the relevant time, there was anything else about their relationship which 
+means it could be argued the debtor-creditor-supplier agreement was intact in this case. Ive 
+thought particularly about the case our investigator referred to: Bank of Scotland v. Alfred 
+Truman [2005] EWHC 583 (QB), in which the court found the debtor-creditor-supplier 
+agreement was intact in a scenario where a firm of solicitors had taken credit card payments 
+for one of its clients, a company importing cars. The judge observed in the course of his 
+conclusions, that other scenarios would need to be resolved on a case by case basis and 
+the liability of the creditor would depend on the precise contractual arrangements between 
+the parties. The judge contemplated that there would be scenarios where the relationship 
+between the parties would be too tenuous for a valid debtor-creditor-supplier agreement to 
+exist. In the Alfred Truman case, the court had a great deal of information about exactly what 
+the business relationship was between the solicitors and the car importer. Bearing in mind 
+the fact the judge highlighted the importance of the precise contractual arrangements in cases like this, this service has attempted to obtain more information about the relationship, 
+and any agreement, between R and MRL.
+The information which we have been able to obtain has been inconclusive, despite attempts 
+to contact the liquidators and individuals connected to MRL. Its clear enough that there was 
+a relationship between the companies, as otherwise I would not have expected MRL to take 
+payments for Rs customers. But I do not have enough information to establish what the 
+precise contractual arrangements were between them, and so I dont think I can reach a 
+conclusion that these arrangements were analogous to those in the Alfred Truman case. It 
+follows that I am unable to conclude there is a valid debtor-creditor-supplier agreement in 
+place which would allow Mr L to hold Satander liable for what has happened under section 
+75. The bank was therefore not wrong to decline his claim.
+Chargeback
+I mentioned earlier in this decision that a chargeback was a way in which a card provider 
+could assist in obtaining a refund for its customer via the dispute resolution process operated 
+by the relevant card network (in Mr Ls case, this was Mastercard).
+A chargeback is not something a consumer can demand their card provider attempt as of 
+right, but when contacted by a consumer requesting assistance with a disputed card 
+transaction I would expect the card provider to consider attempting a chargeback, and to do 
+so if there was a reasonable prospect of it succeeding. I would also expect the card provider 
+to administer the chargeback process in a competent way, without making errors.
+A common scenario in which a chargeback may be attempted is when goods or services 
+have been paid for, and they have not been received as agreed. Mr Ls dispute would fall 
+into this category, as it appears R failed to release him from his membership with C within 
+the time agreed in the contract, and then went into liquidation. It also appears his contract 
+came with a guarantee of a full refund if he wasnt released from his membership within 12 
+months.
+Chargebacks are not always successful, as Ive indicated above. There are rules which must 
+be followed for chargebacks, and these are set by the card networks. Chargebacks can be 
+opposed by the recipient bank if they think the rules have not been observed. One aspect of 
+the rules concerns the window of time, following a card transaction, in which a chargeback 
+must be attempted.
+The rules which applied at the time of Mr Ls transaction said that a chargeback needed to 
+be attempted within 120 days of the last date he expected to receive the service from R, so 
+long as this was no more than 540 days from the date of the credit card transaction. The last 
+date Mr L could have expected to receive the service from R would have been either when 
+the date in his contract came and went, and he remained a member of Cs holiday club 
+(around 31 May 2018), or when R went into liquidation and this became public knowledge 
+via Companies House filings (11 June 2018).
+Mr L first contacted Santander on 4 July 2018, long before any chargeback deadline had 
+expired. Santander at the time appeared to discount the possibility of a chargeback because 
+the payment had been made to MRL and not R. In my view this was wrong, as under the 
+relevant chargeback rules it is the company which receives the payment who is responsible 
+for chargebacks and disputes, as the merchant of record.
+It seems Santander made a mistake here, and ultimately the bank unfairly deprived Mr L of 
+the opportunity to obtain a refund via a chargeback. I think there was a fair prospect that a 
+chargeback would have succeeded in Mr Ls case, given it seems he was not provided with the service he paid for.
+Bearing this in mind, I think it would be fair and reasonable if Santander treated Mr L as 
+though it had successfully charged back his credit card transaction of £1,000.
+It is worth noting here that a chargeback can only be performed on a card transaction, and 
+(unlike section 75) it doesnt allow for refunds over and above the amount paid by card. The 
+payment Mr L made by cheque therefore, is not something Santander could have reclaimed 
+via a chargeback.  
+My final decision
+For the reasons explained above, I uphold Mr Ls complaint in part and direct Santander UK 
+Plc to take the following actions:
+Pay £1,000 to Mr L.
+Pay 8% simple interest per year* on the above amount, calculated from the date Mr L 
+first raised his dispute, to the date the refund is paid.
+*If Santander considers it is required by HM Revenue & Customs to deduct tax from this 
+interest then it must tell Mr L how much tax it has taken off, and give him a certificate 
+showing how much tax it has taken off, if he asks for one, so he can reclaim this tax from 
+HM Revenue & Customs if appropriate.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr L to accept or 
+reject my decision before 14 January 2022.
+ 
+Will Culley
+Ombudsman

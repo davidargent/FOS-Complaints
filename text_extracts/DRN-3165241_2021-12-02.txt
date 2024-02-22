@@ -1,0 +1,171 @@
+DRN-3165241
+The complaint
+Mr C complains that Monzo Bank Ltd wont refund transactions on his account he says he 
+didnt make or authorise. He also complaint about the closure of his account. 
+What happened
+ Mr C had an account with Monzo.
+ 
+On 30 October 2020, two transactions were made from Mr Cs account totalling just over 
+£51. Monzo says the transactions were authorised using Apple Pay, on Mr Cs mobile phone 
+so it thought the payments must have been made using Mr Cs phone with his knowledge or 
+permission.
+ 
+On 31 October 2020, Monzo reviewed Mr Cs account. Following its review, it decided to 
+close Mr Cs account immediately. And it wrote to him to let him know he needed to make 
+alternative banking arrangements.
+ 
+On 2 November 2020, Mr C contacted Monzo to find out why it was closing his account and 
+to raise a fraud claim for the two transactions that had been made on 30 October 2020. 
+Mr C said hed never made the transactions and had sold his mobile phone before the 
+transactions were made. And hed ordered a new phone on 28 October 2020. He provided a 
+receipt for the sale of his phone. He also said that the bank card used to make the 
+transactions had been lost and hed reported this to Monzo. 
+Mr C provided a taxi receipt which he says placed him over a hundred miles away from 
+where the transactions were made and a copy of the invoice for the sale of his phone to 
+support what hed said.
+Mr C wants Monzo to explain why it closed his account. He said he had trouble paying his 
+bills due to the disputed transactions. And had to use his credit card instead. He wants 
+Monzo to pay him compensation for the trouble and upset he suffered and refund the 
+transactions.
+   
+Monzo looked into the transactions and said it thought Mr C authorised them. So, it didnt 
+refund him. In summary, Monzo said:
+The payments were authenticated using Apple Pay using a mobile phone
+The mobile phone that was used was registered for Apple Pay on 2 June 2020
+Mr C told Monzo hed sold his mobile phone the week before the disputed 
+transactions were made and bought a new phone. However, only one device has 
+been linked to the account
+The card used for Apple Pay (ending 2907) was activated on 25 October 2019
+Mr C told Monzo there was no security on the phone he sold, but its not possible for 
+Apple Pay to be used on a device if there is no security in place
+The first disputed transaction was facilitated by an inbound undisputed faster 
+payment for the same amount, one minute prior to the disputed transaction being 
+made
+Monzo also said it had closed Mr Cs account in line with the terms and conditions. However, 
+it accepted it had taken too long to return Mr Cs balance of £17 to him and offered to pay 
+Mr C 8% interest for loss of use of the funds.
+ 
+Mr C disagreed with Monzos decision. He said he didnt authorise the transactions and says 
+hes out of pocket. So, he brought his complaint to this service where an investigator looked 
+into the matter. 
+The investigator said Monzo hadnt acted unfairly when it declined Mr Cs fraud claim. She 
+noted there were some variances in the explanation Mr C had given Monzo about losing his 
+bank card, and the technical evidence showed Mr C was moving money into and out of his 
+account using his sold mobile phone minutes before the disputed transactions were made.  
+The investigator said that Monzo hadnt done anything wrong when it had closed Mr Cs 
+account and the banks offer to pay interest was fair and reasonable.
+Mr C disagreed with the investigators opinion. He maintained he never made the 
+transactions. 
+As no agreement could be reached the matter has come to me to decide. 
+ 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+The investigator wrote a detailed view that sets out the full facts, the disputed transactions, 
+the relevant regulations and the evidence. Both Mr C and Monzo have read the 
+investigators view. So, I wont repeat every detail here, only those which form the basis of 
+my decision. However, I can assure Mr C that Ive read the file, including his comments and 
+the evidence hes provided.
+ 
+The basic position is that Monzo can hold Mr C liable for the disputed transactions if the 
+evidence suggests its more likely than not that Mr C made them or authorised them. The 
+relevant regulations, to this effect, are the Payment Services Regulations 2017 (the PSRs 
+2017). That means Monzo needs to show that the payment was authenticated via Mr Cs 
+personalised security credentials and payment instruction, and that he consented to it being 
+made. 
+Im satisfied that the payments were authenticated using personalised security credentials 
+and a Monzo approved payment instruction  in this case Apple Pay. This involved using a 
+passcode sent by text to set up Apple Pay on Mr Cs phone, his card details being 
+registered, and then the payment being requested through this service. So far as Im 
+reasonably aware, Apple Pay is secure, utilising a passcode known only to the 
+accountholder and/or unique personal identifiers such as fingerprints, a PIN or face ID 
+technology.
+Whats in dispute here is whether Mr C consented to the two disputed payments. To help me 
+reach a conclusion about whether Mr C or someone acting on his authority made the 
+payments, Ive considered what Mr Cs said happened, and looked at the paperwork hes 
+provided regarding the sale and purchase of his mobile phones. Ive also considered Monzos records, including the technical data behind each transaction, his account activity 
+and mobile banking records along with the call recordings of Mr C disputing the transactions. 
+Having looked at all the evidence and considered Mr Cs explanation carefully Im not 
+persuaded by what Mr C has said.  And on balance Ive ruled out that a third-party fraudster 
+was responsible. Ive considered what the PSRs say about apparent authority too and Im 
+satisfied that Mr C did consent to the transactions he is disputing. So, I dont think it would 
+be fair or reasonable to say Monzo needs to refund him. I say this for the following reasons:
+When Mr C contacted Monzo on 2 November 2020 to make a fraud claim, he told the 
+bank that he was still in possession of his bank card ending 2907 which was linked to 
+Apple Pay and used to make the disputed payments. And that hed last used the card 
+on 29 October 2020. But when he brought his complaint to us, he told us that hed 
+lost the card some time ago and reported this to Monzo. 
+Mr C hasnt provided any evidence to support hed lost his bank card. And Monzo 
+dont have any record of Mr C reporting the card used to make the payments was lost 
+at any time. I note too that Mr Cs card was used to make two undisputed online 
+payments on 29 and 30 October 2020, which suggest to me that Mr C hadnt lost his 
+card. This makes it very difficult for me to place much weight on what hes said. 
+The technical evidence shows that the disputed payments were made using Apple 
+Pay, through Mr Cs card ending 2097 being loaded onto a mobile phone device 
+enabling it to be used for contactless transactions  which is what happened to make 
+the two payments on 30 October 2020
+Mr C says he sold his mobile phone on 29 October 2020. And bought a new phone 
+on 28 October 2020. And hes said the phone he sold had no security on it. But 
+security is required on a device to authenticate Apple Pay transactions. This can be 
+Face ID, a passcode, or fingerprint. In other words - no payments can be made 
+without completing security. So again, there are discrepancies in what Mr C in what 
+has told us. Given the type of security required it seems unlikely that an unknown 
+person made these transactions without Mr Cs knowledge or permission. I say this 
+because they wouldve needed Mr Cs security details to make the payments as well 
+as physical possession of Mr Cs mobile phone.
+Monzo has provided evidence to show that one mobile device and the one used to 
+make the disputed transactions, is the only device on which Apple Pay is set up 
+using Mr Cs card ending 2907. 
+I know Mr C has provided a receipt he says shows that he sold his mobile phone 
+before the disputed transactions. But when asked for more information by our 
+investigator regarding the sale such as an advert, or any communications arranging 
+the sale he wasnt able to provide anything, which I find unusual.
+Monzo has provided evidence that shows Mr C was accessing his Monzo account 
+from his sold mobile phone before and after the disputed transactions. I note too 
+that Mr C sent £30 to his Monzo account a minute before the first disputed 
+transaction and this was for the same amount as the disputed payment. Prior to this 
+there wasnt enough funds in the account.
+Mr Cs sold mobile phone was used by Mr C on 31 October 2020, when Monzo sent 
+Mr C an account closure email, Mr C used the phone to speak to the bank via the in-
+app chat, to provide his account details to receive his closing balance. So, Im 
+satisfied that Mr C was still in possession of the mobile phone which was used to 
+make the disputed payments via Apple Pay.
+Mr C says he was in a different location at the time the disputed transactions were 
+made  more than a hundred miles away. And hes provided a taxi receipt in support 
+of what hes said. Im afraid I dont find this evidence compelling. I say this because Mr C told Monzo he was in another location to the one relating to the taxi ride. Ive 
+also kept in mind that its possible for Mr Cs taxi account to make bookings for third 
+parties. 
+So, when I weigh everything up, I find on balance, that Mr C made or otherwise authorised 
+the disputed transactions. It follows that Monzo is entitled to hold him liable for them. I know 
+Mr C will be disappointed, but for the reasons Ive given I cant ask the bank to refund him.
+I then turn to the banks decision to close the account. Its generally for banks to decide 
+whether or not they want to provide, or to continue to provide, banking facilities to any 
+particular customer. Unless theres a very good reason to do so, this service wont usually 
+say that a bank must keep customer or require it to compensate a customer who has had 
+their account closed. As long as they reach their decisions about that in a legitimate manner, 
+this service wont usually intervene. Im satisfied here that the banks decision to stop 
+providing Mr C with banking facilities was reached legitimately and fairly.
+Banks should however, give reasonable notice before closing an account. Usually, that 
+means 60 days notice, but it can be less  depending on the circumstances. In this case 
+Metro closed Mr Cs account without notice. Having looked at all the evidence, in my view 
+that wasnt unreasonable. And Im satisfied that the bank acted in line with the account terms 
+and relevant regulations. So, whilst I accept the banks actions caused Mr C inconvenience, I 
+cant say the bank has done anything wrong when it closed Mr Cs account without notice. 
+Ive kept in mind that Mr C had access to at least one other bank account at the time so I 
+think the impact of the immediate closure would have been reduced. The bank also isnt 
+obliged to provide Mr C with an explanation for its decision.
+I can see that at the time Monzo closed Mr Cs account his balance was £17. Monzo accepts 
+it should have retuned this money to Mr C sooner than it did. And took around a month 
+longer than it should have. It has agreed to offer Mr C interest for loss of use of these funds. 
+Im satisfied that this is a fair and reasonable way to settle this aspect of Mr Cs complaint. 
+So, I wont be asking Monzo to do anything more. 
+  
+My final decision
+My final decision is that to resolve Mr Cs complaint Monzo Bank Ltd should pay Mr C 8% 
+simple interest on the balance of his account, which was £17. Monzo should pay the interest 
+from 10 November 2020 until the date they released the money , which was 10 December 
+2020.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr C to accept or 
+reject my decision before 30 December 2021.
+ 
+Ombudsman

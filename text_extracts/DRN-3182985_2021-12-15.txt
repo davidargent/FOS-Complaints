@@ -1,0 +1,116 @@
+DRN-3182985
+The complaint
+Mrs B complains PayPal (Europe) Sarl et Cie SCA is holding her liable for a number of 
+transactions she says she didnt make or otherwise authorise. 
+Mrs B is being assisted in her complaint by her son, Mr B. 
+What happened
+In September 2020, Mrs B discovered a number of transactions had been made online using 
+her PayPal account, for goods from a well-known sporting goods provider. Separately, a 
+card for a building society account had also been used to make other transactions. As these 
+transactions had been made without her knowledge, she raised the issue with PayPal and 
+her card provider. 
+Mrs B has received a refund via her card provider. But PayPal has declined to reimburse her 
+for the transactions using her PayPal account. It said the logins were consistent and the 
+address provided to the seller was her home address. As such it declined Mrs Bs claim as it 
+said there was no evidence of unauthorised use of the account. 
+Our investigator upheld the complaint. Although Mrs B wasnt able to explain how her details 
+came to be known such that the transactions could have taken place, he was nevertheless 
+satisfied she hadnt carried out the transactions herself or authorised anyone else to do so.  
+He noted the IP address history provided by PayPal showed a different address to that 
+seemingly used by Mrs B. Mrs B changed her password after discovering the transactions 
+and that was a different IP address to that used to login when the transactions took place 
+over the 10 and 11 September. And he noted that the goods had three different names and 
+addresses for delivery, none of which were to Mrs B.   
+PayPal disagreed and asked for the matter to be referred to an ombudsman. It said the IP 
+address used to make the payments was the same IP address that was used after Mrs B 
+changed her password. It says the payments were made on 11 and 12 September and the 
+password changed on the 12 September  it says all actions were carried out using the 
+same IP. 
+The matter was referred to me for review and determination. I noted PayPals insistence that 
+the transactions took place on 11 and 12 September, whereas Mrs B had submitted they 
+occurred on 10 and 11 September. And I further noted the Mrs B had been provided with 
+dispatch information from the 11 September for a transaction which PayPal said took place 
+the following day. So we asked the parties for further information. 
+Mrs B has provided information which suggested the transactions did take place on 10 and 
+11 September. PayPal has confirmed payment was taken at a different time to authorisation 
+ with regard to the specific dispatch information, the payment was authorised on 11 
+September but not taken until the 12 September.  
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+In-line with the Payment Services Regulations 2017 (PSRs) which are applicable to the 
+transactions in question, Mrs B isnt liable for payments she didnt authorise, unless she 
+failed with gross negligence, or intent, to comply with the terms of her account or keep her 
+personalised security details safe. 
+Under section 77 (4)(d) of the PSRs, except where a payer had acted fraudulently, the payer 
+is not liable for any losses incurred in respect of an unauthorised payment transaction where 
+the payment instrument has been used in connection with a distance contract. A distance 
+contract means a contract concluded between a trader and a consumer under an organised 
+distance sales or service-provision scheme, without the simultaneous physical presence of 
+the trader and the consumer subject to some exemptions (as per regulation 5 of the 
+Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013. 
+There isnt any provision within this part of the PSRs that holds Mrs B liable for the 
+transactions if they were unauthorised, even if she acted with gross negligence (which 
+PayPal has not sought to argue and which I make no finding about here). 
+The transactions took place online, to a well-known sporting goods provider. As the payment 
+instrument was used in conjunction with a distance contract, gross negligence isnt a factor 
+for my consideration. Under the PSRs PayPal can only hold Mrs B liable for them if she 
+authorised the transactions or she acted fraudulently. There is no persuasive evidence, nor 
+has PayPal sought to argue, that she acted fraudulently. Therefore, my consideration is 
+solely in relation to whether Mrs B authorised the transactions. 
+PayPal has argued that the same IP address was used when the transactions were made on 
+11 and 12 September, as to when Mrs B changed her password on 12 September and 
+following that when logging into the account. I have considered this carefully, but Im not 
+persuaded PayPal is looking at the right records such that it has shown Mrs B authorised the 
+transactions in question. 
+We provided it a copy of a dispatch note showing an order had been accepted on 11 
+September by the retailer, yet PayPals records showed the payment for that order as having 
+been made on 12 September; which didnt add up as a retailer was unlikely to dispatch 
+goods before payment was received. PayPal has since confirmed that particular transaction 
+was actually authorised the day before. So its records of when the payments were taken 
+arent indicative of when the payments were actually authorised or therefore of what IP was 
+used to login (and IP login addresses dont evidence the IP address at the time of 
+authorising the transactions, in any event).
+Mrs B has provided information which shows a number of logins to her PayPal account late 
+at night on 10 September, through the early hours and throughout the day of 11 September, 
+which she says werent her. These log in times match an IP address ending 64.45 on 
+PayPals records, that was used to login on numerous occasions in that period. This is 
+different to the IP address ending 162 that was in use when Mrs B changed her password. 
+Notably, further login attempts were made from the IP address ending 64.45 after the 
+password change and failed (as did another IP address ending 170).  This suggests to me 
+that whoever was logging in from that IP was unaware of the password change. This is an 
+indicator of attempted fraudulent access, as is the repeated logins during the early hours, 
+usually to avoid detection. 
+Im therefore not persuaded by PayPals arguments that the IP address used when Mrs B 
+changed her password, was the same IP address in use when the transactions appear to 
+have been made. PayPal has also said that the address provided to the seller was Mrs Bs home address, to 
+support its view that it can find no evidence of unauthorised use of her account. I can see its 
+records do suggest the shipping address was that of Mrs B, so I can understand the 
+argument made. But as explained by our investigator, that isnt what was documented in the 
+dispatch emails sent to Mrs B. These show the items were being sent to three different 
+people, at three different addresses, none of which were Mrs B, and which Mrs B says she 
+has no knowledge of. I therefore dont find its internal records of the shipping address to be 
+persuasive evidence that Mrs B authorised the transactions in question.
+This is a finely balanced case, particularly as it isnt clear how an unknown third-party had 
+access to Mrs B details in order to complete the transactions in question. But given the 
+pattern of logins to Mrs Bs PayPal account, the timing and the shear number of them, and 
+given the attempted and failed logins, following the password change, Im persuaded its 
+more likely than not that a fraudster had gained access to Mrs Bs PayPal account to carry 
+out the transactions in dispute. I say this in the absence of any persuasive evidence that it 
+was Mrs B that actually logged in and carried out the transactions in the form and procedure 
+required, such that I would consider she authorised them. It follows that I dont find PayPal 
+can hold Mrs B liable for them.  
+My final decision
+For the reasons given, my final decision is that I uphold this complaint. I require PayPal 
+(Europe) Sarl et Cie SCA to:
+Refund Mrs B the amount of the disputed transactions and any fees of charges 
+associated with them; and
+Pay 8% simple interest per annum, on any overpayments Mrs B has made to the 
+account (less any lawfully deductible tax); and
+Remove any negative information provided to credit reference agencies in relation to 
+these payments, if any was recorded. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mrs B to accept or 
+reject my decision before 12 January 2022.
+ 
+Claire Hopkins
+Ombudsman

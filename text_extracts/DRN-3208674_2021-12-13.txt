@@ -1,0 +1,151 @@
+DRN-3208674
+The complaint
+Mr C complains that Teachers' Building Society (TBS) has wrongly calculated the interest 
+on his cash ISA held with it. He says that TBS treated the year April 2020 to April 2021 as a 
+leap year, but it wasnt.
+What happened
+Mr C said that he didnt think the interest on his savings had been calculated properly. He
+said TBS had sent him a calculation, and it had accepted that he was owed a few pence, but
+he said those calculations didnt make sense.
+Mr C said TBS had worked out the interest for April 2019 to April 2020 as a leap year, which
+it was. But then TBS had done the same thing again for the next year, and worked out
+interest from April 2020 to April 2021 based on that year being a leap year. Mr C said that
+the second of these wasnt a leap year, and he couldnt understand TBSs reasoning.
+Mr C wanted TBS to adjust the interest hed been paid, but also to accept that it had got
+something wrong. He said TBS hadnt really listened to him. And he said that if they are
+doing that to all their customers then this amounts to a lot.
+Mr C showed us a final response letter from TBS, which showed that it had worked out the 
+year from April 2019 to April 2020 on the basis of 366 days, but also said that it had used a 
+calculation of 366 days for the next year, April 2020 to April 2021.
+The interest calculation that TBS set out was as follows 
+For the financial year containing a leap year, 6 April 2019 to 5 April 2020, taking the balance
+of Mr Cs account, multiplied by the interest rate, then dividing by 365 (days in a year) and
+multiplying by 366 (days the payment applied to).
+Or in other words, interest for a leap year is calculated like this 
+Balance x interest rate  365 x 366.
+But when calculating interest for 6 April 2020 to 5 April 2021, the interest rate varied over the
+year. In that year, TBS had taken Mr Cs balance, multiplied by the relevant interest rate,
+then divided by 366 (not the number of days in that year, because the leap year fell in the
+previous year) then multiplied by the number of days this applied to (for four separate
+periods, which totalled up to 365 days).
+If we simplify this to work over the whole year, it works out like this 
+Balance x interest rate  366 x 365
+Our investigator didnt think this complaint should be upheld. Ive not reproduced her
+reasoning here, as I havent adopted it.
+Mr C didnt agree. He didnt think wed looked at the key issues. He said that in a time when
+interest rates are historically low, he didnt want to lose out again because of how TBS was
+working this interest out. He said that the calculation for April 2019 to April 2020 was fine,
+but he objected to what TBS did for the next year, April 2020 to April 2021. He said that what
+TBS does reduces the interest being paid and negates the previous years leap year
+advantage. So he said that overall, he wasnt paid any interest for 29 February 2020, when
+viewed over the two year period.
+Mr C set out a calculation for us, where he said that if we took a notional investment of
+£10,000, we could see the effect of this 
+Investment £10,000 x 5% divided by 365 days x 366 days = £501.37 in a leap year.
+But the following year, it would pay this 
+Investment £10,000 x 5% divided by 366 days x 365 days = £498.63 in the next year.
+So he said that we could see TBS had clawed back any credit interest previously provided in
+the leap year, which meant there was no additional payment for the extra day in that year.
+Mr C wanted his complaint to be considered by an ombudsman, so it was passed to me for a
+final decision.
+My provisional decision
+I issued a provisional decision on this complaint and explained why I did propose to uphold 
+it. This is what I said then: 
+When this case came to us, I sought more information from TBS about how it 
+calculates interest. After some confusion on this point, TBS has confirmed that the 
+calculation it set out in its letter to Mr C is right.
+I do think this has the potential to affect interest paid to some customers of TBS, but 
+not in the way that Mr C suggested. Before I explain why I think that, I should set out 
+that TBS has accepted this in principle. It doesnt think Mr C was affected by this, but 
+it has accepted there is potential for either advantage or disadvantage, particularly if 
+someone opens or closes their account at particular points. I think there is also 
+potential for either advantage or disadvantage if interest rates change, because its 
+possible for a customer to gain more or less in the leap year, or lose more or less in 
+the following year.
+Our service isnt a regulator. So I cannot direct TBS to set this right for everyone. I 
+can only look at what has already happened, and I can only look at Mr Cs case. But 
+Mr C might like to know that TBS says that it is taking this issue seriously, and it 
+expects to have this problem resolved for all of its customers before the next leap 
+year.
+Now Ill turn to whats happened to Mr C.
+He says that TBS pays more in the leap year, then claws that back in the following 
+year, so he doesnt get any advantage from the extra day in the leap year. But I 
+wouldnt expect him to get a larger interest payment overall, in a leap year.
+Interest on Mr Cs account may be broken down into daily payments, but its awarded 
+overall on a per annum basis. So what I would expect, on an account paying 1% 
+interest, is that Mr C would earn the same 1% of his investment, per year, whether 
+its a leap year or not.Because there are more days in a leap year, the daily award of interest will just be a 
+little smaller.
+We know, though, that this isnt what TBS does. It calculates daily interest as Mr C 
+himself set out. It divides by 365 days in the financial year that includes 29 February. 
+Then it multiplies any earnings by the number of days in that year, which is 366. So 
+the effect of this is that TBS does pay very slightly more interest in a leap year.
+Then TBS does, as Mr C says, claw that back. It calculates daily interest in the 
+following year (the financial year following the 29 February) by dividing by 366 days. 
+Then it multiplies any earnings by the number of days in that year, which is 365. So it 
+does pay very slightly less interest in a leap year.
+Mr C says this means anything he gains in a leap year is clawed back in the following 
+year. I think thats right. But as I dont think TBS had to pay more interest in the leap 
+year in the first place (for the reasons Ive explained above) I dont think its wrong in 
+theory for TBS to claw that back in the following year.
+But, as TBS appreciates, this pay a bit more in the leap year, claw a bit back in the 
+next year approach isnt always a cost neutral exercise. If someone opens an 
+account in the financial year following a leap year, they get less interest in that year. 
+And if interest rates change, as they did in the years Mr C has drawn our attention to, 
+then TBS can end up clawing back more, or less, than it paid in the leap year.
+I think that Mr C was affected by this, but I think its actually worked here to his 
+advantage. The interest rate overall on his account was higher in the leap year (when 
+TBS overpays) than it was in the following year (when TBS claws back). So I think 
+hes in fact marginally better off because of what TBS has done.
+For that reason, I dont think TBS has to pay Mr C any missed interest.
+I do think, though, that Mr C has pointed out a flaw in TBSs method for paying 
+interest, and told it he was worried about how his own interest had been calculated. 
+And TBS initially denied that this could be an issue. Because of that, he had to bring 
+his complaint to our service, before he could find out that he isnt, in fact, any worse 
+off, but that there is an issue which TBS is aware of, and it is acting to put it right.
+That has obviously put Mr C to some trouble. For that I think TBS should pay Mr C 
+£100 in compensation.
+I think this, plus the knowledge Mr C now has that TBS is aware of the issue and is 
+working to put it right, provides a fair and reasonable outcome to the complaint Mr C 
+has made.
+I invited the parties to make any final points, if they wanted, before issuing my final decision. 
+Both sides replied.
+ What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+TBS said it didnt have any final points to make or any additional information to provide in 
+respect of this case.
+Mr C didnt agree. He wanted to draw attention to the comments Id made in my provisional 
+decision, about TBS not having to pay more interest in a leap year. He said I had ignored the 
+existence of a leap year, and only recognise the standard annual 365 days year, meaning 
+that no credit interest was provided for the addition day that a leap year contains. 
+Mr C said he disagreed with this, as referencing all transactions to a traditional annual 
+approach form doesnt cater for changes in the amount invested during the year. And Mr C 
+said TBS does recognise a leap year's existence, but follows an odd practice of retrieving 
+any advantage in the form of a clawback process that follows. This is misleading.
+The sections of my decision that Mr C quoted dont seem to me to include a key part of my 
+decision. 
+The first key point is that interest on this account is awarded on an annual basis. Not daily. 
+So, assuming the interest rate remains the same, I would not expect TBS to pay more 
+interest in a leap year than it does in the previous or next year. We know that TBS has 
+chosen to overpay in a leap year. But I dont think it has to do this. 
+And the second key point is that this interest is still paid on a daily basis. So allowance can 
+be made for any change in the investment amount. But, as interest is based on a yearly rate, 
+I would expect that amount to be divided by the number of days in a year. In an ordinary 
+year, Id expect interest to be divided by 365 days. In a leap year, by 366. 
+Its not, as Mr C suggests, that when a leap year rolls around, there is no payment of interest 
+for 29 February. Its just that, because there is one more day in a leap year, the daily award 
+of interest will be very slightly smaller.
+TBS has chosen to calculate things differently. And in Mr Cs case, the outcome has been 
+slightly more generous. However, TBS recognises that this is not always the case, so it is 
+making changes for the future. 
+I do recognise that the explanations provided by TBS have been confusing, and Mr C has 
+spent some time to bring this case to a resolution. Thats why I thought it should pay Mr C 
+£100 now.
+For the above reasons, I havent changed my mind. Ill now make the decision I originally 
+proposed.My final decision
+My final decision is that Teachers' Building Society must pay Mr C £100.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr C to accept or 
+reject my decision before 10 January 2022. 
+Esther Absalom-Gough
+Ombudsman

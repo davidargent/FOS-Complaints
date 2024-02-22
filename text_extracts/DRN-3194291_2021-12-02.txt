@@ -1,0 +1,196 @@
+DRN-3194291
+The complaint
+Mr C is unhappy that Monzo Bank Ltd wont refund him after he lost money to a scam.
+  
+What happened
+Mr C says that he was looking to buy a car and came across an advert on a social media 
+platform for a 2015 Nissan Juke. Unbeknownst to him, the seller was in fact a scammer.
+Mr C carried out some research on the car, and the dealership selling it, and subsequently 
+sent over £3,000 to buy the car in August 2020. He was told the car would be delivered 
+within 1-2 days. When the car didnt arrive, Mr C realised something had gone wrong and 
+the website for the dealership no longer existed. He reported the matter to Monzo. It didnt 
+refund Mr C and when responding to his complaint explained it didnt think he had taken 
+sufficient steps to check who he was paying before the payment was made. It also explained 
+it had contacted the recipient bank on being notified of the fraud, but no funds remained.
+Our investigator upheld the complaint. He said that, under the Lending Standards Boards 
+Contingent Reimbursement Model (CRM), Monzo should reimburse customers who are 
+victims of authorised push payment scams except in limited circumstances; and he didnt 
+think those circumstances applied here. (Although not a signatory of the CRM, Monzo has 
+agreed to adhere to it.) The investigator upheld the complaint as:
+He wasnt persuaded Monzo had provided an effective warning when the 
+payment was requested.
+Mr C had carried out research on the car through legal channels. He also 
+checked the dealership selling the car on Companies House which showed it 
+was an active company. He therefore had a reasonable basis for belief that he 
+was paying the person he was expecting to pay, for genuine goods or services, 
+and it was legitimate.
+He thought the transaction was uncharacteristic for Mr C and/or his account and, 
+as it triggered Monzos fraud systems, it should have done more to intervene in 
+the payment.
+Monzo has asked for the matter to be referred to an ombudsman. In summary, it says:
+Its warning was effective.
+The price for the car was too good to be true given it was over 50% less than other 
+cars of the same model with similar mileage being advertised.
+It also doesnt think it should have intervened further with regards to the payment 
+itself.
+The case has been referred to me for review and determination.
+ 
+I issued my provisional decision on 1 October 2021 in which I explained why I was minded to 
+uphold the complaint  but only in part. I set out my provisional findings below.
+In broad terms, the starting position is that a payment services provider is expected to 
+process payments that its customer authorises, in accordance with the Payment Services 
+Regulations 2017 (PSRs), which apply to this complaint, and account terms and conditions. 
+But where a customer made a payment as a result of the actions of a scammer, it may 
+sometimes be fair and reasonable for a payment services provider to reimburse its 
+customer, even though the payment was authorised.
+In considering this, I have taken account of whether Monzo ought to have reimbursed Mr C 
+under the provisions of the CRM, and whether it ought to have done more to protect him 
+from potential financial harm from fraud. The CRM also places a level of care on customers 
+such as Mr C, so I have considered whether he met this.
+The CRM
+The CRM requires payment services providers to reimburse customers who have been the 
+victims of authorised push payment (APP) scams like this, in all but limited circumstances. It 
+is for Monzo to establish that a customer failed to meet a requisite level of care under one or 
+more of the listed exceptions set out in the CRM.
+Those exceptions are:
+The customer ignored an effective warning in relation to the payment being made.
+The customer made the payment without a reasonable basis for believing that:
+the payee was the person the customer was expecting to pay;
+the payment was for genuine goods or services; and/or
+the person or business with whom they transacted was legitimate 
+There are further exceptions within the CRM, but these arent applicable here. 
+Was there an effective warning?
+The CRM sets out that an effective warning should enable a customer to understand what 
+actions they need to take to address risk and the consequences of not doing so. As a 
+minimum the CRM sets out that an effective warning should be understandable, clear, 
+impactful, timely and specific.
+Monzo has provided a copy of the warning that was provided to Mr C. And it has told us that 
+he spent around 10 seconds on the warning screen before proceeding. I think most 
+reasonable people would agree thats not very long. But I have nevertheless considered 
+whether it was effective or not.
+The warning said:
+Remember:
+X Bank transfers arranged online or over social media are at higher risk of fraud
+X Bank transfers arent protected in the same way as card payments
+Pay by card if you can.
+You might not be able to get your money bank if this does turn out be a scam. Find a 
+legitimate seller who lets you pay by card.
+Im not persuaded the warning met all of the requirements to be considered an effective 
+warning. The bold headings are clearly meant to draw attention to the warning, as are the 
+bold Xs. Although the warning does refer to transfers arranged online or over social media 
+being at higher risk of fraud, I dont think this goes far enough to explain why. For example, it doesnt explain that fraudsters use social media platforms to pose as legitimate sellers 
+advertising goods or services which can appear genuine. And explaining bank transfers 
+arent protected in the same way as card payments doesnt explain there is very little 
+protection or chance of recovery with that type of payment. Indeed, it could be said this 
+suggests there is protection but not the same as is provided by card payments. Im not 
+persuaded telling a customer they might not get their money back goes far enough; in reality 
+there is very little chance as fraudsters tend to withdraw transferred funds in very short time. 
+I therefore dont find the warning impactful.
+Overall, Im not minded to find the warning was effective.
+That said, I am aware that when corresponding with Monzo, Mr C admitted seeing the 
+warning. He said to Monzo:
+Even though I noticed the online warning notice about fraud when I made the 
+payment, the criminal had put a disclaimer stating that I should ignore the warning 
+and hit continue and that some banks dont share common database.
+However, the disclaimer by the fraudster said:
+2. If your bank states that it cant verify the details of this account, just ignore the 
+warning and hit continue (Some banks dont share a common database but we are 
+certain that the bank details are correct, we dont make mistakes).
+The warning Mr C was provided was not in relation to the bank being able to verify the 
+account details, so the disclaimer doesnt appear relevant to the warning Monzo provided. 
+So its unclear why Mr C simply followed the instructions given by the scammer. Whilst this 
+doesnt affect my findings that the warning wasnt effective, I think it fair to take this into 
+account when deciding what Monzo needs to do to put this right (see below).
+Did Mr C have a reasonable basis for belief?
+Under the CRM Monzo can choose not to reimburse Mr C if it doesnt believe he took the 
+requisite level of care to ensure he had a reasonable basis for belief that the 
+person/business he was paying was legitimate and for genuine goods or services. It isnt 
+enough for Mr C to believe that he was paying a legitimate business for genuine goods or 
+services, he had to have a reasonable basis for belief. And its here that I disagree with 
+some of the investigators findings.
+Mr C found the advert for the car on social media. And I understand that Mr C checked the 
+business on Companies House and was reassured as the business was found and was 
+active. I also understand Mr C carried out checks on the car with the DVLA and satisfied 
+himself this was a genuine car. So Im satisfied Mr C took some steps to reassure himself 
+that he was proceeding with a genuine purchase.
+However, I dont think that goes far enough. The dealership that was purportedly selling the 
+car appears to have been a genuine dealership; but it isnt clear whether the website Mr C 
+says he visited was a genuine website or whether it had been fabricated by the fraudster.
+For example, it isnt clear if the car Mr C was interested in was also advertised on the 
+website or whether Mr C even checked this.
+Mr C told us that he asked to see the car but was told this wasnt policy. It isnt clear why Mr 
+C accepted this explanation. It doesnt appear from what we know that this dealership was 
+online only, as some car sellers are, such that this would appear to be a legitimate policy. 
+And refusing to allow goods to be viewed before buying is, in my judgment, self-evidently suspicious. Its simply not the sort of restriction that legitimate traders impose, as it 
+is plainly poor customer service (and arguably contrary to the provisions of the Consumer 
+Rights Act 2015).
+Im also aware that the car was being sold considerably under retail value  by about 40% at 
+the time. That was a huge difference compared with similar makes and models in that 
+market at that time. Mr C says he did query why the car was so cheap and he was told it was 
+wholesale. But I dont find this a plausible explanation  I question why a car dealership, 
+presumably in business to make a profit, would sell goods to retail customers at wholesale 
+prices. I agree with Monzo that the price was simply too good to be true and, in the absence 
+of any further questioning by Mr C (and satisfactory answers from the seller) about this, I 
+dont think he took sufficient care such that Im satisfied he had a reasonable basis for belief 
+that he was buying genuine goods from a legitimate seller.
+In addition to this, the suggestion by the seller to ignore a banks warning and just hit 
+continue, also ought to have raised suspicions; a legitimate business is highly unlikely to 
+advise a potential customer to ignore a banks warnings  it simply wouldnt be necessary.
+Under the CRM where a business has failed to provide an effective warning, but the 
+customer hasnt met the requisite level of care, each party must accept equal responsibility. 
+In these situations the CRM requires the payment service provider to reimburse 50% of the 
+losses.
+I am satisfied that would be a fair and reasonable way to resolve this complaint  as I have 
+found Monzo didnt provide an effective warning, but that Mr C also hadnt met the requisite 
+level of care to ensure he was paying a legitimate business for genuine goods. He gave little 
+time or attention to his banks warning, giving greater credence to instructions from a 
+stranger (the scammer) despite the anomaly in the purported reason to ignore and hit 
+continue. And he was far too willing to accept at face value representations from the 
+scammer that, in my judgment, most reasonable consumers would regard as inherently 
+implausible. Such factors justify shared blameworthiness for the loss that sadly resulted.
+Putting things right
+Im currently minded to uphold this complaint in part, and require Monzo Bank Ltd to:
+reimburse 50% of Mr Cs losses, being £1,540.80 (less any funds since recovered); 
+and
+it should add 8% simple interest per annum from the date it declined to reimburse Mr 
+C to the date of settlement (less any tax lawfully deductible).
+ 
+Mr C told us he didnt have any further information to provide in response to the provisional 
+decision. Monzo disagreed that it didnt provide an effective warning. It said that I hadnt 
+considered the warning in its entirety and I hadnt commented on the final screen which did 
+warn the customer that it was almost impossible to get the money back. 
+We asked Monzo to provide an actual copy of the warnings that Mr C would have seen, 
+including the final screen, which hadnt previously been shared with us. Monzo provided that 
+information. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.Having done so, including the responses to my provisional findings, my decision remains 
+that I uphold this complaint in part. 
+Whilst Monzo has shared more information about the warnings Mr C would have seen 
+before proceeding with the payment, including a warning we hadnt been provided with 
+before, Im still not persuaded the warning was effective. 
+I accept, now, that Mr C would have been told that it would be almost impossible for Monzo 
+to get the money back once the payment was made. So I accept the warning is stronger 
+than I originally found.  
+I also accept the warning was on a red background and had stop dont pay and Its very 
+likely this is a scam written across the top. But Im mindful that Mr C only spent 10 seconds 
+on this screen. 
+Mr C was arranging a bank transfer over social media which is covered in the warning. But 
+Im not persuaded that of itself means the warning was specific enough to be effective. I say 
+this because Mr C was buying a car from someone purporting to be a car dealership. The 
+name used was that which applied to a legitimate car dealership at the time. There is nothing 
+within the warning that speaks of fraudsters using social media platforms to pose as 
+legitimate traders or that the goods or services they advertise can appear genuine when they 
+arent. It follows that I remain of the view, the warning isnt effective as it wasnt specific 
+enough to the scam Mr C fell for. 
+My final decision
+For the reasons given I uphold this complaint. I require Monzo Bank Ltd to:
+reimburse 50% of Mr Cs losses, being £1,540.80 (less any funds since recovered); 
+and
+it should 8% simple interest per annum to that sum, from the date it declined to 
+reimburse Mr C to the date of settlement (less any tax lawfully deductible).
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr C to accept or 
+reject my decision before 30 December 2021.
+ 
+Claire Hopkins
+Ombudsman

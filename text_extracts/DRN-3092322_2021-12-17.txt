@@ -1,0 +1,101 @@
+DRN-3092322
+The complaint
+Miss B complains that Lloyds Bank PLC failed to refund a transaction that was made from 
+her account that she didnt recognise.
+What happened
+Miss B noticed a small payment had left her account to an online merchant Ill refer to as D. 
+Miss B told Lloyds that she didnt make the transaction and they made a temporary refund to 
+her account while they investigated the circumstances.
+Lloyds started a chargeback process, which is a system designed to resolve issues with 
+certain transactions and requires the merchant to provide the evidence they relied on to 
+debit Miss Bs account. Lloyds received a reply from the merchant, which contained 
+information about the transaction made using Miss Bs details, including her card details and 
+the three-figure security number (CVV) from the card. The merchant also provided Miss Bs 
+name, address and email address. The audit data later showed that two transactions to D 
+had been made, one for a few pence and the second for the amount that Miss B identified.
+Lloyds considered this information and thought that Miss B was responsible for the 
+transactions. They wrote to Miss B about the response from the merchant, asking her if she 
+had further information she could provide, but saying that the information theyd received 
+indicated the transaction was made by her. The letter also advised that the temporary credit 
+would be removed in ten days. Miss B later denied ever receiving this letter.
+The temporary credit was taken back from Miss Bs account and she complained to Lloyds 
+about how the issue had been handled. Lloyds investigated the complaint but didnt change 
+their position.
+Miss B brought her complaint to our service for an independent review, where it was looked 
+at by one of our investigators. She thought that Miss B was responsible for the transactions 
+and didnt uphold the complaint.
+Miss B didnt agree and asked for a further review. The complaint has been passed to me for 
+a final decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+The relevant law surrounding authorisations are the Payment Service Regulations 2017. The 
+basic position is that Lloyds can hold Miss B liable for the disputed payments if the evidence 
+suggests that its more likely than not that she made them or authorised them. 
+Coming to the question of authorisation, this is made up of two parts. Authentication and 
+consent. Authentication is usually referred to as the technical evidence and in this case, 
+Lloyds have supplied evidence that shows the genuine card details were used to make the 
+transactions. Im satisfied that the evidence shows the disputed transactions were 
+authenticated.
+Consent refers to the way in which Lloyds and Miss B agree to use the card for transactions. 
+For example, when using the cards details, Lloyds agree to accept that this is a legitimate 
+payment instruction made by the cardholder or another approved user and make the 
+payment on their behalf. The first transaction in this case used the genuine card details 
+including the CVV and the second used the card details apart from the CVV, so Im satisfied 
+that consent was given and the disputed transactions were authorised. But, there are 
+exceptions where it wouldnt be appropriate for Lloyds to hold Miss B responsible, for 
+example if the card details were used without her permission.
+Lloyds records indicate that when Miss B approached them about the unrecognised 
+transactions, she explained that she didnt recognise the merchant. Lloyds dealt with Miss 
+Bs issue based on this information and approached the merchant about it using the 
+chargeback system. At this point, Lloyds understanding of the situation was that Miss B was 
+denying that she made the transactions. When they received the information back from the 
+merchant, it showed that D had recorded several pieces of personal information about Miss 
+B and Lloyds own records identified that Miss Bs card and CVV had been used to authorise 
+the first transaction.
+Miss Bs complaint is that she didnt authorise the transactions to D, but the evidence shows 
+that her personal details, the card number and the CVV had been provided to the merchants. 
+Whilst its possible that an unknown third party could know certain details about Miss B, the 
+CVV is a specific code that is linked to the debit card. So, its unlikely that this code, together 
+with all the other details related to Miss B could be obtained by unknown third parties and 
+used with the merchants. I say that because Miss B confirmed she hadnt lost her card or 
+given the card details to anyone else. 
+Id also question why someone other than Miss B would use the card details for such a small 
+amount. If the details were somehow obtained by an unknown third party, I would expect 
+other unauthorised uses of the card for much higher amounts. Its this Services experience 
+that transactions similar to Miss Bs are the result of free trials or introductory offers on 
+websites. But, the complaint from Miss B is that she didnt make these transactions or 
+recognise this merchant, so thats the basis of how Lloyds dealt with the complaint, and not 
+that she didnt receive the goods. The evidence Ive considered shows that its more likely 
+than not that Miss B was responsible for making the transactions and it follows that I think its 
+reasonable for Lloyds to hold Miss B liable for them.
+Chargeback
+The chargeback system follows a strict process and once Lloyds had received a response 
+from the merchant, who was defending their right to charge Miss B, they notified Miss B in a 
+letter. The letter told Miss B that they thought the transaction was her responsibility and that 
+she could provide additional evidence if she had any. The letter said that the temporary 
+withdrawal would be removed in ten days. Miss B has said she didnt receive this letter and 
+because Lloyds didnt receive any response, the temporary credit was taken back out of 
+Miss Bs account.
+Lloyds records show that the letter was dispatched to the home address of Miss B and whilst 
+I appreciate Miss B said she didnt receive it, there are no indications that the letter wasnt 
+sent. I cant say what then happened because the delivery of letters requires other third 
+partys to be involved, but there havent been any reports by Miss B that she had problems 
+with her post or reported that to the postal delivery company. So, Im satisfied that Lloyds 
+had done enough by sending the letter to Miss B at her correct home address.Lloyds then took back the temporary credit from Miss Bs account. Lloyds were following the 
+chargeback process theyd told Miss B about and this had given time for Miss B to prepare 
+her account for the removal of the temporary credit. Ive examined the statements and the 
+redebit didnt take Miss Bs account into an overdraft. So, I think that Lloyds actions were in 
+line with what they told Miss B and were a reasonable step for them to take because the 
+chargeback had been successfully defended by the merchant.
+The evidence Ive considered leads me to the objective conclusion that I think its more likely 
+than not that Miss B made the transactions with D and it was reasonable for Lloyds to hold 
+her liable for them and I wont be upholding this complaint.
+ 
+My final decision
+My final decision is that I dont uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Miss B to accept 
+or reject my decision before 14 January 2022.
+ 
+David Perry
+Ombudsman

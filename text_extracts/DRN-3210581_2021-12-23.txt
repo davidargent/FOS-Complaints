@@ -1,0 +1,104 @@
+DRN-3210581
+The complaint
+Miss B complains that PayPal (Europe) Sarl and Cie SCA, wont refund payments that she 
+didnt make from her account.
+What happened
+Miss B disputes six payments made to a gambling website on 23 May 2020 using PayPal. 
+These totalled £550. She says that her account was hacked, and she didnt make these 
+payments.
+PayPal said it wouldnt be refunding the money. It said that it hadnt found any evidence of 
+unauthorised account access.
+Our investigator didnt recommend that the complaint be upheld. He set out the details of the 
+payments which started at 19:08 with the last one at 19:13. Miss B said that she was at 
+home and received a text from PayPal about one of the payments for £100. She logged onto 
+her account, changed the password, and reported the fraud. She said that the betting 
+company involved had no record of an account in her name.
+Our investigator said that PayPal had told this service that one of the main reasons it didnt 
+make a refund was because these were gambling payments. And Miss B had made 
+payments to different gambling companies before. He also looked at evidence about the IP 
+addresses that Miss B had used for genuine log ins to her account. There was a similarity 
+between the one used for these disputed payments and to ones used before. He also 
+couldnt see how an unknown third party had been able to discover her log in details. And 
+there was no evidence of any other details about her account being altered.
+Miss B didnt agree. She said that she didnt authorise these payments. She said that she 
+had disabled a one button authorisation on her account now. But that this had been done too 
+late to stop these payments.
+my provisional decision
+I issued a provisional decision on 4 November 2021. I set out below what I said.
+I said I needed to take into account the Payment Services Regulations 2017 in considering 
+this complaint. These state that a payment can only be authorised if it was consented to. So, 
+its not enough for it to be authenticated, say with personal security information. And if they 
+werent authorised Miss B wouldnt generally be responsible for them.
+So, I said Id be thinking about the following areas in looking at this complaint:
+- What is the most likely explanation of what happened to the security information 
+necessary to make these payments?
+- Did Miss B either authorise the payments on the account, or allow someone else to use 
+her account to do so?
+I asked our investigator to contact PayPal to request more information about the 
+authorisation of these payments. I took into account what it has provided below and consider 
+it has now had a reasonable opportunity to support its case.
+The position remains that there is relatively limited information about these payments. 
+PayPal hasnt provided more than the electronic record of the payments coming from the 
+merchant. And although Miss B says she has contacted the merchant I dont have anything 
+to support what she says it told her. Having said that it isnt in dispute that the payments 
+came through Miss Bs PayPal account and I worked on the basis that these were 
+authenticated.
+The issue is whether Miss B consented to them. I noted from the information available that 
+the log in relating to these payments took place at 19:08 that day. And the payments 
+followed very quickly. PayPal says that Miss B submitted a claim straight away after she had 
+received a text. She logged into her account from a different (and frequently used) IP 
+location with a device that it recognised. The password was changed at 19:32. And no other 
+attempts were made to make payments.
+PayPal says that the IP address used for the payments is one relating to a (mobile) service 
+provider and it seems a broad geographical location where Miss B has accessed her 
+account before. But my understanding was that the location may be a considerable distance 
+from Miss Bs home address, and Id seen nothing to the contrary. So, I didnt think it has 
+been established that she could have personally accessed her account from that other 
+location and also logged in within this timescale at home. PayPal doesnt have details of the 
+device used when the payments were made and doesnt appear to have asked the merchant 
+for this. But it also seems to be accepted that Miss B was made aware of a text and 
+immediately responded to this. That makes it less likely her own phone was being used for 
+the payments based on the location information. PayPal has also said that the merchant 
+involved doesnt have skip login at check out. I took that to mean that even if Miss B had 
+one button authorisation set up on her device this wouldnt have worked here. It hasnt 
+provided evidence of that.
+Id looked at the details provided about the previous gambling payments made using       
+Miss Bs account. These were £20 on 4 April 2019, £10 on 3 February 2020 and £10 on 2 
+April 2020. The latter two payments were to the same company. 
+Based on what PayPal has provided the inference it seems it wanted me to draw is that     
+Miss B gave someone else her log in details and these were used on a new device. But as 
+soon as payments were made these were reported as fraudulent. I had no information about 
+whether those payments resulted in any benefit for anyone apart from the ability to gamble. 
+Once Miss B had contacted PayPal and changed her password payments stopped. But I 
+wasnt clear whether the account was suspended or couldnt be used as Id not seen any 
+payment logs or information from the merchant. The alternative explanation and Miss Bs 
+position is that someone discovered her PayPal password and knew her email. Id not seen 
+anything to show that the extent of what was used was any more than that. And I thought 
+that the compromise of a password used online is plausible. I appreciated that the payments 
+disputed were limited to gambling ones. 
+I said I wouldnt be able to say exactly what happened and I was thinking about what is most 
+likely. I considered that too much weight has been placed on the type of payments here by 
+PayPal. And on Miss Bs past (and limited) gambling activity. And that this has meant that 
+insufficient evidence has been provided by PayPal about the authorisation of those payments including information from the merchant involved. I also didnt find the evidence 
+about the IP addresses assisted in showing that these were genuine payments. On balance I 
+wasnt persuaded that these payments were consented to and so authorised by Miss B. And 
+so, she shouldnt be held responsible for them by PayPal.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+PayPal said that it didnt agree with my decision. It maintained that it had provided 
+compelling evidence to support its position. And that the correct position had been used and 
+it had acted in accordance with its User Agreement.
+Miss B didnt make any further comments.
+I have already considered the evidence provided by PayPal. And I set out in my provisional 
+decision how Id assessed that and what additional evidence might have been of use. Ive 
+not had any specific comments on what I said or any new evidence. And so, I dont see a 
+reason now to depart from my provisional findings.  
+My final decision
+My decision is that I uphold this complaint and I require PayPal (Europe) Sarl and Cie SCA 
+to refund Miss B with £550.
+Under the rules of the Financial Ombudsman Service, Im required to ask Miss B to accept 
+or reject my decision before 24 January 2022.
+ 
+Michael Crewe
+Ombudsman
