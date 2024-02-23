@@ -1,0 +1,141 @@
+DRN-2695388
+The complaint
+This complaint is about an erroneous pending pre-authorisation transaction.
+Mr B complains HSBC UK Bank Plc (HSBC) didnt prevent nor remove the pending 
+transaction made on his credit card account to a retailer.  He also complains HSBC didnt 
+offer him a temporary increase to his credit limit whilst the error was being resolved.
+What happened
+The circumstances of this complaint are well known to both parties, so I wont repeat them 
+all again here in detail.  But I will provide an overview of events below.
+On 6 May 2020, a pending pre-authorisation transaction was made on Mr Bs credit card 
+account to a retailer I will refer to as A in this decision.  The pending transaction significantly 
+reduced the credit available on Mr Bs account.  In June and July 2020, Mr B says he 
+received text messages from HSBC warning him that he was approaching his credit limit, 
+which he started making manual payments towards.  He says he then discovered his credit 
+limit was low due to the pending transaction to A.  
+Mr B contacted HSBC about this.  He informed it that he had not made a card payment to A 
+on 6 May 2020, and therefore requested that HSBC remove the pending transaction from his 
+account.  HSBC explained that A had caused the pending transaction, and that it was not 
+able to remove it.  Mr B requested a temporary increase to his credit limit until the issue was 
+resolved, which HSBC declined.  For these reasons, Mr B raised a complaint.
+In short, HSBC says A caused an industry wide issue by applying authorisations to several 
+customers cards.  It says A was at fault and that the matter was escalated with card scheme 
+providers so they could intervene to resolve things directly with A.
+Unhappy with HSBCs position, Mr B referred his complaint to this service.
+In Mr Bs submissions, he raised the following:
+Why did HSBC allow the pending transaction to be made without a one-time 
+passcode (OTP) or his physical card being present?
+Why did HSBC allow the pending transaction to continue after the general 30-day 
+limit?
+Why cant HSBC now resolve the issue by cancelling the pending transaction?
+Why cant HSBC alternatively resolve the issue by providing a temporary increase to 
+his credit limit equivalent to the erroneous pending transaction amount?
+Since Mr B referred his complaint to our service, HSBC says the pending transaction has 
+dropped off his account.
+One of our investigators considered Mr Bs complaint and didnt uphold it.  In short, he said 
+based on the evidence he had seen, he was satisfied that the pending transaction was not 
+caused by HSBC, and that there wasnt a resolution it could have found to resolve things.  
+He said that a OTP is not used for every transaction, so he wouldnt have expected one to 
+have been used for the pending transaction.  Our investigator also concluded that HSBC did 
+what he wouldve expected it to do regarding declining Mr Bs request to increase his credit 
+limit.
+Mr B disagreed with the investigators findings.  He provided lengthy submissions explaining 
+why, which I will address in more detail in the below section of my decision.  However, a 
+summary of Mr Bs points can be found at paragraph 3 of his submissions: 
+I do not believe that HSBCs actions were fair and reasonable in all the circumstances in 
+accordance with Section 226(2) FSMA 2000, for the following reasons: 
+a) HSBC failed to undertake adequate security checks prior to accepting the erroneous 
+£1,777 pre-authorisation request from [A]; 
+b) HSBC should have cleared the pre-authorisation after 30 days or (alternatively) when it 
+was told/knew that it was erroneous; 
+c) If HSBC could not in fact clear the pre-authorisation, it should have provided a temporary 
+(nominal) increase to my credit limit to cover the erroneous amount. 
+As an agreement couldnt be reached, the complaint has been passed to me to make a 
+decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I agree with the conclusions reached by the investigator for reasons I set 
+out below.
+But first, I would like to say at the outset that Ive summarised this complaint in far less detail 
+than the parties involved.  I want to stress that no discourtesy is intended by this.  If there is 
+a submission Ive not addressed, it isnt because Ive ignored the point.  Its simply because 
+my findings focus on what I consider to be the central issues in this complaint.
+Its not in dispute that Mr B didnt use his card to make a payment to A on 6 May 2020.  With 
+that in mind, I will deal with Mr Bs complaint points as follows:
+Could HSBC have prevented the pending transaction?
+If not, could HSBC have removed the pending transaction?
+If not, should HSBC have provided Mr B with a temporary increase to his credit limit?
+Prevention of the pending transaction
+From the evidence Ive seen, Im satisfied that A are responsible for the pending transaction 
+on Mr Bs account.Mr B has provided what he says is an extract from HSBCs website.  The extract states, 
+broadly, that when HSBCs customers make online purchases with their cards, they may be 
+asked to enter a OTP if HSBC needs to check the purchase is genuine; this is to keep its 
+customers safe online.  Mr B says HSBC failed to request a OTP in-line with the website 
+extract when the pending transaction was made.  So, he argues that HSBC has breached 
+PRIN 2.1.1(6) of the Financial Conduct Authoritys Handbook; and alternatively, it did not act 
+fairly and reasonably in the circumstances.
+Having considered what Mr B has said, Im unable to agree.  I say this because Ive seen 
+technical evidence showing that its the retailer (in this case, A) which decides whether a 
+OTP is required, rather than the cardholders bank (in this case, HSBC).  Card payments can 
+be authenticated in several different ways.  A OTP is an additional means of secure 
+verification, which may be used in some circumstances.  I acknowledge Mr Bs says he has 
+been asked for a OTP for transactions with A pre and post 6 May 2020.  However, a OTP is 
+not required for every single transaction  so its possible one wasnt requested for the 
+pending transaction in this case.
+For the above reasons, Im not persuaded HSBC couldve done anything to prevent the 
+pending transaction.  This was caused by A; and the requirement of a OTP for the pending 
+transaction was outside of HSBCs control.
+Removing the pending transaction
+At paragraph 10 of Mr Bs submissions, he states, It is not fair and reasonable in all the 
+circumstances for HSBC to have maintained the erroneous £1,777 pre-authorisation 
+(effectively reducing my credit limit by that amount) beyond the 30 day drop off period or 
+(alternatively) after it became aware that no transaction had been authorised by me leading 
+to [As] pre-authorisation request.
+I do acknowledge what Mr B has said.  However, based on the evidence Ive seen, Im of the 
+view that it was unlikely HSBC could have removed the pending transaction before or after 
+Mr B brought it to HSBCs attention.  Im particularly persuaded by an internal email Ive 
+seen which sets out, amongst other things, that A were undertaking a system fix which 
+wouldve allowed the removal of the widespread pending transactions they caused.  The 
+email goes on to state that a timeframe for this had not been specified.  Therefore, on 
+balance, Im satisfied that HSBC had to wait for A to resolve things before anything could be 
+done about the pending transaction on Mr Bs account.
+Mr B has provided a document titled, Pre-authorisation Note.  The document sets out how 
+pre-authorisation operates in the context of booking a hotel room.  It should be noted that the 
+document Mr B seeks to rely on appears to have been compiled by a hotel chain, rather than 
+HSBC.  With that in mind, Im unable to attach much weight to it.  That said, as Ive already 
+explained, in the unique circumstances of this case  Im not persuaded HSBC was able to 
+remove the pending transaction from Mr Bs account.
+At paragraph 9(a) of Mr Bs submissions, he states,  Condition 2.3 of HSBCs Terms and 
+Conditions for its credit card is relevant. That Condition says that HSBC will immediately 
+refund any . . . transaction not authorised by you, in cases where the customer had not 
+allowed a third party to use their card or card number.  
+Having considered this, I cant say it applies in this case.  I say this because the payment 
+concerned was a pending pre-authorisation transaction, rather than an actual authorised 
+transaction which was completed.  For this reason, HSBC wasnt under any obligation to 
+refund the amount of the pending transaction.Temporary increase to credit limit
+Mr B says if HSBC was not able to remove the pending transaction from his account, it 
+shouldve provided him with a temporary increase to his credit limit.  HSBC says Mr Bs 
+request was declined after the necessary checks were carried out.  It also says it couldnt 
+have applied such an increase to its several customers affected by A, as this wouldve left 
+them with unapproved additional credit.  HSBC argues had this happened, and the additional 
+credit had been spent between As fix and HSBCs credit limit reduction, this couldve 
+amounted to irresponsible and unaffordable lending.
+HSBC must take reasonable steps to ensure that it doesnt lend irresponsibly.  This means 
+that it needs to carry out reasonable and proportionate checks to make sure the borrower 
+can make repayments in a sustainable manner.  These checks can take into account several 
+different things  such as how much is being lent and the borrowers income and 
+expenditure.  Im satisfied HSBC considered Mr Bs request for an increase.  Having done 
+so, it was a matter for HSBC  in its commercial judgment  to decide whether it offered a 
+credit limit increase to Mr B.  HSBC is under no obligation to offer a credit facility or increase 
+one.  Its decision not to lend to Mr B is something Im unable to interfere with.
+So, taking all the above points together  Im satisfied HSBC hasnt done anything wrong 
+and that it acted fairly and reasonably in the circumstances of this complaint.  So, I will not 
+be asking it to do anything further.
+My final decision
+For the reasons set out above, my final decision is that I dont uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr B to accept or 
+reject my decision before 2 November 2021.
+ 
+Tony Massiah
+Ombudsman

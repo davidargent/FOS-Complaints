@@ -1,0 +1,98 @@
+DRN-4346546
+The complaint
+Mr S complains that Lloyds Bank PLC had errors with their banking application (app) which 
+had an impact on him.
+What happened
+Mr S says that he experienced a problem with Lloyds banking app which he endured for 4-5 
+weeks. He says the problem was that the app either didnt open on his phone or tablet, or it 
+would open briefly, then close before he could do what he wanted to do. He says he 
+managed on a few occasions during this period to perform some activities, and he had been 
+using the same method of banking for years without any problems until the app errors. Mr S 
+says that he has made eight phone calls over a four week period about the issue and he 
+estimated he had spent 6-8 hours on the phone to Lloyds. Mr S made a complaint to Lloyds.
+Lloyds partially upheld Mr S complaint. They said they had found no issues from their end 
+as from the event logs they could see concurrent sessions open. They said this will lead to 
+Mr S having difficulties logging on as it does not function properly and he will face errors as 
+seen on the event logs, which is not a fault on their systems. Lloyds said Mr S spent a lot of 
+time making calls to them about the app and they had not provided him with an explanation 
+of why he was continuing to have issues logging on to the app, so they paid him £50 
+compensation for the service he received. Mr S brought his complaint to our service. 
+Our investigator thought the £50 compensation was fair. She said Mr S was unable to get 
+past the authentication page, and if he does, it shuts down or goes blank. When Mr S 
+phoned Lloyds for help, Lloyds confirmed there was no record of any system problems that 
+could explain Mr S app issues. She said theres no evidence to suggest the app issues are 
+a result of a Lloyds error, so she couldnt hold them responsible. Mr S asked for an 
+ombudsman to review his complaint. He wanted £300 to resolve his complaint. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Firstly, Im aware that Ive only summarised Mr S complaint points. And Im not going to 
+respond to every single point made by him. No discourtesy is intended by this. Our rules 
+allow me to take this approach. It simply reflects the informal nature of our service as a free 
+alternative to the courts. If theres something I havent mentioned, it isnt because Ive 
+ignored it. I havent. Im satisfied I dont need to comment on every individual point to be able 
+to reach what I think is a fair outcome.
+Ive noted the strength of feeling that Mr S has about not been able to complete what he 
+wanted to do before the app closed down, and I can sympathise with how incredibly 
+frustrating this must have been for him over multiple weeks as hes told us how much he 
+relies on the app. Im aware that he feels he has been treated respectfully and listened to 
+regarding his concerns about the malfunctioning app over a period of eight weeks, but the 
+issue has caused him considerable inconvenience, frustration and anxiety because of the 
+issue. 
+Lloyds have confirmed to me that at the time of Mr S complaint, they checked with their 
+specialist Information Technology (IT) teams, who confirmed there were no wider IT issues
+affecting customers, and they said there were very few if any similar complaints to Mr S. So 
+I cant conclude that there were widespread issues during the timeframe that Mr S was 
+unable to log into his app during the timeframe hes mentioned.
+Ive considered what Mr S has said about Lloyds blaming him for whats happened due to 
+concurrent sessions being open. Lloyds were unable to find any errors on their side. But Im 
+persuaded that Lloyds have only mentioned this as is a known issue which can affect the log 
+in for the app. Im also aware that if the app closes on Mr S then he may not have time to log 
+out of the app, so this would be out of his control. But ultimately, Im persuaded theyve 
+mentioned this as a possible solution to assist Mr S as opposed to blaming him for what has 
+happened.
+I say this as they have also mentioned other things that Mr S could do, such as to clear his 
+cache and cookies from the app. They also suggested he updates his password or 
+memorable information, and they gave him the phone number in order to do this. But as 
+Lloyds couldnt identify an issue on their end, the concurrent sessions factor led them to 
+believe this is what could have been the issue. 
+Ive listened to a number of calls that Mr S had with Lloyds. The call handler on 6 February 
+2023 asks Mr S to delete and reinstall the app, but this doesnt work. She confirms they have 
+had no reports of the app not working so she says it must be Mr S device. Mr S then tries to 
+log on with a different device (his tablet) and he was able to log in using this, so the call 
+handler tells him the issue must be with his other device. 
+Ive listened to an hour long call when Mr S returns from holiday and he still has issues 
+logging in. The call handler suggests things for Mr S to do. Around the 33 minute mark of the 
+call Mr S says that he can see his accounts now. But after Mr S is placed on hold while the 
+call handler sees if he can pay a cheque in, Mr S tells the call handler on his return that the 
+app has shut down when he tries to log in. The call handler logs a fault for Mr S, and he 
+advises Mr S to ring back in a couple of days. And a complaint is later raised for him. 
+Lloyds paid Mr S £50 for what happened. I know that Mr S told the complaint handler that he 
+wanted £300 to resolve his complaint. But it would not be proportionate for me to award Mr S 
+£300. This is because I cant evidence an error on Lloyds end. While I cant specifically say 
+why Mr S experienced the problems he did, I do note that he was able to log into the app on 
+his tablet on 6 February 2023, when he was unable to log into his phone app earlier in the 
+call. So if there was an issue with the app, I would expect both apps to fail. If there was an 
+issue with his log in details, or his facial recognition, then I would not expect his tablet would 
+allow him to log in on this date, when the mobile phone app would close down after trying to 
+authenticate him. 
+Im persuaded that the £50 compensation that Lloyds paid Mr S is proportionate for what 
+happened. While generally the staff on the calls were trying to help Mr S, I did identify some 
+poor service. Mr S was told he was being transferred to the relevant team, but after being on 
+hold he was told that department had closed for the day, so Mr S was inconvenienced by 
+this. 
+Ive also listened to a call where he tells the call handler the line went dead on one of the 
+calls and nobody gave him a call back. Mr S was also given an incident number, but when 
+he gave this to one of the call handlers, she was unable to locate the incident ticket. On 
+another call he was placed on a fairly lengthy hold for him to pay a cheque in over the 
+phone, but when the call handler returned, he told Mr S they couldnt do this. And Lloyds acknowledge they could have raised the complaint/incident to their IT team quicker. So while 
+Im persuaded Lloyds let Mr S down on occasion and it would be frustrating to be on the 
+phone as long as he was, as often as he was, £50 is in line with our awards for what 
+happened here. So it follows I dont require Lloyds to do anything further.
+My final decision
+I do not uphold this complaint. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr S to accept or 
+reject my decision before 11 January 2024.
+ 
+Gregory Sloanes
+Ombudsman

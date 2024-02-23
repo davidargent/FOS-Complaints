@@ -1,0 +1,86 @@
+DRN-3777478
+The complaint
+Miss L has complained that Lloyds Bank PLC wont refund transactions she says she didnt 
+make or otherwise authorise.
+What happened
+In early 2022, five bank transfers were made from Miss Ls Lloyds account using Miss Ls 
+registered mobile phone.
+Miss L says this wasnt her and she didnt know the recipient.
+Lloyds investigated and held Miss L liable for the payments in dispute. They found that the 
+payments had been made on Miss Ls mobile phone, which was the only registered device 
+on the account, at her normal IP addresses, using her biometrics and password.
+Our investigator looked into things independently and didnt uphold the complaint. Miss L 
+didnt agree, so the complaints been passed to me to decide.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+First, I understand that there were some other disputed payments made via PayPal. But 
+those did not go through in the end and Miss L didnt end up losing out, so I consider that 
+matter to be resolved. Ill turn to the disputed online banking transfers in question.
+Broadly speaking, Lloyds can hold Miss L liable for the payments in dispute if the evidence 
+suggests that she authorised them.
+Im satisfied from Lloyds technical evidence that the payments in dispute used Miss Ls 
+genuine mobile phone, along with her biometrics and password. So I can see that these 
+transactions were properly authenticated. The question, then, is whether the evidence 
+suggests that its most likely Miss L consented to the transactions, or not.
+Miss L confirmed that her phone was in her possession and wasnt missing. Miss Ls phone 
+was the only registered device on this account, and shed registered it some months prior. 
+There were no other devices that could access her mobile banking. There were no signs of 
+unauthorised access to Miss Ls mobile app, and Miss L confirmed that she hadnt clicked 
+any suspicious links or given anyone access as part of a scam, or anything like that. And the 
+phone was locked using Miss Ls biometric Face ID  so realistically only Miss L herself 
+could unlock it. So its not likely or plausible that anyone other than Miss L could have used 
+her phone to make these payments.
+Miss Ls representative now says she doesnt have the mobile banking app. That may well 
+be the case now, but I can see that she definitely did have it at the time of the disputed 
+payments, since Miss L used the mobile app for genuine, undisputed spending. And Miss L 
+already confirmed in her previous testimony that she had the app at the time.
+The disputed payments used Miss Ls password. And Miss L confirmed that she hadnt 
+written her password down anywhere or told it to anyone. So its unlikely that anyone other 
+than Miss L would have known it.
+The disputed payments also used Miss Ls biometrics to log in. I understand there was some 
+confusion around what type of biometrics were used, as Miss Ls representative pointed out 
+that Miss Ls phone didnt have a fingerprint function. To clarify, Lloyds systems can only tell 
+that the biometrics registered to the phone were used  it cant tell what type of biometrics 
+they were. So for example, whether a fingerprint or Face ID is used, the entry is worded the 
+same on the log. The use of the word finger in the entry is just a relic from when the system 
+was made, back when fingerprints were the only form of biometrics and so the two terms 
+were synonymous. Lloyds only ever said that the registered biometrics were used, and they 
+said this consistently  they never claimed it was specifically a fingerprint.
+Here, the biometrics in question were the biometrics registered to Miss Ls genuine phone. 
+And they were the same biometrics which shed used to log in to her mobile app for her 
+genuine spending and other genuine activity. So Im satisfied that these were Miss Ls 
+genuine biometrics  from what shes told us, this wouldve been her Face ID. And again, it 
+was not likely or plausible that anyone other than Miss L could log in using her Face ID.
+The disputed transactions were made from Miss Ls normal IP addresses  again, the same 
+ones she used for her genuine activity. This also supports the possibility that the disputed 
+payments were made by Miss L.
+While the disputed payments were going on, Lloyds sent Miss L two text messages, both to 
+confirm that the new payee had been set up, and to ask her to contact them if she didnt 
+recognise the activity. But Miss L did not reply to these texts or let Lloyds know things were 
+wrong until after the fact. Miss L now says she didnt receive those texts. But I can see that 
+they were sent to her correct mobile phone number  the same one she gave our service. 
+I can also see that Miss L checked her account quite a number of times before reporting the 
+matter to Lloyds. So it looks like Miss L was aware of the disputed activity while it was going 
+on, but didnt report it to Lloyds until after it was finished.
+To summarise, Im satisfied that Miss Ls genuine mobile phone, biometrics, and password 
+were used to make the disputed payments. The payments were made from her usual IP 
+addresses, and she seems to have been aware of them while they were happening. Based 
+on the evidence, there isnt a likely or plausible way that someone could have made these 
+transactions without Miss Ls consent. So the only likely possibility remaining is that Miss L 
+consented to the payments  a possibility which fits very strongly with the evidence. 
+So based on everything Ive seen, I think its fair for Lloyds to decline a refund in this case. 
+This is a difficult message for me to give, and I know its a difficult message for Miss L to 
+receive. But given the evidence I have, and the balance of probabilities, Im unable to 
+reasonably reach any other conclusion.Lastly, Ive also taken into account Miss Ls arguments around whether Lloyds should have 
+done more to block or reverse these payments. But I can't agree that Lloyds should have 
+blocked or reversed them in this case  as far as I can see, the payments in question were 
+authorised by the accountholder.
+My final decision
+For the reasons Ive explained, I dont uphold this complaint.
+This final decision marks the end of our services involvement in the case.
+Under the rules of the Financial Ombudsman Service, Im required to ask Miss L to accept or 
+reject my decision before 28 December 2022.
+ 
+Adam Charles
+Ombudsman

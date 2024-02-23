@@ -1,0 +1,142 @@
+DRN-3325028
+The complaint
+Mr M complains that technical issues with Trading 212 Ltd.s platform prevented him 
+from accessing his account, so he was unable to sell his positions when he wanted, causing 
+him financial losses.
+ 
+What happened
+Mr Ms position
+Mr M held a Contracts for Difference (CFD) account with Trading 212 Ltd (T212). On 9 
+November 2020, he says he tried to access his account at 14:30 but due to a technical IT 
+error on their platform, he was unable to do this. He says the following positions have been 
+affected by these issues:
+- POS530211244 (Aurora Cannabis), showed a profit of £1,420 but he says when he 
+tried to close this in profit, the platform wouldnt allow him to do so. He saw a 
+message saying No Data Available followed by another saying it could not connect 
+to the server. He says by the time he was able to sell, he has lost around £3,100. 
+- POS534035239 (Aurora Cannabis), he says he was unable to log in to put a stop 
+loss in to break even. When he closed it, he lost around £1,280.
+- POS533244454(Pfizer), POS533286371(Pfizer) he says the stop losses on these 
+were triggered incorrectly when the market opened, and he would have kept these 
+positions for a little longer to make a profit. He lost around £2,680 on these positions.
+He says because he was prevented from accessing his account, he could not sell his 
+positions and lost out on £7,000 profit. Unhappy with the loss he incurred, he complained to 
+T212.
+T212s position 
+They issued their final response in December 2020, saying the downtime in their platform 
+was due to an increased demand in the US markets following the US election results  an 
+event which they say was out of their control. The terms of the client agreement he agreed to 
+describe this as a Force Majeure, an event beyond their reasonable control and say they 
+are not liable for any loss that may result from this event. T212 say, that in signing the client 
+agreement, Mr M had specifically agreed to waive his rights to make a claim in such an 
+event. 
+They then proceed to consider the positions Mr M says were impacted by this event and 
+whether he was in any way disadvantaged. They say three of these positions 
+POS533244454(Pfizer), POS533286371(Pfizer) and PO533417285(Pfizer), were correctly 
+closed using a stop loss placed by Mr M and any stop loss placed before the market was 
+opened was not guaranteed. They also say based on available market price, the two Pfizer 
+positions would not have returned him a profit and he must be mistaken about the price. 
+In terms of losses on POS534035239 and POS530211244, T212 say these were not 
+impacted by the downturn on the platform as he was showing as being online managing 
+other positions on a different screen of the platform and so it was clear that platform access 
+was not the issue here. Overall, they dont think he was disadvantaged by the downturn in 
+the platform and didnt consider any compensation was due to Mr M. 
+Unhappy with this outcome, Mr M brought his complaint to this service.
+Investigators view
+The investigator here didnt uphold his complaint. She says the following:-
+- POS533244454  There was no attempt to close this position. A stop loss was 
+placed on this and due movements in the price of the instrument the stop loss was 
+triggered.
+- POS533286371  Mr M didnt attempt to close this position, he added a stop loss at 
+16:32:07, this position closed due to a movement in the price of the instrument which 
+triggered a stop loss.
+- POS534035239  A stop loss was placed at 14:36 and no attempt to close this 
+position was made. The stop loss was triggered at 14:37:13.
+- POS530211244  This position was manually closed at 16:37:39 around four 
+minutes after the peak price.
+She accepted that platform issues can happen when there is a sudden increase in demand 
+but concluded she hadnt seen any evidence showing his losses were a result of T212s IT 
+issues.
+Mr M didnt accept the investigators view, so this has come to me for a decision. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+In deciding what is fair and reasonable, I must consider the relevant regulation and best 
+industry practice, but its for me to decide, based on the information and evidence that I have 
+been given, whats more likely than not to have happened. Having done so, I am not 
+upholding this complaint and for similar reasons as the investigator. I will explain further.
+I think there are two main issues here. One is whether Mr M was denied access to his 
+account during the period he complains of, and secondly whether T212 are responsible for 
+any losses he incurred because he was unable to log into his account to sell his positions 
+when he wanted to. 
+Whilst I dont dismiss Mr Ms account, that system problems had happened several times 
+before which meant he wasnt able to access his account, it would be unreasonable to 
+expect any technology to be at 100% all of the time. That said, I would still expect the 
+platform to be able to perform its functions and be fit for purpose, so I have looked 
+specifically at what happened on this day. 
+It is not in dispute that there was downtime in the platform on 9 November 2020. It was the 
+first opening of the US markets following the US elections and it was not uncommon for such 
+world events to cause high traffic and market volatility. In these circumstances it is 
+understood that the increased level of activity would mean there would have been a demand 
+on their servers and platform. T212 have relied on the terms of their client agreement, 
+particularly clause 25 Force majeure which says:-Whilst we endeavour to comply with our obligations in a timely manner, we shall 
+incur no liability whatsoever for any partial or full default of our obligations by reason 
+of any cause or event beyond our reasonable control, including but not limited to any 
+communications, systems or computer failure, market default, suspension, failure or 
+closure, or the imposition or change (including a change in interpretation) of any law 
+or governmental or regulatory requirement and we shall not be held liable for any 
+loss you may incur as a result.
+I am satisfied with T212s explanation that the US elections was most likely cause of surge in 
+demand on their servers and platform and that this a Force Majeure - an event that was 
+outside of their reasonable control. I dont think it is fair or reasonable to use an event 
+outside of their reasonable control to determine that the platform wasnt fit for purpose or that 
+they had acted outside of their terms and conditions. In signing the Client Agreement, Mr M 
+agreed to the terms outlined and in clause 7.8 waived his right to any claims against them in 
+these circumstances. 
+You hereby agree and acknowledge that in the event of downtime of the Trading 
+Platform You shall waive any claims against Trading 212 of missed profits and/or 
+claims that You would have executed an order on a specific price during the 
+downtime.
+Even if I was to find that T212 were unfair in terms of Mr M not being able to log into his 
+account, I have considered how his individual positions closed and whether his losses were 
+as a result of the downtime. He says he was unable to log into his account on the platform at 
+14:30 due to these IT issues so it prevented him from selling his positions. When he was 
+later able to sell, he lost a total of around £7,000 profit. Ive looked at each of the positions 
+hes said were affected by this.
+POS533244454 (Pfizer) and POS533286371 (Pfizer)
+Mr M said he couldnt access his account at 14:30 and lost profit as he was not able to close 
+these positions. Ive looked at his account information which shows he placed a stop loss on 
+POS533244454 at 13:36:52 and POS533286371 at 14:32:07. The movement in price 
+triggered the stop loss and the positions closed at 14:34:46 and 14:36:27 respectively. At the 
+time POS533286371 closed, Mr M was placing a stop loss on another position 
+POS534035239. The evidence Ive seen shows these positions closed when the stop loss 
+was correctly triggered.
+To address Mr Ms point that he would have made a profit on the Pfizer positions if he had 
+kept these open. These positions were opened at 41.56 and 41.68 respectively and the 
+market on 9 November 2020 at its peak reached 41.044, so despite Mr Ms believe that he 
+would have made a profit on his Pfizer positions, there is no evidence to support this would 
+have happened.
+POS534035239 (Aurora Cannabis) and POS530211244 (Aurora Cannabis)
+His account information also shows Mr M placed a stop loss on another Pfizer position 
+POS33820808 at 14:32:07 and on POS534035239 at 14:36. This stop loss triggered at 
+14:37:13 while it seems he was closing POS530211244, which he closed at a profit on 
+14:37:39. The evidence Ive seen suggests POS534035239 closed because the stop loss 
+was correctly triggered.
+Mr M was able to access his account to place a stop loss at 14:32:07 which appears to be 
+the first action hes taken. There is no evidence hes tried to close any of his positions at this 
+point. The evidence hes provided show there was no data available at 14:33, 14:35 and 14:37, but there is clear evidence as outlined above, that Mr M was actively placing stop 
+losses and closing positions on the platform within the same timeframe that he is 
+complaining about. 
+While I accept, he may have had initial IT issues with accessing the platform, Im not 
+persuaded this was the reason for not being able to close these positions. Looking at the 
+information available, I am satisfied that he was reasonably able to access and trade on his 
+account as explained above. I appreciate Mr M will be disappointed with my decision, but on 
+balance, I cant say T212 were responsible for his losses so I wont be asking them to do 
+anything.
+My final decision
+My final decision is that I am not upholding this complaint against Trading 212 Ltd.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr M to accept or 
+reject my decision before 3 April 2023.
+ 
+Naima Abdul-Rasool
+Ombudsman

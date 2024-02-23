@@ -1,0 +1,107 @@
+DRN-2721226
+The complaint
+Mrs Ds complaint about Bank of Scotland plc trading as Birmingham Midshires (BOS) 
+relates to a failed transfer of funds she tried to make to a company I shall call NS from a 
+third-party account I shall call SSL. 
+What happened
+Mrs D had a money in a bond with SSL and which was being administered by BOS. She 
+instructed BOS to transfer those funds to her Direct Saver account with NS.
+BOS sent the funds on 4 May 2020 and said it used the correct account number, sort code 
+and reference number, the latter being Mrs Ds nine-digit Direct Saver account number 
+ending 084. BOS position therefore was that it didnt think it had done anything wrong, 
+although it couldnt explain why the transfer had failed.
+NS said they received the funds that day but that the money was automatically returned to 
+SSL on 10 May 2020. NS say the reason that occurred was because BOS used, as a 
+reference number, a ten-digit number ending 310. That they said was Mrs Ds SSL account 
+number, which as a fact, it was. NS said BOS ought to have used her direct Saver account 
+number as the reference number.
+Mrs D was unhappy with BOS final response and so approached this service to see if we 
+could assist in resolving the dispute. Our investigator thought that BOS was responsible for 
+the failed transfer and thought that BOS should pay Mrs D £125 in compensation together 
+with any lost interest for the period her money was out of her account.
+BOS didnt agree and the complaint was ultimately passed to an Ombudsman for a final 
+decision. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+I issued my Provisional Decision on 18 February 2021 and both Mrs D and BOS have 
+responded agreeing with it
+At the outset I feel I should clarify that our service doesnt have the power to punish financial 
+businesses. I say this because I have seen that Mrs D thinks that the amount of 
+compensation our investigator suggested was too low and doesnt really punish BOS. I only 
+look at what happened in the circumstances of an individual complaint and check that the 
+business followed its rules and procedures and is applying them fairly to all customers. Any 
+overall concerns about business process would need to be raised with The Financial 
+Conduct Authority (FCA). 
+Ive taken account of both sides views when considering whether BOS acted fairly and 
+reasonably. Ive looked at the issues raised and considered all the available evidence. 
+Where evidence is not complete, I think about what is more likely to have happened in the 
+light of the evidence which is available. 
+Starting first with the documents from NS. The first document NS provided is described as 
+an internal record in the form of a spreadsheet, confirming payment details. There are seven 
+columns and one row. The relevant columns are headed Reference and Counterparty. 
+Under Reference there is a number which does not correspond to either the SSL or Direct 
+Saver account number. Under Counterparty there is the SSL account number. NS believe 
+this shows that BOS entered the wrong reference number, but I disagree. Whilst the 
+document as a whole bares the SSL number, it is not under the heading reference, and as 
+such my view is that this document is of little help.
+NS has also provided a two-page list of rejected transactions from the same account number 
+and sort code as Mrs Ds attempted transfer. Those are the same details as appear under 
+the heading Orderer on the document above. NS say this shows numerous other failed 
+transactions from the same source. Marked by hand written asterisks are two lines which NS 
+say relate to Mrs Ds transaction. Neither entry helps me as the alphanumeric number under 
+the heading Reference bears no resemblance to ether the SSL or Direct Saver account 
+number, and on the second entry the column Counterparty contains the SSL account 
+number, which takes me no further forward from the internal document above.
+NS then provided a copy of a screen shot for Mrs Ds specific failed transaction. This shows 
+an operation date of 4 May 2020 with the payment type and amount noted. Underneath that 
+there are two boxes one headed Orderer and the other Counterparty. Under the word 
+Orderer there is a sort code and account number which NS say identifies the source of the 
+funds. These details are not the SSL or Direct Saver account number. Under the heading 
+Counterparty there appears the SSL account number. However, within the box are also the 
+words Reference Counterparty followed by Mrs Ds Direct Saver account number.
+BOS have produced two documents. The first is a screenshot which BOS says shows that 
+the correct reference number was used and is the document which records or initiates the 
+transfer. What it shows is a series of numbers and words, the relevant part of which appears 
+to be Ref/Desc under which appears Mrs Ds Direct Saver account number, and 
+underneath that, the words Maturity Paid by BACS. It would appear that the correct 
+reference number was used as it is written next to the Ref/Desc heading, which I take to 
+mean reference and description.
+The second document of note is headed contact log enquiry. It records a date of 23 April 
+2020 and in the notes section it records a maturity instruction of a BACS Payment to NS. It 
+also quotes a reference number, being Mrs Ds Direct Saver account number. The date is 
+significant because this is when Mrs D called to request the transfer. It means this is a 
+contemporaneously written document containing the correct reference number.
+The central issue here seems to me to be whether the correct reference number was used in 
+the correct fashion when making the transfer. It would seem to be accepted by all parties 
+that NS requirements, in the circumstances which pertain here, are that the party sending 
+the funds must put the customers Direct Saver account number in the reference number 
+section when making the transfer. 
+The documents produced by BOS indicate that it is more likely than not they used the 
+correct details. The documents produced by NS show, in particular, that in the box headed 
+Counterparty, the description Reference Counterparty is followed by Mrs Ds Direct Saver 
+account number. That is strong evidence that NS received Mrs Ds Direct Saver account 
+number as it is listed there under that very reference. I acknowledge that within the same 
+box under the word Counterparty there appears Mrs Ds SSL account number and that is curious. NS wish me to accept that it is this entry which signifies that BOS used the wrong 
+account number. However, the other entry - Reference Counterparty seems to me to be 
+more indicative of the entry for the correct account number since it bares the word 
+reference within its title. In my view this heavily leans towards NS actually receiving the 
+correct details from BOS.
+Mrs D has also produced entries from her HSBC account which show 31 successful 
+transactions to NS. I dont regard this as particularly helpful as although it is evidence of 
+historic successful transactions it is not evidence that this particular transaction failed 
+because of an error on BOS part. I do not consider that simply because those transactions 
+worked, it can rule out that there could be no future error with NS system or operation of it.
+So, in looking at all of the evidence in the round, on the balance of probabilities I think it 
+more likely than not, even though this was an automated transaction, that it failed as a result 
+of some issue within NS system rather than BOS, since NS clearly held the correct 
+reference number for the destination of Mrs Ds funds. So, having quoted the correct 
+reference number on the transfer documents BOS have done what they were required to do 
+and have therefore acted reasonably and fairly.
+My final decision
+For the reasons set out above I do not uphold the complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mrs D to accept or 
+reject my decision before 24 April 2021.
+ 
+Jonathan Willis
+Ombudsman

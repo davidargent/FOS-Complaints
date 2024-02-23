@@ -1,0 +1,154 @@
+DRN-4228346
+The complaint
+Mrs S complains that HSBC UK Bank Plc (HSBC) debited funds from her account without 
+her permission following a failed money transfer. She says this caused her account to 
+become overdrawn, giving rise to fees and interest.
+What happened
+Mrs S holds a Euro account and a Sterling account with HSBC. In April 2022, she attempted 
+to transfer funds from her Euro account to the Euro account of a third party using Online 
+Banking. Mrs S says she attempted the transfer three times and a fraud alert was triggered
+each time. She says she contacted HSBC to confirm that the transactions were genuine but,
+despite this, none of them completed.
+Mrs S says she rang HSBC a fourth time as the transaction hadnt taken place. She says
+that HSBC told her to change the currency to Euros. She did so and the transaction
+completed. Mrs S now knows that the currency for the previous attempted transactions had
+been set to Sterling, which is why they failed. She wasnt aware of this at the time.
+Around one month later, HSBC sent Mrs S an email telling her that nearly £1,900 would
+need to be debited from her account in relation to an exchange rate loss for a cancelled
+transaction. Mrs S responded, saying there was no payment to be processed and she didnt
+think there was any fee outstanding. She says she didnt hear any more from HSBC about it.
+But, in November, HSBC debited £2,636.06 from her Sterling account. This caused the
+account to become overdrawn. Mrs S says that, when she contacted HSBC to query it, she
+was told she would hear from the overseas team, but never did.
+Mrs S raised a complaint. When HSBC responded, it said that the charge was for currency
+conversion losses on a payment Mrs S had input into Online Banking on 20 April. This was
+one of the three failed transactions referred to above. HSBC said that Mrs S had requested
+the funds to be converted into Sterling. But, as the receiving account couldnt accept Sterling
+payments, the transaction failed.
+The transfer funds had never debited Mrs Ss account. But HSBC said it had still completed
+the currency conversion on its internal account. It said that Mrs S accepted the exchange
+rate at the time of inputting the payment. HSBC has explained since that, when a rate is
+accepted, it purchases the currency at that time to guarantee the rate. It said that the funds
+were converted to Sterling on 20 April, when Mrs S requested the transaction. But, as the
+payment was unsuccessful, the currency was sold back. So, there were two currency
+conversions here: one from Euro into Sterling and another from Sterling back into Euro.
+HSBC said that, when the funds were converted back into Euro, a loss arose. It said this
+would normally have been taken from Mrs Ss Euro account, but there werent any funds in
+that account and it doesnt have an overdraft facility. So it took the funds from Mrs Ss
+Sterling account. It said it tried to contact her to discuss this but never received a response.
+HSBC said it had acted in line with its policies and procedures. But it agreed there was room
+for improvement and apologised for the lack of clarity around the charge being debited from
+Mrs Ss account. Mrs S wasnt happy with HSBCs response, but it said it couldnt see any
+reason to reinvestigate the matter.
+Mrs S brought the complaint to this service. She said she didnt request the transfer to be
+made in Sterling. She said that HSBCs Online Banking facility had allowed a transaction to
+be created which couldnt be fulfilled due to the currency discrepancy. And that she wasnt
+notified during the online process that she would incur significant fees. She said no fees
+should have applied anyway, as she wanted to send funds in their existing currency to an
+account in the same currency; there was no need for any currency exchange. She is
+unhappy that HSBC charged her for a transaction which didnt take place. And she said it
+debited the funds from her account without permission.
+HSBC said that the exchange rate was displayed to Mrs S at the time the payment was
+processed. It said she accepted this and confirmed she wanted the payment to be sent. It
+said it processed the payment in line with her instructions. And that the currency conversion
+loss has been debited in line with the terms and conditions of her account.
+However, HSBC accepted that there had been a significant delay in the funds being
+converted back to Euro. The payment was cancelled on 21 April, but the funds werent
+converted back until the end of October. The loss was debited from Mrs Ss account on 7
+November. HSBC said that, due to the difference in exchange rates in that time, Mrs S was
+£701.07 worse off. It offered to pay this to her, as well as compensation of £100. It also
+refunded debit interest which had been applied to her account as a result of it becoming
+overdrawn, although Mrs S says that further interest has been debited since.
+I issued a provisional decision on 7 June 2023, indicating my intention to uphold the 
+complaint. Mrs S accepted the provisional decision. But HSBC didnt accept it and provided 
+some further comments and evidence for me to consider. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Ive considered the comments from HSBC and thought about everything again. But I havent 
+seen anything which has changed my mind about how this complaint should be resolved. So 
+Im going to uphold it as indicated in my provisional decision. My reasons are set out below.
+Its not disputed that the currency conversion was unnecessary here. But there is
+disagreement about why it happened. HSBC says that Mrs S requested the conversion to
+Sterling. But Mrs S says she didnt select Sterling as the currency for the transaction. Having
+considered all the information from both parties about this, Im satisfied that Mrs S didnt
+select Sterling as the currency; rather, HSBCs system defaulted to Sterling because the
+receiving account was in the UK.
+HSBC says its the customers responsibility to select their preferred currency for a transfer. 
+It has provided screenshots of the customer journey for making payments using Online 
+Banking. It says Mrs S would have had several opportunities to review and change the 
+currency. But Mrs S says these arent the screens she saw when she attempted the transfer 
+in April. She says that HSBC has redesigned its system since then. The customer journey 
+for processing payments may be clearer now. But, from the information available to me, I 
+dont think Mrs S was shown these screens when she attempted the transfer in April.
+HSBC says that the currency and exchange rate were displayed to Mrs S in the transaction
+details. It says she accepted these and confirmed she wanted the payment to be sent. Thetransaction details Ive seen show the transaction amount in Euro. The debit amount shown
+is the same, also in Euro. This was in line with Mrs Ss intentions and what shed have been
+expecting to see.
+The transaction details also include a figure for total to beneficiary. This figure is shown in
+Sterling. In a separate section below, called FX Details, an exchange rate is stated. I find it
+likely that these details were displayed to Mrs S at the time of her instruction. But, even 
+though the total to beneficiary figure is in Sterling, I dont think Mrs S would necessarily have
+known from this that the funds were going to be converted. Her funds were held in Euro and
+she hadnt actively requested the transaction to be made in Sterling. So, although I think an
+exchange rate was shown further down the page, I think the information about the 
+transaction could have been clearer. I dont think its unreasonable in the circumstances that 
+Mrs S didnt realise there would be a currency conversion. 
+But, even if Mrs S ought to have noticed that the funds would be sent in Sterling, I think the
+currency conversion could still have been avoided. I think its reasonable to expect HSBCs
+system to have recognised that the funds were being sent to another Euro account, 
+particularly as the beneficiary account was also held at HSBC. HSBC says that, when 
+payments are sent to an external bank, it doesnt have the facility or access to confirm the 
+currency of the receiving account. So, it doesnt think it should be expected to check this 
+when the receiving account is within HSBC. But it seems that HSBC did identify the issue in 
+relation to the other two failed payments, as no currency conversion was performed for 
+those. Its not clear why the issue wasnt picked up for this transaction, but I dont think thats 
+Mrs Ss fault. Also, Mrs S says she spoke to HSBCs fraud team after shed initiated the 
+transaction, but they didnt raise the currency issue. I think that was also a missed 
+opportunity.
+The transaction was requested by Mrs S on 20 April. It was cancelled by HSBC on 21 April.
+So the currency issue was identified quickly and the funds never left Mrs Ss account. I dont
+think she had any reason to think there would be any consequences from the failed
+transaction. But HSBC says it had already converted the funds on 20 April. It says it sold the
+converted currency back and needs to be reimbursed for the loss it incurred in doing so. It
+says it contacted Mrs S about this in May but never had a response.
+The evidence Ive seen confirms that HSBC contacted Mrs S on 27 May. This was more
+than one month after the payment failed. HSBC says it cant explain this delay. Theres
+nothing to indicate Mrs S was aware before this that any currency conversion had taken
+place. Shes provided evidence that she did respond to HSBC on 30 May saying I am
+confused as there is no payment to be processed, and therefore I do not believe there is any
+fee outstanding. The reply she received appears to have been an automated response. She
+didnt hear anything else until the funds were debited from her account in November. I dont
+think this delay or lack of response was reasonable and HSBC accepts that Mrs Ss
+concerns should have been addressed at the time.
+I dont think any reasonable person in Mrs Ss position would have expected to incur a
+currency conversion loss. She hadnt knowingly requested a currency conversion. The
+transfer funds never left her account. She contacted HSBC and managed to make the
+payment successfully a few days later. Nothing was said to her at the time, even though
+HSBC knew on 21 April that the payment had failed due to the currency discrepancy.
+HSBC says that Mrs S is liable for the loss and its entitled to take the funds. It relies on the
+terms and conditions of her accounts. Mrs S agreed to be bound by these when opening her
+accounts. But strictly following terms and conditions wont always result in a fair outcome in
+the individual circumstances of a complaint. I dont think Mrs S could have envisaged she
+might owe money to HSBC and incur a loss around six months later due to an unnecessarycurrency conversion she wasnt aware of, for a transaction which didnt complete.
+I understand that, because HSBC purchased currency and then had to sell it back, it was out
+of pocket. But it doesnt automatically follow that it would be fair to recover that loss from Mrs
+S. I dont think that would be a fair outcome in the circumstances here.
+Putting things right
+I think the fair resolution would be for HSBC to refund, with interest, the £2,636.06 which it
+debited from Mrs Ss account on 7 November 2022. It should also refund all overdraft
+interest and charges arising from this debit. I think it should also pay Mrs S compensation of
+£100 for the distress and inconvenience she has experienced.
+My final decision
+For the reasons above, I uphold this complaint. HSBC UK Bank Plc should:
+credit Mrs Ss account with the sum of £2,636.06 (the Currency Conversion Loss)
+plus simple interest on that sum at 8% a year, from 7 November 2022 until the date
+of settlement;
+reimburse all overdraft interest and charges arising from the debiting of the Currency
+Conversion Loss; and
+pay Mrs S compensation of £100.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mrs S to accept or 
+reject my decision before 3 August 2023.
+ 
+Katy Kidd
+Ombudsman

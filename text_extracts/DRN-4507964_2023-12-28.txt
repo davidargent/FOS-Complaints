@@ -1,0 +1,76 @@
+DRN-4507964
+The complaint
+Mr A complained because Barclays Bank UK PLC refused to refund him for transactions 
+which he said he didnt make.
+What happened
+On 5 June 2023, there were two online banking payments from Mr As Barclays account to a 
+new payee. One was for £250 and the second, to the same payee, was for £750.
+On 6 June, Mr A rang Barclays and said he hadnt made either of the two payments. 
+Barclays asked him a number of questions, including whether hed let anyone else know his 
+online login or security details, whether anyone else had access to Mr As device on which 
+the payments had been made, and whether Mr A had clicked on any links or downloaded 
+any software. Mr A said he hadnt done any of these things. He still had his card. Barclays 
+cancelled and reissued Mr As card and his online banking passcode, and investigated.
+Barclays refused to refund Mr A. Mr A complained, but Barclays didnt uphold his complaint.
+Mr A wasnt satisfied and contacted this service.
+Our investigator didnt uphold Mr As complaint. He said that he couldnt see how Mr As 
+security details had been compromised. Mr A still had his card and said he hadnt passed 
+the details to anyone else. The investigator had asked Mr A if he know how any third party 
+could have accessed the details, but Mr A didnt.
+The investigator explained that the technical evidence from Barclays mobile banking 
+payments audit showed that the disputed transactions had been made from Mr As 
+registered mobile, and that the IP address (a unique computer identifier) was one Mr A had 
+used before. Mr As mobile banking app had been logged in that day using Touch ID, in 
+other words Mr As biometrics. So the investigator didnt uphold Mr As complaint.
+Mr A didnt agree. He said hed been a victim of crime. He said he had no idea how the 
+person carrying out the transactions had obtained his passcode, fingerprint / facial ID to get 
+into his banking. He said he hadnt put his password on any digital device, or written it down 
+anywhere. Nor had he clicked on any links or websites, or shared any of his banking details. 
+Mr A said he believed it could be a scam, and he didnt know who the person was and hadnt 
+communicated with them before.
+Mr A asked for an ombudsmans decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+There are regulations which govern disputed transactions. The relevant regulations here are 
+the Payment Services Regulations 2017. In general terms, the bank is liable if the customer 
+didnt authorise the payments, and the customer is liable if they did authorise them. So Ive 
+considered whether its more likely than not that Mr A, or someone else, authorised the 
+payments.
+The technical computer records provide a lot of information, which Ive studied closely. This 
+includes:
+- The device used, and linked phone number, were registered to Mr As account 
+profile. They were used for payments which Mr A didnt dispute, both before and after 
+the disputed payments;
+- The login for the disputed transactions was done through biometrics (fingerprint or 
+face ID). This could only be done by someone with a registered fingerprint or face. Mr 
+A said he still had his device and was the only person with access; 
+- Ive looked at the IP addresses used to make the two payments. Mr A had made 
+multiple genuine logins and payments from the addresses used for the disputed 
+transactions;
+- There was another payment, which Mr A didnt dispute, between the two payments. If 
+someone else had Mr As device and details, this seems unlikely; 
+- Mr A still had his card, and said no-one else could have accessed it. But the person 
+setting up this new payee would have had to have lots of information from that card. 
+That would include the 16 digit card number, the expiry date, and the security code 
+on the back. 
+This technical evidence means that I think its most likely that Mr A carried out the disputed 
+transactions himself. His evidence was that no-one else could have accessed his details. I 
+cant see how any third party could have obtained these and carried out the transactions.
+Also, if any third party fraudster had carried out the transactions, its likely that the timings 
+would have been different.  The first, £250, payment took place just after 3pm. The payment 
+which Mr A didnt dispute took place about an hour later. It was then about another four 
+hours before the £750 disputed transaction. This isnt the pattern for a typical fraudster. They 
+normally maximise their gain quickly, with repeated transactions until theres no money left, 
+or the payments are blocked. But here, there was a significant time gap between the 
+disputed transactions. And there was a significant amount of money left in Mr As account 
+after both disputed transactions. So the circumstances arent typical of a fraudster.
+For all these reasons, I find that its more likely than not that Mr A authorised the disputed 
+transactions himself. So Barclays doesnt have to refund him.
+My final decision
+My final decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr A to accept or 
+reject my decision before 25 January 2024.
+ 
+Belinda Knight
+Ombudsman

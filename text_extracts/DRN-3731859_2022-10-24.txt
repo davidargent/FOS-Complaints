@@ -1,0 +1,125 @@
+DRN-3731859
+The complaint
+Mr R has complained that HBL BANK UK LIMITED (also known as Habib Bank Limited) 
+wont refund transactions he says he didnt make or otherwise authorise.
+What happened
+Both sides are most familiar with the case, so Ill summarise things in brief.
+In November 2020, Mr Rs card and PIN were used for a number of cash machine 
+withdrawals and point of sale transactions abroad, in and around the place where he was 
+staying. On his return to the UK, Mr R queried these transactions with HBL, saying he didnt 
+recognise them.
+Mr Rs card was then used for a number of payments to a cryptocurrency platform, mostly 
+for large amounts.
+Mr R has explained that his card was in his possession the whole time, and he had not 
+written down his PIN or told it to anyone. He thought his card had been cloned. He was also 
+unhappy that HBL later closed his account.
+HBL held Mr R liable for the payments in dispute, mainly on the basis that the transactions 
+had all been properly authenticated.
+Our investigator looked into things independently and partially upheld the complaint. They 
+found it was most likely that the transactions abroad had been made with Mr Rs consent. 
+But they found that HBL had not evidenced that Mr R had consented to the cryptocurrency 
+payments, so they recommended that those be refunded.
+Neither party agreed. Mr R felt sure his card had been cloned abroad, and HBL wanted the 
+case to be kept on hold as they hadnt been able to get in touch with the cryptocurrency 
+platform. The complaints been passed to me to decide.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+First, Ill consider the ATM and point of sale transactions that were made abroad.
+HBLs technical evidence shows that those payments used Mr Rs genuine card, and the 
+correct PIN. They were not made using a cloned card, as Mr R suggested. So Im satisfied 
+that those transactions were properly authenticated. The question, then, is whether the 
+evidence suggests its most likely that Mr R consented to those payments, or not.
+Mr R has confirmed that his card was with him the whole time, and that he still had it 
+afterwards  which I can see is the case as he used that card for genuine payments after the 
+disputed ones. However, the ATM withdrawals and point of sale payments were made using 
+Mr Rs physical card. And its not likely or plausible that a fraudster would give Mr R his card 
+back after stealing it  that would drastically increase their chances of getting caught while 
+actively stopping themselves from stealing as much as they could have. Its also unlikely that 
+theyd be able to find Mr R hours later, or that theyd be able to put his card back in his 
+pocket without him noticing anything wrong.
+Moreover, those payments were made using Mr Rs PIN. Hes confirmed that he hadnt 
+written down his PIN or told it to anyone, so a thief couldnt have learned it that way. And its 
+not likely that they would happen to guess it correctly on the first try. Its sometimes possible 
+for thieves to learn someones PIN by watching them enter it previously. But here, the 
+disputed payments started several hours after Mr Rs last use of the PIN. And its not very 
+likely that a thief would overlook him entering his PIN, then wait so long to steal the card, nor 
+that theyd steal the card at the time and then wait so long to use it. So there doesnt seem to 
+be a likely way that someone knew Mr Rs PIN without his permission.
+I might have expected a thief to try to take as much money as possible, as quickly as 
+possible, before the card gets blocked. But here, the person using the card did not take 
+nearly as much as they could have, then they stopped using the card entirely despite leaving 
+a very large balance in the account. This does not fit well with the possibility of fraud.
+On the other hand, the payments abroad were very similar to Mr Rs genuine payments in 
+terms of locations, amounts, and so on. And customers do sometimes forget payments they 
+have made and then mistakenly dispute them. Ive not seen any evidence that makes it 
+seem implausible or unlikely that Mr R couldve authorised these payments or given 
+someone else permission to make them on his behalf.
+So it doesnt seem likely or plausible that the payments abroad were unauthorised. But it 
+does seem both likely and plausible that they could have been made with Mr Rs consent. 
+So on that basis, I dont think I can fairly tell HBL to refund them.
+Ill now turn to the cryptocurrency payments.
+HBL have shown that the cryptocurrency payments were authenticated using Mr Rs card 
+details. But again, that is not enough  on its own  for HBL to hold Mr R liable for them. 
+They also need to be able to evidence that Mr R consented to those transactions.
+To explain, the onus is on HBL  rather than Mr R  to evidence that HBL are entitled to hold 
+him liable for these disputed payments. And I appreciate that it may be frustrating for HBL 
+that theyve not had a response from the cryptocurrency merchant. But this is the sort of 
+information they should have gathered at the time, before we asked for it. And weve given 
+HBL numerous deadline extensions, stretching far beyond our standard timescales. We are 
+required to resolve complaints quickly and informally, so we would not look to keep a case 
+on hold indefinitely. And we are impartial, so it would be unfair for me to give HBL special 
+treatment in that regard. Our last deadline has passed, so I will decide this complaint based 
+on the evidence I have.The cryptocurrency payments were made using Mr Rs card details. Contrary to HBLs 
+arguments, this does not require the physical card  just the card details. Indeed, these 
+types of payments are commonly known as card not present transactions.
+There are a number of possibilities for how someone could have gained Mr Rs card details 
+without his permission, such as if a merchant hed previously given his card details to got 
+compromised. And Ive not seen any evidence which shows that two-factor authentication 
+was used here. So it seems both likely and plausible that these payments could have been 
+made without Mr Rs consent.
+The cryptocurrency payments were made for large and repeating amounts. When payments 
+got rejected, the person making them then tried lower ones to get them through. This looks 
+consistent with someone trying to take as much as they could.
+Indeed, the person making these payments was still attempting them at about the same time 
+Mr R was on the phone to HBL telling them to block his card. Then they kept on trying more 
+cryptocurrency payments, including trying different platforms, after Mr R had got the block 
+put in place. This also suggests that these payments were being attempted without Mr Rs 
+permission. It is not especially likely that hed block his own payments while in the middle of 
+making them, nor that hed try further payments knowing hed already blocked his card.
+HBL pointed out that one needs an account with the cryptocurrency merchant in order to use 
+their platform. But broadly anyone can make an account. HBL have not provided any 
+evidence that this was Mr Rs account. Meanwhile, Ive not seen any evidence that Mr R 
+benefitted from these payments in any way, such as from a pay-out. And when Mr R asked 
+the merchant for proof of whose account it was, they declined to deal with him, which if 
+anything tends to suggest it probably wasnt his account.
+HBL also pointed out that in his dispute form, Mr R mixed up one of the cryptocurrency 
+payments with a genuine payment of a similar amount, and that he didnt list one of the 
+smaller cryptocurrency payments. But its pretty clear that this was just an oversight and a 
+mix-up. Mr R has otherwise been clear and consistent that he disputes all the cryptocurrency 
+payments from November 2020.
+Taking into account everything thats been said and provided, Im not persuaded that Mr R 
+consented to the cryptocurrency transactions. And Ive not seen anything which shows that 
+those transactions were made due to any gross negligence on Mr Rs part, nor any 
+intentional failure to keep his account safe. So I dont think HBL can hold him liable for them.
+Lastly, I appreciate that Mr R is unhappy that HBL closed his account. But much like Mr R 
+can decide who he banks with, HBL can broadly decide who banks with them. I can see that 
+following this incident, Mr R withdrew his money, which took the account below the minimum 
+balance. And HBL gave him the appropriate amount of notice before closing it. So I cant see 
+that they did anything wrong there.
+Putting things right
+I direct HBL BANK UK LIMITED to:
+refund all the cryptocurrency platform payments made in November 2020;pay simple interest to Mr R on those transactions, at the rate of 8% simple a year, 
+payable from the date they were last debited until the date theyre returned. This is 
+to compensate Mr R for the time he didnt have his money.
+ HM Revenue & Customs requires HBL to take off tax from this simple interest. HBL must give Mr R 
+a certificate showing how much tax theyve taken off if he asks for one. Mr R may then be able to 
+claim the tax back from HMRC if he does not normally pay tax.
+My final decision
+For the reasons Ive explained, I uphold Mr Rs complaint in part, and direct HBL BANK UK 
+LIMITED to put things right by doing what Ive said above.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr R to accept or 
+reject my decision before 21 November 2022.
+ 
+Adam Charles
+Ombudsman

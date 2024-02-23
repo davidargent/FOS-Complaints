@@ -1,0 +1,141 @@
+K820x#14complaint
+Mr S complaint is that Forex Capital Markets Limited (FCML) had a system failure which  
+resulted in closing  positions in his margin trading account, on 24 August 2015,  erroneously. 
+He seeks compensation  for the loss he says he incurred from this. 
+background
+Mr S complaint referred  to two transactions closed  at 16:02:42 and 16:02:43  (GMT +3) at 
+losses and despite  having sufficient account balance  to meet  the margin requirement. One 
+of our investigators looked into the complaint. He noted that Mr S subsequently referred to 
+other positions which he said had also been mishandled by FCMLs system. However, the 
+investigator considered  that the two transactions were sufficient to address the crux of his 
+complaint  the alleged system  failure.
+The investigator concluded that the complaint should not be upheld. He referred to evidence  
+in Mr S trading statements and said the first closed  position happened  because of a margin  
+breach and that the second  closed position happened because  the first closure was 
+insufficient to correct the margin  breach, so the second closure  was needed. He said the 
+closures happened as they were supposed to  based on the margin requirement rules  for 
+the account  and that there was no evidence of a system failure. He also noted  that it was 
+Mr S continuing obligation  to maintain sufficient  margin in his account.
+Mr S disagreed with this outcome,  which  led to further correspondence  with the investigator. 
+He raised the following main  points:
+There is a conflict between the investigators views that both positions were closed 
+due to a single margin breach and that the second position was closed because  of 
+insufficient margin after the first closure.
+The manner in which the positions  were  closed has not been properly treated. There 
+is an issue about slippage  applied to the closing price which has not been  explained.  
+There was a delay  of nine seconds   which is significant in trading terms  between 
+the margin breach  (the time at which the price triggered the breach) and closure of 
+the first position. This too has not been explained and is unfair. 10 other examples of 
+this, which all caused losses, followed within the same hour and there was no margin  
+breach when they happened.
+In addition, there are examples of no close-outs being applied  to positions despite 
+negative margin in the account  later in the hour.
+FCML changed the margin requirement  without  notifying him.
+The investigator did not consider that the explanation about the closure  of the two positions 
+was conflicting  and he repeated a summary of his finding in this respect. He considered that 
+the slippage Mr S refers  to was positive, so it does  not add merit to the complaint, and that 
+the delay he mentioned appears to have  also had a positive price effect and does not dilute 
+the fact that a margin breach legitimately  led to the closures. The investigator also affirmed 
+that his assessment of the two positions was enough to address  the allegation about an 
+alleged system failure and he noted that the margin requirement adjustment Mr S mentioned 
+did not affect the product  traded in his positions.
+Mr S disagreed with the suggestion  that the slippage  and time delay had a positive effect, 
+and he maintained that the margin requirement adjustment  was relevant to his positions (and 
+Ref: DRN03847942was applied without  notice to him). The investigator  was not persuaded to alter his 
+conclusion and the matter was referred  to an ombudsman.
+my findings
+Ive considered all the available  evidence  and arguments to decide  whats  fair and 
+reasonable in the circumstances of this complaint.
+I share  the investigators  view that the two main positions presented in the complaint are the 
+most relevant. It appears that towards the end of the hour (roughly) that followed closure of 
+the first position the margin status of Mr S account was negative.  He says no position  
+closures took place  at the time despite the negative account margin.  I also note his 
+argument that, prior to that, other  closures  took place shortly  after the two main  closures  
+despite having positive margin at the time. 
+This suggests that the core complaint  remains one about an alleged system failure  during 
+the relevant time period. I consider that addressing the two main positions is important in this 
+respect and  without  going into the details of each of the other  disputed  closures  but without 
+ignoring them  I have also taken an overall  view on what  happened during the relevant 
+period.
+We have been  provided with a copy of the terms and conditions for the margin  trading  
+account dated July 2015. This captures the events that happened in August 2015  and 
+provides meaningful context for the issues within the complaint. Section 20 of the terms 
+makes margin  related provisions, and I note the following:
+Section 20.2 contains the ongoing margin  obligation upon Mr S that the investigator 
+referred to. In this respect, he was essentially obliged to ensure that his account  had 
+and maintained a positive  margin status, by either closing positions or adding  funds 
+to avoid a negative margin.
+In the event of a margin breach  (negative  margin) section 20.3 entitled FCML to 
+complete discretion  in closing  one, several or all  open margined positions  
+immediately, with or without notice  to the Client.  In the event of closures due to a 
+negative margin status, this section also warns that   the Client should expect 
+that the Company will close all of the Clients Margined  Transactions.
+Section 20.4 says FCML  was not obliged to give any margin  call warnings.
+Section 20.10  says  The Client is specifically made aware  that the Margin 
+Requirements are subject  to change without notice including  without limitation  the 
+Margin rates governing  the Clients open Margined  positions .
+I address the complaint issues as follows:
+I do not consider  that there  is a conflict in the explanation of what  happened to the 
+two main positions that were  closed. 
+There is evidence of the margin breach that prompted the first closure. As stated 
+above, FCML had discretion  to apply the closure(s).  I appreciate  Mr S point about a 
+delay of nine seconds between the margin breach and execution of the first closure, 
+but I am not persuaded that this is particularly extraordinary and I have not seen 
+Ref: DRN03847943evidence that the delay  was intended by FCML or that it resulted from its negligence. 
+I understand why Mr S says nine seconds  is significant in trading terms, this could be 
+so. I also understand  his pursuit for an explanation.  However,  the balance  of 
+available evidence appears to answer both points on the basis  that it took nine 
+seconds to complete execution of the closure and, as I have said,  I do not consider 
+that extraordinary. I draw  a similar conclusion with regards to the slippage  issue,  
+which appears to have occurred in the ordinary course of the closure  execution.
+The first closure did not correct  the margin breach. FCMLs discretion to close  
+positions continued and it exercised that by closing the second position.
+I have seen correspondence between the parties in which FCML suggested a 
+method by which it applied forced closures. In the same correspondence  FCML 
+replied to Mr S query about opening new positions in positive and negative margin 
+circumstances. In this respect,  it said this depends on the traded product and the 
+traded lots. I have  considered this correspondence for any conflict  between it and the 
+terms that I have referred to and no such conflict appears to exist. FCMLs discretion 
+appears to have covered any method it applied and whether (or not) it applied a 
+method. Mr  S query about opening  new positions relates  to his argument about no 
+forced closures happening  when the account  was in a negative margin  status   
+within that argument he also referred  to being able to open new positions despite 
+such status. I consider  that FCMLs response  to this query also illustrates elements 
+of its discretion. That discretion meant  it could  either  close  or not close positions  
+when an account  was in negative margin and I am persuaded  that this sufficiently 
+answers Mr S point about positions not being closed (and new positions being  
+opened) despite  a negative margin status.
+With regards to the other disputed closures, Mr S refers to 10 positions timed 
+between 16:13:27  and 16:15:24. He says the relevant margin  breach threshold did 
+not exist in the price range 30 seconds  before and 30 seconds after the forced 
+closures. The breaches that took place triggered FCMLs closure discretion. Its 
+discretion extended to closing one, several  or all of Mr S positions  due to negative 
+margin status. Mr S accepts that by 16:49  and, or to, 17:03 the account remained in 
+negative margin status. It appears the account was going  in and out of negative 
+margin status during  the relevant hour  after the two main positions were  closed. In 
+such circumstances, and despite  Mr S highlighting short periods in which he says 
+positive margin existed,  it would appear  that FCMLs closure discretion remained a 
+live matter during the hour. I understand Mr S objection to it applying the closures  
+when he considers it ought not to have  done so and his query  about  it not applying  
+the closures when  it could have done  so. However, in the context  of an account  that 
+began in negative  margin and was going  in and out of that status for the following 
+hour, this was arguably the inherent  effect  of FCMLs discretion. It was contractually 
+entitled to or not to apply closures  in those circumstances and under that discretion.
+I do not consider  that the issue about  a change in margin  requirements needs  to be 
+drawn out any further than the debate prior to this decision. As stated above, FCML 
+was contractually entitled to change margin requirements  including  those related to 
+open positions  without notice  to Mr S. The correspondence I mentioned  above  also 
+includes queries  about this issue and I accept that FCML described a method in 
+which it gave such notice to clients dependent on account net value. Nevertheless, 
+the terms say it was not obliged to, so this too appears to be a matter in which  FCML 
+had discretion and used  it in specified  circumstances. Even if Mr S contends  that he 
+Ref: DRN03847944should have received notice under those circumstances, the terms confirm that he 
+was not contractually  entitled to such notice and I do not consider  that the method 
+applied by FCML was sufficient to alter or nullify the effect of section 20.10.
+my final decision
+For the reasons  given  above, I do not uphold Mr S complaint. Under the rules of the 
+Financial Ombudsman  Service,  Im required to ask Mr S to accept or reject  my decision 
+before 5 January 2020.
+Roy Kuku
+ombudsman
+Ref: DRN0384794

@@ -1,0 +1,223 @@
+DRN-4336799
+The complaint
+Mr C complains Clydesdale Bank Plc trading as Virgin Money (Virgin) provided no 
+assistance when he approached it for help in connection with problems hed had with the 
+purchase of a motorcycle.
+What happened
+I issued a provisional decision on this case on 18 August 2023, in which I set out the 
+background to the complaint, so I will cover this only in summary in this final decision:
+Mr C saw a motorcycle advertised on a well-known e-commerce website (E). He 
+contacted the seller and arranged to buy the vehicle for £3,195. The seller couldnt 
+accept credit cards so he suggested Mr C use a digital wallet operator (P) to pay 
+him. Mr C did this via Ps Friends and Family payment option. The payment was 
+funded with Mr Cs Virgin credit card, which he had set up as a funding source with 
+P.
+Mr C reported having a lot of problems with the motorcycle. He was concerned about 
+how it had been maintained and he contacted the seller with several concerns. These 
+included the oil being black, the coolant being empty, and a fluid leak. Initially the 
+seller offered to take the vehicle back and give Mr C a refund, but eventually he 
+stopped communicating with Mr C. Other problems have been reported with the 
+motorcycle by Mr C, including a seized engine and cracked piston.
+Mr C contacted E but he says they wouldnt help him because of the way in which 
+hed purchased the motorcycle. He then contacted Virgin to make a claim under 
+section 75 of the Consumer Credit Act 1974 (CCA). Virgin didnt look into this 
+however, and instead explored whether it could reclaim the money Mr C had paid via 
+the process known as a chargeback.
+Virgin decided it couldnt help Mr C in this way, because hed used Ps Friends and 
+Family payment option. Mr C complained to Virgin but it would not change its 
+decision, only offering £100 compensation as a gesture of goodwill. Mr C says this 
+led him to financial ruin and he became insolvent under a Debt Relief Order (DRO). 
+Mr C then brought his complaint to the Financial Ombudsman Service. One of our 
+investigators looked into it and she didnt think it could be upheld. Mr C asked to appeal and 
+the case was passed to me to decide. 
+In my provisional decision I said there were generally two main ways in which a card issuer 
+(such as Virgin) could help a customer if something went wrong with a purchase theyd 
+made using their credit card. These were attempting a chargeback, or honouring a claim 
+under section 75 of the CCA. I went through each method in turn. On the matter of the 
+chargeback I noted Virgin were required to follow the rules of the card scheme (Mastercard) 
+when deciding whether or not to attempt one. I then said:
+Ordinarily a chargeback can be attempted where someone has purchased goods with their 
+card and they are defective or not as described. However, the payment Mr C made with his 
+card was made via a mechanism for sending money to individuals (i.e. the Friends and 
+Family option), and my reading of the rules is that this would not be treated as a purchase 
+of goods and would be ineligible for the type of chargeback Ive described above. Virgin was 
+therefore not wrong to say it couldnt help Mr C via the chargeback process.
+I then went on to consider the matter of the section 75 claim. Section 75, I observed, could 
+allow Mr C to claim against Virgin in respect of a breach of contract or misrepresentation by 
+the seller. I noted technical arguments had been advanced as to why section 75 protection 
+didnt apply to Mr Cs purchase, but that I was also of the view that there were other aspects 
+of the purchase which meant a successful section 75 claim would be difficult to make:
+When Mr C bought the motorcycle, the evidence suggests the person he bought it from 
+may have been a private seller as opposed to a trader. This is important because when a 
+person buys from someone who is not a trader, they do not benefit from the same level of 
+consumer protection. In particular, the Consumer Rights Act 2015 (CRA) does not apply to 
+such purchases, and it would be the Sale of Goods Act 1979 (SGA) which applies instead.
+Under the SGA, there are no specific quality standards that goods are expected to meet 
+if they are sold by a private seller. Goods could be faulty for example, and the seller would 
+not necessarily be in breach of contract. However, if a sale is by description (which it was 
+here) then the SGA says its an implied term of the contract that the goods will meet 
+their description. If they do not, the seller will be in breach of contract.
+Mr C has said the seller advertised the motorcycle as having been recently serviced and 
+in excellent condition with no faults, but he has also noted that the description in the advert 
+is no longer available. Ive seen a copy of the advert and it does seem to be the case that 
+the seller replaced whatever description hed given with the word SOLD once a sale had 
+been agreed. However, without the original description it would be difficult to conclude that 
+the motorcycle was not as it had been described.
+If the seller was a trader then the CRA would apply and it would have been an implied 
+term of the contract that the motorcycle would need to have been satisfactory quality when 
+it was sold to Mr C. Normally to show that something is not satisfactory quality there 
+would need to be evidence that it was faulty and that the faults were either present or 
+developing at the point it was sold, or that it was not sufficiently durable. Mr C has described 
+several faults and said he sent all his evidence to Virgin. Our investigator requested and 
+received this evidence from Virgin. Having reviewed it, I dont think it is sufficient to show 
+that the motorcycle had faults. It shows that Mr C complained about a low coolant level, the 
+colour of the oil, a potential fluid leak, and the lack of a receipt for a service, but there are no 
+photos or reports which might help to prove these things. And I note that some of the more 
+serious issues Mr C mentioned to our investigator, such as a cracked piston and seized 
+engine, are not referred to in the complaints to the seller.
+Concluding, I said that whether or not section 75 applied to Mr Cs purchase, I was unable to 
+say that the seller was in breach of contract. However, I was mindful that Mr C may have 
+been able to provide further evidence regarding the faults, so I went on to consider the 
+technical arguments which had been made in more detail.
+I noted that one of the key conditions which needs to be met for section 75 to apply to a 
+purchase, is that there needs to be what is called a debtor-creditor-supplier (DCS) 
+agreement in place. I summarised what this meant as follows:
+For there to be a DCS agreement in place for his purchase, Mr Cs payment for the 
+purchase needs to have been made under pre-existing arrangements between the creditor (Virgin) and the supplier (the motorcycle seller) or in contemplation of future arrangements 
+between them. I will simply refer to these together as arrangements.
+I outlined what arrangements, in their most typical sense, looked like:
+The typical example of arrangements between a creditor and supplier is where the 
+creditor has made an agreement with the supplier that the supplier can accept its credit 
+cards. Under these arrangements the creditor agrees to pay the supplier on presentation of 
+a credit card by the debtor, the supplier agrees to provide the goods or services to the 
+debtor, and the debtor agrees to repay the credit provided by the creditor. Matters are often 
+more complicated than this however, and various intermediaries can be involved between 
+the creditor and the supplier.
+I explored the question of intermediaries further, touching on some of the case law which, in 
+my view, had meant arrangements could be defined rather loosely and could certainly be 
+indirect between the creditor and the supplier. This, I reasoned, meant that payment via 
+intermediaries such as P did not necessarily mean there was no DCS agreement in place.
+However, there was a problem in this case, and that was the fact Mr C had used the 
+Friends and Family payment method on Ps platform. On this I said the following:
+As our investigator observed, P made it clear at the point of payment that the Friends 
+and Family option for sending money was not intended for buying goods or services. 
+Indeed, Ps User Agreement prohibited Mr C from paying for goods and services in this 
+way.
+While I think that in some circumstances arrangements should still be deemed to 
+exist between the creditor and supplier when payment is made via an intermediary like P, I 
+think it is difficult to conclude that this should extend to specific methods of payment which 
+are not intended for buying goods or services and, as in this case, are prohibited for that 
+purpose. It would not be logical to say that such a payment was made under relevant 
+arrangements between the creditor and supplier, when it is not a normal way of paying for 
+goods or services, and disallowed by the payment provider.
+Mr C has argued he was unaware of the consequences of paying for the motorcycle in 
+this way, and has referenced the impact of specific learning difficulties he has to support this.
+One of the points made by the Court of Appeal is relevant to Mr Cs argument. The 
+Court noted that consumers are often unaware of the mechanisms underlying the payments 
+they make and that, broadly speaking, it wouldnt be fair for them to be penalised for that. I 
+do not think I can apply that reasoning to this case in a way which assists Mr C however. As 
+Ive said already, I think Ps payment screen (of which Ive seen an example) made a 
+clear distinction between payments to Friends and Family and for Goods and Services. I 
+think Mr C would have been aware that he was selecting a payment method which was 
+not intended for purchases.
+It follows that I consider Mr Cs payment to the motorcycle seller was not made under a 
+DCS agreement which would allow him to hold Virgin liable for breaches of contract 
+or misrepresentations by the seller, under section 75 of the CCA. Therefore, Virgin did not 
+act unfairly or unreasonably in declining to honour a claim from Mr C.
+Having reached this conclusion, I was also bound to conclude that Virgin could not be found 
+responsible for having caused Mr Cs financial difficulties. I did think, however, that there 
+were aspects of Virgins customer service which could have been better. It had made some 
+unnecessary requests of Mr C, such as asking him to contact the seller to arrange the return of the motorcycle (in order to meet one of the criteria for a chargeback to be attempted). This 
+had been unnecessary because a chargeback could not have succeeded in any event. I also 
+thought Virgin could have explained better to Mr C why it was not taking forward a section 75 
+claim. I thought Virgin should pay Mr C the £100 compensation it had already offered.
+I asked both parties to the case to comment on my provisional findings. Virgin said it had 
+nothing to add. Mr C made a number of points which I could summarise as follows:
+Virgin hadnt been of any assistance at all when he had approached it for help as a 
+last resort.
+Virgin had been unsympathetic to his financial difficulties and had been unwilling to 
+help with repayment plans or restructuring of his debt. Virgin had been completely 
+indifferent to his problems. This is what had led him into insolvency.
+The seller had in fact been a trader, and he sold motorcycles for a living using Es 
+classified ads section. And while the purchase had been made off of Es platform, 
+this was normal for classified listings where the buyer is expected to contact the 
+seller and conclude the purchase off the platform.
+He did not see how Ps User Agreement had anything to do with Virgins potential 
+liability to him under section 75 of the CCA. He accepted that Ps own protection for 
+buyers doesnt apply to payments made via the Friends and Family option, but 
+argued that did not extend to not having protection under section 75. It was in most 
+respects exactly the same as paying the seller via the Goods and Services option. 
+He had never gathered more evidence because the seller stopped responding to him 
+and Virgin had only asked for specific things, which he had provided. Hed stopped 
+collecting evidence once Virgin had made it clear they wouldnt be helping.
+The case has now been returned to me to consider again.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+In his response to my provisional decision, Mr C has developed his points relating to his 
+financial difficulties in more detail. He has referred to not being offered a repayment plan, for 
+example. 
+Mr C had previously referred to being met with a lack of sympathy when he told Virgin he 
+could go bankrupt, and Virgin failing to offer any solutions, but as he has now gone into 
+more detail about this Ive looked into this point further.
+I asked Virgin to provide a recording of the call Mr C was referring to, which I have now 
+listened to. In the call Mr C refers to potentially having to go bankrupt if his claim is not 
+honoured. He says this is because he cant afford to absorb the loss. The member of staff he 
+is speaking to says they are sorry to hear that, but that he doesnt have a right to a refund 
+and they suggest that Mr C contacts Citizens Advice to see if theres any other way of 
+claiming the money back from the motorcycle seller. Mr C disagrees with this and suggests 
+that Virgin try to claim the money back from the motorcycle seller in order to force him to get 
+in contact. Virgins member of staff says they cant do this, after which Mr C says hes going 
+to talk to a debt charity and disconnects the phone call.I dont think Mr C made it clear on this phone call that he was looking for assistance with 
+difficulties making his credit card payments. He didnt ask for a repayment plan or 
+restructuring of his debt. He was very focused on the matter of getting a refund for the 
+motorcycle and his suggestions for how Virgin could help him were centred on that point. 
+Mr C was within his credit limit and not, to my knowledge, behind on his repayments. He 
+ended the phone call when Virgin continued to refuse to do anything about the dispute over 
+the motorcycle, and there was no further discussion of his finances. Overall, Im not 
+convinced that Virgin behaved unfairly or unreasonably with respect to Mr Cs financial 
+difficulties.  
+Even if I did think that Virgin ought to have offered some sort of forbearance in relation to the 
+debt on the account, I note Mr C did go to a debt advice charity shortly after his conversation 
+with Virgin and was made insolvent under a DRO. To be eligible for a DRO a persons 
+financial situation needs to be very poor, so I think Id find it difficult to conclude that Virgins 
+failure to offer forbearance caused Mr Cs insolvency.
+Moving on to the other parts of Mr Cs complaint, I accept Mr Cs point that the motorcycle 
+seller was a trader rather than a private seller. However, he would still need to show that the 
+vehicle was not satisfactory quality as required by the Consumer Rights Act 2015. I dont 
+think Mr C has evidenced that the motorcycle had faults or was not satisfactory quality, and 
+while I appreciate why he didnt gather further evidence at the time, it wouldnt be reasonable 
+to expect Virgin to honour a section 75 claim from him without this evidence.
+Turning to the question of the DCS agreement and the significance of the Friends and 
+Family payment method to this, theres not a lot I can add to what I said in my provisional 
+decision as summarised and quoted above. 
+I appreciate the arguments are technical ones, and I understand Mr Cs point that Ps own 
+protection wont apply, but for there to be a DCS agreement (and therefore for section 75 to 
+apply to a purchase) there need to be arrangements between the credit card company and 
+the supplier of the motorcycle. I accept that arrangements do not have to be direct and they 
+can exist via intermediaries like P. But I do not think it makes sense to say that there can be 
+arrangements in place where the method of payment is one which is not intended and is 
+indeed specifically prohibited, for the purchase of goods. This was clearly the case with the 
+payment Mr C made via Ps Friends and Family method.
+Because there are not arrangements of the required kind between Virgin and the motorcycle 
+supplier, the payment to the supplier and purchase of the motorcycle was not made under a 
+DCS agreement and section 75 protection does not apply to the purchase. Its unfortunate 
+for Mr C but it follows that my conclusion is that Virgin was right not to honour a section 75 
+claim from him.
+Mr C hasnt made any specific submissions following my provisional decision, on the 
+question of whether Virgin should have attempted a chargeback. On this point Ill say no 
+more than that I remain of the view that Mr Cs purchase wasnt eligible for a chargeback, for 
+the same reasons I outlined in the quoted extract from my provisional decision.
+This leaves the question of Virgins customer service. I said in my provisional decision that I 
+was minded Virgin should pay the £100 compensation it had already offered. Ive not seen 
+any reason to change that and so my final decision will be that this is what Virgin must pay 
+Mr C.
+My final decision
+For the reasons explained above, including those outlined in the summary and extracts from my provisional decision, Clydesdale Bank plc trading as Virgin Money must now pay Mr C 
+the £100 compensation it has already offered in respect of its minor customer service 
+failings. I do not uphold the remainder of Mr Cs complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr C to accept or 
+reject my decision before 3 November 2023.
+ 
+Will Culley
+Ombudsman

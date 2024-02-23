@@ -1,0 +1,155 @@
+K820x#14complaint
+Mr S complains on behalf of his company  S that Barclays  Bank  Plc wont  refund several 
+transactions that werent authorised.
+background
+In June 2017, an unauthorised third party gained access to Ss computers through  installing 
+a virus. They  were then able to make several  transactions - transferring a significant  amount 
+of money from Ss account. Ive set out below the details of the transactions  in dispute:
+Amount Time set up Time authorised
+£4,970 11:20 11:22
+£7,326 11:45 12:12
+£4,923 11:45 12:12
+£4,820 11:45 12:12
+£4,650 11:45 12:12
+The first transaction  was set up as a standalone payment. The four that followed were set up 
+as a batch of payments.
+When Mr S realised  what had happened, he got in touch  with NatWest to say that neither he, 
+nor anyone linked to S had made  these  payments. NatWest contacted the bank that 
+received the money  but was only able to prevent a very small amount of money from being 
+spent. 
+Mr S felt that Barclays systems were at fault here, rather than it being the responsibility of S. 
+He thought Barclays should have  noticed the transactions were unusual.  He also thought  
+Barclays should have  ensured S was using the up to date technology, citing some 
+opportunities the bank would have been  able to do so.
+Barclays looked into the fraud and it felt that S was at fault,  given how these transactions 
+had taken place.  It said S hadnt ensured it was using the up to date security technology the 
+bank provided. Nor had it operated the technology  it was using in line with the terms and 
+conditions of the account. Specifically, it said:
+new card readers  with integrated PIN pads had been provided to S but werent in 
+use. S had continued to us old ones  where  PINs would  be entered using a PC 
+keyboard;
+S had told the bank  it was using the new PIN pads;
+parties at S that were  authorised to transact on the account had left two separate  
+smart cards  inserted into the card readers. Had either been removed  as they were 
+supposed to have been  the transactions couldnt have happened.
+It therefore felt S had been grossly negligent and had failed to protect its account. 
+Barclays explained it had provided a number  of warnings and explanations  and with some 
+regularity  as to the risks of not keeping the technology up to date and operating it as 
+instructed. Barclays said that if S operated the technology in the way it recommended,  the 
+transactions would  never have happened. 
+Ref: DRN19497832Mr S wasnt  happy with Barclays answer and brought  Ss complaint to us, where  one of our 
+investigators looked into it. She also thought  that S had acted with gross negligence which 
+had allowed the transactions to take place. She didnt think the bank was responsible for 
+ensuring S was using  the right technology  and operating it correctly and noted  S had told the 
+bank it was doing so.
+Our investigator also didnt feel the bank should have realised something was wrong  with the 
+transactions. Mr S specifically commented  on the unusual recipient names and references 
+that had been applied  to the transactions. The investigator explained  that these wouldnt 
+have been checked and that it was only the account number and sort code that would have 
+been used to make the payments. 
+Mr S didnt agree  saying that he didnt  understand how Barclays could have let this happen  
+for the amount of money involved.  He said that Barclays  should  have noticed that the 
+transactions were  unusual  and stopped them  from happening. So the complaint was passed  
+to me to decide.
+my findings
+Ive considered all the available  evidence  and arguments to decide  whats  fair and 
+reasonable in the circumstances of this complaint.  Having done so Im not upholding it. Ill 
+explain why.
+In situations like this Barclays  is entitled to hold S liable for these transactions  where  it can 
+be shown that S authorised them, or that they happened as a result of Ss gross negligence.  
+This liability is set out in the Payment Service Regulations and confirmed in the account 
+terms and conditions. 
+No one disputes that these transactions werent  authorised by S. Its accepted S was the 
+victim of a sophisticated fraudster. So what I must  decide here is whether I think Barclays is 
+fair to say the transactions happened  as a result of S being grossly  negligent.  
+The transactions were  facilitated through technology that Barclays  provides. Put simply, the 
+bank provides an online platform for businesses like S to securely perform administrative 
+functions for its finances, along with making payments. 
+Barclays provided S with two card readers and two smart cards which are used to access 
+and operate the account online. For these transactions to have been made both cards 
+wouldve needed to have been  placed  in the respective card readers.
+The transactions were  initiated by a type of cyber-attack  that meant someone was able to 
+remotely access Ss online portal and instruct these payments  in a way that looked like S 
+itself was making them.  
+Barclays says that if S had complied with the terms on how to use the relevant security  
+technology then these transactions wouldnt have happened. And, having looked  through 
+this guidance  and whats happened here, I think its fair for Barclays to say that.
+Ive seen the terms and conditions  of Ss account with Barclays. These explain that S must 
+do all it reasonably can to make sure that payment instruments are kept secure.  They go on 
+to say that its important  that it follows any security instructions (including technical 
+Ref: DRN19497833requirements) Barclays gives them. In the same terms and conditions, Barclays explains that 
+S must follow the procedures and instructions in any user guidance that it gives in relation to 
+particular services and authentication  devices.
+The relevant  security instructions here are the Security  User  Guides  Barclays  sent S for the 
+card readers in December 2013 and October  2015.  These guides  confirm that there  are 
+security procedures that S needs to comply  with, otherwise they could be held responsible 
+for unauthorised transactions.  I think this should have alerted S that it needed to be vigilant 
+in how it used technology like the card readers  and made sure it used  them in line with the 
+Security User Guides.
+The guides  clearly explain that users must use the latest smart card readers. They  also 
+explain that users should  always ensure that a smart card is removed from a reader when  
+not being used to authorise a payment or perform an administrative function. Thats because 
+leaving smart cards  in the readers could expose  customers to risk where someone could 
+remotely access their computer   which is what happened here. 
+Its worth  noting here that the guides specifically highlight when a customer  like S might  be 
+liable for transactions on the account they didnt  authorise. It specifically references cyber-
+attacks involving  remote access and the danger  of leaving smart cards in card readers. And 
+its clear the customer will responsible for any transactions that take place  as a result.
+Barclays records confirm it sent S new card readers in March  2014. Someone linked to S 
+signed for these  to say theyd received them and confirmed to Barclays that S was using  
+these in September 2014. Im satisfied  that S had access to new card readers and that it 
+should have been using  these in line with the relevant security  guide Barclays  provided.
+Barclays records show that S was using out of date card readers when the transactions 
+happened, despite telling the bank otherwise. The schemes and tricks  people  use to steal 
+money and trick people  into parting with are constantly changing, so its important  that 
+customers ensure that they keep security measures  like the ones Barclays  provided  here as 
+up to date as possible  and comply with the instructions on how to use the technology. The 
+fact that S didnt  meant  that they were  particularly vulnerable to the kind of cyber-attack that 
+happened here. Something Im satisfied would have most likely been  prevented had S been 
+using the new card readers it had in its possession.
+S would also have had to leave both cards in the readers for these transactions  to be carried 
+out. This means S didnt  comply with the terms and conditions of Ss agreement with 
+Barclays or the Security User Guides here either.  Had either of the two smart cards not been 
+inserted the transactions  wouldnt  have  been  possible.
+Barclays has also shown that, when logging in, S would regularly have been provided with a 
+message  which had to be actively  acknowledged   that explains cards shouldnt be left in 
+the readers when performing administrative functions or making payments. The fact that S 
+left the cards  in the readers means I think that, again, it left itself vulnerable to the cyber-
+attack.
+The guidance that Ive seen here is geared  towards trying to avoid exactly the situation that 
+happened here. That is, out of date card readers  being used when theyre vulnerable due to 
+the passage of time and the cards  themselves being left in the readers when they shouldnt 
+have been. I think  its reasonable  to expect that a business would take care to ensure that it 
+was minimising any potential losses by following  the guides and advice. 
+Ref: DRN19497834The fact that S not only didnt ensure that the card readers were up to date, but also kept the 
+cards in the readers  means I think its been more  than just generally  negligent.  I think 
+Barclays is acting fairly  by saying S has been grossly negligent and by not returning the 
+money on this basis.
+I dont find it was Barclays responsibility  to ensure S was using  the correct  technology.  It had 
+provided everything to S along  with notifications and warnings about using the new PIN 
+pads. And its true S even  confirmed to Barclays that it was using them. I dont believe the 
+bank had to do more here.
+Mr S has questioned why these transactions werent flagged as unusual. Hes specifically 
+referred to unusual account  holder  names  and references. But I dont believe the bank ought 
+to have done more here.  What our investigator  said is true: Barclays  wouldnt have checked 
+the recipient names and references  being used and it wasnt  required to do so. 
+And considering Ss normal account  activity,  the value of the individual  payments, and the 
+fact its a business account  the payments dont appear particularly unusual. There  are often 
+transactions in excess of £20,000 on the account. There  was a smaller payment of around 
+£4,100 earlier in the month which is similar to each of the individual  payments made as part 
+of the fraud.
+I also think its important to consider just how the payments were made here as well. That 
+has a bearing on their apparent authenticity to the bank. The bank received instructions to 
+pay via its secure online  service. Those instructions appeared  to come from a customer  
+whom had confirmed  they were  using the latest  PIN pad technology.  The instructions also 
+appeared to be verified by two separate users,  on two different trusted computers and using 
+two separate smart cards. And so there were strong indicators for the bank that the 
+transactions were  being properly authorised. I dont find the bank ought to have been on 
+notice that something  was wrong.
+my final decision
+My final decision is that I dont uphold this complaint.
+Under the rules  of the Financial Ombudsman Service,  Im required to ask S to accept or 
+reject my decision  before 3 March 2020.
+Ben Murray
+ombudsman
+Ref: DRN1949783

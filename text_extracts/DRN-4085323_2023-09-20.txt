@@ -1,0 +1,76 @@
+DRN-4085323
+The complaint
+Mr N complains that Wise Payments Limited (Wise) sent a duplicate foreign currency 
+transfer and payment without his authority and wrongly charged him twice for the same 
+transaction.
+What happened
+Wise says a transfer was created on Mr Ns phone app on his account on Saturday 3 
+December at 11.31am for $100 to be converted to another currency but was not paid for  
+rather the transfer was left active waiting to be funded.  This transfer was paid for and sent 
+out successfully on Monday 5 December at 9.16am. A minute before this a duplicate transfer 
+was created, paid for and sent at 9.15am.
+Mr N informed Wise the following day that one of his transfers was duplicated and sent out 
+without his instructions. Wise told Mr N that both the transfers had been sent out and he 
+could ask the beneficiary bank to reject one transfer back to it.  
+Mr N complained to Wise that the duplicate transfer wasnt authorised by himself but rather a 
+mistake in Wises system and asked it refund the duplicate payment.
+Wise told Mr N it wasnt possible to cancel or edit the transfer and advised Mr N to ask the 
+recipient to ask their bank to reject the payment or return the money directly to him.
+Mr N was dis-satisfied with this and brought his complaint to this service. Mr N says he only 
+checked the exchange rates on the Saturday and refutes that he set up or created a transfer 
+and that he never received a notification of the first payment being set up. Mr N wants Wise 
+to apologise and refund him the first payment and compensate him $200 as a gesture of 
+goodwill for wasting his time.
+One of our investigators looked into Mr Ns concerns and reached the conclusion after 
+looking at the evidence that Mr N had both created and approved both payments and so it 
+was not unfair for Wise to ask Mr N to contact the recipient to ask for a refund of the 
+duplicate payment.
+Mr N disagreed and has asked for an ombudsmans decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having considered everything provided, Ive decided not to uphold Mr Ns complaint. 
+My role is to look at the problems Mr N has experienced and see if Wise has done anything 
+wrong or treated them unfairly. If it has, I would seek  if possible - to put Mr N back in the 
+position he wouldve been in if the mistakes hadnt happened. And I may award 
+compensation that I think is fair and reasonable.
+Wise has sent us screenshots to show that two separate transfers for the same amount and 
+to the same recipient were created on 3 December and 5 December. Wise says that the first 
+transfer was funded but rather left active and waited to be funded. This transfer was paid for 
+and sent out on 5 December around a minute after the second transfer was created and 
+sent.
+Mr N has said he only checked the currency but didnt confirm any payment on 3 December 
+and that the only transfer he sent was on 5 December and that he only received a 
+notification for the creation of the second transfer.
+Mr N might well have only sent out the transfer on the 5th, but this doesnt mean he didnt 
+create the transfer on the 3rd. And Wise have told us that push and email notifications are 
+only sent once a payment is sent and not when they are created and have provided 
+examples of notifications previously sent to Mr N when he has sent a payment. 
+Mr N has provided screenshots of what he sees on his phone app when he makes a 
+payment. But this only shows me the process involved in making a payment and not a 
+notification that a payment has been created. 
+Wise has provided the screenshots of digital logs time stamped for Mr Ns account showing 
+when he created the transfers, paid for them, currency converted and the payment sent. This 
+shows Mr N created the first transfer on the 3 December but that it wasnt progressed further 
+until 5 December a minute after Mr N created and sent the second transfer/payment.
+Wise has also shown us evidence that two separate OneTimeTokens were created and 
+both payments were authorised with biometric security within a minute of each other at 
+09:15:38 and 09:16:31 on 5 December. So I think it is more likely that the disputed transfer 
+and payment was created by Mr N at the same time as he says he checked the exchange 
+rate on 3 December and for reasons that are unclear that the payment wasnt progressed at 
+the time, rather than Wises system malfunctioning and creating and authorising this 
+payment randomly. Possibly Mr N hadnt realised hed already created a payment that was 
+active and waiting for him to progress it and mistakenly duplicated it and authorised both 
+within seconds of each other. 
+So on balance I dont think Wise made a mistake in sending duplicate payments. Wises 
+terms and conditions explain that a customer cant cancel a completed payment that has 
+been completed and so I dont think it was unfair of it to ask Mr N to contact the recipient and 
+ask that they return the duplicate when the mistake wasnt due to Wises actions. And it 
+follows that I do not uphold Mr Ns complaint.My final decision
+For the reasons Ive explained Ive decided not to uphold Mr Ns complaint against Wise 
+Payments Limited.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr N to accept or 
+reject my decision before 18 October 2023.
+ 
+Caroline Davies
+Ombudsman

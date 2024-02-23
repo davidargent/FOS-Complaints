@@ -1,0 +1,141 @@
+DRN-3057445
+The complaint
+Fs complaint, in summary, is that The Royal Bank of Scotland plc failed to provide it with 
+Third Party Provider (TPP) access under Open Banking and that meant F had to carry out 
+certain work manually resulting in added costs to it. F also says that its directors had to 
+spend a considerable amount of time with RBS to resolve this issue.
+What happened
+The background to the complaint is known to both parties and so I wont repeat it at length 
+here.
+Briefly, in September 2019 F applied to RBS for TPP permission, to be made available 
+through Open Banking. This was to enable F import data from its various accounts with the 
+bank directly onto Fs accounting software.  
+However, things didnt go as expected. RBS could not provide the TPP access. Initially it 
+wasnt clear what the problem was. Later it came to light that the issue was because F was a 
+cross branded customer. F was a customer of NatWest but used RBS Bankline portal, 
+through which the Open Banking / TPP access was to be given. It appears that this wasnt 
+possible at the time.
+Then followed several conversations between RBS and F as to how this could be resolved. 
+In late October 2019, RBS suggested that a shadow Bankline be set up as a gateway for 
+Open Banking services (in addition to the existing Bankline facility F had with RBS). But F 
+found the procedure cumbersome and wasnt also confident that the solution would work.
+Ultimately it was decided that the solution would be to move F to a NatWest login but that 
+could be implemented only by July 2020. Thus, in effect, F didnt have the TPP access it was 
+hoping to get via Open Banking, until about ten months after it applied for it. 
+F says that meanwhile its accounting services provider had to manually transfer the data to 
+its accounting software and that involved extra cost which was entirely due to RBS. So, it 
+says that RBS should reimburse it this cost. It also says that its directors had to 
+unnecessarily spend considerable amount of time to try and resolve this issue.
+RBS says that this wasnt so much of a bank error rather a limitation of its system after the 
+introduction of Open Banking. It says that it did offer a workaround which would have solved 
+the issue for F whilst a permanent solution was being worked. But F declined to try that out. 
+So, it feels that it shouldnt be held responsible for the cost incurred by F in doing the job 
+manually.
+Our investigator reviewed the complaint and was of the opinion that the complaint should be 
+upheld. He recognised that the failure by RBS to provide TPP access in September caused 
+inconvenience to F. So, he recommended that RBS pays £350 towards it. 
+As regards the financial loss claimed by F, he noted that F hadnt been able to specifically 
+evidence the incurred costs and so was of the view that he couldnt fairly ask RBS to 
+recompense F for any financial loss. He also noted that RBS suggested a workaround very 
+early on which may have helped to mitigate some of Fs losses.  So, he was of the view that 
+it wouldnt fair to ask RBS to pay the costs claimed by F. However, he said that it was 
+evident the Bankline wasnt functioning properly during this period as it should have, so it 
+would be fair for RBS to refund F the monthly Bankline fees it paid from October 2019 to July 
+2020.
+RBS said that it wasnt the case that F didnt have Bankline during this period and so it said 
+that it wouldnt be fair to refund the entire monthly fees. Nevertheless, it accepted the 
+investigators opinion and said that it will refund the fees which totalled about £200. 
+F didnt accept investigators opinion. In summary it said that the proposed redress was only 
+a tiny proportion of the costs it incurred due to RBSs failure to implement TPP access.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+What had happened here isnt in dispute. It is the case that RBS took about ten months to 
+provide TPP access to F via Open Banking. I appreciate that this was due to cross branding 
+problem. However, I consider that the bank ought to have identified this problem as part of 
+its Open Banking implementation to F and ought to have ensured that this was resolved 
+before it asked F to register for Open Banking. 
+So, the remaining issue for me to decide is what the fair compensation should be in this 
+instance. 
+F says that it had an existing direct daily automated export of data from RBS Bankline to 
+its accounting software for several years but that stopped in September 2019 when 
+the Open Banking was introduced. That wouldnt have been a problem had the TPP 
+access under Open Banking worked but it didnt. This meant that F had to manually 
+transfer the data until the issue was resolved in July 2020, which it didnt have to do 
+before. F says that the cost of this extra manual work was £4,140 and submits that RBS 
+should fully reimburse this cost.
+RBS told me that the only way F was able to automatically import data prior to Open 
+Banking was because it used a technique whereby F provided login details to the 
+accounting software which in turn extracted the data from the bank accounts. RBS says 
+that it had not authorised this and in any case it wasnt something that it provided. So, it 
+says that it wouldnt be fair for it to be asked to compensate for this facility not working. 
+I have carefully considered what the parties have said. I note F strongly feels about the 
+discontinuation of this facility when Open Banking was introduced but I dont think it is 
+fair that RBS should be held responsible for this not working, following the introduction of 
+Open Banking. This was a facility RBS did not provide or authorise in the first instance.
+That said, it is the case that F didnt have the advantage of directly importing data 
+through TPP access under Open Banking, something which RBS ought to have 
+provided. To that extent I consider that RBS should reimburse the cost F incurred in 
+carrying out this work manually.  
+However, RBS did offer a workaround until a permanent solution could be found. This 
+was by way of a shadow Bankline. And this was offered by the end of October 2019. I appreciate why F was reluctant to take that route. However, I consider it fair to expect 
+that F tried to mitigate the problem to the extent they could. RBS says that this action 
+was successfully employed by many other customers impacted by the cross branding 
+issue. It is difficult for me to know now whether that solution would have worked here 
+and how effectively. However, I havent seen anything to suggest that it wouldnt have. 
+This means that by implementing this alternative, F would have had TPP access and 
+wouldnt have incurred the additional cost from around end of October. So, I consider it 
+fair that any compensation should only be until that time.
+F has said that it incurred about £4,140 for the entire period from September 2019 to 
+July 2020 towards this manual work. This is on the basis that its accounting services 
+provider had to spend about two hours each week for this work and this lasted for 46 
+weeks. It says that it paid the provider £45 per hour. Thus, it has worked out the total 
+cost to be £4,140.
+F says that it can evidence the rate of £45 per hour. However, it could not specifically 
+evidence the exact amount of time the accounting services provider spent for this 
+particular work. It says that the data was manually transferred twice a week and estimate 
+the time involved was about two hours a week (so an hour for all the various accounts 
+put together, every time the data transfer took place). This doesnt appear to be 
+excessive to me and so in the absence of specific evidence I am prepared to accept this 
+as a reasonable estimate of the time spent. And the rate too appears reasonable to me 
+but if it wants, RBS can get evidence of the rate from F.
+I also note that the loss of savings of £4,140 calculated by F is in respect of several 
+accounts including those pertaining to Fs sister concerns. However, F has confirmed to 
+me that it was F that made those payments on behalf of all its group companies. So, I 
+am satisfied that any compensation towards this loss should be reimbursed to F. 
+Taking all of the above into account, I consider that the fair compensation in this regard 
+should be £720 (about 8 weeks to end of October / early November * 2 * £45). 
+As this cost was incurred by F in 2019, I consider it fair that RBS also pays some interest 
+on this amount. Ideally the interest should be calculated from the date of respective 
+payments to the account services provider. But my calculation shows that works out 
+roughly to about £130 at 8% simple p.a.  I am satisfied this is fair compensation towards 
+any loss of interest on the £720.
+As regards the implementation cost, I dont think RBS should reimburse it, as it seems to 
+me that F would have incurred that in any case.
+I agree that this matter caused inconvenience to F and I can also see that there was 
+numerous correspondence between F and RBS in relation to this, particularly initially 
+when it wasnt clear what the issue was.
+At the same time, I also think that once the problem came to light, RBS did try to work 
+with F to find a solution. Whilst I agree that this ought to have been ideally resolved 
+before September 2019, this wasnt an easy fix. Once identified, it could take some time 
+to rectify it. 
+So, once the way forward was agreed around November 2019, then F had to essentially 
+wait for it to be completed. From the available submissions I cant see that the director or 
+other staff were to put to further inconvenience from that point on, apart from seeking 
+regular updates. Taking all of the above into account, I am satisfied that a payment of £350 is fair and 
+reasonable in relation to this aspect of the complaint. 
+On our investigators recommendation RBS had also agreed to refund the Bankline 
+charges of £20 a month for 10 months. However, I note that F did continue to use the 
+Bankline during this period. As discussed earlier, the TPP was a new facility and I have 
+already considered the impact of RBS failure to provide this. So, I dont think it is fair that 
+RBS should also refund Bankline charges in addition.  
+Therefore, in summary, after taking into account everything that had happened, my decision 
+is that RBS should pay F a total of £1,200 (£720 + £130 + £350).
+My final decision
+My final decision is that I uphold this complaint. In full and final settlement of this The Royal 
+Bank of Scotland plc should pay £1,200 to F.
+Under the rules of the Financial Ombudsman Service, Im required to ask F to accept or 
+reject my decision before 8 March 2022.
+ 
+Raj Varadarajan
+Ombudsman

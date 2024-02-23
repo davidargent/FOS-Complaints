@@ -1,0 +1,164 @@
+DRN-2169004
+The complaint
+Mr and Mrs C complain that Barclays Bank UK Plc wont refund a disputed bank transfer 
+made from their current account.
+Background
+On 10 June 2020, a bank transfer of £2,000 was made from Mr and Mrs Cs current account, 
+using mobile banking. The table below provides a timeline relevant to this complaint:
+Date Time Method Details
+10 June 2020 13:36 Mobile banking Mr Cs mobile banking is successfully 
+accessed using fingerprint technology 
+(touch ID) 
+10 June 2020 13:41 Mobile banking While logged on, a payment is initiated 
+to a named individual, but not 
+completed
+10 June 2020 13:58 Phone call Mr C makes or receives a call to/from 
+his mobile to his father
+10 June 2020 Around 14:00 - Mr C says his phone was hacked and 
+inaccessible for around 24 hours
+10 June 2020 14:03 Mobile banking Mr Cs mobile banking is successfully 
+accessed using his passcode
+10 June 2020 14:08 Mobile banking While logged on, a payment is 
+successfully made to the same named 
+individual as the payment initiated at 
+13:41.
+10 June 2020 19:34 Mobile banking Mrs Cs mobile banking is successfully 
+accessed using her passcode
+10 June 2020 Time unknown Phone call Mr C logs a fraud claim with Barclays
+What Mr and Mrs C have said
+Mr and Mrs C said that on 10 June 2020, Mr C was working as a delivery driver and using 
+his mobile phone as a sat-nav. At around 14:00, Mr Cs phone screen showed what 
+appeared to be a Samsung update and he was unable to use the phone. Theyve said this 
+lasted until around 15:00 the following day. Mr C said he didnt get home from work until 
+around 20:00, at which point he checked his online banking and discovered £2,000 had 
+been transferred from his account. He says he now believes his phone was hacked and that 
+the update screen on his phone wasnt genuine. Mr C called Barclays that evening and 
+raised a fraud claim.
+Mr and Mrs C said that Barclays usually send a text whenever a new payee is set up, but 
+that no text was sent on this occasion which stopped them being aware of the transaction 
+sooner. Theyve said theyd never transfer money to someone they dont know. Mr and Mrs 
+C have provided correspondence between them and Samsung, as evidence that the update 
+screen on Mr Cs phone wasnt genuine. Theyve also provided call and data usage 
+evidence from Mr Cs phone provider to evidence that Mr C was not using data at the time of 
+the online transfer.
+What Barclays has said
+Barclays rejected Mr and Mrs Cs claim, stating that there was no evidence of attempt by a 
+third party to compromise, or otherwise impersonate Mr and Mrs C. Barclays said that in 
+order to set up a new payee, details from Mr Cs card wouldve been needed for verification. 
+Mr C had confirmed that his phone and card were in his possession, that no one knew his 
+passcode and that he hadnt written it down anywhere. Therefore, Barclays is holding Mr and 
+Mrs C liable for the transaction. 
+Barclays also said that while a passcode had been used to login to Mr Cs mobile banking to 
+make the disputed transaction, there had been a payment attempted around half an hour 
+earlier to the same payee name using touch ID.
+Barclays acknowledges that it doesnt appear a SMS was sent to Mr and Mrs C following the 
+transaction, but that it doesnt consider this changes the outcome of the claim as it considers 
+Mr and Mrs C liable for making it.
+As Barclays was unable to resolve Mr and Mrs Cs complaint, Mr and Mrs C referred the 
+complaint to our service.
+An investigator considered everything Mr and Mrs C had told us, as well as everything 
+Barclays provided. The investigator didnt uphold the complaint. She didnt think it was 
+plausible that a third party would be able to make the payment, as Mr C hadnt shared his 
+card or banking details with any third parties. She also didnt think the data usage provided 
+by Mr Cs phone provider accurately represented the times he used his data, based on other 
+banking logins that Mr C doesnt dispute. She also said that while Samsung had confirmed 
+the update screenshot provided wasnt genuine, it hadnt confirmed this took place on Mr Cs 
+phone.
+Mr and Mrs C disagreed with the investigators opinion. Mr C said he now recalls he keeps 
+all his banking and card details on his phone notepad which a hacker couldve accessed. Mr 
+and Mrs C also want an explanation as to why they were not contacted by Barclays following 
+the transfer. As Mr and Mrs C didnt agree with the investigators opinion, the complaint has 
+been referred to me for a final decision.
+My further investigation
+I asked Mr C during my investigation of this complaint whether he recalls logging onto his 
+mobile banking via touch ID at 13:36. He said it couldve been him, as he usually uses this 
+more secure method to login and check his balance and acknowledged the only way for a 
+third party to access his mobile banking would be to use his passcode. I explained that a 
+payment was initiated (but not completed) at this time to the same named payee as the 
+payment he disputes. Mr C said he would only make smaller payments to people he knows. 
+He also wanted an explanation for why this earlier payment wasnt successful.
+I also asked if the call made at 13:58 was him. He confirmed it was, and that this was when 
+his phone was still functioning. Mr C also said that as he needed a sat-nav to complete his 
+job, he returned home when his phone stopped working and used his wifes phone or a 
+spare phone to finish working.
+Mr C has said that between 13:00 and 14:24 he was driving and has provided Google Maps 
+journey listings from 10 June 2020 as evidence.My findings
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, Ive come to the same overall conclusion as the investigator that its 
+reasonable for Barclays to hold Mr and Mrs C liable for the transaction. Ill explain why.
+The relevant regulations here are the Payment Service Regulations 2017 which detail the 
+liability for transactions that take place on a consumer's account. Barclays can normally hold 
+Mr and Mrs C liable for transactions on their account that theyve authorised. Mr and Mrs C 
+have said they didnt authorise the transfer in question, so I need to consider whether 
+Barclays acted fairly and reasonably by not refunding it. Im making a finding on whether I 
+think Mr and/or Mrs C more likely than not authorised the transaction themselves.
+Barclays has provided evidence to show that Mr Cs mobile banking was accessed using his 
+banking passcode to make the disputed transaction. Barclays has said that as this was a 
+new payee being set up, details from Mr Cs debit card wouldve also been entered for 
+authentication. But all that shows is that this payment was properly authenticated and that 
+isnt enough on its own for Barclays to hold Mr and Mrs C liable. I also need to consider 
+whether they consented to the transaction.
+As I cant know for certain what happened when this transfer was made, I need to consider 
+the evidence on the balance of probabilities and decide whether its more likely than not that 
+Mr and Mrs C consented to it. From what Ive seen, I think its more likely than not that Mr 
+and Mrs C did consent to the disputed transaction. Therefore, I dont think its unreasonable 
+for Barclays to hold Mr and Mrs C liable for it.
+Mr C has said that he lost access to his phone at around 14:00. When asked whether it was 
+him that logged onto his mobile banking at 13:36 using touch ID, hes said that it might have 
+been. I also think its likely that it was Mr C that logged on at this time based on his mobile 
+banking being accessed using fingerprint technology. I think its highly unlikely a hacker 
+would be able to access his banking app in this way, and if they had, why they wouldnt have 
+made transfers at this time, rather than wait for around another half hour. While no transfer 
+was made at this time, I can see that one was initiated and that a payees name was 
+entered. This name is the same as that entered at 14:08 in the transaction Mr and Mrs C are 
+disputing. As I think it was Mr C that logged on at 13:36, this means he knew the name of 
+the payee at this time for the transaction hes disputing. Thats inconsistent with Mr Cs view 
+that this payment was carried out by a hacker, and not someone known to him. 
+Mr C has asked for an explanation as to why the transaction didnt go through at this time. 
+Unfortunately, this information isnt available from the audit records Barclays holds  
+Barclays has said it could be for a number of reasons, such as a loss of connection, or 
+incorrect account details entered. I dont consider this particularly suspicious - as I can see 
+from Mr Cs banking records that there are other undisputed payments, in some cases to 
+regularly used payees, that have also not gone through. From Barclays audit records, it 
+appears a payment amount was also never entered. I cant know for certain, but its possible 
+the payment was simply abandoned before being completed.
+In addition, a call was made or received from Mr Cs mobile number at 13:58 that Mr C 
+confirms was him when his phone was still fully functioning. This also indicates he had 
+control of his phone up until this point and that any phone use prior to this time was Mr C 
+and not a hacker. Mr C has provided evidence from Samsung confirming, in general terms, that the screenshot 
+he provided them with is not a genuine update. However, Samsung hasnt been able to 
+confirm that this update screen was ever on Mr Cs phone, or provide anything to suggest 
+that his phone was hacked. Mr C has also provided a bill from his phone provider that shows 
+he wasnt using his internet data when the transaction took place  but I dont think this bill 
+accurately reflects all periods of data use. I say this because I can see there are other 
+undisputed mobile banking payments made by Mr C where login times arent reflected in his 
+phone bill. As an example, Mr C made a transfer through mobile banking on 26 May 2020 at 
+14:24 to a family member, but his internet banking only indicates use at 10:47 and 21:20  
+so I dont think this alone indicates that Mr Cs phone was hacked.
+Mr C has also provided me with several Google Maps screenshots, which he says show he 
+was driving at the time of the disputed transaction. The screenshots show times and 
+addresses from 10 June 2020. From reviewing the Google Maps app, I can see the app 
+records locations visited on a given day, but its functions also allow this data to be amended. 
+As a result, Im unable to place as much weight on this evidence and its not enough to 
+persuade me that Mr and Mrs C didnt consent to this transaction.
+The transaction that Mr and Mrs C are disputing was for £2,000. Having reviewed Mr and 
+Mrs Cs statements from the time, I can see that after the disputed transaction took place, Mr 
+and Mrs Cs account was still in credit by over £300.
+This is significant because Id typically expect a fraudster to attempt to get maximum benefit 
+from any single fraud. Mr Cs mobile banking records suggest no further transfers were 
+attempted, despite Mr C stating his phone remained inaccessible for around 24 hours.
+Taking everything into account, I think its more likely than not that Mr and Mrs C authorised 
+the disputed transaction and it follows that Barclays it entitled to hold them liable for it.
+Mr and Mrs C have questioned why Barclays didnt send a SMS to confirm a new payee had 
+been setup. I agree this is unusual  and Barclays hasnt been able to confirm why this 
+happened. But since Ive found (on balance) that they authorised the transfer and therefore 
+were aware of the new payee, this doesnt impact my decision on whether they should be 
+held liable for it.
+My final decision
+For the reasons Ive explained above, I dont uphold this complaint. Under the rules of the 
+Financial Ombudsman Service, Im required to ask Mrs C and Mr C to accept or reject my 
+decision before 8 January 2021.
+ 
+Kirsty Upton
+Ombudsman

@@ -1,0 +1,226 @@
+DRN-4314274
+The complaint
+Mr P, on behalf of Company A, complains that TigerWit Limited unreasonably withheld 
+profits made on the companys trading account.
+What happened
+Mr P requested a withdrawal of profits on Company As account in March 2021. After some 
+delay and ongoing correspondence, TigerWit informed him that it wouldnt facilitate the 
+withdrawal. It said an analysis of Company As trading history had suggested it had been 
+using a latency trading strategy and this gave TigerWit reasonable grounds to rely on its 
+terms and cancel all Company As trades and associated gains. 
+Mr P didnt accept this and categorically denied that Company As trading in any way 
+contravened TigerWits terms. He said thered been numerous occasions where Company 
+As trading had been subject to downside risk and many days where thered been overall 
+losses, which didnt indicate the use of a strategy that gave it an unfair advantage. 
+He added that, in any event, Company As trading style wouldve been apparent from the 
+records of its previous trading, which had been provided to TigerWit as part of its application 
+for elective professional client status. So, it was unreasonable for TigerWit to have allowed it 
+to continue trading only to later refuse to pay out the resulting profits.  
+The complaint was referred to this service, but TigerWit challenged our jurisdiction to 
+investigate it, primarily on the basis that Company A had been trading as an elective 
+professional client and was therefore not eligible to bring a complaint. 
+This issue of jurisdiction was considered by an ombudsman who concluded that Company A 
+was an eligible complainant, but only in respect of matters relevant to its trading account that 
+took place prior to 6 October 2020  the date on which TigerWit revised Company As 
+trading status from retail client to elective professional client. (Company A had originally 
+opened the account as a retail client in July 2020 and traded from late September 2020).      
+With the limits of our jurisdiction decided, an investigator then looked into the merits of the 
+complaint and concluded that, on the basis of TigerWits analysis, it had been reasonable for 
+it to rely upon its terms and withhold the profits from Company A. 
+Mr P didnt accept this, so the matter was referred to me to review.  
+I issued a provisional decision in which I explained why I also didnt think the complaint 
+should be upheld. I said, in part:
+Firstly, I think its important to stress thatmy consideration of the merits of the complaint is 
+limited to acts, or omissions, relating to trading carried out by Company A as a retail client. 
+That is, the period during which it was an eligible complainant. So, as the act complained of 
+is the withholding of profits, I can only look at whether it was fair for TigerWit to do this for 
+trades made up until 6 October 2020. Mr P will be aware that this represents only a small 
+proportion of Companys A overall trading history, and profits achieved. 
+Turning to my consideration of the merits, the question I need to answer is whether Im 
+satisfied, on the balance of probabilities, that it was fair and reasonable for TigerWit to 
+conclude that Company A was using a strategy prohibited under the terms of the agreement 
+between the parties, which allowed Company A to trade in a way which enabled it to gain an 
+unfair advantage.
+And in my view, having considered TigerWits submissions carefully, alongside the trading 
+data it has provided, set against the detailed arguments submitted by Mr P on behalf of 
+Company A, I think it was reasonable for TigerWit to conclude that the evidence showed 
+Company A was adopting a strategy designed to exploit a delay in the price feeds.
+I say this for a number of reasons. 
+As noted, TigerWit has said that upon reviewing Company As trading history it identified 
+patterns that suggested Company A had been using some sort of system to take advantage 
+of pricing latency  the use of an automated method to trade ahead of its price updates, 
+particularly when there was a price movement greater than TigerWits bid/offer spread within 
+a period shorter than its pricing latency. 
+It explained that its prices sit very slightly behind the underlying prices of the relevant futures 
+exchanges  in this case EUREX and CME respectively for the German Dax and Dow 30 
+indices that Company A was trading. TigerWits liquidity provider first obtains a price from 
+the relevant exchange, adjusts for fair value, then sends the price on to TigerWit. This 
+process creates a two-stage delay, albeit of less than a second, compared against the 
+exchange price, which is itself directly accessible to anyone with a futures trading account.    
+This being so, its possible to take advantage of the delay with a system that can compare 
+the exchange's current price with the previous price and, where the difference is greater than 
+TigerWits quoted spread, trade on TigerWits system with the previous price.
+TigerWit explained that with any given trade the next tick/print could be one of three 
+outcomes  the same price, a move against Company A or a move in its favour. It said this 
+should be random and, over time should average to zero. It said its analysis of Company As 
+considerable volume of trading showed that for opening trades in 34% of cases the first 
+tick/print after the trade was wider that its full bid/offer spread in favour of Company A and 
+for closing trades the percentage was 65%, with an average difference of 3.33 bps 
+(compared to the typical spread of 0.57 bps).  
+TigerWits view was that this statistical anomaly could only realistically be a result of the use 
+of a system to take advantage of the systems pricing latency. As such, it felt Company As 
+trading activity contravened its terms and conditions.
+Ive considered this carefully, and agree that, on balance, this detailed analysis suggests 
+strongly that some sort of system was being utilised to take advantage of the pricing latency 
+TigerWit has described. Im not saying it necessarily proves beyond doubt that Company A 
+was acting illegally in some way. But the test isnt whether (or not) Company A has broken 
+any laws. Im considering whether TigerWit acted reasonably in light of the contractual 
+agreement between the parties. And that contract prohibited latency trading, which it defined 
+as trading - 
+ where we believe, at our sole discretion, that the client is using any means, including any 
+electronic device, software, algorithm, trading strategy or arbitrage practice, that aims to 
+manipulate or take advantage, whether considered unfair or otherwise, of the way in which 
+we construct, provide or convey our bid or offer process or to trade to their advantage, 
+whether considered unfair or otherwise, ahead of our price updates. You agree that using any device, software, algorithm, strategy or practice in your dealings with us whereby you 
+are not subject to any downside market risk will be evidence that you are taking unfair 
+advantage of us. 
+As Ive said, I think TigerWits detailed analysis of Company As trading gave it reasonable 
+grounds to conclude that it was acting in such a way. I note what Mr P has said about 
+Company A having clearly been subject to some downside risk, this being demonstrated on 
+specific trades and days where losses or overnight charges were incurred. But I think the 
+key point here is the use of a strategy to take advantage of pricing latency doesnt guarantee 
+a profit on each and every trade. Rather, it gives on ongoing statistical advantage that over 
+time leads to profits being made that wouldnt have been made in the absence of the 
+strategy.
+In a similar way, Mr P has argued that its unfair for TigerWit to withhold profits because not 
+all trades could be said to have been a result of latency trading. But I think this is covered 
+under section 3.15 of the term which says, in part  
+All trades should be made at a price that is fair and based upon the underlying market 
+price of the relevant market. If this is deemed to not be the case (i.e. Manifest Price Error, 
+Latency Trading to name two such examples) then TigerWit may adjust the prices of said 
+trades to reflect the correct underlying market price at the time of the transaction or cancel 
+the relevant trades (and any related trades) in their entirety.
+Latency trading strategy would, by its nature, be applied across all trading to take advantage 
+of price differentials as and when they occurred, to give the overall unfair advantage. I think 
+the fact that term covers relevant trades and any related trades addresses this point. 
+Mr P has also questioned the fact that the review of Company As trading history was only 
+prompted by the act of him requesting the withdrawal and that this came many months after 
+the trading began and at a point when Company was categorised as an elective professional 
+client. So, is it fair that this should form the basis of a justification of withholding profits 
+obtained as a retail client? 
+Mr P has argued that TigerWit was made aware of its trading style through the provision of 
+its trading history with other businesses relating to its professional client application. So, 
+TigerWit shouldve acted at that point and not granted Company A professional status, which 
+wouldve meant that any profits made would then either have been achieved as a retail 
+client, or elsewhere with another business. So, effectively within this services jurisdiction, or 
+not subject to TigerWits withhold. 
+But given that the trading history was provided for a very specific reason  to demonstrate 
+Company As trading volumes in relation to the quantitative test at COBS 3.5.3R for 
+classification as a professional client  I dont think its reasonable to expect TigerWit to have 
+performed any sort of trading style review on the information (and there was no regulatory 
+requirement for it to do so). And in any event, I think its highly unlikely if such a review had 
+taken place that, in isolation, it wouldve revealed anything to prevent the reclassification. 
+I dont think its relevant when the discovery of the trading strategy was made. Once TigerWit 
+had determined through its analysis of Company As trading that it was, in TigerWits view, in 
+contravention of its terms it was entitled to rely upon those terms to cancel any gains and 
+withhold profits. It could have noticed the issue sooner, but I dont think it was unreasonable 
+for the withdrawal request to act as a red flag and prompt an investigation. 
+And this leads me on to two points that, although circumstantial, I think further support the 
+action taken by TigerWit. Up until point of the withdrawal request Company A had been trading with it as a B Book client, whereby TigerWit was the counterparty to Company As 
+trades (so at the close of the trades either Company A won and TigerWit lost, or vice versa). 
+This meant Company A was trading on the price on TigerWits platform. But shortly before 
+the withdrawal request was made, TigerWit had taken the decision, on the basis of Company 
+As trading history and profit level, to move Company A to its A book, so its trades were 
+then sent direct to TigerWits liquidity provider and filled at that price. This change effectively 
+removed the potential for any pricing latency advantage.
+Mr P has said that Company A was unaware of this change, so it cant have been what 
+prompted the request to withdraw its profits. And I accept that Company A werent explicitly 
+informed of the change. But Company A would nevertheless have become aware that the 
+advantage provided by the pricing latency was no longer available.
+And further, when the withdrawal request was originally made, Mr P emailed TigerWit to say:
+As we have been discussing with you, we are in the process of handling an audit report and 
+settling some tax bills due for the late 2020 portion of our trading.
+Please can you process a withdrawal today for 134,000 USD from MT4 account xxxxxxxx. 
+Please let us know when this has been done.
+We will be rebalancing across our numerous brokers. In the next 1-2 weeks. we will be 
+further depositing this account and also our second account once our taxes have been 
+settled.           
+(In respect of this last paragraph, Company A had recently requested a second account be 
+set up with TigerWit on the same terms as the existing account.)   
+Yet, in the response to the investigators view, in addressing the point that the withdrawal 
+request followed the move from B-book to A-book and that, as Company A wasnt aware of 
+this, it couldnt be any evidence of wrongdoing, Mr P gave a different, contradictory 
+explanation of why the withdrawal request had been made, saying, 
+The reason we ceased trading is because overnight our spread and cost of trading became 
+three times more expensive. Our reason for trading at TigerWit was the competitive low cost 
+of trading, something the firm boasts in their marketing. As any rational business, if costs are 
+now three times what they used to be, and there are cheaper alternatives in the market, we 
+will withdraw our funds and move elsewhere.
+TigerWit has confirmed that with the move from B-Book to A-Book there was no increase in 
+cost or change in the spread.
+This lack of consistency, while not in itself proving that Company A had been acting in 
+contravention of TigerWits terms, does to my mind cast doubt over the version of the 
+circumstances and Company As actions that Mr P has provided. 
+Ultimately, as noted, what Im deciding is whether it was fair and reasonable for TigerWit to 
+conclude that Company A was trading in such a way that contravened it terms and having 
+done so, withheld the profits gained as a result of that trading. And I currently think, given the 
+evidence Ive seen and in light of the wider circumstances, that TigerWit did act fairly and 
+reasonably.
+TigerWit accepted my provisional decision, but Mr P on behalf of Company A did not. He 
+provided further comments, in summary:I had demonstrated bias by not balancing Company As evidence against that 
+provided by TigerWit. I had not properly taken it into consideration.
+I had accepted that Company As trades were subject to downside risk, so the trading 
+cannot have met TigerWits definition of latency trading. 
+Company A had provided evidence that the trading had been carried out manually, 
+and it had simply been applying its proprietary manual trading strategy.  
+It could not understand the position on jurisdiction. I had made clear I couldnt 
+consider issues relating to when Company A was being treated as an elective 
+professional client but had then referred to trading carried out during that period to 
+support my findings. 
+I had agreed that the data did not provide evidence of latency trading but because 
+profit was made over time from this strategy it must be latency trading. So, was it the 
+case that any broker could withhold profits because statistically everyone should 
+lose? 
+My comments on the communication between the parties regarding the withdrawal 
+request were not material. In any event, the spread did change, contrary to what had 
+been said at the outset as part of TigerWits sales pitch. 
+Company A had proved all the trades were subject to downside risk. I had agreed 
+with this, so it was unreasonable for Tigerwit to withhold when none of the trades 
+meet the definition of latency trading in its terms. Making profits shouldnt be 
+evidence of wrongdoing and if Company As trading didnt meet the definition of 
+latency trading, it had not breached TigerWits terms.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+But having done so and having also given careful consideration to the additional submission 
+provided by Mr P on behalf of Company A, I find I remain of the view set out in my 
+provisional decision. I still think that given all the evidence Ive seen and in light of the wider 
+circumstances, TigerWit acted fairly and reasonably when it relied upon its terms to withhold 
+the withdrawal from Company A. 
+I note the additional comments Mr P has provided concerning downside risk. But I made 
+clear in my provisional decision that the use of an overarching strategy to take advantage of 
+pricing latency wouldnt necessarily guarantee a profit on each and every trade. Rather, it 
+gives on ongoing statistical advantage that over time leads to profits being made that most 
+likely wouldnt have been made in the absence of the strategy. 
+Therefore, my acceptance that Company As trading was subject to downside risk in no way 
+implied that I therefore necessarily thought that latency trading had not occurred. And, in any 
+event, as I explained in my provisional decision, I was not making a finding on whether (or 
+not) it had occurred. 
+Rather, I was considering whether, in light of the terms of the agreement between the 
+parties, it was reasonable for TigerWit to exercise the discretion afforded by those terms to 
+withhold the requested payment. And I remain of the view that it was reasonable and that 
+exercising that discretion based on a detailed trading analysis that suggested some sort of 
+system was being used to take advantage of pricing latency, TigerWit had not acted 
+capriciously, arbitrarily or irrationally in any way.
+Finally, in respect of the jurisdiction, my intention was to make it clear that, while I would look 
+at all the circumstances and information available to me  which included, among other 
+things, information about Company As trading during the period it was treated as an elective professional client  our rules meant that as of 6 October 2020 Company A had not been an 
+eligible complainant. So, in any event, regardless of my eventual findings, no award could be 
+made in respect of Company As trading during that period.
+My final decision
+For the reason given, my final decision is that I dont uphold the complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Company A to 
+accept or reject my decision before 22 September 2023.
+ 
+James Harris
+Ombudsman

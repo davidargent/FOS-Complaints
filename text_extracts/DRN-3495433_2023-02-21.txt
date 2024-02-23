@@ -1,0 +1,86 @@
+DRN-3495433
+The complaint
+Mr S is complaining that a software bug in his trading account with Interactive Brokers (UK) 
+Ltd (IBUK) led to him missing out on significant profits.
+What happened
+Mr S held a cash account with IBUK. On Friday 5 June 2020 he asked to upgrade this to a 
+margin account. The upgrade was successful and Mr S made an internal transfer from one 
+account into this account on 7 June. His intention was to invest in oil stocks on 8 June 
+because it was clear to him that the prices were going to increase substantially. But when he 
+came to invest, his account showed a buying power of zero  he wasnt able to use either 
+his own cash or the margin that should have also been available to him.
+Mr S complained to IBUK about the loss of investment opportunities which he thought had 
+been caused by a software bug. He said hed have made significant gains on oil stocks and 
+would then have been able to invest these gains into other well-performing companies. 
+IBUKs initial response to Mr S was simply that the account upgrade hadnt been completed 
+by 8 June 2020. Mr S wasnt happy with this, so he brought the matter to our service. At this 
+point, IBUK explained that there had been no software bug - Mr Ss buying power had been 
+reduced to zero because the previous days equity with loan value (PD ELV) on his 
+account was too low for the trades he wanted to make.
+Our investigator looked into the complaint but didnt uphold it. He said IBUK had applied their 
+terms and conditions consistently and fairly  he said Mr S hadnt had enough funds in his 
+account at the relevant point in time. Mr S remained unhappy and asked for an ombudsman 
+to review his complaint  so its come to me. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, and recognising Mr S will be disappointed with my decision, Im not 
+upholding his complaint. Ill explain why.
+This complaint is primarily about timing issues. Mr S wanted to trade on a particular day, and 
+couldnt. By the next day, everything was resolved, but  Mr S says  by this point the 
+opportunity had passed. 
+Id like to start by saying that Mr S asked for the upgrade of his account on a Friday. IBUKs 
+terms and conditions say that the upgrade can take one to three working days  and Mr S 
+was aware of this. So there was no requirement for IBUK to have the account ready by the 
+Monday  and it wouldnt have been reasonable for Mr S to rely on being able to trade in this 
+account on that day.
+However, I can see Mr S thought the account was ready on Monday 8 June  so I appreciate 
+hed have been disappointed when he couldnt use it. Ive looked further into what happened 
+as I dont think IBUKs explanations to Mr S were clear. Having done so, I dont think there 
+was a software bug  and I dont think IBUK acted unfairly. Ive explained further below. 
+Mr S signed the customer agreement for the upgraded account on 7 June 2020  so its 
+understandable that he thought hed be able to use all the features of it the next day. But the 
+upgraded account requires a customer to maintain sufficient margin in their account  that 
+figure being calculated by IBUK. The terms and conditions allow IBUK to reject any order if 
+the account balance isnt enough to meet the margin requirements at the time. In looking at 
+this complaint, Ive considered what the margin requirements were for Mr S to buy units on 
+8 June 2020  and then how IBUK were calculating his available margin.
+Margin requirement
+When Mr S tried to buy units on 8 June 2020, the system said he needed to have available 
+margin of around 22,000 euros. This figure seemed to be largely unchanged by the number 
+of units Mr S wanted to buy. The reason for this is that the upgrade to the account meant he 
+needed to have margin to cover the securities held in the account. Mr S had bought these 
+securities with cash, while his account had been a cash only account. But once they were in 
+a margin account, there was an associated margin requirement. The account became a 
+margin account on Sunday 7 June  so by 8 June 2020 Mr S needed available margin to 
+cover the securities. The 22,000 euros Mr S was told he needed to buy additional units was 
+actually mostly needed to cover his existing positions.
+Existing margin on 8 June 2020
+When looking at a customers available margin, IBUK uses the lesser of the current equity 
+with loan value or the PD ELV. In Mr Ss case, the lower figure was the PD ELV. The 
+PD ELV is calculated at a snapshot in time, taken at 16:15 Eastern Time on the previous 
+day. Ordinarily, this looks at the value of cash and securities. But on 8 June, IBUKs system 
+was calculating Mr Ss available margin based solely on the amount of cash in his account. 
+IBUK have told me thats because it was a cash account up until 7 June, and the PD ELV 
+only updates on working days.
+The only way the PD ELV can be increased after the snapshot has been taken is by 
+depositing cash into the account. Mr S deposited 10,000 euros on 4 June, which was 
+available in the account on 8 June. This immediately increased his available margin from 
+around 4,000 euros to 14,000 euros  but not enough to meet the 22,000 euro margin 
+requirement. 
+Mismatch and impact
+IBUKs system appears to have created a mismatch in Mr Ss account  on 8 June 2020 he 
+needed margin to cover securities in the account but the system didnt count those securities 
+as part of his available margin. 
+Whilst this might initially seem unfair, IBUKs system operated as it should have. And, as I 
+mentioned above, IBUK tell their customers that it takes one to three business days to 
+upgrade an account. By 9 June 2020, Mr Ss available margin reflected his cash and 
+securities and he was able to trade as he wanted. This was two business days after Mr S 
+requested the upgrade. So I cant say IBUK acted unfairly. My final decision
+As Ive explained above, Im not upholding Mr Ss complaint about Interactive Brokers (UK) 
+Ltd. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr S to accept or 
+reject my decision before 21 March 2023.
+ 
+Clare King
+Ombudsman

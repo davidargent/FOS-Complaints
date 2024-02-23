@@ -1,0 +1,137 @@
+DRN-4294431
+The complaint
+Mr S complains that NewDay Ltd failed to refund transactions he didnt recognise.
+What happened
+Mr S had a credit card account operated by NewDay and noticed three transactions he didnt
+recognise. All three were made to companies overseas and were made on the same day.
+Mr S notified NewDay about them and told them he wasnt responsible for the transactions.
+Mr S said hadnt given his card details to anyone else or stored them online. Mr Ss personal
+arrangements meant that other persons had access to his home, but he didnt believe his
+card details had been taken by anyone else. NewDay provided a temporary refund of the
+charges while they looked into the situation.
+NewDay then used the Chargeback system to dispute the payments. This is a system
+operated by the card processor, in this case Mastercard. The system enables the customer
+( Mr S) to ask his credit card company (NewDay) to challenge the transactions.
+The system is subject to strict rules and requires the merchant who took the payment to
+defend it via their card processor. When NewDay disputed the three payments, they
+received evidence indicating that all three transactions were made using Mr Ss card details,
+the evidence also included his email address, home address (using his postcode) and an IP
+address associated with other online activity Mr S had carried out with his NewDay card.
+The IP address relates to a location linked to the internet activity of devices or the network
+used in the transaction. The evidence also included postal tracking data showing that all
+three parcels had been delivered.
+Once NewDay received this evidence they advised Mr S they were declining his claim and
+recovered the temporary refund. Mr S appealed the decision although NewDay later
+recognised that they hadnt dealt with the appeal as quickly as theyd hoped and credited Mr
+S with £20 as an apology for the delay.
+Mr S maintained that the websites were fraudulent and the merchants couldnt be contacted.
+Mr S believed that only one tracking number had been provided and there were three
+separate orders. He also told NewDay there was no record of the parcels being delivered to
+his address and he would be able to provide evidence to show this.
+NewDay considered the appeal but didnt change their position and informed Mr S. He then
+explained to NewDay that he would like to make an application under s.75 of the Consumer
+Credit Act 1974. Essentially this is enables (in certain circumstances) someone who
+purchases goods via credit to hold the credit provider (NewDay) responsible for issues with
+the merchant who supplied the goods/services.
+NewDay declined the request because Mr S had already stated he hadnt authorised the
+transactions which meant that S.75 wasnt applicable.
+Mr S remained unsatisfied with how NewDay had handled his situation and brought his
+complaint to the Financial Ombudsman Service where it was looked into by one of our
+investigators.
+Evidence was provided by both parties. Mr S explained that he only used his credit card to
+make purchases from one particular merchant and provided a history of his recent
+purchases from them. Mr S raised issues surrounding the lack of detail available from the
+merchants who took the payments including return addresses/emails that he believed made
+it impossible for him to exercise his ability to return the items/obtain a refund.
+NewDay provided evidence concerning the Chargeback details theyd received, and details
+of IP address data linked to other non-disputed uses of Mr Ss credit card account. This IP
+data matched with the Chargeback information.
+After considering the evidence, the investigator thought it unlikely that Mr S was responsible
+for the transactions and suggested that they may have been made by others present at Mr
+Ss address.
+NewDay disagreed and asked for a further review of the complaint which has now been
+passed to me for a decision. NewDay added that:
+It was unlikely that a third party or a fraudster would use Mr Ss genuine email
+address as this would alert him to the payments.
+If Mr S believed the transactions were made by others at his home, he would need to
+provide supporting evidence of this by reporting it to the authorities.
+Notes of discussions with Mr S confirm that no one else had access to his card
+details.
+Mr S said he would have been awake at the time of the transactions but later said
+this wasnt the case.
+I issued my provisional findings on the merits of Mr Ss complaint on 2 June 2023. In my 
+provisional findings, I explained why I intended to not to uphold Mr Ss complaint and offered 
+both sides the opportunity to submit further evidence or arguments in response. An extract of 
+that decision is set out below and forms part of this final decision:
+What Ive provisionally decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and
+reasonable in the circumstances of this complaint.
+The relevant law surrounding authorisations are the Payment Service Regulations 2017 and
+the Consumer Credit Act 1974. The basic position is that NewDay can hold Mr S liable for
+the disputed payments if the evidence suggests that its more likely than not that he made
+them or authorised them.
+NewDay can only refuse to refund unauthorised payments if it can prove Mr S authorised the
+transactions, but NewDay cannot say that the use of the card details for online purchases
+conclusively proves that the payments were authorised.
+Unless NewDay can show that consent has been given, it has no authority to make the
+payment or to debit Mr Ss account and any such transaction must be regarded as
+unauthorised. To start with, NewDay have explained how the payments were authenticatedwith the payment tools issued to Mr S. Ill now need to consider the information provided by
+both parties to determine whether theres sufficient evidence to hold Mr S responsible for the
+disputed transactions or not.
+NewDay chose to dispute the transactions on Mr Ss behalf using the Chargeback system.
+This is something Id expect NewDay to do once Mr S made his report to them about the
+unrecognised transactions. The response from the merchants provided details about the
+transactions and together with the details provided by NewDay, a picture has formed about
+what happened at the time these transactions were made.
+The details provided through the Chargeback response show that all three packages were
+recorded as delivered, giving a date and time. One of those packages appears to have taken
+two attempts to be successfully delivered.
+The Chargeback information includes Mr Ss email address, his card number and the three-
+digit security number (CVV) from the back of the card (which isnt usually stored
+electronically). The correct postcode was also entered for Mr Ss home address. Additionally,
+the information included an IP address which matched other non-disputed transactions.
+What that means here is that the disputed transactions were likely to have been made from
+the same device and location as other transactions using the same credit card.
+Mr S has said that his card details arent known to anyone else, but also that there are other
+persons visiting his address to assist him. If no one else had access to the card, then it
+seems implausible that these transactions could have been made successfully and
+considering they were made from a common IP address, the objective conclusion I would
+have to come to is that Mr S was responsible.
+I considered the points raised by the investigator and whilst these transactions could have
+been made by others who attended Mr Ss home, theres currently no evidence to support
+that, particularly given the lack of access to the relevant personal details needed to complete
+the transactions (card details including the security (CVV) number and personal email
+address). I dont think the reference to the merchant Mr S usually uses for this card is
+relevant as these transactions dont appear to have used that particular marketplace, so
+wouldnt be expected to be recorded in the purchase history.
+Regarding Mr Ss request for S.75 and references to the Consumer Credit Act  I dont think
+currently that these are relevant as its Mr Ss case that he didnt authorise the transactions.
+The various references hes made to Consumer Credit law relate to authorised transactions
+and issues related to their supply  which cant be relevant if Mr S denied making them. So, I
+havent gone on to further consider these points.
+I recognise that there are some unusual aspects to this complaint, as all three payments
+related to a product described as a Mystery Box, so its unclear what was being purchased.
+Also, that the complete address wasnt present in the delivery evidence, only the full
+postcode.
+I have to make my decision based on the available evidence and where thats missing, on
+the balance of probabilities. Currently, I think the balance of evidence doesnt point to an
+unauthorised third party making these transactions  but I understand Mr S had told NewDay
+he could obtain further evidence to support his case. I havent seen that evidence, but will
+consider anything further Mr S may wish to provide.
+I invited Mr S and NewDay to give me any more evidence and information they wanted me 
+to consider before issuing my final decision. NewDay didnt have anything further to add and 
+Mr S didnt respond.What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, and as neither party had anything further to add, I see no reason to reach a
+different conclusion. So, this final decision confirms the findings set out in my provisional
+decision.
+Overall, the evidence shows that Mr S was more likely than not responsible for making these 
+transactions and it was reasonable for NewDay to hold him liable for them.
+My final decision
+My final decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr S to accept or 
+reject my decision before 8 September 2023.
+ 
+David Perry
+Ombudsman

@@ -1,0 +1,81 @@
+DRN-3728629
+The complaint
+Mr P complained because HSBC UK Bank plc refused to refund him for transactions he said 
+he didnt make.
+What happened
+Mr P said that on 5 July 2022, between 11 pm and 11.30 pm, he checked his internet 
+banking. He saw that £1,000 had been transferred from his savings account to his current 
+account. There had then been faster payments out of his current account, using mobile 
+banking, for £1,000 and £800. There was also a pending payment to a retailer for £2,347. 
+Mr P rang HSBC and said he hadnt authorised these transactions. He said he hadnt had 
+any suspect calls, texts or emails, and he hadnt shared any personal information about his 
+account or internet banking logins. Mr P said he still had his phone.  
+HSBC suspended online banking on Mr Ps account and investigated. Mr P also went to a 
+branch the next day, 6 July. He went again on 12 July because he hadnt heard back. The 
+branch confirmed that the £2,347 pending transaction hadnt gone through, but the other two 
+payments totalling £1,800 had debited Mr Ps account. The branch rang HSBCs fraud team 
+for him. The line was very poor and Mr P was on the phone there for 45 minutes before he 
+had to go back to his car to get another car parking ticket. The branch told Mr P it would 
+credit his account with £25 for the inconvenience caused by the poor quality line and the wait 
+while trying to speak to the fraud team.
+When HSBCs fraud team investigated, it didnt agree that the transactions had been carried 
+out by a third party fraudster, and it refused to refund him. 
+Mr P wasnt satisfied and complained to this service. He told the investigator that he hadnt 
+written down his online banking details; didnt download any software to his phone; hadnt 
+received any suspicious messages or calls; and his phone was locked using a pattern. 
+The investigator didnt uphold Mr Ps complaint. He said that the disputed activity was 
+carried out after logins to Mr Ps mobile banking which had been verified using biometrics. 
+And the device ID, and login method, were the same for genuine and for disputed 
+transactions.  Whoever made the payments had logged into Mr Ps mobile banking using his 
+phone, and had entered his six digit Digital Secure Key password, in order to authenticate 
+the payments. The investigator said hed seen no plausible explanation for how any third 
+party had Mr Ps phone and knew these details in order to make the payments.
+Mr P didnt accept this. He said that when hed first complained to HSBC, it had said his 
+phone had been hacked. Mr P said that if that had happened, the fraudster could have done 
+all the things the investigator had referred to. Mr P also said hed never had a fraud alert text 
+from HSBC asking him to authorise these large payments. He said that since he started 
+using online banking, hed been using his PIN to log in, not biometrics, so he didnt know 
+where HSBC had got it from.
+Mr P asked for an ombudsmans decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+There are regulations governing disputed transactions. For transactions in July 2022, these 
+are the Payment Services Regulations 2017. These say that the payment service provider 
+(here, HSBC) must show the transactions were authenticated. Thats the technical part, and 
+here, Ive seen the evidence that the disputed payments were authenticated. 
+The regulations also say that its necessary to look at whether the card holder authorised the 
+payments. In general terms, the bank is liable if the customer didnt authorise the payments, 
+and the customer is liable if he did authorise them. So Ive gone on to consider whether its 
+more likely than not that the payments were authorised by Mr P or by an unauthorised third 
+party.
+The disputed transactions were carried out on Mr Ps mobile banking. So Ive looked at the 
+computer evidence, which is key here. This shows records for logins using the phone device 
+registered to Mr Ps account. And this shows that although there were some logins using a 
+PIN, there were multiple logins using biometrics. Mr P didnt report that his phone had been 
+lost or stolen. And even if he had, a fraudster wouldnt have been able to login using Mr Ps 
+biometric data  in other words something like his face or fingerprint. Nor could biometric 
+data have been set up by a third party fraudster if theyd obtained Mr Ps phone. Thats 
+because biometric data can only be used in this way if its already been set up on the 
+registered phone by the account holder. And setting up biometric data requires multiple 
+levels of security before it can be activated.
+After Mr Ps account had been logged into, the new payee was set up in order to make the 
+payments, and this procedure required the correct six digit password.
+Mr P has argued that he should have received a text from HSBC before the payments went 
+through. But texts arent compulsory under the Payment Services Regulations. What 
+matters, as Ive set out above, is the authentication, and the authorisation. Mr Ps phone 
+hadnt been lost or stolen. And even if it had, the login was done through Mr Ps biometric 
+data, and the person carrying out the transactions also knew Mr Ps six digit PIN.
+Mr P has also asked about the £2,347 pending transaction to a retailer, which never went 
+through. But that never debited his account, so there was no financial loss to Mr P. And Im 
+not persuaded that anything about that transaction would change the outcome about the two 
+disputed transactions for £1,000 and £800.
+Taking all the factors into account, I consider its more likely than not that Mr P authorised 
+the two disputed transactions himself. So I dont require HSBC to refund him.
+My final decision
+My final decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr P to accept or 
+reject my decision before 21 November 2022.
+ 
+Belinda Knight
+Ombudsman

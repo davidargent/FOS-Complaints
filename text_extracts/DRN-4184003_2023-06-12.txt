@@ -1,0 +1,208 @@
+DRN-4184003
+The complaint
+Miss D complains that Barclays Bank UK PLC (Barclays) wont reimburse money she lost 
+to two investment scams.
+Miss D is being represented by solicitors in her complaint.
+What happened
+Miss D was looking online for investment trading opportunities. In April 2021, she made six 
+payments totalling £16,582.14 using her Barclays debit card in connection with two 
+investment opportunities. Miss D says both investments turned out to be a scam. 
+Investment 1
+Miss D checked out Trustpilot reviews for a broker C and filled out an online enquiry form 
+after seeing lots of positive reviews. She received a call from a representative who claimed 
+that C worked with Barclays. Miss D started with a small initial deposit and continued to 
+invest under her account managers instructions after seeing the profits her trades had 
+made. These subsequent deposits first went to cryptocurrency exchanges, where the funds 
+were converted into cryptocurrency before Miss D forwarded them on to her trading account 
+with C. She states her deposits were also topped up by C and she was able to make a 
+withdrawal of £253.34. 
+Miss D realised shed been scammed when she tried making a subsequent withdrawal for a 
+much larger amount but was told she needed to set up a temporary bank account for her 
+profits to be paid, and that shed need to pay 10% of her profits.
+Investment 2
+Around the same time, Miss D engaged with another broker F who she says she came 
+across via posts on a social media platform. Miss D says she did this in case anything went 
+wrong with her dealings with C. She started with a small initial deposit and says she was 
+enticed into making a further deposit after seeing the profits shed already made and being 
+told shed receive a higher return. Just like with the other investment, the money was first 
+sent to a legitimate cryptocurrency exchange, where it was converted into cryptocurrency 
+which Miss D then forwarded on to her trading account with F. 
+When the returns promised didnt end up in her trading account, and her account manager 
+started pressuring her into depositing more funds, Miss D realised shed fallen victim to 
+another scam. 
+The following transactions are relevant to this complaint 
+Date Debit/
+CreditType Amount Notes
+9 April Debit Card payment to Onlinepayment £223.26 Investment 1
+12 April Debit Card payment to Moonpay £368.50 Investment 2
+13 April Debit Card payment to Moonpay £2,092.19 Investment 2
+14 April Debit Card payment to Buy Digital Asset £4,335.00 Investment 1
+14 April Debit Card payment to Binance £4,335.00 Investment 1
+14 April Debit Card payment to Moonpay £5,228.19 Investment 2
+16 April Credit Withdrawal from Investment 1 £253.34
+13 May Credit Temporary chargeback credit £368.50
+13 May Credit Temporary chargeback credit £2,092.19
+13 May Credit Temporary chargeback credit £4,335.00
+13 May Credit Temporary chargeback credit £5,228.19
+3 June Credit Temporary chargeback credit £223.26
+21 July Debit Chargeback reversal £380.50 £12.04 extra
+21 July Debit Chargeback reversal £2,610.56 £68.37 extra
+21 July Debit Chargeback reversal £5,399.01 £170.82 extra
+On being notified of the matter, Barclays attempted a chargeback. Some of the payments 
+were successfully defended by the cryptocurrency exchange and the credits Barclays had 
+temporarily applied were reversed (albeit higher amounts). 
+Barclays refused to refund any of the disputed transactions and Miss D referred her 
+complaint to our service. Our investigator didnt uphold it either. Miss D disagreed and asked 
+for an ombudsmans decision.
+I issued my provisional decision last month and explained why I intended reaching a different 
+outcome to the investigator. 
+I invited both parties to provide further comments for my consideration. Both Barclays and 
+Miss D accepted my provisional findings. What follows below is my provisional decision 
+made final.
+ 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Id like to reassure the parties that although Ive only summarised the background to this 
+complaint, Ive read and considered everything in its entirety. Having done so, I agree with 
+the conclusions reached by the investigator. Ill explain why.
+The first question I need to consider in any case involving an investment scam is to 
+determine, so far as is reasonably possible, whether the complainant was in fact scammed, 
+rather than simply losing money to a high-risk investment. This is important because 
+payment service providers only have a duty to protect customers from the risk of financial 
+loss due to fraud. This duty to intervene isnt triggered where payments are made to a 
+legitimate investment. 
+In this case, very little is known about C and F. Apart from Miss Ds testimony, which Ive 
+carefully considered, we havent been provided with any documentary evidence (such as 
+emails, screenshots, etc.) of her dealings with either firm. Ive done my own research and 
+neither firm appears to have an active website or an online presence. Also, there arent any 
+warnings published on the Financial Conduct Authority (FCA) website, or on the Investor 
+Alerts Portal of the International Organization of Securities Commissions (IOSCO). But the limited information Ive been able to find online is negative  there are reports in the 
+public domain, ranging from C and F being unregulated to operating a scam. This hearsay is 
+not in itself sufficient evidence of fraud. But, considered in conjunction with what Miss D has 
+said, it may fairly and reasonably be regarded as circumstantial evidence that helps build an 
+overall picture of scammers dishonestly seeking gains at the expense of others. 
+Having carefully considered the available information, it is my judgement that C and F 
+werent legitimate traders. They were likely operating illegally with dishonest intentions.
+Recovery
+While I think that C and F were likely operating a scam, the chargeback scheme rules dont 
+automatically entitle Miss D to a refund based on these circumstances. The chargeback 
+scheme is a voluntary scheme set up to resolve card payment disputes between a merchant 
+and a card issuer (on behalf of the cardholder). The card scheme operator  Visa in this 
+case  ultimately arbitrates on a dispute if it cant be resolved between the merchant and the 
+card issuer. Such arbitration is subject to the rules of the scheme, meaning there are only 
+limited grounds and limited forms of evidence that will be accepted for a chargeback to be 
+considered valid, and potentially succeed.
+Miss D says her dealings were with C and F. But she didnt make the debit card payments to 
+those firms; they went to different cryptocurrency exchanges. This is important because 
+Barclays was only able to chargeback against the merchant she paid i.e., the cryptocurrency 
+exchange, not another party. The service provided by the exchange would be to convert 
+Miss Ds payments into cryptocurrency. Therefore, the merchant she made the payments to 
+did provide the service that was requested; that being the purchase of the cryptocurrency. 
+The fact that the cryptocurrency was later transferred elsewhere  to the scammer  doesnt 
+give rise to a valid chargeback claim against the merchants she paid. 
+That means that it wouldnt have been unreasonable if Barclays hadnt attempted 
+chargebacks on any of the disputed transactions; there was little prospect of success. That 
+said, I can see that Barclays did attempt to chargeback all the transactions except for the 
+one to Buy Digital Asset (£4,335). It doesnt appear that it heard back from Onlinepayment 
+(£223.26) or Binance (£4,335), so the temporary credits for those transactions have 
+remained on Miss Ds account. Moonpay defended the chargeback for its transactions 
+(£368.50, £2,092.19, and £5,228.19) on the basis that the service was provided, and so the 
+temporary credits were reversed. But the amounts that Barclays debited were higher than 
+the original transaction amounts (see above table). 
+In recent correspondence, Barclays has said that this is a known Claim Issue. Ive looked 
+through the available account statements and unless Ive missed something, I cant see that 
+Barclays has refunded the additional amount that was taken from Miss Ds account at the 
+time of reversing the temporary credit. I would expect Barclays to ensure that it doesnt debit 
+an amount greater than the credit it temporarily applied while awaiting the outcome of the 
+chargeback. Otherwise, Miss D has suffered further financial loss. 
+If Barclays can evidence that its refunded this additional £251.23 it took from Miss Ds 
+account, then it doesnt need to do anything further in relation to the chargebacks. 
+Otherwise, I would expect it to refund that amount along with simple interest at 8% per year, 
+payable from when it reversed the credits to the date of settlement.
+Duty of CareNotwithstanding the recovery efforts, Ive considered whether Barclays could have done 
+more to prevent Miss D from falling victim to the scams in the first instance, i.e., when she 
+authorised the transactions.
+The transactions in dispute were authorised by Miss D using her legitimate security 
+credentials. So, under the relevant regulations, shes considered liable for the loss (even if 
+she was duped) unless theres evidence that Barclays could and should reasonably have 
+done more to protect her against the risk of fraud and scams and that this would have made 
+a difference to her decision-making. 
+Ive considered that the disputed payments were sent to legitimate crypto platforms. I accept 
+that buying cryptocurrency is a legitimate exercise. But both the Financial Conduct Authority 
+(FCA) and Action Fraud had warned of crypto exchange and forex trading scams in 2018. 
+And in May 2019, Action Fraud published further warnings that such scams had tripled in the 
+past year. This type of insight is something that regulated businesses, including Barclays, 
+ought to take notice of. 
+So, even though Miss D was transferring funds to a crypto account in her name, Barclays 
+ought to have been on the lookout for unusual and out of character transactions. While the 
+transfers were made to her own wallet, scams involving transfers to crypto accounts were 
+well known to banks by this time and I therefore think that where payments were also out of 
+character, potential losses were foreseeable to the originating bank.
+Ive considered Miss Ds account activity in the year leading up to the disputed transactions 
+to establish whether the transactions ought to have appeared so unusual or uncharacteristic 
+that Barclays should have paused them pending further enquiries. Having done so, Im not 
+persuaded that the individual disputed amounts when considered in isolation were that 
+unusual or suspicious such that I think Barclays ought to have intervened. 
+But Miss D made three large-value transactions on 14 April - all to cryptocurrency 
+exchanges. While previous account activity does show individual large-value transactions  
+up to £10,000  given the increased frequency of transactions on 14 April, I think Barclays 
+ought to have been concerned that there was a possibility that something wasnt right. 
+Specifically, the third transaction that day  £5,228.19  ought to have triggered the banks 
+fraud detection systems. I consider that it would have been reasonable for Barclays to have 
+properly questioned Miss D before executing her authorised instruction.
+Even if she had been sending money to a legitimate crypto platform, it didnt follow that 
+Miss Ds money was safe, or that she wasnt at risk of financial harm due to fraud or a scam. 
+In April 2021, I think Barclays had or ought to have had a good enough understanding of 
+how these scams worked to have been able to identify the risk of harm from fraud. Including, 
+that the customer often first purchases cryptocurrency and moves it on to the fraudster under 
+the assumption that theyre moving it into their own wallet or account.
+Had Barclays done more and warned Miss D about cryptocurrency scams, Ive no reason to 
+doubt that she would have explained the true purpose of her payment and how she came to 
+know about the investment opportunity. I cant see that Miss D had been given a reason to 
+think she had to hide this information from her bank. Neither had she been coached to tell 
+them something different. 
+Im satisfied that Miss D would have looked further into the investment opportunity in 
+general, including whether F  this payment was in relation to the second scam  was 
+regulated here in the UK or abroad. She could have discovered that it wasnt. Indeed, its 
+likely that Miss D would have come across the various warnings about cryptocurrency scams 
+following an intervention from Barclays.Im persuaded that Miss D would have paid attention to warnings from her trusted bank, and 
+that a meaningful intervention would likely have exposed the scam. It follows that I also think 
+its more likely than not that the intervention would have caused her to stop from going 
+ahead with that third payment on 14 April, thereby limiting her financial loss. Therefore, 
+although I dont think Barclays could have prevented the earlier transactions from going 
+ahead, I find that it is liable for the loss Miss Ds suffered as a result of the last disputed 
+transaction.
+Ive also carefully thought about whether Miss D is partly to blame for what happened. She 
+doesnt appear to have carried out sufficient independent research into F to reassure herself 
+that the opportunity as presented to her was genuine. 
+Whats more, I can see that in the months leading up to the payments, Miss D had made 
+more than a dozen transactions to cryptocurrency exchanges. And payments were also 
+made to multiple investment trading firms. I cant see that Miss D has raised any concerns 
+about those payments at any point. As such, its reasonable to assume that she had some 
+awareness of the workings of cryptocurrency exchanges and trading in general. 
+Having given this a lot of thought, I do think that Miss D ought to bear shared responsibility 
+for her losses and that compensation  refund of the last payment  should be reduced by 
+50%. 
+Putting things right
+To put matters right, Barclays Bank UK PLC needs to 
+If it hasnt already done so, refund the additional £251.23 it took from Miss Ds 
+account when reversing the temporary credits which it applied while awaiting the 
+chargeback outcome. If the refund is still outstanding, then it needs to add simple 
+interest at 8% per year, payable from when it reversed the credits to the date of 
+settlement.
+Refund the last debit card payment made on 14 April 2021 (see table above) which 
+was made in relation to the second scam, making a 50% deduction for contributory 
+negligence. I make no interest award in this instance as from what Ive seen so far, 
+Miss D was interested in cryptocurrency investment and so its reasonable to assume 
+she would have traded on a genuine platform but for the scam. Given the volatility 
+with these types of investments, theres no guarantee that Miss D would have made 
+a return.   
+My final decision
+For the reasons given, my final decision is that I uphold this complaint. I require Barclays 
+Bank UK PLC to put things right for Miss D as Ive set out above.
+Under the rules of the Financial Ombudsman Service, Im required to ask Miss D to accept 
+or reject my decision before 10 July 2023.
+ 
+Gagandeep Singh
+Ombudsman

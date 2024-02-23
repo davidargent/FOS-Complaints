@@ -1,0 +1,192 @@
+DRN-3914112
+The complaint
+A company, which Ill refer to as R, complains that WorldPay Limited has unfairly charged it 
+£59,646 of transaction authorisation fees. 
+R is represented by one of its directors, who Ill refer to as Mr M.
+What happened
+R accepts card payments via its website, using WorldPay as its merchant acquirer.
+On 19 August 2021, WorldPay emailed R to inform it of suspicious activity on its website. 
+The company suspended its website and started investigating what had happened. It later 
+discovered that its August invoice from WorldPay contained an unexpected £59,646 of 
+transaction fees. 
+R complained to WorldPay, which said that the charges were correct, as they related to 
+some 238,000 small £0.001 card transaction attempts, which took place over 12 August 
+2021 and the following days. WorldPay said these transactions fitted the pattern of an 
+activity known as card testing. 
+WorldPay declined to refund the 25p per transaction fee, as they said theyd done nothing 
+wrong and had themselves incurred a cost. They suggested R implement security measures 
+on its website. In the meantime, as Rs account was subject to net settlement, WorldPay 
+stopped settling any further transactions until the outstanding fees were cleared. 
+R referred its complaint to our service and one of our investigators concluded that it wouldnt 
+be fair to expect WorldPay to waive the charges, as it wasnt responsible for protecting R 
+against this type of activity. 
+R disagreed with our investigator and asked for an ombudsman to look at things again. 
+My provisional decision
+I issued a provisional decision on 11 January 2023, because I had reached a different 
+conclusion from our investigator. I provisionally concluded that WorldPay should recalculate 
+its fee at 4.5p per transaction rather than 25p for the fees resulting from the card testing 
+activity. In my provisional decision, I said:
+I think both sides agree that its likely R has been the victim of a fraudulent practice 
+known as high volume card testing. This is where fraudsters attempt a large number 
+of low value payments with an online merchant to check if stolen card details are 
+still valid or to search for valid card numbers. Automated bots or scripts are often 
+used to carry out a large amount of card testing transactions in a very short period 
+of time. 
+Its also not in dispute that the terms of the contract between R and WorldPay 
+permit WorldPay to charge a fee per authorisation attempt, whether successful or 
+not. There is no exception for card testing. I can also see that R was given due 
+notice of the introduction of the 25p transaction fee and didnt object. 
+There does seem to be a disagreement between the parties about who is in control 
+of the front end platform that Rs clients use to input their card details on Rs 
+website. R told us that it was using WorldPays hosted payment gateway. 
+WorldPay says that this isnt correct and the service they provide is just a set of 
+application programming interface (API) keys that plug in to their customers 
+platform to communicate the transaction details to WorldPay for authorisation. I can 
+see from Rs application form that it applied for the API keys, so I dont think 
+WorldPay is in control of the payment gateway in this case.
+If WorldPay were in control of the gateway, I think it would have given WorldPay 
+greater and earlier visibility of the fraudulent transactions. It would also have meant 
+they had some oversight over any protections in place to prevent fraud. In the 
+absence of this, I agree with WorldPay that it wouldnt be fair to hold WorldPay 
+responsible for the vulnerability of Rs website. 
+I dont agree with R that WorldPay was under an obligation to alert them rapidly to 
+any suspicious activity. I say this notwithstanding what any other merchant 
+acquiring firms might do. I would expect such an obligation to be documented in the 
+contract and I havent seen that it was in this case. Rather, the contract says (in the 
+Merchant Services Agreement) that the merchant (in this case R) is solely 
+responsible for establishing and applying adequate security systems and 
+procedures - and the merchant is responsible for all losses resulting from any 
+unauthorised activity. I think this makes it clear that WorldPay cannot be held 
+responsible for attacks on the security of Rs payment arrangements. 
+Having said all that, the decision for me is whether its fair and reasonable for 
+WorldPay to exercise their rights under the contract (to charge a 25p transaction 
+fee) in the very specific circumstances that apply in this case. 
+My starting point here is that I wouldnt consider it fair for WorldPay to profit from 
+this fraud. The fraudulent activity was not foreseen by either party, and I do not 
+believe it would be fair for Worldpay to be enriched by it. But I do accept that 
+WorldPay incur a cost in processing transactions, even rejected ones, and I would 
+consider it reasonable for them to cover their costs. 
+Our investigator asked WorldPay to explain why their transaction fee in this case 
+was substantially higher than in other cases weve seen. WorldPay said that there 
+were a number of variables in their pricing arrangements and there was 
+considerable variation in how accounts functioned. In particular, WorldPay said that 
+the vast majority of accounts were subject to daily settlement and invoiced monthly 
+for commissions and fees. By contrast, Rs account is one of a far smaller number 
+that are batch-settled, with all fees subtracted from future settlements. 
+WorldPay also said that their pricing was a matter for their commercial judgement 
+and hence not relevant to my considerations. I accept that there are a lot of different and overlapping variables in pricing 
+merchant services contracts. But, having reviewed the evidence provided by 
+WorldPay, I consider it unlikely that the marginal cost per transaction to WorldPay in 
+this case is anywhere near 25p. WorldPay have currently not provided any estimate 
+of how much it cost them in Rs case. Im conscious that the card testing activity in 
+this case has generated exceptionally high volumes of transactions that are clearly 
+very different from what WorldPay expected when they set the transaction fee. 
+My current view is that the 25p fee is likely to reflect a low volume, low-profit 
+account to WorldPay. I agree that this would generally be a matter for WorldPays 
+commercial judgement and may be perfectly fair for R in normal trading 
+circumstances. But what has happened here is clearly not normal. 
+I will of course consider any evidence WorldPay choose to provide about how they 
+set the level of the fee and their own costs, but my current view is that the 
+incremental cost per transaction to WorldPay is substantially lower than 25p. 
+Therefore, my provisional conclusion is that, whilst WorldPay are entitled to cover 
+their costs, it appears that they profited from the card testing activity on Rs account, 
+which is not fair. I am therefore minded to direct them to reduce their invoice to an 
+amount that only covers their costs. 
+I am aware that in several other cases, WorldPays transaction fee is set at 4.5p per 
+transaction. WorldPay says that these are higher volume, daily-settled accounts, 
+which should not be directly compared. But I dont currently have any other data on 
+which to base my assessment. 
+My provisional conclusion is therefore that, in the absence of evidence to indicate 
+otherwise, WorldPay should recalculate their fee for R at 4.5p per transaction for 
+the transactions resulting from the August 2021 card testing activity. If this results in 
+a refund to R, then WorldPay must arrange to make this refund, and add interest to 
+it at 8% from the date the fees were paid by R to the date of settlement. This 
+interest is compensation to R for being deprived of the funds for this period. 
+I fully appreciate the gravity of whats happened to Mr M. It threatens his livelihood 
+and has had an impact on his mental health. I understand that this has left him 
+feeling exposed and vulnerable and must seem deeply unfair, as crime so often 
+does. 
+However, the complainant here is R, which is a limited company. Limited 
+companies cannot be distressed and I dont have the power to award compensation 
+for distress suffered by a director. I do have the power to award compensation for 
+inconvenience to a limited company, but I am not currently minded to do so in this 
+case.
+Mr M accepted my decision, which he thought was fair and well balanced. WorldPay initially 
+disagreed and made a number of further points for me to consider. However, they have 
+since written to me to say that, whilst they still disagree with my assessment, they now 
+accept my proposed outcome. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.Having done so, I havent been persuaded to change my provisional decision. Ill explain 
+why that is the case below. 
+First, I would like to make it clear that I agree with WorldPay that decisions concerning their 
+pricing structure are solely a matter for them. My comments here should not be taken to 
+refer to WorldPays general pricing strategy, nor should they be taken to mean that I think 
+WorldPay did anything wrong in the way it set the pricing for Rs contract. My conclusion is 
+simply that, in these very specific circumstances, where a high volume card testing attack 
+out of the blue has coincided with a contract that loads much of the cost onto a high 
+transaction fee, it wouldnt be fair or reasonable for WorldPay to charge R the full amount of 
+the fee. 
+It may well be true that in normal circumstances, where no fraud has occurred, WorldPay 
+would not make a great deal of profit on Rs authorisation fee, bearing in mind that this fee 
+may also cover other costs beyond simply authorisation. But WorldPay was happy to do 
+business with R before the events of this complaint, so I think it is reasonable to conclude 
+that they were making a profit they were satisfied with before the arrival of an unexpected 
+card testing windfall. 
+As I set out in my provisional decision, I dont consider what has happened here can be 
+considered normal activity between R and WorldPay. Rs contract was set up anticipating 
+low transaction volumes and the transaction fee agreed by R and WorldPay reflected that. 
+Although the wording of the contract did envisage the possibility of some form of security 
+breach, I dont believe the nature of this actual fraudulent event and the impact it would have 
+on this pricing structure was foreseen. 
+WorldPay has said that the pricing structure in this individual case loads most of the costs 
+onto the authorisation fee. I think this meant that the card testing attack resulted in a 
+disproportionately high charge to R. I do not think it likely that this exceptional fee was built 
+into any of WorldPays calculations when they set their pricing structure for this product. If 
+paid, in my view, it would therefore result in WorldPay being unfairly enriched by the 
+fraudulent activity suffered by R.  
+It seems to me that this is a case of exceptional circumstances, which it is therefore fair and 
+reasonable for WorldPay to reflect and reduce the transaction fee charged. Im mindful here 
+that as a regulated firm carrying on a regulated activity, WorldPay must comply with the 
+Principles for firms set out by the Financial Conduct Authority. Principle 6 is A firm must pay 
+due regard to the interest of its customers and treat them fairly. Im not persuaded that 
+WorldPay would be treating their customer fairly, if they didnt reconsider the charges in the 
+light of this exceptional event. 
+In deciding what would be a fair and reasonable outcome in this case, I need to be mindful 
+that the fraudulent card testing wasnt WorldPays fault, so it would be unfair for WorldPay to 
+be out of pocket as a result. In other words, I dont think they should profit from these 
+unfortunate circumstances, but neither do I think they should lose out. 
+WorldPay have argued that it isnt possible for them to provide evidence of their costs, 
+because they arent charged by the card providers in a way that separates their customers. I 
+accept this is a difficulty. However, where I determine a complaint in favour of the 
+complainant, section 229 of the Financial Services and Markets Act allows me to make an 
+award against the respondent of such amount as I consider fair compensation for loss or 
+damage. For completeness, section 229 also allows me to include a direction that the 
+respondent take such steps in relation to the complainant as I consider just and appropriate. I dont dispute that my proposal here was to apply a transaction price from a different 
+product, involving different cost considerations and a different customer base. I took the view 
+that it was better to apply pricing that I know WorldPay uses elsewhere than to come up with 
+something entirely new. On balance, and in the absence of any other evidence or 
+submissions from WorldPay on which to base a figure, I still think this is the fairest option. I 
+think its unlikely that this pricing would leave WorldPay making a loss. I say this partly 
+because Im aware of other cases where WorldPay has charged a much lower fee than 4.5p. 
+In summary, for the reasons set out above, I have concluded that it wouldnt be fair or 
+reasonable for WorldPay to charge R the full 25p per transaction set out in their contract in 
+the specific circumstances that have happened here. In the absence of any submissions 
+from WorldPay on their costs in this case, I consider that 4.5p per transaction is a fair 
+amount to charge in these circumstances. 
+Putting things right
+WorldPay should recalculate its fee for R at 4.5p per transaction for the transactions 
+resulting from the August 2021 card testing activity and provide R with a new invoice. 
+From the evidence Ive seen, I think its unlikely that this will result in a refund to R. But if it 
+does, then WorldPay must arrange to make this refund and add interest to the amount of the 
+refund at 8% from the date the fees were paid by R to the date of settlement. This interest is 
+intended to compensate R for being deprived of the funds for this period. If, following this 
+recalculation, R still owes WorldPay an amount, then no interest will be payable by 
+WorldPay. 
+My final decision
+I uphold this complaint and direct WorldPay Limited to take the actions set out above. 
+Under the rules of the Financial Ombudsman Service, Im required to ask R to accept or 
+reject my decision before 9 August 2023.
+ 
+Louise Bardell
+Ombudsman

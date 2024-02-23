@@ -1,0 +1,99 @@
+DRN-3395571
+The complaint
+Mr K complains that Revolut Ltd (Revolut) have failed to refund money he lost as part of a 
+scam.
+What happened
+The details of this complaint are well known to both parties, so I will not repeat everything 
+again here. In summary, Mr K paid over £4,000 to a fraudulent investment merchant 
+(FXLeader) in May 2020. He made the following payments to the merchant using his Revolut 
+debit card:
+Date Merchant Amount
+19/05/2020 Visa debit card payment to Payby Me*doluhosting €999.63
+19/05/2020 Visa debit card payment to Payby Me*doluhosting €999.97
+20/05/2020 Visa debit card payment to Payby Me*doluhosting €999.74
+20/05/2020 Visa debit card payment to Payby Me*doluhosting €999.78
+20/05/2020 Visa debit card payment to Payby Me*doluhosting €499.90
+ Total: €4,499.02
+Mr K realised he had been scammed when he was unable to withdraw the money he had 
+invested. He raised a dispute with Revolut in August 2020 for help in recovering his lost 
+funds, but the bank declined to provide him with a refund. Mr K was unhappy as he says 
+they ought to have processed his chargeback claim and have done more to prevent him 
+from falling victim to a scam.
+Our investigator didnt uphold the complaint. He didnt think a chargeback claim would have 
+been successful given the specific evidence required under the Visa scheme rules. And he 
+didnt think the transactions were unusual enough to have prompted further enquiry by 
+Revolut. Mr K disagreed, so the matter has been escalated to me to determine. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Chargeback
+In this case, Mr K paid FXLeader via a payment facilitator called Payby Me, which collects 
+payments on behalf of online businesses and is seemingly why FXLeader does not appear 
+on his statements. 
+Mr K raised a chargeback with Revolut on 6 August 2020 on the basis that the merchant had 
+failed to provide the services he had paid for. Revolut asked for some further information 
+about the circumstances of the dispute but rejected the claim on 11 September 2020 as they 
+said there are no chargeback rights for transactions in which any value is purchased for 
+gambling, investment or similar purposes. 
+However, Revolut were incorrect in this assumption, as the Visa chargeback rules did cover 
+binary options (or investment) trading from 14 October 2017, i.e. after the disputed 
+transactions: see Visa Business News 26 October 2017:
+Effective 14 October 2017, issuers may use Reason Code 53 to address cases 
+whereby a binary options (or forex) merchant has imposed obstacles to prevent 
+cardholders from withdrawing funds. This chargeback right is limited to the amount 
+available in the binary option account at the time funds are requested. Issuers cannot 
+charge back more than the original transaction amount, so capital gains from binary 
+options trades cannot be paid out via the chargeback process. 
+It does not appear that Revolut pursued a claim under Reason Code 53 (later re-coded by 
+Visa to 13.5). But I note that the Visa rules required Revolut to present evidence that Mr K 
+had an available balance and that he tried to withdraw sums equal to, or less than, his 
+available balance on the same day. Visa required specific evidence in the form of a dated 
+screenshot on the day the withdrawal was requested, but they have also confirmed to this 
+service that they would consider a dated acknowledgement from the merchant advising that 
+the withdrawal request will be processed, which includes the amount of the request, as 
+sufficient evidence to support the chargeback for 13.5, and an additional screenshot would 
+not be required if this information was presented.
+I note that Mr K has provided this service with various screenshots of his trading account 
+and balances that the merchant said he had available. But I have not seen any of the 
+specific evidence outlined above that Visa would require in order for a chargeback to be 
+successful. Therefore, I do not think Revolut acted unreasonably by failing to pursue a 
+chargeback under this particular code in these circumstances.
+Mr K has also referenced reason code 13.3 (services not as described). However, for claims 
+under this reason code to have succeeded at Visas final stage of arbitration, Revolut would 
+have needed to provide evidence that FXLeader made written representations to Mr K 
+guaranteeing an amount of profit/return he was due to receive. I have not seen any evidence 
+that Mr K received any such representations from FXLeader, so Im satisfied Revolut were 
+correct to conclude that it didnt have any prospects of success at arbitration under reason 
+code 13.3 either.
+I appreciate that Mr K may have been successful in pursuing a chargeback claim with 
+another bank. But the reasons behind why this was successful are not clear, and I can only 
+consider whether Revolut ought reasonably to have pursued a chargeback claim based on 
+the specific evidence Mr K has presented. And, for the reasons already outlined, I dont think 
+they had the necessary evidence required in order to present a successful chargeback 
+claim, so I dont consider theyve acted unreasonably by failing to take it forwards in these 
+circumstances. 
+Unusual or uncharacteristic activity
+Ive also considered whether Revolut should have done more to prevent Mr K from falling 
+victim to the scam. as there are some situations in which a bank should reasonably have had a closer look at the circumstances surrounding a particular transfer. For example, if it 
+was particularly out of character. 
+However, the payments Mr K made were for relatively small amounts, such that they would 
+not have appeared unusual in comparison with his spending history. So, Im not persuaded 
+there was any reason for the payments to have been regarded as suspicious or indicating 
+that he might have been at risk of falling for a scam. I appreciate a warning had been 
+published on the FCA website about FXLeader. But the payment was not made directly to 
+this company. Revolut would have only seen that it was a payment being made to Payby Me 
+(seemingly the payment facilitator used by the merchant), so they would not have known that 
+Mr K was attempting to pay a company that had an active warning published about it by the 
+regulator. So, I dont think Revolut can fairly be held liable for Mr Ks loss here, as Im not 
+persuaded there was any obligation on them to intervene or prevent the payments in these 
+circumstances.
+I appreciate this will likely come as a disappointment to Mr K, and Im sorry to hear he has 
+been the victim of a cruel scam. However, in the circumstances, I do not consider it would be 
+fair and reasonable to hold Revolut liable for his loss.
+My final decision
+For the reasons given above, I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr K to accept or 
+reject my decision before 26 May 2022.
+ 
+Jack Ferris
+Ombudsman

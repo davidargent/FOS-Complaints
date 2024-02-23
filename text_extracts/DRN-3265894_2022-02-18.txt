@@ -1,0 +1,234 @@
+DRN-3265894
+The complaint
+Mr M complains that Revolut Ltd didnt refund nine transactions he says were made without 
+his authorisation, and that it also used one of his payment cards to top up a negative 
+balance on his account.
+What happened
+In 2019, Mr M went on a trip overseas. He says that one evening he returned to his hotel 
+late, and, after being dropped off by a taxi, realised hed lost his phone. The next morning he 
+says he discovered his Revolut card was missing.
+After Mr M returned to the United Kingdom and replaced his phone, he says he discovered 
+someone had withdrawn £2,814.67 in cash using his Revolut card  and used the Revolut 
+app on his phone to top up his account with £2,800 from his bank account which was now 
+overdrawn.
+Mr M reported this to both Revolut and his bank.
+Revolut initially told Mr M it wasnt able to look into this unless he provided a police report. 
+Mr M said the police in the UK wouldnt let him make a report because everything happened 
+overseas. And he said that the police where hed been staying wouldnt issue police reports 
+by phone  hed have to go there in person.
+Meanwhile, Mr Ms bank initiated a chargeback for the top-ups through the relevant card 
+scheme. These chargebacks were successful, so Revolut refunded these top-ups to the card 
+issuer. Mr M doesnt appear to have pursued matters further with Revolut at that time.
+But this meant Mr Ms account had a negative balance of £2,800. So a few weeks later 
+Revolut topped up Mr Ms account using another payment card attached to Mr Ms account. 
+Mr M attempted a further chargeback through the issuer of that card, but this was 
+unsuccessful. Mr M now owes £2,800 to the issuer of that card.
+Dissatisfied, Mr M referred matters to us.
+I issued my provisional findings on this complaint on 10 December 2021.
+In my provisional decision, I said that the relevant regulations were the Payment Services 
+Regulations 2017. This set out requirements before a payment transaction can be regarded 
+as having been authorised by the payer and sets out circumstances in which payment 
+service providers are liable for unauthorised transactions.
+In particular, the regulations say that where an executed transaction was not authorised by 
+the payer, the payment service provider must refund the amount of the authorised payment 
+to the payer and, where applicable, restore the debited payment account to the state it would 
+have been in, had the unauthorised payment transaction not taken place.
+However, the payer could be held liable for all losses where the payer, with intent or gross 
+negligence, failed to use the card in accordance with its terms and conditions or failed to 
+comply with their obligations in relation to reporting the loss or theft of their card or in 
+keeping their security credentials safe.
+With this in mind, I thought the key questions I needed to consider were:
+Whether Mr M authorised the transactions hed complained about, and
+if Mr M didnt authorise them, should he nevertheless be held liable for them?
+I also needed to consider whether Revolut acted fairly in topping up the account to remove 
+the negative balance.
+I first thought about what Mr M had said happened. Mr M had told us that during the evening 
+leading up to these transactions he attended a wedding reception. He said that on the way 
+back to his hotel he fell asleep in a taxi, and was dropped a city block away from his hotel at 
+around 2am. He says that after he left the taxi he realised hed lost his phone. But he still 
+had his wallet. He says it wasnt until the next morning that he realised his Revolut card was 
+missing. And it was only when he returned to the UK and replaced his phone a couple of 
+days later that he realised thered been transactions on the account. He believes he lost his 
+phone and card while he was in the taxi.
+Wed asked Mr M about the security on his phone. He says it was locked by his thumbprint. 
+However, he thinks its possible someone took his phone and card while he was asleep, and 
+so they might have used his thumb to give them access to his device while he was sleeping. 
+Once someone had access to the device, I can see that they might be able to access the 
+Revolut app  which could also give them access to his PIN. In any case, Mr M says he 
+stored details of his payment cards and PINs as notes on his device.
+Ive also considered the information Revolut had provided about what happened. Revolut 
+had sent us the transaction history for the account. It also sent us a security log showing 
+transactions that were declined as fraudulent or suspicious. Based on this, between around 
+3.30am and 9.40am local time on the day in question there were a number of both 
+successful and declined cash withdrawals from the account. There were also top ups to the 
+account from Mr Ms other payment cards. These appear to have taken place at four 
+locations. The logs also show that Revolut blocked Mr Ms card 13 times because it 
+suspected fraud or suspicious transactions  but each time the block was reversed using the 
+Revolut app on Mr Ms phone.
+Revolut also provided Mr Ms chat history. This showed that on the morning in question, 
+Revolut received messages from someone using Mr Ms phone asking it how to unfreeze the 
+card.
+I then summarised what appeared to have happened:
+Mr Ms card had already been blocked at the time he said he lost it. It looked as 
+though this happened after an earlier taxi journey was flagged as possibly fraudulent 
+by Revoluts systems.
+At around 3.30am, this block was removed using the app on Mr Ms phone  and the 
+equivalent of £118.19 was withdrawn at an ATM.
+This was followed by two attempts to withdraw £167.78 and £19.01 at the same 
+ATM. But these transactions were declined.
+Mr Ms app was used to top up the account with £400.This was followed by an attempt to withdraw £167.78  which was flagged as 
+potentially fraudulent and declined.
+After this block was reversed through the app, there were three successful 
+withdrawals of £101.66, £167.78, and £118.19, followed by a further top up of £800.
+This was followed by six declined attempts to withdraw £167.78, £85.13, £101.66, 
+£52.07, US$202.99 and US$22.99 respectively. One of these led to the card 
+becoming blocked due to a suspicious transaction, but this block was removed again 
+in the app.
+Mr Ms card was next used at a second ATM, a few miles away from the first. Four 
+successful withdrawals of £100.84 were made. This was followed by five declined 
+transactions for the same amount plus one for £67.78. All six of these declined 
+transactions were logged as suspicious card transactions, which meant Mr Ms card 
+was blocked each time. Again, the block was removed using the app. These took 
+place between around 5:03am and 5:33am.
+Mr Ms card was then used at a third location  which appears to have been in the 
+same county as the second location. First there were two declined withdrawals for 
+£166.96 and £18.19. Both were flagged as suspicious, and led to the card being 
+blocked. But after these blocks were removed, this was followed by two successful 
+transactions of £167.78 and a third of £51.88. There was then a top-up of £800, 
+followed by a further withdrawal of £167.61.
+Two declined transactions of £167.61 were made which were flagged as suspicious. 
+This was followed by a further top up of £800. There were then two further 
+withdrawals of £167.61 followed by declined transactions of £167.61 and £84.94. 
+There were then two successful transactions of £18.81 and £167.61, followed by two 
+declined transactions of £167.61 and £166.98, which again were flagged as 
+suspicious.
+This was followed by five failed attempts to top up the Revolut card by amounts 
+ranging from £200 to £3,000.
+The final cash withdrawal, of £829.14, took place outside a bank around 10 miles 
+south of the second location at around 8:54am. This was followed by seven further 
+attempts to top up the card by amounts ranging from £100 to £800. This final 
+attempted top-up took place at around 9:40am.
+Revolut said that each of the cash withdrawals were authenticated using the chip in Mr Ms 
+card and his PIN  and had sent me evidence of this. And in order to access the app, it says 
+someone would need to either enter a passcode or use fingerprint authentication. To top up 
+the Revolut card theyd need the three digit code from the back of the relevant payment card 
+and to complete whatever further authentication was required by the other card provider.
+I said this didnt on its own prove that Mr M made these transactions. I went on to consider 
+what was most likely to have happened given the information Id seen.
+I first considered the possibility that Mr M made these transactions. I saw that whoever made 
+them needed access to Mr Ms device, which he said was secured, together with the PIN for 
+the card, the three digits from the back of at least one of his other payment cards (I saw that 
+the attempts to top up the account using the second payment card failed) and the Revolut 
+app on Mr Ms device. In this light, I accept that it was possible Mr M authorised these 
+transactions.But I didnt think this was most likely in the full circumstances of what happened, bearing in 
+mind the time over which they took place and Mr Ms normal spending on the card. The 
+transactions took place more than eight hours after the previous transaction on the card, in 
+the early hours of the morning (from 3:30 am onwards) and at locations increasingly distant 
+from the place where Mr M was staying. Whoever had the card attempted to make repeated 
+cash withdrawals, often just seconds apart, of around £100 to £167. The attempts to use the 
+app and account continued until 9:40 the next morning, when, after 12 failed attempts to top 
+up the account using two different payment cards, the transactions ended.
+I accepted that this decision is finely balanced, and that we wont know for certain what 
+happened that evening. But given what Id said above, I thought it was most likely that 
+someone else got access to Mr Ms card, phone and PIN. I didnt think Mr M authorised 
+these transactions.
+Revolut said it didnt challenge the fact that a third party may have made the transactions in 
+question. But it said it couldnt have reasonably been concerned about the successful 
+withdrawal attempts or have reasonably prevented the transactions from being made. And 
+Revolut suggested that, in allowing the PIN to become compromised, Mr M may have been 
+grossly negligent  the relevant rules say that Mr M will be liable for unauthorised 
+transactions if he either intentionally or with gross negligence failed to take reasonable steps 
+to keep his personal security credentials safe.
+I said Id thought about that. I recognised that for Mr M to store the security credentials on 
+the same device as his app was careless. But the bar for gross negligence is a high one. 
+Given Mr M says the device was secured, I dont think it was necessarily grossly negligent 
+for Mr M to have stored information on it. But this did mean that once the phone had been 
+compromised that whoever had the phone could thereby gain access to Mr Ms other 
+accounts.
+I was also mindful that Revolut itself noticed that these transactions were suspicious. It 
+repeatedly blocked Mr Ms account  13 times in total. Each time the block was removed 
+using the app. And then, often following the very next attempt to withdraw cash, the card 
+was blocked again. For example, between 5:06am and 5:39am, Revolut blocked eight 
+transactions in a row. Then after a gap of 50 minutes, Revolut allowed four transactions at 
+the same location before declining transactions again. I also saw that the final payment, at 
+8:54, followed five failed attempts to top up the account using two payment cards.
+With that in mind, I wasnt persuaded Revolut did enough to protect Mr M here. Given the 
+suspicious transactions, I think continuing to block the account would have been reasonable. 
+Or it could have tried to call Mr M to ask him to explain these transactions. I think this was 
+particularly important given the time the transactions were taking place and that it was in 
+another country. And given the transactions that Revolut did block, its clear it continued to 
+have concerns about the use of the card notwithstanding that the block was being reversed 
+in the app.
+For these reasons, I wasnt satisfied that Mr M authorised these cash withdrawals or that 
+Revolut did enough to protect him. And so I thought Revolut should reimburse Mr M for 
+these amounts.
+I thought about whether, following the chargeback, Revolut should have used another of Mr 
+Ms payment cards to return the funds to the account. I saw that the terms and conditions of 
+the account said that if Mr M owed Revolut money it could recover the amount by taking this 
+off his stored card. As Id concluded that Revolut should reimburse the transactions made on 
+Mr Ms account, I didnt propose to make further findings on this point  but I did think that Mr 
+M found the situation stressful and he went to some effort to show he didnt complete these transactions.
+With all this in mind, I thought Revolut should:
+Reimburse the amounts withdrawn from the ATM plus fees (I worked this out to be 
+£2,870.97),
+Add simple interest to each of these amounts to compensate Mr M for the time hes 
+been out of pocket.
+Pay Mr M £200 for the trouble and upset Revolut had caused.
+I said Id consider anything further I received by 7 January 2022.
+Mr M has replied to say he agrees with my provisional findings.
+Revolut disagrees. In summary, it thinks its unlikely that the person who managed to top up 
+the account and withdraw the funds was a third party. It says that in order to top up the 
+accounts, Mr M would have needed to authenticate them through his bank. Finally, it says 
+Mr M could have locked the phone remotely once it was lost - and that, given the phone had 
+information about Mr Ms payment information on it, he ought to have done this.
+Ive therefore considered the complaint again.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Ive carefully considered the points Revolut has raised. But they dont change my 
+conclusions. Ill explain why.
+I acknowledge the points Revolut has made about whether Mr M most likely made the 
+transactions in question. As I explained in my provisional decision, I think this is a finely 
+balanced question. I accept that, given the circumstances in which Mr M says he lost the 
+card, we may not ever know for certain what happened. But for the same reasons I gave in 
+my provisional decision, I think on balance its most likely Mr M didnt authorise these 
+transactions. The use of the card isnt consistent with Mr Ms previous use of the card, and 
+the transactions were made at increasing distances from where Mr M was staying. 
+I note Revoluts comments about the security features of Mr Ms device. It points out that to 
+access the device, a third party would have needed access to Mr Ms fingerprint  and that in 
+order to change the fingerprint, the third party would also have needed access to Mr Ms 
+passcode. I note that if the third party had access to the passcode, theyd have been able to 
+access the phone in any event. Revolut points out that Mr M never mentioned sharing this 
+information with any thief. But I think its just as possible that he was seen entering his 
+passcode at some point  and I dont think its surprising that Mr M cant now say exactly 
+what happened.
+Ive considered Revoluts comments about whether Mr M was grossly negligent. While I 
+recognise Mr M might have locked his phone remotely, based on what Mr M has said it only 
+came to light that his payment card was missing the next morning, by which time the 
+disputed transactions had already ended. I note also that Revolut thinks we should get 
+evidence of how these payments were authenticated from Mr Ms bank. But for the reasons 
+Ive explained, the evidence Ive considered means Im satisfied that the payments out of the Revolut account werent authorised. So dont think this alters Revoluts obligations.
+But in any case, Im still of the view that Revolut could have done more to stop these 
+transactions. Revolut repeatedly flagged these transactions as fraudulent or suspicious. It 
+seems that Revolut had reasons to suspect that these transactions werent made by Mr M, 
+notwithstanding that whoever made them had Mr Ms payment card, PIN and access to the 
+app. As I said in my provisional decision, Revolut could have blocked access to the card 
+altogether or called Mr M to check if the transactions were genuine. It didnt.
+For these reasons, I reach the same conclusions as in my provisional decision. I uphold the 
+complaint.
+Putting things right
+Reimburse the amounts withdrawn from the ATM plus fees (I worked this out to be 
+£2,870.97),
+Add simple interest to each of these amounts to compensate Mr M for the time hes 
+been out of pocket. If HM Revenue & Customs requires Revolut to deduct tax from 
+this interest it should provide Mr M with a certificate setting out what it has done if he 
+asks for one.
+Pay Mr M £200 for the trouble and upset Revolut had caused.
+My final decision
+For the reasons above, I uphold this complaint. Revolut Ltd should put things right by doing 
+what Ive said above.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr M to accept or 
+reject my decision before 18 March 2022.
+ 
+Rebecca Hardman
+Ombudsman

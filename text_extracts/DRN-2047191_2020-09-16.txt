@@ -1,0 +1,268 @@
+DRN-2047191
+The complaint
+Mr R complains on behalf of his business, which Ill call M, that Wirecard Card Solutions 
+Limited wont refund £15,000 made from its account, which he says he didnt authorise.
+The account is an ANNA account issued by Wirecard. All references to Wirecard should be 
+taken to include ANNA. 
+What happened
+In March 2019, M was the victim of a scam. Its not in dispute that what happened was an 
+act of fraud. So I have used the term fraudster throughout to refer to the third party 
+involved. 
+From all the information provided, heres my understanding of what happened. 
+The fraudster, purporting to be a telecom service providers technical support team, called 
+Mr R, on his landline, on 29 March 2019. Mr R explains although his internet is provided by 
+another business, it runs on the telecom providers network. He has had previous dealings 
+with the telecom provider when there have been internet and phoneline problems. He 
+therefore didnt think it strange to receive a call from the telecom provider. 
+The fraudster explained Mr Rs IP address had been hacked and he was asked to follow a 
+number of instructions, including the downloading of a number of apps to his mobile phone. 
+This included a well-known anti-virus app, so he thought the instructions were legitimate; the 
+fraudster indicated this anti-virus software was something the telecom company also used. 
+Mr R was asked to check his accounts, including his Wiredcard account. He did so by 
+opening his mobile phone apps for the accounts. Mr R says the call was long and he was 
+asked to carry out a number of steps which meant going to and from his home screen.  
+Because of the length of the call Mr R needed to charge his mobile phone, and so this was 
+placed on charge while his discussion with the fraudster continued. Mr Rs apps were still 
+open during this time and unbeknownst to Mr R, the fraudster was carrying out transactions 
+on his apps. 
+ 
+The transactions were as follows:
+11.25 am £7,000 DREZALIU successful
+12.28 pm £8,000 DREZALIU successful
+12.33 pm £7,000 A WALKER declined
+Total loss £15,000
+The transaction attempted at 12.33 pm was declined as M had a daily transaction limit on 
+the account of £15,000. 
+Just over an hour later, Mr R realised the account had been accessed and transactions 
+made without his authority. He notified Wiredcard and completed the disputes form for the 
+matter to be looked into. Wirecard sent an indemnity to the receiving bank asking for the 
+funds to be returned some months later. 
+Wirecard declined to refund the transactions to M. It doesnt believe it is at fault in this and 
+further it thinks Mr R was grossly negligent, firstly in believing the caller was an employee of 
+the telecom company without verifying that and allowing himself to be manipulated into 
+downloading software onto his phone without making any basic enquiries. He also left the 
+account app open; Mr R didnt question how the fraudster would have known he had an 
+account with it, or that it had been hacked. 
+Our investigator upheld the complaint. She made reference to the terms and conditions of 
+the account to show the transactions hadnt been authorised. She also concluded Mr R, on 
+behalf of M, hadnt failed with intent or gross negligence to comply with the terms of the 
+account or keep the personalised security details safe. She required the transactions be 
+reimbursed plus 8% simple interest. 
+Wirecard considers the complaint to have been pre-determined as when it was asked for its 
+side of things, an investigator indicated that the services approach to unauthorised scams is 
+to ask for a refund of the transactions. It also said the request for a refund was made to 
+ANNA and not it. It says:
+It contests that acts of negligence are to be considered on a case by case basis and 
+that it is ultimately for a court to decide whether an act is grossly negligent. 
+In UK civil law negligence is defined as any act or omission which fall short of a 
+standard to be expected of the reasonable man. For a claim of negligence to 
+succeed, it is necessary to establish that a duty of care is owed by the defendant to 
+the claimant, that duty was breached, and the loss was caused by that breach and 
+that it was a foreseeable consequence. 
+Under those circumstances, a persons act or omission either falls short of the 
+reasonable man, or it does not. It cannot grossly fall short of that of a reasonable 
+man, it simply cannot be defined. 
+The failure to keep security details safe is negligence, under the Payment Services 
+Regulation 2017 recital 77 (3)(b) he is liable for all losses incurred as he failed under 
+recital 72(3) to take all reasonable steps to keep safe personalised security 
+credentials relating to a payment instruction or an account information service. 
+It doesnt agree with the addition of interest as there is no evidence of wrongdoing. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Wirecard has argued that Mr R has never asked it for a refund, the request was made to 
+ANNA. I disagree, under ANNAs term and conditions we, us or our is defined as Wirecard 
+Card Solutions Limited. So by asking ANNA for a refund, Wirecard was being asked for a 
+refund.  
+When considering whats fair and reasonable, I am required to take into account; relevant 
+law and regulations; the regulators rules, guidance and standards, codes of practice; and 
+where relevant what I consider to have been good industry practice at the relevant times. 
+The fraud took place in March 2019, so of particular relevance to my decision are the 
+Payment Services Regulations 2017 (PSRs 2017), which apply to transfers like the ones made from Ms account. Ive considered the relevant provisions of the PSRs 2017 alongside 
+the terms of the ANNA account. 
+Taking those into account there are two key questions relevant to my consideration:
+1. Were the transactions authorised by Mr R, on behalf of M? and;
+2. If they werent, did Mr R fail with intent or gross negligence to comply with his 
+obligations under the PSRs 2017  to comply with the terms and conditions of 
+the account, or to keep the personalised security details safe?
+Were the disputed transactions authorised by Mr R, on behalf of M?
+Regulation 67 of the PSRs 2017 says that the payer must give consent and it must be given 
+in the form, and in accordance with the procedure, agreed between the payer and its 
+payment service provider. The payment service directive, which the PSRs 2017 implement, 
+says that in the absence of such consent, a payment transaction shall be considered 
+unauthorised. 
+Given the fraudulent transactions were made via Ms account, Ive considered the relevant 
+provisions of ANNAs terms and conditions to determine what the agreed form and 
+procedure is for such payments to be made. Wirecard didnt provide a copy of the terms and 
+conditions and so the investigator relied on those available on-line. Wirecard hasnt disputed 
+those are the terms which apply. The terms are very limited in this area but say:
+7.8 We will treat a payment as authorised by the Account Manager and genuine if:
+(a) The transaction was authorised from the Self Service Account Management 
+Portal;
+(b) The Account Manager has set up any Automatic Payments. 
+Account Manager is defined as the individual aged 18 or above elected by the Institution to 
+be responsible for the management of the account  that would be Mr R. Self Service 
+Account Management Portal is defined as a mobile App or online portal that allows you to 
+have access to your account, and functions such as receiving support, submitting 
+Information and forms and filing complaints. 
+The terms and conditions dont go any further than the above to explain how a transaction is 
+authorised from the App. Our understanding of the process, which hasnt been disputed by 
+Wirecard, is:
+open the App
+navigate the App to make payments
+select a past beneficiary to make a payment to, or set up a new beneficiary by 
+entering the sort code, account number and reference;
+enter the amount to be paid
+submit the payment request.
+There is no dispute that Mr R opened the app, on instruction of the fraudster.  But he did not 
+complete any of the remaining steps himself; he didnt set up a new beneficiary, or their 
+account details and he didnt submit the payment requests himself. As Mr R didnt complete 
+any of the steps, bar the first one, it follows that Mr R didnt give consent for the payments in 
+the form and procedure required.  The payments were therefore unauthorised. Did Mr R, on behalf of M, fail with intent or gross negligence, to comply with the terms 
+and conditions of the account, or keep the personalised security details safe?
+The terms and conditions of the account say:
+11.4 In the event that we have a reason to believe that either you or the Cardholder 
+have acted in connection with a Prohibited Activity or Prohibited Purpose, or have 
+acted with gross negligence or intentionally failing to notify us of the lost or stolen 
+Card or the Cardholder has failed to keep his Card or security information related to 
+the Account safe or you or the Cardholder have breached this Agreement then you 
+shall be liable for all losses.  
+13.5 You will be liable for all transactions made from your Account(s);
+(a) if you, the account manager or the cardholder have acted in connection with a 
+Prohibited Activity or Prohibited Purpose; or
+(b)if the transaction was made because the Cardholder deliberately or with gross 
+negligence failed to keep his Card or Card details secure, or his PIN or other 
+security information related to the Account secret.
+PSRs 2017say:
+72 (3) The payment service user must take all reasonable steps to keep safe 
+personalised security credentials relating to a payment instrument or an account 
+information service. 
+77 (3) The payer is liable for all losses incurred in respect of an unauthorised 
+payment transaction where the payer-
+(a) has acted fraudulently; or
+(b) has with intent or gross negligence failed to comply with regulation 72 
+(obligations of the payment service user in relation to payment 
+instruments and personalised security details). 
+Wirecard hasnt suggested that Mr R failed to comply with the terms of the account or the 
+PSRs 2017 with intent, so I will only address this point briefly. 
+Intent isnt defined within the PSRs 2017. Ill therefore apply the natural meaning of intent  
+that being something you want or plan to do; a deliberate act. The question I need to 
+consider is whether Mr R appreciated that his actions or inactions meant he wasnt 
+complying with the terms and conditions of his account and/or that he appreciated he wasnt 
+taking all reasonable steps to keep his personalised security features safe. 
+Mr R thought downloading the apps suggested by the fraudster were for the protection of his 
+account(s). He didnt recognise that hed given access to his mobile account apps when 
+doing so. Mr Rs intention was to protect his account(s), I think thats the opposite of saying 
+Mr R realised he wasnt complying with the terms of the account or keeping his security 
+information safe  which is what would be needed to say he acted with intent.  
+I turn now to whether Mr R acted with gross negligence. Gross negligence isnt defined 
+within the account terms and conditions. Although I agree that any assessment of gross 
+negligence should be on a case by case basis, I find Wirecards arguments in this regard 
+odd; not only because the concept features in the terms and conditions of the account but 
+because on the one hand it suggests that whether an act is grossly negligent is for a court to decide, but on the other that an act or omission cannot fall grossly short of that of a 
+reasonable man. These arguments arent compatible with one another. 
+The concept of gross negligence is not novel, or new. It appears in both PSRs 2009 and 
+2017. So its clear that ones acts or omissions can be considered grossly negligent. 
+Recital 72 of the second Payment Services Directive says:
+"In order to assess possible negligence or gross negligence on the part of the 
+payment service user account should be taken of all of the circumstances. The 
+evidence and degree of alleged negligence should generally be evaluated according 
+to national law. However while the concept of negligence implies a breach of a duty 
+of care, gross negligence should mean more than mere negligence, involving 
+conduct exhibiting a significant degree of carelessness, for example keeping the 
+credentials used to authorise a payment transaction beside the payment instrument 
+in a format that is open and easily detectable by third parties..."
+The FCA, in its document setting out its role under the Payment Services Regulations 2017, 
+says:
+"... we interpret "gross negligence" to be a higher standard than the standard of 
+negligence under common law. The customer needs to have shown a very significant 
+degree of carelessness."
+When considering gross negligence in a commercial contract context, Mance J in Red Sea 
+Tankers Ltd v Papachristidis (The "Ardent") [1997] said: 
+"If the matter is viewed according to purely English principles of construction, ... 
+"Gross" negligence is clearly intended to represent something more fundamental 
+than failure to exercise proper skill and/or care constituting negligence... as a matter 
+of ordinary language and general impression, the concept of gross negligence seems 
+to me capable of embracing not only conduct undertaken with actual appreciation of 
+the risks involved, but also serious disregard [sic] of or indifference to an obvious 
+risk."
+Negligence is often referred to as a failure to exercise reasonable care. And, as I have 
+described above, the use of 'gross negligence', rather than mere 'negligence', suggests a 
+lack of care that goes significantly beyond ordinary negligence or carelessness. 
+So I have to consider whether Mr Rs actions fell so far below the standard of a reasonable 
+person that he failed with gross negligence to keep his personalised security details safe or 
+to comply with his account terms and conditions.
+Ive considered the context of the call.  Mr R had previous calls with the telecom provider 
+about both internet and phone line problems. And Mr Rs internet provider is part of that 
+overall telecom group. So I dont think Mr R would have had cause to doubt that he was 
+being called by the genuine telecom provider. 
+Mr R had been told that his IP address had been hacked. An IP address is a numerical label, 
+or identifying number, that is associated with a specific device or network. He was told that 
+the technician had intercepted somebody hacking into his IP address and he needed to 
+download several security apps to resolve the issue and help trace the hacker.
+Mr R followed those instructions and downloaded several apps, including one from a well-
+known anti-virus software provider.  And the fraudster told him the telecom provider also 
+used this software  so Mr R thought this was a legitimate way to resolve the hacking.  The fraudster also told Mr R to check his accounts for any fraudulent transactions which he did 
+by opening his mobile apps. 
+Its important to consider what Mr R did in light of his reasonable belief that he was talking 
+with someone from a well-known and reputable telecom provider, and a business he had 
+dealt with before. Most people arent experts in cyber security and tend to trust the advice of 
+professionals  after all, without their own knowledge and expertise its difficult to question. 
+That willingness to trust and heed professional advice is heightened when people are told of 
+risks to their personal information, or money, if they dont take action. In this context, Im not 
+satisfied Mr Rs actions  downloading the apps and leaving his mobile apps open - 
+amounted to gross negligence. He followed the instructions of who he thought was an expert 
+in these matters, because he believed Ms money was at risk from unknown third parties  I 
+think a lot of people would have done the same thing. 
+This scam had clearly been thought through and was designed to socially engineer Mr R into 
+following the fraudsters instructions. Thats clear from the length of the call (which can be 
+seen from the time between transactions) and that Mr R was constantly asked to navigate 
+between the apps and his home screen, so much so that he needed to recharge his mobile 
+phone. All the while the fraudster kept Mr R talking on his landline. 
+Wirecard has argued that telephone scams arent a new phenomenon and are widely 
+publicised in advertisements and highlighted in television programmes. I have thought 
+carefully about this, and I agree with its comments. But I dont think that means Mr R has 
+acted with gross negligence. I think in the moment when someone has been socially 
+engineered into believing there is a risk to their information and/or money, remembering 
+details of adverts or programmes is likely to be far from a persons thoughts; rather they are 
+likely to be in a state of panic and will follow the instructions given in order to stop being 
+hacked. Im not persuaded Mr R knew the fraudster had access to his mobile phone, or 
+therefore, his mobile apps. I dont think there was an obvious risk that hed compromised his 
+account and M could lose money.  
+Im satisfied gross negligence should mean a very significant degree of carelessness, 
+involving a serious disregard or indifference to an obvious risk. This is a high bar, it isnt 
+enough to say Mr R was grossly negligent simply because in the middle of a sophisticated 
+scam he downloaded some apps and left his mobile apps open. Im not persuaded his 
+actions fell so far below what a reasonable person would do in the circumstances to amount 
+to gross negligence. I think a lot of people would have reacted in a similar way to how Mr R 
+did here. 
+Wirecard has argued that it doesnt believe it (ANNA) has done anything wrong and doesnt 
+understand why Mr R believes it is responsible.  But it is missing the point. Regulation 76 of 
+the PSRs 2017 says:
+(1) subject to regulations 74 and 75, where an executed payment transaction was 
+not authorised in accordance with regulation 67 (consent and withdrawal of 
+consent), the payment service provider must-
+(a) refund the amount of unauthorised payment transaction to the payer; and
+I have concluded above that Mr R didnt authorise the payments and so under the PSRs 
+2017, the starting position is that Wirecard should refund the transactions. This doesnt apply 
+if, as set out above, regulation 77(3) applies. And I have found that it doesnt. 
+Under the PSRs 2017 M can be held liable for the first £35 of losses incurred as a result of 
+unauthorised payments. However, this would need to be set out in the terms and conditions 
+of the account, and it isnt, so I dont think it would be fair for Wirecard to rely on that here. Wirecard has further argued that it doesnt believe 8% should be payable when it hasnt 
+done anything wrong. However, as set out above, that starting position is that the payment 
+service provider  Wirecard - should refund unauthorised transactions. It was notified of the 
+fraudulent transactions within a matter of hours. And M has been without the use of that 
+money for some time. Our usual approach when there has been a loss of use of funds is to 
+award 8% simple interest per annum from the date of loss to the date of reimbursement, I 
+see no reason to depart from that here. 
+My final decision
+For the reasons given, I uphold this complaint. I require Wirecard Card Solutions Limited to:
+refund M the unauthorised transactions of £15,000
+pay M 8% simple interest per annum on that sum from the date of loss to the date of 
+settlement. 
+If Wirecard considers that its required to deduct income tax from that interest, it should tell M 
+how much its taken off. 
+Under the rules of the Financial Ombudsman Service, Im required to ask M to accept or 
+reject my decision before 16 October 2020. 
+Claire Hopkins
+Ombudsman

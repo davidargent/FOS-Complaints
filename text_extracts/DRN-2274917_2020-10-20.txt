@@ -1,0 +1,283 @@
+DRN-2274917
+The complaint
+Ms W has made a complaint against UK Insurance Limited (UKI) following a call out to a car 
+breakdown. She says that the actions of the recovery agent further damaged her vehicle, 
+and she would like UKI to compensate her for the damage caused. 
+I will use UKI to refer to UKI and its associated agents in this decision. 
+What happened
+Ms Ws car broke down. She was quite distressed when she called up her breakdown 
+recovery company as she thought her policy had expired. But the agent on the telephone 
+found a live policy connected to her bank account, and assured Ms W she had cover. She 
+asked Ms W what was wrong.
+Ms W said, it wont start and its saying the handbrake is faulty. 
+Ms W says that the recovery agent arrived at the scene. She says that at this point the car 
+was still turning over but not starting. She says the agent used jump leads to attempt the 
+start. She says she saw sparks and smoke from the engine bay. 
+The car failed to start so it was recovered to a local garage. Ms W says the recovery agent 
+asked her to sign something before the car was recovered which she did. 
+UKI got a statement from the recovery agent. UKI say We spoke with the technician who 
+states he only used a 12 volt jump pack which is surge protected and could not get life or the 
+engine to turn. So, when the customer informed yourselves the engine still turned over as 
+normal something has therefore happened prior to our arrival. There is absolutely no way we 
+couldve damaged the battery and as stated or fried it as there was no smoke or overheating 
+coming from the battery and had we connected it incorrectly it would not of provided any 
+power due to the failsafe protection. 
+Theres also a statement from the receiving garage. It says Vehicle will not start - Tested 
+fuel supply- No fuel getting to injectors. Scan vehicle with OBS scanner, Vehicle listing, over 
+30 faults in Engine / BSI Relating to open circuits. It is our view that the vehicle ECU unit 
+/electrics have been spiked with overcharge, caused by jump leads used with no regulator 
+surge control or have been applied to wrong terminals. This has caused a massive voltage 
+surge through the electrics damaging sensors and wires to engine components. Advise 
+vehicle needs new ECU and Wire loom at least, with potentially other parts needed with fault 
+finding tracing. This would need to be carried out by an Auto electrical expert. However, it is 
+my view that the repair would more than the vehicle value.
+Ms W is adamant that the recovery agent is responsible for the electrical and ECU damage 
+her car has now suffered, so she complained. UKI declined her complaint and said it hadnt 
+done anything wrong. So, Ms W came to our service.
+An investigator looked at Ms Ws complaint. The investigator upheld this complaint and 
+asked UKI to pay her the value of her vehicle (which has now been written off) and the cost 
+of the diagnostic. But UKI dont agree and, its asked for an ombudsman to review the case.
+I reviewed the case and set out my findings in a provisional decision dated 23 September 
+2020. These provisional findings are set out below
+My provisional findings
+What happened during the call out?
+Ms W was calling for assistance from a school car park. Shed obviously used the car to get 
+there. So, this was quite a sudden issue and we have no evidence to suggest that this had 
+ever happened before.
+Ms W said in the call to UKI, it wont start and its saying the handbrake is faulty. The agent 
+asks, does the engine turn over when youre turning the key? Ms W replies yeah, it just 
+obviously wont go and work. The agent asks, when its turning over is it turning over 
+normally, but then you cant engage any like power, is that? Ms W cuts in and replies yeah, 
+and the brake pedal wont go down. The agent repeats so the handbrake is faulty, and the 
+brake pedal wont go down Ms W confirms that the handbrake fault is coming up as a 
+message on the screen. 
+Ive looked at the roadside report provided by UKI for this job. It says symptom: Non start, 
+outcome: not repaired, recovery required. The comments say possible battery fault. Not 
+able to power up with boost pack or jump leads.
+An internal email from UKI says 'NON START Hand brake faulty warning, brake pedal won't 
+go down, non-start, turning over normally'. This confirms that the vehicle was not starting 
+prior to our arrival, which is consistent with the original fault being an ECU fault.
+The first thing that stands out is the fact that the fault reported is not the same as the fault 
+recorded on the roadside report. Ms W clearly has a handbrake issue, and in addition the car 
+wont start. But the report doesnt mention the handbrake, just the non-start issue. The same 
+with the later email, non-start seems to be the primary issue recorded. They never seem to 
+be linked.
+Ive spoken to two garages in an effort to get to grips with whats happened here. Ms W has 
+attempted to start her car. It turns over, but wont start. The handbrake warning light is 
+flashing, and she says the car has gone into economy mode. Both garages Ive spoken to 
+say this wouldnt be unusual. Theyve both expressed caution at giving a definitive analysis 
+of the fault. But both have said that an issue with the handbrake can, in certain 
+circumstances trigger safety or economy mode, meaning the car would turnover but not 
+start if a handbrake issue was detected.
+This analysis of the situation ties in exactly with the situation as Ms W describes it. However, 
+I think UKI have misinterpreted the situation. Theyve recorded the issue as a non-start, and 
+the first thing youd do in that situation, is attempt a jump start. But I dont think this was the 
+correct approach to take. 
+But this may have been complicated further by the status of the battery when the recovery 
+agent arrived. Its wholly conceivable that Ms W continued to try to start her car, after the call 
+to her recovery agent. And its wholly conceivable that the battery couldve been completely 
+flat on his arrival, although there are conflicting testimonies surrounding this. Ms W says it 
+wasnt flat. The recovery agent says it was.But either way, I dont think it matters. Because as the story plays out what happened next 
+was always going to happen. The recovery agent as per the report wasnt aware of a 
+handbrake issue. As far as he was concerned, he was attending a non-start. So, he was 
+always going to try and jump start the car either with a battery pack or jump leads.
+But this is where the conflicting evidence arises. The recovery agent says he only used a 12 
+volt jump pack which is surge protected and could get not life or the engine to turn. This line 
+is quoted numerous times throughout the file. But this isnt true. He clearly says at the 
+bottom of the roadside report possible battery fault. Not able to power up with boost pack or 
+jump leads. So, the recovery agent also used jump leads in an attempt to start the car, 
+which Ms W confirms. And this changes matters in terms of a possible power surge and the 
+risk to the ECU.
+UKI have provided us with the make and model of the battery pack that was used. They 
+havent provided us with a check sheet for the recovery vehicle, but thats ok, as its clear 
+now that both a battery pack and jump leads were used.
+The Battery pack is a Power Vamp TB1224HDD. According to the specification I found 
+online, this model has an audible reverse polarity warning buzzer and voltage spike 
+protection. And from the research Ive seen its unlikely (but not impossible) that a power 
+surge couldve happened using this device.
+But the recovery agent also used jump leads. And theres no mention of surge protection or 
+any sort of protection whilst using these. In fact, UKI are silent on the jump leads. Again, 
+having spoken to a number of garages it is very clear that using jump leads both correctly 
+and incorrectly can be very risky, and there is a much higher chance that a voltage spike or 
+a power surge can happen when using jump leads. There are numerous articles and forums 
+online that will tell you the same thing. Even if you are using jump leads correctly, there is 
+potential to cause a voltage spike. Thats why its recommended you use a battery pack as 
+battery packs have built in safeguards.
+So, I need to decide whats most likely to have happened. And looking at the two versions of 
+events Im more persuaded by Ms Ws testimony. Her story hasnt changed and aligns with 
+what happened. She said the agent used jump leads. She was adamant about this. She 
+says she saw sparks and smoke, and the garage say they smelt smoke when the car was 
+transported to them. On the other hand the recovery agent never once mentions the jump 
+leads in his testimony. He says, he only used a 12 volt jump pack. The use of the jump 
+leads is only picked up if you read through 133 pages of file notes, and its mentioned at the 
+bottom of the roadside report. So, Im satisfied jump leads were used in an attempt to start 
+the car.
+But did the jump leads cause the spike or was there already an ECU fault?
+Im persuaded that the ECU failure occurred after the jump leads were used, as described by 
+Ms Ws garage. Ms W reported a handbrake warning and a non-start. The car had reverted 
+to economy mode. Ive been told by one garage that economy mode can be triggered for a 
+number of reasons. Again, I reiterate that this garage has never seen this car and is only 
+working off the narrative as presented on file and by the questions I have asked as the 
+ombudsman investigating this case. But this garage has assured me that its not unusual for 
+the car to trigger economy mode for a handbrake issue. They explained that economy mode 
+can allow the car to start and move. It can also mean the car isnt safe to start, and in that 
+scenario the engine will turn over, but it wont engage or start.And Im satisfied thats what happened here. There was a handbrake issue, economy mode 
+kicked in and the car wouldnt start. Ms W reported the issue correctly. But the issue seems 
+to have gotten lost in translation between UKI and the recovery agent, and the recovery 
+agent went out to what he thought was a non-start.
+When the recovery agent arrived, there was no mention of the handbrake issue. In fact, UKI 
+repeat this in a later email. The recovery agent went straight into a jump start scenario, 
+possibly because the battery was flat, and this matched what was on the job sheet. The 
+recovery agent couldnt start the car with the battery pack, so he then used the jump leads. It 
+was then that the surge is more likely than not to have happened. 
+UKI also say that someone else couldve tried to jump start the car. But this was never 
+mentioned by Ms W. She was told to wait for the recovery guy, and theres nothing to 
+indicate that there was any other outside assistance sought.
+In addition to all of this the fact that Ms Ws garage have diagnosed the original issue as a 
+handbrake issue, where they say all that was required was a replacement handbrake clip is 
+very clear. This is compounded by the fact that when the recovery agent attempted to move 
+the car he said It was then requested to be recovered and found the Hand Brake would not 
+release as it was electrically operated and had not been tried to release prior to this
+So, Im satisfied the handbrake failure was the main cause of the breakdown. The car went 
+into economy mode because there was an issue with the handbrake, and not because the 
+ECU was faulty. The ECU failure is more likely than not to have happened after the recovery 
+agent arrived when the jump leads were used.
+The waiver
+UKI say that Ms W signed a waiver, which waives them from all responsibility if theres 
+damage caused during a jumpstart. Ms W doesnt deny signing this waiver. But she says this 
+waiver was signed after the jump leads were used and just before the car was about to be 
+recovered. Ms W also says this waiver wasnt explained to her. She thought it was to allow 
+her car to be removed on the recovery truck.
+Ive seen the print out from the waiver with Ms Ws electronic signature. And I can see there 
+are five ticks, one which abdicates the recovery agent from any responsibility for any 
+accidental / consequential damage that can occur as a result such as warning lights being 
+triggered (during a jumpstart).
+But given what we now know, Im inclined to believe Ms W. Ive listened to the initial 
+breakdown report call with her recovery insurance. And its clear shes very upset and 
+stressed when this happens. There is a lot to take in on that form, including no driving, 
+forcible entry, wheel nuts and tow start liability, along with jump start accidental damage. 
+And I dont think Ms W sounded like she was in the right frame of mind to take all of this in at 
+that time. So even if it was signed before or after the damage was done, I dont think in that 
+moment Ms W knew what she was signing. So, Im inclined to discount the importance of the 
+waiver, given the stressfulness of the situation, and Ms Ws vulnerability at the time.
+What happens next
+ 
+Ive set out why Im persuaded that the ECU wasnt damaged when Ms W first reported the 
+breakdown. I believe there was a handbrake problem which deemed the car unsafe to drive 
+thus triggering economy mode. The issue as described was miscommunicated to the 
+recovery agent, who then attempted to start a car that was never going to start using a 
+boost. And this then led to an attempted jump start using jump leads which in turn caused catastrophic damage to the cars electrical system. Because of this I think UKI are 
+responsible for the ECU and wiring loom damage. 
+The car will potentially be written off, so I recommend that UKI either pay Ms W the value of 
+the car on the day the car was recovered to the garage or the value of the repair, whichever 
+is most reasonable. It should also pay any associated diagnostic costs.
+Im also recommending that UKI pay Ms W £350 in compensation for the distress and 
+inconvenience caused by its actions. I appreciate that Ms W was given the use of a car over 
+Christmas. But subsequently shes had to put in place alternative childcare arrangements 
+because she has no car, and it is taking her longer to get to work. I do appreciate that during 
+lockdown this wasnt an issue. But there was a period before and after the main lockdown 
+period where Ms W was out of pocket, and I think £350 is a fair and reasonable amount to 
+compensate for this. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Further to my provisional decision, both parties have replied and confirmed that theyve 
+received it. Ms W has advised that she has nothing further to add and UKI has made some 
+further points. Having reviewed the complaint again and having considered these points, I 
+continue to uphold this complaint. Ill explain why.
+The reported fault
+UKI disagree that a different fault being recorded on the roadside report to the phone call 
+had any bearing on the matter. UKI says that the most pressing matter for the attending 
+technician when he arrived was that Ms W's car was not starting and that is what he has 
+recorded on his report.
+UKI also says that it finds it difficult to accept that I could determine the attending technician 
+shouldve taken a different approach when he arrived on scene, after I spoke to two garages. 
+UKI say the best placed person to decide what actions should be taken at the time, was the 
+attending technician. UKI says there's no evidence to suggest he took the wrong approach. 
+I agree that the best placed person to decide what actions should be taken was the 
+attending technician. And it looks like the attending technician approached the breakdown 
+with a solution based on what he was told. However, based on what was written on 
+Roadside Report dated 9 December 2019 I think there was a mis-communication between 
+the agent who authorised the call out and the attending technician and the attending 
+technician attended the breakdown not knowing the complete story. 
+So just to clarify, Ms W reported that the car would turn over but wasnt starting and that the 
+handbrake warning light was flashing. A non-start is whats recorded in the Roadside 
+Report dated 9 December 2019. But the Recovery Report dated 10 December 2019 records 
+the fault as an electronic handbrake issue. So, there is a disparity over what the attending 
+technician was told. And because of this mis-communication and based on what the experts 
+Ive spoken to have said, I think its more likely than not he was attempting to start a car that 
+was immobilised in economy mode as opposed to a car that had a flat battery. And the 
+advice Ive received is that a jump start isnt the correct solution to that scenario. I do think 
+that its highly likely there was also a battery issue. But my understanding is that when this 
+make and model of car goes into economy mode, jump starting is not the solution, and in 
+certain circumstances an attempted jump start can cause further damage.So, I do think the recording of the fault had a bearing on the matter. And if the attending 
+technician had been aware that the car had gone into economy mode, with an electronic 
+handbraking warning fault showing, its likely he wouldve approached the attempted fix 
+differently. 
+Further to this Ive made it very clear that neither garage I spoke to had seen this vehicle, 
+and both garages expressed caution at giving a definitive analysis of the fault. But in a 
+situation where there is a conflicting narrative, its important to seek expert opinion. 
+In this case its unclear whether the battery was flat or not. But its likely that the battery 
+wasnt at full capacity. And Ms W couldve flattened the battery further by continually trying to 
+start the car in economy mode. Its likely the attending technician tested the battery at the 
+outset, given the information he had, and if the battery was low I would expect him to deduce 
+that the battery was the main reason for the non-start.
+But what the experts have pointed out is that its not unusual for this type of car not to start in 
+economy mode, particularly if its a handbrake issue. And unfortunately, the handbrake issue 
+wasnt relayed to the attending technician at the beginning. And I think this mis-
+communication had a bearing on how he approached this problem. 
+The use of jump leads
+And this in turn leads us to the use of the jump leads. UKI says there's no evidence of the 
+attending technician using jump leads, and the continued testimony from him is that only a 
+booster pack was used. UKI also says that its wholly conceivable that Ms W attempted to 
+jump start her vehicle before the attending technician arrived, and that is when the damage 
+was caused to her car.
+The note written on the Roadside Report says possible battery fault. Not able to power up 
+with boost pack or jump leads. Ms W says she saw jump leads being used. Further to this 
+theres no evidence to suggest that Ms W asked someone to help her to jump start her 
+vehicle. So, I think on the balance of probability, and based on the evidence in the file, the 
+attending technician used jump leads, even if he failed to mention this when later 
+questioned. I also note that UKI agrees that jump leads, even if used correctly can cause 
+damage.
+The waiver
+UKI says that the ombudsmans conclusion that waiver is not valid due to the customer 
+being emotional is not acceptable. UKI says that if the waiver isnt acceptable than the fact 
+its states jump leads were used shouldnt be accepted either. UKI says that its service 
+providers are professionals and would at all times explain the form and that it was Ms Ws 
+responsibility to read what she was signing. UKI says that the consumer cant have it both 
+ways and that dismissing a waiver is unacceptable as a waiver releases the provider from 
+any liability when trying to assist.
+And I agree, that is the purpose of a waiver. In this particular waiver it says, I hereby give 
+authority to jump start my vehicle and agree that the garage can accept no liability for any 
+accidental / consequential damage that can occur as a result such as warning lights being 
+triggered.
+The waiver is in place to cover the provider if something happens outside of the attending 
+agents control. And we know that in some situations, a surge can be caused even if the jump leads are used correctly. But thats not the argument that UKI are making. UKI says that 
+jump leads werent used at all. 
+But I think its more likely than not they were used. The attending technician said they were 
+used on the Roadside Report (even if he fails to mention this later). Further to this Ms W 
+says she saw sparks and smoke in the engine bay, and garage that the car was recovered 
+to stated that there was a burning smell evident when it opened up the bonnet of the car. 
+The garage also says that the vehicles ECU unit has been spiked with overcharge, caused 
+by jump leads used with no regulator surge control or have been applied to the wrong 
+terminals. 
+I do appreciate UKIs argument that it was Ms Ws responsibility to read the waiver she was 
+about to sign. But Im also mindful of Ms Ws vulnerability at the time, and having listened to 
+the initial call, I do feel that Ms W was in a vulnerable state. But I dont think any of that 
+matters because based on all Ive seen Im more persuaded by the evidence set out in the 
+Roadside Report and the testimony provided by both Ms W and the garage than by what 
+UKI says couldve happened at the time. I think its more likely than not that the attending 
+technicians actions caused the damage to the ECU. And the waiver doesnt cover a 
+situation where negligence has occurred. 
+My final decision
+My final decision is to uphold this complaint.
+I require UK Insurance Limited to either pay Ms W the value of the car on the day the car 
+was recovered to the garage or the value of the repair, whichever is most reasonable. It 
+should also pay any associated diagnostic costs.
+I also require UK Insurance Limited to pay Ms W £350 in compensation for the distress and 
+inconvenience caused by its actions.
+Under the rules of the Financial Ombudsman Service, Im required to ask Ms W to accept or 
+reject my decision before 17 November 2020.
+ 
+Derek Dunne
+Ombudsman

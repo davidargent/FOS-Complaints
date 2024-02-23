@@ -1,0 +1,117 @@
+DRN-3817685
+The complaint
+Mr M complains that Monzo Bank Ltd wont refund money he lost as a result of a scam.
+What happened
+Mr M says he regularly receives text messages advertising loans and prize draws. He 
+decided to follow a link contained within one of those messages  which claimed hed won a 
+£2,000 prize. 
+Mr M was taken to a website. Initially he was asked to send documents to verify his identity 
+in order to receive his prize. Later, the website informed him that he needed to purchase 
+investment packages in order to have the money released. Those investments would, it was 
+claimed, produce returns in a matter of a few days.
+Mr M made 24 payments over about three days to the website totalling just under £1,000. 
+The payments were made via Open Banking  Mr M instructed the payments directly from 
+the fraudulent website and confirmed them through his Monzo application.
+His profits appeared to increase significantly, but when he asked to withdraw his funds, the 
+website operator broke off communication and Mr M realised hed been the victim of a scam.
+Initially Monzo said that it didnt think the payments were eligible for reimbursement under 
+the Lending Standards Board Contingent Reimbursement Model (CRM Code) which 
+requires its signatories (or firms which have agreed to adhere to its principles, like Monzo), 
+to refund victims of authorised push payments scams in all but a limited number of 
+circumstances. It said that the payments went to a cryptocurrency account in Mr Ms name, 
+and therefore didnt go to another person as required by the CRM Code. Later it said that 
+Mr M was responsible for the loss because he hadnt carried out enough checks on the 
+recipient.  
+The matter was referred to our service, but one of our investigators thought that Monzo 
+could fairly rely on one of the exceptions to reimbursement set out in the CRM Code. They 
+argued that Mr M ought to have done more checks on the website before going ahead and 
+they thought that what the website offered was too good to be true.
+Mr M disagreed, he said that he felt like he was being blamed for what happened and he 
+shouldnt lose out because he was tricked.
+ 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Under the relevant rules  the Payment Services Regulations 2017  Mr M is responsible for 
+payments hes made himself (even under deception). But Monzo has agreed to adhere to 
+the principles of the CRM Code, which mean it should only decline reimbursement if it can 
+show that one of the exceptions to reimbursement can be demonstrated. It also has 
+longstanding obligations to be on the lookout for out of character and unusual transactions to 
+protect, among other things, against the risk of financial harm from fraud.  
+There was initially a dispute about whether the CRM Code was relevant here. The fact Open 
+Banking was used to process the payments does not exclude them from consideration under 
+the CRM Code. Instead the relevant test is whether the payments went to another person. 
+Ive recently obtained evidence from the receiving bank which demonstrates the funds did go 
+to an account held in Mr Ms name. But, I can also see that some of the contact information 
+for Mr M on that account is different to what we have on file. He's also said that he provided 
+identity documents to the fraudsters. So, the evidence is consistent with a third party setting 
+up the account in Mr Ms name. That means the complaint should be considered under the 
+CRM Code as the recipient account cant fairly be described as Mr Ms. But, even if Im 
+wrong about this, for the reasons Ive set out below, whether the case falls under the 
+provisions of the CRM Code or not, makes no difference to the overall outcome. 
+Monzo have declined to reimburse Mr M on the basis that he didnt have a reasonable basis 
+for believing that the recipient of the payments he made was legitimate. Having considered 
+this matter carefully Im inclined to agree. In doing so, Ive thought carefully about Mr M and 
+his characteristics (as the CRM Code requires). I dont wish to hold him to an unreasonable 
+standard when judging his actions, but there are a number of aspects of what happened to 
+Mr M that strike me as unusual and ought to have led him to question what he was doing.
+ 
+I appreciate that Mr M might have entered competitions in the past that were genuine, but he 
+says he received an unsolicited text message which didnt suggest that he could win £2,000 
+but that he already had won it. I note, however, that the text message hes provided simply 
+says 2000 Credited. 
+I know that some unscrupulous advertisers use such techniques to entice people into 
+making purchases, so I can understand why Mr M might have clicked on the link out of 
+curiosity  just to see if he could really access the prize. A subsequent request for identity 
+documents probably should have caused him a little more concern  particularly as he was 
+sending them to a website hed done little, if any, research on. 
+But then Mr M was told hed need to invest money in order to receive his winnings and that 
+hed be able to make huge profits if he did so, he ought to have known at this point that 
+what he was being asked to do was significantly different from the prize he was offered. 
+And, its not clear Mr M understood how his investment was supposed to generate profits 
+and simply accepted the fact that money was being, or could be, generated. 
+While I appreciate Mr M was an inexperienced investor and may not have known about the 
+Financial Conduct Authority register (a warning that fraudsters were impersonating a 
+genuine firm existed prior to Mr M making the payments), but he seems to have entirely 
+relied on what was written on the website itself and not carried out any other checks.
+I think Mr M ought to have known that the prize he was offered was simply too good to be 
+true and ultimately he put faith in a website that hed been introduced to by way of an 
+unsolicited text message from an unknown number. 
+I also note that he frequently interacted with Monzo in the year proceeding the scam. Some 
+of those interactions relate to quite similar experiences. For example, a dispute raised on 8 
+July 2022 shows that Mr M was looking to purchase computer games but ended up making 
+a series of payments to a website in order to claim a prize that never materialised (a website 
+he seemingly subsequently couldnt locate). I would have expected that an experience like 
+this would have made him more cautious when dealing with unfamiliar websites and dubious 
+offers.Taking all of this into account, Ive decided Mr M didnt have a reasonable basis for believing 
+that the recipients of his payments were genuine and Monzo can fairly rely on this exception 
+under the CRM Code.
+I note that Mr M had a gambling block on his account, which would prevent him making 
+payments to UK licenced gambling companies. Given the nature of his previous disputes, I 
+asked Mr M about this, as well as whether there was anything that might have made him 
+more vulnerable to scams at the time. Mr M said that hed had problems with fraudulent 
+transactions before but had never had a gambling addiction. So, on balance, I dont think the 
+part of the CRM Code that deals with vulnerable customers is relevant here. 
+I also dont think there was any obligation on Monzo to provide a warning, or to intervene 
+before the payments left Mr Ms account. I cant see that Monzo would have considered 
+there to be any risk of an APP scam here. Although there were a significant number of 
+payments in a relatively short period of time, no single payment was larger than £50 and Mr 
+Ms account appears to have a history of making frequent low value card payments. So Im 
+not persuaded that the activity indicated Mr M was at risk of financial harm from fraud and 
+that Monzo made a mistake by allowing it to proceed without speaking to Mr M. 
+Finally, Ive thought about whether Monzo took sufficient steps to try and recover Mr Ms 
+money. When he first reported the matter to the bank, it wasnt clear that he was reporting 
+being the victim of a scam. He said that the recipient of his payments hadnt received them. 
+It wasnt until around 6pm on 26 August 2022 that he described having fallen victim to a 
+scam. Its evident that Monzo had reached out to the receiving firm by 12:24 on 27 August 
+2022. But I cant see that the receiving firm took steps to try and recover the funds until 29 
+August 2022, at which point it said that no funds remained. That means that while Monzo 
+might have acted a little bit more quickly, given that the receiving firm took two days to take 
+any action, I cant fairly conclude that the delay has led to any loss to Mr M.    
+My final decision
+For the reasons Ive explained, I do not uphold this complaint. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr M to accept or 
+reject my decision before 21 July 2023.
+ 
+Rich Drury
+Ombudsman

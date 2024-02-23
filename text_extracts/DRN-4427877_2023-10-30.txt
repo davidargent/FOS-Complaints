@@ -1,0 +1,105 @@
+DRN-4427877
+The complaint
+Mr S has complained that National Westminster Bank Plc (NatWest) wont refund 
+transactions he says he didnt make or otherwise authorise.
+What happened
+Both sides are most familiar with the case, so Ill summarise things in brief.
+In late 2021, Mr S opened a current account with NatWest. He deposited around £3,000, 
+which was then sent abroad in two international payments a few days later. Mr S continued 
+to use the account.
+In late 2022, Mr S reported the international payments as fraud. He said he hadnt noticed 
+them before because he often dealt in large amounts and could lose track.
+NatWest held Mr S liable for the payments in dispute, on the basis that theyd been made 
+using Mr Ss security credentials, and he checked his online banking afterwards many times 
+and wouldve seen the payments, but he didnt report them at the time.
+Our investigator looked into things independently and didnt uphold the complaint. Mr S 
+didnt agree, so the complaints been passed to me to decide.
+I sent Mr S and NatWest a provisional decision on 10 October 2023, to explain why I didnt 
+think the complaint should be upheld. In that decision, I said:
+Broadly speaking, NatWest can hold Mr S liable for the payments in dispute if the evidence 
+suggests that he authorised them. To clarify, no one here is required to prove what 
+happened beyond reasonable doubt  this is not a criminal case. Were just looking at whats 
+most likely.
+Because the payments were not reported until a little over a year after they happened, the 
+available evidence is more limited. After all, NatWest are required to dispose of data rather 
+than hold onto it for too long.
+As such, while I do appreciate why Mr S would like to see CCTV footage, such footage is 
+only kept for about a month as standard, so it wouldve been long gone by the time he 
+reported the matter. And even if CCTV footage were still available, it wouldve only shown 
+what the person making the transactions looked like. It would not have shown whether they 
+had Mr Ss permission or not, which is the key consideration.
+Similarly, I understand theres been some confusion about how the payments were made, 
+because the information is more limited after the time thats passed.  According to the online 
+banking audit, two international payments were attempted online, though its unclear whether 
+those attempts went through or whether the customer was referred to branch. According to 
+international payment processes, for this amount it would usually be done in branch. To be 
+on the safe side, I will consider both possibilities.
+For these payments to have been made in branch, the person making them would need 
+Mr Ss genuine card and the correct PIN. Mr Ss card didnt go missing  I can see he still 
+had it afterwards as he used it for genuine spending. And its not likely or plausible that a 
+thief would return Mr Ss card to him after stealing it  that would substantially increase their 
+chances of being caught while providing no benefit to themselves. Its also unclear how 
+someone couldve known Mr Ss PIN without his consent. As the account was new, Mr S had 
+never made any payments with his PIN before, so there was no opportunity to watch him 
+enter it before this. And his PIN was a randomly generated number, not a number that 
+mightve been easy to guess such as a birthday. So if the payments were made in branch, 
+then its not very likely or plausible that they were made without Mr Ss consent.
+For the payments to be completed online, they needed Mr Ss online banking security 
+details, and for his genuine card and the correct PIN to be used in a card reader. According 
+to the technical data at hand, the attempted international payments were authenticated 
+properly, and there is no sign of any unauthorised access to Mr Ss account. Its not clear 
+how someone couldve known Mr Ss security details without his consent. And again, there 
+doesnt seem to be a likely or plausible way that someone had access to Mr Ss card and 
+PIN without his consent. Further, I can see that the online attempts at international payments 
+were made from the same IP address which Mr S had used for his genuine activity.
+Indeed, I can see that Mr S accessed his online banking from his usual IP addresses both 
+between the international payments and afterwards. He saw his balance being spent, 
+downloaded more detailed statements, and had to make credits into his account in order to 
+fund his later spending. So Im reasonably satisfied that Mr S was aware of the disputed 
+payments at the time. But he didnt tell NatWest anything was wrong for a year. It is not likely 
+or plausible that Mr S would wait so long to report the disputed payments if they were made 
+without his consent. 
+Mr S argued that as he dealt in large sums, he wouldnt notice a few thousand pounds go 
+missing. But the disputed transactions paid out almost the entire balance of the account at 
+the time. Following the disputed spending, Mr S had to pay more money in in order to make 
+his subsequent payments. And according to Mr S, hed ringfenced the £3,000 or so for a 
+very important purpose. It is simply not credible that Mr S would not notice this money get 
+paid out if it did so without his consent  not least as he was actively checking his account.
+While this is a more minor point, I mightve expected a thief to try to take as much money as 
+possible, as quickly as possible, before they are discovered and the account is blocked. But 
+here, there were days between the first smaller payment and the second much larger 
+payment. The person using the account appears to have been confident that Mr S would not 
+report the matter in those days. Similarly, since Mr S didnt report the matter at the time, his 
+security details were not changed, so the alleged thief wouldve continued to have full 
+access to his account. Yet despite Mr S depositing very large sums in the following months, 
+there was no further disputed activity. Again, this makes it seem very unlikely indeed that the 
+account was being used by a thief or fraudster.I understand that Mr S is unhappy NatWest blocked his account. But it was reasonable for 
+them to do so after he told them a fraudster had full access to it. I appreciate he would have 
+liked NatWest to have blocked the disputed payments in 2021 too, but I cant see that they 
+had good reason to do so  at the time, it wouldve looked like the payments were authorised 
+by their genuine customer.
+I also understand Mr S is unhappy that NatWest recently closed his account. However, this 
+occurred after Mr S brought this case about disputed payments to our service, and is a 
+separate issue to the matter of the payments themselves. If he wishes to, Mr S can raise a 
+separate complaint with NatWest about the closure of his account.
+In summary, based on the evidence, there does not seem to be a likely or plausible way that 
+the disputed payments were made without Mr Ss consent. Whereas it looks like Mr S was 
+aware of them at the time and chose not to report them. So it seems fair for NatWest to 
+decline a refund in this case. This is a difficult message for me to give, and I know its a 
+difficult message for Mr S to receive. But given the evidence I have so far, and the balance 
+of probabilities, Im currently unable to reasonably reach any other conclusion.
+I said Id consider anything else anyone wanted to give me  so long as I received it before 
+24 October 2023. But Ive not received a reply from either side.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Neither side have sent me any new evidence or arguments before the deadline. So having 
+reconsidered the case, Ive come to the same conclusion as before, and for the same 
+reasons as set out in my provisional decision above.
+My final decision
+I dont uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr S to accept or 
+reject my decision before 27 November 2023.
+ 
+Adam Charles
+Ombudsman

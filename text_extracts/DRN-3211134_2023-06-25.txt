@@ -1,0 +1,424 @@
+DRN-3211134
+The complaint
+Miss K complains Trading 212 UK Limited (Trading 212) unfairly reduced and then 
+withdrew trading facilities available to her, causing her loss.
+Background and circumstances
+Miss K was trading the price of a particular companys shares (company A) using contracts 
+for difference (CFDs). When I refer to contracts here and below, I refer to those contracts. 
+On Monday 23 November 2020, when looking at the contracts with a view to placing a trade, 
+Miss K found there was a limit of 100 on the buy (or long) contracts she could open. This 
+restricted her ability to hedge an existing sell or short position of 600 contracts she says 
+she had opened on Wednesday of the week before. She says the limit was reduced to zero 
+later the same day. 
+The changes meant Miss K was unable to open the buy contracts she says she would have 
+opened that day to hedge her short position  so she lost more money when the price of the 
+shares linked to the contracts increased more. She says she routinely managed her risk by 
+opening buy contracts if her sell contracts were losing money. She says Trading 212s 
+hedging mode specifically encouraged or catered for this. She also says in sizing her 600 
+contracts short position the week earlier, she had been influenced by having been able to 
+open a long position of the same size a few days before that. She says she wouldnt have 
+opened this large a short position had she known that buy positions were to be restricted.
+Trading 212 agrees Miss K wasnt given prior notice of the changes to the availability of buy 
+contracts before she encountered the changes on Trading 212s system. Miss K says in the 
+absence of this or a clear explanation of what Trading 212 was doing or why, it wasnt clear 
+to her that the changes were deliberate and not an error or system error. She says as a 
+result she didnt close her sell contracts because: had I closed my positions purely 
+because at that specific moment I wasn't able to hedge my position, I would have realised 
+my losses. If, however, two minutes later the platform updated and allowed me to hedge my 
+positions, I would have realised those losses unnecessarily
+Miss K says information about the situation, as well as being absent from Trading 212s 
+platform, wasnt available through Trading 212's usual channels. She has said: I attempted 
+to contact Trading 212 via twitter as well as online chat on their platform for two days in an 
+attempt to find out the reason. She says the chat facility was removed later that day. She 
+says all she got in reply was an email later apologising for not giving a timely reply, which it 
+said was due to demand, and referring to apparently unrelated delays in order execution.  
+Miss K says Trading 212 put an updated FAQ online but not until at least a day after the 
+changes, and she says she found out about this not from Trading 212 but from other users. 
+The FAQ said: Maximum trading quantities for both long and short positions are subject to 
+immediate change, without prior notice. It can depend on multiple factors such as: 1. 
+Underlying market conditions  which include insufficient liquidity and unfavourable trading 
+conditions. 2. Control of exposure  Trading 212 manages its market risk to ensure it is not 
+over-exposed to movements in any one particular stock. We have a regulatory obligation to 
+minimize the risk of a single event causing us to fail.
+Miss K says: My decision to keep my positions opened until a response was received from 
+Trading 212 was based on the facts that Trading 212 had been experiencing technical 
+issues since 3rd November and in the past any planned changes were announced in 
+advance.
+Miss K suffered losses after opening her short position when the share price rose. On the 
+basis that Trading 212 didnt make clear it could make changes of the kind it made or didnt 
+have valid reasons to make them or shouldve given her notice before she opened her short 
+position, Miss K seeks redress for all losses she incurred - she has said she lost more than 
+£50,000. Alternatively, on the basis that Trading 212 ought to have given clearer information 
+about the changes at least shortly before making them or at the time it made them, Miss K 
+seeks partial redress because she says she would have reduced or closed her short position 
+as soon as she realised Trading 212 was, and for a time would be, deliberately restricting or 
+withdrawing the facility to buy the long positions. She has said she could have restricted her 
+losses to around £20,000 if she had been properly informed at the start of the day on which 
+the changes were introduced, for example. 
+Trading 212s complaint response said the changes were due to exceptional market 
+conditions that we are experiencing now. It didnt specify what those conditions were, but it 
+did say: In some circumstances it becomes extremely difficult to safely hedge the risk due to 
+the sheer volumes of exposure. So without specifying what the particular circumstances 
+were, it hinted at changes to do with volumes of exposure and unusual market conditions.
+Trading 212 said its client agreement permitted it to act as it had due to a term that says: 
+We shall have the right to modify at our sole discretion the Margin requirements, Interest 
+Rate Swaps, commissions, minimum and maximum trading amounts, minimum and 
+maximum number of units of each Financial Instrument and alike. Miss K points out this 
+doesnt say these changes can be made without prior notice, unlike the updated FAQ.
+Trading 212 said it wasnt liable for any losses caused to Miss K by it taking these steps 
+because this is a regulatory requirement and its terms exempt it from liability for losses 
+arising from our compliance with any statutory or regulatory requirements. 
+Trading 212 pointed out that Miss K, being unable to open buy positions, could have closed 
+her sell positions instead with the same economic effect  and, due to the interest saving, 
+wouldve been financially better off doing this compared to holding a market neutral position. 
+Trading 212 has also said it couldnt have notified Miss K a week in advance because the 
+market doesnt give us prior notification of future market movements and that it is unable 
+therefore to predict the risk that any subsequent market movements would present to us in 
+advance, as until they happen, we do not know what impact they will have. As far as we are 
+aware, no broker is able to predict market movements in advance.
+Trading 212s terms allow it to impose a close-only limitation on accounts but it maintains 
+the changes here werent covered by those terms but by the terms Ive noted above.
+Miss K says Trading 212 didnt act in accordance with Financial Conduct Authority (FCA) 
+handbook provisions, including Principles 1 to 3 and 6 and 7. The parties will be familiar with 
+these, but for reference they provide as follows: 
+1. A firm must conduct its business with integrity.
+2. A firm must conduct its business with due skill, care and diligence.3. A firm must take reasonable care to organise and control its affairs responsibly 
+and effectively, with adequate risk management systems.
+6. A firm must pay due regard to the interests of its customers and treat them fairly.
+7. A firm must pay due regard to the information needs of its clients and 
+communicate information to them in a way which is clear, fair and not misleading. 
+Ive outlined below the main ways in which Miss K says Trading 212 fell short of these and 
+other obligations it had. Ive not included every point Miss K has made, but Ive considered 
+every point and I focus here on those I consider to be most relevant. 
+Firstly Miss K says Trading 212 ought to have given her timely prior notice of the changes to 
+the availability of the contracts. Her reasons for saying this include:
+Trading 212 had in the past notified users in advance when trading quantities were likely 
+to be restricted for a time, so it shouldve given notice here too. For example, before the 
+United States election it told users trading quantities might change without prior notice  
+and she took smaller positions and hedged faster in response. Also Trading 212 told 
+users of changes being applied to crypto derivatives, and explained these, the day 
+before the changes she complains of here.
+The changes werent a response to unanticipated market conditions occurring at the 
+time, so advance notice could and should have been given. The changes were 
+implemented at market open on Monday, so there had been no trading on the market 
+that day and the market was closed at the weekend. Also there was no drastic change 
+over the weekend or in the previous week in the underlying markets. A price difference of 
+2.16% at market open from the previous market close was normal at that time.
+Trading 212 wasnt directly exposed to market price risk in 2020. Instead it matched its 
+client positions with positions at an associate company within the same group, according 
+to its risk disclosures and the group annual reports. As part of the same group, sharing 
+directors and with access to intrusive analysis of its associate, Trading 212 was or ought 
+to have been fully aware of its associates situation and ability to provide the hedging (or 
+back-to-back) arrangement for Trading 212s trades. By knowing this, Trading 212 knew 
+or ought to have known when or whether it might restrict positions and should have been 
+able to clearly communicate this to its customers in advance. In not doing so, 
+Trading 212 acted unfairly towards its customers - contrary to Principle 6.
+Trading 212s regulatory obligations, including those arising from the Principles set out in 
+the FCAs handbook, in their own right and in light of each point above, mean 
+Trading 212 shouldve given Miss K notice of the changes. For example, Trading 212 
+was required to pay due regard to the information needs of customers and communicate 
+information in a clear, fair and not misleading manner, in line with Principle 7.Secondly, for broadly the same reasons, Miss K says Trading 212 shouldve also given her 
+clear information about the changes once they had been made. She points out a recent 
+version of the terms that promises: we will exercise our best efforts to inform you as timely 
+as possible by email or through our Trading Platform. She says if shed had, in a timely 
+manner, information that was clear and not misleading and in line with the FCA rules and the 
+documentation, she would have closed her positions, taken the loss and moved on. She 
+says instead in the meantime she reasonably believed - based on her experience of past 
+changes having been announced and of technical problems being common, and as there 
+were no notable market moves that day - that the changes were an error, for example a 
+mistaken extension of the crypto asset restriction being applied at the time. 
+Miss K says if she had known the changes were intentional and would apply for an unknown 
+period (or a period that could be months) and she had been given an explanation as to why 
+they had been imposed, I would have closed or reduced my positions. For example she 
+says if Trading 212 had explained the removal of restrictions depended on its associates 
+ability to stabilise its exposure  I would have started reducing my positions and eventually 
+closed them depending on how the markets would have moved and whether I would have 
+found the reasons for the changes compliant.
+In contrast Miss K says that if she had been told the change was an error that would be 
+resolved in a few hours, she wouldve kept her short positions open - which is what she did - 
+on the basis that she would hedge when the ability to hedge was restored. 
+Thirdly, Miss K says Trading 212 didnt have a legitimate reason for having to make the 
+changes it made. She was aware the terms allowed Trading 212 to change the quantities of 
+contracts she could trade, but she says if shed thought it could do this without good reason 
+(or without appropriate communication), she wouldnt have used its service. In relation to this 
+she makes a number of points, including:
+Trading 212s client positions were matched with mirror positions with its associate which 
+took on Trading 212s market price risk. So Trading 212 had no exposure to market price 
+movements of its customers positions and so couldnt have been exceeding any limit it 
+had for this exposure and so had no need to restrict trades to protect itself from such 
+market movements. 
+If excessive exposure rested with Trading 212s associate, the limits should have been 
+imposed on its own customers and not on Trading 212s customers. Instead they were 
+implemented across a shared platform, impacting Trading 212 inadvertently. So Miss K 
+hadnt been impacted by Trading 212s own risk exposure but its associates exposure. 
+The limits imposed were imposed in the interests of the associate company and not 
+Trading 212 or its customers. So there was a conflict of interest. There may have been 
+an incentive to generate losses for Trading 212 customers so they would close positions.
+Trading 212s associate could risk manage by implementing limits or hedging externally. 
+The 2020 group annual report says of the associates management of its CFD risk: Daily 
+retail client exposure limits have been put in place and are monitored regularly 
+throughout the day. The group monitors the relevant markets/asset classes for signs of 
+volatility and unusual daily trading volumes using various market data sources available 
+and can amend these limits accordingly, or indeed choose to follow a hedging strategy 
+by placing hedging trades with external counterparties. The changes Trading 212 made 
+were the result of its associate seemingly failing to manage its risk and failing to meet its 
+obligation to provide the back-to-back facility for Trading 212s trades. This points to 
+Trading 212 failing to comply with FCA principles 2, 3 and 6. Trading 212 should have 
+managed its own risk better and hedged with third parties. If Trading 212s associates situation wasnt a surprise, Trading 212 failed to reduce 
+harm to its customers and acted contrary to Principle 6. If its associates position was a 
+surprise, Trading 212 failed to comply with FCA Principles 1 to 3. Also Trading 212 didnt 
+highlight or explain that she could be exposed to these risks relating to its associate. 
+No market event had taken place anyway. Other brokers didnt implement limitations like 
+Trading 212 and actually advertised that they werent doing so and were able to offer 
+trading in the contracts to customers frustrated with limits elsewhere. So there was no 
+single unexpected event that happened on 23 November or immediately before, that 
+would have resulted in Trading 212  needing to take this action There was no issue 
+with liquidity in the underlying markets, and this change was implemented across tens of 
+instruments, so it's not even related to positive news within one sector. 
+Trading 212s terms gave it discretion to change the number of contracts available, but it 
+was reasonable for her to expect Trading 212 not to do this without a justifiable reason if 
+it would negatively affect customers. A recent version of the term includes something like 
+this, specifying a reasonable discretion and that its use is to be based on some 
+considerations including (but not limited to) market conditions. 
+Trading 212s business benefited from the volatile market conditions, so it doesnt make 
+sense that it wished to restrict business in those circumstances.
+The platforms hedging mode was a reason she signed up for it and the withdrawal of 
+the ability to open long contracts removed her ability to hedge her short position and 
+fundamentally changed the service that was being provided to her. 
+Trading 212s term allowing it to change trading quantities didnt say anything about 
+notification or the conditions under which it would apply. This means the term lacked 
+enough detail to be binding or else its meaning was for her to interpret and her 
+interpretation is that notification would be provided because other clauses specified 
+Trading 212 did not have to give notification but this term did not specify that. 
+It wasnt clear that a Close-only Limitation - defined as a limitation, where Your ability 
+to open new positions or place new Buy orders is restricted or disabled - wasnt being 
+imposed on her account. Trading 212 has referred to Close Only Mode when restricting 
+the ability of all customers to open long positions in contracts linked to all shares, so it 
+cant be argued to only apply to a situation where a particular account is restricted for 
+reasons specific to that account. The situations in which the terms allow for a close-only 
+limitation didnt apply in her case  so the changes werent justified.
+Our investigator didnt think Miss Ks complaint about the changes Trading 212 had made 
+should be upheld. But he suggested an award for distress and inconvenience might be 
+appropriate given how hard it was for Miss K to get a reply from Trading 212 to her queries. 
+Trading 212 didnt agree because it didnt think it had done anything wrong. It said, in brief, 
+the changes were due to unprecedented market activity, imposed correctly in line with 
+terms presented to Miss K and werent directed at Miss K in isolation but affected all clients. 
+Miss K didnt agree and still thought Trading 212 should compensate her for her losses. As 
+the complaint couldnt be resolved informally, it was passed to me for a final decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.Having done so, like our investigator Ive concluded Trading 212 wasnt at fault for making 
+the changes it made or for doing so without notice. Also I dont think Trading 212 was at fault 
+for not giving Miss K more information than it did initially. But I think Trading 212 should have 
+done more to respond to Miss Ks requests for clarification sooner and should compensate 
+her for distress and inconvenience caused because of this. Ill explain my reasons briefly.
+From what Trading 212 has said, I understand the changes were introduced due to difficulty 
+Trading 212 would otherwise have had in hedging its exposure to the price movements of 
+the contracts, due to the sheer amount of exposure it would otherwise have had to hedge. 
+Miss K says market price moves in the shares linked to the contracts werent unusual or 
+remarkable at the time  and Ive seen nothing to suggest that they were. But this doesnt 
+mean Trading 212 cant have had high demand from its customers for contracts of the kind 
+Miss K wanted to open such that demand had reached a level at which it exceeded or might 
+exceed what Trading 212 could provide with the arrangements it had in place at the time. 
+In saying this I note that investing in the contracts allowed leveraged exposure to share price 
+movements. This means a given deposit could generate more market price risk than using 
+that deposit to buy the shares themselves. So even if the underlying market for the shares 
+themselves was liquid and shares were available, it doesnt follow that Trading 212 ought to 
+have been able to hedge in the market all exposure that might arise from the contracts if it 
+continued to offer them. In saying this I make no comment or finding on how exposure 
+generated by Trading 212s contracts was actually hedged in practice. I simply observe that 
+a liquid market in the underlying shares isnt evidence that Trading 212 was negligent in not 
+being able to continue to offer contracts in the face of high demand or at fault for deciding to 
+manage its exposures instead by restricting the contracts available.
+Miss K makes the point that Trading 212 wasnt directly exposed to market price movements 
+in any case, due to the arrangements it had to hedge that exposure with its associate. But 
+this doesnt mean there could be no limit to the exposure Trading 212 could take on. It would 
+mean the limit would depend on the capacity its associate was able to provide  either in its 
+own right or by virtue of any arrangements it had to hedge exposure externally.
+So, having considered all Miss K has said and sent us, Ive no reason to doubt Trading 212s 
+suggestion that its reason for reducing and then ceasing to offer the contracts Miss K wanted 
+was that it didnt have the capacity to continue to offer the contracts. This would seem to me 
+to be a legitimate reason for deciding not to continue to offer the contracts and to exercise its 
+discretion, provided for in its terms, to reduce to 100 and then to zero the maximum quantity 
+it was offering. I note here that the changes didnt affect existing contracts already open, but 
+only customers wanting to open more contracts. Id add that if in contrast Trading 212 had 
+believed it could still offer the contracts to its customers, I dont see why it wouldn't have 
+done so - given that offering contracts like this was its business so not offering them reduced 
+the business it did. Also Ive seen nothing to make me think Trading 212 would benefit from 
+its customers losing money or acted unfairly to induce them to close positions.
+If the company Trading 212 was using to hedge its market price risk was an associate, and 
+Trading 212 stopped offering the contracts because its associate had reached the limit of the 
+risk it could take from Trading 212, I dont agree that this means Trading 212 is at fault for its 
+associate reaching capacity (including due to not increasing its capacity externally) or is at 
+fault for not finding more capacity elsewhere itself. If Trading 212 reached the capacity of its 
+existing arrangements, it could try to manage this by increasing capacity but it wasnt obliged 
+to do so given that it also had the option (provided for in its terms) to manage this by capping 
+the number of contracts it was offering instead. Trading 212 never promised to continue to 
+offer a particular number or contracts - its terms specifically provided otherwise. Also I 
+accept there could be practical obstacles to increasing capacity, so the fact capacity wasnt 
+increased (directly or indirectly) doesnt in itself point to negligence or fault by Trading 212.Miss K was aware trading quantities might sometimes be restricted and had recently been 
+alerted to that possibility in connection with a US election. I note what Miss K has said about 
+Trading 212s hedging mode  which kept trades in an instrument separate rather than 
+combining them and showing an average price. But I dont think this amounted to an 
+undertaking that Trading 212 would ensure it always made available to her enough units of 
+any given instrument to allow her to hedge any open positions she had. Rather, as Ive said, 
+the terms made clear there was a general power to vary and so restrict the maximum size of 
+positions in any instrument. Ive noted what Miss K has said about the terms relating to a 
+Close-only limitation and the use of the phrase Close Only Mode. But this doesnt change 
+my view that Trading 212 had a discretion within its terms to make the changes it made, and 
+this wasnt and didnt depend upon the scope it also had to impose a close-only limitation on 
+individual accounts in certain circumstances.
+The term giving Trading 212 discretion to modify trading quantities, didnt say Trading 212 
+would give advance notice of such changes. It didnt say anything about notice, and I dont 
+agree with Miss K that this implies there would be advance notice. Also I dont agree that to 
+be valid the term needed to refer to notice or outline in more detail the circumstances in 
+which it might be used. In my view the term is clear in making provision for changes to be 
+made of the kind that were made, including without notice. I note the announcement about 
+the US elections noted an increased risk of changes to trading quantities, and gave notice of 
+that risk, but it didnt give notice of any specific or particular restriction  for example of any 
+particular contract or of the amount it would be limited to or of the dates on which those limits 
+would start or continue to apply. 
+Overall I dont find the terms themselves implied that advance notice of some kind would be 
+given. But I do agree Trading 212 had a duty to act fairly and pay due regard to Miss Ks 
+interests  in accordance with the regulatory principles to which Miss K has referred. So Ive 
+considered whether Trading 212 nevertheless ought to have given Miss K notice.
+Trading 212 has said market conditions drove the changes and couldnt be anticipated  so 
+advance notice was impossible. It has also said changes like these were sometimes made 
+many times a day and the situation was dynamic and didnt give it time to warn consumers in 
+advance. From what Ive seen and what Trading 212 has said, at root the changes were due 
+to limited capacity and related to demand. Even if Trading 212 had no market price risk 
+exposure, market price movements could affect demand. A positive move in the value of buy 
+contracts could lead to more demand for those contracts for example or a fall in the value of 
+the contracts might reduce demand for them. Based on all Ive seen, Im persuaded the 
+situation was likely a dynamic one, like Trading 212 says. Changeable and unpredictable 
+demand could affect whether its capacity to offer contracts was sufficient for that demand.
+Miss K says Trading 212 ought to have had insight into its associates ability to accept 
+matching trades and supply capacity, so Trading 212 knew or shouldve known in advance 
+the capacity it had or chose to have as a group. But even if that is right as far as supply is 
+concerned, Trading 212 couldnt know how much demand there would be in advance. 
+Miss K says the changes on Monday, if in response to market conditions, were in response 
+to conditions at close of trading the previous Friday as the market hadnt opened since then. 
+Even if this were right, it doesnt make me think Trading 212 had so much time to decide and 
+implement the changes that it was unreasonable or unfair for it not to have done this sooner 
+or given earlier notice. In any case I dont think it is right to say that there couldnt have been 
+developments outside of market open hours that were relevant to Trading 212s ability to 
+offer the contracts. In short, the timing of the changes doesnt in itself or for the reasons 
+Miss K has given, persuade me that Trading 212 acted unfairly or unreasonably in not 
+making the changes sooner or not giving more notice of them.Overall I dont think Trading 212s obligation to provide clear information and meet Miss Ks 
+information needs or to treat her fairly and in accordance with the Principles, required 
+Trading 212 to give advance notice of the changes. The possibility of changes in general 
+was outlined in the terms and Miss K was aware of it. Also I dont overlook that advance 
+notice of scarce capacity could affect demand and I accept there were practicalities for 
+Trading 212 to handle and it was entitled to reasonable time for those. 
+Turning to what Miss K says about clear information not being provided about the changes, 
+she refers to instances where advance announcements were made explaining that changes 
+were being made, such as with crypto derivatives, or had more chance of being made, such 
+as in the period during the US election. But those were events occurring on prescheduled 
+dates and of which Trading 212 had known for some time before it made its announcements. 
+The US election date was fixed and known in advance and the crypto regulatory changes 
+had been announced some weeks earlier after a longer period of consultation. The changes 
+Miss K complains of were, in contrast and as Ive found above, a response to a developing 
+and dynamic situation. With that in mind, I dont think Trading 212 was at fault for not 
+announcing those changes in the way it did the other changes to which Miss K refers. 
+Miss K has said exposure to risks arising from the firms associates not being able to supply 
+capacity to allow it to offer contracts, wasnt explained in Trading 212s risk disclosures and 
+instead Trading 212 provided reassurances about their management of this. She says she 
+was misled or not given proper information about this and wouldnt have used Trading 212s 
+service otherwise. But in my view the terms Miss K signed up to had flagged that trading 
+quantities, margins and other aspects of Trading 212s trading offering might be varied from 
+time to time  and the changes in this case were made in accordance with those terms. 
+Looking at what Miss K did know, she was aware when she first logged-in that there was a 
+limit on how many buy contracts she could open, and she was aware this had been 
+restricted further by the time the market opened. She has explained she sent two messages 
+to Trading 212 on the morning of the changes asking for the reason for the restrictions. The 
+messages she sent asked why the contracts had been restricted so much and noted limits 
+for two other contract types as well as for a limit of 100 for company A. She said this wasnt 
+much to trade with and noted a crypto derivative restriction had been explained and invited 
+Trading 212 to explain the company A restrictions. A message later during market open from 
+Miss K said: My question regarding the limitation of longs on CFDs has not been answered. 
+Can you please respond why long position have been restricted with me only being able to 
+purchase 25 for [company A] This is not to protect customers during volatility, otherwise 
+you wouldnt have restricted longs in an uptrend and left shorts unrestricted
+Miss K says she didnt know the changes were deliberate and there ought to have been 
+information to explain why they had been made. She says knowing the changes were 
+deliberate wouldve been significant for her as it wouldve had a bearing on the question of 
+how long the changes might last  as Ive noted above: had I closed my positions purely 
+because at that specific moment I wasn't able to hedge my position, I would have realised 
+my losses. If, however, two minutes later the platform updated and allowed me to hedge my 
+positions, I would have realised those losses unnecessarily 
+In essence Miss K says she wouldnt have continued to trade if shed known she would be 
+trading for a sustained period without being able buy long contracts to hedge in the way she 
+usually would when trading  and Miss K believes Trading 212 had and should have given 
+her information about the changes from which she couldve established that the contracts 
+wouldnt be freely available again for some time  with the result that she wouldve closed 
+her positions and accepted the losses accrued at that point, rather than trying to recoup 
+them or go into profit by continuing to trade.Ive thought about this carefully. But Im not persuaded Miss K continued to trade believing 
+the changes were likely to be a very short-lived error. In terms of the possibility of an error, 
+Miss K didnt find out about the limits by having an order fail or something else go wrong on 
+the platform that wouldve pointed to an error. The messages she has drawn to my attention 
+dont refer to a presumed error but ask why the limit has been put in place and why it is so 
+low. Miss K disagrees with my interpretation of her messages, but I remain of this view. 
+Also, in terms of believing it would be short-lived, Miss K continued with her positions not 
+only for a moment or a few minutes after seeing the new limits - but for the rest of that day 
+and into the evening of the following day at which point she received a margin call due to 
+losses accrued by her at that stage. She made her complaint the day after that. What Ive 
+seen doesnt persuade me that Miss K believed the changes would be imminently reversed 
+and continued to trade only because of this belief. If that were so, she would surely have 
+closed her positions sooner in my view.
+So if Trading 212 had known it would be imposing the limits for more than a few minutes, or 
+for a few days, Im not persuaded that telling Miss K this wouldve made a difference to the 
+outcome of her trading in the way she suggests and believes. Also Im not persuaded Miss K 
+wouldve traded differently or not traded at all if Trading 212 had told her the changes were 
+deliberate  in my view it was apparent the changes were deliberate even if the reasons for it 
+werent apparent.
+I accept Miss K didnt know why the limits had been imposed and she wasnt expecting limits 
+like this to be imposed. It is plain she was reluctant to close her positions and take losses  
+and that is understandable. Still, she knew if she continued to trade she wouldnt for the time 
+being be able to balance losses on her short position by opening new buy contracts like she 
+usually could. If she didnt wish to trade in those circumstances, she knew she could instead 
+close her positions and take her existing losses. She chose to continue to trade and to do so 
+with the future availability of the contracts, in terms of time and number, being uncertain. 
+Miss K has said that if she had been told in general terms that the changes were made to 
+manage Trading 212s liabilities  in the way in which Trading 212 responded in a tweet she 
+saw a day later about a different situation - she wouldve closed her positions. But that tweet 
+said merely that quantities may change when market conditions permit it and so didnt give 
+any indication of how long the changes might last. Such information like that left the future 
+situation open and uncertain and Miss K chose to continue to trade with that uncertainty. So 
+Im not persuaded that had Trading 212 given information like this it wouldve altered things.
+In light of all Ive already said above, Im not persuaded it would be fair and reasonable to 
+require Trading 212 to compensate Miss K for losses she made when she decided to trade 
+knowing she wouldnt be able to cover her positions. Miss Ks increased trading losses were 
+in my view, in the circumstances here, caused by her decision to carry on trading rather than 
+by, for example, Miss K seeking to mitigate a loss caused to her by an information failing on 
+the part of Trading 212.
+In saying this I take into account also that in the dynamic situation that gave rise to the 
+changes, it isnt obvious to me that Trading 212 was or ought to have been in a position to 
+give Miss K an indication of how long the changes would last or when they might be lifted. 
+Insofar as that would depend on future demand for different positions, Trading 212 wouldnt 
+have been in a position to know that. But in any case, Im not persuaded an information 
+failing was at the root of the increased losses Miss K suffered in the period when she 
+continued to trade, or held her positions, after becoming aware of the changes.Miss K says more information to clarify the situation did appear from Trading 212 in the days 
+that followed. I note that before then Miss K tried to find out more but without success. Weve 
+asked Trading 212 about the difficulty Miss K says she had getting a response from it and it 
+hasnt said anything in reply to contradict what Miss K had said about trying to contact it on 
+its usual channels and not receiving a timely reply. I have found Trading 212 was entitled to 
+make the changes it made, but this doesnt mean it didnt need to respond to Miss K in a 
+timely manner. It has said little to suggest that its communication with Miss K was timely or 
+to suggest that a failure to provide reasonable and timely replies wouldnt have likely caused 
+her inconvenience and distress at the time.
+With all this in mind, I find Trading 212 didnt do enough to reply to Miss K and to treat her 
+fairly in that regard and caused distress and inconvenience as a result.
+So I uphold Miss Ks complaint on that basis and to that extent.
+I appreciate that my outcome will disappoint Miss K. Im grateful to her for her patience and 
+assistance throughout our investigation. Also I thank Trading 212 for all its responses.
+Putting things right
+Trading 212 UK Limited should pay Miss K £200 to compensate her for inconvenience and 
+distress caused to her by the failings I have outlined above. 
+My final decision
+I uphold Miss Ks complaint. Trading 212 UK Limited should put things right by doing what 
+Ive said above.
+Under the rules of the Financial Ombudsman Service, Im required to ask Miss K to accept 
+or reject my decision before 24 July 2023.
+ 
+Richard Sheridan
+Ombudsman

@@ -1,0 +1,84 @@
+DRN-3517179
+The complaint
+Mr P complains Hargreaves Lansdown Asset Management Limited (trading as Hargreaves 
+Lansdown (HL)) made errors in selling shares he held in an exchange traded fund that 
+resulted in him receiving below market value for his investment. 
+What happened
+Mr P holds a HL dealing account and uses its service on an execution only basis. In March 
+2021, Mr P sold shares he held in his account. His instruction was actioned as part of a stop 
+loss order meaning HL were instructed to sell if the share price fell below the limit set by Mr 
+P. 
+HL sold the stock as the price spread had reached the stop loss value. The transaction was 
+executed, and Mr P received the funds into his account. When Mr P saw the proceeds hed 
+received, he contacted HL as believed there had been an error in the way the stop loss was 
+executed. Based on his understanding of the price, he didnt believe the stop loss had been 
+hit  and his investment had been sold below value. 
+HL responded but didnt think it had done anything wrong. It said that having reviewed the 
+transaction it didnt find that any errors had been made and it completed as expected. It 
+explained that some stocks show abnormally wide spreads, which can only last a few 
+seconds but at that point any effected orders could be executed. It said this risk is known as 
+gapping and this is what happen with Mr Ps order. 
+As Mr P wasnt happy with the response he received, he referred a complaint to our service 
+for an independent review. One of our investigators considered the complaint. He didnt 
+uphold it. In summary he said:
+- Mr P activated the stop loss limit function on his shares  and he was satisfied from 
+the information provided that the price had dropped below the limit Mr P set. He said 
+this was an automated process and hadnt found that HL had done anything wrong. 
+- The value of the shares, at the time they were sold, fluctuated considerably, but this 
+was down to the market and not down to anything HL had done  and he was 
+satisfied this was covered in the HLs terms and conditions.
+- HLs terms and conditions also cover the risks of gapping when selling shares due 
+to the stop loss limit  and this meant that if gapping occurs HL will sell at the lower 
+price, even if fluctuation occurs with the share value.
+Mr P didnt accept the investigators findings and asked for an ombudsman to reach a final 
+decision on his complaint. He didnt think the sale amount should have gone through at such 
+a low price through the stock market.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+I understand Mr Ps disappointment at the level his stop loss was executed at. But in order to 
+uphold his complaint, I must be persuaded that an error by HL caused his stock to be sold 
+incorrectly. So, Ive considered the circumstances of this trade to decide whether HL has 
+acted in a fair and reasonable manner  and this includes the extent of its responsibility 
+when executing a client order.
+Mr P gave a specific instruction - a stop loss on this particular stock. This meant HL was 
+required to execute his trade in line with its terms and best execution policy and the relevant 
+rules in Conduct of Business Rules (COBS  and specifically, COBS 11). This required HL to 
+execute Mr Ps instruction and obtain for him the best available price at that time, taking into 
+account execution factors. A stop-loss order converts into a market order once the stop 
+price is triggered  meaning it will execute the contract at the market price, not the stop-loss 
+price. This means the more volatile a security is, the increased risk of the execution price 
+being below the stop-loss price.
+HL has provided evidence of the pricing data it obtained from the pricing providers it used 
+when executing this trade for Mr P. Im persuaded that this evidence shows that Mr Ps stop 
+loss was triggered, and executed, at the best available market price. I acknowledge that very 
+shortly after the price increased again to a level above his stop loss. But this doesnt mean 
+that HL has done some wrong when fulfilling the instruction. It is unfortunate this happened - 
+but this is the risk this type of trading, even for a very short amount of time the price fell 
+below the stop-loss. Its particularly relevant risk when placing automatic orders, such as 
+stop losses, because it removes the traders ability to assess the price and decide whether 
+to sell or hang on to the investment with the expectation that the price will recover. When HL 
+received a price, which was below the level of the stop loss Mr P had set, it had an obligation 
+to execute it as soon as possible. Having done this, HL had discharged its obligations 
+towards Mr P, it had no requirement to do anything else.
+I acknowledge that the volatility of the share price and the wide bid/offer spread meant that 
+Mr P received significantly less that he was expecting when he made his instruction. But the 
+nature of this type of instrument means it is susceptible to volatile pricing  compared to say 
+trading FTSE100 shares. In providing a stop loss instruction, Mr P exposed himself to this 
+risk. As Ive already explained, HL executed Mr Ps trade in line with its terms and its 
+obligation to provide him with best execution. The fact that the price improved (and the 
+spread shortened) shortly afterwards wasnt something HL could anticipate or do anything 
+about. 
+I understand why Mr P thinks that the losses he claims cant be put down to an automated 
+process and there must have been errors that led to the sale of his shares. But I dont think 
+HL ought to have investigated or looked into the price volatility, as it was entitled to rely on 
+the pricing providers it used to inform it of trading prices. In terms of this specific order, and 
+the price it was executed at, Im satisfied HL have treated Mr P fairly and did not cause him 
+the loss he is claiming.
+My final decision
+My final decision is that I dont uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr P to accept or 
+reject my decision before 27 July 2022.
+ 
+Daniel Little
+Ombudsman

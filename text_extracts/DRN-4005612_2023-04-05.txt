@@ -1,0 +1,76 @@
+DRN-4005612
+The complaint
+Miss T complains that Santander UK Plc wont refund a payment she didnt make from her 
+account.
+What happened
+Miss T explains that after a night out with friends she became separated from them and 
+having been drinking was feeling physically and mentally unwell. A man who approached her 
+said he would help her find her friends and get a taxi. He took her mobile and put it up 
+against her face, she says accessing facial recognition. She got her phone back and later 
+found that a payment had been made for £3,000 which she had no knowledge of. She thinks 
+that this was made using facial recognition and wants this to be refunded. Shes reported 
+what happened to the police.
+Santander said it wouldnt be refunding the payment. The app was used to log in to Miss Ts 
+account using facial recognition. But the payment request was authorised by Miss Ts online 
+banking security number being entered. It didnt accept that the payment was made without 
+her knowledge as there was no point of compromise of that number.
+Our investigator didnt recommend that the complaint be upheld. The device Miss T had 
+registered for mobile banking was used to make this payment. A security number would be 
+required to set up this new payee. There was no evidence of how a third party could have 
+discovered that. She reviewed videos sent in by Miss T of her partner sending money to a 
+payee from a different Santander account using the app on a phone. Miss T said that this 
+showed that facial recognition could be used instead of the security number. But our 
+investigator noted the information from Santander was that this was a payment to an existing 
+payee and not to a new one and so didnt assist here. 
+Miss T didnt agree and wanted her complaint to be reviewed. She said that using facial 
+recognition or a one-time passcode to the same device didnt represent strong customer 
+authentication. Miss T maintained that all that was required to set up a transfer to a new 
+account was facial recognition. And it was up to Santander to ensure that a payment was 
+authorised. Miss T maintained that this payment wasnt and should be refunded.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+I need to take into account the Payment Services Regulations 2017 in considering this 
+complaint. These state that a payment can only be authorised if it was consented to. So, its 
+not enough for it to be authenticated, say with security information. And if it wasnt 
+authorised Miss T wouldnt generally be responsible for it.
+So, I will be thinking about the following areas in looking at this complaint:
+- How was this payment made?
+- Did Miss T authorise the payment on the account?
+Im going to start by considering the systems audit information provided by Santander. Im 
+satisfied that the relevant log in to Miss Ts account using the mobile app was just after 
+01:00 on 24 September 2022. And that this log in was made using facial recognition as I 
+can see the specific code on the reports. The payment here was confirmed using strong 
+customer authentication at just before 01:06. Again, from the reports I can see a code 
+confirming that this required the security number on the account. For completeness Miss T 
+has shown she didnt receive any one-time passcode to her mobile. And the reports from 
+Santander show that no text message was then sent to her at this time. I note from the 
+history of this case that the specific part of the reports relevant here was highlighted by 
+Santander after Miss T had sent in the video recordings our investigator has referred to. I 
+dont need to make any findings about those given this audit information. But in any event I 
+have seen the information that the payment involved in the videos related to an existing 
+beneficiary and it seems did require a second scan of the account holders face when this 
+payment was authorised. 
+Im satisfied that the disputed payment from Miss Ts account was authenticated. I need to 
+consider whether Miss T consented to it. Ive read what shes said about what happened 
+and also listened to a recording of a call she made to Santander on 25 September 2022 to 
+report what had happened. She was asked if shed provided any security details and said 
+that she hadnt. She thinks that the phone was put up to her face and that this is how the 
+fraudster sent money from her account. 
+The systems information shows there was a gap of about four minutes after the log in 
+before any payment details were entered. There was more than the £3,000 taken available 
+in the account. While I appreciate what Miss T says about how she was affected at the time, 
+shes never indicated that shed given her security number to anyone and that would be a 
+distinct action from a phone being put up to her face. 
+I appreciate shes adamant her security number wasnt and couldnt have been used. But as 
+Ive said thats what the systems information shows here. So, having taken into account all 
+the information I dont have a basis to find it most likely that a third party was able to make 
+this payment without her authorisation. And Im afraid I think its reasonable for Santander to 
+hold her responsible for the payment. I know how disappointed Miss T will be by my 
+assessment given whats at stake for her.
+My final decision
+My decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Miss T to accept or 
+reject my decision before 5 May 2023.
+ Michael Crewe
+Ombudsman

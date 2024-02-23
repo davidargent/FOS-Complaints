@@ -1,0 +1,106 @@
+DRN-2594277
+The complaint
+Mr G complained because Barclays Bank UK PLC refused to refund him for a transaction 
+which he said he didnt authorise.
+What happened
+At 2.20 am on 18 February 2020, a £210 payment was made from Mr Gs account. 
+Mr G said he was woken up by a text asking whether the transaction was genuine, and he 
+pressed No. Mr G said he contacted Barclays straightaway via Chat, and was told to ring 
+the fraud department in the morning, which he did.
+Barclays didnt agree that the transaction had been carried out by someone else. It said that:
+-    it hadnt sent a text about the transaction, and it had no records of Mr G contacting 
+Barclays via Chat overnight on 18 February. It agreed Mr G rang in the morning;
+- the payment had been authorised using Mr Gs mobile app;
+-     security had been passed using Mr Gs Touch ID (in other words, by a fingerprint or 
+face recognition).
+-    An IP address is the unique numerical label that identifies a device on the internet, 
+and its location. The IP address for the disputed transaction was the same one that Mr G 
+had used on previous occasions, and continued to use after the disputed transaction.
+So Barclays held Mr G liable for the transaction.
+Mr G complained to this service. He said the disputed payment had been sent to someone 
+hed never heard of, with a description saying cleaning, and he didnt have a cleaner. He 
+said the fraud had happened when he was asleep and hed disputed it at once. Mr G said he 
+didnt see how it was possible that his phone had been used.
+Mr G said he lives alone, and his flat was locked. He accesses his phone using his 
+fingerprint and facial recognition. He said his card was in his wallet, which was in his 
+bedroom where he was sleeping.
+Our investigator didnt uphold Mr Gs complaint. She looked at the log-ins on and around 18 
+February. Among several log-ins, there had been one just after 1 am that morning. Mr Gs 
+correct passcode had been entered at 2.18 am, and then the disputed transaction at 2.20 
+am. So the investigator asked Mr G if hed logged on an hour before the disputed 
+transaction. Mr G told her it was possible but he didnt remember.
+The investigator noted that there were differences in what Mr G told Barclays, and what he 
+told this service.  For example, he told Barclays he lives with other people in the flat, but he 
+told us he lives alone. He also told us he saw the payment was labelled cleaning when it 
+had been Barclays which had told him that. And Barclays had no record of Mr G using Chat 
+on that occasion, and the records didnt show a message to alert him to the transaction.
+The investigator considered it was most likely that Mr G carried out the transaction himself. 
+Mr G didnt agree. He said he was disappointed by the decision, and the money had been 
+taken from his account by someone who didnt have permission. Mr D said he didnt know 
+how it had happened, but it did. He said hed had previous incidents of fraud, and perhaps it 
+was linked to that. He said he knew hed been a victim of fraud and wanted to fight to get his 
+money back. Mr G also sent us a letter of support from his mother.
+Mr G told us he tried to get records from his mobile company, to show that he had received 
+an alert from Barclays. But he said his phone company could only show him outgoing calls.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+What the regulations say
+The relevant regulations for disputed transactions taking place on 18 February 2020 are the 
+Payment Services Regulations 2017. These say that the payment service provider (here, 
+Barclays) must show the payment was authenticated. 
+Authentication is the technical part, and its the use of any procedure by a bank to verify the 
+payment instrument. This can be done in various ways, such as chip and PIN for a card. 
+Here, Barclays has provided computer evidence which shows that the disputed transaction 
+was authenticated using the correct pass code on the mobile phone app which had been set 
+up on Mr Gs phone. As the disputed transaction was to a new payee, other security details 
+were also required from Mr Gs card too  Mr Gs long card number, expiry date, and three-
+digit security code. And the computer records show that the correct details were entered.
+So the disputed transaction was carried out on Mr Gs phone, after correct login. And the 
+transaction itself was authenticated by the correct entry of extra details from Mr Gs card.
+Technical information can also show us where a transaction was carried out, through the IP 
+address.  The IP address for the disputed transaction was the same as that for genuine 
+access, both before and after the disputed one. 
+Who authorised the disputed payment
+The regulations also say that its necessary to look at whether the card holder authorised the 
+payments. In general terms, the bank is liable if the customer didnt authorise the payments, 
+and the customer is liable if he did authorise them. The regulations also say that account 
+holders can still be liable for unauthorised payments under certain circumstances  for 
+example if theyve failed to keep their details secure to such an extent that it can be termed 
+gross negligence.
+The key issue here is how anyone except Mr G might have carried out the transaction. Mr G 
+said he was alone in his locked flat, and he said his card was in his wallet. Hes said he was 
+asleep until a text alert woke him at around 2.20 am. The phone was close enough to him for 
+him to be woken up. 
+Even if someone else had found out Mr Gs security details, theyd have had to get into his 
+locked flat, access the phone near his bed, access his wallet for the card, enter the 
+passcode on his phone and the card details to set up the new payment, and then leave without Mr G being aware. I cant see that this is likely. Nor has Mr G been able to suggest 
+how this might have happened.
+I recognise that Mr G has tried to obtain records from his phone provider, to show whether or 
+not there was an alert from Barclays at around 2.20am as he says. As Ive set out above, 
+Barclays said it didnt send an alert about the transaction and it has no record of Mr G 
+contacting Chat. Mr G said he did receive an alert and he did contact Chat. But this dispute 
+isnt the key issue. The key issue is the fact that the technical evidence shows that Mr Gs 
+actual phone, and several security details including from his card, were used. And the key 
+question is how anyone else could have done that.
+We did check with Barclays whether it had issued any new cards for Mr G  - in case 
+someone might have intercepted that. But Barclays hadnt issued any new cards since at 
+least September 2018. Barclays also said that there had been previous reported frauds on 
+Mr Gs account  but not since 2016. So I dont think its likely that these were connected, as 
+Mr G has suggested.
+And even if Mr Gs existing card details had become known to someone else, that still 
+doesnt explain how theyd have got the necessary access to Mr Gs phone, and his phone 
+security details, in his locked room in the middle of the night.
+I recognise that Mr G still says he didnt carry out the transaction, but he cant suggest how 
+the transaction might have been carried out. 
+I cant see how anyone else could have carried out the transaction, given the technical 
+evidence which proves it was done using Mr Gs phone, in a location he used before and 
+after, and with all the correct security details from both his phone and card. So I consider its 
+more likely than not that Mr G carried out the disputed transaction himself.
+My final decision
+My final decision is that I do not uphold this complaint. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr G to accept or 
+reject my decision before 18 May 2021.
+ 
+Belinda Knight
+Ombudsman

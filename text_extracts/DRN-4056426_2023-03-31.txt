@@ -1,0 +1,243 @@
+DRN-4056426
+The complaint
+Mr J complains that Revolut Ltd (Revolut) wont refund the money he lost when he fell victim 
+to a scam. 
+What happened
+The details of this complaint are well known to both parties. So rather than repeat them all 
+again here, Ill briefly summarise the key points.
+In early December 2021, Mr J was called by someone claiming to be from the fraud team of 
+a bank he is a customer of (N)  but who, it transpires, was actually a scammer. He tried to 
+validate the call by ringing Ns official number. It seems the scammer tricked him by staying 
+on the line, so it appeared as though they had picked up the call to that number. They also 
+sent texts from a spoofed bank number and created fake records of a safe account and 
+fraud refund.
+At the scammers behest, Mr J made numerous payments from several bank accounts. This 
+included the following payments from his Revolut account:
+Date Amount Description
+05/12/2021 £21,000.00 Transfer to cryptocurrency
+05/12/2021 £19,900.00  Transfer to recipient A
+06/12/2021 £9,999.99 Transfer to recipient B
+07/12/2021 £10,000.00 Transfer to recipient B
+07/12/2021 £9,500.00 Transfer to recipient B
+07/12/2021 £9,499.99 Transfer to recipient C
+08/12/2021 £5.00 Transfer to recipient D
+08/12/2021 £10,000.00 Transfer to recipient D
+08/12/2021 £10,001.00 Transfer to recipient E
+08/12/2021 £9,640.00 Transfer to recipient E
+10/01/2022 -£19,900.00 Refund from recipient A
+Total £89,645.98  
+It seems Revolut then blocked Mr Js account. He realised hed been scammed a week or so 
+later and reported this to Revolut. As shown in the table above, it was able to recover the 
+payment of £19,900. But it wasnt able to recover any more, nor did it agree to refund him 
+directly.
+Unhappy that he hadnt been refunded in full, Mr J referred the complaint to our service. Our 
+investigator didnt uphold it. He thought Revolut should have completed further checks given 
+the unusual account activity. But he wasnt persuaded it would have succeeded in 
+uncovering the scam. Mr J disagreed so the case was passed to me to decide.
+I then contacted both parties directly. I asked Mr J where the funds had been transferred 
+from, and why he thought further checks would have uncovered the scam. And I asked 
+Revolut for more information about the warnings its told us were displayed when Mr J made 
+some of these payments, and about the restriction it placed on the account. 
+Taking their response into account, I then issued my provisional decision explaining why I 
+was minded to uphold the complaint and what I was minded to award: 
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint. Having done so, Im minded to 
+uphold it  and to direct Revolut to refund 50% of Mr Js loss from the fifth payment 
+(£9,500.00 to recipient B) onwards. Ill explain why.
+In line with the Payment Services Regulations in force at the time, Revolut is 
+expected to execute authorised payment instructions without undue delay. Although 
+Mr J has explained he was tricked, its clear he requested these payments. So the 
+starting position is that he, rather than Revolut, is liable for them.
+Revolut also monitors for payments which are out of character for its customer, or 
+which otherwise indicate a fraud risk. It takes further action before processing such 
+payments  such as displaying a warning or asking the customer about the 
+circumstances of the payment. If Revolut ought to have identified a fraud risk but 
+failed to intervene appropriately, and that failure led to a fraudulent loss, it might be 
+fair to hold it liable.
+Revolut has already told us that it displayed warnings to Mr J that some of these 
+payments were identified as highly suspicious  although it hasnt, despite my 
+request, told me which. So Ive come to my own view on when I think it ought to have 
+been concerned.
+I think Revolut ought to have identified the first cryptocurrency transfer as suspicious. 
+Mr J didnt have a history of dealing in cryptocurrency. And it was ten times higher 
+than the next highest transfer made in the 12 months prior.
+Although Revolut may have warned Mr J that the payment had been identified as 
+highly suspicious, Im not persuaded was a sufficient response to the fraud risk it did, 
+or ought to have, identified. Particularly as the warning weve been shown gave no 
+context to why it might appear suspicious, or what warning signs Mr J should be 
+looking out for.
+However, Im not persuaded Revolut ought to have uncovered the scam at this point. 
+Ive reviewed a lot of information which satisfies me that he made all these payments 
+as part of a safe account scam  including a call he recorded between him and the 
+scammer after uncovering what had happened. But thats probably not the type of 
+scam Revolut would be most concerned about based on the cryptocurrency payment 
+ which tend to me more commonly associated with investment scams.
+Having spoken to Mr J about this scam, and having reviewed several other, 
+connected cases hes referred to our service, Im also conscious he gave various 
+cover stories to banks about the reason for the scam payments. So although Mr J 
+says he would have been forthcoming if questioned by Revolut, I struggle to see why 
+he would have been, given that he wasnt with the other firms he spoke to. At the 
+time, he was taken in by the scam  and hed been warned not to divulge the real 
+reason for making the payments.Id also point out that its not very clear whether, and how, the cryptocurrency 
+payment was lost to the scammer. From what Mr J has said, I understand he was 
+directed to set up cryptocurrency wallets with two different, legitimate providers. But 
+Ive not been able to get much information about what happened to the funds once 
+they left his Revolut account.
+I can also see a substantial payment into Mr Js Revolut account from one of these 
+wallets shortly after. That suggests not all the funds from this payment were lost to 
+the scammer.
+On the same day as the cryptocurrency transfer, Mr J transferred almost £20,000 to 
+a new payee. Again, thinking about the account turnover that day as the size of the 
+payments, I think Revolut ought to have identified that as suspicious and talked to Mr 
+J about what he was doing. But for similar reasons to those set out above, Im not 
+persuaded it ought to have succeeded in uncovering the scam at that point. I dont 
+think Mr J would have given the real reason for the payment.
+However, the next day Mr J transferred almost £10,000 to another new payee 
+(recipient B). Followed by two further, large payments to that same recipient the 
+following day. And another large payment to another new payee. By the time of the 
+third payment to recipient B, I think Revolut ought to have intervened again. It ought 
+to have been concerned about the activity, so should have spoken to Mr J to satisfy 
+itself on whether all was well.
+Although I still dont think Mr J would have been immediately upfront about what he 
+was doing, I do think he would likely have been less prepared on what to say 
+compared with some payments involving different banks. Thats because it appears 
+he received less coaching on what to say. The scammer may have anticipated it was 
+unlikely Revolut would speak to him directly about the payments.
+In the circumstances, I would have expected Revolut to have asked questions 
+around why he needed to make so many high value payments to several payee in 
+such a short span of time. Why did he need to pay recipient B £9,500 having already 
+paid them £10,000 that day and £9,999.99 the previous day. Why would he not have 
+known how much hed need to pay them in total  or at least earlier that day? And 
+why was he suddenly making lots of high-value payments to another new payee as 
+well as to a cryptocurrency account?
+Im not persuaded Mr J would have had a reasonable explanation for all of this. And 
+hes also explained he was uncomfortable about being asked to lie to his account 
+providers. So I think this was likely a missed opportunity to have uncovered the 
+scam. I think Revolut could well have succeeded in getting Mr J to have divulged 
+what he was doing. And if he didnt, I think it should have had enough concerns 
+about the account activity, and lack of reasonable explanations, to have refused 
+further payments.
+I therefore think Revolut should have prevented the payments Mr J made from the 
+account from this point onwards. However, Ive also considered whether Mr J should 
+also be held partly responsible for the further losses incurred by way of contributory 
+negligence.
+In all the circumstances, I consider it fair to make a 50% deduction to the loss which 
+Ive found Revolut ought to have prevented to reflect. Thats because:Although the scammer used some sophisticated tactics, such as spoofing Ns 
+number, I think Mr J should have reasonably done more to check the 
+legitimacy of what he was being told. Especially given the value of funds he 
+was being asked to transfer and the number of different accounts he was 
+directed to send these to.
+I think it should have seemed unusual to Mr J that the scammer directed him 
+download and use the app Telegram  as thats not how N normally contacts 
+him.
+While he says he thought the firms he transferred money through were all 
+working together, I cant see he took steps to check if they had any 
+connections. And I think that should have seemed unusual, particularly as the 
+instruction came (allegedly) from N, a bank  but he was also being directed 
+to use cryptocurrency exchanges.
+Some of the recipient names Mr J was given for the alleged safe accounts, 
+were names known to him. Whereas some were random. I think this 
+inconsistency ought to have struck him as odd, and to have called into 
+question the legitimacy of what he was being told
+Mr J has also told us he felt uncomfortable about being asked to lie to his 
+various account providers  suggesting he did have some reservations. Yet 
+he continued until checking with N if the name given by the scammer was a 
+genuine employee ten days into the scam.
+I therefore dont think Mr J did enough to reasonably satisfy himself that the scammer 
+was legitimate. So although I do hold Revolut at fault, I consider it fair to reduce the 
+compensation Im awarding by 50% to reflect Mr Js contributory negligence.
+For those payments which Ive found Revolut isnt liable for failing to prevent, I dont 
+think it could have done more to help retrieve the loss. It seems it promptly reached 
+out to the beneficiary banks when Mr J reported the loss  and was in fact able to 
+retrieve the payment of £19,900 sent to recipient A. Im not persuaded it missed an 
+opportunity to retrieve any more funds. Unfortunately, its common in these types of 
+scams that the funds are promptly moved on to avoid the risk of them being recalled.
+I invited both parties to provide further comments or evidence before I made my final 
+decision. Mr J has responded to provide a bit more information about the interest rate of the 
+originating account. Revolut has responded to explain why it doesnt agree with my 
+provisional findings. In summary, this is because:
+It doesnt agree that it should have found the initial cryptocurrency transfer suspicious 
+as Mr J opened his cryptocurrency wallet with Revolut in January 2021 
+Its also clarified which payment triggered as suspicious  and says Mr J ignored the 
+warnings it then displayed.
+It doesnt think its fair to make a hypothetical assumption of Mr Js potential 
+behaviour. It points out that other banks were convince by the explanations he gave. 
+And it says that, even if Mr J didnt have a reasonable explanation, there wasnt 
+anything to suggest it had grounds to refuse the payments.
+It feels Mr J showed determination to make these payments so doesnt think the 
+questions I said it should have asked would have changed his mind. What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, Im come to the same conclusions as I did in my provisional decision (which 
+Ive set out above, and which also forms part of my final decision). As the reasoning is 
+largely the same, Ill focus on addressing the points raised in response.
+I appreciate Mr J already held an established cryptocurrency account. But based on the 
+records Revolut have provided, it does appear the particular transaction Ive said should 
+have triggered was unusual for him. I cant see that he had a history of making such large 
+cryptocurrency payments. 
+In any event, Ive determined that it wouldnt have been able to successfully intervene at this 
+point. So whether or not this payment ought to have triggered doesnt affect my overall 
+findings. 
+Ive taken into account what Revolut has said about Mr J ignoring its warnings about the 
+payments it identified as suspicious. But, as I explained in my provisional decision, Im not 
+persuaded the warnings were a sufficient response to the fraud risk identified. They gave no 
+context to why the payments appeared suspicious. Nor did they provide Mr J with any insight 
+into what warning signs he should be looking out for to protect himself from fraud. 
+Instead, as explained in my provisional decision, I think Revolut should have directly 
+questioned Mr J about those payments Ive determined it should have been suspicious 
+about. That would have been a more impactful way to reassure itself about whether all was 
+well. 
+Revolut is correct that Im having to make an assumption about what would have happened 
+if it had intervened appropriately. That will always be the case when we determine that a 
+business didnt do what it should have done. Its my role to decide, on the balance of 
+probabilities, whats more likely to have happened if it had done what it should have done. 
+Its a case of making a reasoned assumption.
+I have considered Revoluts point that other banks accepted Mr Js explanations. However, 
+some of those banks have also upheld Mr Js complaints that they didnt do enough to 
+protect him. In any event, Im considering what ought to have happened on this account  
+from which the highest number of scam payments were made. 
+As my provisional decision explained, one key reason why I think Revolut could have 
+unravelled the scam is the number of payments, to different payees  which would have 
+made it harder for Mr J to have convinced Revolut about his reasons for all the payments. 
+Especially as, compared to interventions from other banks, Ive not seen anything to suggest 
+Mr J had been coached on what to say if Revolut did intervene.  
+My provisional decision also acknowledges that Mr J likely wouldnt have been immediately 
+forthcoming. But Ive also explained why I think appropriate questioning, and warnings, 
+would have uncovered the scam. Mr J was already uncomfortable being asked to lie. So I do 
+think that, with questioning and warning from Revolut, it could have persuaded him to 
+provide more information that would have made it, and him, realise he was being scammed.Revolut says that, even if Mr J wasnt able to reasonably explain his actions, it wouldnt have 
+had reason to refuse the payments. Notwithstanding what Ive set above (including in my 
+provisional decision) about why I think it could have uncovered things, Revolut would still 
+have grounds to refuse the payments if it thought Mr J was going to fall victim to fraud. And 
+so I think, if faced with no reasonable explanation for these suspicious payments, it would 
+have had grounds to refuse the payments. 
+For these reasons, Im therefore decided to uphold this complaint. I think Revoluts failures 
+have contributed to Mr Js loss  but that he should also share some liability for this. 
+Putting things right
+Revolut Ltd should refund 50% of Mr Js payments from payment five onwards, as set out in 
+the table below:
+Date Amount Amount to refund 
+05/12/2021 £21,000.00 £0.00
+05/12/2021 £19,900.00 £0.00
+06/12/2021 £9,999.99 £0.00
+07/12/2021 £10,000.00 £0.00
+07/12/2021 £9,500.00 £4,750.00
+07/12/2021 £9,499.99 £4,750.00
+08/12/2021 £5.00 £2.50
+08/12/2021 £10,000.00 £5,000.00
+08/12/2021 £10,001.00 £5,000.50
+08/12/2021 £9,640.00 £4,820.00
+10/01/2022 -£19,900.00 £0.00
+Total £89,645.98 £24,323.00
+It appears these funds would have remained in the account they were transferred from had it 
+not been for the scam. So Revolut Ltd should apply interest on the above refund, at the 
+originating account rate, from the date the payments left Mr Js account to the date of 
+settlement.
+My final decision
+For the reasons given, my final decision is that I uphold this complaint and direct Revolut Ltd 
+to put things right as set out above.  
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr J to accept or 
+reject my decision before 28 April 2023.
+ 
+Rachel Loughlin
+Ombudsman

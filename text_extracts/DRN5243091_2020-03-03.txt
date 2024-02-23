@@ -1,0 +1,109 @@
+K821x#15complaint
+Mr G says the system applied by Plus500UK Ltd (Plus500) for its margin  calls is defective 
+and/or unfair; that his Brent Oil Contract  for Differences (CFD) trades in May 2018  were 
+affected by this; and that Plus500 applied  the wrong  (and/or  unfair) spread to his trades.
+background
+In the main,  Plus500  disputes the claim that application of margin  calls was defective and/or 
+unfair; it says the margin calls which were applied to Mr Gs trades  were  triggered by a 
+margin breach in his account and were in compliance with the terms of the account; that it 
+was his contractual duty to monitor and maintain  his account margin; that margin call 
+closures generally applied first to the smallest  positions but it had discretion  to apply it 
+differently based  on a variety of factors; that the Brent Oil CFD trade has a dynamic spread; 
+that the rates applied to the margin call closures were consistent  with the underlying  market  
+at the time; and that the spread at the time was within its tolerance levels.
+Mr G says the spread  was typically 0.02; that it would sometimes  increase by around 0.05; 
+that the terms for the account say the spread  would  increase in periods of market volatility; 
+however when the spread  increased to 0.45 this was excessively beyond the usual spread 
+range and it happened in the absence of market volatility.
+Mr G also says that the problem with the spreads unfairly triggered the relevant margin  calls,  
+which created another problem as trades were closed at random, unfairly and without 
+consideration for the financial impact on the account. He argues that this additional problem 
+arose from the potential  for margin calls to be abused, whereby they are not applied  to 
+protect the account  but to cause more financial harm to the account than required.
+One of our investigators  looked into the complaint.  She referred to terms about the 
+determination of margin and she accepted that the dynamic spread applied to Brent  Oil CFD. 
+However, she was concerned that evidence of the relevant market spread (on the 
+Intercontinental Exchange (ICE)) for Brent  Oil futures contract  the basis  for the Brent Oil 
+CFD  was 76.97/77.02, whilst Plus500s  was 77.36/77.52. She  concluded that there  
+appeared to be a mismatch between Plus500s rates/spread and that of the underlying  
+market, so it should adjust Mr Gs closed positions  (based on the 0.02 spread) in order  to 
+address this and it should pay him £100  for the trouble and upset caused  by the matter.
+Plus500 agreed to settle the matter  with a £100  goodwill payment but disagreed  with the 
+proposed price adjustment. It said that it is unfair  to apply  the fixed spread of 0.02 when the 
+product spread was dynamic/variable;  that the spread increases happen automatically 
+through its price  feeds  and are market  driven; that the complaint  was made too late for it to 
+retrieve evidence of the actual price feeds  used at the time; that, however, there is third party 
+charting evidence showing rates of up to 77.57  and there is no evidence that Plus500s rates 
+were not indicative  of the underlying market  at the time;  and that the ICE rates mentioned  by 
+the investigator only showed the general  market situation at the time.  
+The matter  was referred to me. I considered it and I formed a provisional conclusion  that 
+broadly agreed  with Plus500s position. The investigator conveyed, to Mr G, my concern 
+about adjusting  his closed positions based  on the ICE spread (and the implication of a fixed  
+spread) when there is evidence that a dynamic/fluctuating spread applied  to his positions. In 
+response, Mr G disagreed  and mainly said:
+Ref: DRN524309120.02 was often  the spread for Brent Oil CFD on Plus500s platform and was the 
+spread that partly  induced him to open  the account.
+Plus500 never disclosed to him the potential  range (lowest to highest)  of the spread.
+The spread  he has complained about  was abnormal and was applied  in the absence 
+of market volatility or illiquidity at the time.
+The burden should be on Plus500  to justify the spread.
+my findings
+Ive considered all the available  evidence  and arguments to decide  whats  fair and 
+reasonable in the circumstances of this complaint.
+I have noted Mr Gs allegation that Plus500s  margin call system was defective and/or unfair. 
+As his complaint  progress to and beyond  the investigators view,  its focus  has shifted mainly 
+to the matter of the spread. However,  in terms of the margin calls (and their applications), I 
+have not seen evidence to establish  the alleged  defect.  I also do not consider that they were 
+applied unfairly.  They were applied in response to margin breaches within Mr Gs account  
+and were applied  in line with the terms of the account. 
+Mr G does not appear to dispute the margin breaches, but his argument is that the wrong  or 
+unfair spread was the main  reason  why the margin breaches (and resulting margin calls) 
+happened. I address the matter of the spread further  below. 
+With regards to the margin breaches  and margin calls,  the terms made it Mr Gs 
+responsibility to monitor  and manage margin  in his account (and for his trades) in order to 
+avoid margin breaches. Plus500s platform was entitled to automatically apply the margin 
+calls when margin breaches occurred.  I understand Mr Gs point about the manner in which 
+the margin calls were  applied. However the terms  which he agreed  also gave Plus500 
+discretion in this respect, depending on varying factors, so there does not appear  to be a 
+basis to conclude that the margin  calls were required to apply in a precise way, but did not. 
+I agree  with the payment  of £100 to Mr G for the trouble and upset caused to him by the lack 
+of certainty about whether (or not) Plus500s spread  for Brent Oil CFD, at the relevant time, 
+was consistent  with its price feeds  (and the underlying market). However, whilst it cannot  
+prove the relevant price  feeds there  no evidence within the complaint which, on balance, 
+shows that its spread  was not reflective of its price feeds (and the underlying market) at the 
+relevant time(s). The allegation in this respect  inherently belongs to Mr G  as it is his 
+complaint  so it is arguably not for Plus500 to disprove what  has yet to be proven.
+I do not consider  the allegation has been  proven. Brent Oil CFD was based on a dynamic  
+spread, as stated  in its platform description.  Mr G has not suggested otherwise and he 
+appears to concede that he was aware  of this. This defeats the arguments about  what  the 
+spread usually was or what Mr G expected  it to be. Being  a dynamic spread meant  it was 
+subject to change  and fluctuation. Plus500s  Order Execution Policy  does  not limit the 
+circumstances for such change to market  volatility  and/or illiquidity. The policy  says it may 
+take such factors into account in terms of the setting for the dynamic spread, but that does 
+not mean these  were  the only relevant or potentially relevant factors.  
+The lack of evidence  to explain the 0.45 spread  or to establish  the relevant price  feed is 
+unhelpful. For the sake of clarity, I do not suggest that Plus500 had a fair reason  for it. It 
+concedes that it does not have evidence to explain a precise reason. However,  I also note its 
+Ref: DRN52430913evidence to Mr G that spreads around  the level of 0.45 were rare  it said the spread went  
+above this level only seven times  between  January 2017  and January 2019.
+I do not have a sufficient basis to conclude that the spread was unfair  or arbitrary.  Evidence 
+that spreads around the level of 0.45 were notably rare  over the two years  period  does 
+not lend itself to the notion  that the dynamic  spread was being arbitrarily  set or was being 
+abused. Plus500  says there was a spike in Brent  Oil price  on the relevant date in May 2018,  
+it referred to evidence from a third party data provider  showing  the price  going up to around 
+77.57 during the relevant  time frame  on that date (comparable to Plus500s  spread for Brent 
+Oil CFD at the time) and to media reporting about  the price spike (around 77.21). 
+I do not suggest that the above points prove  a fair reason  behind  the disputed 0.45 spread, 
+but they outweigh the suggestion  (or assertion) that the spread was unfair. They  also do not 
+lend support to the suggestion that the spread was inconsistent with the underlying market. 
+Overall and on balance,  I am satisfied  that Mr G should receive £100 for the reason given 
+above, but I do not consider there are grounds  to order Plus500  to make adjustments to his 
+closed positions  on the basis of a substitute spread. 
+my final decision
+For the reasons  given  above, I uphold Mr Gs complaint only in relation to trouble and upset. 
+I order Plus500UK Ltd to pay him £100 in this respect. Under the rules of the Financial 
+Ombudsman Service, Im required to ask Mr G to accept or reject  my decision before 
+3 April 2020.
+Roy Kuku
+Ombudsman
+Ref: DRN5243091

@@ -1,0 +1,170 @@
+DRN-2278450
+The complaint
+Mr C complains about Revolut Ltds decision to hold him responsible for transactions which 
+he says he didnt authorise. 
+What happened
+In March 2020, Mr C received a notification from his Revolut online banking application to let 
+him know his card had been frozen due to suspicious activity. A series of transactions were 
+made from Mr Cs account to a gambling account. Mr C says he was at work at the time, on 
+a night shift, and isnt meant to use his card while working. Mr C says the notifications 
+continued and so he pressed a few buttons to try and make them stop. Mr C thinks he may 
+have accidently authorised the transactions.
+When Mr C finished work, he went to his locker to get his belongings and noticed his Revolut 
+debit card was missing. Mr C confirmed his other debit cards remained in his wallet. Mr C 
+called Revolut to report the transactions and completed a chargeback form. Mr C also 
+contacted the gambling site, but they couldnt help him as Mr C said it wasnt him who 
+opened the gambling account.
+The transactions relevant to the dispute are as follows:
+Date Time (approx.) Amount Method / Activity  Disputed?
+29 March 2020 12.23pm £20.00 Chip and PIN  No
+29 March 2020 10.22pm n/a Gambling account 
+opened Yes
+29 March 2020 10.24pm £0 Online  transaction 
+reversed Yes 
+29 March 2020 10.24pm £50 Online  Yes
+29 March 2020 10.46pm £100 Online  Yes
+29 March 2020 11.09pm £100 Online  Yes
+29 March 2020 11.10pm £100 Online  Yes
+29 March 2020 11.25pm £150 Online  Yes
+29 March 2020 11.28pm £150 Online  Yes
+29 March 2020 11.31pm £150 Online - declined  Yes
+29 March 2020 11.33pm £150 Online  Yes
+29 March 2020 11.41pm £150 Online  Yes
+30 March 2020 01.28am n/a Card usage was 
+detected by 
+Revoluts security 
+system n/a
+30 March 2020 01.31am n/a Card blocked  n/a
+30 March 2020 01.32am n/a Card unblocked 
+using mobile banking 
+app Yes
+30 March 2020 02.20am £150 Online  Yes
+30 March 2020 02.37am £150 Online  Yes
+30 March 2020 02.40am £150 Online  Yes
+30 March 2020 02.41am £150 Online  Yes
+30 March 2020 03.20am £150 Online  Yes
+30 March 2020 03.22am £250 Online  Yes
+30 March 2020 03.42am n/a Mr C contacts 
+gambling site No
+30 March 2020 03.42am n/a Mr C contacts 
+Revolut No
+30 March 2020 03.50am n/a Mr Cs card 
+terminated No
+Revolut didnt return the money To Mr C. They said that as Mr C was using his mobile 
+banking app at the time of the transactions, and also unblocked the card by authorising them 
+on the app, they were holding him liable for the transactions. 
+Mr C brought the complaint to our service. As part of the investigators review, she requested 
+information from the gambling site in question. The gambling site confirmed that the account 
+was opened on the same day the disputed transactions started  29 March 2020. And the 
+account was opened in Mr Cs name including his personal details such as his address, date 
+of birth, telephone number and email address. The investigator also learned that £259 was 
+credited back into Mr Cs account from the gambling site in September 2020. However, it 
+doesnt appear that the account had been used between the date of the disputes in March 
+2020 and the credit in September 2020.
+The investigator didnt uphold Mr Cs complaint. She said that she thought it was more likely 
+than not Mr C who authorised the transactions. In summary she thought there wasnt a clear 
+point of compromise as to how an unauthorised person would have had access to Mr Cs 
+personal information to open the gambling account. So, she thought that even if Mr C had 
+lost his card, the card alone wouldnt have been enough to carry out the transactions.
+As an agreement couldnt be reached, the complaint has been passed to me to review.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I agree with the investigator for broadly the same reasons. Ive explained 
+further below.
+The basic position is that Revolut can hold Mr C liable for the disputed payments if the 
+evidence suggests its more likely than not that he made them or authorised them. For each 
+transaction, Revolut has been able to provide evidence to show these payments were 
+appropriately authenticated (using the card number, security code and expiry date) but that 
+isnt enough to hold Mr C liable. I also need to consider whether the evidence suggests he 
+consented to them.
+The issues I have considered include: 
+A gambling account was opened on 29 March 2020  the same day as the first 
+disputed transaction  in Mr Cs name. This was done with his correct personal 
+details, including his date of birth and address. The email and mobile phone number 
+used also match those Mr C used when he brought his complaint to us. 
+Theres nothing definitive from these details that show the account was set up by 
+someone else or by Mr C. Although I do wonder how someone who isnt Mr C would 
+have known this amount of personal information.Mr C told us when he tried to contact the gambling site, they wouldnt speak to him 
+because he told them it wasnt him who opened the account. 
+By reviewing Mr Cs statements, I can see the disputed transactions all took place 
+between 10.24pm on 29 March 2020 through to around 3.20am on 30 March 2020. 
+Mr C says he was at work at the time on a night shift.
+Revolut blocked the card due to suspicious activity which flagged on their security 
+systems at around 01.31am on 30 March 2020.
+Mr C unblocked the card, and in turn authorised the payments on his mobile banking 
+application around a minute after it was blocked.
+Mr C said he unblocked the card by mistake because he was trying to make the 
+notifications stop because he was at work and shouldnt have been using his phone.
+Mr C said he realised his card was missing from his locker when he ended his night 
+shift at around 3am on 30 March 2020  however his other cards remained in his 
+wallet.
+If I was to believe Mr C hadnt made these transactions himself, Id be accepting that an 
+unauthorised third party stole Mr Cs card, opened a gambling account in Mr Cs name using 
+his personal information and pursued to spend money on the gambling site without making 
+any withdrawals. 
+I think its reasonable to believe that a fraudster attempting to use Mr Cs money unlawfully, 
+would likely want to benefit from the activity. Therefore, I find it difficult to believe they would 
+open the gambling account in Mr Cs name and not make any withdrawals for their own 
+benefit. In fact, the gambling account was left with around £250 in there and wasnt used 
+again until the money was withdrawn to Mr Cs own personal Revolut account in September 
+2020.
+Ive thought carefully about what Mr C has said about his card going missing. The last 
+authorised transaction Mr C made was in a supermarket in the afternoon before Mr Cs shift 
+started at work. Mr C says he may have lost his card in the supermarket  or it may have 
+been taken from somebody at work.
+If Mr C lost his card in the supermarket, it must have been while he was walking out. I say 
+that because he successfully paid for his shopping using chip and PIN which he doesnt 
+dispute. While its plausible a third party could have taken Mr Cs card, I find it unlikely they 
+would have known Mr Cs personal details such as his date of birth, home address, email 
+address and telephone number to open an account with the gambling site. And I dont think 
+its likely they would have waited around 10 hours to start using the card. So, I dont 
+conclude this is what happened.
+Ive then thought about whether somebody at Mr Cs work could have taken his card. Again, 
+its difficult to see how somebody at work would have known the level of personal details 
+used to open the gambling account. However, it may be that Mr C has shared this with his 
+colleagues so it could be a plausible option. However, I do find it difficult to understand why 
+somebody from Mr Cs work would open the gambling account in Mr Cs name and not 
+benefit from the money in there. Ive also seen no explanation as to how somebody could 
+have accessed Mr Cs card as he says it was in his wallet which was in his locker. Mr C also 
+said his other cards remained in his wallet and only his Revolut card went missing. This isnt 
+what Id expect to see from somebody trying to steal money from Mr C  it would seem more 
+realistic that somebody would take all of Mr Cs cards to take as much money as possible.
+Ive reviewed the transactions which took place on the gambling site and can see that at one 
+point, the account had a balance of over £2,000 from winnings. However, instead of this 
+money being withdrawn, it was used to continue to make transactions on the website. I dont find this a usual pattern of a fraudster. I say that because a fraudster usually tries to gain 
+from their actions  so it would have been more likely a fraudster would withdraw the money 
+for them to access directly once theyd made such a large profit. 
+Revoluts security systems blocked Mr Cs card due to the amount of transactions which had 
+been made. However, Mr C unblocked the card using his mobile banking application a 
+couple of minutes afterwards. Mr C has said he didnt intend to unblock the card and was 
+rushing through the screens on his mobile banking application to stop the notifications. I 
+appreciate Mr C was at work while this was happening and said he wasnt allowed to be on 
+his phone. Ive thought really carefully about this point. Revolut have provided us with 
+screenshots to show the journey a consumer would have to go through to confirm the 
+unblocking of the card. Having considered the amount of information on the screens Mr C 
+would have seen, and the warning messages, I think its reasonable to assume Mr C knew 
+he would be unblocking the card and authorising the transactions. Mr C also didnt need to 
+respond to the notification straight away  if he hadnt, the card would have remained 
+blocked until Mr C had the opportunity to log on when he had the time to focus on it. I cant 
+fairly hold Revolut responsible for Mr Cs decision to use his phone while he was working.
+I appreciate Mr C said he shouldnt have been on his phone, and this situation resulted in 
+him losing his job. But he would have only been on his phone for a few minutes while 
+completing the screens to unblock the card, so I think its more likely than not he lost his job 
+due to being on his phone most of the evening carrying out the transactions on the gambling 
+site. 
+Mr C received a credit into his Revolut account in September 2020 from the gambling site. I 
+havent seen any evidence to show that Mr C queried this transaction and therefore it seems 
+he was expecting to receive it. If Mr C didnt have an account with this site like he says, I 
+cant understand why Mr C would have been expecting a credit from them. 
+Therefore, considering the circumstances of this complaint, and the activities which have 
+taken place, I cant reach any reasonable conclusion here other than to say I think Mr C is 
+responsible for the disputed payments. So, it follows that I wont be asking Revolut to do 
+anything differently.
+My final decision
+My final decision is that I dont uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr C to accept or 
+reject my decision before 1 March 2021.
+ 
+Hayley West
+Ombudsman

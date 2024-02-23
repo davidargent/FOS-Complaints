@@ -1,0 +1,104 @@
+DRN-3352485
+The complaint
+G complains that Barclays Bank UK PLC didnt do enough to protect it from losing money to 
+an email interception scam.
+What happened
+On 8 August 2017 G made a payment of £50,000 from its Barclays account to pay an 
+invoice from a company (B) it had previously dealt with. Unbeknownst to G, the email from 
+B had been intercepted by a scammer, and sent onto G, looking like it had come from B, 
+only after the scammer had, on the invoice, switched out the legitimate banks details for 
+payment to B with banks details for payment to the scammer. As such, G was tricked into 
+sending the £50,000 payment to the scammer and not B.
+G reported the scam to Barclays the next day. Barclays managed to help recover £986.79 of 
+the £50,000, but it didnt otherwise reimburse G with the money lost to the scam. Remaining
+unhappy, G referred its complaint about Barclays to this service. As our investigator couldnt
+resolve matters informally, the case has been passed to me for a decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, Ive decided to not uphold the complaint, and for essentially the same 
+reasons as the investigator. Ill explain why.
+At the time generally, banks were expected to process payments a customer authorised it 
+to make; but as a matter of good industry practice, a bank should have taken proactive 
+steps to identify and help prevent transactions  particularly unusual or uncharacteristic 
+transactions  that could involve fraud or be the result of a scam. There is a balance to be 
+struck: banks had (and have) obligations to be alert to fraud and scams and to act in their 
+customers best interests, but they cant be involved in every transaction.
+Now in this case, the payment instruction did flag on Barclays' systems. And as a result, 
+Barclays sent G a text message saying, Did you make the following Barclays Online 
+Payment 08/08/2017 £50000 [B]? Please reply Y if the payment is yours or N if it is fraud. 
+Please respond within 60 minutes. G responded to the text with Y. Barclays then sent G 
+a further text message saying, Thank you for using Barclays Online Banking. Your 
+payment for £50000 to [B] on 08/08/2017 has been made successfully.
+Authorised push payment (APP) scams like this one  by their very definition  are instructed 
+by the customer. So I dont think Barclays text message could have uncovered this scam. 
+But Gs answer to the text did at least provide Barclays with confirmation that G was aware 
+of this payment instruction made on its account, and that G had indeed authorised it.
+In the particular circumstances of this case, I am satisfied that this was sufficient  I dont 
+think I can reasonably say that Barclays reasonably ought to have been obliged to have 
+done more than this, or that it should be held responsible for the loss because it didnt. This 
+is because, having reviewed the prior operation of Gs Barclays account (and for essentially 
+the same reasons as explained by our investigator), I dont think I can fairly say the £50,000 
+payment ought reasonably to have appeared sufficiently unusual or uncharacteristic to 
+Barclays, such that it should have spoken to G (rather than just sending a text message to 
+confirm authorisation), to check everything was in order, before processing the payment. 
+The £50,000 payment was for a large amount. But Gs account with Barclays was a 
+business account with a reasonable expectation that larger transactions would be made. 
+And bearing in mind that G had previously made payments for £50,000  two in April 2017, 
+one in May 2017 and another in June 2017, which also, like the scam payment, were 
+preceded by large payments into the account  I dont think what Barclays did was 
+unreasonable, nor that I can reasonably say it should have been obliged to have done more 
+or be held accountable for the loss because it didnt.
+Gs representative argues that Gs consent was to the payment going to B, including in its
+response to Barclays text message. But as the investigator explained in her assessment, 
+under the rules at the time the payment was sent using the unique identifiers (in this case 
+the sort code and account number), as per The Payment Services Regulations (set out in 
+the investigators assessment, which I wont repeat here) and the account terms and 
+conditions. So I consider Gs consent to the payment made was clear, specific and 
+informed at the time it authorised the payment, and that Barclays processed the payment 
+correctly. Confirmation of Payee systems were not yet in place at the time (nor were they 
+expected to be), so Confirmation of Payee simply wasnt something Barclays would 
+reasonably have been able to do at the time of this payment, especially given the beneficiary 
+account was held with a different bank.
+Gs representative has referred to paragraph 40 of the House of Commons Treasury
+Committees Economic Crime: Consumer View, Third Report of Session 2019, which 
+states: The fact that banks were not previously confirming payees is a serious failure to 
+protect customers from harm. Asking for such information but not using it would have 
+created a false sense of security among some customers when sending payments. It might 
+have been better for banks to not ask for this information at all if they were not going to use it 
+for fraud prevention. And I think this is, of course, relevant to why Confirmation of Payee 
+was introduced. I appreciate that Gs representative has also pointed out that Barclays not 
+only asked for the payee name in the payment instruction on 8 August 2017, but it also 
+repeated the payee name in the text messages it sent to G, which Gs representative says 
+would have created an even greater sense of security for G around the payee name. 
+However, I have already explained above why I am satisfied Gs consent to the payment on 
+8 August 2017 was clear, specific and informed, and that under The Payment Services 
+Regulations and the account terms and conditions, the payment was correctly sent using the 
+account number and sort code. And the reasons for why Confirmation of Payee was later 
+introduced dont alter what regulatory requirements and best practice was at the time of the 
+payment in August 2017. So this also doesnt persuade me that I can reasonably say 
+Barclays did anything wrong here, or that it should be held responsible for the loss.
+G reported the scam to Barclays on 9 August 2017 at 10.02am. I have seen information that
+shows Barclays contacted the receiving bank, Metro, this same day to try to facilitate 
+recovery of the £50,000. I havent seen any information showing the exact time Barclays 
+contacted Metro, but I note that during its call with G on 9 August 2017 (when G reported the 
+scam to Barclays) Barclays told G that it would contact Metro immediately (something it 
+emphasised). I havent seen evidence that shows Barclays didnt do so. I must also consider 
+that even after Barclays contacted Metro, action was required by Metro to secure any 
+remaining money. And the information I have seen from Metro satisfies me that it is most 
+likely that, no matter how quickly Barclays did or did not contact Metro on 9 August 2017 
+after its call with G, not more than £986.79 would have been recoverable. I am therefore not persuaded I can say Barclays didnt act fairly and reasonably in its attempts to recover the 
+money, or that this has made a difference to the amount it ultimately was able to recover.
+This means that I have decided that it would be neither fair nor reasonable to uphold this 
+complaint about Barclays. I accept G was the victim of a scam, and Im sorry G lost such a 
+significant amount of money. But this doesnt automatically entitle G to a refund from 
+Barclays  it would only be fair for me to tell Barclays to reimburse G if I thought it either 
+caused the loss or hindered recovery. And as I dont think that it did, I cant fairly tell 
+Barclays to do anything further to resolve this complaint.
+My final decision
+For the reasons I have explained, I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask G to accept or 
+reject my decision before 8 June 2022.
+ 
+Neil Bridge
+Ombudsman

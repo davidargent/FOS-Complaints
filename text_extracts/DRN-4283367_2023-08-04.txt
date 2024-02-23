@@ -1,0 +1,120 @@
+DRN-4283367
+The complaint
+Ms T is unhappy that Revolut Ltd is holding her liable for a number of transactions made on 
+her account which she says werent made by her, and were the result of a scam.
+What happened
+Ms T says she was approached by an individual who she believed was helping her obtain a 
+£15,000 government grant, and with her finances more widely. In her initial submissions to 
+us (sent via a professional representative), she says she had to provide personal details to 
+the individual as part of this process, which they used to send money internationally from her 
+Revolut account without her knowledge. The payments occurred between October 2021 to 
+January 2022.
+When Ms T realised it was a scam, she disputed the payments with Revolut. It started the 
+process of raising a chargeback claim for the payments she reported  all of which went to 
+the same merchant (M). But M was able to show it had provided the expected service by 
+transferring the funds in line with the requests it received.
+Ms T complained but Revolut didnt agree to refund her. So she referred her complaint to our 
+service. Our investigator didnt uphold her complaint. He couldnt establish how the scammer 
+got the details needed to make these payments  which were authorised in the Revolut app 
+ and thought it had acted fairly when considering the chargeback claim.
+Unhappy with this response, Ms T appealed the investigators findings. She said the account 
+activity should have concerned Revolt. And if it had asked her about the payments, it would 
+have realised she was being scammed. She also said she had no reason to doubt the 
+intentions of the scammer. And maintained that she didnt share any payment information.
+The case was passed to me to decide. I asked Ms T for further details about the scam and 
+her account activity during this time, which she provided. I then issued my provisional 
+decision in July 2023, explaining why I wasnt minded to uphold the complaint.
+I asked both parties to provide further comments and evidence. Revolut has confirmed it has 
+nothing further to add. Ms T has responded to reiterate that she would like a refund but 
+hasnt provided any further comments, aside from confirming that she has read my decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+While I appreciate Ms T has reiterated that she would like a refund, she hasnt provided any 
+further reasons why. Nor has she disputed or commented on any of the reasons I gave in my 
+provisional decision to explain why I wasnt minded to uphold the complaint.
+As I havent received anything new to consider from either Ms T or Revolut, Ive decided not 
+to uphold the complaint for the following reasons  which are the same as the reasons I 
+gave in my provisional decision. 
+Did Ms T authorise these payments?
+In line with the Payment Services Regulations 2017 (PSRs), the starting position is that Ms T 
+is liable for payments she authorises. The PSRs specify that authorisation depends on 
+whether the payment transactions were authenticated correctly  and whether the account 
+holder consented to them.
+It seems to be agreed that the disputed payment was properly authenticated. This was done 
+using Ms Ts card details, but also 3DS security in her app. Whether Ms T also consented to 
+them depends on whether she completed the agreed steps to make the payment. Or if 
+someone else acted on her behalf (an agent) and used those agreed steps.
+Agency can be created not only by the bounds of the actual authority granted by the 
+principle. But also by the acts of the agent which appear to have been made with the 
+principles authority.
+Ms T says she didnt make these payments and didnt share any details to allow someone 
+else to do them. In her original submissions, she also said she wasnt aware of the funds 
+being sent. But the records she has provided of her contact with the scammer show they 
+discussed the payments being made. Yet she didnt dispute them with Revolut at the time.
+The records shes provided also show the funds were sent via an account she holds with M. 
+I can see she has access to this account, as she has provided records of her contact with M. 
+While she provided a screenshot from after the scam showing her disputing the payments 
+with M. But then immediately after, in the chat, she told M to leave it as it was a mistake by 
+her boyfriend.
+I asked Ms T about this interaction. She says her boyfriend didnt make the payments, nor 
+did she. But she hasnt explained why she said what she did to M. Ms T also maintained use 
+of her Revolut account during this period. And there are instances where she, or someone 
+using her account, contacted Revolut about these payments. For example, two payments 
+were sent to M on 14 October 2021. Via in-app chat, Ms T says I have sent 57 pounds to 
+[M] can I get a refund back. So it appears she told Revolut at the time that she had made 
+that payment.
+When Revolut asked her for further details, Ms T didnt explain why she wanted a refund for 
+that amount. And notably she was requesting a refund of only one of the two payments on 
+that date which she is now disputing. She was also able to name the individual who the 
+chargeback information shows was the recipient of all the disputed transfers made via M. 
+And Ms T has also confirmed this is someone known to her, who is linked to the scammer 
+and her ex-boyfriend.
+I think Ms T has been tricked in some way. But on balance, I think the payments were either 
+made by her, or someone she shared her card details and other security information with. 
+While she may not have been aware in advance of some of the payments, I think they would 
+still fall under apparent authority  as she was aware, over a period of months, of the 
+payments being made. And she took no steps to revoke the authority created for someone 
+else to make these payments from her account  such as by ordering a new card, changing 
+her PIN or other security details, or reporting the matter to Revolut. And so my starting 
+position is that its fair for Revolut to hold Ms T liable for these payments.Is there another reason why Ms T shouldnt be held liable for the payments?
+As explained above, customers are generally liable for authorised payments. But there are 
+some situations where we believe that firmstaking into account relevant rules, codes and 
+best practiceought to have identified a fraud risk, so should have looked at the wider 
+circumstances surrounding the transaction before making the payment.
+Ive considered if Revolut ought to have identified a fraud risk when these payments were 
+made. Im not persuaded it should have. The payments were spread out over a period of 
+months, so that over time M came to appear a regular and expected payee. The size of the 
+payments didnt appear out of line with Ms Ts usual spending.
+I therefore consider it reasonable that Revolut processed the payment instructions it 
+received, in line with its duty to promptly execute authorised payments without undue delay. 
+Thats not to say that Ms T wasnt the victim of a scam. Its just that Revolut had no reason 
+to suspect that was happening at the time  so isnt liable for her loss.
+As our investigator has explained, Id also reiterate that the Lending Standards Boards 
+Contingent Reimbursement Model (CRM) code, which Ms Ts (former) representative 
+referred to, doesnt apply here as Revolut isnt a signatory. Even if it was, the code doesnt 
+cover scam payments made by card (as these were).  
+Could Revolut have recovered Ms Ts loss?
+When Ms T first informed Revolut of her dispute, it did start the process of raising a 
+chargeback claim for the payments she flagged at that time. Chargebacks are a voluntary 
+scheme, set by the card-scheme provider rather than the account provider. Revolut wasnt 
+obliged to raise a chargeback claim but wed consider it good practice to do so if the claim 
+was likely to succeed.
+Chargeback claims can only be raised about the merchant paid directly  in this case, M. 
+And there has to be sufficient evidence to show that a valid claim reason has been met, 
+which would normally mean there would need to be evidence that the merchant didnt 
+provide the expected service.
+The merchant here, M, operated a money transfer service. In response to the claim, it 
+successfully demonstrated it provided that service here by loading the funds to the account 
+Ms T held with them, and then transferring them on in line with the requests it received. This 
+is enough to show a claim wouldnt succeed. So Revolut had no obligation to pursue the 
+matter further.
+I appreciate this is disappointing for Ms T. But for the reasons explained, Im not persuaded 
+Revolut made any errors which caused her a loss. Im therefore not upholding this complaint.
+My final decision
+For the reasons given above, my final decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Ms T to accept or 
+reject my decision before 1 September 2023.
+ 
+Rachel Loughlin
+Ombudsman

@@ -1,0 +1,137 @@
+DRN-3536613
+The complaint
+Miss K is unhappy that Monzo Bank Ltd are holding her liable for a transaction she says she 
+didnt make.
+What happened
+On 15 July 2021, Miss K says she received a call from someone claiming to be from Monzo. 
+She says the phone number matched Monzos number, and the caller knew some of her 
+personal details such as her name and date of birth. 
+Miss K explained that the caller told her that someone was trying to access her account and 
+was persuading her to open her banking app to verify something. She said she wasnt happy 
+to do so as she was aware Monzo wouldnt call her. She also said that the caller was trying 
+to keep her on the phone and since she wasnt comfortable, she ended the call.
+Shortly after, a payment of £234.97 left Miss Ks account and she contacted Monzo to report 
+it as unauthorised. It was a contactless payment made via Apple Pay using a secondary 
+device to that of Miss Ks trusted device.
+Miss K confirmed that she still had her card in her possession and no one else had access to 
+her card, phone or Personal Identification Number (PIN). She told Monzo her phone is 
+protected with Face ID. She also hadnt recently clicked on any text messages or emails 
+asking her to enter any of her information nor did she download any apps on her phone at 
+the callers instruction. She said she didnt give the caller any information, didnt open her 
+banking app or authorise anything. She explained that if she had approved anything on her 
+banking app, it was done so accidently.  
+Monzo said they were unable to refund Miss K as the payment was made using an Apple 
+Pay token on a secondary device which only she couldve authorised. Unhappy with this, 
+Miss K referred her complaint to our service. 
+Monzo told our service they believe Miss K may have been a victim of a scam, but she 
+hadnt provided all the necessary information to help them investigate. They say Miss K was 
+active on her banking app while the transaction was approved, and she knows how the 
+banking app works. They believe it wouldve been clear to Miss K that she was approving a 
+card for Apple Pay so its reasonable to assume she knew what she was doing. 
+Our investigator said she didnt think Miss K had authorised the payment. She asked Monzo 
+to refund her and add 8% simple interest to this amount. Monzo disagreed and asked for an 
+ombudsman to make a final decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Under the relevant regulations, Monzo can hold Miss K liable for the disputed transaction if 
+the evidence suggests its more likely than not that she made or authorised it herself. 
+The disputed payment of £234.97 was authenticated using Apple Pay. Monzo have provided 
+technical evidence which shows that the payment tools issued to Miss K approved the Apple 
+Pay token to be added to the secondary device  which was then used to make the disputed 
+payment shortly after. 
+But this alone isnt enough for Monzo to hold Miss K liable for the disputed transaction. I also 
+need to be satisfied that based on the evidence, its likely that Miss K herself made, or 
+otherwise authorised the transactions.
+Miss K has maintained that she didnt go into her banking app at the scammers request to 
+verify anything. This explanation conflicts with the technical evidence as the audit report 
+shows that Miss K had accessed her banking app several times during the scam call and 
+that she approved the Apple Pay token by entering her cards Personal Identification 
+Number (PIN). Miss K has clarified when questioned further that if she approved anything on 
+the banking app, it was done so accidently. 
+This is a finely balanced case, and I cant say with completely certainly as to what exactly 
+happened. So, I need to make a decision based on what I think is most likely.
+Monzo believe Miss K has been a victim of a scam. I agree this is one possibility. But on 
+balance, I find Miss Ks explanation that she mightve accidently approved the Apple Pay 
+token plausible and most likely, given that shes also said that she recognised the call was a 
+scam quite early on. It follows, I dont think Miss K authorised the disputed transaction.
+In order for Miss K to have consented to the disputed transaction, I need to be satisfied that 
+she:
+Disclosed her long card number, expiry date and three-digit security code; and 
+Approved the Apple Pay token to be added using her banking app.
+I appreciate theres some inconsistencies in Miss Ks testimony, but Ive not seen any 
+evidence to suggest that she disclosed all the card details required for the scammer to add 
+the Apple Pay token to their device.
+I dont think its improbable and nor can I rule out the possibility that Miss Ks card details 
+may have been compromised somehow without her involvement. For example, through data 
+linked to transactions she authorised leading up to the scam call.
+While the evidence shows that Miss K approved the Apple Pay token on her banking app, 
+she has explained that if she did so, it was likely by accident. Monzo feel that its very 
+unlikely for Miss K to have completed the process accidently as she wouldve had to tap to 
+continue and then input her PIN.
+Ive looked at the screenshots Monzo have provided which shows the process Miss K 
+wouldve followed to approve the Apple Pay token. I dont think its clear from the 
+screenshots that Miss K wouldve been aware that she was approving for her card to be set 
+up on a secondary Apple device. 
+Im persuaded its plausible for Miss K to have approved the Apple Pay token by accident 
+and that she didnt knowingly approve the Apple Pay token, particularly given that we know this happened towards the end of the spoof call when Miss K was distracted due to the 
+scammer trying to keep her on the phone, and she was frequently checking her banking app 
+during this time.
+Based on what Ive seen, I dont think theres enough evidence to show that Miss K, or 
+someone with her permission, completed both the steps required to have consented to the 
+Apple Pay token being added to a secondary device  meaning the disputed transaction 
+wasnt authorised.
+I also dont think Miss K failed with intent or that she was grossly negligent. Since Miss K 
+approved the Apple Pay token, she allowed the disputed transaction to take place. However, 
+I dont think Miss K intentionally approved the Apple Pay token and she did so without 
+realising that the safety of her account would be compromised. So, Miss K didnt fail with 
+intent. 
+The standard for gross negligence is whether Miss K was significantly careless  did she act 
+so far below what a reasonable person wouldve done or seriously disregarded an obvious 
+risk. 
+Monzo say they cant assess whether Miss K was grossly negligent without her revealing the 
+full details surrounding the spoof call. I agree itd be simpler if Miss K was able to provide 
+further information, but this isnt a clear-cut case. 
+I dont believe Miss K is deliberately holding back details. Monzo have accepted the call she 
+received was likely from a scammer, but theyve not appropriately considered the range of 
+emotions that the recipient of one of these calls goes through. Even though Miss K twigged 
+that something was amiss during the call, it wasnt like that right from the off, otherwise she 
+wouldve immediately hung up. The caller must have resonated with her to some extent so I 
+can understand why she wasnt thinking clearly in the moment within a stressful 
+environment. 
+So, I dont think that the actions Miss K took under the circumstances of this complaint  
+approving the Apple Pay token accidently and unintentionally, when the notification on the 
+banking app wasnt clear that she was agreeing for her card details to be added to a 
+secondary device not belonging to her, while she likely was unaware that her card details 
+were already compromised  amounts to gross negligence. 
+Miss K took the actions Id expect as soon as she became aware of the disputed transaction. 
+She immediately froze her card and contacted Monzo to dispute the transaction which 
+prevented any further unauthorised transactions  which is consistent with her testimony that 
+she didnt authorise the transaction.
+Monzo feel Miss K has attempted to hide information from them about a text message they 
+sent to her on 15 July 2021. This, along with the lack of explanation from Miss K about the 
+spoof call, has raised their suspicions. They say they havent been able to complete a full 
+investigation due to Miss Ks dishonesty which they believe is an exception for 
+reimbursement under the Contingent Reimbursement Model (CRM) code.
+I cant say for certain about what happened to the text message Monzo sent Miss K. But I 
+cant see a plausible explanation for why Miss K would withhold this information as it doesnt 
+undermine her case as shes presented it. I think its most likely that Miss K didnt receive the 
+text message as she reacted to Monzos notification about the disputed transaction debiting 
+her account immediately.In any event, I should clarify that the CRM code only applies to authorised push payments 
+such as faster payments. The CRM code doesnt cover pull payments such as contactless 
+payment transactions, so the exceptions of the code cant fairly be applied in this case. 
+All things considered, I dont think its fair and reasonable for Monzo to hold Miss K liable for 
+the disputed transaction and to put things right, they should:
+Refund Miss K £234.97;
+Add 8% simple interest* per annum from the date of the payment to the date of 
+settlement.
+*HM Revenue & Customs requires Monzo to deduct tax from this interest. Monzo must give 
+Miss K a certificate showing how much tax theyve taken off, if she asks for one.
+My final decision
+For the reasons given above, I uphold this complaint and require Monzo Bank Ltd to put 
+things right as set out above.
+Under the rules of the Financial Ombudsman Service, Im required to ask Miss K to accept 
+or reject my decision before 4 January 2023.
+ 
+Ash Weedon
+Ombudsman

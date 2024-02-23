@@ -1,0 +1,86 @@
+DRN-3430196
+The complaint
+Mr M complains that Lloyds Bank PLC (Lloyds) wont refund the money he lost when he fell 
+victim to a scam.
+What happened
+The details of this complaint are well known to both parties, so I wont repeat them again 
+here. The facts arent in dispute, so Ill focus on giving the reasons for my decision. But for 
+context, Ill set out the transactions Mr M wants Lloyds to refund:
+Date Transaction type Merchant Amount
+9 Jul 2020 Card payment CEX.IO £883.16
+13 Jul 2020 Card payment CEX.IO £1,319.67
+14 Jul 2020 Card payment CEX.IO £238.56
+16 Jul 2020 Card payment CEX.IO £206.28
+28 Jul 2020 Card payment CEX.IO £780.64
+30 Jul 2020 Card payment CEX.IO £2,898.19
+6 Aug 2020 Card payment CEX.IO £2,475.90
+17 Aug 2020 Card payment CEX.IO £230.44
+  Total £9,032.84
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I agree with the conclusions reached by the investigator for these reasons:
+Although Mr M was scammed, its not in dispute that he authorised these payments. 
+Lloyds is expected to execute authorised payment instructions without undue delay. 
+So the starting position is that Mr M is liable for the payments.
+Some banks, including Lloyds, have signed up to the Contingent Reimbursement 
+Model (CRM) code  under which banks are (generally, subject to the code terms) 
+expected to refund victims of authorised push payment scams. But that doesnt apply 
+here as it doesnt cover card (pull) payments, or those made to accounts held by the 
+consumer. And Mr M made these card payments to his CEX.IO account, to purchase 
+cryptocurrency to send onto the scammers.
+Outside the code, there are some situations where we believe that bankstaking 
+into account relevant rules, codes and best practiceought to have identified a fraud 
+risk, so should have looked at the wider circumstances surrounding the transaction 
+before making the payment. If Lloyds failed to identify a fraud risk when it should 
+have done, and that failure led to a fraudulent loss, it may be fair to hold it liable. 
+Here, I agree with the investigator that the merchant Mr M was paying directly  
+CEX.IO  wouldnt have given Lloyds cause for concern. Neither the Financial 
+Conduct Authority (FCA  the UK financial regulator) nor the Investor Alerts Portal 
+Organisation of Securities Commissions (IOSCO - the international body that brings 
+together the worlds securities regulators) have issued regulatory or scam warnings 
+about them. CEX.IO appear to have been operating legitimately. So when Lloyds 
+received a payment request from them, that wouldnt have seemed suspicious.
+Nor am I persuaded that Lloyds should have been otherwise aware that Mr M was at 
+risk from fraud. We expect banks to be alert to indications such as significantly large, 
+out of character payments, or a series of payments, in short succession, to a new 
+payee. But here, the payments didnt appear so unusual amongst Mr Ms general 
+account activity that I would have expected Lloyds to have intervened. Particularly as 
+the payments were spread out, and going to the same, legitimate payee  making 
+them appear less suspicious. So I dont think Lloyds had obligation to intervene with, 
+and possibly prevent, these payments.  
+Ive also considered whether Lloyds is at fault for its actions following the scam. As 
+these were card payments, they were covered by the chargeback scheme  a 
+voluntary scheme run by the card provider, offering some recourse for payment 
+disputes. But such claims can only be considered if theres a dispute with the 
+merchant the consumer paid directly. Here, theres no allegation that the direct 
+recipient  CEX.IO  didnt do what they should have done. At Mr Ms request, they 
+opened an account for him, loaded that with the cryptocurrency he paid for, and 
+subsequently transferred this on. So Lloyds couldnt have helped Mr M recover the 
+payments through this scheme.
+Mr M is also unhappy with Lloyds service over the phone after he raised his dispute. 
+Im aware he wants our service to listen to a particular call. But, as weve explained, 
+its down to us to determine what information we need to reach a fair outcome. And 
+Im not persuaded I need to listen to the call directly, as Lloyds has admitted it wasnt 
+handled as it should have been. Its already paid Mr M £24 for his call costs plus £75 
+for his distress and inconvenience. So all that remains for me to decide is whether 
+more needs to be done to put this right.
+Broadly, when a business makes an error, our services aim is to put the consumer in 
+the position theyd be in had that error not occurred. So Im not persuaded that, 
+based on how the call was handled, Lloyds ought to refund the money Mr M lost to 
+the scam. For the reasons set out above, Ive found that Lloyds isnt liable for this. 
+But theres no dispute that the service provided during this call was poor, which I 
+accept caused Mr M distress and inconvenience. Im satisfied the compensation 
+already paid fairly reflect this. I havent seen anything to substantiate that more is 
+fairly due for the upset caused, or for his call costs.
+The FCA fines Mr M has referred to (which in any event were levelled against a different 
+entity within the Lloyds brand) dont have a bearing on my findings. Nor does the length of 
+his customer relationship with Lloyds, or how much money it has. My role is to consider the 
+individual merits of his complaint. Whilst I appreciate this will be disappointing for Mr M, who 
+has lost out to a cruel scam, I dont consider it fair to hold Lloyds liable for his loss. 
+My final decision
+For the reasons given above, my final decision is that I dont uphold this complaint. Under the rules of the Financial Ombudsman Service, Im required to ask Mr M to accept or 
+reject my decision before 1 September 2022.
+ 
+Rachel Loughlin
+Ombudsman

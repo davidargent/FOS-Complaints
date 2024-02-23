@@ -1,0 +1,71 @@
+DRN-3389658
+The complaint
+Miss R complains that Monzo Bank Ltd has registered a fraud marker at CIFAS the national 
+fraud database.
+What happened
+Miss R says that her account was hacked and that she wasnt responsible for payments to 
+her account on 23 April 2021. She says that the CIFAS marker against her name is 
+incorrect.
+Monzo Bank said it hadnt made a mistake and wouldnt be removing the marker. 
+Our adjudicator didnt recommend that the complaint be upheld. He explained that there was 
+a high bar for a CIFAS marker to be registered. Here Monzo Bank had received a report 
+from a third-party bank that five payments sent to Miss Rs account between 22:43 and 
+22.48 hours on 23 April 2021 had been obtained fraudulently. The total of £2,400 had been 
+paid out from the account within minutes to a payee Miss R had credited before.
+He could see that all logins to the account that evening had been made using an IP address 
+Miss R had used before. Her email address and a magic link sent to the email address 
+were required to log in. Although the email address on the account had been changed at 
+22:26 that day, this was to one Miss R had since used in her complaint correspondence with 
+Monzo Bank. The faster payment from her account had been authenticated with an 
+encrypted PIN. And it had been made as Monzo Bank said to a payee and with a reference 
+Miss R had used before. He noted that Miss R said that this related to account shed opened 
+that had been hacked too. But he didnt think that there was a plausible explanation of how 
+Miss Rs Monzo Bank account had been accessed by a fraudster. Or why a fraudster would 
+send money to another account of the person being hacked. He noted that Miss R said that 
+Monzo Bank hadnt spoken to her about the marker, but he thought it had sufficient evidence 
+to apply this.
+Miss R didnt agree. She explained that she had mental health problems. She believed her 
+account had been hacked and she wasnt aware of these transactions. This has led to her 
+accounts at other financial businesses being closed too. This had caused her extreme stress 
+and financial difficulty. She is unable to open an account elsewhere and this had ruined her 
+life.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+I need to consider whether the report to CIFAS was made fairly. On this point, Monzo Bank 
+needs to have more than a suspicion or concern. It has to show it had reasonable grounds to 
+believe that a fraud or financial crime had been committed or attempted and that the 
+evidence would support this being reported to the authorities.
+Ive reviewed the audit and systems evidence it has provided about the payments that day. 
+Im satisfied that the log on to Miss Rs account came from a device that had previously been 
+used to access the account. The email address used was one she had access to. And the 
+payment out of the account required an encrypted PIN and so used strong customer 
+authentication. The payment went to an account Miss R had set up. There is no evidence to 
+support that the account the payment went to had been hacked. And I dont find it most likely 
+that an unknown third party would have been able to access her Monzo Bank account in this 
+way. I find it most likely she was complicit in these transactions.
+Monzo Bank says that it applied the CIFAS marker because Miss R received fraudulent 
+funds into her account. So, Ive looked at whether Monzo Bank was fair to apply the marker, 
+based on the evidence it had, and the investigation it carried out. CIFAS guidance says the 
+business must have carried out checks of sufficient depth to meet the standard of proof set 
+by CIFAS. This essentially means that it needs to have enough information to make a formal 
+report to the police. And that any filing should be for cases where there are reasonable 
+grounds to believe fraud or financial crime has been committed, rather than mere suspicion. 
+Having reviewed Miss Rs account of events and the evidence Monzo Bank has provided, 
+Im satisfied that Monzo Bank had sufficient evidence for the CIFAS marker to be recorded. 
+In coming to this view, Ive taken into account the following reasons:
+- Miss R received fraudulent funds into her account. 
+- She was in control of who had the benefit of this money.
+- Monzo Bank had grounds to believe that Miss R had used fraudulently obtained 
+funds based on the evidence it had.
+Im sorry to hear about the difficult circumstances Miss R has described and how what 
+happened has affected her. But Im afraid that I dont have a reasonable basis to find that 
+Monzo Bank has made a mistake in applying the CIFAS marker or should do anything 
+further. I know she will be very disappointed by what Ive said about her complaint.
+My final decision
+My decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Miss R to accept 
+or reject my decision before 14 June 2022.
+ 
+Michael Crewe
+Ombudsman

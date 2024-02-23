@@ -1,0 +1,94 @@
+DRN-3451720
+The complaint
+Mr F complains that Revolut Ltd failed to refund a transaction he didnt recognise.
+What happened
+Mr F had generated a virtual debit card for use with online transactions which was held 
+within the Revolut app. Mr F used his phone to access the app. Whilst out shopping Mr F 
+explained that he noticed a large payment had been made to an online merchant based 
+overseas that he didnt recognise. The payment was made using the virtual debit card.
+Mr F also noticed use of the virtual card to a UK website had been made just before the 
+large transaction, but this was for £0.00 and was reverted. This type of transaction is 
+referred to as a ghost transaction.
+Mr F contacted Revolut about the unrecognised transaction and asked them to investigate it 
+and provide a refund. Mr F completed a request which he sent to Revolut.
+Revolut looked into the transaction and decided they couldnt refund Mr F, nor could they 
+proceed with a Chargeback request because they believed Mr F was responsible for 
+authorising the transaction. A complaint was raised at the same time Mr F brought it to the 
+Financial Ombudsman Service for an independent review.
+Revolut investigated the complaint and maintained their position and declined to refund Mr 
+F. His complaint was looked into by one of our investigators who asked for information from 
+both of the parties. Mr F explained that hed never used this merchant overseas and sent 
+information that the website was no longer accessible. He said that hed also never used the 
+UK merchant responsible for the ghost transaction either. Mr F believed that Revolut had 
+failed him because they had opportunity to stop the payment because it was in a pending 
+state when he informed them about it. He also thought that Revolut should have done more 
+to highlight these unusual payments on his account. Mr F explained how the UK merchant 
+with the ghost transaction had confirmed the payment was fraudulent.
+Revolut provided information about the transaction including how virtual cards worked. Our 
+investigator considered that it was reasonable for Revolut to hold Mr F liable for the disputed 
+transaction and didnt uphold his complaint. 
+Mr F disagreed with the outcome and asked for a further review of his complaint. Mr F 
+believed that the reason for the disputed transactions may be the result of a hack. He 
+reiterated his earlier concerns about Revoluts performance when protecting his account.
+Mr Fs complaint has now been passed to me for a decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+The relevant law surrounding authorisations are the Payment Service Regulations 2017. The 
+basic position is that Revolut can hold Mr F liable for the disputed payments if the evidence 
+suggests that its more likely than not that he made them or authorised them. 
+Revolut can only refuse to refund unauthorised payments if it can prove Mr F authorised the 
+transactions, but Revolut cannot say that the use of the virtual card details conclusively 
+proves that the payments were authorised. 
+Unless Revolut can show that consent has been given, it has no authority to make the 
+payment or to debit Mr Fs account and any such transaction must be regarded as 
+unauthorised. To start with, Ive seen the banks technical evidence for the disputed 
+transaction. It shows that the transaction was authenticated using the payment tools issued 
+to Mr F.
+Because the transaction was properly authenticated by the payment tools issued to Mr F, Im 
+satisfied that Revolut had the appropriate instructions with which to carry out the payment. 
+But, Ill need to consider if sufficient evidence has been provided to show that Mr F 
+consented to the transactions.
+Revolut have explained that the virtual card is a means to help protect from unauthorised 
+use when used to make purchases online. The card details are generated and can only be 
+used for one substantive transaction before automatically cancelling itself. The actual details 
+are only available within the app of the user  here thats Mr F. Revolut staff are unable to 
+see the complete number of the card. The disputed transaction was made using the details 
+from the card that was then manually entered into the merchants payment systems.
+Mr F has confirmed that the phone he uses with the app has security to protect unauthorised 
+access and the app requires additional security steps before being able to see the virtual 
+card details. So, its difficult to see how anyone else could obtain those details without 
+access to the phone and information related to the security information needed to open the 
+app. I appreciate Mr F has speculated that the details were obtained as the result of a hack 
+on Revoluts systems, but I dont think thats the explanation here. Revolut investigated the 
+use of Mr Fs account and couldnt find any unauthorised access to it.
+Because the virtual card has such restricted access to it and the details are only available in 
+the app, I think its more likely than not that Mr F was responsible for using those details as I 
+cant see any other plausible way for the actual card details to be obtained.
+Mr F was critical of how Revolut protected his account and thought the two uses of the card 
+were unusual, including the amount of the substantive disputed transaction. Having looked 
+at Mr Fs account, he kept it funded using transfers from another account (which is a typical 
+way for such accounts to be used)  and when the disputed transaction was made, there 
+were funds available in it. I dont think the disputed transaction was particularly unusual as 
+there had been an even larger purchase made less than a week earlier from the account. I 
+also noted there were several similar ghost transactions on the account with different 
+suppliers, so the appearance of another one doesnt stand out as unusual.
+When Mr F notified Revolut about the disputed transaction, it was showing as pending and 
+he thought it was possible to stop the payment. When pending appears it means the 
+payment process has started and is still being processed. Unfortunately, it doesnt mean that 
+it can be stopped at that point. Once the authorisation process is initiated (by using the 
+virtual card details in a payment system), the payment cannot be interrupted. I realise Mr F 
+thought Revolut failed to act on it, but they werent able to do anything about it  even 
+though it appeared to still be pending.
+ChargebackChargebacks are part of the payment processors system and its not a right that can be 
+insisted upon. But, we would expect a Chargeback request to be made if there was a 
+reasonable chance of success. After looking into the circumstances, Revolut decided that 
+they couldnt use it to challenge the payment on Mr Fs behalf. I think it was reasonable for 
+them not to use the Chargeback system based on their evaluation of the circumstances.
+My final decision
+My final decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr F to accept or 
+reject my decision before 8 July 2022.
+ 
+David Perry
+Ombudsman

@@ -1,0 +1,180 @@
+K821x#15complaint
+Mr P has complained that American Express Services  Europe  Limited  (Amex) has unfairly
+declined his claim under section 75 of the Consumer Credit  Act 1974.
+Im aware this matter  has also affected  his wife, Mrs P. However, as Mr P is the cardholder,
+hes the eligible  complainant under our rules,  not Mrs P. For this reason I refer only to him,
+and I intend no discourtesy  to Mrs P.
+background
+facts
+Mr P decided to buy a new kitchen, from a supplier I will call O. Unfortunately,  it didnt
+arrive. Despite repeated  attempts  to contact O about  it, he remained (and remains)  without
+the new kitchen.  The cost was £24,818, but Mr P paid a total of £24,718. Hes explained this
+was because O didnt  take an £100 payment, although its unclear why this was. As I
+understand it, O is now in liquidation, so this may explain  it. Mr P paid £1,688 of the total
+using his Amex  credit card. Amex has refunded this amount,  on the basis  of non-receipt of
+goods/services, by way of chargeback. But Mr P wanted Amex to reimburse the rest of the
+money he paid, so lodged a claim  under  section  75. 
+Amex considered his claim, but declined  it. It said that it didnt meet  the requirements of
+section 75. It said there had been a fourth party called Stripe involved when Mr P made  the
+payment on his Amex  card. It said that the involvement of Stripe in the transaction  meant  the
+requirements of section 75 hadnt  been  met.
+Mr P was unhappy with this, and brought a complaint  to our service.  He said that he hadnt
+been aware of Stripes involvement, and that his Amex card statement showed the name of
+the supplier, O. He thinks it should have shown  Stripe, so hed have been aware there  was
+another party involved. Had he known,  he says hed have cancelled the payment and made
+it by other  means, so as to ensure he had the protection of section 75.
+One of our adjudicators looked  at what had happened. She agreed  that the involvement of
+Stripe had broken the debtor-creditor-supplier (d-c-s) link that section 75 requires. Ill
+explain more about what this is, and what it means,  below.
+Mr P felt this was unfair.  In summary, he said that Amexs terms and conditions  made  no
+mention of a fourth party meaning  the link was broken.
+The complaint was then passed to me. As I disagreed  with our adjudicator, I issued a 
+provisional decision setting out my reasoning.
+my provisional decision
+First, I will clarify my role. I am not a court. That means Im not deciding  Amexs liability
+under section 75. My role is to take into account  the law, which  includes section 75. Then
+having done so, I need to decide what I think is fair and reasonable. So, Ive thought  about
+whether Amex did enough when  it looked at Mr Ps claim and, if not, what  it should do to put
+things right.
+I appreciate what Mr P has said about the terms and conditions. I will not comment on this
+Ref: DRN92491342though, because I dont think the complaint turns  on it. So I am not making  a finding on this
+point. Rather, I disagree with Amexs interpretation  of how the role of Stripe affects the d-c-s
+link. My provisional decision is that it doesnt.  Ill explain why.
+Section 75(1) says the following:
+Liability of creditor for breaches by supplier.
+If the debtor under a debtor-creditor-supplier agreement falling within  section 12(b) or
+(c) has, in relation  to a transaction financed by the agreement, any claim against the
+supplier in respect of a misrepresentation  or breach of contract, he shall have a like
+claim against the creditor, who, with the supplier, shall accordingly be jointly and
+severally liable to the debtor.
+So, if there was a misrepresentation or breach of contract by O, then its fair to require Amex
+to put things right  provided the requirements of section 75 are met.
+Amex said in its letter to Mr P, dated 26 January  2018, that there  is no d-c-s link, so this
+requirement of section 75 hasnt been met. It said:
+Stripe is a Merchant of American  Express but they act only as an aggregator, they
+are not the supplier  of goods/services as defined by section 75. As there  is no
+contractual link between American  Express and [O], we cannot be held liable for their
+alleged failings to you.
+I agree  that Stripe isnt the supplier. The supplier is O. But in a 2007 case in the House of
+Lords - Office  of Fair Trading (Respondents) v. Lloyds TSB Bank plc and others (Appellants)
+and others  (Respondents) [2007]  UKHL 48 - the judgment said, regarding transactions paid
+for by credit card:
+Almost invariably - leaving aside American  Express and Diners Club, who make
+their own arrangements - they are entered into today as part of a four-party
+transaction. But there is nothing in the language  of section  75(1) to indicate  that
+transactions of that kind are excluded from the right of recourse.
+(I note here that the reference to Amex is historical,  so I dont consider this reference  to be
+relevant to Amexs  arrangements  in 2017, when Stripe was involved in Mr Ps transaction.)
+In the same  judgment, it also said:
+In the courts below,  the appellant card issuers contended that the consequence of
+the development of four-party schemes  - whereby a credit card can be used to pay a
+supplier not recruited into the network  by, and not in a contractual relationship  with,
+the relevant card issuer - was that there were no arrangements, pre-existing or in
+contemplation, between that card issuer and supplier  within  the meaning of s 12(b)  of
+the 1974 Act. So, they submitted, section 75(1) could have no application. Both
+Gloster J [2005] 1 All ER 843 and the Court of Appeal (Waller, Smith and Moore-Bick
+LJJ) [2007] QB 1 rejected that submission, and the House refused permission to
+appeal on the point.
+Its clear to me that the court decided that the involvement of a fourth  party, that wasnt in a
+contractual relationship with the card issuer, didnt  necessarily  break  the link. I see no
+Ref: DRN92491343reason why it would  be fair or reasonable of me to depart from the courts findings.
+Amex has described  Stripe  as being its merchant.  It is clear to me that under section 12(b)
+of the Consumer Credit  Act, referred to above, there only need to be d-c-s arrangements
+between the parties  (including the contemplation of future arrangements)  - there doesnt
+need to be a contractual link between them. So if Amex signed up Stripe as a merchant,
+knowing what Stripes business  model was, then I consider  that this was reasonably  within
+the contemplation of Amex - and therefore  meets the d-c-s requirements. This wasnt a
+private arrangement  between O and Stripe.
+Even if Stripe were not a merchant of Amex, it has certainly  acted as a payment aggregator
+ and Amex has also described it as acting as such. And Im not satisfied that is sufficient
+to break the d-c-s link, because there would have been an arrangement in place, or the
+contemplation of future arrangements. But in any event, is seems clear that Stripe was
+signed up as a merchant.
+The involvement of Stripe is a reflection of how modern day transactions  may take place.
+And Im satisfied the wording of the legislation does not preclude such  modern day
+developments from being covered by section 75. Amex was aware that Stripe would be a
+party to transactions   it has described  it as both its merchant  and an aggregator. And Ive
+explained why, in Mr Ps case, this does not affect the d-c-s link.
+So, to summarise.
+O had an agreement  with Stripe, specifically so it could accept card payments from
+providers such as Amex.
+Amex has a merchant  agreement with Stripe,  so that Stripe can offer card payment
+services to retailers such as O.
+Amex is aware of Stripes operating model,  and that it provides facilities to retailers
+that wish to accept  payments made  by Amex.
+Whilst Amex has no direct  agreement with O, the legislation  speaks of
+arrangements.
+The link connecting O, Stripe and Amex  is sufficient, for the reasons Ive explained,
+to bring Mr Ps transaction  within the scope of section 75.
+For these reasons, I dont  think  Amex  acted fairly  in turning down Mr Ps claim on the
+basis of there being no d-c-s.  This means I need  to think about  what  Amex  should  do to put
+things right.
+I dont think its in dispute that theres  been  a breach of contract  by the supplier. Despite
+Mr Ps best efforts, he remains without the kitchen. Amex appears to have  already  accepted
+there was a breach of contract, given  it gave a refund through the chargeback mechanism.
+And from my own research, O is in liquidation. So it looks as if Mr P will not be getting  the
+kitchen he paid for.
+Ive looked at what Mr P paid, and when. Its as follows:
+31 May 2016. This was a payment of £1,000, by debit card. Mr P has explained he
+no longer has this account,  but has provided proof  of the transaction  in the form of
+a receipt from O.
+28 April 2017. This was for £9,149.56  by bank transfer. (I note that there were two
+payments out, but one was in error  and was re-credited.)
+Ref: DRN9249134429 September 2017. This was for £12,880.44 and was by bank transfer.
+7 December 2017. This was the £1,688 paid on Mr Ps Amex card, which  has already
+been refunded.
+As there has been a breach of contract by the supplier, and Im satisfied d-c-s is in place, I
+think its fair that Amex  refunds Mr P the amounts above, that it hasnt yet refunded.  And as
+Mr P has been without the funds, it should  add 8% simple interest a year to each amount,
+from the date Mr P made  each payment, to the date of settlement.
+I cannot award compensation for the distress  and inconvenience Mr P has suffered because
+of Os failings. But Ive thought about whether Amex has also caused him distress and
+inconvenience. I think it has. As Ive explained, I think  it was unfair  of Amex not to meet
+Mr Ps claim. This has caused him considerable worry, as he thought he would never recoup
+his significant  loss. I think it fair that Amex pays him £250 compensation to reflect this.
+responses to my provisional  decision
+Mr P agreed with my provisional findings.
+Amex did not. It did not agree that, in this case, there are the required arrangements  in 
+place pursuant  to section 12b of the Consumer Credit Act. 
+my findings
+Ive considered all the available  evidence  and arguments to decide  whats  fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I am upholding  Mr Ps complaint. I accept of course  that each case  must be 
+considered on its merits. And, sometimes a scenario  may not be sufficient to have in place 
+the required d-c-s link. However, I am satisfied it is in place here. Or in other words, Im 
+satisfied that there are the required arrangements in place under section 12b of the 
+Consumer Credit Act, for section 75 to apply.
+This is for the same  reasons as I set out in my provisional decision,  which  is set out above  
+and forms part of this decision. Amexs response had not added anything further to persuade  
+me to depart from my position.  There is also further  case law to support  my position.  This is 
+the High Courts judgment in Governor and Company of the Bank of Scotland  v Alfred 
+Truman (a firm) [2005] EWHC 583 (QB).
+Here, the court  was considering a five-party structure (a debtor, a card-issuer, a merchant 
+acquirer, a solicitors firm and a car dealership).  The fifth party, the car dealership, had no 
+contractual or other  direct  relationship with either  the Visa or MasterCard  scheme. But it was
+held that there still existed  arrangements  sufficient  for d-c-s to be in place.
+In Mr Ps case, this argument is even stronger. This is because  it involves a four-party 
+structure - and Stripe is specifically and publicly in the business of payment processing.  And 
+Amex had a specific  agreement in place with it. So, in Mr Ps case the card issuer  would 
+seem in a stronger position both to know about  and to influence  or prevent the activities of 
+the payment processor  than the card issuers were in the Truman  case.
+Accordingly, Im satisfied that Amex should  have  met Mr Ps claim. I note, in this regard, that 
+its clear Mr P did not receive his kitchen, and no dispute has been raised about this. To put 
+Ref: DRN92491345things right, Amex  should refund the payments Mr P made  (which  I set out above, and 
+excluding the refund it has already  given),  adding 8% simple  interest  a year,  as Mr P has 
+been without these funds. It should also pay him £250 compensation for the distress and 
+inconvenience caused by the claim not being  met when I consider it should reasonably have 
+been.
+my final decision
+For the reasons  given  above, its my final decision to uphold this complaint.  I require  
+American Express Services Europe Limited  to:
+refund  Mr P the payments he has made,  that it has not already refunded, adding 8% 
+simple interest a year, from the date of each payment to the date of settlement*; and
+pay him £250 compensation for the distress  and inconvenience caused.
+*If Amex considers  it should deduct income tax from any 8% interest element of my
+award it may do so, but should give Mr P the necessary certificate.
+Under the rules  of the Financial Ombudsman Service,  Im required to ask Mr P to accept or 
+reject my decision  before 29 November  2020.
+Elspeth Wood
+ombudsman
+Ref: DRN9249134

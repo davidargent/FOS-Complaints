@@ -1,0 +1,120 @@
+DRN-3446801
+The complaint
+Ms M complains that Capital Com (UK) Limited unfairly closed more positions than it needed 
+to when she fell below the margin requirements of her trading account.
+What happened
+Ms M has a contracts for differences (CFD) trading account with Capital Com. On 
+1 February 2021 at 8:11am Capital Com closed 10 GBP/USD CFD positions Ms M had 
+opened. Ms M contacted Capital Com about what happened. It told her the positions were 
+closed as she had fallen below the margin requirements needed to keep these positions 
+open.
+Ms M thought it was unnecessary for Capital Com to close all the positions, as closing only 
+some of these wouldve been enough to bring the account back within the margin 
+requirements. She had another account with Capital Com which she thought should have 
+been considered when it was calculating her margin position. 
+As Ms M felt these positions were unfairly closed and given her losses were around £33,000, 
+she complained to Capital Com. She asked they provide her with more detail around the 
+closure of the positions and that it reimburse her. But in response, Capital Com said it had 
+fairly closed these positions on margin call. And as it thought it had acted within the terms of 
+the account, it said it had closed the positions fairly and hadnt caused Ms Ms loss.
+Unhappy with this explanation, Ms M asked our service for help. She explained that in 
+addition to her losses, her interpretation of the terms and her other account, shed also paid 
+significant overnight fees which she would be unable to recoup and that what happened 
+caused a great deal of stress. 
+One of our investigators looked into whatd happened, but didnt think Capital Com had done 
+anything wrong. He thought Capital Com was entitled to rely on its terms and had applied 
+them fairly as Ms M fell below the margin requirements of the account. He explained the 
+reason all positions were closed was because Capital Coms policy was to close all open 
+losing positions before evaluating the margin position again.
+Ms M didnt agree as she felt the policy hadnt been applied correctly. She said Capital Com 
+should have not closed all open positions in one go  its terms and conditions said closure 
+would be done gradually but if this isnt what it meant, then the terms and conditions were 
+not transparent and instead open to interpretation. It also wasnt acting in the clients best 
+interest which was unfair. As an agreement wasnt reached, the complaint was passed to me 
+to consider.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+In offering CFD products, Capital Com as a regulated business must follow relevant rules 
+that flow from intervention in the sector by the European Securities and Markets Authority 
+(ESMA) in 2018. Relevant here was the requirement for Ms M to have enough equity  being 
+the total unrealised value of open positions and the account balance  on her account to 
+fund her running positions.
+Ms Ms equity fell below 50%  I do however appreciate that she doesnt contest this point, 
+but instead is unhappy with how Capital Com handled what happened.
+The terms of Ms Ms account with Capital Com set out what would happen in the event her 
+account fell below the minimum margin requirements when trading. Section 5 of the leverage 
+and margin policy  which formed part of the overall terms and conditions of Capital Coms 
+service with Ms M  said that she must maintain the minimum margin requirements for her 
+open positions. It went on to say the responsibility remain with Ms M to maintain and monitor 
+the account margin and ensure sufficient equity was in the account to maintain her positions. 
+Though Ms M says the terms were unfair and werent given the prominence they should 
+have been, I think they were clearly set out within a key document which was only six pages 
+long. 
+As mentioned, the rules required Capital Com to take action if Ms Ms account equity fell 
+below 50%. This said, I would expect Capital Com to set out the procedure and the actions it 
+would take to ensure Ms M understood the impact it might have on her trading. As Ms M 
+wouldve agreed to the terms at the time of opening the account  which included the 
+leverage and margin policy  Ms M agreed that Capital Com could take such action. It said:
+When the minimum margin level of 50% is reached, the positions and/or orders are 
+closed out in the following order until minimum Margin requirement is restored:
+1) all pending orders are cancelled,
+2) If the Margin Level is still below 50%, then all losing open positions on open markets 
+are closed,
+3) If the Margin Level is still below 50%, then all remaining positions on open markets 
+are closed,
+4) If the Margin Level is still below 50%, then everything else is closed, as soon as the 
+markets open.
+This clearly set out the order taken to restore margin if the account equity fell below the 
+margin requirement. In Ms Ms case Capital Com got to the second step which was that all 
+losing open positions on open markets would be closed. That was an absolute statement, so 
+only once that action was fully complete would Capital Com reconsider the equity against the 
+margin requirement. 
+Having looked at the 10 positions Ms M complains of, I see they were all trading at a loss  
+the positions therefore fell under the category of losing open positions which meant Capital 
+Com would close all of them before checking whether the account had moved back within 
+the margin requirements as it set out in its terms.
+I appreciate Ms M makes the point that Capital Com couldve closed some of her positions, 
+and not all of them  after all, this mightve been enough to satisfy margin. But there was no 
+mechanism within Capital Coms policy which said positions would be closed individually, as 
+Ms M expected, until the margin requirement was met. 
+While some brokers deal with margin calls in a manner closer to Ms Ms expectations, just 
+because other firms do doesnt mean Capital Com has to do the same  it instead had to do 
+what it said itd do within the terms which formed its agreement with Ms M. Importantly, the 
+regulations did not prescribe how firms must handle margin calls or which positions should 
+be closed, so Capital Com had discretion here  but from everything Ive seen it acted 
+reasonably and in line with its own terms.I see Ms M challenged Capital Coms use of the word gradual when it explained how 
+margin calls would work. Within the leverage and margin policy, at 4.10 it said:
+A "Close Out" takes place when the client's Margin Level is at or below 50%, and the 
+Company decides to exercise its right to liquidate client's open positions on a gradual 
+basis subject to clause 5 below.
+But I dont agree that the use of the word gradual meant Capital Com ought to have closed 
+her positions one by one. Instead I think its clear that gradual was a way to explain its four 
+step approach which I have shared above and that it referenced as clause 5  this showed 
+Capital Com wouldnt close all positions as soon as margin breached 50%, but instead that 
+itd work through pending orders, then losing trades, then profitable trades and lastly closed 
+markets. When working through the process, at 2) Capital Com made it clear it would, with 
+my emphasis, close all losing open positions so it didnt have the discretion to leave some 
+trades open as Ms M now argues. 
+Ms M also said Capital Com shouldve relied on her balance held in another account with it 
+when calculating her margin but I dont agree. The ESMA rules told Capital Com it had to 
+manage her margin on a per account basis. It wasnt for Capital Com to manage Ms Ms 
+funds for her by moving a balance between accounts, nor should it have been expected to 
+take higher level view of Ms Ms situation before following its policy  instead, it acted in line 
+with its terms, which as Ive said before was important as it upheld the agreement it had with 
+Ms M. 
+Though Ms M feels Capital Coms actions were unfair, it was required to take steps to 
+protect her account when she fell below 50% margin  even if only marginally as what 
+happened here. Though she may feel Capital Com caused losses given it crystallised them, 
+its important to remember the regulations require firms to take action at 50% as the market 
+couldve slipped lower and lower. And the action Capital Com took was in line with what it 
+said itd do. So from everything Ive seen, I dont think it would be fair to ask Capital Com to 
+compensate Ms M now.
+ 
+My final decision
+For the reasons given above, I dont uphold Ms Ms complaint. Under the rules of the 
+Financial Ombudsman Service, Im required to ask Ms M to accept or reject my decision 
+before 17 January 2023.
+ 
+Aimee Stanton
+Ombudsman

@@ -1,0 +1,159 @@
+DRN-4126701
+The complaint
+Miss N complains that Advanced Payment Solutions Limited trading as Cashplus
+(Cashplus) failed to refund a transaction she didnt recognise.
+What happened
+What Miss N says
+In October 2021 Miss N received an email notification from Cashplus that a bank transfer for
+£900 had been made from her account. Miss N didnt recognise the payment and contacted
+Cashplus to advise them of the situation and seek a refund.
+Miss N says she tried several times to get an update on her claim from Cashplus with little
+success. She said her online banking access was blocked and she didnt hear anything for
+some time, eventually contacting Cashplus in June the following year.
+Cashplus declined to refund Miss N and she made a complaint.
+What Cashplus say
+Cashplus received Miss Ns notification about the unrecognised payment and looked into the
+transaction. They said that they couldnt determine how it had happened and wanted more
+information from Miss N in order to investigate it. They said they tried to contact her without
+success which meant they had no further information to determine if it was unauthorised or
+not.
+Cashplus later accepted that they could have done more to find out the additional
+information they needed from Miss N. When they again looked into the circumstances of the
+payment, they identified that a new device (mobile phone) had been added to Miss Ns
+account as a trusted device on the day of the disputed transaction. Cashplus confirmed
+that in order to do this, a message is sent to the current registered phone with a one-time
+passcode (OTP) which is needed to authorise the new phone.
+Cashplus couldnt determine how this could have happened without Miss Ns knowledge and
+didnt believe theyd made an error. Cashplus awarded Miss N a small payment for the way
+they handled her dispute and the delay.
+Cashplus confirmed that theyd contacted the beneficiary bank who received the disputed
+transaction and hadnt heard anything from them about whether any funds remained.
+The investigation so far
+Miss N was left unhappy with how Cashplus dealt with her situation and brought her
+complaint to the Financial Ombudsman Service for an independent review where it was
+looked into by one of our investigators.
+Both parties were asked for information about the complaint.
+Miss N was able to say that:
+She doesnt remember receiving any OTP that day from Cashplus.
+Shed changed her phone a couple of weeks prior to the disputed transaction
+occurring.
+No one else knew her login details for her Cashplus account and no one else used
+her phone. Her phone was also protected by biometric security and a code.
+Miss N had received an unusual text about the payment of delivery charges. Shed
+paid them using an account she held with another bank.
+Miss N confirmed shed spoken with someone at this time (likely a scammer) but
+hadnt told anyone the details about her Cashplus account.
+Cashplus provided details about their investigation and information about the account
+including:
+Evidence of the text with the OTP that was sent to Miss Ns registered mobile phone.
+A list of devices, IP address data and timings that had accessed the account.
+Payment details related to the disputed transaction.
+Evidence of their attempts to retrieve the funds.
+After considering the evidence, the investigator didnt think that Miss N was responsible for
+the disputed transaction and recommended it be repaid including interest. He thought that:
+A new device was used to make the payment with a different IP address to the ones
+normally used by Miss N.
+There was proof that Miss N had been speaking with fraudsters.
+She was tricked into passing details about her account including the OTP to them so
+they could register a new device and move the funds from the account.
+Cashplus disagreed with the investigators outcome and only thought the complaint was in
+relation to the delay in their investigation and not the failure to make a refund. Cashplus
+maintained that they were never given the appropriate information by Miss N in order to
+substantiate her claim, which is why they never refunded it.
+As no agreement could be reached, the complaint has now been passed to me for a
+decision.
+I issued my provisional findings on the merits of Miss Ns complaint on 14 April 2023. In my 
+provisional findings, I explained why I intended not to uphold Miss Ns complaint and offered 
+both sides the opportunity to submit further evidence or arguments in response. An extract of 
+that decision is set out below and forms part of this final decision:
+Ive considered all the available evidence and arguments to decide whats fair and
+reasonable in the circumstances of this complaint.Extent of this complaint
+Cashplus argued that the complaint was only in relation to the delay, rather than the
+disputed transaction. I disagree here as its apparent that Miss Ns situation was driven by
+the failure to make a refund, rather than the delay in isolation. I think Cashplus had the
+appropriate information and time to look into the matter. It follows that our service is able to
+consider the complaint.
+Authorisation
+The relevant law surrounding authorisations are the Payment Service Regulations 2017. The
+basic position is that Cashplus can hold Miss N liable for the disputed payment if the
+evidence suggests that its more likely than not that she made it or authorised it.
+Cashplus can only refuse to refund unauthorised payments if it can prove Miss N authorised
+the transaction, but Cashplus cannot say that the use of the internet banking app
+conclusively proves that the payments were authorised.
+Unless Cashplus can show that consent has been given, it has no authority to make the
+payment or to debit Miss Ns account and any such transaction must be regarded as
+unauthorised. To start with, Ive seen the banks technical evidence for the disputed
+transactions. It shows that the transactions were authenticated using the payment tools
+issued to Miss Ns. Ill now need to consider the information provided by both parties to
+determine whether theres sufficient evidence to hold Miss N responsible for the disputed
+transaction or not.
+It's Miss Ns case that she received suspicious calls from someone she later believed was a
+scammer and a new device was registered on her account which enabled the payment to be
+made without her permission. Miss N is adamant that she never divulged information about
+her Cashplus account to the scammer, only her other bank details. Miss N has confirmed
+she never received the OTP from Cashplus.
+Cashplus have provided evidence that they sent the OTP to the registered phone (which
+remains the same one used by Miss N including the same number given to our service).
+Once this OTP was entered into Cashpluss system and together with the relevant login
+details for Miss Ns account, this allowed the device to then be used to transfer funds from
+the account.
+Miss N has provided evidence that she purchased a new phone shortly before the disputed
+transactions took place. She said she didnt have the particular version of the phone that
+was registered by Cashpluss system that made the disputed transaction. Ive examined the
+data related to the devices logged on to the account around the time of the disputed
+transaction. That information shows that three devices logged on to the account the day of
+the disputed transaction. Two of the devices have a history both before and after that day of
+logging on to the account, so it seems reasonable to conclude they were known to Miss N
+and used by her. Its also apparent that both of these devices were in use prior to the
+purchase of the new phone.
+The third device appears for the first time just before 6 pm that evening when the OTP is
+sent to Miss Ns phone and shortly afterwards made the disputed transaction. The IP
+address (used to identify information about the network used by a device) is different to the
+ones usually used by Miss Ns other devices. Over the next few hours, all three devices log
+on to the account. The third device was last used the following day in the early evening.
+Cashplus later deregistered it after Miss N told them about her issue.I have some trouble with the current case that the scammers were responsible for the
+payment from her account and thats because Miss N denies telling them about the
+Cashplus account in her call and also that she says she didnt receive the OTP (which its
+been argued was given to the scammers by Miss N). Miss N couldnt have passed these
+details to the scammer if, as she says, she didnt receive it?
+It also seems unlikely that scammers could obtain the necessary login details for the
+Cashplus account, without which it wouldnt seem plausible they could gain access to the
+account. They would also need the OTP to register the new device.
+The evidence Ive examined shows a new device was registered after an OTP was sent to
+Miss Ns phone and then the payment made from her online account. Miss N has said she
+hadnt told anyone else about it (including the scammers), so it seems implausible that they
+could be responsible for making the payment from the account.
+Currently, there is no alternative explanation that Ive seen that third parties were
+responsible for the disputed transaction. Theres no point of compromise that explains how
+third parties could have obtained the login details and the OTP, both of which were needed
+to access the account.
+Delay
+There was also some confusion and delays with the investigation carried out by Cashplus,
+they didnt believe they had enough to investigate the transaction and were waiting for Miss
+N to speak with them, while Miss N thought that Cashplus were investigating and was
+waiting for an outcome. I can see that this took too long and Cashplus recognised this in
+their award to Miss N which I dont propose to change.
+Overall, my current thoughts are that the evidence doesnt show a third party was
+responsible for the disputed transaction, without which I couldnt uphold the complaint.
+My provisional decision
+Im currently intending not to uphold this complaint.
+I invited Miss N and Cashplus to give me any more evidence and information they wanted 
+me to consider before issuing my final decision. Cashplus didnt have anything further to add 
+and Miss N didnt disagree with my assessment. Although, she still doesnt remember 
+receiving the OTP and asked for evidence of it being sent to her phone. She repeated her 
+disappointment in the way that Cashplus treated her.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, and as neither party had anything further to add that would change my 
+opinion, I see no reason to reach a different conclusion. So, this final decision confirms the 
+findings set out in my provisional decision.Ive included an image of the OTP being sent to Miss Ns phone as per her request. I hope 
+she understands why, based on an objective assessment of the available evidence, Ive 
+reached the conclusion not to uphold this complaint.
+My final decision
+My final decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Miss N to accept  
+or reject my decisi
+on before 13 June 2023.
+David Perry
+Ombudsman

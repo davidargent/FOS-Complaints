@@ -1,0 +1,147 @@
+DRN-4333239
+The complaint
+Mr G complains that Monzo Bank Ltd (Monzo) refuses to refund his losses after he fell 
+victim to a scam. Mr G has a representative assisting him with his complaint. 
+What happened
+Mr Gs friend had come across an investment opportunity and showed Mr G the investment 
+company website and a page on a popular social media platform. He informed Mr G that the 
+investment opportunity had been endorsed by a famous celebrity and had a large following. 
+Mr Gs friend informed him that his own trading account showed significant profit from the 
+investment that hed made. 
+Mr G made an enquiry on the scam company website and then received call from scammer 
+to discuss the opportunity. The scammer at one point suggested Mr G would be mortgage 
+free in a month. 
+Mr G says he downloaded anydesk and the scammers guided him through the process of 
+setting up a new account with Monzo. He was then directed to transfer £10K from his main 
+bank account (which Ill call bank A) to his Monzo account. The money was subsequently 
+transferred to a cryptocurrency exchange (which Ill call S). 
+Mr G says the scammer bought bitcoin from his account with S and helped him deposit this 
+into scammers wallet so the scammers could start trading. 
+Mr G was later contacted by his friend who told him he hadnt been able to withdraw his 
+money and was informed by the scammer that he needed to invest more money to secure 
+his original investment. Mr G then tried to withdraw his own money but was informed of the 
+same  that he needed to invest more to save his investment. At that point Mr G realised 
+that hed been scammed. He has since been unable to recover any amounts owed. 
+Mr G then asked Monzo to refund the money he had lost saying it ought to have intervened 
+and had it done so, it would have discovered the scam and prevented the loss.  
+Monzo says Mr G opened the Monzo account on 21 April 2022 and transferred £10K from 
+bank A to his account with Monzo. He then tried to send the money to S. Monzo said it 
+initially showed him a warning and then stopped the payment. After discussing the purpose 
+of the payment with Mr G via an in-app chat function, Monzo then processed the payment. 
+Monzo says it asked appropriate questions, but Mr Gs answers didnt enable it to discover 
+the scam. Monzo felt it had done nothing wrong and should not be held liable for the loss. 
+The complaint was reviewed by one of our investigators. She felt that Monzo correctly 
+intervened before the payment was processed, asked appropriate questions  but Mr G 
+wasnt completely forthcoming with his answers. Therefore, Monzo did not discover the 
+scam and could not tailor any warnings to the specific scam that Mr G fell victim to. So, she 
+didnt think Monzo should bear the loss in this case. 
+Mr G (through his representative) replied saying he recalls no discussion with Monzo and 
+Monzo mustve spoken to the scammer. Mr G said at times, his screen would go black while 
+the scammers were playing about with his device. And in any event, given the sum in 
+question, they feel the intervention was insufficient, as Monzo ought to have called him 
+rather than discussed this with him via an in-app chat function. They feel that if Monzo had 
+called him, it would have discovered the scam and prevented the loss. 
+As the complaint couldnt be resolved, it was passed to me. 
+In my provisional decision of 10 August 2023, I set out why I was minded to not upholding 
+the complaint. I invited both parties to provide any further submissions they may wish to 
+make before I reached a final decision. Neither Monzo nor Mr G made any further 
+comments. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+In my provisional decision I explained the following: 
+currently I dont intend to uphold this complaint for broadly the same reasons as our 
+investigator, and Ill explain why. 
+To begin with, where customers authorise payments from their accounts, businesses such 
+as Monzo are under an obligation to process such transfers. If consumers are the victim of a 
+scam (like Mr G), the starting point is that consumers are responsible. To be clear, Monzo 
+did not scam Mr G and it is not the perpetrator of the scam. 
+However, financial businesses also have a duty to try to prevent their customers falling 
+victim to scams. Businesses therefore need to strike a balance between intervening in 
+payments to prevent scams or financial harm, against the risk of unnecessarily 
+inconveniencing or delaying legitimate transactions. 
+Whether a payment is (or ought to have been) deemed unusual or suspicious will depend on 
+a number of factors and is very specific to each case. The degree and type of intervention 
+we can expect a business to consider, will again depend on the specific facts of each case. 
+The first thing I must bear in mind is that this was a new Monzo account that Mr G had only 
+recently opened and the scam payment in question is the only payment made out of the 
+account. So Monzo did not have a history of spending to review to identify whether this was 
+an unusual/suspicious transaction for Mr G and had little insight into Mr Gs regular 
+expenditure. 
+Nevertheless, I can see that given the amount of money in question, Mr G was shown a 
+general warning informing him that this could be a scam. Mr G proceeded to make the 
+payment anyway and at this point the payment was stopped and Monzo intervened to 
+discuss the payment with Mr G via an in-app chat function. 
+I understand Mr G says that he doesnt recall discussing this payment with Monzo, and that 
+it was likely the scammer that Monzo was speaking to. He also didnt have any experience 
+using his Monzo account or the in-app chat function. He says the screen went black at points 
+when the scammer had control over his device. 
+However, when Mr G first referred his complaint to this service, while he did say that the 
+scammers used a remote access token to help guide him with opening his accounts, he did not mention the screen going black for periods of time when he couldnt see what the 
+scammers were saying/doing. I think if this has happened, Mr G likely would have mentioned 
+it as part of detailed submission to his complaint. He also did not mention that these 
+payments werent made by him. In fact, the letter of complaint says: 
+Shortly after receiving the money in his Monzo account, he then paid the £10,000 
+(22/04/22) to a newly setup [S] account as instructed by the scammers, which the fraudsters 
+had also set up for him.
+ 
+This indicates that Mr G made the transfer himself. I dont think its likely that Mr S logged in 
+to his Monzo account and made the transfer but was unaware of the warning given by 
+Monzo or that he was unaware the payment had been stopped, even if he was being 
+assisted by the scammers via remote access. Im afraid Im not satisfied that Mr G wasnt 
+party to the conversation, even if he was being guided by the scammers. It may be that he 
+has since forgotten this interaction, but I think its unlikely that the scammers had this 
+conversation with Monzo and Mr G was completely oblivious to that interaction like he 
+claims, when hes also claimed he made the transfer himself. 
+During the conversation, I can see Monzo asked Mr G a series of questions such as why he 
+didnt make the transfer to S directly from bank A, if hed previously made any 
+cryptocurrency investments, what research (if any) hed carried out, and whether he had 
+been given any guidance or advice, for example on social media. Monzo also asked him to 
+confirm which cryptocurrencies he was going to purchase and proof of any purchases he 
+had made prior to this.
+Mr G replied saying that bank A did not like transfers to cryptocurrency exchanges, that he 
+had done a lot of research, that hed only received help from a friend who was experienced 
+in trading in cryptocurrency. He went on to confirm the specific cryptocurrencies he was 
+going to purchase and also confirmed that while he had traded before, he could no longer 
+provide evidence of this as he had traded some years earlier and didnt have access to this 
+evidence. 
+On the back of Mr Gs answers, Monzo did not identify the scam and then could not give him 
+a specific warning or stop him from sending the payment and the payment was then 
+processed.
+I understand Mr Gs representatives feels this intervention was insufficient as it ought to 
+have called him rather than used an in-app chat function. But I disagree. As I explained 
+earlier, any intervention has to be proportionate to the risk presented. Monzo did not have a 
+lot of information about Mr G and the only risk factor present here was the sum itself. So, I 
+think its appropriate for it to have intervened like this and probed to see if there were any 
+other risk factors present here that mightve led it to take further preventative action. 
+Monzo was told that Mr G had traded before, that he hadnt been contacted by anyone other 
+than a friend who was an experienced trader, that hed carried out a lot of research and 
+knew the specific cryptocurrencies he wanted to purchase. He didnt mention anything about 
+the social media endorsement by a famous celebrity or that he was being guided by the 
+scammers. I think Monzo asked appropriate questions and Mr Gs answers did not divulge 
+anything that warranted further preventative action. 
+Even if the scammers had been coaching Mr G or answering the questions for him, I dont 
+think this means Monzos intervention was lacking. It was Mr G who gave remote access to 
+the scammers, and its likely whatever questions Monzo asked, the scammers would have 
+been able to answer them so as to not cause any alarm (whether this was by directly 
+responding to Monzo or by coaching Mr G.) And I reiterate, for the reasons explained above, I am still satisfied that its more likely Mr G was aware of this interaction, and I think that 
+Monzos intervention was reasonable. 
+As Mr G sent the money to an account in his name with S, before he sent it off to the 
+scammers cryptocurrency wallets, Monzo couldnt have retrieved the money for him after he 
+became aware of the scam  so I dont think Monzo could have mitigated the loss at this 
+stage. 
+So, I dont think theres enough here for me to make a reasonable finding that Monzo failed 
+in its duty of care towards Mr G. I think it correctly intervened before processing the payment 
+and carried out an intervention that was proportionate based on the available information it 
+had but wasnt able to prevent the loss. So, while I am very sorry Mr G lost this amount of 
+money, I dont think Monzo should be held liable for the losses in this case.
+In the absence of any new points for me to consider, I find no reason to depart from my 
+original findings as set out in my provisional decision. So, for the reasons set out in my 
+provisional decision (and above), I dont uphold this complaint. 
+My final decision
+For the reasons explained, I dont uphold this complaint. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr G to accept or 
+reject my decision before 3 October 2023.
+ 
+Asma Begum
+Ombudsman

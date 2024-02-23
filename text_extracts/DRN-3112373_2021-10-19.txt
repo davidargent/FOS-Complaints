@@ -1,0 +1,210 @@
+DRN-3112373
+The complaint
+ Mr N complains about National Westminster Bank Plcs decision to hold him responsible for 
+transactions he says he didnt authorise.
+What happened
+ In February 2018, Mr N was working abroad in China.
+One evening, Mr N went out and says his wallet was stolen with his Nat West debit card in 
+and unauthorised transactions totalling around £25,000 were made from his account.
+Mr N says he authorised an ATM withdrawal on the same evening, and later on noticed his 
+wallet  and all its contents, was missing.
+The transactions relevant to the dispute are as follows:
+Date Time Amount Method  Disputed?
+17 February 
+201814:24 £191.32 ATM withdrawal  No
+17 February 
+201816:19 £7,955.47 Chip and PIN  Yes
+17 February 
+201816:25 £6,926.50 Chip and PIN  Yes
+17 February 
+201816:31 £6,897.18 Declined  Yes
+17 February 
+201816:31 £6,897.18 Chip and PIN  Yes
+17 February 
+201816:41 £5,939.78 Declined  Yes
+17 February 
+201816:44 n/a ATM Balance 
+Enquiry Yes 
+17 February 
+201816:45 £286.50 ATM withdrawal  Yes
+17 February 
+201816:49 £2,955.93 Chip and PIN  Yes
+17 February 
+201816:56 £2,876.82 Declined  Yes
+Mr N told our service that he withdrew money from the ATM machine in a hotel.  Later on 
+that evening, when he went to pay for something else, he noticed his wallet missing. 
+Mr Ns wallet had his Nat West debit card, another UK debit card, a card issued from a 
+different country and Mr Ns identification. Mr N reported the matter to the police and has 
+supplied a copy of the police report to our service.
+Nat West investigated Mr Ns fraud claim and declined it. They said they were holding Mr N 
+responsible for the transactions as there wasnt a clear point of compromise for his PIN. And 
+they found it unusual that there was a timeframe of around two hours from Mr Ns last 
+genuine use of the card to the first disputed transaction. Nat West also recognised that no 
+balance enquiry had been carried out prior to the first transaction  so they thought whoever 
+carried out the transactions would have known the account held a high balance.
+Mr N wasnt happy with Nat Wests answer so brought the complaint to our service.
+Our investigator didnt uphold it. In summary he agreed there was no clear point of 
+compromise and also found the two hours wait to use the card unusual. Our investigator 
+thought Mr N should have noticed his wallet missing sooner than he did and found it unusual 
+that the transactions stopped once the disputes had been reported to Nat West. So, he 
+thought it more likely than not that it was either Mr N or someone hed given his card to who 
+carried out the transactions.
+Mr N remained unhappy and therefore the complaint has been passed to me for a decision.
+In August 2021, I issued a provisional decision. In it, I said;
+The relevant regulations in place at the time are the Payment Services Regulations 2017 
+(PSR 2017). PSR 2017 say a payment transaction is regarded as authorised if the payer 
+has given consent to the execution of the payment transaction. If a payment service user 
+(customer) denied having authorised an executed payment  the payment service provider 
+(in this case Nat West) must prove the payment transaction was authenticated. And if it is 
+deemed that a payment transaction hasnt been consented to, it isnt authorised. 
+Nat West has provided evidence to show that Mr Ns genuine card was used for the disputed 
+transactions. This is known by the chip that sits within the card. The transactions were 
+authenticated by the correct PIN being entered. So, Im satisfied from Nat Wests technical 
+evidence that Mr Ns genuine card was physically present when the disputed transactions 
+were made and that the withdrawals in question were authenticated by Mr Ns correct PIN 
+being entered. 
+This is a finely balanced case and I wont be able to say what happened for certain  Ill 
+need to make my findings based on what I think to have most likely happened in the 
+circumstances. In order to uphold it, I must be persuaded that, on balance, it is more likely 
+than not that Mr N didnt authorise the transactions in question.
+Mr N has confirmed the ATM withdrawal was made and authorised by himself  and 
+therefore he states this is the last time he entered his PIN. I appreciate why Nat West think 
+the time lapsed between this transaction and the next transaction (which Mr N disputes) 
+makes it unlikely that this was the point of compromise. But I disagree. Mr N doesnt know 
+when his card went missing  he only noticed his wallet missing later on in the evening when 
+he went to use it. So the time between the card being taken and the first transaction 
+happening could have only been minutes. 
+I think its reasonable to conclude that somebody could have watched Mr N at the ATM 
+machine, enter his PIN and put the card back into his wallet. Mr N cant remember if he 
+received a receipt from the ATM machine as the event took place in 2018 but its plausible to 
+think he could have done. Receipts often show the available balance left in an account so if 
+this was placed back in Mr Ns wallet, the fraudster would have access to the card, know the 
+PIN (because theyd watched Mr N enter it) and know the available balance left in the account from the receipt. Therefore, I believe the point of compromise was Mr N at the ATM 
+machine.
+Ive then gone on to consider if Nat West did enough to protect Mr N  and I dont think they 
+did. I havent seen any evidence to show that any of the transactions in question flagged with 
+Nat Wests fraud prevention system. I say this because the transactions were for significant 
+amounts of money within half an hour of each other. Having carefully considered Mr Ns 
+statements, I dont think its in his nature to carry out these types of transactions and 
+therefore at the very least I would have expected a text message or phone call to have been 
+made to Mr N after the second disputed transaction. Either of these options would have 
+resulted in Mr N needing to speak to somebody at Nat West and explain the transactions in 
+more detail. I think this would have been appropriate given the amount of the transactions, 
+the time they were taking place and the fact the activity was taking place in another country. 
+Nat West has said as they believe Mr N authorised the payments, they dont think the 
+transactions flagging would have made much difference. But I disagree. Blocking the 
+payment until Mr N confirmed whether it was him or not would have protected the account. I 
+appreciate if it was Mr N making the transactions himself, this would have been 
+inconvenient. But I think there is enough evidence to suggest that something was amiss and 
+Id expect Nat West to ensure their customer was protected.
+Mr N also took the actions Id expect him to when he found out about the disputed 
+transactions. He reported the matter to the police and Ive considered the police report 
+carefully. I note from the police report that Mr N lost two other payment cards and 
+identification when his wallet went missing. Mr N has confirmed the other cards he lost didnt 
+hold the same PIN as his Nat West card, but he did report the lost cards to the other banks 
+when he realised they went missing. One of the other banks confirmed steps were taken to 
+prevent fraud so I think its more likely than not the fraudster attempted to use one of the 
+other cards however wasnt successful as would have entered the wrong PIN. Mr N also 
+confirmed he had to replace his identity card but hasnt retained the appointment letter from 
+the immigration office due to the time which has passed.
+I accept this is not a clear-cut case and Nat West have rightly raised several points that 
+could suggest Mr N authorised the transactions himself. However, having considered Mr Ns 
+circumstances, and the circumstances of this complaint alone, Im satisfied that its more 
+likely than not Mr N didnt authorise the five disputed transactions. And therefore, I think Nat 
+West should reimburse Mr N for these amounts.
+I dont consider Nat West are entitled to make any deductions to the refunds for contributory 
+negligence. Contributory negligence carries a high bar and I dont think Mr N is at fault for 
+the circumstances of this complaint.
+I also think a compensation amount of £200 is appropriate due to the trouble and upset this 
+whole situation has caused Mr N. I say this because, although I appreciate a large part of the 
+distress Mr N suffered was caused by the fraudsters, I think Nat West should have been 
+more proactive when recognising the unusual activity on Mr Ns account and should have 
+done more to prevent the transactions from going through. And therefore significantly 
+reduced the impact on Mr N. 
+So I thought Nat West should reimburse Mr N for the five disputed transactions; add 8% 
+simple interest per year on the amount they refund Mr N; and pay Mr N £200 compensation.
+Mr N responded to my provisional decision and agreed with it.
+Nat West responded and didnt agree. In summary, they said;
+the activity on the account shows a large payment was credited into Mr Ns account 
+before the fraud took place  which is unusual;they find it unlikely a fraudster would follow Mr N around for two hours before  and 
+its likely Mr N would have noticed this;
+they feel its unlikely the account balance would have been obtained from a receipt;
+Nat West believes that Mr N authorised the payments himself or allowed somebody else on 
+his behalf. They also dont think the 8% interest is reasonable. Nat West say this indicates 
+an error was made in not refunding at the first point of contact  and they dont believe 
+theyve made an error.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+ Having done so, I see no reason to depart from my provisional findings. Ive explained 
+further below.
+I explained in my provisional decision this is a finely balanced case and I wont be able to 
+say what happened for certain  Ill need to make my findings based on what I think to have 
+most likely happened in the circumstances.
+Ive carefully reconsidered the arguments from both parties  and in particular, the 
+arguments from Nat West in response to my provisional decision. While Nat West have 
+added further commentary, they havent provided any further evidence. Most of what 
+Nat West has said Ive already considered.
+Nat West have confirmed they found activity on Mr Ns account unusual before the disputed 
+transaction took place. Part of my provisional findings focused on the responsibility of 
+Nat West. I explained that I think Nat West should have done more to protect Mr N  and I 
+think that point is strengthened now Nat West admit they found the activity on the account 
+unusual before the disputed transactions. The transactions in dispute were for large amounts 
+and in close proximity of each other. But I cant see Nat West did anything to try and prevent 
+them going through. I appreciate Nat West think Mr N made the payments himself  but that 
+doesnt exclude them from taking steps to protect their customers money. I would have 
+expected these transactions to trigger something in Nat Wests fraud prevention system. And 
+while that could have been inconvenient for Mr N if it was him  or somebody hed 
+authorised to make the payments  it would have ensured Nat West knew if the payments 
+were authorised or not, before allowing them to be processed. And therefore, remove any 
+potential disputes.
+Nat West have said they dont find it likely the balance of Mr Ns account was obtained from 
+a receipt they said most ATMs do not produce a receipt unless requested. While I 
+appreciate Nat Wests comments, I dont think they can be certain if this is the case with 
+ATMs in China  where this transaction took place. I explained previously that as the 
+transactions took place in 2018  Mr N doesnt recall if he requested a receipt or not. If Mr N 
+did request a receipt himself, its more likely than not the available balance would have 
+been listed on the receipt. 
+I appreciate the time between the ATM withdrawal and the first disputed transaction is longer 
+than the usual time wed often see with cases like this. But I dont consider this point alone 
+makes me believe that it was more likely Mr N, or somebody he authorised, who made the 
+transactions. Its impossible for me to distinguish the time between Mr Ns card being taken 
+and when the first transaction was made. The time difference between these two could have 
+been minutes  which makes the fraud entirely plausible.
+Nat West have also referred to historic information which I dont find to be relevant. I say that because Im considering the circumstances of this complaint alone. I dont think Mr N would 
+have gone to the efforts of reporting this fraud to the police, or the immigration office if he 
+carried out the transactions himself. I appreciate Nat West said they couldnt consider the 
+contents of the police report at the time due to the language on it, but thats not a reasonable 
+excuse to hold Mr N responsible for the disputed transactions. I think its fair to assume 
+businesses would have access to a translation service, and I strongly feel the police report is 
+entirely relevant and should have been considered by Nat West at the time Mr N made the 
+claim.
+In summary, I think Nat West should have done more to protect their customers money. If 
+Nat West prevented the transactions from being made until Mr N confirmed or rejected them, 
+the circumstances of this complaint could have been avoided. And because of that, I 
+consider the added 8% interest and compensation to be reasonable.
+Putting things right
+I consider Nat West should put Mr N back in the position he would have been in, had these 
+transactions not been processed  so they should refund the total disputed amount to Mr N. I 
+also consider 8% interest should be paid on this amount as I think this fairly reflects the loss 
+of use of this money to Mr N.
+I also consider £200 compensation should be paid to Mr N. Although I appreciate a large 
+part of the distress Mr N suffered was caused by the fraudsters, I think Nat West should 
+have been more proactive when recognising the unusual activity on Mr Ns account and 
+should have done more to prevent the transactions from going through.
+My final decision
+ For the reasons explained above and in my provisional decision, I uphold Mr Ns complaint. 
+To put things right, National Westminster Bank Plc should do the following:
+Reimburse Mr N for the five disputed transactions - £7,955.47, £6,926.50, £6,897.18, 
+£5,939.78 and £286.50.
+Calculate interest at 8% simple per year on the amount they refund Mr N. They 
+should calculate this from the date the money was taken to the date they refund.
+HM Revenue & Customs requires National Westminster Bank Plc to withhold income 
+tax from the above-mentioned interest. NatWest should give Mr N a certificate 
+showing how much is taken off if Mr N asks for one.
+Pay Mr N £200 compensation for the distress and inconvenience caused. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr N to accept or 
+reject my decision before 15 November 2021.
+ 
+Hayley West
+Ombudsman

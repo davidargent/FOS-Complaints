@@ -1,0 +1,102 @@
+K820x#14complaint
+Mr G complains that Hargreaves  Lansdown Asset Management Limited advised a market 
+maker that he had applied a stop-loss instruction to some shares  he held within  his Self-
+Invested Personal Pension (SIPP).  He says that the market maker  was then able to 
+manipulate the stock  prices, activating  the stop loss and allowing the shares to be purchased 
+at a reduced price. He says hes lost out financially from the loss of investment growth had 
+he remained  invested in the shares.
+background
+Mr G had an execution only SIPP with Hargreaves Lansdown which  allowed him to buy and 
+sell stocks and shares  within his pension fund. Hargreaves Lansdown didnt provide him with 
+financial advice, but was required to execute  his instructions. 
+In August  2018,  Mr G bought shares  in the Oil Securities  CARP Exchange Traded  Fund 
+(ETF) at 1171.1p per share.  He followed the progress of the share price using the 
+Hargreaves Lansdown platform  and at 11.30am on 16 August 2018, he placed a stop loss 
+instruction on the shares at 1100p per share.  This meant that if the price  was to dip below 
+1100p, the shares would be sold.
+Mr G continued to monitor the prices online and didnt see the prices  dip below 1100p. He 
+said he was therefore  surprised to find that his shares had been sold at 1085.75p on 16 
+August 2018.
+Mr G called Hargreaves Lansdown  to query  the transaction  and was told that the price had 
+dropped below 1100p shortly  after the stop loss instruction was placed, thereby triggering a 
+sale instruction. 
+Mr G said he had been monitoring the prices of the shares and had at no time seen  the price  
+drop below 1100p. He made  further enquiries  and found that the trade had been  reported by 
+the market maker on the NEX exchange rather than the London Stock  Exchange (LSE), 
+which raised his suspicions. 
+He complained to Hargreaves  Lansdown, who didnt uphold his complaint. It said the 
+process was completely  automated and that the share price had gapped causing a 
+temporary drop, which triggered the stop loss instruction. It said that his shares  werent 
+traded on the NEX Exchange. The trade was reported by the market  counterparty  on the 
+NEX exchange,  but traded against the (LSE) price.  It said his order triggered when the LSE 
+observed a spread of 1080p-1150p at 12:08pm.  The best price returned  by a market  maker 
+at that time was 1085.75p.
+One of our adjudicators investigated Mr Gs complaint and was of the view that his complaint 
+should not be upheld. She said that there was no evidence of any wrong-doing by 
+Hargreaves Lansdown, who were  acting on an execution only basis. The stop loss applied 
+was through an automated system and there was nothing to suggest there had been any 
+manipulation in order  to trigger the sale of Mr Gs shares.
+Mr G didnt accept our adjudicators view.  He said our adjudicator had missed  the point. His 
+point was that the level of his stop was given to the NEX exchange so that they could pick up 
+his shares at a favourable price.  He questioned  why it was only on the NEX exchange that 
+the price dropped to that level and for such a short  period. He said that someone  at 
+Ref: DRN59367322Hargreaves Lansdown had alerted  a market maker about his stop loss, thereby allowing 
+them to manipulate the price and purchase  his shares at an advantageous  price.  He said he 
+had information  that directly  contradicted  the information Hargreaves Lansdown had sent us 
+about the price  movements.
+Our adjudicator said she hadnt found  any evidence of manipulation, and that any allegations 
+of illegal trading  would  need  to be investigated by the Financial Conduct Authority (FCA). 
+Mr G stated that he had alerted the FCA already, but also wanted his case  to be referred  to 
+an ombudsman. 
+my findings
+Ive considered all the available  evidence  and arguments to decide  whats  fair and 
+reasonable in the circumstances of this complaint.
+In order to trade in ETFs Hargreaves Lansdown required Mr G to complete a form confirming 
+that he was a knowledgeable  investor.  ETF shares are generally more  risky in nature, thats 
+because they are not widely traded  in the same way as normal equities and their share price 
+is therefore more  volatile.
+Hargreaves London has provided us with a schedule of the LSE price for the CARP  ETF for 
+16 August 2018.  The bid price  dropped  to 1080p on nine separate  occasions  during that 
+day, mostly  for less than a second. At 12.08,  when the bid price dropped  to 1080p,  Mr Gs 
+stop loss instruction was triggered and his stock was sold.  I think this schedule  of the LSE 
+price can be reasonably relied  upon. It was provided  to Hargreaves London by a third party  
+data provider. Ive not seen anything  to contradict the information  set out in this schedule.
+From the phone calls made  to Hargreaves Lansdown by Mr G, it seems that he was 
+following the prices  on the stock  exchange  via the Hargreaves  Lansdown  website. The 
+website says that the live feed shows the price with a 15 minute  delay. Stock prices can 
+change very quickly, sometimes for such a short amount of time that the price  is not always  
+re-produced on the ticker price.
+Hargreaves Lansdown told us that its SIPP platform is automated and doesnt involve any 
+manual intervention. It says the system was set up in such a way that in Mr Gs case,  it 
+would look for the bid price dropping  below  1100p and when that happened the stock 
+wouldve automatically been sold. Hargreaves Lansdown says the system isnt capable of 
+stopping the trade if the price immediately recovers seconds later.  
+Like our adjudicator, Ive read the information  on Hargreaves Lansdowns website for 
+investors interested in trading ETFs. It includes a number of risk warnings.
+It says about stop loss orders:
+If the bid price is lower  than your stop loss price when we attempt to place your deal, we will 
+continue to place  your deal at the lower price.
+It also says:
+Share prices can fluctuate considerably, and you may see extreme  price spikes. Certain 
+factors may also cause  the bid-offer spread (the difference between the buying and selling 
+Ref: DRN59367323prices) of an investment to widen. Both of these situations may only last for a few minutes  or 
+less, but they could  nevertheless trigger your limit or stop loss order.
+Some stocks simply have  wider bid-offer spreads, therefore you should ensure you know the 
+bid price of the share before  deciding how far away to set your stop price.
+Some stocks are more volatile than others. You should bear this in mind  when deciding how 
+far way from the current share price to set your stop or limit price.
+I think the warnings that Hargreaves Lansdown  provided clearly covered the situation that 
+Mr G finds himself in now. As an execution only client, I think  Hargreaves provided him with 
+clear and fair information about how the stop loss system  worked so that he could make an 
+informed choice about how he wanted  to proceed.
+I therefore agree with our adjudicator I cant see that Hargreaves Lansdown acted 
+improperly in its handling  of this trade  or that there  is evidence of it manually manipulating 
+the trade.  So, it follows that I cant see that Mr G has lost out because  of anything that 
+Hargreaves Lansdown did wrong.
+my final decision
+For the reasons  explained, I do not uphold Mr Gs complaint.
+Under the rules  of the Financial Ombudsman Service,  Im required to ask Mr G to accept or 
+reject my decision  before 21 December  2019.
+Kim Parsons
+ombudsman
+Ref: DRN5936732

@@ -1,0 +1,75 @@
+DRN-3468105
+The complaint
+Mr N has complained that National Westminster Bank Plc held him responsible for a 
+transaction which he says he didnt make or otherwise authorise.
+What happened
+In 2019, Mr N opened an account with NatWest and set up mobile banking. He did not pay 
+any money in. The following week, his mobile banking was used to transfer his full overdraft 
+limit away. This was validated using a one-time passcode sent to Mr Ns mobile phone. He 
+also received a text confirming the payment had gone out.
+In 2021, Mr N reported the payment as fraud. He confirmed hed registered the mobile app 
+on his phone and not any other devices, but said he never used the account. He said that 
+only he had access to his mobile phone and the app, he always had his phone on him, and 
+he never gave anyone else access.
+NatWest held Mr N liable for the payment in dispute. They said it had been made from 
+Mr Ns mobile app, at his IP address, using his login details and a one-time passcode that 
+was sent to his phone. They also questioned why hed waited so long to report it.
+Our investigator looked into things independently and didnt uphold the complaint. Mr N 
+asked for his case to be reviewed again. He said he never got the one-time passcode and 
+he tried reporting things to NatWest earlier. He suggested hed been hacked somehow. He 
+said he wanted more information on where the transfer went. The complaints been passed 
+to me to decide.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Broadly speaking, NatWest can hold Mr N liable for the payment in dispute if he authorised 
+it. So Ive carefully considered everything that both sides have said and provided in order to 
+determine whether Mr N authorised the transaction, or not. While I do appreciate that Mr N 
+would like more information on the receiving account, thats not the role of our service. Im 
+here to decide whether NatWest can hold Mr N liable for this payment or not, rather than to 
+gather information for either side about the receiving account.
+Im satisfied from NatWests technical evidence that the disputed payment was authenticated 
+using Mr Ns mobile banking facility, his security details, and a one-time passcode sent to his 
+registered mobile phone number. Mr N suggested he was hacked and this was made to look 
+like him, but that is not supported by the evidence in any way.
+It's not clear how anyone would have been able to learn Mr Ns security details without his 
+permission. Even more importantly, Mr N was clear that only he had access to his mobile 
+phone, he kept it with him, and it did not go missing. So realistically, only Mr N  or someone 
+acting with his permission  wouldve been able to receive the one-time passcode that was 
+sent to him. This one-time passcode was then used to authenticate the payment. Again, I am 
+satisfied it was sent to Mr Ns phone.
+So I dont see a likely or plausible way that anyone could have made this payment without 
+Mr Ns knowledge or consent.
+Further, the IP addresses used to make the disputed payment match up with the IP 
+addresses from when Mr N previously set up his mobile banking and checked his account. 
+This also strongly suggests that the payment was genuine activity of Mr Ns.
+NatWest texted Mr N at the time to confirm the payment had been sent. And Mr N admits 
+that he received that text. I can also see that he checked his account a number of times in 
+the days following the disputed payment. And he was notified about NatWest closing his 
+account. Yet Ive gone through Mr Ns contact history with NatWest, and I cant see that he 
+told them anything was wrong until the summer of 2021. Thats over a year and a half later. 
+Since Mr N was aware of the payment at the time, it does not seem plausible that he would 
+wait so long to report it if it was really made without his consent.
+Mr N now says he tried to report things earlier, but as I said above thats not supported by 
+his accounts records. Further, Ive listened to a call Mr N had with the fraud department, 
+where he told them he started trying to deal with this issue in June 2021. So from Mr Ns 
+own previous testimony, it seems he did not report things earlier.
+Lastly, Ive not seen any evidence that makes it seem implausible or unlikely that Mr N 
+couldve authorised this payment or given someone else permission to make it.
+In summary, Im satisfied that Mr Ns genuine mobile banking and a one-time passcode was 
+used to make this payment. Based on the evidence, there isnt a likely or plausible way that 
+someone could have done this without Mr Ns permission. The evidence also shows that the 
+payment was made from Mr Ns normal IP address, and that he was aware of it at the time 
+but did not report it as fraudulent. And theres nothing which substantiates that this payment 
+was made without Mr Ns consent. That leaves only one likely possibility  that Mr N made 
+the transaction or gave someone else permission to make it. This is a difficult message for 
+me to give, and I know its a difficult message for Mr N to receive. But given the evidence 
+I have, and the balance of probabilities, Im unable to fairly reach any other conclusion.
+So based on everything Ive seen, I think its fair for NatWest to hold Mr N liable for the 
+payment in dispute.
+My final decision
+For the reasons Ive explained, I dont uphold Mr Ns complaint in this case.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr N to accept or 
+reject my decision before 21 July 2022.
+ Adam Charles
+Ombudsman

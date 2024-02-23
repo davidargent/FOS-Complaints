@@ -1,0 +1,137 @@
+DRN-3024677
+The complaint
+Mr Z complains that National Westminster Bank Plc (NatWest) failed to refund a number of 
+transactions that he didnt recognise.
+What happened
+Mr Z had an account with a food delivery business Ill refer to as G. In March 2020, Mr Z 
+made an extended trip abroad to visit family and has told us that he kept the debit card 
+secure whilst he was away.  He returned to the UK in February 2021.
+In November 2020 he noticed a large number of transactions to G that he didnt authorise 
+and called NatWest about the payments. NatWest investigated the transactions and held Mr 
+Z responsible for them. Mr Z disagreed with NatWests decision and made a complaint. Mr Z 
+argued that he was out of the country at the time of the transactions. Mr Z asked G for 
+information about his account and they supplied a historical list of transactions that showed 
+only those made by Mr Z and not any that have been disputed. Mr Z thought that another 
+account had been set up using his card details.
+NatWest continued to investigate following Mr Zs complaint but didnt change their mind. 
+The information contained in their audit system showed the same device had been used to 
+make payments that Mr Z hadnt disputed, as well as those he had and the transactions had 
+been carried out from the same city that Mr Z lived in whilst in the UK.
+Mr Z then brought his complaint to our service for an independent review and it was looked 
+at by one of our investigators. He thought the evidence showed it was Mr Z whod made the 
+transactions or allowed someone else to do it with his permission and thought that Mr Z had 
+known about the transactions earlier because of his internet banking activity.
+Mr Z disagreed with the investigator and asked for a further review of his complaint and 
+made several comments about the investigators outcome. Mr Z said that he was out of the 
+country at the time. He maintained that hed never given anyone else access to his card, but 
+it could have been used at his lodgings. Mr Z also explained that his phone was with him 
+whilst out of the country. Mr Z wanted other information from G, and he said that because 
+hed used his internet banking earlier than hed originally claimed  it wasnt evidence that he 
+knew about the transactions some months before he reported them to NatWest.
+The complaint has now been passed to me for a decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+The relevant law surrounding authorisations are the Payment Service Regulations 2017. The 
+basic position is that NatWest can hold Mr Z liable for the disputed payments if the evidence 
+suggests that its more likely than not that he made them or authorised them. 
+Coming to the question of authorisation, this is made up of two parts. Authentication and 
+consent. Authentication is usually referred to as the technical evidence and in this case, 
+NatWest have supplied evidence that shows the genuine cards details were used to make 
+the transactions, including additional authentication steps referred to as 3D Secure. Im 
+satisfied that the evidence shows all the disputed transactions were authenticated.
+Consent refers to the way in which NatWest and Mr Z agreed to use the card for 
+transactions. For example, when using the debit card or the details from it, NatWest agree to 
+accept that this is a legitimate payment instruction made by the cardholder or another 
+approved user and make the payment on their behalf. The transactions in this case used the 
+genuine card details and were further authenticated using 3D Secure, so Im satisfied that 
+consent was given and the disputed transactions were authorised. But, there are exceptions 
+where it wouldnt be appropriate for NatWest to hold Mr Z responsible, for example if the 
+card details were used without his permission.
+Mr Z disputed a series of transactions whilst he was out of the country and from the 
+information hes provided and the audit data from NatWest, Im satisfied that Mr Z wasnt in 
+the country at the time of the disputed transactions.
+NatWest were able to provide data about a number of transactions to G, some of which Mr Z 
+hasnt disputed and were made before he left the country. This data shows that a consistent 
+device (a phone) was used during all the transactions to G. This means that the same phone 
+was involved in the transactions to G both before Mr Z left and whilst he was away. 
+Mr Z later confirmed that hed left another phone in his flat before he left the UK. This phone 
+was the one that Mr Z regularly used before upgrading to his current phone. He said its 
+protected with a password and hasnt been charged or switched on for more than two years. 
+Mr Z also said that the app for G is on the phone and it would automatically log in to the 
+account (with G) if someone bypassed the PIN to open his phone.
+Mr Z has provided evidence from G that his account with them only had transactions that 
+hed authorised up until just before he left to visit his family. G said that theyre unable to 
+provide further details about the additional transactions as they dont hold the information in 
+order to trace which other account used Mr Zs details. Mr Z thought that a further request to 
+G was needed to show it wasnt him who authorised these transactions. I dont think the 
+additional enquiries would assist, as Im already satisfied that an additional account was 
+registered with G to make these transactions and data protection issues would prevent G 
+from revealing anything that wasnt directly related to Mr Z. Whats relevant here is who 
+authorised these transactions to G. 
+Its apparent to me that the use of Mr Zs debit card details were made from a phone that 
+was present in the area where Mr Z lived when he wasnt abroad. So, the evidence indicates 
+that there was an additional phone that was used to undertake the transactions with G. I say 
+that because Mr Zs current phone, which hes registered with NatWest and our service, was 
+shown as being abroad during some of these disputed transactions.
+What that means here is that a phone that Mr Z used to make genuine transactions to G was 
+also used to make the disputed transactions to them. I think its likely it was the phone Mr Z 
+left behind in his flat when he returned home. So, for an unknown third party to have used 
+this phone without Mr Zs knowledge or permission, they would have had to enter his locked 
+flat, obtain his phone and bypass the PIN. At that point they would be able to log in to Mr Zs 
+account with G. But that didnt happen here because a second account was set up with G 
+that used the same phone, rather than just use the account that had already been set up.There are several hurdles for an unknown third party to overcome before they can use the 
+phone to order food from G. Mr Z has said other people, including the janitors at the 
+residence could have accessed his room, so its not implausible that his phone could be 
+taken, but I dont think the PIN could have easily been bypassed. Mr Z said it was an easy 
+PIN to remember, but I dont think thats the case. Assuming the phone was taken by 
+someone without his permission, they would be faced with a random four-digit PIN to bypass 
+and repeated attempts to gain access would most likely trigger the security protocols 
+contained in the phone, which would make accessing it more and more difficult. My 
+understanding is that this particular model phone would switch itself off for increasingly long 
+periods of time if incorrect PINs were repeatedly used.
+But even if I accepted that someone successfully bypassed the PIN, they would still need to 
+be able to obtain the card details in order to set up a new account with G. In their original 
+notice to Mr Z, G stated they didnt record payment details because they used a payment 
+service merchant to do this on their behalf. So, I think its unlikely the account details held 
+with G would have the necessary card information, including the three-digit security code, to 
+open a different account. But even if they did, Id question why an unauthorised third party 
+would choose to use these details with a food delivery business, rather than use it to 
+purchase items they could use or sell. 
+I also looked at the pattern of spending on the account. What this shows is that the disputed 
+payments were made over a period of some months and there werent any other attempts to 
+use the card details to empty the account. Whilst there isnt a typical use of stolen card 
+details, its generally accepted that if an unknown third party had access to someones card 
+details, they wouldnt know when the owner of the account would notice these unusual 
+transactions and block the card. An unknown third party would be more likely to maximise 
+their access to the account and make repeated purchases before the card was blocked, 
+which wasnt the case here. There were some larger transactions made with G which 
+matched the limit Mr Z had used on his personal account. But, as his account had funds in it 
+and the transactions used an additional layer of security - 3D Secure - to authenticate them, 
+I dont think they would have stood out to NatWest as being particularly unusual.
+Mr Z argued that his use of internet banking a few months before he notified NatWest isnt 
+knowledge that he knew his account was being emptied. He stated that the balance wasnt 
+displayed on the Home screen, so he couldnt be aware of what was happening. NatWest 
+confirmed that the available balance is displayed as soon as the log-in screens are 
+completed. I think its likely Mr Z could see the available balance, but he also said he hadnt 
+used it for some time and couldnt remember the balance.
+Mr Z checked his account towards the end of September when his balance had dropped to a 
+few hundred pounds, having been at over three thousand prior to the start of the disputed 
+transactions, but didnt notify NatWest until early November. I think the significant decrease 
+in his balance would have been noticeable to Mr Z at that point in late September. I dont 
+know why there was a delay in reporting his concerns to NatWest, but I think it likely Mr Z 
+knew there was a problem much earlier than when he reported it to NatWest.
+Taking everything into account, there are two critical aspects to this complaint that persuade 
+me that the disputed transactions werent carried out without Mr Zs knowledge. Thats how 
+the PIN was bypassed and how the card details were obtained. I havent seen any evidence 
+or a plausible explanation to show how an unauthorised third party could have successfully 
+used Mr Zs phone whilst he was out of the country without his knowledge or permission. 
+Whilst Im sure Mr Z will disagree with me, I think it more likely than not that Mr Z was 
+responsible for allowing these transactions to be made and its reasonable for NatWest to 
+hold him liable for them.My final decision
+My final decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr Z to accept or 
+reject my decision before 11 March 2022.
+ 
+David Perry
+Ombudsman

@@ -1,0 +1,104 @@
+DRN-2630272
+The complaint
+Mr A complains that Monzo Bank Ltd wont refund payments he didnt authorise from his 
+account.
+What happened
+Mr A reported payments from his business account as fraudulent to Monzo. These were 
+made through a mobile payment service (Apple Pay) on his phone. Three payments 
+totalling over £1,250 were made from his business account in this way on 9 October 2020. 
+He says he was abroad then with two business partners and was sharing a room. He was 
+tired and went to sleep and says that they brought back two females from a bar and who 
+must have been able to access his mobile phone to make the payments. He is unhappy that 
+Monzo did not refund the money and told him that it would be closing both his business and 
+personal accounts.
+Monzo said it wouldnt be refunding the money as the payments were made securely using 
+his phone and which had remained in Mr As possession. It said it had decided to close the 
+accounts under the terms and conditions.
+Our investigator didnt recommend that the complaint be upheld. He provided a detailed list 
+of transactions that evening both from Mr As personal account and then the business 
+account. Transactions to the same merchant had been made from both accounts  the 
+merchant category code was the broad one of drinking places and included bars and 
+nightclubs. Transactions had started from Mr As personal account at 20:14 that evening and 
+continued until 21:04. These had been funded by transfers from his savings pot. The 
+specific ones in dispute here from the business account had started at 21:11 and the last 
+one was at 22.39. Those payments had been funded by separate transfers from an account 
+at a different financial business a matter of minutes before each one. He had contacted that 
+business and it told him that these used touch ID as security. Mr A told him he hadnt 
+pursued these as fraud as he was concentrating on the payments on from Monzo.
+Mr A said he had Face ID set up for his mobile phone payments and a passcode. Our 
+investigator didnt think it likely that Face ID would have worked if Mr A had been asleep. 
+And although Mr A said his passcode then was his date of birth and could be seen in his 
+passport in his room it seemed unlikely this could have been guessed and used. The 
+payments were spread out, started soon after Mr A had seemed to make genuine payments 
+from his account and didnt seem likely to be the actions of a fraudster.
+Mr A didnt agree and wanted his complaint to be reviewed. He was unhappy that everything 
+he had said was considered to be a lie. If he had authorised the payments he said he would 
+have taken responsibility for them. And no consideration of his medical condition had been 
+made at all.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+I understand Mr A is distressed by what happened. And Ive seen a letter from his doctor 
+dated 3 December 2019 setting out that he had some prior mental health issues linked to 
+financial problems. I dont doubt from what he says that these have continued, and he has 
+been significantly affected by the consequences of the payments he disputes here.
+I need to take into account the Payment Services Regulations 2017 in considering this 
+complaint. These state that a payment can only be authorised if it was consented to. So, its 
+not enough for it to be authenticated, say with a card and PIN. And if they werent authorised 
+Mr A wouldnt generally be responsible for them.
+So, I will be thinking about the following areas in looking at this complaint:
+- What is the most likely explanation of what happened to the phone and security details 
+used for these payments?
+- Did Mr A authorise the payments on the account? 
+- Did Monzo act reasonably? 
+Im satisfied the payments were authenticated using the security information on his mobile 
+payment service. It isnt possible to say whether that was his Face ID or the passcode, but 
+the audit reports held by Monzo show that the correct verification codes were recorded.
+The issue is whether Mr A consented to them. I know he is adamant that he didnt. I need 
+here to evaluate his explanation of what happened which is that he knew nothing of them to 
+the extent that he was asleep at the time. So, Im not looking at a scenario say where he was 
+tricked into making these payments. 
+Our investigator asked Mr A about the pattern of both personal and business payments to 
+this merchant to see what he could say about them. He said that he didnt remember much 
+about what was happening but that he was shocked and disgusted and he now knew a first 
+attempted payment was declined. While the focus of this complaint has been the business 
+payments the preceding ones from his personal account are relevant context and I cant 
+safely assume Mr A accepts those either even if he hasnt officially pursued them with 
+Monzo.
+The first payment from his personal account was for £49.92 and this used chip and the PIN 
+on his card for verification. While the first attempt was declined it was tried again and 
+authorised. This was at 20:14 that evening. The next payments from his personal account 
+used the mobile payment service from his phone provider and as these were all under £45 
+they came within the contactless limit and may not have needed separate verification.
+Mr A is clear he had gone back to his room and was asleep at the time of the payments he 
+disputes. Looking specifically at the business payments the first was at 21:11 for £86.60 and 
+followed a transfer of £150 that same minute from his account at a different financial 
+business. 
+Mr A hasnt said how far his room was from the bar, but on his account Id need to think that 
+the fraudsters had accompanied his business partners and almost immediately started using 
+his phone with a mobile processing terminal. And that the payments were for some reason 
+spread out over 80 minutes. And they followed payments from his personal account that had 
+started an hour before that. If the fraudsters did have free access to his account at the other 
+financial business it is unclear why they would first transfer the money to Monzo and then 
+not take as much money as quickly as possible - especially because if Mr A was asleep 
+there was a risk he would wake up. Like the investigator Im struggling to accept that Face ID would be viable to use for someone asleep or that again the fraudsters could have 
+discovered his passcode. And if they had free access to his phone why they didnt take that 
+and try and make further payments before his account was blocked when he contacted 
+Monzo.
+I cant know exactly what happened and Mr A has nothing to corroborate what he says must 
+have happened. Im thinking about what is most likely and for the reasons Ive given I dont 
+think its most likely that a third party was able to access his account in the way he 
+describes. So that leads me to conclude that the most likely explanation is that the payments 
+disputed were authorised by him and which I know will be a very disappointing outcome for 
+him. I think it was reasonable for Monzo to hold Mr A responsible for the payments.
+Monzo also gave Mr A the required notice period under the terms and conditions to close the 
+accounts. That was a commercial decision it made. And so, taking everything into 
+consideration I dont have a basis to find that it acted unreasonably and should refund the 
+payments to Mr A as he wants.
+My final decision
+My decision is that I do not uphold this complaint,
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr A to accept or 
+reject my decision before 17 May 2021.
+ 
+Michael Crewe
+Ombudsman

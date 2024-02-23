@@ -1,0 +1,81 @@
+DRN-2969791
+The complaint
+Mr Os complaint concerns a margin violation and subsequent liquidation of positions on his 
+trading account with Interactive Brokers (UK) Ltd (IBUK).
+What happened
+Mr O opened his account with IBUK in 2007 and has regularly traded options since then. His 
+complaint concerns a Tesla position he held on 2 June 2020 that consisted of two legs  four 
+long calls and four short calls. 
+This position didnt have a margin requirement as it stood and Mr Os understanding was 
+that this would remain the case, with the two legs effectively offsetting each other. However, 
+when his account was assigned the short leg of his option spread and, as a result, 400 
+short shares of Tesla stock, a new protective call spread position was created, which 
+resulted in a margin violation. Mr O was sent warnings about the violation and shortly after 
+IBUK began liquidating positions on the account  first the Tesla positions, then others  to 
+bring the account back to into compliance. 
+When Mr O became aware of what had happened, he complained to IBUK. It responded to 
+confirm the nature of the margin violation and maintained that it had liquidated the positions 
+in accordance with its terms. Mr O remained dissatisfied with IBUKs explanation, so referred 
+the matter to this service.
+Our investigator looked into the matter and, having received more detail from IBUK, 
+concluded that it had acted correctly. She explained that the key point in respect of the 
+margin violation was that the Tesla options contracts were American-style, meaning that 
+holders could exercise the option rights at any time before the day of expiration of the 
+contract (in this case 19 June 2020)  in contrast to European-style contracts that allow 
+execution only on the day of expiration. This being so, the offsetting that Mr O had expected 
+to be a feature of his position didnt work, as there was no way to determine the intentions of 
+the long option holder  ie when the corresponding rights might be exercised. 
+Although the original option call spread didnt have margin requirement, the assignment of 
+the short leg without assignment of the long leg created a new position called a Protective 
+Call Spread. This did have a margin requirement, and the qualifying equity on Mr Os 
+account wasnt insufficient to satisfy it, so the liquidation of positions of the account became 
+necessary. 
+The investigator concluded that these had been carried out correctly, in accordance with the 
+terms of the account as accepted by Mr O, so there was no basis on which the complaint 
+should be upheld. 
+Mr O responded to the investigators view acknowledging the circumstances that had 
+created the margin requirement. But he disputed the way in which the liquidation of positions 
+had been carried out, in respect of the timing and the specific positions selected to close. He 
+questioned why his Tesla positions hadnt all been closed, with other positions that were less 
+beneficial to him being chosen instead. 
+The investigator reiterated her view that IBUK had acted in accordance with its terms when 
+liquidating the positions. But she sought some further detail on Mr Os point about the order 
+of the liquidations. In response, IBUK confirmed that the positions were closed in line with 
+their respective cost of liquidation. 
+Mr O nevertheless remained unsatisfied, so the matter was referred to me to review.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, Ive come to the same conclusions as the investigator and for broadly the 
+same reasons. 
+Im satisfied the margin requirement created on Mr Os account regarding the Tesla position 
+was correct. It was, as noted, a consequence of the style of option involved and appears to 
+have been a potential issue of which Mr O wasnt aware. I understand his frustration with 
+this, but as an execution-only service, it was his responsibility to ensure he was fully 
+conversant with the way in which different options work. 
+That said, I think Mr Os primary concern lies the subsequent liquidation of positions 
+following the creation of the new margin requirement. He feels he wasnt given sufficient time 
+to understand what had happened and to act. And that the way in which IBUK chose to close 
+the positions was carried out with a focus in its own best interests, rather than in a way that 
+would have helped mitigate his position. 
+I note that Mr O was sent warning messages about the margin violation. I accept he may not 
+have been aware of this at the time, as he wouldnt have been expecting to receive them, 
+unaware that the situation could arise with the Tesla position. But it remained his 
+responsibility to monitor his account at all times and ensure he maintained sufficient margin 
+equity.
+The terms of the account that he agreed to set out that liquidation of positions could occur in 
+response to a margin violation and that it was IBUKs right to decide how this would be done 
+ the account holder would not be entitled to control the process. As with any term of 
+business, I would expect IBUK to act fairly when implementing it, but Ive seen nothing to 
+suggest it failed to do so on this occasion. Its actions appear to have been in accordance 
+with the terms and general industry practice. 
+In summary, I sympathise with Mr Os situation and can understand why he was shocked 
+and disappointed by what occurred. But in all the circumstances Im satisfied that IBUK 
+acted correctly and fairly.
+My final decision
+For the reasons given, my final decision is that I dont uphold the complaint. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr O to accept or 
+reject my decision before 4 March 2022.
+ 
+James Harris
+Ombudsman

@@ -1,0 +1,123 @@
+K821x#15complaint
+Mr K complains about the prices at which Swissquote Ltd executed  his contract for 
+differences (CFD) trades.
+background
+Mr K had a CFD account  with Swissquote. He had a number  of short  positions  on the 
+Euro/Hungarian Forint (EURHUF) currency pair. So hed profit if the value of the Euro  fell, 
+and lose if it went up.
+On the morning of 23 July 2018,  the EURHUF  moved up and Mr Ks account fell into margin  
+deficit. This meant he no longer  had enough  money deposited to support his positions, and 
+Swissquote closed  them.  
+Some of Mr Ks trades were  closed at a price  of just over 333, and he complained - saying 
+the market price of EURHUF at the time was in fact around 326.
+One of our investigators  looked into things and didnt think  Swissquote had done anything 
+wrong. He said Swissquote had set prices based  on rates it received from its liquidity 
+provider and other third party sources. And he said currency prices  can vary from provider to 
+provider, so overall he didnt think the prices Mr K had received were unfair.
+I issued a provisional decision saying I thought Mr Ks complaint should be upheld. I said:
+Mr K was trading CFDs based  on the EURHUF currency pair. This allowed Mr K to 
+speculate on movements  in EURHUF, but the CFDs themselves  were provided by 
+(and the prices  of them set by) Swissquote.
+Swissquote says it gets its prices  from one liquidity provider, its parent company which 
+Ill call S. In its terms of business  it says of the way it prices CFDs:
+The prices that we quote are determined by us and usually represent  a mark-up or 
+mark-down on inter-bank dealing or market rates (consequently our prices  may not be 
+the best available at the time you place an order with us).
+Ive thought very carefully about the price  Swissquote provided  to Mr K, and at which it 
+executed his trades. I think this case is finely balanced.
+Im satisfied Swissquote (or S) would be setting  the price on which  Mr K would be 
+trading, and that its price might be different to prices  available  elsewhere. Swissquote  
+does indicate  this price  would  generally reflect the market rate, allowing for a mark-up. 
+The size of that mark-up  may vary for a number  of reasons. 
+But theres a potential for a conflict of interest inherent in an arrangement where 
+Swissquote and its parent  company  set the prices  at which it will trade with Mr K, and 
+take the other side of those trades.  So I think its particularly  important  for Swissquote 
+to be able to demonstrate it has managed that conflict by offering  prices that fairly 
+reflect those  in the underlying market.
+Establishing the market  rate for a currency pair isnt quite as straightforward as it is 
+for some other financial instruments. The currency markets  arent  centralised  and 
+Ref: DRN37205812theres no accepted  single trading venue where transactions  take place. But I dont 
+think that means any price Swissquote offered would be fair. As Ive mentioned, given 
+the nature  of the relationship between Swissquote and Mr K, Swissquote was in a 
+position to both set the prices to be traded at and also to potentially profit from its 
+dealings with Mr K. So I think  it needs to be able to demonstrate it has offered Mr K a 
+fair price and has paid due regard to his interests and treated him fairly.
+At its broadest,  the underlying market could  be said to be made up of all other market 
+participants trading  a particular security. And Ive not seen anything to suggest anyone 
+ be they a CFD provider,  inter-bank dealer or other  financial institution  was trading 
+EURHUF at prices above about 326 when Swissquote executed Mr Ks trades.
+As Ive said,  establishing the true market price  for a currency  pair isnt an exact 
+science. But in considering what the market rate for EURHUF was that day Ive given 
+particular weight to the prices  traded  in the inter-bank market  where a significant 
+proportion of spot foreign exchange  trading is carried out.
+The highest  price recorded for EURHUF that day in the inter-bank market  was 
+326.345. Allowing  for a modest mark-up  and Swissquotes latitude  to set its own prices 
+for its CFDs, Im not persuaded a price  of 333, above the highest  rate traded in the 
+inter-bank market,  was fair.
+I acknowledge that the difference here is a matter of a few percentage points. But at 
+the time it executed Mr Ks trades the spread between Swissquotes  EURHUF bid and 
+offer prices  was particularly wide. And the eventual execution prices were  higher  
+albeit not by much  than any other  quotes Ive seen for this currency pair at that time.
+For the reasons  Ive explained above, I think it is important  Swissquote can 
+demonstrate why its prices are different (and,  for Mr K, worse)  than those in the 
+underlying market. But it hasnt been  able to describe how much of the spread was 
+made up of its own mark-up, what sources  it or S use to arrive at the prices it quoted, 
+or provided  any other third party evidence to explain why the prices  it was quoting  
+were fair.
+While I accept that S (the source of Swissquotes price feed) is a separate  entity,  
+Swissquotes obligation is to Mr K and I think it ought to be able to demonstrate that it 
+has treated him fairly and ensured it hasnt put its or Ss interests ahead of Mr Ks. At 
+the moment Im not satisfied its done so. Specifically,  Im not currently persuaded 
+quoting prices higher  than 326.345  (the highest  quote in the inter-bank market) was 
+fair or paid sufficient  regard for Mr Ks interests.
+So I think Swissquote should credit Mr Ks account as if all those trades it closed at 
+prices higher  than 326.345 had closed at that price. Mr K has said that hes also 
+suffered consequential losses because he wasnt able to open new trades due to the 
+size of his losses  on these positions.  I dont,  however, think  Swissquote needs to 
+compensate him any further for these potential losses. The currency  markets are 
+volatile. And I cant say for sure how much, if anything, Mr K might  have made  on any 
+subsequent trades.  Its quite possible  he would  in fact have suffered further losses  had 
+his bets on the market  direction proved incorrect.
+Ref: DRN37205813Having said that, Im satisfied that suffering larger losses than he ought to have done, 
+and the impact that had on his account,  will have been troubling and upsetting  for Mr 
+K. So I think Swissquote should  pay him a further  £100 in light of that.
+Mr K replied  to say he accepted my provisional  decision. Swissquote responded and said:
+While  Swissquote executes  its trades  with its parent company, S itself has a panel  of 
+liquidity providers from which it sources its prices.  Swissquote  independently  
+monitors the prices it gets from S to ensure theyre  fair and compares them  to a third 
+party pricing stream.
+Swissquote is required  to take reasonable steps to obtain  the best possible result  
+when executing orders. It isnt required to obtain the best price  compared to other 
+providers. Providing such a guarantee isnt possible, and isnt something the 
+regulator requires  it to do.
+my findings
+Ive considered all the available  evidence  and arguments to decide  whats  fair and 
+reasonable in the circumstances of this complaint.
+Having done so Ive not been persuaded to depart  from my provisional conclusions,  and Ill 
+explain why.
+Ive considered the points Swissquote has made carefully. And I agree  that it wouldnt be 
+reasonable to expect  it to match or better the prices other providers offer.  But what it does 
+have to do is take reasonable steps to ensure it gave  Mr K the best result,  and demonstrate 
+that its done so. It also needs to take account  of Mr Ks interests  and treat him fairly.
+In my view, Swissquote still hasnt  shown it put Mr Ks interests ahead of its own (or Ss) and 
+that it gave him best execution as set out in the regulators  rules. I accept that its possible  
+Swissquotes price may have been higher than other providers,  but it hasnt persuaded me 
+that the prices  it gave  Mr K were a fair reflection of the underlying  market  at the time.
+What I have seen  is that this was an arrangement where there was the potential  for 
+Swissquote and S to gain from Mr Ks losses. And that the price it executed his trades at 
+was above the prices  quoted or traded by any other market  participant that Im aware of. 
+Swissquote has detailed  the steps  it takes  to ensure  its prices are fair, but it hasnt explained 
+or evidenced that the prices it used  to close Mr Ks trades in particular were  fair. Overall I 
+remain of the view that Swissquote  hasnt been able to show it treated Mr K fairly in the way 
+it executed his trades, and so it should compensate  him for that.
+my final decision
+My final decision is that I uphold this complaint. Swissquote Ltd must:
+Credit Mr Ks account to put it in the position it would have been in had any EURHUF 
+trades which closed  on 23 July 2018 above 326.345 instead been closed at exactly 
+326.345.
+Pay him £100 for the trouble its caused  him.
+Under the rules  of the Financial Ombudsman Service,  Im required to ask Mr K to accept or 
+reject my decision  before 12 April 2019.
+Ref: DRN37205814Luke Gordon
+ombudsman
+Ref: DRN3720581

@@ -1,0 +1,124 @@
+DRN-3097613
+The complaint
+Miss K has complained that Santander UK Plc wont reimburse several transactions that she 
+says she didnt authorise.
+Whats happened?
+Miss K says she has been the victim of fraud. Her mobile phone was stolen from a nightclub 
+very early in the morning on 11 November 2018, and she reported the theft to her network 
+provider later that morning. In the evening on 12 November 2018, she says she became 
+aware of the following unauthorised transactions. All of the transactions were carried out 
+using her mobile phone, and they all utilised the overdraft facility on her Santander account. 
+Date of transaction Time of transaction Amount Type of transaction
+11 November 2018 unknown £30.01 Contactless card 
+payment via a mobile 
+application
+11 November 2018 05:46 £500.00 Faster payment via 
+mobile banking
+11 November 2018 08:19 £700.00 Faster payment via 
+mobile banking
+11 November 2018 08:25 £0.01 Faster payment via 
+mobile banking
+11 November 2018 10:13 £0.01 Faster payment via 
+mobile banking
+12 November 2018 00:03 £1.00 Faster payment via 
+mobile banking
+12 November 2018 00:04 £30.00 Faster payment via 
+mobile banking
+Miss K raised a fraud claim with Santander. Shes since told the bank that shes unhappy 
+with how she was left without access to money for around two weeks whilst she was waiting 
+for a replacement debit card that she could use. 
+Santander investigated Miss Ks claim but decided not to reimburse the disputed 
+transactions. It concluded that she had authorised the transactions because:
+The transactions were made using her genuine mobile device and online banking, 
+and one was authorised with a one-time passcode.
+Theres no evidence that the passcode to her mobile device was compromised.
+Santander did pay Miss K £125 by way of compensation for the issues she experienced 
+when she ordered a replacement debit card though.
+Miss K wasnt happy with Santanders decision, so she asked this Service to investigate. 
+She told us that:
+Her mobile phone disappeared, and she never found it again. She doesnt know who 
+took it, but she doesnt believe they wouldve known her.
+She thinks that a four-digit security number was required to unlock her mobile phone 
+and access her online banking at the time. These numbers were not stored 
+anywhere, and she didnt give them out to anyone.
+Shes received a text message in the past when shes forgotten her online banking 
+login details. The fraudster could have received a text message from Santander 
+which allowed them to access her online banking without knowing her four-digit 
+security number. 
+Our investigator didnt uphold Miss Ks complaint because she felt unable to conclude that 
+shed been the victim of fraud. Miss K wasnt happy with the outcome our investigator 
+reached, so she asked for an ombudsmans final decision. The complaint has now been 
+passed to me to decide.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+When considering what is fair and reasonable, Im required to take into account: relevant law 
+and regulations; regulators rules, guidance and standards; codes of practice; and, where 
+appropriate, what I consider to have been good industry practice at the relevant time.
+Broadly speaking, Miss K is responsible for any payments that she has authorised (either by 
+making them herself or allowing someone else to) and she isnt responsible for unauthorised 
+payments. The relevant regulations, to this effect, are the Payment Services Regulations 
+2017 and the Consumer Credit Act 1974. So, the key question here is whether Santander 
+has acted fairly in concluding that Miss K authorised the disputed payments.
+For a payment to be authorised, Santander must show that it was authenticated correctly, 
+and Miss K must have consented to it. 
+Santander has provided technical reports which show that the faster payments made via 
+mobile banking were made after Miss Ks online banking was securely accessed  at least 
+once using Miss Ks thumb print. The electronic records also show that the contactless card 
+payment via a mobile application was authenticated with her debit card number. So, Im 
+satisfied that the payments were authenticated correctly, and Ive moved on to think about 
+whether Miss K consented to the payments or to someone else making the payments on her 
+behalf. I think its likely that she did, and Ill explain why below.Miss K has consistently said that: 
+She lost her mobile phone very early in the morning on 11 November 2018 and didnt 
+discover the disputed transactions until the evening of the following day. She 
+believes that a stranger stole her phone.
+She did not keep a record of the security passwords for her mobile phone or online 
+banking anywhere, and she didnt share them with anyone.
+Santanders technical reports show that the faster payments were made via mobile banking 
+after her online banking was securely accessed  at least once using Miss Ks thumb print. 
+So, in order to make the faster payments, a fraudster would need to know the passwords to 
+her mobile phone and quite possibly her online banking too, as well as have access to her 
+thumb print. And, to make the contactless card payment, a fraudster would need to know the 
+password to Miss Ks mobile phone. Given what Miss K has told us about who may have 
+stolen her phone and how she stored her passwords, Im not persuaded that a fraudster 
+couldve carried out the disputed transactions. There is no plausible explanation for how 
+someone other than Miss K couldve known her passwords and been able to use her thumb 
+print. I think its most likely that Miss K carried out the transactions herself, or at least 
+entered her security information to allow someone else to make the transactions on her 
+behalf.
+Im aware that Miss K has put forward some theories as to how a fraudster couldve made 
+the transactions without her being physically present and/or knowing her passwords. Shes 
+suggested, for example, that she mightve been hacked and/or her thumb print may have 
+been lifted from a glass. Shes also suggested that a thief may have observed her entering 
+the password into her phone before taking it, unlocking it and changing the thumb print on 
+the device to their own in order to access her online banking. Ive thought about what Miss K 
+has said and I cant rule these possibilities out. But, from what I know about fraud of this 
+nature, I dont think these alternative scenarios are likely and I havent seen any evidence to 
+support them. The technical evidence strongly suggests that thumb print recognition (which 
+would in all likelihood require Miss Ks physical presence) and passwords were used to clear 
+the security on Miss Ks mobile phone and online banking. And I consider it most likely that 
+Miss K herself passed the relevant security.
+Furthermore, the pattern of spending is not what I would usually expect to see when fraud 
+has occurred. Typically, a fraudster will quickly empty an account of funds before they are 
+detected. But here, based on Miss Ks testimony, her phone was stolen presumably a few 
+hours before the first disputed transaction, and there is a gap of several hours between the 
+first two high value faster payments. If a fraudster knew Miss Ks passwords, I cant see why 
+they would wait several hours to begin taking money from her account. And, if they had been 
+able to successfully access her online banking at 05:46 on 11 November 2018, then I dont 
+think its likely that they would have waited until 08:19 to make the next transaction.
+Overall, I am satisfied that its most likely Miss K carried out the disputed transactions or 
+allowed someone else to make them on her behalf. Either way, Santander is entitled to hold 
+her liable for them.
+Ive seen that Miss K experienced some issues in receiving and using a new debit card. But 
+there was no money in her account for her to spend for around two weeks after the disputed 
+transactions took place. So I dont think the issues she faced prevented her from spending 
+money, and I think the £125 Santander has already paid Miss K in this respect is a fair and 
+reasonable amount to compensate her for the trouble and upset she faced.Im sorry this will be disappointing news for Miss K, but I hope the reasons for my decision 
+are clear.
+My final decision
+For the reasons Ive explained, my final decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Miss K to accept 
+or reject my decision before 29 June 2020.
+ 
+Kyley Hanson
+Ombudsman

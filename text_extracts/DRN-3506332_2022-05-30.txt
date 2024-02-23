@@ -1,0 +1,131 @@
+DRN-3506332
+The complaint
+Miss A complains that Barclays Bank UK PLC (trading as Barclaycard) did not refund 
+several payments she made to a company she thought was a legitimate investments trading 
+company (HBC).
+What happened
+In short, Miss A says she made several international payments to what she thought was her 
+trading account with HBC.  These payments were made using Miss As Barclaycard Visa 
+credit card.  At the time, Miss A says she believed HBC were a legitimate investments 
+trading company.  However, she lost all her money and discovered HBC were operating a 
+scam.
+Miss A asked Barclaycard to recover her money.  As this did not happen, she raised a 
+complaint which she also referred to this service.
+One of our investigators considered the complaint and did not uphold it.  He held that Miss A 
+did not have any chargeback or section 75 rights.  He also did not think the payments 
+concerned would have appeared unusual or suspicious to Barclaycard considering Miss As 
+normal account and payment activity.  So, he thought Barclaycard could not have been 
+reasonably expected to prevent these payments.  For these reasons, he did not ask 
+Barclaycard to refund Miss A her money.
+Miss A did not accept the investigators findings.
+As an agreement could not be reached, the complaint has been passed to me to make a 
+decision.
+It is unclear what payments Miss A is actually disputing.  This is something Barclaycard has 
+also had difficulty with.  Therefore, I have relied on the transactions the investigator set out in 
+his findings, which neither Miss A nor Barclaycard appear to dispute.
+The investigator highlighted the following transactions in his assessment:
+Date Merchant Payment Method Total
+17 August 2020 Company N Credit card £1,000
+1 September 2020 Company K Credit card £1,166.52
+1 September 2020 Company K Credit card £1,407.15
+2 September 2020 Company N Credit card £1,500
+27 October 2020 Company L Credit card £500
+28 October 2020 Company L Credit card £500
+10 November 2020 Company B Credit card £1,000
+16 November 2020 Company B Credit card £1,000
+16 November 2020 Company B Credit card £999
+24 November 2020 Company B Credit card £500
+10 December 2020 Company N Credit card £500
+17 December 2020 Company L Credit card £500
+17 December 2020 Company L Credit card £500
+17 December 2020 Company L Credit card £250
+30 December 2020 Company J Credit card £200
+16 March 2021 Company B Credit card £500
+16 March 2021 Company B Credit card £1,000
+16 March 2021 Company L Credit card £500
+18 March 2021 Company B Credit card £34.93
+18 March 2021 Company K Chargeback £1,166.52 credited
+18 March 2021 Company K Chargeback £1,407.15 credited
+26 March 2021 Company K Chargeback  re- 
+debit£1,166.52
+26 March 2021 Company K Chargeback  re- 
+debit£1,407.15
+26 March 2021 Company K Chargeback £1,166.52 credited
+26 March 2021 Company K Chargeback £1,407.15 credited
+10 May 2021 Company K Chargeback  re- 
+debit£1,166.52
+Total disputed 
+amount£12,150.45
+On 6 May 2022, I issued a provisional decision not upholding this complaint.  For 
+completeness, I repeat my provisional findings below:
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I agree with the outcome the investigator reached.  However, I do so for 
+different reasons.  I will explain why below.
+Chargeback
+First, I will consider whether Barclaycard acted fairly in how it dealt with Miss As request for 
+a refund of the card payments in question.Chargeback is an entirely voluntary scheme, which means banks are under no formal 
+obligation to raise a chargeback claim.  The scheme operator can ultimately arbitrate on a 
+dispute between the merchant and customer if it cannot be resolved between them.  
+However, such an arbitration is subject to the rules of the scheme  so there are limited 
+grounds on which a chargeback can succeed.  My role is to determine whether the regulated 
+card issuer (in this case, Barclaycard) acted fairly and reasonably in its decision not to 
+pursue a chargeback on behalf of its cardholder (in this case, Miss A).
+Based on the evidence before me, it appears that some of the merchants Miss A made her 
+card payments to were cryptocurrency exchanges.  The service they provided Miss A was 
+purchasing cryptocurrency.  Because of this, if Barclaycard had pursued a chargeback claim 
+ irrespective of whether it received Miss As submissions or not  I am persuaded it would 
+have likely been unsuccessful.  I say this because the alleged scammer (in this case, HBC) 
+was not a party to the card payments, so Miss A could not have a valid claim against the 
+legitimate merchants she paid.  These companies provided the services as intended, which 
+was to purchase cryptocurrency.  The subsequent transfer to a wallet would not give rise to 
+a valid chargeback claim. 
+It follows then that Barclaycard acted fairly and reasonably by not pursuing a chargeback on 
+Miss As behalf, as the merchants concerned would have likely been able to defend the 
+claim successfully.  
+Even if some of the merchants in this case did not provide a cryptocurrency service, there is 
+nothing significantly unusual about Miss As card payments which, to my mind, would have 
+warranted Barclaycard to intervene or automatically block them. 
+I can see that Barclaycard raised chargeback claims regarding some of Miss As payments; 
+whereby some were defended.  I do not think raising a chargeback was something that 
+Barclaycard was obliged to do or continue pursing.  I say this because in addition to the 
+reasons I set out above, I cannot see that Miss A had the necessary evidence required 
+under the Visa scheme to raise a successful chargeback.
+Section 75 of the Consumer Credit Act 1974
+I have also considered whether Miss As payments attracted any section 75 rights.  As a 
+starting point, I think it would be helpful if I set out what the section says:
+75(1) If the debtor under a debtor-creditor-supplier agreement falling within section 12(b) or 
+(c) has, in relation to a transaction financed by the agreement, any claim against the supplier 
+in respect of a misrepresentation or breach of contract, he shall have a like claim against the 
+creditor, who, with the supplier, shall accordingly be jointly and severally liable to the debtor 
+ (3) Subsection (1) does not apply to a claim
+a) under a non-commercial agreement, 
+b) so far as the claim relates to any single item to which the supplier has attached a 
+cash price not exceeding £100 or more than £30,000
+So, the first requirement is that there is a debtor-creditor-supplier (DCS) agreement falling 
+under section 12(b) or 12(c).  
+In this case, Miss A is the debtor, Barclaycard the creditor and HBC the supplier.  This 
+relationship is referred to as a DCS chain and needs to exist  unbroken  for section 75 
+rights to apply.  However, Miss As payments were not made directly to HBC, but instead to 
+various merchants (set out above).  This amounts to a break in the DCS chain.I have not seen any persuasive evidence showing, for example, that HBC had an 
+agreement with the merchants concerned about the payments Miss A made.
+Therefore, I am satisfied that Barclaycard was not liable to Miss A under section 75 
+regarding her payments.
+As I mentioned above in the Chargeback section of this decision, I would not have 
+expected Barclaycard to have flagged the payments.  I say this because they were not 
+significantly unusual.  Further, from what I can see, there are no published warnings 
+about any of the merchants concerned.
+Responses to my provisional decision
+Miss A responded to say she respected my findings; and Barclaycard said it was happy with 
+them.
+What I have decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Given the above  I see no reason to depart from my provisional findings.
+My final decision
+For the reasons set out above, my final decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Miss A to accept 
+or reject my decision before 27 June 2022.
+ 
+Tony Massiah
+Ombudsman

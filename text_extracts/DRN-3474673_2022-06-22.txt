@@ -1,0 +1,167 @@
+DRN-3474673
+The complaint
+Miss N complains that Monzo Bank Ltd (Monzo) wont refund the money she lost in a scam. 
+What happened
+Miss N says that she received a call and heard a pre-recorded message saying it was 
+HMRC and asking her to press a key to get through to someone, which Miss N did. At the 
+time of the call Miss N was preoccupied, for reasons Ill discuss later. The caller Miss N 
+spoke to told her that her identity had been stolen and someone had used her national 
+insurance number to open eighteen different bank accounts. So Miss N needed to move all 
+her money to safety and would be issued with a new national insurance number the 
+following day. She was told her money needed to be moved to a cryptocurrency account so 
+that her funds could be monitored, and the caller talked Miss N through how to do this. He 
+also explained that a fraud investigation would take place. 
+Miss N transferred nearly all of her savings into her Monzo account and also funds from 
+another current account with a different bank.  Miss N then made the following payments 
+from her Monzo account to the new cryptocurrency account:
+Date Time Payment method Amount
+06/08/21 14.24 Apple Pay £223.25
+06/08/21 14.35 Apple Pay £967.88
+06/08/21 14.39 Card payment £2,233.29
+06/08/21 14.46 Card payment £3,233.29
+Total £5,657.71
+When the payments were made Miss N could see the funds in the cryptocurrency account. 
+Miss N was told not to tell anyone as a family member could be involved. 
+Miss N attempted to make a further payment but Monzo blocked her account and asked her 
+questions about it. Miss N also talked to her sister who told her shed fallen victim to a scam. 
+Miss N is unhappy that Monzo hasnt refunded her. She was also unhappy that after the 
+scam Monzo arranged for a welfare call to take place, but she now understands why this 
+happened.
+Monzo say that Miss N didnt do enough to make sure that the caller was genuine and has 
+not provided a refund. Monzo also said that in the circumstances it was right to arrange a 
+welfare call. But Monzo agreed to pay compensation to Miss N for other service failings. It 
+paid £125 in total for delays in escalating her complaint and issuing a final response letter. 
+Our investigation so far
+The investigator who considered this complaint recommended that Monzo refund the third 
+and fourth payments. She said the first two payments werent so unusual that Monzo should 
+have intervened, but the position changed when Miss N made the third payment. It was the 
+third payment in around 15 minutes, was in a different currency, was for a higher amount 
+and it was made to a cryptocurrency wallet. The investigator said Monzo should have 
+contacted Miss N about this payment and that had it done so the scam would have been 
+uncovered. Miss N was unlikely to have been able to give a plausible explanation for the 
+payments, did not understand how cryptocurrency worked and was in a distressed state. 
+Miss N responded and said she thought the second payment should also be refunded as it 
+was for a higher amount and shed never paid a cryptocurrency company before. Monzo 
+also didnt agree with the investigators findings. In summary it said:
+- If Monzo isnt liable under the PSRs and the scam was an obvious one it doesnt see 
+how its root cause can be Monzos transaction monitoring. 
+- Saying a transaction should be flagged solely based on its value shows a lack of 
+understanding of transaction monitoring and its complexities. And its easy to identify 
+scam payments with the benefit of hindsight. 
+- The investigator concluded Monzo should have provided warnings before processing 
+the payments but theres no regulatory requirement in place in respect of card 
+payments and the card transactions were approved using strong customer 
+identification.
+As neither party has accepted the investigators opinion the complaint has been passed to 
+me to consider. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+In deciding whats fair and reasonable in all the circumstances of a complaint, Im required to 
+take into account relevant: law and regulations; regulators rules, guidance and standards;
+codes of practice; and, where appropriate, what I consider to have been good industry 
+practice at the time.
+In broad terms, the starting position is that a bank is expected to process payments and 
+withdrawals that a customer authorises it to make, in accordance with the terms and 
+conditions of the customers account. And I have taken that into account when deciding 
+whats fair and reasonable in this case.
+However, taking into account the law, regulators rules and guidance, relevant codes of 
+practice and what I consider to have been good industry practice at the time, I consider 
+Monzo should fairly and reasonably:
+Have been monitoring accounts and any payments made or received to counter 
+various risks, including anti-money laundering, countering the financing of terrorism, 
+and preventing fraud and scams.
+Have had systems in place to look out for unusual transactions or other signs that 
+might indicate that its customers were at risk of fraud (among other things). This is 
+particularly so given the increase in sophisticated fraud and scams in recent years, 
+which banks are generally more familiar with than the average customer.  
+In some circumstances, irrespective of the payment channel used, have taken 
+additional steps, or make additional checks, before processing a payment, or in some 
+cases declined to make a payment altogether, to help protect customers from the 
+possibility of financial harm from fraud.Did Monzo act fairly and reasonably when the payments were made?
+Whatever the method of payment, Monzo should have been on the lookout for unusual and 
+out of character transactions. So Ive considered Miss Ns statements for the eight month 
+period before the scam. Having done so, Im not satisfied that the first two payments should 
+have caused Monzo any concern and so I dont think it needed to ask her any questions 
+about them. Both payments were for relatively low amounts. Theres a balance to be struck 
+between identifying payments that could potentially be fraudulent and minimising disruption 
+to legitimate transactions. If banks were to stop payments like the second one Miss N made, 
+I think that too many legitimate payments would be stopped.
+Im persuaded that the situation changed when Miss N made the third payment though. By 
+this time she had paid nearly £3,500 to the same payee. This was very unusual in itself 
+given Miss Ns previous account activity. But there were other factors that should have been 
+red flags to Monzo, such as:
+- The payments were made in a different currency
+- The payments were made to a cryptocurrency wallet
+- There was a pattern of payments in a short timeframe 
+- The payments started small and increased in size
+These are common features of a scam and should reasonably have resulted in Monzo 
+asking Miss N proportionate questions about the reason for the payments. 
+Monzo has referred to regulatory requirements in respect of card payments. I have set out 
+above that taking into account the law, regulators rules and guidance, relevant codes of 
+practice and what I consider to have been good industry practice at the time, irrespective of 
+the payment method, Monzo should take additional steps before processing some 
+payments. I must also reach a decision that is fair and reasonable in all the circumstances of 
+a complaint.  
+Ive also considered Monzos comment that flagging a payment based solely on its value 
+shows a lack of understanding of the complexities of transaction monitoring. Ive discussed 
+above that I think the third payment should have been flagged for a number of reasons, not 
+just its value. I accept that Monzos fraud detection system didnt identify the transactions 
+(until the fifth) as having high risk characteristics. But I need to consider whether Monzo 
+acted fairly and reasonably in all the circumstances, whether or not its fraud detection 
+systems identified the payments. 
+Ive thought carefully about whether the kind of questions I believe ought fairly and 
+reasonably to have been asked by Monzo would have made a difference in this case. 
+Having done so, its my belief that had Monzo asked proportionate questions and given Miss 
+N scam warnings she wouldnt have made the payments. I appreciate that Miss N was told 
+by the scammer not to tell anyone what was happening. So any cover story she gave Monzo 
+involving friends and family or buying an item wouldnt be plausible as such payments arent 
+made using cryptocurrency. And if Miss N had used a cover story involving investing in 
+cryptocurrency any questions about it would have revealed she had no understanding of 
+how it worked or what she needed to do to protect herself. Of course, if Miss N told Monzo 
+the truth the scam would have been immediately apparent. 
+Miss N explained to Monzo and this service that she cried a lot when she was on the phone 
+to the scammer. Her messages to Monzo after she reported the scam showed she was 
+extremely distressed, to the extent that Monzo organised a welfare call. In the 
+circumstances, I consider that if Monzo had discussed the third payment with Miss N it 
+should have picked up on her demeanour and recognised that something was wrong.   
+Should Miss N bear some responsibility for her loss?Ive also considered whether Miss N should bear some responsibility for her loss. Im not 
+persuaded that the story given to Miss N by the scammer was particularly plausible in terms 
+of HMRC asking her to move money to a cryptocurrency account. But I need to take into 
+account the overall circumstances of the complaint and reach a fair and reasonable 
+outcome.  Miss N has explained that she was vulnerable for a number of reasons on the day 
+of the scam. She was pregnant and on medication to help with her mental health. In addition 
+to this, Miss Ns sisters best friend had been given days to live earlier that week. Miss N had 
+spent time at the hospital and on the day of the scam was on her own for the first time that 
+week. As a result of the combination of these factors Miss N has explained that her judgment 
+was impaired. 
+As I said above, Miss N has explained that she was in tears when she spoke to the scammer 
+and its clear from her communications with Monzo after the scam that she was very 
+distressed. Given the evidence I have seen I think that in this case it would be fair for Monzo 
+to refund Miss Ns losses in full. 
+Recovery
+I dont believe Monzo could have done anything to recover Miss Ns funds. I say this 
+because Miss N made card payments to a legitimate cryptocurrency provider that gave the 
+service it was meant to. In these circumstances, a chargeback claim wouldnt have been 
+successful. 
+Interest
+The funds sent to the scammer were transferred into Miss Ns Monzo account from a 
+savings account with a different bank. So interest should be added to the refund for the third 
+and fourth payments at the interest rate that applied to that savings account at the time of 
+transfer. 
+Customer service
+Ive considered the service Monzo provided to Miss N. I accept there were some delays in 
+dealing with Miss Ns complaint but Monzo has already paid reasonable compensation in 
+respect of this. And I believe Monzo acted responsibly and reasonably in arranging a welfare 
+call during its investigation of Miss Ns complaint given the nature of the messages she sent 
+to Monzo in its chat. 
+My final decision
+For the reasons I have set out, my final decision is that Monzo Bank Ltd should:
+- Refund the third and fourth payments Miss N made (£4,466.58)
+- Pay interest on these two payments from the date of payment to the date of 
+settlement at the rate set out above. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Miss N to accept 
+or reject my decision before 20 July 2022.
+ 
+Jay Hadfield
+Ombudsman

@@ -1,0 +1,113 @@
+K821x#15complaint
+Mr K has complained ePayments Systems Limited  wont refund him for payments he didnt 
+authorise.
+background
+Mr K held both a card and wallet with ePayments.  Hed opened his account in January 2017. 
+On 8 October 2018 six payments were  made  using  the card. In three cases, ePayments sent 
+a SMS to Mr Ks mobile. Mr K received  three of these (one message went to a phone  that 
+wasnt his) but as he didnt recognise  where the messages had come from and knew  hed 
+not used his ePayments account, he ignored  them.
+When he realised his account had been  debited with transactions  hed not authorised,  Mr K 
+complained to ePayments. As three of the payments  hadnt  been authenticated using 3D 
+secure (sending of SMS), ePayments refunded those but wouldnt refund the others.  The 
+SMS for the seventh  payment had been  sent to the new mobile number registered on Mr Ks 
+account before any of the transactions had been  made. Mr K brought  his complaint to the 
+ombudsman service.
+Our investigator reviewed  the evidence. This included information from ePayments  that it 
+was likely Mr Ks account had been hacked as mobile phone  details  had been  changed.  This 
+request had come from an IP address not normally associated with Mr K. It hadnt been 
+actioned until after six of the payments had been made.
+Our investigator thought all the evidence showed  Mr Ks details had been used without his 
+authority. He asked  ePayments to refund him along  with 8% simple  interest.
+EPayments didnt agree with this outcome. They believed Mr K had authorised  these 
+payments. This complaint  has now been  referred  to an ombudsman  for decision.
+my findings
+Ive considered all the available  evidence  and arguments to decide  whats  fair and 
+reasonable in the circumstances of this complaint.  Having done so, Ive reached the same 
+conclusion as our investigator  and for roughly similar reasons.
+The Payment Services Regulations primarily  require banks and payment institutions  to 
+refund customers if they didnt make or authorise payments themselves. Certain other 
+circumstances do apply   specifically whether the customer was grossly  negligent  in looking 
+after their card and online  account details  but nothing thats had a marked impact  on the 
+decision Im making here because of the impact  of the distance selling regulations. So when  
+we look at whether  a business has acted fairly in rejecting someones fraud complaint, one 
+of the things we consider is whether the customer made  the transactions  themselves or 
+allowed them to be made. If they did, then we generally wouldnt ask the bank to refund 
+them.
+So to help me decide what happened, Ive looked at the evidence of the transactions, as well 
+as what both ePayments and Mr K have told us. Ive also asked further questions of Mr K 
+following evidence ePayments  gave to us about  Mr Ks passport details being  used as 
+authentication.
+Ref: DRN57664762Firstly I can see the timeline of events and how the transactions were made were 
+comprehensively covered in our investigators view of 24 October 2019. I dont intend to 
+repeat everything  that was said there. Except  to say Im satisfied Ive reviewed the complaint 
+thoroughly.
+I think the following  issues are relevant to this complaint:
+Some of ePayments  evidence has been  contradictory. For example they told us 
+Mr Ks account was only compromised after the disputed  payments were made. But 
+their own timeline  clearly says they were asked  to change the mobile  phone  details 
+before any of the payments were  made.  I appreciate they only changed  the mobile 
+phone number after the sixth payment and before the seventh but the person  trying 
+to make these transactions wouldnt have known that.
+Late on ePayments  provided us evidence they believed showed Mr K changed the 
+phone number himself.  A photo was sent to them of Mr K which they required to 
+authenticate this change. I can see this is Mr K as ePayments  holds a copy of Mr Ks 
+passport. But this doesnt match  other evidence ePayments has presented   that the 
+details were changed from an IP address  in a different country.
+Mr K accepts  he sent a photo  of himself holding his passport to identify himself  to 
+ePayments. But he didnt send this when his phone number was changed. 
+ePayments hasnt  shown us that this photo arrived with them  when the mobile phone 
+number was changed.
+I can see ePayments refunded three payments to Mr K. They  say this was because  
+they were not authenticated  by 3D secure so they were acting under card scheme  
+rules. Im aware what these rules state.  But I think its fair to say they also must have 
+refunded these payments because they didnt think Mr K had made  them. If they 
+thought hed made them, I wouldnt have  expected  them to refund them so promptly.
+So like our investigator  I wonder  why they believe Mr K made the other  payments. 
+Theyve not been able to show whether these transactions were all made from 
+different IP addresses or devices  or whether  these  were the same as Mr Ks.
+The transactions that were refunded were made  based on the timing on 
+ePayments transaction log  at 15:58 (twice) and 15:59. The transactions 
+ePayments didnt  refund  were made  at 12:39, 15:28 and 15:34.
+Bizarrely looking at Mr Ks account usage, the most likely transactions for Mr K to 
+have made are the transactions at 15:58  and 15:59 rather than the other three  which 
+bear no similarity to the usage  Mr K made  of his ePayments card.
+The three disputed  transactions were made using Mr Ks ePayments card. These  
+transactions  using  a card  fall under the distance selling regulations.  ePayments 
+has disputed this impacts them as they are not a consumer  credit business. I should 
+stress the legislation  covers the transactions and not the business. Transactions  
+made using a card at a distance   as these were   fall under these regulations. This 
+means that there are no gross negligence  considerations under the PSRs here as 
+the requirements under the distance selling regulations  that if someone didnt 
+authorise they get refunded  trumps considerations under the PSRs. Im surprised 
+ePayments werent aware of this regulatory  requirement.
+Ive noted  ePayments  state  they dont  hold device information as theyre  a small 
+payment institution.  I appreciate the difficulties this must cause them but as they 
+dont have this evidence, it makes it difficult to show  Mr K made the disputed  
+transactions.
+All parties seem to accept SMS messages were sent to Mr Ks phone. But Ive not 
+seen any evidence  he responded  to these messages so I cant really  see the 
+authentication ePayments claims.
+Ref: DRN57664763Having considered all the facts, I dont think theres enough evidence to show Mr K 
+authorised the three disputed transactions. On balance  I believe he didnt authorise these. I 
+will be asking  ePayments to refund the amounts that debited  Mr Ks account, along with 8% 
+simple interest. The three amounts were  in US dollars and according to ePayments  
+transactions log were  $219.47, $809.72 and $616.76.
+Our investigator also asked ePayments to pay Mr K a small amount of compensation.  I 
+agree with this but have changed this to $100 as opposed to an amount in GBP.
+During my review of this complaint, I have been in discussion with ePayments as they were 
+keen to try to and resolve Mr Ks complaint informally.  We asked Mr K for details about his 
+bank account.  This was then shared with ePayments. However they decided this wasnt 
+sufficient for them to make the required payment. Ive confirmed  to them  that to resolve this 
+complaint I am now issuing this final decision.
+my final decision
+For reasons given, my final decision is to instruct  ePayments  Systems Limited to:
+Refund Mr K $1,646.15 for the three  transactions he didnt authorise;
+Add 8% simple interest to that amount from 8 October 2018  until the date of 
+settlement; and 
+Pay Mr K $100 compensation for the inconvenience caused.
+Under the rules  of the Financial Ombudsman Service,  Im required to ask Mr K to accept or 
+reject my decision  before 15 July 2020.
+Sandra Quinn
+ombudsman
+Ref: DRN5766476

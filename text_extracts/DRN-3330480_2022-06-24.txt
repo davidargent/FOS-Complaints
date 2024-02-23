@@ -1,0 +1,101 @@
+DRN-3330480
+The complaint
+Mr P complains that Monzo Bank Ltd failed to refund transactions that he didnt recognise.
+What happened
+Mr P received a notification on his Monzo banking app that a payment had just been made 
+which he didnt recognise. Mr P blocked his own card and then noticed a second purchase 
+had been made with his card a little earlier that day.
+Mr P contacted Monzo about the situation and explained how he was sitting at his desk at 
+the time with his debit card in his possession when the notification came into his phone. 
+Monzo investigated what had happened and initially refunded one of the transactions, which 
+they later confirmed was a mistake. Monzos system data showed the two payments were 
+made with Mr Ps genuine card and used the contactless system when the payments were 
+taken at both merchants.
+Because Mr Ps genuine card had been used, Monzo declined to refund the two disputed 
+transactions, they also took back the earlier refund theyd made to Mr P. A complaint was 
+lodged by Mr P who stressed that the transactions couldnt have used his card because he 
+still had it in his possession at the time. Mr P sought CCTV evidence from one of the 
+merchants and contacted Action Fraud about the situation. After assessing the information 
+Mr P had passed to them, they (Action Fraud) took no further action. 
+Monzo again looked into Mr Ps situation and maintained their position that the payments 
+were made using Mr Ps genuine card and not a cloned one as Mr P thought may have 
+happened. Mr P remained unhappy with Monzos handling of his situation and brought his 
+complaint to the Financial Ombudsman Service for an independent review.
+Mr Ps complaint was looked into by one of our investigators who asked both parties for 
+information about what had happened. Mr P confirmed his version of the events, he 
+explained that he was in his office at the time of the transactions and the CCTV would show 
+it wasnt him using the card. Monzo supplied audit information about the payment.
+Our investigator thought the evidence showed it was Mr Ps genuine card that was used to 
+make both disputed transactions and it was reasonable for Monzo to hold Mr P liable for 
+both of the transactions.
+Mr P disagreed with the outcome and asked for a further review of his complaint. He 
+maintained that he had his genuine card in his possession at the time and was some miles 
+away from where the payments were made. Mr P thought that card cloning was the reason 
+behind the two transactions.
+The complaint has now been passed to me for a decision
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Refund
+Firstly, Id like to comment on the refund received by Mr P. Monzo have explained that their 
+system mistakenly issued a temporary refund to Mr P, which is why they later took it back. 
+Mr P would have been under the impression at the time that he was going to receive full 
+refunds for both transactions after seeing the first one refunded. This was an error by Monzo 
+and whilst they could have provided better service to Mr P, their decision to retrieve the 
+refund was based on the belief that Mr P authorised both transactions. Under normal 
+circumstances, Monzo wouldnt have issued a refund and I think it was reasonable for them 
+to take it back.
+Authorisation
+The relevant law surrounding authorisations are the Payment Service Regulations 2017. The 
+basic position is that Monzo can hold Mr P liable for the disputed payments if the evidence 
+suggests that its more likely than not that he made them or authorised them. 
+Monzo can only refuse to refund unauthorised payments if it can prove Mr P authorised the 
+transactions, but Monzo cannot say that the use of the contactless card conclusively proves 
+that the payments were authorised. 
+Unless Monzo can show that consent has been given, it has no authority to make the 
+payment or to debit Mr Ps account and any such transaction must be regarded as 
+unauthorised. To start with, Ive seen the banks technical evidence for the disputed 
+transactions. It shows that the transactions were authenticated using the payment tools 
+issued to Mr P.
+Mr P believes that his card was cloned because he was in possession of it some miles from 
+where the transactions took place. Monzo rely on their audit data to demonstrate it was the 
+genuine card that was used. Its not our role to say exactly what happened, but to decide 
+whether Monzo can reasonably hold Mr P liable for these transactions or not. In doing so, Ill 
+be considering what is most likely on a balance of probabilities.
+The audit evidence provided by Monzo shows it was Mr Ps genuine card that was used to 
+make these transactions. Its generally accepted that cards containing a Chip cant be 
+cloned, although the magnetic strip can be. But, if Mr Ps card was cloned using the 
+magnetic strip  the audit data would show that. The information recorded during 
+transactions includes the means of the payment  here that the Chip on the card was read 
+by the terminal it was used with. Thats why Monzo are able to show it was a contactless 
+transaction. 
+Id also note that both transactions were for relatively small amounts of money  well within 
+the contactless limit. I appreciate Mr P said he was in possession of his card at the time, but 
+Im satisfied the evidence shows that whoever used the card did so with Mr Ps genuine 
+card. 
+Even though its unlikely that it was Mr P himself that made these transactions, hed still be 
+liable for them unless his card was taken without his authority  but Mr P stated he still had 
+his card with him  not that it had been stolen.
+If Mr Ps card had been taken without his permission (stolen) then Id probably uphold his 
+complaint because the payments would likely not have been authorised  but here Mr P has 
+explained that he still had it in his possession and hasnt said it was stolen.The pattern of transactions also doesnt support a case that the card was being used without 
+permission, thats because the two transactions took place about an hour apart. Usually, 
+such cards are used as quickly as possible before the owner blocks them or reports them 
+stolen. Notification of payments to the account holders is a common feature of such cards 
+and an unauthorised user would most likely know that. The whole point of stealing a card is 
+to use it to gain as much money/goods as quickly as possible. Waiting almost an hour to use 
+it again is an unusual way for the card to be used by a thief.
+What that means here is that the version of events given by Mr P isnt supported by the audit 
+evidence supplied by Monzo. The card couldnt have been both in Mr Ps wallet and being 
+used to make the disputed transactions at the same time. So, when I take everything into 
+account, I cant say that the card was used without some form of authority and that means I 
+think that Mr P was more likely than not responsible for these transactions. I think it was 
+reasonable for Monzo to hold Mr P liable for the two transactions and I wont be upholding 
+this complaint.
+My final decision
+My final decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr P to accept or 
+reject my decision before 22 July 2022.
+ 
+David Perry
+Ombudsman

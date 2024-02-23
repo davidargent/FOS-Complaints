@@ -1,0 +1,110 @@
+DRN-3324257
+The complaint
+A company, which Ill refer to as O, complains that WorldPay (UK) Limited has unfairly 
+charged it £10,958 of authorisation fees. O is represented in bringing this complaint by one 
+of its directors, who Ill refer to as Mr F. 
+What happened
+O accepts card payments on its website, using WorldPay as its merchant acquirer and a 
+third party as its payment services provider (PSP). 
+In March 2021, O received an invoice from WorldPay, which contained an unexpected 
+£10,958 of miscellaneous charges.  
+O complained to WorldPay, which said that the charges were authorisation fees relating to 
+over 200,000 small card transaction attempts, which took place over a matter of hours. 
+WorldPay said that this was likely to stem from an activity known as high volume card-
+testing. 
+WorldPay declined to refund the charges, saying the card-testing had been enabled by a 
+vulnerability within the [PSP] gateway. WorldPay suggested that O speak to its PSP about 
+what could be done to prevent further card-testing attempts. 
+O referred its complaint to our service. It questioned why WorldPay didnt flag the 
+transactions and thought it was morally incorrect for WorldPay to profit from them. 
+One of our investigators looked into what had happened. She considered the terms of Os 
+agreement with WorldPay and concluded that it wouldnt be fair to ask WorldPay to refund 
+the fees. 
+O disagreed with our investigator and asked for an ombudsman to look at things again. Mr F 
+took the view that, as the transactions were declined, no money changed hands so they 
+shouldnt be chargeable. He also queried at what point WorldPay would have flagged the 
+fraud and why it was fair for WorldPay to profit from it.  
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+I think both sides agree that its likely O has been the victim of a technique known as high 
+volume card-testing. This is where fraudsters attempt a large number of low value payments 
+with an online merchant to check if stolen card details are still valid or to search for valid card 
+numbers. Automated bots or scripts are often used to carry out a large amount of card-
+testing transactions in a very short period of time. 
+The decision for me is whether its fair and reasonable for WorldPay to charge O 
+authorisation fees in these circumstances. 
+First, I think its worth me setting out that Im not aware of any regulations that specifically 
+require merchant acquirers to do anything to protect their customers from card-testing. Im 
+also not aware of any regulations that prevent the acquirer from charging for them.
+My starting point is therefore to look at the terms of the contract between WorldPay and O. 
+But Ive also considered how transactions are processed and whether its reasonable to rely 
+on the contract in the specific circumstances of this case. 
+The contract between WorldPay and O comprises several documents, including the 
+Merchant Services Agreement (MSA), Pricing Schedule and the Customer Operating 
+Instructions. These documents collectively set out the responsibilities and liabilities of the 
+parties. The first thing I have considered is whether WorldPay has complied with the terms of 
+this agreement. 
+I havent seen evidence of the original imposition of the authorisation fee, but I dont think O 
+disputes that it knew about this. I have seen evidence that WorldPay wrote to O informing it 
+that they were increasing the authorisation fee to 4.5p per transaction in December 2017. 
+And Ive seen that WorldPay said they were doing this in line with increased costs from 
+Visa. 
+WorldPay gave O two months notice of the increase in fees and gave O the option to 
+terminate the contract immediately for no additional charge, if it wasnt prepared to accept 
+the changes. Im satisfied that this increase was permitted by the MSA and made in 
+accordance with its requirements. 
+Having examined the documentation, my conclusion is that the contract permits WorldPay to 
+charge a fee for each authorisation attempt. There is no exception for card testing. And O 
+was given due notice of the increase in the fee and didnt object. 
+The MSA also says that the merchant (in this case O) is solely responsible for establishing 
+and applying adequate security systems and procedures. And the merchant is responsible 
+for all losses resulting from any unauthorised activity. I think this made it clear that 
+WorldPay wouldnt accept responsibility for attacks on the security of Os payment 
+arrangements. 
+I have considered whether WorldPay should nonetheless have taken further steps to prevent 
+this type of activity from happening. My conclusion is that I dont think it would be fair to 
+expect this. Ill explain why next. 
+O uses a third-party PSP to submit all payment requests to the relevant card company, 
+which then authorises or declines them. WorldPays role only becomes active when the PSP 
+passes on the transaction information to WorldPay via a nightly bulk transmission. Its at that 
+point that WorldPay then processes the transactions, requesting funds from the cardholders 
+for authorised transactions and then crediting Os merchant account. 
+I think its clear from the above that WorldPay receives the transaction details in arrears. It is 
+hence too late at that stage for it to take any action to stop card-testing occurring in real time. 
+I therefore have some sympathy with the argument that WorldPays role occurs at the end of 
+the process and they are therefore not best placed to implement any safeguards.
+I also note that WorldPays Customer Operating Instructions cover card-testing specifically 
+and offer some guidance on potential safety measures for merchants and their PSPs to 
+consider. 
+Its possible that there may be additional controls WorldPay could hypothetically put in place to try to identify card-testing activity through its acquiring account, since this is used to 
+transmit the authorisation requests. But any such checks would inevitably slow down 
+processing and introduce additional steps in the merchant acquiring process, thereby 
+incurring further costs. I am satisfied that WorldPay arent obliged to take on this 
+responsibility. Neither do I think it is unfair of them not to do so, given that the contract 
+makes it clear that they arent responsible. 
+I think its also worth mentioning that WorldPay are not the only merchant acquirer to include 
+authorisation fees in their contract. Nor are they the only merchant acquirer to charge these 
+fees for declined transactions, including those that look likely to result from to card-testing. 
+So I dont think WorldPays actions in this case are out of line with typical industry practice. 
+I do sympathise with O, which has been the victim of an unexpected attack on its website. 
+Although the card-testing attempts were all unsuccessful, O has still ended up with a 
+material loss, due to WorldPays authorisation fees. 
+I understand Os argument that WorldPay shouldnt profit from this activity. But the card 
+companies charge WorldPay a fee for each authorisation request, whether it is authorised or 
+declined, card-testing or otherwise. In any case, it isnt my role to tell WorldPay how to 
+conduct their business or what charges to apply, but rather to decide whether they have 
+acted fairly in the circumstances of this particular case. Ultimately, merchant services are 
+provided on the open market and O can exit its contract if it wishes.
+In summary, Ive found that WorldPay is entitled to charge an authorisation fee for every 
+transaction attempt under the terms of the agreement O signed. WorldPay, in their role as 
+merchant acquirer, were responsible for processing transactions and didnt have control over 
+Os website or the PSP. In the absence of any error on the part of WorldPay, I dont consider 
+I can reasonably require it to refund the fees. 
+My final decision
+For the reasons set out above, I dont uphold this complaint. 
+Under the rules of the Financial Ombudsman Service, Im required to ask O to accept or 
+reject my decision before 15 June 2022.
+ 
+Louise Bardell
+Ombudsman

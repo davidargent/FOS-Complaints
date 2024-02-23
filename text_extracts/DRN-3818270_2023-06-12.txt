@@ -1,0 +1,335 @@
+DRN-3818270
+The complaint
+Mr K complains that Barclays Bank UK PLC will not refund cash machine withdrawals that 
+he says he didnt make or otherwise agree to.
+What happened
+In the early hours of the morning, Mr K was smoking a cigarette near a central London 
+landmark. He explains that he began talking with two gentlemen who were near him at the 
+time. Mr K recalls that the conversation was friendly and lasted around 20 to 30 minutes. 
+Mr K says one of the gentlemen suggested exchanging numbers so they could keep in 
+touch.
+Mr K explains that he did not wish to appear rude, so agreed and handed over his mobile 
+phone for the gentleman to enter his contact details. Mr K says that his phone was returned 
+to him less than 30 seconds later, then they all went their own separate ways not long after.
+Just over an hour later, Mr K noticed his phone was not connected to its network. He 
+discovered that the SIM card was missing and contacted his phone provider from his wifes 
+phone. He explains that his Barclays mobile banking app had disappeared from his phone. 
+In addition, his debit card was missing.
+Between 03:33am and 03:44am, £1,930 was withdrawn from Mr Ks account by 11 cash 
+machine withdrawals. The cash machines used were outside a Barclays branch in East 
+London.
+Mr K reported it to Barclays and the Police. Barclays temporarily refunded Mr K whilst it 
+investigated. But it then declined the claim. It concluded Mr K must have divulged his PIN 
+and that hed behaved carelessly by handing over his phone to a third party.
+Mr K complained. In its final response letter, Barclays says it hadnt found any evidence to 
+suggest the payment was made by a third party and couldnt find any evidence of fraud.
+Unhappy with the banks position, Mr K referred the complaint to us. He felt there was a 
+potential weakness in Barclays mobile banking app. He suggested that it could have been 
+possible for someone that had both his debit card and his SIM card to re-register his mobile 
+banking and then access his PIN from inside the mobile banking app.
+Our Investigator looked into the matter but did not recommend that it should be upheld. He 
+had doubts about Mr Ks recollection of the events and felt, on balance, that he had 
+authorised the transactions because he couldnt see how anyone else could have known his 
+PIN.
+Mr K disagreed. He said hed done some research and thought it was possible for someone 
+to generate a mobile banking access code without using a cash machine or knowing the 
+PIN. He said that he didnt accept that a cash machine had been involved when installing his 
+mobile banking app on a new device and explained hed never disclosed his PIN to anyone 
+else. Mr K suggested that the fraudsters had set up his mobile banking on a new device, 
+received a one-time passcode by using his stolen SIM card in another device and then were 
+able to retrieve his PIN from inside the app.
+Mr K said his phone was always in his immediate vicinity, it was only in someone elses 
+hands for a very brief period and he did not appreciate that these actions could lead to a 
+fraudster gaining control of his bank account and stealing a large amount of money from 
+him.
+Mr K made a subject access request to Barclays as he was concerned the information the 
+bank was providing to us was not credible and was being presented in a deliberately vague 
+and misleading way. Mr K also asked our Investigator to share the material evidence that 
+hed relied upon.
+Once Mr K had reviewed the information, he was concerned that there had been no mention 
+of a card transaction for £20 that took place at 03:32, which is just before the disputed cash 
+machine withdrawals started. The last time Mr K had used his card was at 01:27.
+As no agreement had been reached, the complaint was prepared for a decision.
+My further investigation
+When the complaint was referred to me, I contacted Mr K and asked him if he had any 
+further comments as hed recently been provided with evidence showing the involvement of 
+a cash machine, suggesting that things could not have happened as hed thought.
+Mr K asked me to provide a list of all of the transactions and activities that happened across 
+the disputed time window. I provided this information to Mr K, as well as confirming that the 
+£20 card transaction was a contactless payment that didnt require PIN verification. 
+I suggested that it was potentially a taxi because the merchant coding was given as taxi 
+cabs/limousines. I suggested this made sense in the context of the complaint because it was 
+clear that Mr Ks card had somehow moved from when he last used it in Central London to 
+East London at a time in the morning when there was not going to be much in the way of 
+public transport.
+Mr K explained he had replayed the events in his mind and the gentleman that had his 
+phone told him that it had locked itself. Mr K said he was now wondering whether this was 
+staged to get him to use Touch ID to unlock his mobile banking app rather than his phone. 
+He suggested that if his bank card had been stolen first, then the gentlemen could have 
+used his card information to do an in-app PIN reveal.
+I pointed out to Mr K that a balance enquiry at 03:00 was of particular interest to me as it 
+meant that Mr Ks card was out of his possession at this time and it suggested that whoever 
+undertook that action had the PIN number. Crucially, this happened before any attempt to 
+register mobile banking on a new device. Mr K confirmed he did not recognise this
+action and had no need to check his balance.
+I explained the technical evidence shows the disputed cash machine withdrawals were all 
+made using Mr Ks physical card and PIN, so the attempt to register mobile banking did not 
+lead to any loss from his account.
+Mr K said it was unclear why someone set up the mobile banking app on another device if 
+the technical evidence shows it seems to have been unused. Mr K explained he felt 
+perplexed by the situation and suggested it was akin to a member of the public being asked 
+to explain a magic trick. He said the idea that he gave out his PIN was not acceptable and not what happened.
+I asked Mr K questions about the interaction with the men that befriended him, such as 
+whether he was sitting or standing, where his card was kept and how he thinks someone 
+was able to take it from him without him noticing. I pointed out that to remove the SIM card 
+from the phone required the use of a SIM ejection tool. I asked Mr K how someone was able 
+to do this whilst he was there.
+I also told Mr K that in the banks file, there was a note suggesting that when he first reported 
+what happened, he told the bank that he was drunk. I asked Mr K if he agreed with that or 
+not and explained that it was important for me to understand all the surrounding 
+circumstances that could be relevant.
+Mr K replied and outlined details of location data from his mobile phone. He speculated there 
+must have been another individual involved because he was chatting with the two gentlemen 
+until at least 3.25am, which did not leave enough time for those individuals to travel to East 
+London to use a cash machine at 3.32am.
+Mr K said hed shared a bottle of wine with his wife earlier in the evening, but he would not 
+describe himself as drunk and did not consider his judgment to be significantly impaired. He 
+said his bank card was loose in his back pocket and he was not sure how it was taken from 
+him. He said it might have been possible for someone to lift it out of his pocket without him 
+physically detecting it, especially with random collisions occurring all the time. He speculated 
+that someone could have stood on a lower step behind him whilst he was facing the other 
+way which would have given closer access to his back pocket. 
+Mr K confirmed to me that his phone did have a tray that needed to be popped open with a 
+pin to access the SIM card. He explained that he had a rubber case on his phone so the 
+gentleman must have peeled off the case at the corner to access the SIM tray. He explained 
+that whilst one of the gentlemen had his phone to enter the contact details, the other 
+gentlemen requested a cigarette, which Mr K gave and lit for him whilst it was in his mouth. 
+Mr K thought, with hindsight, that this was done to distract him. Mr K said he now thought 
+hed unwittingly unlocked his mobile banking app which allowed the gentleman to do an in-
+app PIN reveal.
+I asked Barclays to provide a copy of the call recording when Mr K reported what had 
+happened from his wifes phone. I also asked Barclays to provide technical evidence about 
+the balance enquiry made at 03:00. It did so, and those records show that the PIN was 
+entered correctly the first time and had not been changed.
+I looked carefully at the banks records for when Mr Ks mobile and online banking had been 
+accessed. I contacted the bank and queried my reading of this data as showing that the first 
+time Mr Ks mobile banking was accessed was at 03:25, which is about 25 minutes after 
+Mr Ks card and PIN were used to make the balance enquiry. The bank agreed this is what
+the data shows. The banks evidence showed no log ins were made using Mr Ks genuine 
+phone on 13 June 2021. This means that one of the gentlemen could not have tricked Mr K 
+into unwittingly using Touch ID to log into his mobile banking under the guise of unlocking 
+the handset.
+The bank added it would not have been possible for the PIN to have been shoulder surfed, 
+so it must have been known to the person that carried out the balance enquiry at 03:00.
+I then issued a provisional decision to bring together the further information Id found out. Ive 
+copied my findings below:Ive considered all the available evidence and arguments to decide whats fair and
+reasonable in the circumstances of this complaint.
+I have summarised the matter in my own words and in less detail than has been provided.
+No discourtesy is intended by this as it enables me to focus on the key issues of this
+complaint and its surrounding investigation. From what Ive seen so far, I dont think Barclays
+treated Mr K unfairly by declining his claim. I know this is not the news Mr K is hoping for, so
+I will explain why.
+In cases where payments are in dispute, there are some general principles that apply. The
+Payment Services Regulations primarily require banks to refund customers if they didnt
+make or authorise payments themselves. Certain other circumstances do apply  specifically
+in this type of case whether the customer was grossly negligent or what the customer may
+have consented to. So, when I look at whether a bank has acted fairly in rejecting
+someones fraud complaint, one of the things I consider is whether the customer made the
+transactions themselves or allowed them to be made. If they did, then it generally wouldnt
+be fair to ask the bank to refund them.
+Im satisfied from the banks technical reports that the disputed transactions were made with
+Mr Ks genuine card and his PIN. But the regulations relevant to this case say that is not, on
+its own, enough to enable Barclays to hold him liable. So, I also need to think about whether
+the evidence suggests that its more likely than not that Mr K consented to the transactions
+being made or if not whether he did something he shouldnt do under the terms and
+conditions for the account.
+One of the difficulties in this case is its not very clear exactly what happened or how it
+happened. Mr K has changed his account of the key events, which are significant details
+that go to the very heart of this complaint. In situations where evidence is missing,
+incomplete or contradictory, as it is here, I have to make my decision on balance, forming a
+conclusion on what I think is more likely than not in light of the evidence that I do have.
+Mr K has maintained that he did not agree to these transactions. Hes said he did not make
+them and has referred to location data from his mobile phone pinpointing him in a different
+place to the cash machines. I have no reason to doubt this. Mr Ks account had a large
+balance so theres no apparent reason why he would stage a fraud. In addition, I dont think
+Mr K would have reported this matter to the Police if any potential investigation would turn up
+evidence that placed him at the scene, although I should be clear at this stage that Ive not
+currently seen the Police report and dont know exactly what Mr K reported at the time.
+Nonetheless, I am prepared to accept that Mr K has not benefitted from these transactions
+and has suffered a loss. Ive looked at the way the card was used, and it does have the
+hallmarks of how a stolen card may be used. But this, in and of itself, is not a reason for
+Barclays to refund him.
+The banks technical evidence shows that the disputed transactions were made using
+payment tools issued to Mr K. I can say with some confidence that Mr Ks genuine card was
+used to withdraw the cash and make the contactless payment and his PIN was entered
+correctly first time at key points, as Ive outlined in my further investigation detailed above.
+But from what Mr K has said to both us and the bank, theres no clear explanation for how
+the card and PIN could have been obtained by unauthorised third parties.
+In the call recording when Mr K first reported the fraud, when the bank asked Mr K about his
+card he said: I think someone took it out of my wallet without me realising
+The banks employee continues: Youve also mentioned about your SIM card as well, haveyou got your phone?
+Mr K replies: Ive got my phone but err I think someone must have taken my SIM card out of
+my phone.
+Barclays: Oh right, okay.
+Mr K: Bit unusual right?
+Barclays: Theyve taken the SIM card out of your phone but err did you, youve still got your
+phone?
+Mr K: Ive got my phone back, its only when Ive come home that Ive realised theres no
+SIM.
+Later in the call, the bank asks: Have you, have you still got your wallet?
+Mr K replies: Yes, Ive got my wallet. Erm, and I think everything else is in it. He then goes
+on to say: Its all very mysterious but Ive heard that theres been a transaction and definitely
+my SIM card is gone and my wallet is gone, I was a bit drunk, so I wasnt paying careful
+attention but now I look back on it, it kind of makes sense and I think thats whats
+happened.
+Mr K clearly says in the call that hed got his phone back. I find this an odd turn of phrase for
+someone to use if they had shared their phone with a third party for the purposes of the third
+party putting in contact details as that type of scenario doesnt obviously imply that the
+phone had been gone. In addition, Mr K is very clear that his card was kept in a wallet. He is
+less clear about whether he still had the wallet as he tells the bank conflicting things on this
+point. The loss or theft of a wallet isnt an unusual thing to happen to someone so I cant see
+why Mr K would not be open about saying if something similar had happened to him. I dont
+think it would be appropriate to say that Mr K gave his consent to any transactions that
+happened during a time that his payment tools were in the hands of a third party without his
+knowledge or agreement. But even if Mr K didnt authorise the transactions, I would still need
+to think about if hed been grossly negligent or failed with intent to keep his personalised
+security details secure.
+It's possible that Mr K was more intoxicated at the time than what hes said to me. Its also
+possible that someone targeted Mr K whilst he was in this potentially more exposed and
+vulnerable situation. But his inconsistent testimony makes it difficult to understand what
+actually happened that night.
+All I do know is that to make these transactions, someone needed to obtain the card from
+Mr Ks person and they needed his PIN. I cant place any weight on what Mr K has said
+about how that could have happened. It doesnt seem plausible that a random third party
+would have known that Mr K had a card loose in his back pocket. It also doesnt seem likely
+that this is what happened given what Mr K told the bank about the card being kept in a
+wallet, which is I feel more likely given that conversation took place a few hours after the loss
+was incurred. I also cant see how a third party could have removed Mr Ks phone from its
+case and then removed the SIM card from his device without him having at least some
+awareness in his peripheral vision that something more than entering a phone number was
+happening.
+Even if a third party had been able to obtain Mr Ks card, be it in the circumstances that Mr K
+described to me or by some other way, it would have been of limited use by itself. It could
+have potentially been used to make a small number of contactless payments, but thoseoptions would have likely been fairly minimal at that time in the morning, even taking into
+account the central London location.
+I also have to consider how the PIN was obtained. At the moment, I dont have any plausible
+explanation as to how this happened. The PIN was entered correctly the first time. I think its
+highly unlikely that someone would have been able to guess Mr Ks PIN correctly given
+theres 10,000 possible combinations for what that PIN could be. There isnt an obvious point
+of compromise in any of the circumstances that Mr K has described. My further investigation
+established that Mr Ks PIN could not have been shared through his mobile banking app,
+either on his own device or on the other device. From what I currently have to consider, the
+only way the PIN could have been known was if Mr K had shared it or if it was kept with the
+card. Either way, Barclays is entitled to hold Mr K liable for any transactions that happened
+as a result under the relevant regulations and the terms and conditions of his account.
+I am sorry to have to disappoint Mr K. This is not an easy message for me to give and I am
+mindful that it will not be an easy message for him to receive, but it is where the evidence
+that is currently available has led me.
+Responses to my provisional decision 
+Barclays responded and said it had nothing further to add and would await the final decision 
+in due course.
+Mr K was disappointed and disheartened by my decision. He said hes been the victim of an 
+expertly executed deception and has put a lot of time into trying to fight for justice on this 
+matter. He said he was certain beyond any doubt that hed never disclosed his PIN to these 
+individuals and that it was not written down or obtainable in any way. He explained he was 
+shocked when Barclays had told him they had used his PIN which is why he felt it was left to 
+him to try to develop a theory to explain how they did it. He said that he no longer believed 
+that generating an activation code within the banking app was how it happened. 
+Mr K said that he thought the second time his phone was unlocked was of pivotal importance 
+and has the potential to explain how the criminals did it. He thought it was strange that the 
+gentleman covered the upper half of his screen. He suggested that Barclays was not being 
+entirely transparent and was not divulging the data that supports this occurring to avoid 
+paying the claim. 
+Mr K explained that his wallet had been at home the whole time and that his bank card had 
+been loose in his pocket as this was all he had taken with him when hed popped out. He 
+disagreed with my opinion that it was not feasible for someone to remove a SIM card without 
+Mr K noticing and suggested it was not impossible for a skilled criminal to do. He thought the 
+timing at which things happened suggested that one other individual in addition to the two 
+gentlemen he spoke with must have been involved.
+Mr K asked if he could hear the recording of the conversation Id cited and asked if Barclays 
+would refund the £20 contactless transaction since it did not require his PIN but only the theft 
+of the card.
+I contacted Barclays and highlighted the £20 transaction Mr K had referred to. Barclays said 
+that the transaction was already considered as part of its fraud investigation. I informed Mr K 
+that Barclays did not wish to refund the transaction. I explained that I had thought about 
+whether Barclays is obligated to refund the transaction under the relevant rules and pointed 
+out that in any event the regulations say that a bank can hold a customer liable for the first 
+£35 of any losses incurred as a result of payment transactions made using a lost or stolen 
+payment card. After Mr K had listened to the call recording, he added further comments. He said that at no 
+point did he believe hed lost his phone and had probably used the phrase I got my phone 
+back as a result of requestioning everything that had gone on that night and doubting 
+everything and everyone. He said apart from the phone being in the suspects possession 
+for no longer than a minute, there was no other reason for him to say he got his phone back 
+and it does not allude to any other feature or event that night. 
+Mr K said he did not believe that alcohol played any role in causing him to fall for this 
+deception as he was completely in control and largely sober. He suggested his statement 
+I was a bit drunk was not accurate. 
+Mr K confirmed his earlier comments that hed mistakenly thought his card had been stolen 
+from his wallet at first and that it was only later that he realised hed gone out with just his 
+card.
+Mr K highlighted the call recording mentioned a rejected transaction for Transport for London 
+bike hire, which at the time the events happened would have been the cost of hiring three 
+bikes. He suggested that five people may have been involved in committing this crime as 
+two suspects were very likely still with him at the landmark, placing one person at the cash 
+machine to undertake the balance enquiry and potentially two others in East London. He 
+said the balance enquiry at 03:00:49 could not have been made by either of the two 
+gentlemen that he was speaking to so there must have been more people involved. Mr K 
+concluded by saying he strongly believed something odd happened when he was prompted 
+to unlock his phone a second time and the gentleman concealed the screen. He suggests 
+this is the most likely way his PIN was obtained, and it was deeply frustrating that I was 
+giving precedence to Barclays electronic data.
+As both parties have now had the opportunity to consider my provisional decision and 
+respond, I will now reach my final decision. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Whilst Mr K has tried to be as helpful as he can in explaining what he thinks could have 
+happened, the wider circumstances of this complaint are still far from clear. It does not seem 
+plausible to me that he was essentially targeted in the ways that he has suggested. I believe 
+there must be more to this, notwithstanding what Mr K has said about there being no other 
+significant feature or event that night. 
+There is no getting away from that to be able to undertake the balance enquiry and make the 
+cash machine withdrawals required knowledge of Mr Ks PIN. It wasnt guaranteed that even 
+a gang working together could obtain the PIN. Neither an opportunistic thief nor a gang 
+targeting Mr K would have known for sure that he was going to stop at the landmark to 
+smoke a cigarette to present the opportunity for them to gain access to his phone. It was just 
+as likely Mr K was walking on his way somewhere given the location and the time of day. To 
+add to this, I still think it would have been very bold for someone to remove Mr Ks phone 
+from its case and then proceed to remove the SIM card using an extraction tool whilst stood 
+directly next to him. Im not persuaded that Mr K would have let a stranger move away from 
+him whilst they had his phone to be able to do this without challenge, or that Mr K would 
+have turned away to such an extent that hed got no view of his device in his peripheral 
+vision, especially as hes said he was largely sober. Mr K has most recently suggested that the PIN must have been disclosed when the 
+gentleman prompted him to unlock his phone and concealed the upper half of the screen. 
+But the PIN was known to whoever made the balance enquiry at the cash machine at 
+03:00:49, so this doesnt seem most likely given the timings Mr K has recalled.
+Mr K has suggested Barclays is withholding information to avoid paying the claim. I do not 
+consider this to be the case and I am mindful that the bank refunded the claim initially 
+pending its investigation. Barclays has provided mobile banking access logs and there is no 
+TouchID log in recorded for 13 June 2021 at all. If Mr K had been unwittingly duped into 
+logging into his mobile banking app instead of just unlocking his device, the banks records 
+would reflect that log in. 
+Having considered matters afresh, I remain of the position that there are too many steps 
+required in Mr Ks version of events to confidently explain how someone essentially targeted 
+him and his inconsistent testimony makes it difficult to understand what actually happened 
+that night. 
+My role is to ultimately decide whether Barclays has treated Mr K fairly by holding him 
+responsible for the transactions that took place. But I must make my decision based on all of 
+the evidence thats been provided. Mr K is aware that the banks technical records do not 
+support the theory that the PIN was disclosed through the mobile banking app and Mr K has 
+been very clear that his PIN was not recorded or stored in any way. From what I have to 
+consider, I cant see how these transactions could have possibly happened without Mr Ks 
+involvement without stronger evidence to the contrary. Although Ive thought carefully about 
+everything Mr K has described, there remains no clear opportunity for someone else to have 
+obtained his PIN or for him to have unwittingly disclosed it. 
+I dont doubt that something happened to Mr K that night and I can understand why he feels 
+strongly about it. Hes ended up out of pocket and this is a lot of money for anyone to lose. 
+But for the reasons Ive explained both here and in my provisional decision that I reproduced 
+above, I still dont believe Barclays has acted unfairly in rejecting his claim for a refund. 
+My final decision
+My final decision is that I dont uphold this complaint. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr K to accept or 
+reject my decision before 10 July 2023.
+ 
+Claire Marsh
+Ombudsman

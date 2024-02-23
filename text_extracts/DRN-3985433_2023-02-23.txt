@@ -1,0 +1,93 @@
+DRN-3985433
+The complaint
+Miss P complains that Monzo Bank Ltd (Monzo) wont reimburse a payment sent from her 
+account which she didnt make or otherwise authorise.
+What happened
+The detailed background to this complaint is well known to both parties, so I wont repeat it 
+again here. Instead, Ill provide an overview and focus on giving my reasons for my decision.
+Miss P received a call from someone purporting to be from Monzo. They said theyd 
+called in relation to suspicious activity on her account. Miss P states the caller 
+already knew some of her details  name, address, and last few transactions. She 
+entered a PIN thinking she was completing security verification, but in fact Miss P 
+had approved setting up of an Apple Pay token. 
+Miss P didnt recognise some of the transactions the caller listed, and they asked her 
+to move money from her savings pots into the main account before they could 
+cancel her debit card. The caller then instructed Miss P to approve one of the 
+unrecognised transactions  for £502.99  before it could be refunded. She states 
+she clicked on the transaction in her Monzo app but didnt approve it as she became 
+suspicious. But the transaction went through anyway.
+Monzo declined to refund the money and said it wasnt possible for the transaction to 
+have been authorised by anyone else. Our investigator didnt agree with Monzo  
+they thought that Miss P hadnt authorised the disputed transaction. They 
+recommended Monzo to reimburse her in full along with interest, plus £100 
+compensation for not mitigating her worries sooner. Miss P accepted the 
+investigators outcome, but Monzo didnt. 
+The complaint was passed to me to decide, and I contacted Miss P informally to 
+explain why I intended reaching a different outcome to the investigator. Miss P 
+reiterated that while she did enter a PIN for setting up Apple Pay (albeit she didnt 
+know that at the time), she didnt enter a PIN to approve a payment transaction.  
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Id like to reassure the parties that although Ive only summarised the background to this 
+complaint, so not everything that has happened or been argued is set out above, Ive read 
+and considered everything thats been provided. 
+Having done so, Ive decided not to uphold it for the following reasons:
+In line with the Payment Services Regulations 2017 (PSRs), broadly speaking, 
+Miss P isnt liable for payments she hasnt authorised, unless she failed with intent or 
+gross negligence to comply with the terms of the account or keep her personalised 
+security details safe. And Miss P is liable for payments shes authorised. 
+The PSRs explain that authorisation depends on whether the payment transaction 
+was authenticated correctly and whether the consumer consented to it.
+Monzo has provided technical evidence which shows that Miss Ps card details were 
+entered on the merchants website and the payment transaction was approved using 
+a PIN via her Monzo app. Given Miss Ps security credentials were used, as far as 
+authentication goes, Im satisfied that the disputed transaction was authenticated 
+correctly.
+Thinking about consent next, the PSRs state how consent is given. It must be in the 
+form and in accordance with the procedure agreed between the consumer and the 
+payment service provider. In other words, consent is provided when the consumer 
+completes the agreed steps for making a transaction or allows someone else to 
+complete some or all of them.
+Miss P says the caller told her she had to approve the disputed transaction before it 
+could be refunded. In response to my recent email, she confirmed it was her 
+understanding that if she approved the transaction, it would leave her account before 
+being refunded. Miss P reiterated that while the transaction approval screen did 
+come up, she didnt approve it as what the caller had told her didnt make sense.
+I acknowledge Miss Ps comments that she didnt approve the payment transaction. 
+But the technical evidence Ive seen from Monzo shows that it was approved via her 
+Monzo app. Miss Ps previously said that she wasnt asked to (and therefore didnt) 
+download any app on her phone, and Monzos confirmed that her account wasnt 
+accessed using another device at the time of the payment. Having considered the 
+evidence, even if she was duped into doing so, Im satisfied that the most likely 
+scenario here is that the transaction was approved by Miss P herself. And in doing 
+so, she gave consent for the payment to be made.
+Even though Miss P might not have completed all the agreed steps to make the 
+transaction (such as entering her card details on the merchants website), she 
+understood that by approving the transaction a payment would leave her account. 
+So, under the PSRs, the transaction would be treated as being authorised. That 
+means that the starting position is that Miss P would be considered liable for the 
+payment. I recognise that she may not have benefitted from what was purchased, but 
+thats not a consideration for whether the payment was authorised.
+Ive gone on to consider Monzos responsibility to protect customers from financial 
+harm, even where a payment has been authorised by the consumer. I recognise that 
+Miss P lost just over £500. I also acknowledge that the transaction is higher than the 
+usual spending on her account. But I dont consider it that unusual such that I think 
+Monzo ought to have paused it and made enquiries. After all, it isnt unusual for 
+customers to make a one-off larger payment from their account. Ultimately, banks 
+have a balance to strike between protecting their customer from fraud and executing 
+a properly authorised transaction within a reasonable period. Considering Monzos 
+wider responsibilities, I dont think it ought to have regarded this transaction as 
+suspicious or an indication that Miss P might have been at the risk of falling victim to 
+a scam. So, I dont consider it was unreasonable for Monzo to have released the 
+payment.In summary, I recognise that this will come as a considerable disappointment to Miss P. 
+Not least because the matter has been ongoing for some time and our investigator 
+previously upheld this complaint. But in the circumstances, Im not persuaded that 
+Monzo can fairly or reasonably be held liable for Miss Ps loss. 
+My final decision
+For the reasons given, my final decision is that I dont uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Miss P to accept 
+or reject my decision before 23 March 2023.
+ 
+Gagandeep Singh
+Ombudsman

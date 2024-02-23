@@ -1,0 +1,161 @@
+DRN-3417237
+The complaint
+Mrs J complains to Trading 212 UK Limited about losses on her contracts for difference 
+(CFD) trading account when one of her positions was closed by an erroneous market 
+movement.
+What happened
+On 28 December 2020, Mrs J went long on a silver CFD at $26.4543. Her position initially 
+did well, with the market rallying to around $27.93 on 6 January 2021. But there was a 6.5% 
+drop in the market on 8 January, with the price falling to around $24.47  T212 sent Mrs J a 
+notification to let her know her margin had fallen below the required level. 
+In the following days, the market remained fairly level, but overnight from 17 into 18 January, 
+the price fell to around $24.06. At 1:59am, Mrs Js position was closed out at $24.1954, 
+losing her £796.04. 
+Unhappy about this, Mrs J got in touch with T212. One of their representatives explained the 
+market had gapped, so Mrs Js position was closed in order to protect her from going into a 
+negative balance. T212 werent able to show Mrs J what her precise equity was when the 
+market fell, so she wasnt persuaded itd fallen below 25% as they suggested. 
+T212 looked into her concerns but didnt agree theyd done anything wrong. They explained 
+the position was closed as Mrs Js account status fell below 25% - this was something that 
+was automatic and covered by their terms. They also shared pricing data with her to 
+evidence the price she was closed out at was reflective of the market at the time.
+Mrs J remained unhappy and with help from a representative, she brought the matter to our 
+service. She said, in summary:
+though the price had fallen, it bounced back immediately,
+if she breached the 25% minimum, itd only have been very briefly and shed then 
+have been back above the threshold,
+this said, she questioned whether her equity had indeed fallen below 25% as T212 
+had failed to evidence it,
+though T212 said they closed the position to protect her as a client, this wasnt 
+accurate  their actions were simply in line with their pre-set parameters which failed 
+to recognise the spike,
+T212s systems werent properly designed to account for unprecedented movement  
+she thought they were perhaps on auto-pilot at the time of night she was closed out
+shed had no margin call despite having had one in previous weeks when the price 
+had dipped,
+it wasnt fair for T212 to quote client agreements  she recognised there was 
+considerable market volatility at the time, but thought T212s actions in amending 
+margins had made the silver price spike inevitable, 
+as she felt her account was far from a negative balance and because of the 
+immediate price recovery, she thought it was unfair for T212 to have closed the 
+position at a considerable loss, 
+she didnt think it was fair or reasonable to be at the mercy of T212s inadequate 
+systems and asked for compensation for her loss.
+One of our investigators had a look into whatd happened. Unfortunately neither T212 or 
+Mrs J had evidence from the time to show what her account status or equity actually was. 
+Despite this, he could see T212 had put Mrs J on margin call on 8 January and that her 
+silver position had been closed out ten days later with a status saying Closed due to 
+insufficient funds. As the price was close to the market price at the time, and given the 
+regulators rules around margin requirements, our investigator thought it was fair for T212 to 
+have closed Mrs Js position.
+Mrs J didnt agree. She said, in summary:
+T212 allowed her position to close automatically but they ought to have manually 
+intervened  the spike wasnt a real price and was something that rectified itself very 
+quickly,
+T212 ought to have waited a few minutes before closing her out to see how the price 
+moved  she was probably at around 45% of the requirement so there will have been 
+time to leave the trade in play,
+though T212s system may be set to work in the way they did, it meant they werent 
+taking any responsibility for these sorts of situations  their approach was lazy and 
+didnt look after client interest in the way they should,
+she thought T212s margin call was an example of how downtrends were handled 
+during the daytime  she thought that on that occasion, theyd acted appropriately 
+and given her the chance to add funds,
+this said, she didnt think the rules worked for overnight trading  they ought to 
+require a manual check into situations such as hers so that a practical approach 
+could be taken as this wouldve been fairer for her as the customer,
+she wanted us to ask T212 to approach her case differently from a customer service 
+point of view, and while appreciating the rules for what they are, to recognise that 
+what happened could have been handled differently.
+Though prices moved quickly, our investigator was persuaded the price T212 had relied on 
+was a correct market price. And he noted the regulators rules required firms to take action as 
+soon as margin wasnt met  he thought T212 were acting in client interest as the price 
+might not have been a spike and might have run further, losing Mrs J even more money. So 
+as an agreement wasnt reached, the complaint was passed to me to consider. 
+ 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+In offering CFD products, T212 as a regulated business must follow relevant rules that flow 
+from intervention in the sector by the European Securities and Markets Authority (ESMA) in 
+2018. Relevant here was the requirement for Mrs J to have enough equity  being the total 
+unrealised value of open positions and the account balance  on her account to fund her 
+running positions.
+In cases like Mrs Js where a CFD has been closed on margin call, Id usually start by 
+considering the account position at the time the closure was triggered. Unfortunately, were 
+limited in what we can review post the event as T212 are unable to provide with a snapshot 
+from the time. Though I appreciate this concerns Mrs J and that she may be suspicious 
+about the validity of the margin call, I think were still able to consider what happened on 
+balance.Mrs J opened her silver position on 28 December 2020 at $26.4543  as I noted above, in 
+the first week her position did well as silver prices went up, but on 8 January there was a fall 
+of around 6.5%. And then overnight between 17 and 18 January, another fall before 
+recovering later in the day. 
+Piecing together what happened here, we can see from T212s system notes Mrs J was sent 
+a margin call notification at 10am on 8 January. This was the first notable fall in the price. 
+The second was overnight between 17 and 18 January  when she was closed out.
+What we know from T212s terms is that they send margin call notifications when 45% equity 
+is passed. And that they close positions once 25% is passed, or 50% margin. Given this, it 
+does seem likely Mrs J breached 25% as T212s system notes at 1:59am say Some of your 
+positions were closed to insufficient funds. I can also see the price Mrs J was closed at 
+tracked closely to the Bloomberg data T212 shared, so I think the price at the time was in 
+line with how T212 would usually make their price. From what Ive seen, Im satisfied Mrs Js 
+position was closed at the correct level when her margin requirement was breached. 
+This said, I appreciate Mrs J is unhappy with the blanket approach T212 took here in the 
+middle of the night, she thinks a manual intervention would have been better given the price 
+she was closed at recovered quickly. But although Mrs J recalls receiving margin calls during 
+the daytime  thereby allowing her time to act and to add funds to her account  these 
+communications are unlikely to have been a result of any sort of manual intervention from 
+T212s brokers. Their system, like many similar firms, is largely automated  this is 
+something their terms noted too, where they said at 9.5 of the client agreement that the 
+margin requirements are automatically set with no human interaction. T212 have a lot of 
+clients and their brokers wouldnt be able to have oversight of all clients accounts at all 
+times. 
+So Mrs Js margin call notification on 8 January is likely to have been automatically triggered 
+from when her account fell below 45%. The fact this was during the daytime was convenient, 
+as shes more likely to have seen it and been able to take action in time. But that said, a 
+margin call notification during the daytime isnt always guaranteed to allow an investor to add 
+funds in time  if the market is volatile, it may be that the position closes before the investor 
+is able to transfer money into their trading account. For these reasons, I dont think the fact 
+that this position was closed at night time made a difference. 
+Its also not the case that T212 failed to send Mrs J a margin call notification before she was 
+closed out here  they did, but it was ten days prior. This seems to be because the account 
+equity didnt recover enough after the notification was sent  T212 explain that its only after 
+the account recovers to 60% before falling once more that another notification will be 
+triggered. Though we havent been able to examine the specific numbers here, as I have 
+seen Mrs J got a margin call when the price fell on 8 January, its understandable she didnt 
+get another when it fell further on 18 January. It seems that at that point, Mrs Js equity was 
+simply too low to withstand the quick fall. 
+I have also thought about Mrs Js view on T212s strict adherence to the rules  she feels a 
+practical approach ought to be taken, where T212s brokers take a view on a case by case 
+basis as to whether a position ought to be closed, or whether it can withstand a short 
+volatility spike and remain open. But as Ive said above, this isnt how CFD accounts 
+generally work  firms like T212 will often be running thousands, if not more, of client 
+positions at any one time and these will be managed by automated systems. But I dont think 
+thats a bad thing  T212s systems are designed to be precise, efficient and compliant with 
+the regulations. If they did things manually, the impact of human intervention would add 
+seconds into the process and have considerable impact on a traders instruction. Though Mrs J says her position ought to have been given a chance and left for a few 
+seconds, I dont agree. Like our investigator explained, T212s actions were in line with the 
+regulatory guidance and the terms shed agreed to. It is with hindsight that we know Mrs Js 
+position could have been profitable had she held it in the days and weeks that followed, but 
+at the time, T212 were not to know that. 
+So I dont agree with Mrs J that firms like T212 ought to stray from the regulatory stance and 
+allow losses to run beyond the minimum equity requirements. This is because in situations 
+where the market doesnt bounce back, a firm would cause consumers to lose more than 
+they otherwise should  it is only with hindsight that we now know the silver price overnight 
+of 17 and 18 January was a brief fall, and even if T212 brokers were looking at Mrs Js 
+account at the time, they werent to know how the market would move in the next seconds, 
+minutes or hours.
+Though Mrs J feels T212s actions were unfair, they were required to take steps to protect 
+her account when it fell below the required margin  even if only slightly as what might have 
+happened here. Though losses were crystallised ahead of improvement in the silver market 
+thereafter, its important to remember the regulations require firms to take action at 50% as 
+the market couldve slipped lower and lower. And the action T212 took was in line with what 
+they said theyd do. So from everything Ive seen, I dont think it would be fair to ask T212 to 
+compensate Mrs J. 
+My final decision
+For the reasons explained, I dont uphold Mrs Js complaint. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mrs J to accept or 
+reject my decision before 16 June 2023.
+ 
+Aimee Stanton
+Ombudsman

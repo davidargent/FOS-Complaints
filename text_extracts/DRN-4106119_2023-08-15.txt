@@ -1,0 +1,75 @@
+DRN-4106119
+The complaint
+Mr R complains that TSB Bank plc wont refund a payment he says he didnt make from his 
+account.
+What happened
+Mr R disputes a faster payment of £9,512 made from his account using mobile banking. He 
+says he was logged in at the time to check the balance but didnt authorise any payment. He 
+is unhappy that TSB wont make a refund.
+TSB said that there was no evidence to support that his account details had been 
+compromised. The payment was made with a device that had been used on the account 
+since 2020 for genuine payments. And the log in was made using his personal information. 
+There was no evidence of remote access to his phone at the time. And the IP address 
+recorded matched previous log ins.
+Our investigator didnt recommend that the complaint be upheld. She said that it was unlikely 
+that someone else was able to access Mr Rs account and device at the same time and 
+make a payment without him knowing. The IP address was the same for the logins that day. 
+And Mr R had said that only he knows the memorable password on the account. It was up to 
+TSB to set what the security requirements were for a payment. She noted that Mr R was 
+unhappy that the beneficiary account wasnt blocked but she was satisfied that appropriate 
+steps had been taken to investigate his claim. Mr R had provided information about a 
+package installer being launched on his device at 08:16 online and said he had clicked on a 
+pop up box. Our investigator had asked Mr R for any information to support that his phone 
+had been taken over or accessed remotely. 
+Mr R didnt agree. He is represented in this complaint. His representative said that they 
+hadnt had the phone examined because they had moved to a new address with a new wi-fi 
+connection. And so, this wouldnt reveal anything as this payment had been connected to the 
+network used and the links. At one time theyd been told the memorable password used was 
+eight characters, but Mr R said that his had been 11. Mr R has insisted that he didnt set up 
+any new recipient. He used the memorable password to log on but not to authorise any 
+payment. He is looking for justice.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+I need to take into account the Payment Services Regulations 2017 in considering this 
+complaint. These state that a payment can only be authorised if it was consented to. So, its 
+not enough for it to be authenticated, say with security details. And if it wasnt authorised    
+Mr R wouldnt generally be responsible for it.
+So, I will be thinking about the following areas in looking at this complaint:
+- What is the most likely explanation of what happened to the security information used 
+for the payment?
+- Did Mr R authorise the payment on the account? 
+Im satisfied from the audit logs provided by TSB that the payment was made after there 
+was a log into Mr Rs account online using his device and his memorable information. And 
+so that the payment was authenticated. The issue is whether he consented to it.
+His version of events about his log ins ties into the audit provided by TSB. He explained that 
+he had logged in twice: once to check his balance and then again as he wanted to look at a 
+payment. There are log ins at 08:15 and 08:16 and in the latter one the payment was made. 
+He says he had the device with him. TSB has no information to indicate that his phone had 
+been taken over based on its technical analysis. And as I say there is no other access to his 
+account shown or different IP address. 
+I know he says he clicked on a package installer at 08:16 and can see that hed already 
+mentioned that to TSB based on its case notes. Hes not provided any information about 
+what that did at the time or any professional analysis of his phone. Hes had a fair 
+opportunity to do so, and it would be up to him to help substantiate that with any technical 
+evidence and for example to provide something that wed be able to ask TSB to look at 
+further. Having looked at the limited screenshot entry he refers to I dont have a reasonable 
+basis to make a finding about it. I dont have anything to show that this was malicious or 
+somehow enabled the payment to be made in the way he says must have happened. Or 
+alternatively that this wasnt say referring to a genuine update link for android phones
+There is no further log on attempt shown on the system until he logged on with a different 
+device on 2 October 2022. He said he could no longer log on with his old device. Again, I 
+can see the related enrolment of that new device and his log in on that day. He then 
+reported what had happened.
+I appreciate the size of the payment involved and Mr Rs insistence he didnt authorise it. I 
+wont be able to say exactly what happened and Im thinking about what is most likely. And 
+Im afraid I think on the information available that it was reasonable for TSB to hold him 
+responsible for this payment and not do anything further. I know Mr R will be very 
+disappointed at my conclusion given what is at stake for him. If he doesnt accept my 
+decision he remains free to pursue this matter in court subject to any relevant time limits.
+My final decision
+My decision is that I do not uphold this complaint.Under the rules of the Financial Ombudsman Service, Im required to ask Mr R to accept or 
+reject my decision before 13 September 2023.
+ 
+Michael Crewe
+Ombudsman

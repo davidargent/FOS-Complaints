@@ -1,0 +1,137 @@
+DRN-3440503
+The complaint
+C  a limited company is unhappy with how GoCardless Limited acted when a number of 
+direct debit payments were claimed back by Cs customers under the Direct Debit guarantee 
+scheme.
+What happened
+The background to this complaint is well known to both C and GoCardless. I wont repeat in 
+any great detail what is already known to both parties. In my decision Ill mainly focus on 
+giving the reasons for reaching the outcome I have.
+C is a limited company that offers unsecured short-term finance to other businesses. C took 
+out a Payment Services Agreement with GoCardless. In summary, GoCardless process 
+direct debit payments on behalf of C.
+Around 2019, C was notified that a large number of direct debit payments were being 
+claimed back by a number of customers under the Direct Debit guarantee scheme. C felt 
+that GoCardless were negligent when handling these claims as they say they were 
+fraudulent claims and raised a complaint with GoCardless. 
+GoCardless didnt uphold the complaint in a final response letter dated 24 May 2019. 
+GoCardless later objected to our Service investigating the complaint addressed in 2019 
+under the relevant DISP rules as C didnt refer their complaint to this Service within 6 months 
+of that response.
+In February 2021 C raised another complaint with GoCardless about broadly similar issues - 
+and some new issues. Another final response letter was issued in March 2021, not 
+upholding the complaint and C did refer that complaint to our Service in time.
+Our investigator considered the complaint and recommended that the issues addressed in 
+the 2019 final response letter had been referred out of time  so our Service couldnt 
+investigate those. But he did investigate the issues addressed in the 2021 final response 
+letter and recommended that the complaint not be upheld.
+C remained unhappy and the complaint was referred to me for a decision. I recently sent 
+both parties a copy of my jurisdiction decision outlining that our Service wouldnt be 
+considering the parts of this complaint addressed by a final response letter in 2019 as those 
+issues had been referred to this Service outside of the time limits that must apply.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Although a number of issues have been raised and C has provided detailed evidence  
+submissions, my decision only addresses those issues I consider to be materially relevant to 
+this complaint. This isnt meant as a discourtesy to either party  it simply reflects the 
+informal nature of our Service. However, Ive given careful consideration to all of the 
+submissions made before arriving at my decision.
+As outlined above, C have complained twice to GoCardless about some of the same issues. 
+GoCardless have said they didnt notice that theyd previously addressed the issues in an 
+earlier final response letter and sent another final response letter. 
+Our investigator has already pointed out that there was some crossover between the 
+transactions C complained about in 2019 and 2021. I agree. It's important to state that my 
+decision will only be addressing the new issues addressed in the 2021 final response letter. 
+That is - the issues around direct debit payments totalling around £29,000 being claimed 
+back by some of Cs customers under the Direct Debit guarantee scheme. 
+Throughout my decision Ill refer to the transactions in question here as being claimed back. 
+This is an important distinction as reference has been made to chargebacks in this 
+complaint. Thats a different process, typically related to disputed credit card transactions 
+and - in some cases, debit card transactions. 
+The direct debit guarantee scheme 
+The payments in question here were made by direct debit. So it follows that the Direct Debit 
+scheme rules apply.
+In summary, the scheme rules offer customers protection and peace of mind, that if 
+something goes wrong or theres been an error with their payment, they can try to claim back 
+what theyve paid. The customer generally will contact their bank and if they agree with the 
+validity of their claim, will then automatically collect the funds paid to C from GoCardless. 
+GoCardless in turn then collects the money owed to it from C.
+Its very important to point out here that the paying bank  not GoCardless assess the 
+legitimacy of any claim. 
+C allege that GoCardless have been negligent and thats given rise to the claim backs being 
+made. Ive seen no sufficiently persuasive evidence that GoCardless have been negligent. 
+Under the relevant scheme rules applicable here, there are no grounds for challenging these 
+claim backs - except in very limited circumstances. Typically - where GoCardless have made 
+an administrative error. And for one of the claim back codes (where the payer has cancelled 
+the direct debit instruction with the service user) there are no grounds at all for challenging.
+Ive not seen sufficient supporting evidence to conclude that GoCardless have made an 
+error. So it follows that they werent unreasonable in not being able to challenge the clam 
+backs in line with the scheme rules.
+The agreement between GoCardless and C
+Ive then considered the agreement between C and GoCardless. Of relevance here are the 
+following terms:
+You acknowledge that GoCardless is not able to recover or challenge any 
+Chargeback that relates to a Payment Order that has, from an administrative 
+standpoint and in relation to the Payment Scheme, been submitted correctly. For 
+example, if a Customer initiates a Chargeback that results in that Customer 
+being in breach of their contract with you, GoCardless cannot challenge the Chargeback or recover the funds to which that Chargeback relates [bold added 
+for emphasis by Ombudsman].
+And:
+You shall indemnify GoCardless in respect of any amounts and costs incurred as a 
+result of any Chargeback, claim or refund (fraudulent or otherwise) initiated by a 
+Customer and that GoCardless is obliged to make under the relevant Payment 
+Scheme Rules. For the avoidance of doubt, GoCardless may not claim under this
+indemnity where any amounts or costs incurred arise as a result of GoCardless 
+negligence, default, mismanagement or mistake.
+if a Customer initiates a Chargeback that results in that Customer being in 
+breach of their contract with you, GoCardless cannot challenge the 
+Chargeback or recover the funds to which that Chargeback relates [bold added 
+for emphasis by Ombudsman]
+Im satisfied the terms make it clear what the role of GoCardless will be in a dispute and I 
+find that theyve acted in line with the terms of their agreement with C when debiting the 
+funds theyd been charged by Cs customers bank.
+I understand that C strongly disputes these claims and alleges that the customer(s) have 
+raised fraudulent claims. But my decision isnt considering the actions of Cs customers - 
+only the actions of GoCardless. GoCardless didnt facilitate challenging claims at the time 
+the claims were made.
+This was made clear in the agreement and doesnt - based on the evidence presented to us, 
+go against law and regulations, regulators rules, guidance and standards, codes of practice, 
+or what is acknowledged to have been good industry practice at the time. Im therefore not 
+persuaded GoCardless was wrong to not facilitate challenging the claims. At the time these 
+issues arose, the decision to approve the direct debits being claimed back wasnt made or 
+influenced by GoCardless - and they were limited in their involvement in the process. 
+Even if GoCardless had facilitated challenging the claims at the time, I cant be satisfied the 
+challenges would have been successful. I say this because here, not many of the claims had 
+a valid challenge reason. And for those that did, the evidential burden was on GoCardless/C. 
+And even if a challenge could be mounted on the claims with a valid challenge reason, and 
+the strict procedural, evidential and time sensitive requirements were met  I cant safely say 
+whether the payees bank would have accepted it.
+In any case, if I were to find GoCardless should have facilitated challenging the claims at the 
+time, and that those challenges would have succeeded - we couldnt fairly require 
+GoCardless to reimburse C. I say this because the issue here is about a dispute between C 
+and its customers. If Cs customers owe it money as a result of this matter, C will need to 
+take steps to recover that money from them. 
+Our Service cant advise C on what steps to take next, but I note GoCardless have made C 
+aware of other avenues for them to pursue in their final response letter dated 29 March 
+2021:
+Fraudulently charging back a Direct Debit payment is a criminal offence, covered by 
+the 2006 Fraud Act. In the event of a fraudulent chargeback/claim, should you hold a 
+written agreement or contract with the customer, this agreement can be used as 
+evidence (through a court system) to pursue monies that the customer has agreed to 
+pay you.The following extract is summarised from GoCardless website: 
+The Direct Debit Guarantee does not impact any contractual agreements between a 
+merchant and their customer, and fraudulently charging back a Direct Debit payment 
+is a criminal offence, covered by the 2006 Fraud Act.
+Merchants also have the right to pursue their customer, for example through claims 
+courts, for any money owed after a refund has been provided, if the refund puts the 
+customer into a position of owing money to the merchant.
+My decision will no doubt disappoint C, it brings to an end what our Service - in trying in 
+trying to resolve their dispute with GoCardless can do for them.
+My final decision
+My final decision is that I dont uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask C to accept or 
+reject my decision before 22 September 2022.
+ 
+Daniel O'Shea
+Ombudsman

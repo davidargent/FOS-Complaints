@@ -1,0 +1,218 @@
+DRN-3664672
+Complaint
+Mrs P complains that Barclays Bank UK Plc (Barclays) unfairly refused to refund a debit 
+card transaction which she says she never authorised.
+Background
+In March 2021, Mrs P contacted Barclays about a £600 debit card payment made via a well-
+known third-party payment service operator. Mrs P told Barclays that she didnt authorise the 
+transaction. During the call where she reported the transaction she said that her account 
+was hacked and she didnt have an account with the payment service operator used. Finally, 
+Mrs P confirmed that her debit card hadnt been lost and had been in her possession at all 
+times. Mrs P confirmed that her last transaction was made by her partner on the morning of 
+the disputed transaction.
+Barclays temporarily refunded the disputed amount pending an investigation into the 
+transaction. It concluded that the details held by the payment service operator, for the 
+transaction, matched the details it had for Mrs P. There were also numerous other 
+transactions, which appeared to have been made by Mrs P, which werent in dispute and 
+which had used the same account details. So it didnt consider the transaction fraudulent, 
+held Mrs P liable for it and re-debited the amount from her account. Mrs P was dissatisfied at 
+this and referred matters to our service. 
+One of our adjudicators contacted Mrs P before issuing her findings. Mrs P told our 
+adjudicator that her partner only used the internet on rare occasions and usually with her. 
+She runs a small B&B and the guests have access to the internet using WiFi as they are 
+provided with the password. And the previous transactions Barclays referred to were made 
+using her debit card rather than an account, with the payment service operator, as she 
+doesnt have one with it. 
+After considering everything that had been provided, our adjudicator thought it was more 
+likely than not that Mrs P had authorised the transaction. She thought that the transaction 
+was made using the same details as those used on several previous, undisputed, occasions 
+and as Mrs P confirmed no one else had access to her card it wasnt unfair for Barclays to 
+hold her liable for the transaction. So she didnt uphold the complaint. 
+Mrs P disagreed and asked for an ombudsman to review her complaint.  
+My provisional decision of 9 August 2022
+I issued a provisional decision  on 9 August 2022 - setting out why I was intending to 
+uphold Mrs Ps complaint. I wont copy that decision in full, but I will instead provide a 
+summary of my findings. 
+I started by setting out that the relevant law here is the Payment Services Regulations 2017. 
+These regulations say that a payment transaction is authorised by the payer where the payer 
+has given its consent to the execution to the payment transaction. Such consent must be 
+given in the form and in accordance with the procedure agreed between the payer and the 
+payment service provider. 
+Unless the payment service provider can show consent has been given, it has no authority 
+to make a payment or debit the customers account. Where a payment service user denies 
+having authorised a payment transaction, it is for the payment service provider to prove that 
+the payment transaction in question were authorised by the customer. 
+Having considered the facts as well as the relevant law, I was satisfied that the key question 
+I needed to determine was whether it was more likely than not that Mrs P authorised the 
+transaction in question.
+In other words, I needed to decide whether Mrs P made the transaction herself or gave 
+someone permission to do so. This is important because a customer will usually be liable for 
+payments theyve authorised and generally speaking, a bank will be liable for any 
+unauthorised payments. 
+This transaction was carried out online, using a well-known third-party payment system, 
+without the card being physically presented. Broadly speaking, a customer isnt normally 
+responsible for any unauthorised transactions carried out online. 
+Barclays believed that Mrs P authorised the transaction. As I understood it, the crux of its 
+case was:
+The number of inconsistencies throughout the case meant that it was reasonable for 
+it to hold Mrs P liable for the transaction. In particular, Barclays focused on the fact 
+that Mrs P said she didnt have an account with the third-party payment used to make 
+the payment before then saying that she used the system as a guest.   
+In any event, the merchant provided evidence the transaction was made through an 
+account with the third-party payment system, which was linked with Mrs P.
+This account had Mrs Ps confirmed personal and address details.
+There were other, non-disputed, transactions with Mrs Ps debit card using the same 
+third-party payment system account.
+The IP address used for this transaction matched one previously used for 
+transactions on the third-party payment system account.
+On the other hand, Mrs P consistently said that she didnt have an account with the third-
+party payment system operator and she only ever made transactions, via the operator, on a 
+guest basis.
+I thought about what Barclays and Mrs P had said.
+I didnt know whether Mrs P had an account with the operator, or whether she, as she said, 
+used its system as a guest. The information provided didnt categorically answer this 
+question. Although, I thought it was worth noting that when our adjudicator asked the third-
+party payment system operator for the details of any account that Mrs P may hold with it, it 
+confirmed that it couldnt locate an account on its systems using Mrs Ps name and email 
+address. And it also said these are the details it would use to find an account for one of its 
+customers.In any event, I didnt think that Mrs P had been inconsistent in the way that Barclays 
+appeared to be suggesting. I said this because I thought that she simply answered the 
+questions that she was asked. Mrs P said that she didnt have an account with the third-party 
+payment system. In my view, this wasnt the same as saying that she never used the 
+payment system before. Furthermore, having looked through everything provided, I couldnt 
+see that Mrs P had ever said that she never used the website in question to make previous 
+purchases either. So I didnt think that the information Barclays obtained showed that Mrs P 
+had been inconsistent in what she had said.
+The payment system operator and Barclays by extension had argued that the disputed 
+transaction was consistent with Mrs Ps previous activity. It was argued that the IP address, 
+billing address and shipping address for the disputed transaction was similar to what was 
+used in 12 previous transactions, which Mrs P hadnt disputed authorising, in the previous 18 
+months. 
+I looked at the evidence provided. All of Mrs Ps previous purchases appeared to be from 
+three specific sellers. And I thought it was fair to say that they were all relatively low value 
+purchases (the lowest priced item was £2.50 and the most expensive £20.99) for what 
+appeared to be clothing. However, the transaction that was the subject of this dispute was a 
+£600 purchase for an electronic item from a seller Mrs P didnt appear to have used 
+previously. So rather than being consistent with Mrs Ps previous activity, this disputed 
+transaction actually appeared out of kilter with Mrs Ps previous purchases on the website 
+concerned using the payment operator.
+I was also unsure as to what the payment system operator meant when it said the IP 
+address, billing address and shipping address for the disputed transaction was similar to 
+what was used in 12 previous transactions. Either the details were the same or they were 
+not. I was unsure as to how they could be similar  especially as any similarities, or 
+differences, had actually been pointed out. 
+I thought that it was also worth noting that Barclays was relying on Mrs P having consented 
+to this payment because her correct card details as well as her full address details were 
+used to validate it and the IP address recorded by the payment operator was one that Mrs P 
+had, on occasion, used to make transactions previously. But I couldnt see that the payment 
+operators evidence actually showed the IP address that any of the transactions were made 
+from. 
+I was also concerned that even though it had been put forward that Mrs Ps full address was 
+used to authenticate the transaction, neither the payment system operator nor Barclays had 
+been able to provide anything which demonstrated the item purchased was dispatched to 
+Mrs Ps address let alone received there.
+Furthermore, while there was initially a suggestion that Mrs Ps debit card CVV number was 
+used to confirm the transaction and our adjudicator referred to this being the case in her 
+assessment, Barclays had since confirmed that this wasnt entered. So I thought that we 
+were essentially left with Barclays and the payment operator only really being able to 
+evidence that Mrs Ps genuine card details were used to authenticate this transaction.  
+Barclays records also appeared to indicate that this transaction was authorised at 1.47 AM. I 
+acknowledged that this in itself didnt mean that Mrs P didnt authorise the transaction and I 
+didnt have the times that the other, non-disputed, transactions with the payment operator 
+were made either. So I did accept that it was possible that the timing of this particular 
+transaction wasnt out of keeping with Mrs Ps online shopping habits. But bearing in mind 
+what I had already said about Mrs Ps previous history of purchases on the website concerned, I did consider it somewhat odd for her to have made this purchase  a first 
+electronic item (at least from the website in question)  in the middle of the night.    
+Indeed, it was my view that much of Barclays arguments in this case centred on its belief 
+that Mrs P authenticated the disputed transaction. I then explained that authentication isnt 
+the same as authorisation and even then I wasnt persuaded that the authentication 
+evidence provided here was particularly strong either. 
+Equally, the evidence supplied by Barclays suggested that Mrs P had never disputed a 
+transaction before. And it was for Barclays to prove that Mrs P authorised this payment  not 
+for Mrs P to prove that she did not. Nonetheless, even though it wasnt for Mrs P to prove 
+that she did not authorise the transaction, it was clear that Mrs P has gone to some lengths  
+obtaining a chargeback response from the payment system operator and also attempting to 
+track where the item was delivered - to try and do this. 
+And I simply wasnt persuaded that Mrs Ps actions were consistent with her having 
+authorised the disputed transaction. As this was the case and there are a number of things 
+that simply didnt add up, Barclays didnt persuade me that it was more likely than not Mrs P 
+authorised the disputed transaction. 
+So overall and having considered everything, I wasnt persuaded that it was more likely than 
+not that Mrs P did authorise the transaction she was disputing. And I didnt think that it was 
+fair and reasonable for Barclays to hold Mrs P liable for the disputed transaction this left me 
+intending to issue a final decision which upholds Mrs Ps complaint. 
+Mrs Ps response to my provisional decision
+Mrs P didnt provide anything further for me to think about.
+Barclays response to my provisional decision
+Barclays responded to my provisional decision confirming that it didnt agree with it. In 
+summary it said:
+There is a link between the disputed transaction and a merchant Mrs P uses 
+regularly. And the disputed transaction was made in between two transactions for the 
+same merchant.
+My provisional decision concentrated on the payment system operator. But the 
+information provided also suggests a merchant was involved. There is a close link 
+between the merchant and the payment system operator, they are closely aligned 
+and Mrs Ps card details may have been stored in the system.
+It is possible that Mrs P used the opportunity to set up an agreement with the 
+merchant to process transactions more quickly as a recurring purchase rather than 
+new transactions each time.
+So while the transactions may not have been in character with Mrs Ps usage in 
+terms of the payment system operator, they were in character for the merchant and 
+so there are grounds to hold Mrs P liable for the transaction.  
+My findings
+Ive considered all the available evidence and arguments to decide whats fair and reasonable in the circumstances of this complaint.
+In deciding Mrs Ps complaint, Ive taken into account relevant law and regulations; 
+regulators rules, guidance and standards; industry codes of practice and what I consider to 
+have been good industry practice at the relevant time. As the parties continue to disagree 
+about what happened, I need to decide what I think is more likely than not to have happened 
+here  on the balance of probabilities. 
+Ive considered the comments in Barclays response to my provisional decision. 
+Barclays says that my provisional decision concentrated on the payment system operator 
+but the information shows that a merchant was involved. Ive thought about what Barclays 
+has said. However, I did consider the involvement of a merchant in my provisional decision. 
+And I referred to Mrs Ps previous history of purchasing items online from the website 
+concerned. 
+Furthermore, while Barclays has referred to Mrs P having used the merchants website 
+before  which shes never disputed  it still hasnt provided me with anything at all to show 
+that Mrs P had ever made a purchase from the individual seller, on the website concerned, 
+in the disputed transaction, previously.
+Equally, while Barclays says this transaction is in character in terms of Mrs Ps previous card 
+usage, this is based purely on the fact that Mrs P has used the website before. Again this 
+was something that I accepted in my provisional decision. For the avoidance of doubt, I want 
+to make it clear that I was (and remain) aware that Mrs P did make transactions on the 
+website concerned around the time of the disputed transaction. 
+However, the transactions referred to are for much smaller amounts  less than £30 rather 
+than the £600 for this disputed transaction. And Barclays hasnt provided anything at all to 
+support that Mrs P had previously made purchases for similarly priced electronic items in the 
+middle of the night. So I remain satisfied that this purchase was wholly out of kilter with           
+Mrs Ps previous transaction history.
+Finally, while Barclays has referred to it being possible that Mrs P set up an agreement with 
+the merchant to process transactions more quickly as a recurring purchase, it hasnt 
+provided anything at all to support this is what happened here. 
+Id also reiterate that it is Barclays that needs to prove it is more likely than not Mrs P 
+authorised the transaction in question for it to fairly and reasonably hold Mrs P liable for it. 
+Speculating over possibilities without rigorous evidence to support the arguments made, just 
+isnt enough here. And, in any event, Im satisfied that Barclays arguments remain focused 
+on possibility of the disputed transaction having been authenticated, rather than Mrs P 
+having authorised it, which isnt enough for Barclays to hold Mrs P liable for it.  
+So overall and having considered everything, including Barclays further arguments in 
+response to my provisional decision, I remain satisfied that it is more likely than not Mrs P 
+did not authorise the transaction shes disputing. This means that I dont think that its fair 
+and reasonable for Barclays to hold Mrs P liable for the disputed transaction and Im 
+upholding this complaint. 
+Fair compensation  what Barclays needs to do to put things right for Mrs P
+Having carefully considered everything, I think that Barclays should put things right for Mrs P 
+in the following way:Refund Mrs P £600;
+Add interest at 8% per year simple on the £600 from the date it was re-debited from 
+Mrs Ps account to the date of settlement
+ HM Revenue & Customs requires Barclays to take off tax from this interest. Barclays must 
+give Mrs P a certificate showing how much tax it has taken off if she asks for one.  
+My final decision
+For the reasons given above and in my provisional decision of 9 August 2022, Im upholding 
+Mrs Ps complaint. Barclays Bank UK Plc should put things right in the way Ive set out 
+above.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mrs P to accept or 
+reject my decision before 3 October 2022.
+ 
+Jeshen Narayanan
+Ombudsman

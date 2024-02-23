@@ -1,0 +1,109 @@
+DRN-4506161
+The complaint
+Ms C complains that Monzo Bank Ltd (Monzo) is holding her liable for payments which she 
+didnt authorise. 
+What happened
+In April 2023, Ms C was selling an item via an online marketplace (D). She received an 
+email, seemingly from D, notifying her they had found a buyer. It contained a link which 
+appeared to take Ms C to Ds platform. She was told D needed to verify her banking 
+information, in order for her to receive payment from the buyer. D said she would receive a 
+push notification from her bank to do this. 
+Ms C completed the notifications as directed, thinking she would receive a credit. Instead, 
+two payments of £601 followed by one payment of £156 were taken. 
+When Ms C raised the matter with Monzo, it paid her £100 compensation for the time it took 
+to respond to her fraud claim. But it wouldnt refund her. It said she hadnt taken enough 
+steps to check who she was paying and what for. 
+Unhappy with Monzos response, Ms C referred the matter to our service. Our investigator 
+ultimately recommended Monzo should refund the first and second payments  but not the 
+third. They thought the payments should be treated as unauthorised  but that, by the third 
+payment, Ms C ought to have foreseen the risk that the payment would be taken.
+Monzo has appealed the investigators outcome so the case has been passed to me. In 
+summary, it says the payments are considered authorised under the account terms as Ms C 
+entered her PIN. They also say she was grossly negligent in entering the PIN for the second 
+payment, as at point she should have realised the steps she was taking, allegedly to receive 
+a refund, had previously caused money to be taken.
+I note Monzo recently asked for further commentary from us, in order to review things again 
+before deciding whether it requires a decision. But thats not how our process works. Monzo 
+previously asked for a decision. And it is well past the deadline we gave it to submit any final 
+comments or evidence. Under our powers, as it hasnt accepted the investigators view, Im 
+now proceeding to issue my final decision.   
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I agree with the conclusions reached by the investigator. Ive decided 
+Monzo should refund the first two payments (with interest). But I dont think it needs to 
+refund the third payment. Ill explain how Ive come to this conclusion.
+The starting position under the Payment Services Regulations 2017 (PSRs) is that Ms C is 
+liable for payments she authorises but Monzo is liable for unauthorised payments taken from 
+her account.
+To consider these payments authorised, the PSRs explain that Ms C must have given her 
+consent to the execution of the payment transactions  and that consent must have been in 
+the form, and in accordance with the procedure, agreed between her and Monzo.
+My understanding is that, in order to make these payments, the following steps were 
+completed: Ms Cs card details were entered into the merchants website; and then her PIN 
+was entered in Monzos app. 
+Monzo has suggested that Ms C authorised these payments as she entered her PIN in the 
+app. I disagree. Im not persuaded this step alone is the same as completing the full form 
+and procedure to consent to the execution of a payment. Ms C didnt enter her card details 
+to request a payment; this was done by the scammer, having obtained Ms Cs card details 
+under false pretences. 
+In the circumstances, Im satisfied these payments were unauthorised. Ms C didnt complete 
+all the payment steps herself, nor did she give someone else permission to complete those 
+steps on her behalf to take payments. The step she did undertake  entering the PIN  was 
+done on the understanding it was necessary to verify her account with D in order to receive 
+payments. 
+Monzo argues that its still not liable for the second and third payments under the PSRs 
+because it thinks Ms C failed with gross negligence to comply with the terms of the account 
+and keep her personalised security details safe.
+While I agree that Ms C did, in effect, fail to keep her personalised security details safe, Im 
+not persuaded she did so due to a failure of gross negligence. Initially, I can see why she 
+didnt foresee the risk. In the context of having an item for sale, it didnt seem unexpected for 
+her to receive an email from D about an interested seller. She has shown us someone had 
+already messaged her on Ds platform to prime her to expect the email.
+Ms C has provided screenshots of the chat she had with who she thought was D. It appears 
+this was a reasonably sophisticated website impersonation. I think lots of people would have 
+been tricked into thinking they were genuinely dealing with D. I accept Ms C didnt realise 
+she was putting her details at risk; she thought the steps she was following were part of a 
+genuine verification process by an established and trusted business. She hadnt sold 
+anything on Ds platform before, so didnt know this was a deviation from their process. 
+I understand Monzos point that, by the time of the second payment, it seems Ms C was 
+aware that a payment had been taken. But looking at her chat with the scammer, when she 
+mentioned this, they told her the next notification  for the same amount  would be to 
+refund the payment that had been taken. In the context of thinking she was dealing with an 
+established company, and being put somewhat under pressure by the worry of the payment 
+that had been taken, I can understand why Ms C trusted and followed the scammers 
+instructions. 
+I agree with the investigator that the payment screen Ms C would have seen, in and of itself, 
+could be read  in the context of what Ms C had been told by the scammer  as an indication 
+she would be receiving, rather than making, a payment. In the wider context of what was 
+happening, Im not persuaded it was grossly negligent for Ms C to trust the scammers 
+explanation that the second notification was a refund of the payment that had been taken. It's important to note that the bar for gross negligence is a much higher bar than negligence. 
+In practical terms, Id consider it fair to conclude Ms C was grossly negligent if she acted 
+despite an actual appreciation of the risks involved, or serious disregard to an obvious risk. I 
+dont think Ms C foresaw the risk the second notification would result in a further payment 
+being taken. Nor do I think she showed serious disregard.
+When she went on to complete the PIN in relation to the third payment, I do think Ms Cs 
+actions amount to gross negligence. By that point she did, or ought to have, realised D had 
+lied to her about the second notification being for a refund  as well as not making it clear a 
+payment would be taken in the first place. I think she did, or should have, realised there was 
+an obvious risk that completing the same steps for a third time, at the instruction of someone 
+who had clearly misled her, would result in a further payment being taken. So I agree Monzo 
+isnt obligated to refund this payment.
+My understanding is the £100 compensation paid for Ms Cs distress and inconvenience isnt 
+in dispute. So I dont think Monzo needs to pay further compensation for the non-financial 
+impact on her. But, in line with what Ive explained above, I do think it should refund her for 
+the first two payments, in line with its obligations under the PSRs. And that it should pay 
+interest on top of this to compensate Ms C for the loss of use of the funds. 
+My final decision
+For the reasons given above, I uphold this complaint. To put things right, Monzo Bank Ltd 
+must refund Ms C for the first two disputed transactions (by my calculations, this comes to 
+£1,202)  less any amounts already recovered or refunded. 
+Monzo Bank Ltd should also pay 8% simple interest on this amount from the date of 
+payment to the date of settlement, less any tax lawfully deductible.
+Monzo Bank Ltd must pay this compensation within 28 days of the date on which we tell it 
+that Ms C accepts my decision. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Ms C to accept or 
+reject my decision before 16 January 2024.
+ 
+Rachel Loughlin
+Ombudsman

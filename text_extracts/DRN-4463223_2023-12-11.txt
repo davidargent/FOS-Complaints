@@ -1,0 +1,219 @@
+DRN-4463223
+The complaint
+Mr H complains that HSBC UK Bank Plc didnt do enough to protect him from the financial 
+harm caused by an investment scam company, or to help him recover the money once hed 
+reported the scam to it.
+What happened
+In January 2021, Mr H received a marketing email from a company Ill refer to as T, 
+introducing themselves as brokers who specialised in cryptocurrency investments. Mr H was 
+sent a link to Ts website which featured its T&Cs, and a certificate of its registration with the 
+Global Financial Authority (GFA).
+Mr H looked T up on Trustpilot and saw it had a three-star rating. There were some negative 
+reviews, but after speaking to one of Ts brokers, he was satisfied theyd been posted by 
+people who had deposited small amounts and were unhappy with the returns. The broker 
+explained T was based in Switzerland and didnt need to be regulated by the Financial 
+Conduct Authority (FCA). He said fees and taxes would need to be paid before Mr H could 
+make withdrawals, and that hed be able to withdraw a monthly dividend when the account 
+balance reached £30,000.
+The broker advised Mr H to download Anydesk and then purchase cryptocurrency through a 
+cryptocurrency exchange company before loading it onto an online wallet. Between 15 
+February 2021 and 29 April 2021, he made 41 payments to three cryptocurrency exchange 
+companies totalling £884,009.38 using a visa debit card and online transfers from his HSBC 
+account. Our investigator also concluded that during the scam period Mr H received 
+£8,386.62 credits into his account and £141,465 in refunds, meaning the total loss was 
+£733,977.76.
+When the balance on the trading account reached £16,000,000, Mr H decided to make a 
+withdrawal, but the request was rejected. The broker told him hed have pay withdrawal fees, 
+which he paid with a directors loan from his company. But once hed paid the fee, Mr H was 
+told it had been paid to the wrong person and, when he refused to pay more, he lost contact 
+with the broker, at which point he realised hed been the victim of a scam.
+Mr H complained to HSBC arguing it should have had fraud prevention measures in place 
+which would have identified the transactions as suspicious and stopped them.
+But HSBC refused to refund any of the money hed lost. It said alerts were triggered, but Mr 
+H confirmed the payments were genuine, and they were released. It also said investment 
+transactions are high risk and customers are expected to carry out their own due diligence to 
+enable them to make informed decisions as to whether to proceed with the transactions.
+It said several of the larger debit card transactions were referred to its customer care team, 
+who warned Mr H the payee companies weren't covered by the FCA and it wouldnt be able 
+to refund the payments, yet he was happy to proceed with the transactions.
+It also said it had reviewed the documentation Mr H had provided and there was insufficient 
+information to raise a misrepresentation chargeback against the cryptocurrency exchange 
+companies. And it said the Contingent Reimbursement Model (CRM) code wouldnt apply 
+to the online transfers because the funds had been sent to an account in his name.
+Mr H wasnt satisfied and so he complained to this service. He argued HSBC should have 
+had measures in place to detect suspicious transactions or activities that might indicate fraud 
+such as a sudden increased spending, transfers to other accounts, sudden changes to the 
+operation of the account, a withdrawal or payment for a large amount, a payment or series of 
+payments to a new payee and financial activity that matches a known method of fraud or 
+financial abuse.
+He accepted HSBC had provided warnings, but he said there were no further attempts to 
+educate him or to discourage him from going ahead with the payments and it could have 
+researched T and discovered it was operating a scam, rather than relying on the due 
+diligence hed done himself. He said it knew scam companies existed and the kind of 
+patterns that should raise alarm bells. And if it had asked for evidence of communication with 
+the merchant, it would have realised he wasnt given an investment brochure or information. 
+Finally, he said HSBC should have raised a chargeback request on the basis there had been 
+a misrepresentation.
+HSBC said when Mr H made the first faster payment on 15 February 2021, he confirmed 
+that no one had approached him to make the payment and that he wanted to go ahead. It 
+said there were a number of conversations about the investment when Mr H was told it 
+wouldnt be able to recover the funds if something went wrong and it ultimately suspended 
+his online banking in June 2021 and said it wouldnt allow any further payments until he 
+provided evidence the investments were genuine.
+My provisional findings
+The CRM Code requires firms to reimburse customers who have been the victims of 
+Authorised Push Payment (APP) scams, like the one Mr H says hes fallen victim to, in all 
+but a limited number of circumstances. HSBC had said the CRM code didnt apply in this 
+case because the code doesnt apply to card payments or payments to an account in the 
+consumers own name, and I was satisfied thats fair.
+I thought about whether HSBC could have done more to recover Mr Hs payments when he 
+reported the scam to it. Chargeback is a voluntary scheme run by Visa whereby it will 
+ultimately arbitrate on a dispute between the merchant and customer if it cannot be resolved 
+between them after two presentments. Such arbitration is subject to the rules of the scheme 
+ so there are limited grounds on which a chargeback can succeed. Our role in such cases 
+is not to second-guess Visas arbitration decision or scheme rules, but to determine whether 
+the regulated card issuer (i.e. HSBC) acted fairly and reasonably when presenting (or 
+choosing not to present) a chargeback on behalf of its cardholder (Mr H).
+Ms Hs own testimony supports that he used cryptocurrency exchanges to facilitate the 
+transfers. Its only possible to make a chargeback claim to the merchant that received the 
+disputed payments. Its most likely that the cryptocurrency exchanges would have been able 
+to evidence theyd done what was asked of them. That is, in exchange for Mr Hs payments, 
+they converted and sent an amount of cryptocurrency to the wallet address provided. So, 
+any chargeback was destined fail, therefore I was satisfied that HSBCs decision not to raise 
+a chargeback request against either of the cryptocurrency exchange companies was fair.
+I was satisfied Mr H authorised the payments for the purposes of the of the Payment 
+Services Regulations 2017 (the Regulations), in force at the time. So, although he didnt 
+intend the money to go to scammers, under the Regulations, and under the terms and 
+conditions of his bank account, Mr H is presumed liable for the loss in the first instance.Not every complaint referred to us and categorised as an investment scam is in fact a scam. 
+Some cases simply involve high-risk unregulated investments that resulted in disappointing 
+returns or losses. Some of these investments may have been promoted using sales methods 
+that were arguably unethical and/or misleading. However, while customers who lost out may 
+understandably regard such acts or omissions as fraudulent, they do not necessarily meet 
+the high legal threshold or burden of proof for fraud, i.e. dishonestly making a false 
+representation and/or failing to disclose information with the intention of making a gain for 
+himself or of causing loss to another or exposing another to the risk of loss (Fraud Act 2006).
+I carefully considered the circumstances, and I was persuaded the broker was operating as 
+part of a scam. But, although Mr H didnt intend his money to go to scammers, he did 
+authorise the disputed payments. HSBC is expected to process payments and withdrawals 
+that a customer authorises it to make, but where the customer has been the victim of a 
+scam, it may sometimes be fair and reasonable for the bank to reimburse them even though 
+they authorised the payment.
+Prevention
+I thought about whether HSBC could have done more to prevent the scam from occurring 
+altogether. Buying cryptocurrency is a legitimate activity and from the evidence Id seen, the 
+payments were made to genuine cryptocurrency exchange companies. However, HSBC had 
+an obligation to be alert to fraud and scams and these payments were part of a wider scam, 
+so I needed to consider whether it ought to have done more when Mr H tried to make the 
+payments.
+HSBC contacted Mr H when he tried to make the first faster payment on 15 February 2021. 
+Ive listened to the call, and I agreed with our investigator that he wasnt completely open in 
+his responses to HSBCs questions and so it didnt identify that he was at risk of fraud.
+Our investigator had also said that payments 2 to 17 werent unusual when compared to the 
+usual spending on the account. Ive reviewed the account statements, and I could see there 
+was a history of multiple large payments in quick succession after receiving large credits into 
+the account. Specifically, Mr H made a transfer of £20,110.08 on 6 November 2020, 
+transfers of £23,217.33 and £15,173.36 on 8 November 2020 and transfers of £25,000 and 
+£65,000 on 2 December 2020. And based on this activity I agreed with our investigator that 
+HSBC need not have intervened until 21 March 2021 when Mr H made a payment of 
+£36,000. This is because it was the third consecutive payment in three days which totalled 
+£124,000, which was significantly higher than the previous cumulative spend on 2 December 
+2020. So, I was satisfied that payment ought reasonably to have triggered an intervention.
+I explained that during that call I would expect HSBC to have asked some very detailed 
+questions around the purpose of the payments, whether there was a third party involved, 
+how he met the third party, whether hed been required to download remote access 
+software, whether hed been allowed to make any withdrawals and whether hed been 
+promised unrealistic returns. I had some concerns as to whether Mr H would have answered 
+truthfully because he wasnt open about the existence of the broker during the call on 15 
+February 2021. But based on the fact he told HSBC about T on 27 April 2021, I thought, on 
+balance, hed have probably mentioned T. And its likely hed have also mentioned the fact T 
+was authorised by the GFA and that he had merchants insurance.
+With this information, HSBC ought to have provided a full scam warning, including examples 
+of different types of scams. It should also have told him about the FCA warning and the fact 
+the GFA didnt exist in the way hed been led to believe. And I would expect it to have explored the issue of insurance, even requiring him to produce a copy in branch, which 
+would surely have exposed the fact he wasnt insured.
+However, even if HSBC had done all this, I didnt think it would have made a difference to Mr 
+Hs decision to go ahead with the payments. This is because, hed known about the negative 
+reviews on Trustpilot and the fact T wasnt authorised by the FCA at the outset, but he 
+wasnt concerned because hed been given a plausible explanation by the broker about the 
+reviews. And he didnt think T needed to be authorised by the FCA because it was based in 
+Switzerland. Yet he went ahead with the payments, even after being told about the FCA 
+warning, so I didnt accept it would have been any different if HSBC had told him about it 
+sooner.
+All the available evidence shows Mr H was completely under the spell of the scammer and 
+was confident the investment was genuine and as such he was willing to ignore clear 
+warning signs. I was satisfied none of the information HSBC might have given to Mr H about 
+red flags or cryptocurrency scams would have changed his mind. Critically, HSBC 
+suspended his online banking in June 2021 and said it wouldnt allow any further payments 
+of this nature until he provided evidence that the investment was genuine, and instead of 
+doing further research or taking independent advice, he opened an account with another 
+bank and continued to invest a further £561,750.
+Significantly, Mr H didnt mention T to the other bank when it intervened in those payments, 
+and Id seen messages from Mr H to the scammer dated in August 2021 in which he states 
+that his accountant had told him the GFA didnt exist and that it looked like T was operating a 
+scam. He continued to make payments from the other account in the face of this advice and 
+so it wouldnt have made any difference if HSBC had told him the same thing in March 2021, 
+or at any point up to the date it suspended his online banking.
+Overall, I thought it was clear that Mr H was happy to take risks with the money he was 
+investing, and I was satisfied he was determined to go ahead with the investment 
+notwithstanding red flags and warnings that were brought to his attention at various points, 
+including concerns from his accountant which he should reasonably have acted on. Because 
+of this, I didnt think HSBC missed an opportunity to intervene in circumstances when to do 
+so might have prevented his loss.
+Developments
+Mr H has made further comments in response to my provisional decision, including some 
+more information about events in the period leading up to the payments, which I wont repeat 
+here.
+Hes said HSBC are his main bank and he uses the account for all day-to-day transactions. 
+Hes explained his normal transactions consist of wages in and credit card payments out, 
+with exceptional items including cars and his wifes HMRC and pension. He maintains the 
+scam payments were unusual and that HSBC should have intervened as they are the 
+experts and had an obligation to protect him.
+Mr H says he sent a copies of Ts GFA certificate and T&Cs to HSBC. He accepts his 
+accountant told him told GFA didnt exist, but he later said it did exist and was registered in 
+Hong Kong. The accountant was also familiar with the trading platform, which had reassured 
+him the investment was genuine.
+He doesnt agree the returns were too good to be true and has explained that he had no 
+concerns at the start of the scam as he had checked the trading platform with an 
+independent source. He doesnt accept he was under the spell of the scammer because many of the trades were taken out over an extended period, so couldnt be manipulated 
+through day trading. 
+He has also explained that the later monies transferred into his trading account were for 
+withdrawal fees, rather outright trading, which is when the problems occurred.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Ive carefully considered Mr Hs additional comments and the evidence he has submitted, 
+but Im afraid the findings in my final decision will remain the same as the findings in my 
+provisional decision. I have addressed what I consider to by the main points below.
+Mr H has made comments around whether the payments were unusual for the account. Ive 
+considered these comments and I maintain my view that payments 1 to 17 werent unusual 
+when compared to the normal spending on the account and that HSBC ought to have 
+intervened on 21 March 2021.
+Mr H has said he sent a copy of the GFA certificate to HSBC, but as I said in my provisional 
+decision, I dont think it would have made a difference if it had told him the GFA didnt exist 
+because his accountant had already told him that. He accepts his accountant initially told 
+him the GFA didnt exist, but hes said he later said it did exist and was registered in Hong 
+Kong. I havent seen any evidence that the accountant told Mr H the GFA did exist but even 
+if he did, Mr H should have acted on the initial advice that the GFA didnt exist because this 
+was a clear sign that his broker was misleading him, and I maintain that his failure to do so 
+means its unlikely hed have acted on the same information if given to him by HSBC.
+Mr H has said the later payments were for withdrawal fees, rather than outright trading. He 
+has also said he checked the trading platform with an independent source and his 
+accountant had seen the platform before. As I said in my provisional decision, the available 
+evidence shows that he was completely under the spell of the scammer and these points 
+support the conclusion that he was confident the investment was genuine to the extent that 
+he went ahead with the payments even though hed seen negative reviews on Trustpilot, he 
+knew T wasnt authorised by the FCA and hed been told about the FCA warning. This is 
+because hed been given a plausible explanation by the broker about the reviews, and he 
+didnt think T needed to be authorised by the FCA because it was based in Switzerland. 
+Im satisfied Mr H was happy to take risks with the money he was investing, and that he was 
+determined to go ahead with the investment notwithstanding red flags and warnings that 
+were brought to his attention at various points, including concerns from his accountant which 
+he should reasonably have acted on. Because of this, I dont think HSBC missed an 
+opportunity to intervene in circumstances when to do so might have prevented his loss.
+My final decision
+My final decision is that I dont uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr H to accept or 
+reject my decision before 8 January 2024.
+ 
+Carolyn Bonnell
+Ombudsman

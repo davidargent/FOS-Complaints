@@ -1,0 +1,155 @@
+DRN-2929353
+The complaint
+Mr S complains that Barclays Bank UK PLC wont refund a payment made from his bank 
+account which he says he didnt make or otherwise authorise.
+What happened
+On 16 November 2020, a £720 payment was made from Mr Ss bank account with Barclays. 
+The transaction was made over Barclays telephone banking system, with a new payee set 
+up as the beneficiary. The payment was first instructed at 14:37 and left Mr Ss account in 
+the few minutes that followed. 
+Later that same day, Mr S told Barclays that he didnt authorise the payment. He said hed 
+been asleep for some hours over the course of that afternoon and was therefore sure he 
+hadnt contacted the bank to make the transaction. According to what he told Barclays, the 
+first he knew of the £720 leaving his account was upon reading a text message that Barclays 
+had sent him regarding the setting up of the new payee. This beneficiary was not known to 
+him, so Mr S concluded that he must have been the victim of a scam. 
+Barclays investigated what happened and decided that it wasnt required to refund Mr S. It 
+told him that there was no clear point of compromise for his card or his security credentials, 
+which were required in order for the payment be sent. Overall, it wasnt persuaded that Mr S 
+hadnt authorised the transaction. 
+Unhappy with this, Mr S asked our service to decide the complaint. One of our investigators
+looked into it and ultimately wasnt satisfied Mr S had been the victim of a scam. In 
+particular, he wasnt persuaded there was a plausible explanation for how the payment went 
+ahead without Mr Ss consent. 
+Mr S does not agree. He submits that he could not have made the payment himself and his 
+card and mobile phone remained in his close possession while he was asleep, with no one 
+else being aware of his security credentials. As Mr S sees it, it could only have been a form 
+of computer hack, and/or a member of staff at Barclays being to blame. 
+Because Mr S is not in agreement, the matter has been escalated to me to decide. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+I know my intended decision will be disappointing for Mr S. This is a finely-balanced case
+and Id like to assure him that Ive duly considered everything thats been provided. 
+But on account of the evidence, Im not currently persuaded that Barclays ought to refund 
+the disputed £720 here. Ill explain why.
+relevant considerations
+Its important to point out that its not for me to determine exactly what happened on           
+16 November 2020. Rather, what I need to decide is whether Barclays could fairly and 
+reasonably hold Mr S liable for the transaction he said he didnt make that day.
+One of the regulations that is relevant when considering this is the Payment Services
+Regulations 2017 (PSRs). In short, Barclays is generally required to refund any
+unauthorised transactions. There are some exceptions in the regulations  but none Ive
+needed to consider or that have an impact on the decision I intend to make here.
+So, put simply, the case turns on whether the transaction in question here was authorised. 
+Ive therefore focused on this key point in my decision.
+was the disputed transaction authorised?
+For a transaction to be authorised it must first be authenticated. We know that certain 
+security checks needed to be satisfied in order for the disputed transaction to go ahead as it 
+did here. Its common ground that it was Mr Ss security credentials that were used as 
+authentication. And the technical evidence presented by Barclays satisfies me that the 
+transaction was correctly authenticated using these credentials.
+That on its own is not enough to enable Barclays to hold Mr S liable. However, Barclays can 
+hold him liable if the evidence suggests that its more likely than not that he consented to the 
+transaction being made. This is the case whether he made them himself or authorised 
+another to do so.
+Mr S has made a number of submissions to our service and Im satisfied that hes been 
+given ample opportunity to present his case. Throughout which, hes remained consistent in 
+his version in events by maintaining that he was asleep at the time the transaction was 
+made. He couldnt say exactly when he fell asleep or when he woke up  but hes certain 
+that he was not awake over the course of a few hours during the afternoon of 16 November 
+2020. 
+Ive thought carefully about whether Mr S consented to the transactions. When doing so, I 
+must consider that there are some parts to what happened that remain unexplained. That is, 
+what Barclays knows to be true about how the payment was executed simply could not have 
+been possible based on Mr Ss account of what happened. In situations like these, where 
+evidence is incomplete, inconclusive or contradictory, I need to decide a complaint on what I 
+think is more likely than not to have happened in light of all the available evidence and the 
+wider surrounding circumstances.
+Upon doing so, I am not currently persuaded that Mr S didnt provide his consent for these
+transactions to go ahead. I say so for the following reasons:
+1. On his account of what happened, Mr S was on his own and asleep when the payment 
+was sent  he says he simply could not have performed the steps we know took place, 
+because he wasnt awake and there was nobody else with him. Therefore, in order to 
+require Barclays to refund the £720 back to his account, it must be on the basis that Im 
+satisfied someone intercepted the means to make the transaction without his consent. 2. Its common ground that the transaction was made through Barclays telephone banking. 
+Whoever made the payment correctly answered the security questions to be able to 
+proceed. I understand one such security measure included entering at least part of       
+Mr Ss 16-digit card number. Yet, Mr S is very confident that the card remained in his 
+sole possession at the material time. Based on what hes described, it seems highly 
+unlikely that someone could obtain the required answers to satisfy security.
+3. The timing of the changes in Mr Ss account balance is significant. A payment credited 
+the account shortly before the disputed £720 was paid out. I understand this was a 
+planned credit from Mr Ss brother. This being paid in allowed for the disputed payment 
+to be paid out, as there were insufficient funds beforehand. According to Mr S, nobody 
+else but him wouldve known his account balance would increase in such a way, at such 
+a time. I must consider that its therefore very coincidental that a perpetrator would just 
+so happen to access the account just after a planned credit of this kind. 
+4. It seems likely to me that the account balance was checked prior to the payment being 
+instructed in order to establish whether this arranged credit had reached yet. We know 
+that Mr S was expecting the payment in from his brother and Barclays has evidenced 
+that Mr Ss mobile banking facility was logged into a number of times leading up to when 
+the disputed payment was initiated, and shortly afterwards. The mobile banking app 
+wouldve presented Mr Ss account balance, confirming that there were sufficient funds 
+to make the £720 payment once this credit was received. 
+5. We know the facility was accessed via Mr Ss own mobile phone. This wouldve required 
+a passcode in order to unlock the phone itself in the first instance  a code which Mr S 
+says is known only to him. His mobile banking app required another password  which, 
+again, Mr S says only he knew. Mr S is adamant that his security information could not 
+have been intercepted  hes sure no one could have captured it or guessed it correctly 
+to be able to successfully impersonate him. Consequently, I cannot see a plausible 
+explanation for how someone was able to access Mr Ss mobile banking without his 
+consent.  
+6. So, I must consider that only Mr S had the required passwords to be able to check his 
+mobile banking. And the pattern of log in times indicates to me that whoever was using 
+mobile banking did so because they were awaiting confirmation of an incoming credit  
+there doesnt appear another convincing reason why the account was checked so 
+frequently in a short space of time.
+7. Mr S asserts that his laptop computer may have been in some way connected to the 
+scam, as he accessed his online banking from this device a matter of days before          
+16 November 2020. Hes unsure how this happened exactly and its important to note 
+that he hasnt provided any supporting evidence. Only that this was the first time in a 
+long while (if ever) that he used online banking from this computer, instead of continuing 
+to use his mobile banking facility (as the two are different). 
+8. I accept that the manipulation of Mr Ss online banking was possible. However, I reach 
+my decision not on mere possibilities  but rather based on what I find most probable. 
+And on balance, I am not persuaded that this is what happened. I say so because, 
+theres a distinct lack of evidence that another device was in any way involved. Theres 
+no record of Mr Ss account being accessed at the material time other than through his 
+mobile banking facility. And Im satisfied that Barclays has the technology to detect with 
+reasonable accuracy when a computer device is used to log in to check online banking, 
+instead of mobile banking through a mobile phone.9. Besides, Mr Ss theory does not offer a plausible explanation for how his mobile banking 
+was able to be accessed while he was asleep. And if I were to accept what Mr S thinks 
+happened, theres also no clear point of compromise for the required information to be 
+intercepted in order for the payment to go ahead via telephone banking. 
+10. Whats more, it does not make sense to me why a fraudster who could access Mr Ss 
+mobile banking and/or online banking would then make a call to Barclays to instruct the 
+bank to make a fraudulent payment via telephone banking. I cant see a persuasive 
+reason for why a fraudster would jeopardise stealing money from an account by calling 
+the bank, when they already had gained access to being able to make payments out of 
+that account. In other words, it seems highly improbable that a fraudster would choose to 
+overcome further security measures when they had the means to make payments 
+already. Under these circumstances, I am not persuaded that someone using the 
+account without Mr Ss consent would take such an unnecessary risk.
+11. The only other explanation Mr S has offered is that it was a member of staff at Barclays 
+who was complicit in the fraud. This is a strong accusation. Such allegations should not 
+be made lightly or without concrete evidence  and Mr S has had a fair opportunity to 
+substantiate this claim in his submissions to our service but has failed to provide any 
+compelling evidence to support his claim. 
+12. Ultimately, Mr S has not persuasively proven his case having been given a fair chance to 
+do so. In fairness, I am faced with a version of events from Mr S that leaves me 
+unconvinced for how the payment could have taken place without his consent. For me to 
+accept his side of things and uphold the complaint, I would need to go against what I see 
+as a logical and plausible explanation for the payments execution. After all, I must follow 
+the evidence  and I cannot safely conclude that the activity in question went ahead 
+without his consent.
+13. This is not, however, the same as dismissing Mr Ss statement  and I hope Mr S can 
+appreciate that it would not be reasonable, nor fair of me to uphold this complaint based 
+on his testimony if on balance the evidence suggests otherwise.
+My final decision
+For the reasons given above, my final decision is that I do not uphold this complaint. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr S to accept or 
+reject my decision before 11 October 2021.
+ 
+Matthew Belcher
+Ombudsman

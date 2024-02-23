@@ -1,0 +1,79 @@
+DRN-4233430
+The complaint
+Mr M has complained that Revolut Ltd unreasonably refused to refund several disputed 
+transactions which he says he didnt authorise which were paid from his Revolut account. He 
+complained that Revolut didnt stop the transactions when he especially told it to at a time 
+when they were still pending. 
+Revolut also refused to initiate Mr Ms chargeback request. 
+What happened
+Mr M said that on 17 October 2022 he made a transfer from another banks current account 
+into this Revolut account as he was due to travel for work in mainland Europe and he always 
+used this account when travelling.
+ 
+The next day as he was packing and getting ready to go to the airport, he noticed payments 
+into his current account with another bank which he didnt recognise and then payments out 
+of his Revolut account to a merchant he said he knew nothing about. Mr M is adamant he 
+wasnt making these payments. 
+As they were still pending in his Revolut account, he asked Revolut to stop them, but it 
+refused.
+Revolut said as the transactions were coherently authorised, it wasnt entitled to stop the 
+transactions completing. There was no point of compromise and consequently it didnt think 
+raising a chargeback would be successful. 
+So, Mr M brought his complaint to us. The investigator was of the view that Revolut hadnt 
+done anything wrong. Mr M disagreed so his complaint has been passed to me to decide. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so Im not upholding this complaint. Ill now explain why. 
+I am also dealing with Mr Ms complaint against his current account bank which I have dealt 
+with separately. So, this decision simply deals with Mr Ms complaint against Revolut. 
+The transactions at issue are the following but please note there does appear to be roughly 
+an hours time difference with some of the transactions possibly due to the difference 
+between UK time and that on mainland Europe.
+Time Method Amount From To IPDevice
+13:26:22 mobile $1,800 (US) Revolut disputed merchant iPhone 15,2
+13:30:54 mobile $3,060 (US Revolut disputed merchant iPhone 15,2
+13:36:01 mobile $900 (US) Revolut disputed merchant iPhone 15,2
+13:47:37 mobile $3,000 (US) Revolut disputed merchant iPhone 15,2
+13:49:01 mobile $3,000 (US) Revolut disputed merchant iPhone 15,2
+13:50:30 mobile $3,000 (US) Revolut disputed merchant iPhone 15,2
+Under the Payment Service Regulations (PSRs) Revolut is under a duty to pay authorised 
+transactions. Authorisation and consent under the PSRs are a formal requirement.
+ 
+A payment transaction is to be regarded as having been authorised by the payer .. 
+if the payer has given its consent to the execution of the payment transaction or 
+series of payment transactions of which that payment transaction forms a part.
+Such consent must be given in the form, and in accordance with the procedure 
+agreed between the payer and its payment service provider.
+As the investigator explained Revolut said each of the above disputed transactions was 3D 
+Secure verified which required the transaction to be authorised through the Revolut app on 
+Mr Ms phone after a push notification was sent. 
+Revoluts evidence shows me that for each of the above transactions a notification was sent 
+to Mr Ms app. FaceID was then used to log into the app and authorise the transaction by 
+entering the app passcode. Therefore, once each transaction was authorised it remains 
+pending as Revolut explained until the merchant collects it. Under the PSRs Revolut is 
+under a duty to allow the merchant to collect the transaction, once it had been properly 
+authorised. So, I consider it didnt do anything wrong in refusing to stop the transactions 
+when Mr M asked it to do so. 
+Crucially in my view, the evidence also shows Mr C used the same mobile phone just 
+minutes later to log into the app using Face ID to report the transactions as disputed via the 
+chat option. And the evidence shows Mr M used the same phone to log in the day before too 
+which is not disputed. There is no evidence of any failed logins either.
+There is also no question that Mr M never lost his phone or that other people knew his 
+passcode. 
+Revolut explained that because the transactions were coherently and properly authorised 
+under the rules for chargebacks any such chargeback would have been unsuccessful and 
+therefore, they didnt pursue this. I dont consider that was wrong in these circumstances. 
+There is no evidence to show me how someone other than Mr M could have made these 
+transactions given how they were processed and authorised and the fact that Mr M clearly 
+had his phone given he contacted Revolut via the chat option some minutes after these 
+transactions. Mr M also told us that Apple told him his phone wasnt compromised in any 
+way.
+Consequently, based on the evidence available I dont consider Revolut did anything wrong 
+in refusing to refund these disputed transactions to Mr M.
+My final decision
+So, for these reasons its my final decision that dont uphold this complaint.Under the rules of the Financial Ombudsman Service, Im required to ask Mr M to accept or 
+reject my decision before 29 September 2023.
+ 
+Rona Doyle
+Ombudsman

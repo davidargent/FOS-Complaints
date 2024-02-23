@@ -1,0 +1,106 @@
+DRN-4176081
+The complaint
+Mr R complains that Wise Payments Limited will not refund him for transactions he says he 
+didnt agree to. Hed like the transactions refunded.
+What happened
+Mr R held an account with Wise. On 29 August 2022 a large sum of money was transferred 
+into the account. The money was then transferred out in nine payments of $8,000. There 
+were later payments into the account on 30 August and 31 August, which were also 
+transferred out to the same beneficiary.
+On 15 September 2022 Mr R contacted Wise to say these transactions werent him and 
+asked for them to be reimbursed. Wise investigated, including asking Mr R further questions 
+about the source of the funds. They also contacted the receiver of the funds and asked for 
+their explanation of the payments. 
+After some time, Wise responded to say that they could not see they were liable for 
+reimbursing him and referred him to the terms of his account. Wise later closed his account.
+Unhappy with this answer Mr R referred the complaint to our service. He said his account 
+had been hacked. He questioned why Wises systems hadnt prevented the transactions 
+from taking place. Our investigator looked into what happened but didnt think the complaint 
+should be upheld. The investigator felt there was no evidence that his account or device had 
+been hacked. The payments had been set up using two-factor authentication, with 
+messages sent to Mr Rs phone. The investigator also noted that it took over two weeks for 
+Mr R to report the transactions as fraudulent, and he had completed other transactions on 
+the account in the meantime. He also noted that Mr R initially told Wise he had sent the 
+transactions to the wrong person. 
+Mr R disagreed, providing evidence that his accounts had been logged in to from a country 
+he wasnt in. He said he hadnt received any messages to his phone. He also submitted 
+evidence of the illness and difficulties he faced. But this changed the investigators mind. As 
+no agreement could be reached the complaint has been passed to me to deicide.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+The primary regulations for me to consider here are the Payment Services Regulations 2017 
+(PSRs). These govern how payment service providers, such as Wise, should process 
+payments, what information they should record, and crucially what they should do if 
+something has gone wrong. According to the PSRs, generally when a payment leaves an 
+account that the consumer didnt agree to, its up to the payment service provider to refund 
+it. So, the key consideration for me here is whether Mr R authorised the transactions or 
+allowed someone else to do so.
+Looking at the evidence available, Im satisfied that its more likely than not the transactions 
+were authorised.
+Wise has presented the technical evidence of how the transactions took place. There are a 
+number of different IP addresses used to log on, and I can see this triggered a notification 
+from Wise to Mr Rs email. I can also see that the email address associated with the account 
+changed several times in the weeks leading up to the disputed transactions  although the 
+last email address used is the same as the one Mr R has been communicating with us 
+through.
+The technical evidence suggests that Mr Rs account was being logged in from two separate 
+locations  which may be indicative of someone else accessing the account. But I also note 
+that these logins were verified with a two-factor authentication delivered by SMS. I havent 
+seen any evidence that Mr Rs phone number was changed around this time  and this 
+same number has also been used to verify payments that Mr R hasnt disputed. I can also 
+see there was a call to this number on 31 August, that was used to verify one of the disputed 
+payments. 
+Its difficult to see how these transactions could have taken place without Mr Rs knowledge 
+as his phone would have been necessary for them to be set up. And hes not indicated that 
+anyone else had access to his phone, or that he shared any security information with anyone 
+else. Hes suggested his phone may have been the victim of a phishing attack but has not 
+submitted evidence to show this is the case. 
+There is a payment out of the account on 30 August for $4,000 that hasnt been disputed. I 
+would have thought that when setting up this payment Mr R may notice that the balance on 
+the account was over $70,000 less than it should have been. Likewise, there are payments 
+sent out by Mr R in September that leave the account at a zero balance.
+But Mr R doesnt contact Wise to report anything unusual until 15 September. And in this 
+conversation, he doesnt allege hes been the victim of fraud, or a robbery. But rather he 
+says he mistakenly sent the money to the wrong person. Later that day he then says 
+Someone accessed my account and the transactions. The transaction wasnt authorized by 
+me. Its not clear why he would initially say the transactions were mistaken if he believed 
+hed been the victim of theft, or why he would delay reporting the transactions to Wise 
+considering hes alleging hes lost a significant sum of money.
+In his correspondence with Wise, its explained the recipient claimed Mr R was returning 
+money that was sent to him by mistake. Mr R denies this, saying it was his own money. But 
+he acknowledged that he had done work for the recipient in the past. But the type of work he 
+describes he carried out for the recipient would generally be thought of as questionable, and 
+potentially illegal. Mr R has alleged they were threatening him. Which does make it more 
+plausible that the he returned the funds himself, rather than it was accessed by the third 
+party and transferred without his knowledge. 
+In these conversations he also mentions that the recipients got him to open up an account 
+with a cryptocurrency exchange  and hes also claimed this is where the funds in the 
+account came from. Mr R has said in his response to our investigator that he moved the 
+funds from there to the Wise account as he was worried about the hackers taking them. 
+Hes also sent emails showing there were logins from new IP addresses for other web 
+services he uses. But if Mr R was on notice he was being targeted by hackers it would make 
+it even more unusual that he didnt report the transactions for over two weeks. Overall, I consider it more likely than not the transactions were carried out either by Mr R, or 
+by someone hed given access to his Wise account. So, under the PSRs the payments 
+would be considered authorised, and Wise wouldnt be liable for refunding him.
+As part of our fair and reasonable remit, I considered whether Wise should have stepped in 
+to prevent these transactions. Overall though Im not minded that they should have  as 
+mentioned I find it more likely than not Mr R was involved in the transactions, and they had 
+been completed using verification procedures that only Mr R should have been able to 
+complete. I also note that the account activity in leading up to this was similar  for example 
+over $38,000 had been received and sent on 27 August, which Mr R hasnt disputed. So, I 
+dont see that Wise have been unreasonable in not blocking the transactions.
+Ive also considered the account closure  Im satisfied that the closing of Mr Rs account 
+was in line with the terms of the Wise account, so Im not asking them to do anything further 
+there.
+Im sorry to hear how this has affected Mr R, and I am very sympathetic to his ill health. I 
+appreciate this cant have been an easy experience for him. But overall, I cant say that Wise 
+have been unfair or unreasonable to him, in how theyve handled his dispute. Because of 
+that, Im not asking them to do anything further.
+My final decision
+My final decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr R to accept or 
+reject my decision before 30 August 2023.
+ 
+Thom Bennett
+Ombudsman

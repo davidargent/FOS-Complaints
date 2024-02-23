@@ -1,0 +1,108 @@
+DRN-3825647
+The complaint
+Mr C complains that National Westminster Bank Plc (NatWest) is refusing to refund him the 
+amount he lost as the result of a scam. 
+Mr C is being represented by a third party. To keep things simple, I will refer to Mr C 
+throughout my decision.
+What happened
+Mr C saw an advertisement on Facebook for an investment. Interested in the opportunity Mr 
+C completed an online form with his contact information and was contacted by the 
+investment business. I will call this business X.
+Mr C received a call from X and persuaded by its professional approach Mr C agreed to 
+make an investment. Mr C started investing with a small amount but was soon persuaded by 
+X to make larger payments to receive higher returns.
+Mr C made the following payments from two separate accounts into the scam:
+Account 1
+Date Payee Amount Payment Method
+9 September 2021 Cryptopayin £51.54 Card Payment
+9 September 2021 Cryptopayin £51.54 Card Payment
+9 September 2021 Cryptopayin £51.54 Card Payment
+9 September 2021 Cryptopayin £51.54 Card Payment
+12 November 2021 Blockchain Account 1 £5,000 Transfer
+18 November 2021 Blockchain Account 2 £4,700 Transfer
+16 December 2021 Blockchain Account 2 £3,500 Transfer
+20 December 2021 Blockchain Account 2 £4,650 Transfer
+21 December 2021 Blockchain Account 2 £5,000 Transfer
+22 December 2021 Blockchain Account 2 £3,600 Transfer
+5 January 2022 Blockchain Account 2 £5,000 Transfer
+6 January 2022 Blockchain Account 2 £4,950 Transfer
+7 January 2022 Blockchain Account 2 £4,999 Transfer
+8 January 2022 Blockchain Account 2 £4,998 Transfer
+10 January 2022 Blockchain Account 2 £5,000 Transfer
+11 January 2022 Blockchain Account 2 £4,999 Transfer
+12 January 2022 Blockchain Account 2 £4,998 Transfer
+13 January 2022 Blockchain Account 2 £5,000 Transfer
+15 January 2022 Blockchain Account 2 £3,400 Transfer
+20 January 2022 Blockchain Account 2 £5,000 Transfer
+Account 2
+Date Payee Amount Payment Method
+12 October 2021 Blockchain Account 1 £500 Transfer
+7 December 2021 Blockchain Account 2 £5,000 Transfer
+10 December 2021 Blockchain Account 2 £4,900 Transfer
+11 December 2021 Blockchain Account 2 £4,950 Transfer
+13 December 2021 Blockchain Account 2 £4,999 Transfer
+Mr C attempted to make a further payment into the scam that was stopped by NatWest. At 
+the point the payment was stopped Xs demeanour changed and Mr C was bombarded with 
+emails and phone calls. It was clear Mr C had fallen victim to a scam.
+Our Investigator considered Mr Cs complaint but didnt think it should be upheld. Mr C 
+disagreed, so this complaint has been passed to me to decide.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Recovering the payments Mr C made
+Upon investigating Mr Cs complaint NatWest found that the payments Mr C made went into 
+cryptocurrency accounts in his name before being forwarded to X, meaning the scam 
+occurred when the funds were transferred from the cryptocurrency accounts to the scammer.
+When payments are made by card the only method of recovery NatWest has is to request a 
+chargeback.
+The chargeback scheme is a voluntary scheme set up to resolve card payment disputes
+between merchants and cardholders. The card scheme operator ultimately helps settle 
+disputes that cant be resolved between the merchant and the cardholder.
+Such arbitration is subject to the rules of the scheme, meaning there are only limited
+grounds and limited forms of evidence that will be accepted for a chargeback to be
+considered valid, and potentially succeed. Time limits also apply.
+Mr C was dealing with X, but Mr C didnt make the card payments to X directly. Instead, he 
+paid a cryptocurrency exchange. This is important because NatWest was only able to 
+process chargeback claims against the merchant Mr C paid, not another party.
+The service provided by the cryptocurrency exchange would have been to convert or 
+facilitate conversion of Mr Cs payments into cryptocurrency. Therefore, it provided the 
+service that was requested; that being the purchase of the cryptocurrency.
+The fact that the cryptocurrency was later transferred elsewhere  to the scammer  doesnt
+give rise to a valid chargeback claim against the merchant Mr C paid. So, a chargeback 
+attempt would likely fail.
+I have considered whether Mr C should have received a refund under the Contingent 
+Reimbursement Model (CRM) code for payments he made by transfer. But the CRM code 
+only applies when domestic payments (as the result of a scam) are sent to another person. 
+Here Mr C sent the payments to an account held in his own name and the scam occurred 
+when the purchased crypto was moved from that account to the scammer. Im satisfied the 
+CRM code wouldnt apply in this scenario.
+Should NatWest have reasonably prevented the payments Mr C made?Mr C has accepted he authorised the payments that were made from his account with 
+NatWest, albeit on Xs instruction. So, the starting point here is that Mr C is responsible. 
+However, banks and other Payment Services Providers (PSPs) do have a duty to protect 
+against the risk of financial loss due to fraud and/or to undertake due diligence on large 
+transactions to guard against money laundering.
+The question here is whether NatWest should have been aware of the scam and stepped in 
+to prevent the payments from being made.
+The first four payments Mr C made into the scam were of low value to what appeared to be a 
+legitimate business. I think its reasonable that the payments did not trigger NatWests fraud 
+prevention systems.
+The remaining payments were to a new payee. But it wouldnt be reasonable for me to say 
+NatWest should step in every time a customer pays a new business. The payments while 
+higher in value were not significantly high, and Mr C had made large payments from his 
+account in the months before. So, I dont think the value of the payments would reasonably 
+have triggered NatWests fraud prevention systems either. The payments were also spread 
+out over different days and formed a pattern of regular spending to trusted payees on Mr Cs 
+account that he had no complaints about over several months. 
+Overall, I dont think the payments Mr C made into the scam should reasonably have 
+triggered NatWests fraud prevention systems. So, NatWest did not miss an opportunity to 
+step in and prevent the scam taking place and is not responsible for Mr Cs loss.
+Mr C has explained that the circumstances of his complaint are like another case our service 
+has considered, and that has been upheld. But each case is considered on its own merits, 
+and I am unable to comment on other cases within my decision.
+My final decision
+I dont uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr C to accept or 
+reject my decision before 26 July 2023.
+ 
+Terry Woodham
+Ombudsman

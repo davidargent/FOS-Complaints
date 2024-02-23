@@ -1,0 +1,105 @@
+DRN-3976826
+The complaint
+Mr S complains that Revolut wont refund the funds he lost in a scam. 
+What happened
+Mr S is represented in this case but for ease Ill refer to Mr S throughout this decision. 
+What Mr S says
+Mr S says he received a call from someone who told him hed been able to locate money 
+lost in a previous scam and could help Mr S to recover it. Although Mr S didnt know it at the 
+time, the caller was a scammer. Mr S wasnt advised of any fees but was told the funds 
+could be returned via a cryptocurrency platform. To complete the process, Mr S was 
+required to send identification, so he provided a copy of his driving license and a photograph 
+of himself. Mr S says the scammer sounded professional and spoke to him in his native 
+language. 
+Mr S was asked to download a device sharing app so that some details could be checked 
+and the Revolut account opened. But the scammer used remote access to transfer Mr Ss 
+entire balance from an account with another provider to the newly opened Revolut account. 
+Mr S says the scammer then made an unauthorised transfer from the newly opened Revolut 
+account to a cryptocurrency exchange. Mr S says he should be refunded the unauthorised 
+transaction.  
+Mr S contacted Revolut through its in-app chat on 15 August 2022 to report what had 
+happened. Revolut didnt agree to refund Mr S but recognised that it didnt handle his claim 
+well, as it didnt clearly set out next steps, and paid him £300 compensation.  
+Our investigation so far
+The investigator who considered this complaint didnt recommend that it be upheld. He said 
+the value of the scam transaction was too low to expect Revolut to intervene as Revolut is 
+an e-money provider and large payments from Revolut accounts are common. And as the 
+funds went to a genuine cryptocurrency exchange there was no prospect of recovering them. 
+Mr S didnt agree with the investigators findings. In summary, he said:
+- The payment was out of character and should have been blocked by Revoluts fraud 
+systems. Mr S transferred £7,500 to a new payee from a newly opened account. The 
+payment also went to a cryptocurrency exchange, and this is common in scams. In 
+2018 Action Fraud warned about large payments being sent to cryptocurrency 
+wallets and on to scammers so Revolut should have been aware of this type of fraud 
+and taken steps to prevent it. 
+- A newly opened account sending funds to a cryptocurrency exchange is a strong 
+indicator of fraud and a money laundering concern. Revolut should be monitoring 
+such trends.  
+- Revolut shouldnt be held to a lower standard than a bank when considering if a 
+payment is out of character.
+The complaint was passed to me and I issued my provisional decision on 30 October 2023. 
+In the What Ive provisionally decided  and why section of my provisional decision I said:
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint. 
+Mr S says that a fraudster used a device sharing app to open a Revolut account in his name 
+and make a payment of £7,500 to a cryptocurrency exchange  in other words that the 
+transaction is unauthorised.
+The relevant law surrounding authorisations are the Payment Service Regulations 2017. The 
+basic position is that Revolut can hold Mr S liable for the disputed payments if the evidence 
+suggests that its more likely than not that he made them or authorised them. 
+Ive carefully considered the evidence to determine whether I consider it more likely than not 
+that the £7,500 transaction was authorised. Having done so, Im satisfied it was and will 
+explain why. 
+-A selfie of Mr S was required when the account was opened. Im confident that the 
+person in the selfie provided to Revolut was the same person who communicated 
+with Revolut to report the disputed transaction. At this stage Revolut required Mr S 
+for a selfie to verify him. 
+-Only one device has ever been registered to the Revolut account used to make the 
+disputed transaction. There were no attempts to register another device either. Whilst 
+there was an attempt to log in via a browser on the day of the scam this was declined 
+and all transactions, including the scam and subsequent transactions, were made 
+from the same device  Mr Ss registered device.
+-I have seen evidence which shows that the payment to the cryptocurrency exchange 
+was 3DS secured. This means that it went through a further layer of security. 3DS 
+can only be confirmed via a mobile device.  
+-The payment to the cryptocurrency exchange was made using a virtual card. When 
+this card is used, a passcode is sent to customers mobile device to view the card 
+details.
+Given the points I have raised above I consider it unlikely that someone without access to Mr 
+Ss phone could have made the payment. Mr S confirmed to Revolut that nobody had 
+access to his phone. Overall, I dont consider it was possible for an unknown third party to 
+transfer funds to a cryptocurrency exchange without Mr Ss knowledge and authorisation. 
+Ive gone on to consider Mr Ss transaction as an authorised payment and have thought 
+about whether Revolut did enough when it was made.  
+Taking into account the law, regulatory rules and guidance, relevant codes of practice and 
+good industry practice, there are circumstances where it might be appropriate for Revolut as 
+an electronic money institute (EMI) to take additional steps or make additional checks 
+before processing a payment in order to help protect its customer from the possibility of 
+financial harm from fraud. 
+In this case, Im mindful Mr S didnt have an existing relationship with Revolut as the account 
+was opened the day before the transaction. This means that Revolut didnt have an 
+understanding of Mr Ss normal spending patterns. 
+The reason given for opening the account was to make transfers, and this is what happened. 
+On balance though, I consider that given the value of the payment, Revolut should have 
+provided Mr S with a written warning that broadly covered scam risks at the time the 
+payment was made. I cant see that this happened. Ive gone on to consider whether such a 
+written warning would have made a difference in this case. Given that Mr S says he didnt 
+complete the transaction, I cant fairly say it would. So Im not asking Revolut to do anything 
+more. 
+Im satisfied that the amount Revolut has paid Mr S in respect of the service he received 
+more than compensates him for any service related failings.Overall, whilst Im very sorry to hear of Mr Ss loss, I cant reasonably hold Revolut 
+responsible.
+Revolut agreed with my provisional decision and Mr S representative said they wouldnt 
+appeal. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+As neither party has raised any new points for me to consider I see no reason to depart from 
+my provisional findings (which I have reproduced above). 
+My final decision
+For the reasons stated, I do not uphold this complaint. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr S to accept or 
+reject my decision before 26 December 2023.
+ 
+Jay Hadfield
+Ombudsman

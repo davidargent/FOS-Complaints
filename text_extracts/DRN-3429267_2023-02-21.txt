@@ -1,0 +1,92 @@
+DRN-3429267
+The complaint
+Mr L complains about Interactive Brokers (UK) Ltds (IB) decision to close some of his 
+positions due to insufficient margin. He said that as the call was covered, there was no 
+margin requirement and no risk to IB. He said that IBs actions caused him to lose over 
+$16,000 in lost profits. 
+What happened
+On 1 July 2020 IB sent Mr B emails which notified him that he was within 5% of using up the 
+available margin on his account. The warnings explained what actions Mr B could take in 
+order to free up more margin. By around 9.30 in the morning Mr Bs account had a net 
+liquidation value of around $103,656 and maintenance margin requirement of around 
+$118,613. This meant that Mr Bs account had insufficient margin to maintain his open 
+trades. IB sent Mr B a further statement to this effect requesting he take urgent action. 
+As Mr B did not take any further action, IB proceeded to close some of Mr Bs positions in 
+order to free up the required margin  it did so between 9.40 am and 12.24 pm. 
+Mr B complained. In short he disputed that he had insufficient margin, because he said that 
+his option was fully covered by the shares in his account. He said that he wasnt using any 
+credit from IB, and as such he didnt agree it had the right to close his trades. Furthermore, 
+he said when IB did liquidate some of his positions, it left him with naked calls because he 
+had sold his stock. He said that this left him in a much riskier position, and he proceeded to 
+close the remaining positions himself the following day. 
+IB looked into his complaint and explained why it took the actions that it did based on the 
+required margin on his account. Mr B didnt agree and referred his complaint to this service. 
+One of our investigators looked into Mr Ls concerns, but didnt think IB had done anything 
+wrong. As part of his investigation, he took into consideration IBs explanations of how it 
+calculated the margin required on Mr Ls account. It explained that the account held a 
+covered call position in a stock which required 100% cash backing. The margin required for 
+the account was calculated in this way:
+MAX[In-the-money amount + Margin(long stock evaluated at min(mark price, strike(short 
+call))), min(stock value, max(call value, long stock margin))]
+It explained that this meant that while Mr L wasnt borrowing from IB in respect of his 
+covered call, on the morning of 1 July 2020 he didnt have sufficient maintenance margin in 
+his account. 
+This was a margin violation as per the terms of his agreement, which entitled IB to take 
+action.  
+The investigator therefore concluded that IB hadnt done anything wrong. The investigator 
+was persuaded that Mr L was given enough information about the margin required for his 
+trades, and how to monitor it while his trades were open. He considered Mr Ls complaint 
+about how IB liquidated his positions, but concluded that IB was entitled to liquidate all or 
+part of Mr Ls positions or assets, and this was in line with the terms. 
+Mr L didnt agree. He said that he held a long position in shares which was 100% cash paid, 
+no margin used. On 6 May he sold calls on that position, and received $14,200 which he 
+kept in his account. He said that IBs system should not have allowed him to sell the call if it 
+was clear to IB that he didnt have sufficient margin. He said that IB should not allow 
+customers to set up a trade if it was clear it wouldnt meet IBs margin requirements. He said 
+that when the trade went through, he felt safe. 
+He said he never received a margin warning as a message, until immediately before the 
+position was liquidated. He said this meant he didnt have a chance to react. 
+As agreement couldnt be reached, the case was passed to me to consider. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, Ive reached the same conclusions as the investigator and for broadly the 
+same reasons. 
+Im sorry to disappoint Mr L, but I dont have much to add to what the investigator has 
+already told him. Whilst I understand why hes unhappy with the way IB liquidated some of 
+his trades, what IB did was in line with the terms he agreed to. 
+The terms of the account say clearly that Mr L was responsible for ensuring he kept 
+sufficient margin in his account. And Im satisfied that Mr L wouldve been able to see how 
+much margin he needed via the tools he was using to trade. The terms also allowed IB to 
+decide how to bring the account back into compliance, and to decide what and when to 
+liquidate certain positions in order to do so. 
+In deciding whats fair and reasonable in this case, I am required to also take into account 
+the relevant law. Caselaw has been clear that the ability of a broker, like IB, to close trades 
+or positions due to insufficient margin is not a failsafe mechanism for the protection of the 
+consumer. It is a mechanism through which the business, primarily, is allowed to mitigate or 
+eliminate risk. The discretion it can use to ensure sufficient margin is freed up in an 
+individual account is very broad  and in this case IB was entitled to liquidate some or all of 
+Mr Bs trades. 
+When looking at Mr Ls case, Im satisfied the evidence shows that whilst he wasnt 
+borrowing from IB specifically, he didnt have sufficient margin to cover his open call. IB has 
+showed that he needed over $14,000 to ensure that he had sufficient margin to cover the 
+open trade he had. And Im satisfied that Mr L himself had access to this information in order 
+for him to monitor it. For example he wouldve been able to see how close he was to the 
+required margin, and to decide for himself whether to add more money or not. 
+Whilst Mr L might have felt that the stock he held ought to have been enough to cover his 
+margin requirement, Im satisfied the evidence shows that it wasnt. 
+And ultimately, it was his responsibility to ensure that he adhered to IBs requirements  if he 
+felt confident that his strategy would product a profit, he ought to have added more margin to 
+his account. In any event, Im also not persuaded Mr L was caused a loss. The evidence Ive seen shows 
+that the liquidation, overall, crystallised a profit for Mr L  and once his account was partially 
+liquidated, Mr L couldve chosen to open more trades in order to pursue additional profits. 
+Taking all this into account, Im satisfied there were no errors in the way IB handled Mr Ls 
+account and that it treated him fairly. Im satisfied therefore that it need not do anything to 
+put things right. 
+My final decision
+My final decision is that I dont uphold this complaint. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr L to accept or 
+reject my decision before 21 March 2023.
+ 
+Alessandro Pulzone
+Ombudsman

@@ -1,0 +1,147 @@
+DRN-3795520
+The complaint
+Mr C complains about the US Crude Oil positions in his Contracts for Difference account 
+held with Gain Capital UK Limited. He says when the market went into negative pricing, they 
+closed his positions and unfairly adjusted his account causing him significant losses.
+What happened
+Mr C held US Crude Oil futures positions in his Contracts for Difference (CFD) account with 
+Gain Capital UK Limited and these were due to expire on 20th April 2020 at 19:30. 
+For the first time in history, the US Crude Oil market went into negative pricing at around 
+19:08. Gains platform didnt allow them to record negative pricing, so they were unable to 
+get an up-to-date accurate price and closed Mr Cs long positions at the last available price 
+of $0.01 before expiry of the futures contract. 
+Gain subsequently went on to make adjustments to his account to the expected margin 
+close out (MCO) level of 50% which amounted to losses of around £8000 for Mr C. He says 
+the adjustment was made several days after the positions were already closed and this 
+action was unfair. He says he was prevented from closing his positions because the platform 
+was frozen. To put things right he would like Gain to reimburse his funds. 
+Gain issued a final response letter in June 2020 and didnt uphold his complaint. They said 
+the adjustment to his account was in line with the general terms and conditions of his 
+account. They referred to clause 14 manifest error and clause 15 events outside our 
+control and market disruption events. They say:- 
+- A manifest error in the pricing available due to market volatility required a price 
+adjustment to his US Crude Oil positions.
+- This situation would be covered under the market disruption events in their terms and 
+conditions.
+- Their platform was not designed for negative pricing, so they closed his positions at 0.01 
+- the lowest available price and then a manual price adjustment was made.
+- The adjustment calculation was that Mr Cs margin close out level of 50% would have 
+triggered between 19:08 and 19:30 and so they made a decision that the he would not 
+have held the position to expiry e.g. the -$37.63 price. They calculated that his MCO 
+level would have reflected the oil contract price of -$15.91. As the he was closed at 
+zero, the adjustment was calculated as stake X price difference (USD 5 X -1591) = USD 
+-$7,957.66.
+Our investigator looked at the complaint and said the following:-
+- The Covid 19 pandemic brought about unprecedented market events. 
+- He would expect the price Gain offered to be reflective of the underlying market, but 
+their price didnt go below $0.01.
+- He said the US Crude Oil market continued to trade at negative prices until the expiry 
+of the futures contract at 19:30 so the retrospective adjustments to the accounts were 
+in line with the terms and conditions of the account. 
+- He acknowledged Mr C was logged into his account at 18:53 and that the evidence 
+shows he tried to close his positions after the futures contract had expired but 
+considered what would have happened if the correct price was displayed.
+- He said he was satisfied that on balance Mr C would have closed his positions had 
+the correct price been displayed and obtained a better price than what Gain have 
+given him.
+- He was unable to say precisely at which point the positions would have been closed. 
+As such he recommended that Gain refund 50% of the sum they debited to Mr Cs 
+account being $3978.83 and pay him £250 for the trouble and upset caused. 
+Mr C accepted the investigators view, but Gain didnt agree and provided further information 
+to show the price of US Crude Oil was negative at 19:08 and continued to fall until expiry of 
+the contract at 19:30. Their system didnt show the continued fall in price and it was greyed 
+out so the trading platform prevented trading once the price went negative. They say this is 
+risk mitigation control built into the system not a system failure, but this was not known at the 
+time. 
+In addition, they say, if Mr C had attempted to trade by pressing the greyed buttons, they 
+would have a record of this, but there is no evidence of him attempting to close any positions 
+or contact them until after expiry of the contract. 
+As Gain didnt agree with the investigator, this has come to me for a final decision.
+I issued a provisional decision on 30 September 2022 explaining why I was intending to 
+uphold this. I include this below.
+ 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+What Ive provisionally decided  and why
+Whilst it is not within my remit to tell a business what its terms and conditions should say or 
+how it should operate, it is key to look at how Gain have exercised their rights when making 
+any changes. I would expect them be fair and reasonable in exercising their rights and so 
+must consider whether in this instance their action was exercised in this way or not.
+I accept the market conditions were unprecedented and the change in market conditions are 
+not Gains responsibility. They are also entitled to have a system which doesnt deal with 
+negative prices, but they need to be transparent and fair in giving their customers 
+information on their platform limitations and particularly on how they will manage the 
+customers positions when situations like this arise. 
+There is no dispute that up-to-date price was not available for US Crude Oil and Gains 
+platform didnt show negative prices, so the platform was greyed out to prevent any trading. 
+Gain say this was risk mitigation control, but this wasnt clear to Mr C because there was no 
+warning or system message that told him what the situation was. As far as he could see, a 
+system error had prevented him from trading, and he makes this point to Gain when he calls 
+them to complain. 
+Mr C didnt know the system couldnt cope with negative prices, or that he would be 
+prevented from trading. He wasnt able to make decisions such as placing a stop loss on his 
+account which could have mitigated any loss he would have incurred. There is a possibility 
+he may have made the decision to close his positions sooner when he was logged in earlier 
+at 18:53 if he had known the system couldnt cope with negative prices. This would have left him in a much better position than he finds himself in now. So, I think it is unfair that Mr C 
+wasnt given all the information which would have contributed to the decisions he may have 
+taken in managing his positions.
+Gain quoted various clauses in the terms and conditions that it considers cover the events 
+that took place as a result of the movements in the US Crude Oil market including manifest 
+error and events outside our control and market disruption events. I take on board the 
+points Gain makes in relation to these but having looked above at how much information 
+Gain gave their customers in relation to the way the platform operated and negative pricing, I 
+dont think these clauses would have come into effect and so I dont think their points are 
+relevant to the findings I have made here.
+ 
+Ultimately, Gain should have informed Mr C what would happen and that they didnt deal 
+with negative pricing. They along with other brokers should have been aware from earlier in 
+the week when the changing market information had become available as well as the 
+possibility of negative pricing, so they should have put their customers on notice to make 
+them aware. I am not satisfied that they made clear how they would deal with this situation 
+before the event happened in order to ensure transparency. I understand they say they 
+didnt know this at the time and no such system was in place to inform customers what 
+would happen, but I think the onus on the business to have made this clear. 
+The fact that Gain didnt know the system couldnt deal with negative prices or what they 
+would do in this situation doesnt mean it absolves them of responsibility. They failed to give 
+their customers sufficient information and operated in a way that I dont think was fair or 
+reasonable. Their customers should not be expected to bear the repercussions of this by 
+being locked out of making any changes to their positions until the market expired.
+I have to consider what Mr C would most likely have done had he been given all the 
+information about negative prices on the platform and the retrospective price adjustments. 
+With market conditions being as volatile as they were and being so close to expiry of the 
+futures contract, I am persuaded that Mr C would have closed his positions sooner  most 
+likely at 18:53 when he logged in to the platform before the prices went negative at 19:08 so 
+any retrospective price adjustments wouldnt have been necessary - and so the clauses they 
+mention above would become irrelevant. 
+Gain should put Mr C back in the position it would be if his positions were closed at 18:53 
+which is when he would most likely have closed his positions. They should compare the 
+readjusted figure with the position he would have been if they had closed at 18:53. They 
+should also pay him simple 8% interest on the difference each calculated year. 
+The lack of information and the process involved in dealing with this has added considerable 
+distress and inconvenience to Mr C. Gain should also pay him £250.00 for the distress and 
+inconvenience he has suffered. 
+My provisional decision
+For the reasons given above, I intend to uphold this complaint against Gain Capital UK 
+Limited. They should calculate and pay Mr C as noted above.
+ 
+They should pay him £250 for the distress and inconvenience caused. 
+Responses to my provisional decision 
+Mr C didnt respond to the provisional decision. Gain responded to say they had settled the 
+complaint with Mr C directly as noted in the provisional decision above. They confirmed a credit of $10,081.00 including 8% interest and £250.00 for distress and inconvenience was 
+applied to the trading account of Mr C.
+Putting things right
+As both Mr C and Gain accept my provisional decision, there is nothing further for me to add. 
+I see no reason to depart from my provisional findings and make the same findings here.
+My final decision
+For the reasons given above, my final decision is that I uphold this complaint against Gain 
+Capital UK Limited. 
+If not done so already, they should compare the readjusted figure with the position Mr C 
+would have been if they had closed at 18:53. They should also pay him simple 8% interest 
+on the difference each calculated year and should pay him £250 for the distress and 
+inconvenience caused.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr C to accept or 
+reject my decision before 6 December 2022.
+ 
+Naima Abdul-Rasool
+Ombudsman

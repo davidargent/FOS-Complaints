@@ -1,0 +1,86 @@
+DRN-3546513
+The complaint
+Mr G has complained that Monzo Bank Ltd registered a marker against him at CIFAS, the 
+national fraud database.
+What happened
+In March 2021, Mr Gs Monzo account was used to receive and pass on fraudulent funds. 
+The funds were sent on to a cryptocurrency platform.
+Monzo closed Mr Gs account and registered a marker against him at CIFAS. Mr G says he 
+was unaware of what had happened with his account or the payments to the cryptocurrency 
+platform. He said hed never given his PIN or online banking details to anyone, he had them 
+written in a private diary that he doubted anyone had access to, only he and his immediate 
+family could have accessed his mobile phone, and he didnt lose it.
+Our adjudicator looked into things independently and didnt uphold the complaint. Mr G 
+asked for his case to be reviewed again, so the complaint was passed to me to decide.
+I sent Mr G and Monzo a provisional decision on 7 June 2022, to explain why I didnt think 
+the complaint should be upheld. In that decision, I said:
+In order to register this marker, Monzo were not required to prove beyond all reasonable 
+doubt that Mr G had done something wrong. They did need to have reasonable grounds to 
+believe that hed misused his account, which went beyond a suspicion or concern, and which 
+had appropriate supporting evidence. Having carefully considered everything that both sides 
+have said and provided, I currently think Monzo did have sufficient grounds to register this 
+marker. Ill explain why.
+Monzo received confirmation from another bank that Mr Gs account was used to receive 
+and pass on the proceeds of fraud. The money was sent on to a cryptocurrency platform.
+There were two payments to the cryptocurrency platform. The first was made using Mr Gs 
+mobile phone, at the same IP address he normally used, authenticated by his fingerprint. So 
+I am satisfied that Mr G authorised this payment. Given that his fingerprint was used, there 
+was no plausible or realistic way that the payment could have been made without his 
+knowledge or consent.
+The second payment was made using a second device. The device was registered to Mr Gs 
+account using a link sent to Mr Gs registered email address, and his accounts PIN. His PIN 
+was also used to authenticate the second payment. On the day of the fraud, it looks like 
+Mr G frequently switched between using his usual mobile phone on his normal IP address, 
+and this second device. There were sometimes only a few seconds between the uses of 
+each device in turn. It looks like the two devices were working together.
+There does not seem to be a likely or plausible way that someone unknown to Mr G could 
+have carried out the fraudulent activity, all without his consent. I dont see how they would 
+have been able to access his personal email, or his mobile phone  which did not go missing 
+and which he still was using afterwards  or how theyd learn his accounts PIN. And they 
+would not have plausibly been able to use Mr Gs fingerprint without his permission.
+It is possible that one of Mr Gs close family members could have found his security details 
+in his diary and gained access to his mobile phone. But again, I cant see how they would 
+have been able to authorise a payment using Mr Gs fingerprint without his knowledge or 
+consent. And understandably, Mr G does not think his immediate family did this, so it seems 
+that he has effectively ruled out this possibility too. So I dont think it is likely or plausible that 
+someone known to Mr G did this without his permission, either.
+Mr G said that he was unaware of his account being used, and that hed never used the 
+cryptocurrency platform. But as I explained above, the first payment to the cryptocurrency 
+platform was made using Mr Gs mobile phone and his fingerprint, so I think this was him. 
+And I can see he accessed his account from his mobile phone at his normal IP address very 
+frequently on the day of the fraud, in conjunction with the second device. So it looks like he 
+was aware of what was going on with his account at the time, too. But he didnt tell Monzo 
+anything was wrong at the time. He didnt speak to them until after the fraud and after his 
+account was closed, when he then denied all knowledge of what had gone on.
+Mr G suggested this was linked to an incident from some time before the fraud, where hed 
+had trouble logging in and asked Monzo for help. But I cant see any record of him asking 
+Monzo for help logging in before the fraud. And Im satisfied from Monzos technical 
+evidence that Mr Gs genuine mobile phone, PIN, secure token, and email address were 
+used here. I dont see a likely or plausible way that someone accessed his account without 
+his permission.
+Lastly, Ive not seen any evidence that makes it seem implausible or unlikely that Mr G 
+couldve authorised these payments or given someone else permission to make them.
+In summary, Im satisfied that Mr Gs genuine mobile phone, account PIN, email address, 
+and fingerprint were used to carry out the fraud. Based on the evidence, there isnt a likely 
+way that an unknown person did this, or that someone known to Mr G did this without his 
+permission. That leaves only one likely possibility  that Mr G forwarded on the fraudulent 
+money or gave someone else permission to do it. This is a difficult message for me to give, 
+and I know its a difficult message for Mr G to receive. But given the evidence I have, and the 
+balance of probabilities, Im unable to reasonably reach any other conclusion.
+So based on everything Ive seen, I currently think it was fair for Monzo to register the 
+appropriate marker at CIFAS. It follows that I also think it was reasonable for them to close 
+Mr Gs account, which they were allowed to do under the terms and conditions.
+I said Id consider anything else anyone wanted to give me. But both sides confirmed that 
+theyd sent in what they could and they didnt have anything further to provide.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and reasonable in the circumstances of this complaint.
+Neither side have sent me any new evidence or arguments. So having reconsidered the 
+case, Ive come to the same conclusion as before, and for the same reasons as set out in 
+my provisional decision above.
+My final decision
+I dont uphold Mr Gs complaint in this case.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr G to accept or 
+reject my decision before 14 July 2022.
+ 
+Adam Charles
+Ombudsman

@@ -1,0 +1,162 @@
+K820x#14complaint
+Mr Es complaint is that the trading platform for his Financial Spreads  (FS)   an appointed 
+representative (and trading name) of FINSA Europe Ltd. (FINSA)   trading account unfairly 
+prevented him from closing two trades  on 6 July 2015 despite  the availability of a market 
+(and prices)  to do so. FINSA  says the platform operated  fairly  and as it was supposed to, 
+based on its terms of service and given  the state  of the market on the day.
+background
+Mr E has explained as follows:
+He held two German DAX based short positions  which he sought to close in the 
+morning of 6 July, when the available prices were in favour of the positions.
+Between three and four minutes  after the market opened  he made  his first attempt 
+on the platform to close  the positions;  his trade was suspended, pending execution, 
+and then a message  was returned to say it could not be executed;  the available 
+prices remained in favour of the positions (and actually some  points better  than 
+before) so he made a second trade  attempt,  but had the same experience.
+He then telephoned FS to have the matter addressed.  The delay this caused  is at the 
+crux of his complaint. Time was lost in the course of him having to call FS, get 
+identified and give instructions to execute  his orders  and to compound this, he then 
+learnt that the official he had spoken  to had not performed  the execution  he said he 
+had. By the time his orders were  eventually executed, the price had gone against  his 
+positions and he had lost money.
+There was a liquid market for his trades  at the relevant times; that market was not 
+extraordinarily volatile  or disrupted  in any way; there was no reason why his online 
+trades should not have been executed when he placed them and at the price(s) he 
+sought to match  (or at the nearest available price(s))  FS was required to do this 
+under section 6.5 of its terms of service;  his trades should have been treated in a 
+manner akin to stop loss orders; in the alternative, he should  have been given online 
+price requotes for them; and if, as FS/FINSA  has since suggested, there  were  issues 
+with online executions  at the time the platform should have signposted  him to place 
+trades by telephone  (in which case he would have saved time by placing a telephone 
+trade(s) at the outset)   the platform did not do that.
+FS platform was unfit for purpose;  and evidence of trading activity undertaken by FS 
+competitors at the relevant time shows  that those other  firms platforms would have 
+executed his trades.
+FINSAs position  based on FS response to the matter in 2015 and then a response to the 
+complaint in 2019  is mainly as follows:
+Mr E had an execution only trading account  and he agreed to the relevant terms of 
+service in the course of opening  it.
+The result  of the Greek debt bailout  referendum was declared  on 6 July 2015; the 
+result produced the potential exit of Greece  from the European Union and market 
+uncertainty in this context; it meant  the opening  of markets (including the DAX index) 
+on this date was not normal   as the markets  reacted to this news event;  the DAX 
+index opened  with notable volatility on this day and its first three minutes  of trading 
+showed a price range across nearly 80 points; prices were available  so the 
+situation did not warrant greying out the market on its platform   but they were 
+Ref: DRN58712562moving so fast and in a wide range that trades could not be reliably executed without  
+manual verification of accurate execution prices, hence Mr Es platform experience.
+Mr Es reference to section 6.5 and to the notion  of executing trades at the nearest 
+available price  did not apply to his trade;  his online trade(s) was placed  to be 
+executed at a particular price on a fill or kill basis, whereby a trade is either 
+executed at the set price or, if that price  is not available, it is rejected; that this did not 
+allow for price slippage; the price(s) set in his online  trade(s) was not replicated in the 
+underlying, due to volatility  and the wide price range, at the time(s) it was placed.
+Its audit trail shows that, in terms of timings, there was a total of five minutes of 
+waiting time on Mr Es part before he eventually closed the two trades; his closure 
+instructions were not clear when he telephoned FS on the day.
+The relevant  terms of service support FS/FINSAs position.
+One of our investigators  looked into the complaint.  He considered  FINSAs points to be 
+broadly plausible but queried further about  evidence of the platform  prices at the exact times 
+Mr E placed  his online trades and about  the dramatic price movements it referred to. FINSA 
+said it no longer had the relevant price  feed record, due to the passage of time (around  five 
+years) since the event. It provided  tick data for the DAX index (the relevant time period on 
+6 July 2015)  from a Liquidity Provider which showed price differences of up to 36.5 points 
+per second  which would have been 18 times  its price tolerance level of two points per 
+second  hence the need for manual price verification as it explained.
+The investigator accepted FINSAs explanation  and concluded that the complaint should not 
+be upheld. He noted that no stop loss had been set by Mr E so the comparison he made in 
+this respect was not fair. He also referred to provisions in the terms of service stating that 
+trades are executed  if market conditions permit and that trades might not be executed  where 
+the underlying  market  is disrupted.
+Mr E disagreed with this outcome.  In the main,  he argued that after the first three minutes of 
+the markets opening the tick data evidence did not show the volatility  and dramatic price  
+range asserted by FINSA;  that the alleged price tolerance level of two points per second is 
+not stated in the terms of service; that reference  to the term about  market disruption is 
+misguided because  the market was not disrupted (and, at best, the term is unclear so it 
+should therefore be interpreted in his favour); that section  6.5 remains most relevant to (and 
+supportive of) his complaint.
+The matter  was referred to an ombudsman.
+my findings
+I have considered all the available evidence  and arguments to decide what is fair and 
+reasonable in the circumstances of this complaint.
+A number  of key points  and issues have been  addressed in the complaint thus far. My 
+conclusions on them (and the complaint) are as follows:
+Mr E is correct  in saying that the tick data evidence does not show  dramatic  volatility  
+or a dramatic price range  in the way that FINSA described  after three minutes of 
+market opening;  that the terms of service do not state the price tolerance  policy  of 
+two points per second; that the platform did not signpost him to place his trade by 
+telephone; and that an interpretation of section 6.5 is that it describes execution of 
+Ref: DRN58712563trades at nearest  available  prices. However,  for the reasons given  below, none  of 
+these points establish merit in his complaint.
+We have been given a copy of the telephone call recording that features Mr E calling 
+FS after his two failed  online  trading  attempts.  We have also been given a 
+spreadsheet record showing that his first online trading attempt  was at 3 minutes  55 
+seconds after the market opened  and his second attempt was at 4 minutes 49 
+seconds after the market opened.  
+During the call, first, Mr E identified his account  and referred to his difficulty in 
+executing the trades  online (initially some of what he says is inaudible then he is 
+clearer and can be heard referring to one of the trades  later he refers  to having 
+more than one to close); he was told that volatility at the opening  of the market  had 
+put prices beyond FS price tolerance, hence  the lack of online execution, and that 
+this had affected others; he was given the option of trying again online or taking a 
+quote during the telephone call; he opted  to try again online whilst he was on the call; 
+the FS official then confirmed that his attempt (for one of the two trades)  was 
+successful; the official  also pointed out to him that the position already had a linked 
+stop order attached to it so in Mr Es earlier attempt to close it that order was 
+triggered and was awaiting a fill (based on its setting); the call then ends, without    
+Mr E referring to or seeking  assistance  with the second position; it is also noteworthy  
+that there appeared to be a lack of urgency to trade on his part  that is, the sort of 
+urgency that can be expected from a pursuit  to trade  at a particular time and price  
+level  during the call, he did not accept the officials offer to quote/deal over the 
+phone (and instead  chose  to make a third attempt  online,  despite the two earlier 
+unsuccessful attempts) and he did not seek the officials  help with the second trade 
+(it appears that he executed that online after the call).
+The price tolerance  policy needed  not have been  explicitly within  the terms of service  
+in order to exist and in order to have  been legitimately applied. FS was entitled to an 
+internal operational (including  dealing)  protocol, policy and/or practice and to apply 
+them in the course  of its business. Its terms of service were unlikely to reflect all 
+aspects of its day to day operations and the management of those operations.  The 
+price tolerance policy appears  to have sat in this context  and, in the absence of 
+conflict between the policy  and the terms relied  upon and agreed to by Mr E, I do not 
+consider it unreasonable. The policy sought to address  FS operation in the event of 
+volatile or unreliable  prices and that was a reasonable thing to do.
+As Mr E has argued, the market began to settle  by the time it passed its third and 
+fourth minutes. The tick data evidence  supports  this. However,  as the official told him 
+during the call, the lack of online  execution was the platforms  reaction to the 
+dramatic volatility and price range (and therefore  price unreliability) from the opening 
+of the market. That dramatic volatility and price range   as described by FINSA and 
+supported by the tick data evidence (and additional evidence from Bloomberg that 
+was submitted)  happened from the opening  of the market and for the next two to 
+three minutes. FS fairly took measures  to ensure online  dealing did not take place if 
+online prices were  unreliable. 
+On balance, I do not consider it implausible  or unreasonable that the measures 
+limiting online execution for the first two to three  minutes of the market  and for good 
+(proven) reasons  during this period   continued  into the late third and fourth minutes, 
+even though the market  had begun to settle in this latter  period. It can now be said, 
+with hindsight, that the market began to settle (for a period) from the late third minute 
+however this would  not have been  known or certain at the time  so, as it appears, 
+the  measures  quite reasonably extended to the latter period.
+The balance of evidence   including the telephone  recording  also shows that the 
+order setting for Mr Es trades contributed to the difficulty he faced in closing them. 
+Ref: DRN58712564He did not dispute the officials comment in this respect  during  the telephone call 
+recording  so, on balance, I consider  that he understood the point the official  was 
+making. This is broadly consistent with FINSAs  complaint rebuttal point in which it 
+says pricing for the trades could not be slipped due to their order  price setting(s). In 
+this context, Mr Es reference  to section 6.5 becomes  redundant, as the notion  of 
+nearest available price  appears to have been  inapplicable  to his trades.
+I have not seen evidence that FS platform should have sign-posted Mr E to 
+telephone dealing. As FINSA said, prices were  available  but they were volatile at 
+opening, so it does not appear that the platform was defunct.  It should also be noted 
+that, as mentioned above, Mr E used the platform (eventually) to execute  both trades 
+ when prices appear to have become reliable and less volatile.
+FS was not bound by how its competitors were  executing trades at the relevant time. 
+I understand Mr Es comparison in this respect  but it does not establish merit in his 
+complaint.
+Overall, on balance and for the reasons given above  I am not persuaded to uphold Mr Es 
+complaint.
+my final decision
+I do not uphold  the complaint. Under the rules of the Financial Ombudsman Service,  Im 
+required to ask Mr E to accept or reject my decision before 12 July 2020.
+Roy Kuku
+Ombudsman
+Ref: DRN5871256

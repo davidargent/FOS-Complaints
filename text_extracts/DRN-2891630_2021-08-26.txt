@@ -1,0 +1,112 @@
+DRN-2891630
+The complaint
+K, a limited company, complains that WorldPay (UK) Limited unfairly deducted payments 
+from its account after chargebacks were raised against it. K wants WorldPay to refund the 
+transactions to its account.
+ 
+What happened
+WorldPay acts as Ks merchant acquirer and provides a card terminal for transactions to be 
+processed by K. 
+On 10 November, 19 November and 2 December 2020, three transactions were processed 
+using Ks terminal in-store. These transactions were later the subject of chargebacks from 
+the card issuer.
+K is unhappy that WorldPay didnt do more to warn it about what it needed to look out for 
+around fraudulent activities. K thinks that WorldPay owed it a duty of care to give better help 
+and support to avoid being the subject of fraudulent transactions.
+K was also unhappy about the time it took for WorldPay to alert it to the fraudulent 
+transactions. 
+The investigator didnt recommend that Ks complaint be upheld. He noted that the 
+fraudulent transactions were PAN-key entered and not chip and PIN. The investigator said 
+that the terms and conditions of Ks account with WorldPay placed the liability for fraudulent 
+PAN-key card transactions on the business accepting them. 
+K doesnt accept the investigators recommendation. It says it gave WorldPay evidence of 
+the transactions. K points out that as a small business its not enough for WorldPay to simply 
+rely on its terms and conditions and that more shouldve been done to alert it to the signs of 
+fraud. 
+K says that the investigator didnt deal with the question of the delay in notifying it about the 
+chargebacks.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Im sorry to learn that K has been the victim of fraud and lost money as a result. The person 
+who was responsible for Ks financial loss managed to carry out three transactions totalling 
+more than £500. It mustve been very upsetting for K to discover that the payments it thought 
+had been legitimately taken, were then returned through the chargeback process. So, I need 
+to consider whether WorldPay treated K unfairly in the way that it dealt with the 
+chargebacks.
+Chargeback payments are governed by the specific rules of the card scheme. And its 
+expected that WorldPay will abide by these rules when dealing with chargeback claims. The 
+agreements that WorldPay and K entered into then set out WorldPays obligations to K when 
+dealing with such claims. 
+Ive had a look at the terms and conditions of Ks agreement K with WorldPay together with 
+the Customer Operating Instructions (COI). And Im satisfied that its reasonable of 
+WorldPay to make K responsible for the chargebacks arising from the three disputed 
+transactions.
+Section 6 of the terms and conditions which deal with chargebacks and assessments says:
+6. CHARGEBACKS AND ASSESSMENTS 
+6.1 Each Chargeback and each Assessment represents a debt immediately due and 
+payable by you to us. 
+6.2 You acknowledge and agree that you may be required to reimburse us for Chargebacks 
+in circumstances where you have accepted payment in respect of the relevant Transaction, 
+even if you are under no legal liability in respect of the supply of the goods or services 
+concerned. 
+6.4 In the event you wish to dispute a Chargeback it is your responsibility (i) to prove to our 
+reasonable satisfactionthat the debit of the Buyers account was authorised by such 
+Buyer; and to provide us with such other evidence as we may require you to provide in 
+support of your claim. 
+6.5 Subject to the Scheme Rules, neither we nor any Other Financial Institution shall be 
+obliged to investigate the validity of any Chargeback or Assessment. 
+So, the terms and conditions of Ks agreement with WorldPay make it clear that K will be 
+liable for any successful chargeback. I do not find it was unfair for WorldPay to rely on them.
+I understand that K thought the transactions were authorised by chip and PIN but they were 
+actually PAN-key entered. This means that the Primary Account Number (PAN) was 
+manually keyed into the terminal by the customer. 
+The COI tells customers what to do when operating the merchant terminal. It says to never 
+magnetic-swipe the card or manually PAN-key the card number into your terminal to avoid 
+using the higher-level security features (such as chip and PIN) unless prompted to do so by 
+your terminal.if you swipe or key enter a chip card and the transaction is later found to be 
+fraudulent, the transaction may be charged back to you. 
+The COI says that if its customer does enter the PAN, its best practice to use a manual 
+imprinter to obtain an imprint of the card on a paper voucher and complete all details on the 
+voucher. The imprint of the card on the paper voucher proves that the card was present 
+when the transaction took place. In the event of a chargeback dispute this may be used to 
+attempt a defence. However, if found to be fraudulent, the transaction may still be charged 
+back to you. 
+K says that an authorisation code was generated during the transaction, but the COI 
+specifically says this does not confirm the authenticity of the card presenter or the card or 
+guarantee settlement of the transaction. The COI also says that authorisation does not 
+guarantee payment. It simply means that at the time of the transactions the card has not 
+been reported lost or stolen and that there are sufficient funds available. I appreciate that K wouldve liked WorldPay to provide more support than it did. Im satisfied 
+that when WorldPay notified K of each chargeback, it offered further assistance by telephone 
+and directed K to look online at the COI. 
+WorldPay has explained that it wouldnt have been able to successfully challenge the 
+chargebacks on Ks behalf. The only evidence it received about the disputed transactions 
+related to the first one made on 10 November 2020. K provided a terminal receipt by letter of 
+30 November 2020. WorldPay says it wasnt enough to support that the genuine card or 
+cardholder were present and party to the transaction. To do this, WorldPay wouldve needed 
+to see the imprint voucher as referred to in its COI. 
+WorldPay says it didnt receive any further evidence in relation to the second and third 
+chargebacks so it couldnt defend them on Ks behalf. But even if it had received the terminal 
+receipts at the time, WorldPay wouldnt have been able to defend the chargebacks for the 
+same reason as above  that the terminal receipts arent evidence that the genuine card or 
+cardholder were present.
+K says that it didnt receive WorldPays letter about the second chargeback until after the 
+third fraudulent transaction meaning it was too late to alert K and prevent the third 
+transaction taking place. I cant blame WorldPay for any delays in the postal system. And Im 
+satisfied that K had already received WorldPays letter about the first chargeback before the 
+third fraudulent transaction took place. This shouldve alerted K to a potential problem to look 
+out for. I cant find that WorldPay was at fault. 
+I appreciate that K will be disappointed with my decision, but I dont consider WorldPay 
+treated it unfairly when it decided not to go ahead and defend the chargebacks. Im satisfied 
+that WorldPay made information available to K to help it protect itself against fraudulent 
+transactions. The COI goes in to detail about reducing fraud, including the need for staff 
+training. It was up to K to familiarise itself with the relevant terms and operating instructions.
+I cant reasonably find that WorldPay shouldve done more than it did. It follows that I dont 
+uphold Ks complaint. 
+My final decision
+My final decision is that I dont uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask K to accept or 
+reject my decision before 23 September 2021.
+ 
+Gemma Bowen
+Ombudsman

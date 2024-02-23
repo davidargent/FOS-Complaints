@@ -1,0 +1,117 @@
+DRN-3964481
+The complaint
+Mr C is unhappy Lloyds Bank PLC will not refund the money he lost as the result of an 
+investment scam.
+Mr Cs complaint has been brought by a representative, for ease of reading I will refer solely 
+to Mr C in this decision.
+What happened
+Mr C has explained that in 2021 he made the following Faster Payments from his Lloyds 
+current account, for what he thought was a legitimate investment with a company Ill call K.  
+Transaction 
+number DateMethod of 
+payment Merchant Amount (£)Running 
+total
+1 28 April 2021Faster 
+Payment Binance £10 £10
+2 28 April 2021Faster 
+Payment Binance £1,000 £1,010
+3 18 May 2021Faster 
+Payment Binance £650 £1,660
+4 6 June 2021Faster 
+Payment Binance £2,300 £3,960
+5 29 August 2021Faster 
+PaymentPayPal *Media 
+SEO £894.06 £4,854.06
+6 23 September 2021Faster 
+PaymentGlobal DLT 
+Exchange £894.06 £5,748.12
+7 23 September 2021Faster 
+Payment Global DLT 
+Exchange£894.06 
+(Credit) £4,854.06
+8 25 November 2021Faster 
+Payment Coinbase £100 £4,954.06
+9 25 November 2021Faster 
+Payment Coinbase £2,750 £7,704.06
+                                                                                                                     
+Total £7,704.06 £7,704.06
+When Mr C subsequently got in touch with Lloyds to explain hed been scammed, Lloyds 
+didnt reimburse his lost funds. Remaining unhappy, Mr C referred his complaint about 
+Lloyds to this service. As our investigator couldnt resolve the matter informally, the case has 
+been passed to me for determination.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Its common ground that Mr C authorised the scam payments in question here. He was 
+tricked by scammers into instructing Lloyds to make the payments. So although Mr C didnt 
+intend the money to go to scammers, under the Payment Services Regulations and the 
+terms and conditions of his account, Mr C is presumed liable for his loss in the first instance. 
+Mr C didnt pay the scammers directly and instead sent the funds to legitimate crypto 
+exchanges; Binance, PayPal and Coinbase. From there, his purchased crypto was sent to 
+the scammers. So, I dont think the payees alone ought to have caused particular concern to 
+Lloyds. 
+That said, taking into account the law, regulatory rules and guidance, relevant codes of 
+practice and good industry practice, there are circumstances where it might be appropriate 
+for a bank to take additional steps or make additional checks before processing a payment 
+to help protect its customers from the possibility of financial harm from fraud and scams. But 
+there is a balance to be struck between identifying payments that could potentially be 
+fraudulent and minimising disruption to legitimate payments.
+In terms of prevention, given the size of the scam payments and the time and space 
+between them, Im not persuaded there would have been anything sufficiently suspicious 
+about these transactions for Lloyds to have been obliged to block the payments pending 
+enquiries with Mr C before letting them through. As Lloyds didnt interact with Mr C at the 
+material times the transactions were sent, Ive looked at whether there would have been any 
+other reason for Lloyds to have intervened. 
+In reference to the table in the background section of this decision; Transaction 1 was for 
+£10, I dont think this was unusual. Ive noted that Mr C says he didnt spend more than £200 
+on a monthly basis during the period of the scam but when considering Transaction 2, I cant 
+reasonably say that a single transaction of £1,000 being paid to an account in Mr Cs name 
+should have warranted further checks. I dont think this would have appeared unusual 
+enough when considering that customers from time to time, can make larger payments than 
+usual. Transaction 3 was sent almost three weeks after Transaction 2 and again, I dont 
+think the amount of £650 was all that unusual when considering Mr Cs normal account 
+activity. I recognise Transaction 4 was a larger single transaction when compared to how Mr 
+C normally uses his account but by this point, hed already made three undisputed payments 
+to the same payee over a five-week period and none of the transactions (nor the subsequent 
+transactions) depleted his account balance (which could be an indicator of fraud). I dont 
+think this payment was so unusual that Lloyds should have reasonably suspected Mr C was 
+at risk of financial harm from fraud. I dont think Transactions 5, Transaction 6 or Transaction 
+8 were unusual when considering Mr Cs normal account spend.  
+I recognise Transaction 9 was the largest single payment in dispute but by the time it was 
+sent (almost seven months after Mr C began sending money to crypto exchange accounts in 
+his name), the normal account activity for Mr C had changed. Hed made several undisputed 
+payments to crypto exchanges and therefore, the payment of £2,750 to Coinbase didnt 
+appear out of place when considering his payment history to crypto exchanges over several 
+months. And so, I dont find that this payment was unusual when considering how Mr C had 
+used his account in the seven months leading up to it. 
+Ive noted Mr Cs comments that his payments went to crypto exchanges but not all 
+payments to crypto exchanges are made as the result of a scam. And Lloyds needs to 
+balance its obligations to monitor and detect potential fraud whilst also allowing customers to 
+make payments as they wish. And sometimes, this will include customers making one-off 
+payments that are larger than usual. 
+Overall, I dont think Lloyds missed an opportunity to prevent any of Mr Cs losses. 
+Recovery
+Having decided the above, I could only uphold this complaint if I thought Lloyds 
+unreasonably hindered recovery of the funds and that this caused Mr Cs loss.In relation to the transactions to Binance and Coinbase, as Mr C didnt pay the scammers 
+directly and instead paid legitimate crypto exchange accounts in his name, his payments 
+would have been converted to crypto before being sent to the scammer. I therefore think 
+Lloyds had no reasonable prospect of recovering Mr Cs payments and if theyd tried, 
+Coinbase and Binance would have likely explained the funds had already been utilised. 
+In relation to the PayPal transaction (Transaction 5), Mr Cs only method of recovery through 
+Lloyds would have been via the Visa chargeback scheme. But as Mr C didnt report the 
+scam to Lloyds until January 2022, he would have been out of time for Lloyds to have 
+processed a chargeback claim. Visas required time limit for this payment would have been 
+120 days from the date of the transaction. And so Lloyds wouldnt have been able to process 
+a chargeback claim as Mr C contacted them more than 120 days after this transaction had 
+taken place. 
+Ive not considered recovery of the payment to Global DLT as this appears to have been 
+refunded to Mr C in the subsequent transaction. 
+I therefore dont think Lloyds could have recovered any of Mr Cs payments. 
+My final decision
+My final decision is, despite my natural sympathy for Mr Cs loss, I dont uphold this 
+complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr C to accept or 
+reject my decision before 27 July 2023.
+ 
+Dolores Njemanze
+Ombudsman

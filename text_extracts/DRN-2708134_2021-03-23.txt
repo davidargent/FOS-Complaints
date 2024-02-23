@@ -1,0 +1,174 @@
+DRN-2708134
+The complaint
+ Mr Z says Gain Capital UK Limited (Gain) unfairly cancelled a profitable short NZD/USD
+trade that was executed on 11 June 2015 and that it opened a long USD/JPY trade on the
+same date at the wrong price, leading to a loss. His complaint to, and pursuit of
+compensation from, Gain concluded without success in 2016. He complained again in 2019
+ also without success  and then referred the matter to this service.
+What happened
+ I issued a Provisional Decision (PD) in this complaint on 2 March 2021. My provisional 
+findings and conclusions were as follows:
+I share the investigators finding that Mr Z should be paid £200 for the trouble and upset
+caused by his experiences in the trades (especially the experience of seeing his profit in the
+NZD/USD trade cancelled despite the opposite showing on the platform) and caused by
+having to re-pursue his complaint in 2019 because Gain did not properly address the
+complaint in 2016  Gain treated it as a query and did not give the correct complaint referral
+notice at the time.
+My considerations differ from the investigators in terms of my findings on the two trades. I
+accept that the level of evidence this service would normally expect to be available in
+complaints about trade executions is not available in the present complaint. Nevertheless, a
+conclusion to Mr Zs complaint must be determined. The task before me is to give available
+evidence the weight they reasonably deserve and to reach a conclusion on the balance of
+probabilities.
+The NZD/USD Trade
+There is credible platform screenshot evidence showing that this short trade (opened
+on 11 June 2015 at the price of 0.71926 with a trade size of 2.1 lots) was executed
+and closed on the same date and at the price of 0.69868, generating a profit for Mr Z
+of $4,321.80.
+There is slightly conflicting evidence from Mr Zs account statement dated 19
+February 2016, which shows that the trade was closed (at 15:03:57) at the different
+price of 0.70081. However, I consider the screenshot evidence  which appears to be
+from the time of the trade  more reliable than the account statement which appears
+to be from eight months after the trade.
+There is no evidence to support Gains claim that no execution happened in the trade
+and/or that the platform presentation was erroneous and/or to explain, sufficiently,
+how the alleged error affected the platform.
+I do not discount the possibility of errors sometimes occurring on trading platforms.
+However, I cannot reasonably rest on a possibility to dismiss the inherent weight in
+the screenshot evidence. Evidence that the error alleged by Gain probably occurred
+is required. I have considered its argument about the difficulty Mr Z faced in trying to
+close the trade at the time. Gain says he faced that difficulty because of the error
+and/or because the trade had never been executed. However, there is no supporting
+evidence in this respect too and it is arguable that any type of technical problem  not
+necessarily a pricing related problem  could have caused the difficulty.
+Overall and on balance, I am faced with evidence of execution of this trade and a
+lack of evidence to the contrary, so I consider that the trade was executed as
+illustrated in the screenshot evidence and that Mr Z is entitled to the profit generated
+by the trade.
+The USD/JPY Trade
+It is not disputed that this long trade was opened at 15:14:01 on 11 June 2015 and
+closed around nine minutes later at 15:23:45 on the same date.
+Mr Z essentially says the opening price for the trade  124.781  could not have
+been accurate given that the platform price never reached this level at the time of
+execution or during the minute of execution between 15:14:00 and 15:15:00. In
+support, he has submitted another credible piece of platform screenshot evidence
+showing candlestick price data for the trade and for the minute of execution.
+The screenshot shows that the minute opened at the price of 123.618 and closed at
+the price of 123.628; and that in between the highest price reached was 123.628 and
+the lowest price reached was 123.613. I agree with the investigators view that tick
+data would be notably helpful additional information but in its absence, I consider this
+set of candlestick price data for the relevant minute to be enough.
+The next consideration is what the two-way pricing for the trade would have been at
+the time it was opened. The candlestick price data does not show this, but Mr Z has
+shared evidence that Gains spread for the USD/JPY currency pair was around 0.9
+points (or 90 pips). It is not clear if this evidence is from 2015 but, in the absence of
+evidence of the precise spread at the time the trade was opened on 11 June 2015, I
+consider this information a meaningful alternative. It is also broadly consistent with
+information presently available on the platform related website which says Gains
+minimum and typical spreads for the USD/JPY pair in 2019 were 0.6 points and 0.8
+points respectively.
+Using the above spread information, and based on the high price of 123.628, it
+appears that the highest buy price that probably applied to Mr Zs trade during the
+relevant minute was 123.628 plus 90 pips, which produces a price of 124.528. This
+does not match the price of 124.781 that was applied to the trade.
+On balance, I consider that the price of 124.781 was wrongly applied to open this
+trade and that, in the absence of evidence of what the precise price was, available
+evidence suggests it would probably have been no higher than 124.528.
+Fair compensation
+If the findings in this provisional decision are retained, my aim will be to return Mr Z to the
+position he would have been in if his NZD/USD trade had not been cancelled and if his
+USD/JPY trade had been opened at a price no higher than 124.528. In order to achieve this,
+I will be ordering Gain to do as follows:
+Pay Mr Z the amount of $4,321.80, as compensation for the profit from his NZD/USD
+(which was in the same amount) that was cancelled.
+Calculate how Mr Zs USD/JPY trade would have performed if it was opened at a
+price no higher than 124.528  or, for practical purposes, at the price of 124.528 
+and closed, as it was, at the price of 123.672 (which does not appear to be in
+dispute); use this calculation to adjust the loss he incurred in the trade; pay him the
+result of the adjustment (that is, a refund of the amount by which the loss is reduced).In addition, if my provisional findings are retained, I will be ordering Gain to pay Mr Z £200
+for the trouble and upset caused to him, as described above.
+If my provisional findings are retained, I will not be ordering the payment of interest, from 11
+June 2015, to Mr Z because evidence shows that his funds were engaged in trading, so I do
+not consider that he has been deprived savings related interest and there is no way of
+knowing what would have happened to his trading profits (or the total compensation amount)
+after 11 June 2015. However, I will be making provisions for interest to be paid from the date
+of my final decision if Gain delays in paying him the compensation I will order.
+Both parties were invited to comment on the PD. Mr Z accepted it. Gain did not, and said as 
+follows:
+It maintained its position that the NZD/USD trade was never triggered/executed and 
+that what Mr Z saw on the platform  illustrating the trade  was a visual error. In 
+support of this argument, it attached an excel document containing trading data for 
+Mr Zs account for 11 June 2015 and said no NZD/USD trade exists within the data. It 
+also attached day-end contract notes for his account and for the same date, and said 
+no NZD/USD trade exists within them.
+It questioned the legitimacy of the trading statements Mr Z has relied upon and said 
+they do not have  City Index branding or coded stamp.
+With regards to the USD/JPY trade, Gain referred the same day-end contract notes 
+as evidence of the details of its execution.
+Gains comments were shared with Mr Z and, in response, he considered that Gain had said 
+nothing meaningful with regards to the USD/JPY trade, so a further reply from him wasnt 
+warranted; that, with regards to the NZD/USD trade, Gain still has not explained the visual 
+error it alleges, despite opposing evidence in the form of the trade appearing in the trading 
+statement evidence he has submitted (showing a specific ticket number for the trade); and 
+that said evidence is legitimate, it was produced from the platform (with his account details 
+and trade details within) and Gain has shown no evidence to the contrary.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+ Having done so  especially including consideration of Gains response to the PD and the 
+documents attached to its response  I have not been persuaded to depart from my 
+provisional findings and conclusions. I incorporate those findings and conclusions into the 
+present decision. 
+I agree with Mr Zs observation about Gains response on the USD/JPY trade. I do not 
+consider that it conveys anything new. The details of how this trade was executed are 
+already known and they were reflected in the PD (as quoted above). The issue is that Mr Z 
+challenges the opening price applied to the trade and the PD found, upon analysis, that he 
+appears to have a legitimate challenge. In the absence of evidence to the contrary, I am 
+satisfied that Mr Z has a legitimate challenge against the opening price applied to the 
+USD/JPY trade and I draw this conclusion on the basis of the analysis set out in the PD.
+With regards to the NZD/USD trade, I am aware of Gains position on the matter and I note that it retains that position. I am not persuaded by its assertion, or suggestion, that previous 
+evidence about this trade cannot be relied upon. The PD referred to a platform screenshot of 
+the trade and to Mr Zs account statement of 19 February 2016  both of which showed the 
+trade. I preferred the pricing showed for the trade in the former over the slightly different 
+pricing showed in the latter because I considered the platform evidence to be more 
+contemporaneous, but the fact remains that both show that the trade existed  contrary to 
+Gains claim that it did not.
+The account statement of 19 February 2016 bears no notable indication of illegitimacy. As 
+Mr Z says, it shows his details (that is, name, account number, account currency setting, 
+account leverage setting) and then it shows around 14 pages of account transactions. It is 
+also headed with Gains full name/logo and I accept Mr Zs evidence that the statement is 
+presented as it was generated from the platform. Furthermore, the platform screenshot 
+evidence also bears no notable indication of illegitimacy. It is not clear how or why, in 
+contrast, the excel document Gain has now presented does not show the NZD/USD trade 
+and the same applies to the day-end contract notes. However, on balance, I am not 
+persuaded to dismiss the platform screenshot and account statement evidence that shows 
+existence of the NZD/USD trade; I consider them credible grounds to conclude that the trade 
+was executed at the relevant time; and, as I said in the PD, There is no evidence to support 
+Gains claim  that the platform presentation was erroneous and/or to explain, sufficiently, 
+how the alleged error affected the platform.
+In conclusion, I uphold Mr Zs complaint.
+Putting things right
+ Fair compensation
+My aim is to return Mr Z to the position he would have been in if his NZD/USD trade had not 
+been cancelled and if his USD/JPY trade had been opened at a price no higher than 
+124.528. In order to achieve this, I order Gain to do as follows:
+Pay Mr Z the amount of $4,321.80, as compensation for the profit from his NZD/USD 
+(which was in the same amount) that was cancelled.
+Calculate how Mr Zs USD/JPY trade would have performed if it was opened at the 
+price of 124.528  and closed, as it was, at the price of 123.672 (which does not 
+appear to be in dispute); use this calculation to adjust the loss he incurred in the 
+trade; pay him the result of the adjustment (that is, a refund of the amount by which 
+the loss is reduced).
+Pay Mr Z interest on the total compensation amount at the rate of 8% simple per year 
+from the date of this decision if Gain does not pay him the compensation within 28 
+days of being notified of his acceptance of this decision.
+In addition, I order Gain to pay Mr Z £200 for the trouble and upset caused to him, as 
+described in the quote from the PD above. 
+My final decision
+For the reasons given above, I uphold Mr Zs complaint and I order Gain Capital UK Limited 
+to compensate him as set out above and to provide him with a calculation of the compensation in a clear and simple format.  
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr Z to accept or 
+reject my decision before 20 April 2021.
+ 
+Roy Kuku
+Ombudsman

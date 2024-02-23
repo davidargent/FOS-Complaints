@@ -1,0 +1,196 @@
+DRN-4354745
+The complaint
+Mr T complains that TF Global Markets (UK) Limited t/a ThinkMarkets (TFGM) wrongfully 
+voided his trades.
+What happened
+Mr T opened an account with TFGM in 2017 through which he could trade Forex on its 
+platform. In November 2017 TFGM suspended his account, along with several others, and 
+voided his trades with the effect that he lost €75,930. 
+Mr T complained to TFGM but it didnt uphold the complaint. It explained that it had voided 
+Mr Ts trades because he had made off-market trades using an algorithmic system that took 
+advantage of price latency on its system. It said this was a breach of its terms and conditions 
+and referred to clauses 7.9 and 7.10 of those terms.
+Mr T referred his complaint to us and one of our adjudicators considered it but didnt think it 
+should be upheld. In short, on the evidence he thought it was more likely than not that Mr T 
+operating in collusion with other correlated accounts operating from shared IP addresses 
+using the same latency Arbitrage Expert Adviser (EA) system.
+The adjudicator wasnt persuaded that because Mr T held positions for an average of just 
+over two hours and also made a lot of loss-making trades this meant his trading was 
+legitimate as he argued. The adjudicator said that if he was using a latency pricing EA 
+system he could select prices from TFGMs platform that were lagging behind the actual 
+market price and he could enter either a buy or sell trade in the trend direction he chose at 
+an advantage over the actual market price the second he placed the order.
+Mr T didnt agree with the adjudicator. In summary he said he didnt understand why it had 
+been stated he was colluding with other account holders he didnt know. He also said that he 
+hadnt allowed a friend to trade for him as stated and had simply told a friend about his own 
+trading. 
+Mr T said that TFGM had unjustifiably deducted €75,930 from his account and that it needed 
+to show the basis for this deduction. He said that TFGM had only shown some trades he had 
+made which may have involved price latency and the adjudicator had made a wrong 
+decision based on this.
+As Mr T didnt agree with the adjudicator the matter was referred to me for decision. I didnt 
+think the complaint should be upheld and issued a provisional decision explaining why, the 
+findings from which are below. 
+My role is to determine Mr Ts complaint by reference to what is, in my opinion, fair and 
+reasonable in all the circumstances of the case based on the information provided by the 
+parties and taking into account relevant: law and regulations; regulators rules, guidance and 
+standards; codes of practice; good industry practice at the time - where I consider it 
+appropriate to do so. 
+I have considered what happened carefully and whether TFGM did anything wrong in 
+suspending Mr Ts account and voiding all his trades, thereby deducting the profits he had 
+made through his trading.
+It is TFGMs case that it voided Mr Ts trades because he took advantage of price latency 
+and the trades were off-market trades. It relied on its terms and conditions in doing so. In its 
+FRL it referred to clauses 7.9 and 7.10 which it said allowed it to take the action it did in 
+respect of Mr Ts account. I set out the clauses below and have highlighted in bold the key 
+parts.
+Clause 7.9
+ As a client of ours you hereby accept that the prices quoted by other companies may not 
+be relied upon by you in respect of your Account(s) with us and that we reserve the right to 
+decline any quote or refuse to be bound to any contract, including those arising from any 
+manipulation of the quoting mechanism or our Services generally, notwithstanding our 
+undertaking to provide a clear and fair service to you without barriers at all times.
+Clause 7.10:
+Internet connectivity delays and price feed errors may create a situation where the prices 
+displayed on the trading platform do not accurately reflect market rates. ThinkMarkets does 
+not permit the practice of arbitrage, nor does it allow Client to take advantage of price 
+latency. Transactions that rely on price latency or arbitrage opportunities may be 
+revoked at our discretion. ThinkMarkets reserves the right to make the necessary 
+corrections or adjustments on the Account(s) involved, including, but not limited to, 
+withholding any profits made by Client while using these trading tactics. Accounts that 
+rely on arbitrage strategies may at the sole discretion of ThinkMarkets be subject to 
+ThinkMarkets intervention and approval of any Transactions.
+There are other clauses within the terms and conditions which also gave TFGM the right to 
+void trades in certain circumstances, which I set out below.
+Clause 7.8:
+We reserve the right to refuse any trades placed by you that we judge to be clearly 
+outside the prevailing market price such that they may be deemed non-market price 
+Transactions, whether due to manifest error or stale, incorrect, or broken price feeds. 
+Where we have opened or closed a trade before becoming aware of the price disparity, we 
+may at our absolute discretion either treat that trade as void
+Manifest error is defined as:
+An error, omission or misquote (including any misquote by our dealer) which by fault of 
+either of us or any third party is materially and clearly incorrect when taking into account 
+market conditions and quotes in Markets or Underlying Instruments in the prevailing market 
+at that time. It may include an incorrect price, date, time, Market or currency pair or any error 
+or lack of clarity of any information, source, commentator, official, official result or 
+pronouncement.
+Clause 18.2.1:
+When ThinkMarkets executes a Transaction on the Clients behalf, ThinkMarkets may buy 
+or sell on securities exchanges or directly from or to another financial institution shares or 
+units in the relevant instrument. The result is that when the Client places Transactions with ThinkMarkets the Clients Transactions can have an impact on the external market for that 
+instrument in addition to the impact it might have on ThinkMarkets price. This creates a 
+possibility of market abuse.
+Clause 18.2.2:
+You represent and warrant to ThinkMarkets and agree that each such representation and 
+warranty is deemed repeated each time you close and open a Transaction and each time 
+you place or cancel an Order that:
+(a) You will not place and have not placed a Transaction with ThinkMarkets or otherwise 
+behaved, no will you behave in a manner that would amount to market abuse and/or 
+market manipulation by you (or by you acting jointly or in collusion with other 
+persons).
+(b) You will not have placed a Transaction or order that contravenes any primary or 
+secondary legislation or other law or regulatory rule including in relation to insider 
+dealing or any corporate finance activity.
+Clause 18.2.3:
+In the event that you place any Transaction or order in breach of any of the 
+representations or warranties given above, or ThinkMarkets has grounds for 
+suspecting that you have done so, ThinkMarkets may, in our absolute discretion (and 
+with or without giving you notice): (i) close the Transaction or order and any other 
+Transaction or orders that you may have open at the time; (ii) enforce the Transaction 
+against you ; or (iii) treat all your Transactions as void, unless and until you produce 
+conclusive evidence that you in fact have not committed the breach of the representations 
+and warranties above.
+Clause 18.2.4:
+The exercise by ThinkMarkets of its rights under this clause shall not affect any other right 
+of ThinkMarkets, under this Agreement or law, whether in respect of that Transaction or 
+order, or any other Transaction or order.
+Contractual discretion
+In summary, clause 7.8 gives TFGM the right to void a trade it judges is outside the 
+prevailing market price such that they are deemed to be non-market prices. Trades that 
+involve price latency or arbitrage would be outside the prevailing market price and as such 
+would fall within the clause.
+Clause 7.10 specifically prohibits arbitrage and taking advantage of price latency and gives 
+TFGM the right to revoke transactions which rely on either of those practices, as well as the 
+right to make corrections or adjustments to the account.
+Clause 18.2 also allows TFGM to void all transactions where it has grounds for suspecting 
+that a client has placed a transaction that would amount to market abuse or market 
+manipulation.
+The above clauses dont require that TFGM establish Mr T has in fact traded using price 
+latency or arbitrage or otherwise carried out non-market trades before taking action under 
+the clauses. Rather, they provide TFGM with a contractual discretion to take a number of 
+steps  including treating trades as void and making corrections or adjustments to the account - where it judges such practices were being used.
+It has to exercise this contractual discretion honestly and in good faith without arbitrariness, 
+capriciousness, or irrationality. This is commonly referred to as the Braganza duty set out in 
+the case of Braganza v BP Shipping Limited (2015) UKSC 17.
+So, in making my findings I dont need to decide whether it is more likely than not the trades 
+Mr T made did or didnt take advantage of price latency, arbitrage or were otherwise non-
+market trades  or involved market abuse or manipulation. I just need to decide whether 
+TFGM exercised its contractual discretion in accordance with its Braganza duty.
+Mr T has said that TFGM has only shown some trades that might have involved price 
+latency. He analysed his trades based on the length of time they remained open. For those 
+trades held for less than 30 seconds his overall position was shown as negative with the 
+majority of his profit being shown as resulting from holding trades open for more than one 
+hour.
+Mr T argues this shows he wasnt trading using arbitrage. I acknowledge that arbitrage is 
+typically referred to where there is simultaneous or near simultaneous opening and closing 
+of a trade to take advantage of a difference in price between markets . However, regardless 
+of this the terms I have set out above dont limit TFGM to taking action only where there is 
+arbitrage. They allow it to take action where it reasonably thinks trades have taken 
+advantage of price latency, were non-market trades or involved market manipulation. 
+In short, the point it makes is that if a trade was opened with the benefit of latent pricing on 
+its system and was kept open longer to take advantage of the price continuing to move in the 
+right direction, Mr T benefitted from the latent pricing at close regardless of the length of time 
+the position was held.
+The evidence that TFGM had available at the time that led it to void Mr Ts trades was based 
+on an analysis of his trades and of the IP addresses used for his account.at the time. It has 
+provided a spreadsheet that provides a snapshot of one days trading in GBPUSD with the 
+open and close prices compared to the market price. 
+The trades themselves show a mix of winners and losers and varying times for how long 
+positions remained open for both. I can see no obvious pattern in the trades, with reasonably 
+significant losses and profits resulting from trades held for varying lengths of time. TFGMs 
+says that Mr T used a sophisticated and malicious system of trading that disguised his 
+trading so that it didnt look like standard arbitrage but instead had extended hold times and 
+a mixture of winners and losers. 
+Having extended hold times and a mixture of winners and losers would also be the case if a 
+client was trading in accordance with the terms, but the spreadsheet also shows open and 
+close prices based on non-market prices. It is the fact that Mr T took advantage of non-
+market prices together with TFGM identifying that his account was being accessed through 
+different IP addresses in various locations that led TFGM to exercise its rights under the 
+terms and conditions to void his trades. 
+I think in the circumstances, based on the information it had at the time, TFGM complied with 
+its Braganza duty  in other words it didnt exercise its contractual discretion arbitrarily, 
+capriciously, or irrationally. I therefore think TFGM acted fairly and reasonably in voiding Mr 
+Ts trades when it did.
+TFGM has also provided expert evidence it obtained in May 2018 which I have considered. 
+The opinion of the expert is that the accounts it analysed, which included Mr Ts account, were using a latency arbitrage strategy designed to exploit a weakness in TFGMs platform.
+It identified that Mr Ts account was accessed from various IP addresses in multiple 
+locations, as TFGM had already identified. However, it goes further and established that 
+other accounts, which also took advantage of price latency on TFGMs system, were linked 
+to the same IP addresses. 
+This information was obviously obtained after TFGM had taken the decision to void Mr Ts 
+trades, so wasnt information that was taken into account by it in the exercise of its 
+contractual discretion and as such cant be relied on by it in support of it having complied 
+with its Braganza duty. It does, however, support my conclusion that it was fair and 
+reasonable for TFGM to have voided Mr Ts trades because it supports the allegation TFGM 
+made that he was trading in breach of the terms.
+I subsequently wrote to the parties to clarify that I considered that transactions that were 
+judged to be arbitrage or involve price latency would also be transactions falling within 
+clause 18.2 as market manipulation. I gave the parties the opportunity to provide further 
+evidence or information they wanted me to consider before making my final decision but 
+neither party responded.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+As neither party has provided a response to my provisional decision there is no basis for me 
+changing the findings I made, which form part of this final decision.
+In summary I am satisfied that TFGM exercised its contractual discretion to void Mr Fs 
+trades in accordance with its Braganza duty  without arbitrariness, capriciousness, or 
+irrationality  and as such it didnt do anything wrong.
+My final decision
+I dont uphold this complaint for the reasons I have set out above. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr T to accept or 
+reject my decision before 16 October 2023.
+ 
+Philip Gibbons
+Ombudsman

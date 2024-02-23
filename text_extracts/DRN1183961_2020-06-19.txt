@@ -1,0 +1,92 @@
+K820x#14complaint
+U, a limited company,  complains that Barclays Bank UK PLC wont  refund an online 
+payment that it didnt  make or authorise.
+background
+In February 2018  U tried to make a payment  from its account using online banking. It had 
+difficulty in logging into its account using its debit card,  PIN sentry  device and code. On the 
+third attempt, about 45 minutes  later,  it successfully logged  in and made a payment. Later in 
+the day, it checked the account  to see if it had received some money that it was due. It then 
+noticed that a payment for just over £4,800 had been made from its account. A week or so 
+later U found out its computer had been  infected  with malware.
+Barclays investigated but it declined to refund the money. It said that U had used its card, 
+card reader and online  banking (OLB)  security  details to log in. It couldnt see where any of 
+these details may have  been compromised. It hadnt  found  any evidence  of malware. It 
+found that both the disputed and genuine  payments  had been made from the same  IP 
+address.
+Our adjudicator didnt  think that any malware would act before U had logged  into the 
+account. She thought it most likely  that U had authorised the payment from a different 
+computer.
+U disagreed. It said, in summary,  that:
+it only owned and had access to one computer
+it had used an IT specialist who confirmed the computer had been infected with malware
+the type of malware  was a Trojan, which allows the attacker, among other things, to 
+capture the window,  write data remotely and create a process without showing a window.
+my provisional findings
+After considering all the evidence,  I issued my provisional decision on this complaint to U 
+and Barclays on 16 April 2020. I summarise  my findings:
+U had difficulties logging into its OLB.  It took it almost an hour to get into its account.
+Later that day when  it checked its account  it saw a payment out of the account that it 
+didnt recognise.
+Barclays can hold U liable for the disputed  payment if the evidence suggests  its more 
+likely than not that it made or authorised it.
+I was satisfied that the payment  was authenticated. Authentication is the use of a 
+procedure by which a bank is able to verify the use of a specific  payment instrument,  
+including its personalised security features.
+Whoever made the payment  used the correct  OLB security details. But that on its own 
+isnt enough for Barclays to hold U liable. 
+Ref: DRN11839612Barclays said that it wasnt  able to find a point of compromise to Us OLB details or its 
+card. As the same IP address was used for both payments,  it considered either U made  
+or authorised the disputed payment. Its systems hadnt detected any malware  and there 
+wasnt any evidence to suggest a third party had been able to access the account.
+Barclays accepted  that the browser used for the disputed payment was different to Us 
+normal browser, as was the language settings. The cookie was also different for the 
+disputed payment to the one that was usually used.  It suggested that U may have used a 
+separate computer  on the same network  to make  the payment.
+Us director had consistently  said that it only has one computer. It provided a report  from 
+an IT specialist  to show that its computer  had been infected with malware  just two days 
+before the disputed  payment was made.  This happened when Us director  opened an 
+invoice from what he thought was one of his suppliers.
+Barclays still thought  there was no unauthorised  third party access.  It said the IP address 
+and cookies used  to complete both the disputed and genuine payments were the same.
+Us IT specialist  said that the malware on Us computer  was a Trojan that, amongst other  
+things, writes data over a remote  process and creates  a process without  showing a 
+window. I thought it was likely that the malware was activated  when U tried to log in, 
+using its usual OLB security, including its card and PIN sentry  device and this was when 
+the security information could have been  compromised. 
+I considered it was possible that the malware allowed an unknown third party to remotely 
+hijack Us OLB session and then gather  the required information to make  this 
+transaction. Given the circumstances  behind the payment here, I also consider it was 
+possible for the malware to have remotely  compromised Us computer so it appeared 
+that access to OLB was from Us computer using Us own IP address. 
+Having looked  at Us online banking history from the beginning of 2018  until the end of 
+the year and beyond  I found that the same IP address was used for both the genuine  
+and disputed transaction. But the cookie used to complete the disputed transfer was 
+different to the cookie used for the genuine  payment and all the other online activity  
+throughout the year. The browser (and language) used was different for the disputed  
+transaction but reverted to the usual one for the genuine payment and subsequently.
+I accepted that a different computer  could have been used to make the payment. But 
+taken with Us testimony about the difficulties it had in logging  in to OLB and the 
+evidence that there  was malware  on its computer I think it was more likely  than not that 
+U activated the malware when it tried to log on and this explains why a different browser, 
+cookie and language settings were  used just for the disputed  payment. And I think  that 
+this could have  occurred without Us director being aware of what  was happening.
+Subject to any further representations from U or Barclays, my provisional  decision was that 
+there wasnt enough evidence to show that U authorised the transaction  so I didnt consider 
+that Barclays could  hold it liable. I considered Barclays should refund the disputed  
+transaction and the related charge and pay simple interest at 8% on that amount refunded.
+Both U and Barclays accepted my provisional decision.
+Ref: DRN11839613my findings
+Ive considered all the available  evidence  and arguments to decide  whats  fair and 
+reasonable in the circumstances of this complaint.
+As neither U nor Barclays has provided any fresh information or evidence  in response to my 
+provisional decision I find no basis to depart  from my earlier conclusions.
+my final decision
+My final decision is that I uphold this complaint. I require Barclays Bank UK PLC to:
+refund  the disputed  transaction  and the related charge
+add simple interest at a rate of 8% per annum  from the date of the transaction to the date 
+of settlement.
+Under the rules  of the Financial Ombudsman Service,  Im required to ask U to accept or 
+reject my decision  before 19 July 2020.
+Karen Wharton
+ombudsman
+Ref: DRN1183961

@@ -1,0 +1,75 @@
+DRN-4240701
+The complaint
+Miss S has complained that Revolut Ltd wont refund transactions she says she didnt make 
+or otherwise authorise.
+What happened
+In early 2023, two bank transfers were made using Miss Ss mobile banking app, totalling 
+£450.
+Miss S says this wasnt her. She said her phone was hacked and disabled. Her phone was 
+with her at the time, it was never lost, it was locked with a code, no one else had access to it, 
+she hadnt received any unusual contact, clicked any unusual links, or downloaded any new 
+apps recently, and shed never shared her app or security details with anyone.
+Revolut held Miss S liable for the payments in dispute. They found theyd been made using 
+her genuine phone and security details along with one-time passcodes, and there didnt 
+seem to be a likely way this couldve been done without her consent.
+Our investigator looked into things independently and didnt uphold the complaint. Miss S 
+didnt agree. She particularly felt that the transactions hadnt been authenticated properly 
+and that they must have come from a different IP address to hers. She asked for an 
+ombudsman to look at the case afresh, so the complaints been passed to me to decide.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Broadly speaking, Revolut can hold Miss S liable for the payments in dispute if the evidence 
+suggests that she authorised them.
+Im satisfied from Revoluts technical evidence that the payments in dispute used Miss Ss 
+genuine mobile phone and app, her correct security details, and one-time passcodes that 
+were sent to her mobile phone number. So I can see that these transactions were properly 
+authenticated. The question, then, is whether the evidence suggests that its most likely 
+Miss S consented to the transactions, or not.
+The disputed payments were made using Miss Ss mobile phone  not any other device. 
+This phone was with Miss S at the time, hadnt gone missing, was protected by a code, and 
+only she had access to it. I can see that Miss S had access to this phone at the time as she 
+used her Revolut app just minutes after the disputed payments. So theres no likely or 
+plausible way that anyone else couldve been using her phone in person.
+Ive also considered the possibility that Miss Ss app was accessed remotely  i.e. that she 
+was hacked, as she suggested. But Miss S told Revolut she had not received any unusual 
+contact, clicked any unusual links, downloaded any new apps, shared any of her details, 
+used any shared wallets, shared her account, or anything like that. So its unclear how she 
+could have been hacked. And these payments were properly authenticated using Miss Ss 
+security details, which only she knew. There doesnt seem to be a likely or plausible way a 
+thief couldve learned those details without Miss Ss consent. Further, the payments were 
+made from the same IP address that Miss S used for her genuine spending and activity. The 
+technical data does not show that anyone other than Miss S made the disputed payments. 
+I find its not likely or plausible that the payments were made through hacking.
+Miss S said that her phone had been effectively disabled. But I can see that she used her 
+phone and mobile app to make a genuine payment straight after the disputed payments, to a 
+person shed paid many times before. She then used her phone to chat with Revolut and 
+carry out other genuine activity a couple of minutes after that. So I can see that her phone 
+was working and she was able to access her app at the time.
+Miss S said that she wasnt asked for any confirmation for these transactions or given any 
+warning. However, I can see that she was sent one-time passcodes to her mobile phone 
+number to check whether she really wanted to make these payments. These passcodes 
+were then entered to confirm the transactions and let them go through. And before letting her 
+make the payments, Revolut also displayed a warning that she should make sure she knows 
+and trusts the payee, as they might not be able to recover her money, and if shes unsure 
+then she shouldnt make the payment. Its recorded that Miss S chose to proceed.
+I mightve expected a thief to try to take as much money as possible, as quickly as possible. 
+But here, there were no further attempts to pay the disputed payee, and the majority of 
+Miss Ss balance  a significant sum  was left untouched. This also tends to indicate that 
+the disputed payments were not made by a thief or fraudster.
+Lastly, Ive not seen any evidence that makes it seem implausible or unlikely that Miss S 
+couldve authorised these payments or given someone else permission to make them.
+In summary, Im satisfied that Miss Ss genuine phone, app, and security details were used, 
+along with one-time passcodes sent to her genuine number. There is not a likely or plausible 
+way that someone couldve made these payments without her consent, and the way the 
+activity took place indicates that it was genuine. So it seems fair for Revolut to decline a 
+refund in this case. This is a difficult message for me to give, and I know its a difficult 
+message for Miss S to receive. But given the evidence I have, and the balance of 
+probabilities, Im unable to reasonably reach any other conclusion.
+My final decision
+For the reasons Ive explained, I dont uphold Miss Ss complaint.
+This final decision marks the end of our services consideration of the case.
+Under the rules of the Financial Ombudsman Service, Im required to ask Miss S to accept 
+or reject my decision before 27 September 2023.
+ Adam Charles
+Ombudsman

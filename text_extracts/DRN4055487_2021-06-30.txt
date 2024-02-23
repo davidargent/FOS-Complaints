@@ -1,0 +1,317 @@
+K821x#15complaint
+Mr S complains that PayPal Europe  Sarl & Cie, SCA treated him unfairly in respect of 
+payments he was expecting to receive  for his business that were intercepted by a third party.
+background
+Mr S is a sole trader, running  a retail business  Ill refer to as B. Much of Bs economic activity 
+is conducted through an online retail  platform operated by a third party, C. B receives 
+payment for goods sold via C, usually by means  of electronic money (e-money) transfers 
+made using  PayPal.
+In 2018 Mr S was alerted to the fact that the PayPal  account B used to receive customer  
+payments had been replaced by another PayPal  account operated by an unknown party (or 
+parties). As a result, while  Bs customers had paid for their orders, and B had received and 
+fulfilled those orders, B hadnt  received  their payments and was significantly  out of pocket.
+Mr S notified  PayPal and C to prevent  any further  loss. He was also able to establish  that the 
+problem had been occurring for around  three months, using other  PayPal accounts. He says 
+that C told him it couldnt assist. When Mr S approached  PayPal, it told him that its Seller  
+Protection policy didnt  cover the issue,  and that whatever funds it had been able to locate in 
+the receiving accounts would  be returned  to the sending customers. PayPal suggested  Mr S 
+could then contact  his customers to let them know what had happened, and to arrange 
+further payment.
+Mr S was unhappy with PayPals approach.  He noted that it would mean his customers 
+would be in possession  of both the goods  and the payment. He also felt that this would 
+cause him a great amount  of difficulty and reputational damage to B, as he didnt  have 
+details of which of Bs customers PayPal  had refunded. Mr S had a further concern over the 
+way the situation had been allowed to develop and enable  a fraudster to intercept his 
+payments. He estimates his overall loss to be in the region of £8-10,000 and wants PayPal 
+(or C) to reimburse him; however, each of them appears to attribute responsibility to the 
+other.
+my provisional findings
+I recently issued my provisional  decision to both parties, setting out my thoughts on the key 
+complaint points and how best I thought matters should be resolved. In my provisional 
+findings, I said:
+Based on what Mr S has said in his complaint correspondence, it seems to me the 
+key strands of Mr Ss complaint are:
+He is concerned about the compromise  of the trading platform with C, and it 
+isnt clear how this happened. He thinks its possible the point of compromise 
+could have been through PayPal. PayPal considers the breach to have  
+happened at C
+PayPal treated him unfairly by deciding to return Bs customers  money 
+despite B having sent goods.  This has left him significantly out of pocket, and 
+following PayPals suggestion  that he approach Bs customers  to resend 
+payment would cause  B reputational damage.
+Ref: DRN40554872was PayPal responsible for the compromise  of the trading platform?
+Bs account with Cs trading platform was accessed by an unknown third party  (or 
+parties). Whoever accessed it then amended the details  for receiving payments, 
+using several PayPal accounts held in different names.
+Ive not seen anything that leads me to conclude that whoever accessed the trading 
+platform was able to do so because of a security failure, or indeed  any other action, 
+on PayPals part. It also seems to me more  likely  that, if Mr Ss PayPal account  had 
+been compromised, there might have been  some transactional  activity  there. 
+However, theres nothing  to suggest  that was the case. My provisional finding here is 
+that PayPal wasnt  responsible for the compromise  of the trading  platform.  I make  no 
+finding about any other party involved in the activity.
+did PayPal treat Mr S unfairly?
+At the outset, I think its important to say that Mr S brings his complaint  as a customer 
+of PayPal, rather than as a payment services user. While  I dont doubt  Bs customers  
+thought they were sending payment to B when they bought their goods,  it couldnt 
+properly be said that B (or by extension,  Mr S) was the payee as the payment service 
+user definition requires.  However, Mr S doesnt  seek to complain that PayPal failed to 
+apply the payments in line with the instruction  it received. Rather, his issue  is with 
+PayPals actions towards him as its customer, who was seeking to have money 
+PayPal controlled  applied to his account.
+Im currently  minded to conclude that the circumstances  at play in this case mean  the 
+funds PayPal was able to recover from the third party accounts were held on 
+constructive trust. PayPal  controlled  that trust, and in doing so it decided  to return the 
+money to the original  senders, although  Mr S had made PayPal aware that B had 
+fulfilled their orders.
+Ive thought carefully about the reasons  PayPal  has given for doing  so. The User  
+Agreement and Seller Protection Policy PayPal cited in its responses to Mr S, and 
+later to us, doesnt seem  to offer any persuasive  evidence in this respect, as it 
+doesnt cover the matter  at hand.  However, PayPal has since  stated its view that it 
+was obliged to return the payments due to provisions  of the Payment Services 
+Regulations 2017 (PSR2017)  that deal with unauthorised  payments.  I accept  the 
+point that the PSR2017  make such a provision for unauthorised payments. So its 
+necessary for me to consider whether PayPal is correct in its assertion that the 
+payments were unauthorised.
+PayPals foundation for its view that the payments were unauthorised is that Owing 
+to the fact that the funds  were transferred due to unauthorised activity on the [C] 
+platform (which  has been  acknowledged and accepted  by [C]), it follows that the 
+payments from the buyers were not properly authorised by the buyers/payers.  This 
+position appears to me somewhat flawed. It effectively argues that, as there was 
+some sort of unauthorised activity going  on, all connected activity  must also be 
+considered unauthorised. I dont think that does automatically follow, and in my view 
+its more relevant to consider what the PSR2017 cited by PayPal says about 
+authorised payments:
+Ref: DRN4055487367.(1)  A payment  transaction  is to be regarded as having been authorised 
+by the payer  for the purposes of this Part only if the payer has given its 
+consent to
+(a)the execution of the payment transaction
+I dont believe theres any question here over whether Bs customers  consented to 
+the execution  of their payment transactions. They might not have done so if theyd 
+known their money was instead being sent to a fraudster and there was a chance 
+they wouldnt receive what theyd bought. But I dont understand any of Bs 
+customers to have  either disputed receiving  the goods theyd ordered or to 
+consenting to make payment. Nor has PayPal sought to provide evidence of either  of 
+those things occurring.
+Based on the definition  set out in PSR2017 Regulation 67(1)(a) then, Im minded to 
+conclude that the payment transactions should  be regarded  as authorised. So I cant 
+rightly accept PayPals assertions that the payments were unauthorised and that they 
+were under a PSR2017  obligation to return them to the senders.
+So how should  PayPal  have exercised its control over the funds in the trust? It had, 
+in Mr S, a genuine account holder who was apparently able to provide  evidence to 
+support his claim on the funds in question. Ive asked PayPal whether it had any 
+competing claims from the senders of the money, or from any other parties who had 
+similarly fallen  victim to the third party users who accessed Mr Ss trading platform. It 
+hasnt offered anything  to suggest that it received  any such  claims.
+If PayPal wasnt satisfied  that it should  pay the money over to Mr S, or that it wasnt 
+able to do so because it didnt possess the appropriate authority, then at best, it 
+should have retained control of the funds until such point as ownership  was properly 
+determined. Instead,  it elected to return money  to the senders and doesnt appear to 
+have had good reason  for this course  of action. Im currently satisfied that by doing 
+so, it interfered with Mr Ss ability to receive  payment  for the goods  B had 
+despatched, making  it more difficult for him to recover the money  and potentially  
+exposing his business to reputational damage. My provisional conclusion, therefore,  
+is that PayPal failed to treat Mr S fairly  in this respect.
+Mr S has estimated Bs lost revenue in the region of £8-10,000.  It would seem that 
+the third party  activity had been ongoing for quite some time before Mr S became 
+aware of it. He has been able to provide  in confidence  information  from 2018 
+relating to around 500 of Bs customer transactions totalling £4,910. PayPal has said 
+that by the time it was alerted to the transaction activity, it was able to retrieve US$ 
+1,286.23 (about £980 at the time), which it returned to the senders.
+While I dont doubt that B has lost a significant  amount due to the actions of the third 
+party, the available evidence doesnt  suggest  to me it would be fair to hold PayPal 
+liable for much of that loss. As Ive said, Ive seen  nothing  that leads me to conclude 
+PayPal was responsible for the way in which the third party was able to access Bs 
+trading platform.  Mr S might be able to seek recovery  from C, but C isnt subject to 
+my jurisdiction and its not for me to suggest  how such a claim might be pursued.  Mr 
+S might wish to seek legal opinion on any steps  he can take in this regard.
+Ref: DRN40554874Nor am I persuaded  that it would be fair for me to say PayPal should contribute  
+towards the business loan Mr S says he took out to assist with business cashflow. I 
+accept Bs cashflow was adversely affected  by the loss. But the amount to which  
+PayPal could fairly be held responsible for that overall loss, combined with the delay 
+between the events in question and the point at which Mr S entered into the loan, 
+dont suggest  to me theyre sufficiently closely connected to propose an award  
+relating to this borrowing.
+But I dont think PayPal  dealt with Mr S fairly when it took the decision to return  the 
+money to the senders, or in the way it suggested  he deal with the problems that 
+action prompted.  PayPal hasnt provided Mr S or me with details of the customers to 
+whom it returned money. That leaves  Mr S with the options of either not pursuing the 
+money, or of contacting several hundred of Bs customers to ask whether theyd 
+received a refund of money,  and theyd mind  paying again. I can readily  accept Mr 
+Ss point  that this is likely  to lead to a degree  of reputational damage to B, and that 
+its perhaps rather less than likely that it will result in the recovery of his money.
+I consider that the way PayPal dealt  with the money  it had recovered  and was 
+holding in trust, and the surrounding  circumstances, suggest that it would be 
+appropriate for PayPal  to pay Mr S £980, representing the amount it returned  to the 
+senders. Given the passage of time since Mr S has been deprived  of the use of those  
+funds, I think it appropriate that PayPal also pays interest on this sum,  calculated at 
+8% simple  per year, from August 2018 when it refunded  the senders, to the date it 
+settles this complaint. If PayPal later wishes to contact those senders it has refunded  
+to ask them to pay again, it at least has the key information to enable it to do so. But 
+for the avoidance  of doubt,  I make  no requirement  of PayPal to make such a request.
+Im further minded  to require PayPal to pay Mr S an appropriate sum to reflect the 
+distress and inconvenience hes been  caused  by the way its dealt with matters.  Mr 
+S, a victim of fraud, has been caused  frustration by PayPals  stance  and its refusal to 
+provide him with meaningful information  to assist in recovery. I appreciate PayPal 
+considers it has its own obligations of confidentiality that prevent it from sharing key 
+information. In my view,  it was open  to PayPal  to reconcile that apparent  difficulty  
+without transferring the problem to Mr S.
+Mr S has described the impact the situation  had on him and his business.  I dont 
+doubt its been a highly  stressful  time. Mr S is a small business owner, and its easy  
+to see how these problems have caused  difficulty in both his business  and personal 
+life. With this in mind,  I propose  suitable compensation as £800.
+I invited both parties to let me have any further  comments they wished to make in response.
+response to my provisional  decision
+Mr S responded to my provisional findings.  He said, in summary:
+His loss was much more than £4,910. The transaction records hed submitted totalled  
+more than this, and didnt include multiple item postage costs
+It was irrelevant how much PayPal was able to recover. It could retrieve only that 
+amount because it had allowed  the third party so much  time to be active on its 
+platform. Unlike other payment service providers,  PayPal had allowed the third party 
+Ref: DRN40554875to use a merchant  account without any verification. It had failed to protect Mr S as a 
+customer, and to prevent misuse of his accounts,  facilitating the third partys actions
+PayPal told him it had to refund Bs customers and could not send the identified 
+funds to him in case those customers raised  a dispute. However, Bs customers had 
+already received their orders and tracking  was provided to PayPal  to prove delivery.  
+Further, given the timescale since orders were placed and despatched,  most of those 
+customers would have  been  out of time to raise a dispute anyway
+He nearly lost his house and went through a depression at the same time as having a 
+young family. The amount in question was a drop in the ocean  to PayPal, but a huge 
+amount of money to him and his family
+PayPal also expressed  disappointment with my provisional decision, albeit for markedly 
+different reasons. It said,  again in summary:
+Despite the information it had provided to us defending its position, it was evident I 
+was putting the emphasis of the blame  and liability on PayPal due to C not being 
+within my jurisdiction.  I had stated and agreed that "PayPal wasnt responsible for the 
+compromise of the trading platform"
+My redress proposals (points  2 & 3) award  for the same item. In point 2 I suggested 
+8% simple interest  "to recognise the difficulty caused to Mr S". In point 3 I suggested 
+an award of £800 "in recognition of the distress and inconvenience hes been caused 
+by PayPals handling of matters".  PayPal considers  I have separated  these into two 
+discrete items in an effort  to recover a compensation award  from PayPal and recoup 
+some of that from C by separating it into a separate customer  service  related issue  
+for stress  and inconvenience
+At the outset I stated  it was important to say that Mr S brought his complaint as a 
+customer of PayPal,  rather  than as a payment services user. PayPal says we must  
+consider first and foremost its role is that of a payment  service  provider of which Mr S 
+agreed to use its service when creating his PayPal  account and agreeing  to its terms 
+of use
+As the funds in question were transferred due to unauthorised activity  on the C 
+platform (which  has also been acknowledged  and accepted  by C), it follows that the 
+payments from the buyers were not properly authorised by the buyers/ payers. 
+PayPal interprets my argument as based  on section 67 of the PSR2017  the 
+execution of the payment transaction would therefore between  the buyer and Mr S, 
+however, in this instance the funds  were transferred to a third party account but their 
+business was with Mr S and not the third party account. PayPal complied with its 
+legal obligations  in this case by returning  the funds to the buyers in line with the 
+provision of Article 73 of the Second Payment Services Directive (PSD2)  which  has 
+been transposed  into national  law by the PSR2017. 
+It had previously explained that it was not possible to provide Mr S with the 
+personally identifiable information  of the payers as to do so would amount to a 
+breach of the [General  Data  Protection Regulations] and Data  Protection Act. There 
+was no legal basis on which PayPal  could validly share with Mr S a list of refunded 
+customers. The obvious avenue was for Mr S to check his own records of the orders  
+which had been placed against the payments which  he had received together  with 
+his trading history  on C, and to identify impacted customers and to contact his 
+customers directly  using  the information in his possession and to which he was 
+lawfully entitled to rely on.
+Ref: DRN40554876PayPal accounts  are user-initiated, meaning that Mr S would have  had access  to his 
+own account in order to see his activity and any payments he was (or wasnt) 
+receiving into his account. A reasonable argument could  be made that Mr S could 
+have identified this sooner to prevent further losses and identify the unauthorised 
+access on his trading platform with C but there  is no evidence to support that he took 
+such steps
+I thank both parties for providing their responses  in a timely fashion,  enabling  me to move 
+forward with my decision.
+my findings
+Having received a response from both parties, Ive reconsidered all the available evidence 
+and arguments  to decide whats  fair and reasonable in the circumstances of this complaint.
+I cant agree  with Mr S when he says the amount PayPal was able to recover is irrelevant. 
+The amount  of identified funds, and what PayPal did with them, is at the very heart of my 
+decision.
+As I said in my provisional decision,  Mr S was not, for the purposes of the original  payments, 
+the payment services  user in the transactions. So there is no clear mechanism within our 
+rules for me to consider,  in the context of a complaint he seeks to bring, whether PayPal was 
+in some way remiss in its security processes when allowing third parties to set up accounts 
+that they subsequently used to receive  money  from Bs customers. I understand why hes 
+unhappy with this position, but that doesnt  enable me to change  it.
+Similarly, it would be wrong for me to take into account the relative financial strengths of Mr 
+S and PayPal when  deciding  appropriate redress. The fact PayPal might  have sufficient  
+reserves to cover his loss doesnt mean  its fair that I require it to do so. For the reasons Ive 
+previously explained,  I think its right that PayPal takes responsibility for the fact the money it 
+was able to recover  was returned to Bs customers rather than being  held on trust until the 
+genuine owner was established.  But while  recognising Mr S has lost a far greater  sum,  I 
+cant fairly hold PayPal responsible for the money  it wasnt able to recover and was unaware  
+had been misappropriated. In this respect,  I take PayPals point that Mr S would  have been  
+better placed than it to identify any earlier money going missing and alert PayPal to the 
+situation. However, I dont  share PayPals view that this mitigates  its responsibility  for what  it 
+did with the funds it did recover, as that began a separate chain of events.
+I have read PayPals comments in respect of my findings  on whether the payments should 
+be treated as unauthorised.  I fear PayPal  has misunderstood this point; at no stage have I 
+suggested that Mr S was involved  in the execution of the payment transactions.  Indeed,  I 
+expressly described why I had concluded that he was not. The purpose of referencing  
+Regulation 67 was because it affords a clear and objective definition of when a payment 
+transaction is to be treated as authorised by the payer, which I prefer  to the reasoning 
+PayPal gave to support  its view that they should be deemed unauthorised and trigger  any 
+legal duty to return the payments to the payer. Rather than repeat myself, I will simply refer 
+PayPal back to the reasoning given in my provisional decision as to why I dont  accept that 
+duty was triggered.
+Ref: DRN40554877PayPal also appears  to have failed to understand the redress proposal.  I find its confusion 
+disappointing, given  that I set out in clear  terms what each aspect of the proposed remedy 
+was intended  to address. In point 2, I specifically stated that the interest element of my 
+proposed award  was to reflect the difficulty caused to Mr S from being  deprived of access to 
+the money in question. Point 3 references Mr Ss personal distress and inconvenience, 
+described in further  detail  in the text of my provisional decision (and here, by Mr Ss own 
+further submissions). There is a distinction between  the two, which I dont think  its 
+necessary for me to further clarify.
+PayPal has further  sought to remind me that it has certain legal obligations relating to 
+sharing of customer information, and that providing Mr S with a list of refunded customers 
+would potentially breach those obligations. I dont believe that was something I proposed 
+requiring PayPal to do, but if it has read my provisional decision in that way then Im happy  
+to clarify that I do not require this. My comment was merely that it was for PayPal to find a 
+way of reconciling its obligations of confidentiality with treating Mr S fairly.
+I dont accept PayPals  contention that the obvious avenue  was for Mr S to undertake an 
+audit of all his customers, establishing  those  from which hed received payment and those 
+he hadnt, and then contact all of the latter group  to try to ascertain who had received their 
+payments back from PayPal. The difficulties that was likely to pose  in recovering funds  
+funds that were previously  readily  identifiable  and accessible, had PayPal administered  the 
+constructive trust appropriately  along  with the potential reputational damage B could  well 
+suffer as a result, suggest to me this was not the most obvious or appropriate way to deal 
+with the situation.
+PayPals primary  role might be that of a payment services provider. But that isnt where its 
+obligations to its customers  start and end, and neither is the user agreement between the 
+parties. Mr S is a customer  of PayPal. Relevant law, regulations and matter of good  practice  
+also apply to the relationship between the parties. One of the key regulatory principles is that 
+customers are treated fairly by their financial service  provider. In this instance, I dont 
+consider PayPal has acted in line with that principle.
+I make  a final comment on PayPals submissions. The tone of its correspondence, 
+particularly in response to my provisional decision, doesnt strike  me as appropriate or 
+particularly conducive towards resolving this dispute. Rather  than seeking to suggest I have 
+held it liable because  I dont have jurisdiction over other parties involved, PayPal might do 
+better to learn from the findings I did reach and have explained both here and in my 
+provisional decision.
+Ive thought carefully about everything both parties have said in response to my provisional 
+decision. I find much of what the parties  have said in response deals with ground already 
+covered in their earlier submissions. And I dont find the further arguments they have put 
+forward about my proposed conclusions provide me with sufficiently persuasive reasons to 
+reach a different outcome.  I remain of the opinion  that what Ive previously proposed  is a fair 
+and reasonable way to resolve  Mr Ss complaint. 
+Ref: DRN40554878my final decision
+For the reasons  set out here, Ive decided to uphold this complaint. To settle it, on receipt of 
+Mr Ss acceptance of my decision PayPal  Europe Sarl & Cie, SCA must take the following 
+steps:
+1.pay Mr S £980, representing the amount of the transactions it unfairly returned to the 
+payment senders;
+2.pay Mr S interest on this amount at a rate of 8% simple per year,  from the date that 
+the payments were returned  to the senders (which I understand to be August 2018) 
+to the date of settlement. This is intended  to recognise the difficulty  caused to Mr S 
+from being deprived of access to the money in question. If PayPal deducts tax from 
+the interest element  of this award, it should provide  Mr S with the appropriate tax 
+deduction certificate; and
+3.pay Mr S £800 in recognition of the distress and inconvenience hes been caused by 
+PayPals handling  of matters
+Under the rules  of the Financial Ombudsman Service,  Im required to ask Mr S to accept or 
+reject my decision  before 31 July 2021.
+Niall Taylor
+ombudsman
+Ref: DRN4055487

@@ -1,0 +1,175 @@
+K821x#15Complaint
+Mr H complains that Coventry Building Society wont refund a number of transactions  made  
+from his account  that he says he didnt agree to. He also thinks  Coventry couldve done  
+more to protect his account.
+Background
+Mr H holds a current account  with Coventry.  In September  2018 he visited Spain. When  he 
+initially tried to use his Coventry debit  card,  the building  society placed a block on it. Mr H 
+contacted Coventry  and they placed a holiday marker on his account.
+The next day Mr H decided to go to a bar. When ordering  his drink, he says he was asked if 
+hed like to set up a tab. His original intention  was to pay for the drinks with cash,  but the bar 
+asked for a card as security.
+Mr H agreed to this and put his card in to a machine and entered  his PIN at the request of 
+the bar staff.  The bar staff then took the card away. After Mr H decided to leave  the bar, he 
+attempted to retrieve his card  however he was told there was a problem with the box 
+where cards were stored.  This was resolved after some time. Mr H then settled his bill in 
+cash and left the bar.
+Unknown to Mr H at the time his card had been used for a number of transactions, which 
+totalled £10,737.42.
+Mr H went to visit some more bars.  Early  the next morning  he attempted  to withdraw cash to 
+get a taxi, but this was declined. Hes said he assumed this was because  Coventry  had 
+blocked his card. He got in touch with Coventry,  and it was then he found  out about  the 
+transactions on his account. He initially told them that hed only used his card for ATM 
+withdrawals, but later accepted hed made some other transactions  with his card on the day.
+Coventry looked in to what happened  but declined  to refund the transactions. They felt that 
+there were too many inconsistencies in Mr Hs story. They confirmed all the payments had 
+been made by chip and PIN and the card hadnt been cloned.  They  felt that by giving over 
+his card and PIN for the bar tab he hadnt  taken adequate measures  to safeguard  his 
+account.
+Unhappy with this answer Mr H referred the complaint to our service. One of our 
+investigators looked in to what happened and thought the complaint should  be upheld.  They  
+agreed that there were inconsistencies in Mr Hs story, but they felt overall it was likely 
+someone other than Mr H had made the transactions.  They felt if Mr H had entered his PIN 
+then this may be negligent  but didnt meet the standard of gross  negligence that meant he 
+could be held liable for the transactions. They also said they felt Coventry should have done 
+more to protect Mr Hs account,  as the transactions were uncharacteristic for his account.
+Coventry disagreed.  They said there was no evidence of Mr H entering  his PIN at the bar for 
+it to be overseen or recorded and used later. They felt that Mr H had changed his story a 
+number of times and had been inconsistent in the information given. They also said the area 
+of Spain Mr H had been holidaying in was known  for high-end  bars, and its not 
+inconceivable that the amounts paid could be this high.
+Ref: DRN22879862As no agreement could be reached  the case was passed to me to decide. In response to 
+some additional  questions Coventry have confirmed that the transactions  did flag on their 
+risk management system,  but this wouldnt have prevented  them going through.  They  did not 
+make any attempts to discuss these transactions with Mr H. They also confirmed they had 
+attempted to find out who the merchant  was but had been unsuccessful.
+On 25 June 2021 I issued a provisional  decision in which  I said:
+Where the evidence is incomplete,  inconclusive and contradictory, I have to make a decision 
+on the balance  of probabilities  on what I consider to be more likely  than not to have 
+happened.
+In reaching my decision Ive taken  in to account  the relevant law, regulators rules and 
+guidance, relevant  codes  of practice, and what I consider to have been good industry 
+practice at the time.
+The investigator wrote a detailed view that sets out the full facts, the disputed transactions,  
+the relevant regulations and the evidence. Both Mr H and Coventry  have read the 
+investigators view. So, I wont  repeat every detail here, only those which form the basis  of 
+my decision.  However, I can assure Mr H that Ive read the file, including  his comments  and 
+evidence.
+The relevant  regulations  in place at the time are the Payment Services Regulations 2017 
+(PSRs). The PSRs say a payment transaction is regarded as authorised  if the payer has 
+given consent  to the execution of the payment transaction. If a payment service user 
+(customer) denied having authorised an executed  payment  the payment service provider 
+(in this case  Coventry) must  prove the payment  transaction was authenticated.  And if it is 
+deemed that a payment transaction hasnt  been consented to, it isnt authorised.
+However, taking into account  the law, regulators rules and guidance, relevant codes of 
+practice and what I consider to have been  good industry practice  at the time,  I consider 
+Coventry should fairly and reasonably: 
+Have been monitoring accounts and any payments made  or received  to counter 
+various risks, including anti-money laundering, countering the financing of terrorism, 
+and preventing fraud and scams
+Have had systems in place to look out for unusual transactions or other  signs that 
+might indicate that its customers were  at risk of fraud (among other things). This is 
+particularly so given  the increase in sophisticated fraud and scams in recent years, 
+which banks are generally more familiar with than the average customer.
+ 
+In some circumstances,  irrespective of the payment channel used, have taken 
+additional steps, or make additional checks,  before  processing a payment, or in some 
+cases declined to make  a payment altogether, to help protect customers from the 
+possibility of financial harm from fraud.
+I cant say for certain what happened  on that night   Mr Hs recollection isnt clear,  and there  
+are inconsistencies  to what hes said. As Coventry have pointed out, Mr H has not always  
+been consistent in what he says happened. He admits  himself he was intoxicated that night, 
+so this would  affect  his memory. But having  listened to the calls where he discusses the 
+events with Coventry, he seems to be often referring  to a bar he was in at around midnight, 
+Ref: DRN22879863until the early morning. But the transactions  in dispute appear to take place earlier in the 
+evening, which from the merchant name  appears  to be a different bar. Coventry dont seem 
+to clarify the timings  of the larger  transactions with Mr H until later  so this may explain why 
+Mr Hs story  doesnt remain consistent.
+From the technical evidence each of these transactions are made using the original card and 
+verified with the PIN. Ive considered what Mr H has said about entering  his PIN in to a 
+machine, and this could  be a source of the PIN compromise. It could be that this was a 
+dummy machine, designed  to discover  the PIN  which may explain why Coventry  dont 
+have any record of this on their systems. But as I mentioned, I cant be sure Mr H is 
+describing the same events in the same  bar.
+If a fraudster had somehow obtained Mr Hs card and PIN, you may expect them  to attempt 
+to exhaust the account as quickly as possible. But looking at the transactions all take place 
+at a steady pace over two hours.  Theres also the question of why they would  then return  the 
+card to Mr H. I cant see any plausible explanation for why a fraudster would do this  after
+Looking at his later transactions, which Mr H doesnt  dispute,  it seems he was paying using 
+his card.  These  follow  a similar pattern, albeit for smaller amounts. He had made card 
+payments earlier  in his trip. So, while he says he was intending in using  cash at the bar, Im 
+not convinced  this is the case.
+Im not persuaded that someone else was making the transactions after deceptively 
+obtaining Mr Hs PIN. On balance, I think the more likely explanation here is that Mr H was 
+making the transactions himself,  by presenting his card and entering the PIN. He seemed to 
+be intending on making payments for drinks  using his card, and only he shouldve known the 
+PIN. So, for the purposes of the PSRs, I think these  payments would be considered 
+authorised.
+However, I think its more likely  than not that Mr H was likely duped  by the bar in to making 
+the transactions for such  high amounts. That is to say Mr H was being presented with a card 
+terminal with an inflated cost of them, and likely not noticing the value he was agreeing  to 
+pay. I say this because  he seemed genuinely  surprised when Coventry told him about  the 
+transactions. Having  listened to the calls between Mr H and Coventry  he sounded shocked 
+to discover the amounts that had been spent,  and this appears to be genuine to me. 
+If he had known hed spent that much  money, I dont  think its likely he wouldve been trying  
+to take out more money for the taxi early in the morning.  So, Im satisfied something 
+untoward has happened here.
+The PSRs  dont say anything about a consumer having to agree to the specific  value of a 
+transaction, just that they will need  to go through the form and procedure  to verify it. But as I 
+mentioned industry  guidance and good  practice would apply  so there are certain  situations 
+where I would  expect Coventry to take a closer look at the circumstances of a transaction.
+Even if Mr H is lying about what happened in the bar, or simply cannot recall what  
+happened, the pattern  of transactions themselves looks highly unusual. Reviewing Mr Hs 
+bank statements, it doesnt seem like hed ever made card payments for this much at these 
+volumes before.
+There are a number of very worrying factors which  indicate financial harm here which  
+Coventry couldve picked  up on. The sudden increase in spending for one. Another is the 
+Ref: DRN22879864multiple transactions for thousands within an hour of one another  for example between  
+20:39 and 21:24 there  are four transactions totalling  over £9,500. Theres also the fact that 
+the majority of the balance on the account is exhausted, which  is another  indicator of 
+financial harm.
+Coventry have said that the transactions did flag on their system, but this is a hindsight 
+system, that highlights transactions to look at after the event, and this doesnt  block any 
+transactions going through. But we know from when Coventry had blocked Mr Hs card when 
+hed arrived in Spain  that this was possible.  
+Good industry practice is to maintain a 24/7 fraud monitoring  service and be proactive  in 
+identifying and preventing fraud. I dont think Coventry have done that here.  If they had 
+spoken to Mr H about the transactions,  I think its likely Mr H wouldve realised that the bar 
+was attempting  to scam  him, which wouldve prompted him to leave.
+Ive considered why Coventry have said about  the area Mr H being in having  high-end  bars, 
+but I dont think  this can be presumed. Likewise,  just because Mr H had confirmed he was in 
+Spain, I dont think it should  be presumed  he is going to spend thousands in an evening.
+Coventry didnt approach  the bar in question to verify what was purchased at the time. I 
+appreciate they had no grounds to chargeback the transactions as fraud because  they were  
+completed using  the genuine card and PIN. But it was still open to them  to have raised a 
+merchant dispute  about what was bought. This has meant potentially  valuable evidence  
+doesnt exist.  This evidence may have helped  show what  the money was spent  on. 
+I think even from the first transaction of £1,304.21,  as it was so out of character Coventry 
+couldve taken steps to intervene, such as blocking the account until they could verify the 
+transactions with Mr H. Had they done so, I believe its more  likely than not Mr H wouldve 
+left the bar, and not been scammed for the subsequent transactions. 
+I think by not doing  so Coventry havent treated  Mr H fairly and failed in their obligations  to 
+protect him from financial  harm. So, to put things right I said Coventry  should:
+Refund the disputed transactions totaling £10,737.42,  along with the international 
+purchase fees associated with these transactions.
+Add 8% simple interest per year to this amount, from the date of payment  to the date 
+of settlement
+Mr H responded to say he accepted the provisional  decision. Coventry  accepted the 
+provisional decision. Now both sides have had an opportunity to comment  I can go ahead 
+and issue my decision.
+My findings
+Ive reconsidered  all the available evidence and arguments to decide  whats  fair and 
+reasonable in the circumstances of this complaint.
+As neither party had any further evidence or submissions for my consideration, I see no 
+reason to deviate from the outcome explained  in my provisional decision.
+Ref: DRN22879865For the reasons  explained above, my final decision is that I uphold this complaint. To put 
+things right Coventry Building Society must do the following:
+Refund the disputed transactions totaling £10,737.42,  along with the international 
+purchase fees associated with these transactions.
+Add 8% simple interest per year to this amount, from the date of payment  to the date 
+of settlement
+Under the rules  of the Financial Ombudsman Service,  Im required to ask Mr H to accept or 
+reject my decision  before 2 August 2021.
+Sharon Kerrison
+ombudsman
+Ref: DRN2287986

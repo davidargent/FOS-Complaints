@@ -1,0 +1,92 @@
+DRN-3705084
+The complaint
+Miss Y complains that Monzo Bank Ltd (Monzo) wont refund transactions on her account 
+which she didnt make. 
+What happened
+The details of this complaint are well known to both parties. So rather than repeat them all 
+again here, Ill briefly summarise the key points.
+Miss Y has explained that she fell victim to a scam. She received a call from someone 
+claiming to be from Monzos fraud protection team, informing her that there had been 
+attempted fraud on her account. They directed her to follow the instructions she received via 
+an in-app notification, saying it was necessary to verify that the app was still working.
+Miss Y then saw two payments for £200 and £250 leave her account. When she reported 
+this to Monzo, it said she was liable for these payments as shed authorised them by 
+agreeing to set up an Apple Pay token. Its since told us that its holding her liable as she 
+failed to adequately verify who she was speaking to when the scammer called her. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I agree with the conclusions reached by the investigator for these reasons: 
+In line with the Payment Services Regulations 2017 (PSRs), Miss Y isnt liable for 
+payments she didnt authorise, unless she failed with gross negligence or intent to 
+comply with the terms of the account or keep her personalised security details safe.
+The PSRs specify that authorisation depends on whether the payment transactions 
+were authenticated correctly  and whether the account holder consented to them. 
+Its not in dispute that the payment was properly authenticated. 
+The PSRs go on to state how consent is given. It must be in the form, and in 
+accordance with the procedure, agreed between the payer and the payment service 
+provider. In other words, Miss Y consents if she completes the agreed steps to make 
+a payment. Or if someone else acts on her behalf and uses those agreed steps.
+My understanding is that, to make these payments, the scammer first entered 
+Miss Ys Monzo card details into an Apple Pay app. She was then sent a notification 
+which required her to enter her PIN. The scammer then used Apple Pay on their 
+device to make the payments in a shop. 
+We dont know how the scammer got hold of Miss Ys card details. But Ive seen no 
+suggestion that she shared these. Unfortunately, card details can be stolen in a 
+myriad of ways. So its plausible and credible that an unauthorised person was able 
+initiate the Apple Pay request and then use it to complete these transactions.
+Miss Y contacted the shop in which the payments were made, and they told her they 
+had CCTV of a man completing the transactions. I cant see that Monzo has disputed 
+that someone other than Miss Y initiated the Apple Pay set up and then made the 
+payments in-store. 
+So the only step Miss Y completed was entering her PIN to set up Apple Pay. She 
+didnt complete the remainder of the steps involved in authorising these payments. 
+Nor did she enter her PIN with the intention or understanding that she was granting 
+someone else authority to make payments. I therefore find them to be unauthorised. 
+I dont find that Miss Y intentionally failed to keep her account or security details safe. 
+Ive seen no suggestion that she shared her card details. And she only entered her 
+PIN in her own app. She didnt think this would put account at risk  rather, she was 
+told it was necessary to protect her account from attempted fraud. 
+I dont find that Miss Y failed with gross negligence either. From what weve been 
+told, it seems the scammer knew personal information about Miss Y which helped 
+them impersonate Monzo more convincingly. 
+The scammer told Miss Y her account was at risk, creating pressure and urgency. It 
+told her to check her app to verify whether she recognised a payment from that 
+morning. And she could see an active card check by the retailer the caller had 
+mentioned. So this again helped persuade her to trust the caller.
+The call did come from a private number, rather than an official Monzo number. But 
+in the context of being worried that her money was being stolen, and given the 
+reasons Miss Y has given for why she trusted the caller, I dont think she seriously 
+disregarded an obvious risk in following the instructions she was given.
+Monzo says Miss Y ought to have questioned why she needed to complete a link to 
+set up Apple Pay to verify that her mobile app was still in her control. I understand 
+the point its making, but I still dont think her actions were significantly careless.
+Miss Y had been instructed to expect a notification. Although it mentioned Apple Pay, 
+that was only on one screen, where she selected Add Card. It didnt specify which 
+device this was being added to.
+In the circumstances of being concerned her account was at risk, this would have all 
+happened quickly. We know scammers use pressure and social engineering to 
+persuade people. Miss Y didnt have much time or opportunity to reflect on what she 
+was being asked to do by who she thought was a trustworthy party. 
+Taking this all into account, I dont think Miss Ys actions fell so far below what a 
+reasonable person would have done that she failed with gross negligence. I therefore 
+find that Miss Y isnt liable for these payments. 
+In line with its obligations under the PSRs, Monzo should have promptly refunded 
+Miss Y for these unauthorised transactions. Its failure to do so caused her additional 
+worry and upset. For example, shes told her that was worried about how she would 
+pay her rent without these funds. To address this, I consider it fair for Monzo to pay 
+her £100 compensation. Putting things right
+To put things right, Monzo Bank Ltd must:
+Refund Miss Y for the unauthorised transactions, totalling £450;
+Pay 8% simple interest per year on this amount from the date of payment to the date 
+of settlement (less any tax lawfully deductible) to compensate Miss Y for the loss of 
+use of these funds; and 
+Pay Miss Y £100 compensation for her distress and inconvenience
+My final decision
+For the reasons Ive explained, I uphold this complaint. I direct Monzo Bank Ltd to put things 
+right as Ive set out above. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Miss Y to accept 
+or reject my decision before 2 March 2023.
+ 
+Rachel Loughlin
+Ombudsman

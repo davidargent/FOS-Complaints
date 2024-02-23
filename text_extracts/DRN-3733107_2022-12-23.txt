@@ -1,0 +1,138 @@
+DRN-3733107
+The complaint
+ A company, which Ill refer to as D complains that Elavon Financial Services Designated 
+Activity Company (Elavon), unfairly charged it fees for Payment Card Industry Data Security 
+Standards (PCI DSS) non-compliance, when the reason for that non-compliance was a 
+technical fault on Elavons systems. 
+In bringing this complaint, D is represented by its director who Ill refer to as Mr M.
+ 
+What happened
+ The background to this case is well known to the parties, so I wont repeat it in detail. 
+Briefly:
+D has three accounts with Elavon linked to the three card payment terminals it 
+operates. Merchants such D, who take card payments are required to be PCI DSS 
+compliant. This is mandatory and such merchants are required to validate PCI DSS 
+compliance on an annual basis by completing a self-assessment questionnaire about 
+the security measures they have in place for their business. 
+In December 2021 D completed the certification process in relation to two of its 
+accounts. However, in relation to the third account (the Account) this wasnt 
+completed until 7 February 2022, the consequence of which was that D incurred 
+charges for non-compliance.
+D believed the charges were unfair. On its behalf, Mr M said the non-compliance was 
+not the fault of D. He said he tried to complete the certification process but due to a 
+technical fault at Elavon, he was unable to do so until 7 February 2022.  
+And in any event, Mr M further argued that it is his understanding that if a company is 
+PCI DSS compliant on one account, its deemed to be compliant on all. So, in his 
+view it followed that because D was compliant on two of its accounts, it was 
+compliant also on the Account. Mr M believed therefore, that Elavons decision to 
+charge the fees they did was wrong and amounted to an attempt by Elavon to extort 
+money from D. D wanted Elavon to refund the charges. 
+Elavon disagreed. They said: 
+It was Ds responsibility, as the merchant, to ensure that it was PCI DSS compliant. 
+But in relation to the Account, D didnt do so until 7 February 2022 and therefore, 
+charges were appropriately applied for Ds non-compliance. 
+Furthermore, regarding the PCI DSS non-compliance charges, they were set out in 
+the schedule of fees section of Ds application. And by signing the application, D 
+confirmed that the contents were read and understood and agreed and Elavon were 
+therefore entitled to levy the charges. 
+They didnt think there was any technical issue affecting their systems which caused 
+Ds non-compliance. 
+D maintained its position and since the complaint couldnt be resolved, Mr M referred it to 
+this service. 
+Our investigator didnt think Ds complaint should be upheld. In summary he said:
+D was aware of the steps that were necessary to complete the compliance process 
+for the Account and he didnt think there was evidence to show that because of 
+something Elavon did wrong D was unable to do so. 
+He wasnt persuaded the compliance certificates that were issued to D in relation to 
+two of its accounts suffice for compliance in respect of the Account because the 
+respective associated terminals were different.
+Regarding the charges levied by Elavon, the terms and conditions of their 
+agreement, which was signed by Mr M to indicate he agreed to them, confirm that 
+Elavon were entitled to levy the charges for PCI DSS non-compliance as shown on 
+the schedule of fees accompanying the agreement.
+D didnt agree with the investigators conclusions and has asked an ombudsman to decide 
+the matter. 
+  
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+ Where the evidence is incomplete or inconclusive (as indeed some of it is here) I reach my 
+decision on the balance of probabilities  in other words, what I consider is most likely to 
+have happened in the light of the available evidence and the wider circumstances.
+Compliance with PCI DSS is a requirement of the agreement between D and Elavon and D 
+does not dispute this. Nor does D dispute it didnt complete the certification process for the 
+Account until 7 February 2022. Rather Ds case in essence is twofold:
+a technical fault on Elavons systems prevented it from competing the compliance 
+process until February 2022, and in any event; 
+having successfully completed the requirements in relation to Ds other two accounts 
+in December 2021, for compliance purposes that suffices for all accounts held by D 
+including the Account.
+Ill considered both arguments very carefully. I start with the second of these.
+Compliance on two accounts meant D was complainant in respect of the Account.
+According to Elavon, regarding the two accounts in respect of which D was PCI DSS 
+compliant, one of them is retail 50% card present and 50% manual card entry and the second account is retail 20% card present and 80% manual card entry. In contrast the 
+Account is a mail order or telephone order account which is 11% internet payment and 89% 
+manual card entry. 
+Elavon said they can only merge the PCI DSS certification for multiple accounts if the 
+accounts have the same owner and if they have similar card acceptance method set ups 
+which is not the case for D three accounts. 
+Elavons evidence suggest that the set up for the Account is different from Ds other two 
+accounts and for that reason, it wouldnt have been appropriate to merge the PCI DSS 
+certification for all of them. 
+So, whilst broadly speaking D is right that there are circumstances in which certification can 
+apply to multiple accounts, Im persuaded by Elavons evidence in the circumstances of Ds  
+case that was not possible.  
+Besides, I have seen a copy the application form for the Account, which Mr M signed 
+accepting that it formed part of the Merchant Agreement between D and Elavon. Under:
+IMPORTANT PRINCIPLES AND OBLIGATIONS it says the following:
+All Customers must comply with the requirements of the Payment Card Industry Data 
+Security Standards ("PCI DSS"). We require all Level 3 and Level 4 Merchants (determined 
+by Transaction volume) to validate PCI DSS compliance on an annual basis with initial 
+validation to occur no later than ninety (90) days from when the Application has been 
+accepted by Us. The Customer will be charged the PCI Charges further described in the 
+Schedule of Fees.
+These were obligations agreed to by D in respect of the Account, which is identified in the 
+application form. That would further suggest D had a specific obligation to demonstrate its 
+PCI DSS compliance in relation to the Account. And moreover, Mr M did take steps to do so. 
+Which leads me to Ds other argument which in essence is that in all likelihood it would have 
+been successful in its efforts to comply with its PCI DSS compliance obligations but for the 
+technical issue Mr M encountered in his attempt to do so in relation to the Account. So, that 
+that brings me to that aspect of Ds case. 
+The technical issue 
+Mr M said the technical problem with Elavon related to a scan which wouldn't work in relation 
+to the Account. He said he called Elavons technical department numerous times, but 
+perhaps a combination of Covid and working from home arrangements, no one returned his 
+calls. 
+Elavon said they reviewed their system but werent able to find any information suggesting a 
+technical error on their side. They said they received the same assurance from their third-
+party partners and PCI Helpdesk, all confirming that they were unaware of any technical 
+issue. 
+Elavon thought if Mr M had experienced a technical problem, it was likely to have been an 
+issue to do with Ds software and wouldnt be something caused by Elavon. 
+What I have therefore are two opposing accounts regarding the technical issue.
+ 
+Ive noted an email Mr M wrote to Elavon on 7 February 2022 explaining the delay in his 
+completion of the compliance requirements for the Account where Mr M said:I managed to get [the Account] complainant today. However, the reason it was not 
+compliant was that it was a virtual terminal and the software needed to be altered. 
+That suggests that in all likelihood the technical issue was indeed software related but on Ds 
+part rather than Elavon. In any case and perhaps more importantly, Ive seen no evidence 
+that Elavon had taken any steps to fix any problem on Ds behalf prior to its completion the 
+compliance requirement in February 2022 that would indicate this was the obstacle that had 
+previously impeded Ds efforts to do so.  In light of that, Im unable reasonably to conclude D 
+was unable to complete the PCI DSS compliance obligations because of a technical problem 
+in Elavons system.  
+   
+PCI DSS fees 
+As referred to above under IMPORTANT PRINCIPLES AND OBLIGATIONS fees, including 
+for non-compliance are listed in the application form to which by signing the form Mr M 
+accepted Elavon could levy such charges. I appreciate Mr M thinks they are unjustified and 
+are a means of extorting money from D but I do not find Elavon have done anything wrong 
+by charging them.  
+  
+My final decision
+ For the reasons Ive given above, my final decision is I do not uphold this complaint
+Under the rules of the Financial Ombudsman Service, Im required to ask D to accept or 
+reject my decision before 20 January 2023.
+ 
+Asher Gordon
+Ombudsman

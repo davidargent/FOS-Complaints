@@ -1,0 +1,125 @@
+DRN-3823195
+The complaint
+Mr H complained because Bank of Scotland plc, trading as Halifax, refused to refund him for 
+transactions he said he didnt make.
+What happened
+On 29 April 2022, Mr H rang Halifax. He said that hed checked his account and had seen 
+multiple debits which he hadnt authorised. 
+There had been a £2,000 credit into Mr Hs account on 28 March. Mr H disputed 
+transactions for goods and services which ranged from £2.72 to £1,349.00, which had taken 
+place between 29 March and 27 April. The total came to £5,063.54. Mr H told Halifax that 
+no-one had access to his card.
+Halifax investigated, but it refused to refund Mr H. In its final response letter on 12 May, 
+Halifax said that:
+- it could see that Mr H used his mobile app often, and that hed used this around the 
+time of the payments in March 2022. It said that the IP address (a unique computer 
+identifier) used for the disputed payments had been the same as the IP address used 
+for Mr Hs mobile app;
+- the debit card payments had also been approved through a text message which had 
+been sent to the mobile number which had been registered on Mr Hs account since 
+June 2021;
+- some of the disputed payments showed an IP address abroad. Halifax said that Mr H 
+had told Halifax he had family there and often sent money to support them. Mr H had 
+told Halifax that it wasnt possible for someone else to know or have used his details.
+So Halifax refused to refund Mr H.
+Mr H wasnt satisfied and contacted this service.
+Our investigator didnt uphold Mr Hs complaint. He said that multiple disputed transactions 
+had had Mr Hs correct address entered, so whoever did the transactions knew his address 
+as well as having the card. And the investigator saw that one of the transactions had been 
+made from an IP address to which Mr H had logged into internet banking. Also, the spend 
+had happened over the period of a month, and if a fraudster had carried out the transactions, 
+its likely theyd have maximised spending as quickly as possible. So the investigator 
+believed that the disputed transactions had been made by Mr H or someone he knew such 
+as friends and family.
+Mr H wasnt satisfied. He said:
+- he hadnt received a one-time passcode for the transactions. The investigator 
+explained that not all transactions need a one-time passcode;
+- although the investigator had said Mr Hs address had been supplied by the person 
+doing the transactions, hed contacted all the merchants who had said the address 
+didnt match. The investigator told Mr H the exact transactions where a match had 
+been confirmed;
+- he used to live in shared accommodation so someone living at the address or nearby 
+might be involved in fraud. 
+The investigator asked Mr H for more information about shared accommodation, which Mr H 
+hadnt mentioned before. Mr H said the shared accommodation was his own property and he 
+ran a private bed and breakfast with guests staying. He said hed been taken to hospital for a 
+couple of days in March 2022, and sent in a copy of his hospital discharge document dated 
+24 March. The investigator asked whether Mr H had left his debit card at home when 
+admitted to hospital, and Mr H said he had. He said that could be when it had happened. 
+The investigator asked for the name of Mr Hs business, or any advert or official confirmation 
+of his business, but Mr H said it wasnt a registered business.  
+The investigator also asked for clarification about the transactions which appeared to be 
+made from an IP address abroad. Mr H said he, his wife and children hadnt travelled abroad 
+until July 2022, and hed previously sent money to relatives and friends abroad but hadnt 
+shared his bank details with them.
+The investigator didnt change his view about Mr Hs complaint, and Mr H asked for an 
+ombudsmans decision. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+There are regulations which govern disputed transactions. The relevant regulations for 
+disputed transactions taking place in March and April 2022 are the Payment Services 
+Regulations 2017. These say that the payment service provider (here, Halifax) must show 
+the transaction was authenticated. Thats the technical part, and here, Halifax has produced 
+computer evidence which shows that the disputed payments were correctly authenticated. 
+The regulations also say that its necessary to look at whether the card holder authorised the 
+payments. In general terms, the bank is liable if the customer didnt authorise the payments, 
+and the customer is liable if they did authorise them. It also counts as Mr H having 
+authorised the payments if he allowed someone else  for example a family member or 
+friend - to use his details. The regulations also say that account holders can still be liable for 
+unauthorised payments under certain circumstances  for example if theyve failed to keep 
+their details secure to such an extent that it can be termed gross negligence.
+So Ive gone on to consider whether its more likely than not that Mr H authorised the 
+disputed transactions, in line with what the regulations say about authorisation.
+The disputed payments include payments where there is a match for the registered address 
+which Halifax had on file for Mr H. This information isnt held on the card itself, so whoever 
+carried out the payments must have known Mr Hs genuine address in order to verify the 
+transactions.
+Ive looked at the IP addresses for the disputed transactions. Some are located abroad, in 
+the country where Mr H said he had relatives. Ive also seen that one of the disputed 
+transactions took place using the IP address which Mr H had used on more than one 
+occasion earlier in the year for transactions which werent disputed. 
+Importantly, the transactions took place over a month. And some of them are for small 
+amounts. If any fraudster had obtained Mr Hs card, its most unlikely that this would be the pattern of spend. Fraudsters tend to spend the maximum possible as soon as they can, 
+before the fraud can be discovered and in order to maximise their gain.
+As the investigator explained to Mr H, a one-time passcode isnt essential for all 
+transactions. So it doesnt make any difference that Mr H said he didnt receive a code for all 
+the transactions.
+After the investigator issued his view, Mr H told us that he lives in shared accommodation. 
+He hadnt mentioned this, either to us or to Halifax, before that. He told us it isnt a registered 
+business so wouldnt be on any official records. Hes said that he thinks the fact that its 
+shared accommodation is the reason for the disputed transactions, and that his debit card 
+was taken while he was in hospital between 22 and 24 March.  
+Im sorry to hear that Mr H had to go to hospital, and hope hes now in good health. But if, as 
+Mr H now suggests, someone staying in his private bed and breakfast stole his card during 
+that time, Id have expected the transactions to have taken place during that time  again so 
+that the fraudsters could maximise their income before it could be discovered. Instead, the 
+disputed transactions started on 29 March and went on till late April. Mr H told us he didnt 
+take his debit card when he went to hospital, but I think its very unlikely in most bed and 
+breakfast accommodations that the owners private rooms and personal possessions 
+wouldnt be kept locked, separate, and inaccessible to clients. This is especially so when Mr 
+Hs family  his wife, daughter and son  would have been at home during that time. He also 
+said that the card was in his room when he returned home on 24 March.
+Ive considered whether the shared accommodation would be a reasonable explanation for 
+the disputed transactions. The card being used by someone at Mr Hs address would explain 
+the IP match, and the fact that the person using it knew the correct address. But Im not 
+persuaded that this new evidence proves that Mr H didnt authorise the disputed 
+transactions. As Ive explained, thats because of the pattern of the transactions over a long 
+period, the fact they didnt happen during the time Mr H was in hospital, and the fact that I 
+dont think its likely that Mr Hs family would have left his card somewhere in the public part 
+of his bed and breakfast business. I also find it strange that Mr H only mentioned his shared 
+accommodation and his suspicions after the investigators view, and didnt tell Halifax about 
+this.
+So for these reasons I think its most likely that Mr H carried out the disputed transactions 
+himself, or authorised someone else  for example a family member or friend  to do so. And 
+Ive also explained that the Payment Services Regulations provide that account holders can 
+still be liable for unauthorised payments under certain circumstances  for example if theyve 
+failed to keep their details secure to such an extent that it can be termed gross negligence.  
+So I do not uphold this complaint and I dont require Halifax to refund Mr H.
+My final decision
+My final decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr H to accept or 
+reject my decision before 13 January 2023.
+ 
+Belinda Knight
+Ombudsman

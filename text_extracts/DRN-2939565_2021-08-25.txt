@@ -1,0 +1,116 @@
+DRN-2939565
+The complaint
+Mr N complains to IG Index Limited about a delayed credit on his trading account which led 
+to his positions being closed and him losing money. 
+What happened
+On 21 April 2020, between 9am and 11am Mr N opened four US Crude Oil positions on his 
+spread betting account. Each position was for £10 a point at levels between 2041.7 and 
+1507.9. 
+Unfortunately, the market rapidly moved against Mr N and the price of oil continued to fall at 
+pace. Though Mr N had a cash balance of £17,922.31, by 10:33am his positions put him at   
+-£19,270. As Mr N didnt have enough margin on account, his positions were closed at 
+1234.2. 
+However, at 10:29am  before his positions were closed  Mr N transferred some money to 
+IG to fund his account and ensure he had enough margin to ride out the market fall. He 
+thought this ought to have maintained margin, but was disappointed to see the positions still 
+close and the money not appear on his account quickly enough. 
+Unhappy about this, Mr N got in touch with IG to query what had happened  given hed 
+transferred the money at 10:29am yet the positions were closed four minutes later at 
+10:33am, he thought there must have been a technical issue. Or if not, that IG had failed to 
+allocate his funds quickly enough. He was also concerned hed had no notification about the 
+margin level prior to the close out. 
+IG didnt agree theyd done anything wrong. They told Mr N that funding his account by bank 
+transfer wasnt the fastest way to add funds  this can take up to three days. Despite this, 
+the money had arrived in his account at 10:41am, but this was too late to meet the margin 
+call. IG also explained that while they do try to notify clients about margin calls, sometimes 
+this isnt possible if the market is moving too quickly. They felt that as the positions had been 
+correctly closed, they were under no obligation to reinstate them. 
+Mr N remained unhappy with this so he asked for our help. One of our investigators had a 
+look into whatd happened. She reviewed Mr Ns account position at the time and asked IG 
+about when his funds had been received. But having taken that into account, she didnt 
+agree IG were at fault. She said she could see Mr Ns funds had hit his account after the 
+positions had been closed, and that IG didnt have to notify him of the margin call.
+Mr N remained unhappy. As hed transferred the money at 10:29am, he wanted to know 
+what time the money had arrived with IG  this was because he thought it was likely to be a 
+matter of seconds after itd been sent, and he had relevant experience of this sort of thing 
+having worked as an engineer in finance. He asked what IGs process was to allocate funds 
+to client accounts and suggested there might be shortcomings here which led to his losses. 
+Mr N also shared a screenshot of the bank transfer instructions page and said this didnt 
+refer to delays in allocating funds to client accounts. Our investigator thought about what 
+Mr N had said, but as she wasnt persuaded to change her view the complaint was referred 
+for a decision. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+As explained by IGs spread betting customer agreement at 2. (4), Mr Ns account is 
+execution-only. This means, amongst other things, Mr N is responsible for the positions he 
+opens, the suitability of each trade, to monitor his account and to ensure hes got enough 
+margin to maintain his open positions. On that final point, at 17. (1) and (2) IG explain they 
+are able to close positions should the margin not be maintained. I do however recognise 
+Mr N is aware of this, and that what he was trying to do last April was to meet what was 
+required of him with regards to maintaining his margin. 
+Ive looked closely at the chronology of what happened on the day in question and note the 
+following times and activities on Mr Ns account:
+09:16:32am  bet £10 a point at 2041.7
+10:18:02am  funded the account by card payment of £10,000
+10:18:23am  bet £10 a point at 1714.5
+10:27:14am  bet £10 a point at 1599.7
+10:32:07am  bet £10 a point at 1507.9
+10:33:41am  four positions automatically closed 
+10:41:04am  funded the account by bank deposit of £10,000
+Mr N says he transferred the second £10,000 at 10:29am  he says this wouldve been 
+enough for him to have maintained his margin. However, the bank deposit didnt arrive in 
+Mr Ns account until 10:41:04am  almost eight minutes after the positions were closed. It is 
+this point Mr Ns case turns on.
+I note Mr N appears to have relevant experience in this field and I appreciate the points he 
+has made about how systems and processes ought to work, and what modern day 
+capabilities are. However, I dont agree this means his complaint ought to be upheld.
+IG have shared what their payment screens show on both their website and mobile app. 
+Both display three payment options  bank transfer, card or to use an e-money provider. 
+Mr Ns first deposit that day was by card  IGs website says, card deposits are usually 
+processed immediately and the app says, usually processed immediately. But his second 
+deposit was by bank transfer  IGs website says, bank transfers are usually processed 
+within three business days and the app says, within three business days. 
+I think it was clear to Mr N that his choice to use the bank transfer method was unlikely to be 
+as quick as a card payment. I take his points about how things ought to work and how faster 
+payments can be processed, but IG did make him aware this could be a slower way to 
+deposit funds. 
+Mr N asked questions about IGs process and this is something we have looked into for him. 
+We have asked IG for confirmation as to when Mr Ns money arrived in their general account 
+ though they cannot be entirely sure or share evidence, they do have a payment arriving at 
+10:29am which was the time Mr N made his transfer. But their process is that the general 
+account is checked every ten or so minutes, with client funds then being allocated to trading 
+accounts. If Mr Ns money arrived at 10:29am, it would therefore have taken 12 minutes to 
+show on his account at 10:41am. I dont think this is unreasonable. And as explained in the customer agreement at 15. (5), IG considers a payment for margin to be cleared funds within 
+the clients account, not within their general account. 
+Though I appreciate Mr N will remain unhappy with this, our service isnt IGs regulator and 
+were not able to ask them to change how they work or indeed to allocate money faster than 
+they do. Instead, taking into account what IG told Mr N about bank transfers, I dont agree 
+theyve handled his transfer unreasonably. 
+Mr N also showed a screenshot of IGs bank transfer page  hes mentioned this wasnt 
+clear about the time taken and as suggested by IG, the option to upload proof of payment to 
+have funds allocated more quickly. But as explained above, the screen that appeared before 
+the one Mr N showed us did refer to the three days for bank transfers. And on the screen 
+Mr N showed us, further down the page it did say, [i]f you are making a payment via an 
+internet bank-transfer funds can be added to your Trading account faster by sending us a 
+proof of payment using the Proof of Payment facility, found in the Payments menu on the 
+left. So I dont agree this changes things either. 
+Lastly, I note Mr Ns concerns around receiving no margin call notifications at the time. But 
+as explained in the customer agreement at 15. (7), IG were under no obligation to inform 
+Mr N about his account balance or margin requirement. This is something they do if theyre 
+able to, but when markets move as fast as they did on the day in question, its often that by 
+the time the level is reached any automatic notification will be redundant as the price will 
+continue to fall through the level which triggered it and the position will be closed anyway. 
+It is very unfortunate that Mr N wasnt able to make an immediate card payment as I can see 
+his strategy was likely to lead him to profit (and indeed he did go on to make two other 
+profitable trades later that day), however I cannot fairly say what happened was IGs fault  I 
+think their actions were reasonable, in line with their usual process and well within the 
+estimated timeline explained. So from everything I have seen, it follows that I cannot fairly 
+ask IG to compensate Mr N for his losses or missed profits. 
+My final decision
+For the reasons explained, I dont uphold Mr Ns complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr N to accept or 
+reject my decision before 22 September 2021.
+ 
+Aimee Stanton
+Ombudsman

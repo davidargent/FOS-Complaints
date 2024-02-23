@@ -1,0 +1,111 @@
+DRN-4299215
+The complaint
+Mr S complains that Monzo Bank Ltd (Monzo) wont refund transactions on his current 
+account that he didnt make or otherwise authorise.
+What happened
+At the start of January 2023, Mr S contacted Monzo and disputed all the transactions to a 
+gambling site which were made using his Monzo debit card on 30 and 31 December 2022. 
+14 transactions totalling approximately £1,300 were made over the two-day period. 
+Mr S said he didnt make any of them. He told Monzo hed been taken ill around that time 
+and needed to go to hospital, and someone had taken his phone, card and wallet and made 
+the transactions without his knowledge. Mr S had shared the PIN for his phone  the same 
+PIN he used to access the Monzo app  with an individual so they could notify his family of 
+his whereabouts. He suspects this individual made the disputed transactions.
+Monzo investigated Mr Ss claim and declined to refund the transactions  it considered that 
+hed likely authorised the disputed transactions. But it accepted there were service issues 
+and paid £70 compensation in recognition of this.
+Our investigator didnt uphold Mr Ss complaint. In summary, they concluded that Mr S had 
+failed with gross negligence in complying with the terms and conditions of the account and 
+keeping his personalised security details safe. They also noted there were discrepancies in 
+his testimony. The investigator also thought the amount of compensation Monzo had paid 
+Mr S was a fair reflection of the impact of its errors on him.
+Mr S didnt agree, and the matter was passed to me to decide. I issued my provisional 
+decision in June 2023. I said that I intended reaching the same overall conclusion as the 
+investigator but for different reasons. 
+I invited further comments from both parties. Monzo replied and said it didnt have anything 
+further to add. Mr S asked for additional time to respond, and I agreed to extend the deadline 
+after considering his reasons for the request. The deadline has since passed but we havent 
+heard from Mr S. Im satisfied its now appropriate for me to progress matters. So, what 
+follows is my provisional decision made final.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Id like to reassure both parties that although Ive only given an overview of what happened, 
+Ive read and considered everything weve been provided in its entirety.
+When considering whats fair and reasonable, Im required to take into account relevant law 
+and regulations; the regulators rules, guidance and standards; the codes of practice; and, 
+where relevant, what I consider good industry practice at the relevant time. 
+Where theres a dispute about what happened, and the evidence is incomplete or 
+contradictory, I must make my decision on the balance of probabilities  in other words, what 
+I consider most likely to have happened in light of the available evidence.
+Generally, Monzo can hold Mr S liable for the disputed transactions if the evidence suggests 
+its more likely than not that he made or authorised the transactions himself. 
+In this case, its not in dispute that Mr Ss personalised credentials were used to make the 
+disputed transactions. The technical data Monzo has provided shows that his card details 
+(card number and CVV code) were used, and the transactions were approved through the 
+Monzo app on his phone. So, the payment transactions were authenticated correctly. 
+But the regulations relevant to this case say that authentication isnt, on its own, enough for 
+Monzo to hold him liable. I also need to think about whether the evidence suggests that 
+Mr S, or someone acting with his authority, consented to the transactions being made.
+To decide whether Mr S  or someone acting with his authority  made the transactions, Ive 
+carefully considered what hes told us about what happened. And Ive considered that in 
+conjunction with a review of the available evidence.
+Mr S has said he needed to go to the hospital around the relevant period and at the time he 
+shared his phones PIN with someone who was assisting him. Because the PIN used to 
+access the Monzo app on his phone was the same as his phones PIN, he believes that is 
+how the individual (who had taken possession of his phone, wallet and card) was able to 
+access the Monzo app to approve the transactions they made. 
+The transaction audit trail Ive seen shows that on 30 December, there were a number of 
+transactions in between the ones to the gambling site. These include a faster payment, an 
+ATM withdrawal, an online payment approved through the Monzo app, as well as a Chip and 
+Pin-authenticated card payment. The faster payment went to an individual Mr S has made 
+payments to frequently. And the merchants involved in the card payments have also been 
+paid before and since the relevant period on an ad-hoc basis, meaning they dont appear to 
+be recurring transactions. 
+At the time of investigating the claim, Monzo asked Mr S if there were transactions apart 
+from the ones to the gambling site that he didnt recognise, and he said there werent any. In 
+his complaint submission to our service earlier this year, Mr S sent a screenshot of his 
+statement for the relevant period and the transactions Ive mentioned were redacted. Based 
+on the above, Im satisfied that these transactions were made by Mr S. And as these 
+transactions were authorised between the disputed ones to the gambling site, Im not 
+persuaded that Mr Ss card and his phone  which was used for some of the payments  
+were not in his possession as he recalls. 
+Whats more, on 30 December, in between the disputed and authorised transactions, Monzo 
+also received a PIN recovery request from Mr S. This required him to complete a video 
+verification in addition to submitting his ID document. Not only did this process require Mr S 
+to have log on to his Monzo app on his phone, but he was also required to upload a short 
+self-recorded video of himself. The information Ive seen shows that the app was accessed 
+on his phone, it was from the usual IP address, and a self-recorded video was uploaded.  
+Given my observations, I think its more likely than not that Mr Ss phone and his card were 
+in his possession at the time of the disputed transactions. And it seems more likely that 
+these were made by Mr S or someone with this authority. That means I dont consider 
+Monzo has been unreasonable in holding him liable.Mr S submits that the gambling site told him it doesnt have an account in his name. 
+I understand that the parent company operates under several brands. So, theres a 
+possibility that an account in Mr Ss name exists under a different brand. But even if that isnt 
+the case, my consideration here is whether I think its more likely than not that the payments 
+were authorised by Mr S, not whether the funds were loaded on to an account in his name. 
+Mr S also claims that hes been advised by the gambling site that his bank presented a 
+chargeback, and that it was successful. But Monzo has provided evidence to show that no 
+chargebacks were raised in connection to the payments. I wont be able to comment any 
+further on why Mr S was told otherwise by the third party. But Im satisfied Monzo didnt 
+present a chargeback.
+Ive also considered Mr Ss concerns about the poor customer service he received from 
+Monzo. Given the serious nature of Mr Ss claim  fraud had been committed  it is 
+understandable why Monzo needed time to investigate his concerns. But it has already 
+acknowledged that Mr S waited far longer than it would have liked to report the matter 
+initially. It has also accepted that one of the agents spoke to Mr S in a manner that fell below 
+its standards. To recognise these mistakes, Monzo has paid £70 compensation. I know Mr S 
+feels very strongly about Monzos service failures. But looking at the circumstances of this 
+complaint, I find the compensation amount that Monzo has paid in recognition of its errors is 
+fair. So, I dont plan on asking it to increase it. 
+In summary, I recognise that Mr S will likely be disappointed with this outcome. But as I cant 
+safely conclude that Monzo has been unreasonable in holding him liable for the disputed 
+transactions, and I find that its already offered fair compensation for the service issues, 
+I wont be requiring it to take any further action.
+My final decision
+For the reasons given, my final decision is that I dont uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr S to accept or 
+reject my decision before 12 September 2023.
+ 
+Gagandeep Singh
+Ombudsman

@@ -1,0 +1,263 @@
+DRN-2970437
+The complaint
+Mr I complains about OANDA Europe Limited (the business) applying a margin closeout on 
+the positions he had opened which caused him a loss.
+What happened
+Your text here The business provides an online trading platform (fxTrade) and access to 
+other platforms through which clients can trade leveraged products  Contracts for 
+Differences (CFD) and spread bets  in various underlying instruments on an execution only 
+basis.
+Mr I opened a trading account with the business in April 2020 and traded as a retail client. 
+He made several trades in S&P 500 and held a position amounting to 40 units as of 21 
+September 2020 when his margin fell below the margin required and the business closed his 
+position at a loss. This led him to complain to the business.  
+The business didnt uphold the complaint. In its final response letter (FRL) to Mr I, in 
+summary, it said the following:
+The margin close out was in respect of a sell order for 40 units in SPX500/USD 
+which was filled on 21 September 2020 at 02:18:34PM UTC at a price of 3245.30 
+USD which resulted in a loss of 10,270.50USD.
+The margin closeout was initiated correctly as the available margin dropped below 
+the required 50% margin requirement.
+The margin requirements are governed by the Financial Conduct Authority (FCA)
+At the time of margin closeout, the position closed was the only one open.
+When multiple positions are running the fxTrade platform will automatically initiate a 
+margin closeout whereby all tradeable open positions in the account are 
+automatically closed.
+It would not amend leverage on behalf of a client.
+It has investigated the issue he was having with logging into the platform and this 
+isnt the result of a wider issue affecting its servers. Its terms and conditions make 
+clear it is for him to ensure he can access the platform.
+The fact the candlestick chart he is looking at is approaching the take profit order he 
+has placed but the order isnt triggered may be due to the chart he is viewing. For the 
+order to execute the applicable market price must meet the price he has specified.
+It will not reinstate positions that have undergone correct margin closeout and if he is 
+not satisfied with the service, he can find a broker that he thinks is more suitable.
+The investigator didnt uphold the complaint. In short, he found the following:
+There was a regulatory requirement that the business close open positions on 
+speculative investments when the margin requirement fell below 50%.
+The businesss terms and conditions required clients to maintain sufficient funds to 
+meet the margin requirement on open positions this being 50% of the margin needed 
+to place the trade.
+Once the margin fell below 50% of the margin requirement the business was obliged 
+to close the position.
+The business cant be held responsible for Mr Is inability to access the platform due 
+to internet problems.
+It was for Mr I to ensure he could access the platform and the business had no 
+obligation to monitor and manage his account.
+Mr Is concern over the order in which the positions was closed is noted but he only 
+had one position in S&P 500.
+Once the position was closed it couldnt be reinstated.
+Mr I didnt agree with the investigators opinion. In summary he made the following points:
+The business has not acted in accordance with the terms and conditions contrary to 
+what the investigator has said.
+He has funded his account in two similar situations.
+The service is internet based and the only way to fund the account is to log in which 
+he tried but the business seems to have blocked him.
+His account had sufficient money, but the market price moved aggressively for no 
+reason and this makes him question about how the business has handled his orders 
+and how conflicts of interest have been avoided.
+On many occasions where the price of the financial instruments has resulted in his 
+positions being closed he has asked for these to be reinstated but this has been 
+refused which proves the businesss bad intentions and failure to act in the best 
+interest of the client.
+There were six or seven positions and if it had closed only one of them closing all 
+positions could have been avoided.
+The regulator requires firms to protect client money and by closing out all the 
+positions that isnt what the business did.
+He had sufficient funds and still had 3000 USD or more in his account at closure.
+The terms refers to closing one or more open positions not all simultaneously.
+The business should have closed out the position with least risk first and given time 
+for him to fund the account.
+The business should have had alternative features in place to protect the client such 
+as an offline money wallet or auto leverage change.
+If the concern is the margin, why didnt they let him reinstate and fund his account.
+How can the investigator confirm the problem with access to the platform wasnt a 
+business server issue if he hasnt investigated this himself?
+He thought it could be the network and internet connection issues but because of the 
+refusal to let him reinstate and fund his account he is now accusing the business of 
+blocking him.
+Whether it was due to internet issues or the business blocking him he had sufficient 
+money in his account and tried to fund the account. If the business isnt liable, then 
+neither is he and it should give him his money back.
+The positions werent correctly closed, and it is possible to reinstate them. 
+The investigator responded to the further points raised by Mr I and said his view hadnt 
+changed. He said Mr I had one position made up of six trades in the same instrument and 
+this was his only open position at the time it was closed. He said he had seen no evidence 
+that the business had blocked Mr Is access to his account as he had suggested and that it 
+had said there were no problems with its servers.The investigator said that the maintenance margin amounted to 3501.92 USD and that the 
+balance on Mr Is account at the time his position was closed was only 3235.89 USD  so 
+below the margin required.
+Mr I provided a further response and in summary made the following main points:
+The investigator hadnt addressed the points he made previously.
+He didnt have one position but seven different positions amounting to 44 units in 
+S&P 500 one of which he managed to close reducing his positions from seven to six 
+and the remaining units to 40.
+He didnt agree that the businesss margin close out rules meant that where there 
+were multiple positions are running the platform will automatically initiate a margin 
+close out with all open positions being closed.
+If the business do close all positions on margin breach this is wrong and against what 
+all other brokers do.
+The business should have reduced the overall position incrementally or firstly closed 
+out one of several positions to provide some breathing room.
+The business should have additional features in place in the platform to protect 
+clients if they cant log into their account, like other brokers do.
+If the platform does automatically close positions this is a mistake in the system that 
+the business needs to fix.
+The proof that the business blocked access is that he was not able to access his 
+account to fund it and it then closed all his positions and then refused to reinstate 
+these as he requested.
+It is the investigators responsibility to seek evidence and investigate, not just rely on 
+what the business had said.
+As Mr I didnt agree with the investigator the matter has been referred to me for review.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+I think it is important to make clear what my role is. I need to consider the evidence provided 
+by the parties and relevant law, regulation, and best industry practice - although I am not 
+bound by this  and come to a decision that is fair and reasonable.
+It is for me to decide what weight to give to any piece of evidence and where there is a 
+dispute between the parties on any particular fact or issue I will make findings on a balance 
+of probabilities  what is more likely than not.
+In reaching a fair and reasonable decision I will concentrate on what I consider to be the 
+main issue/s in the complaint. I will not necessarily address every issue raised by a party 
+and I am not required to do so.
+I understand why Mr I feels strongly about this matter, given the reason he has suffered a 
+loss isnt because he didnt have the funds available to put into his account to avoid margin 
+closeout, but because he wasnt able to access his account to put more funds in or take any 
+other action in relation to his margin. However, having considered the evidence, I agree with 
+the investigator that the business did nothing wrong and I am not going to uphold this 
+complaint for reasons I explain below.
+I have firstly considered whether the business should have applied margin closeout. The rules under which the business operate are set out in the Handbook of the FCA, in the 
+Conduct of Business Sourcebook (COBS).
+COBS 22.5.13R sets out margin close out requirements that firms must apply for retail 
+clients trading restricted speculative investments. In short, the rule requires firms to close a 
+retail clients open position(s) where their net equity falls below 50% of the margin 
+requirement.
+COBS 22.5.11R sets out different margin requirements  so for a trade where the underlying 
+asset is a major stock market index, minor foreign exchange pair or gold the margin 
+requirement is 5% of the value of exposure the trade provides and that is the margin that the 
+business required Mr I to have on opening a trade in S&P500. 
+I have also considered the terms of business that applied to Mr Is account at the time. I set 
+out below the key paragraphs of the terms:
+6.8 We may perform Margin Closeout if the market moves against you, and/or to comply 
+with Applicable Law, as detailed further in paragraph 9. A margin closeout will result 
+in us closing some or all of your Open Positions. This would realise any losses or 
+gains on your Open Positions. We do not need to give you advance notice or time to 
+respond to Margin Closeout. This is detailed further in paragraph 9 below.
+9.3 In order to keep a position open, you are required to maintain a minimum amount of 
+money in your Account, this is known as Margin Requirement.
+9.4 You must maintain sufficient funds in your Account at all times to meet the Margin 
+Requirement on your Open Positions(s). The Margin Requirement is 50% of the 
+Margin required to open your positions.
+9.7 We may use any money we hold on your behalf, or close out some or all of your 
+Open Positions, in order to meet a Margin Call, including on other sub-accounts.
+9.8.We will close out one or more of your Open Positions when you do not have 
+sufficient funds available on your Account to cover the Margin Requirements, ie: the 
+available funds fall to below 50% of the Margin needed to open your Positions
+From the information available the business closed his position in S&P 500 when the funds 
+in his account fell below 50% of the required margin. This was in line both with its regulatory 
+obligation and its own terms of business as set out above. So, the business did nothing 
+wrong with closing Mr Is position when it did.
+I note that Mr I has argued that he didnt have one position in S&P500 at the time of margin 
+closure. He has referred to having made seven separate trades in S&P 500 and closing one 
+of these leaving six open positions which were then closed out. He has raised this because 
+he argues that the business shouldnt have closed all the positions in one go.
+I think there is some confusion over the meaning of trades and positions with the terms 
+often being used interchangeably. I accept that Mr I made six different trades in S&P 500, 
+but I am not satisfied this means he had six open positions. 
+I note that paragraph 10.11 of the terms of business states:
+We may establish trading and leverage limits on your Account at our sole discretion, or to 
+comply with Applicable Law, with or without notice. Such limits may include, but are not 
+limited to.limits on the size of any Transaction or series of Transactions which together create a large size Open Position (my emphasis).
+I think this shows that one position can be made up of a series of transactions and I think 
+that was the case with Mr Is six trades in S&P 500. I think he had one sell position in S&P 
+500 amounting to 40 units. I think the trades he made simply increased the size of his 
+position. As I think there was only one position there is no issue about the business closing 
+this when the margin fell below the required amount.
+I note that Mr I said he closed one of the trades that he made which amounted to four units. I 
+am not clear on whether he is suggesting this is evidence that the individual trades were 
+separate positions but if he is, I dont agree. There was nothing preventing him from 
+reducing the size of his overall position by selling units in the same way he could increase 
+the size of his position by purchasing more units.
+I note the margin rules includes the following information about strategies to avoid margin 
+close out:
+Incrementally reduce the size of your positions as you get close to margin closeout. fxTrade 
+allows you to trade in arbitrary units, as opposed to fixed lots, which makes this simple to 
+do.
+In the circumstances I dont think the fact that Mr I sold four units before margin closeout is 
+evidence that he had more than one position.
+However, I have in any event considered whether the business would have done anything 
+wrong if the six trades Mr I made in S&P 500 were treated as six separate positions. He 
+argues that the terms and conditions dont entitle the business to close all open positions in 
+one go. 
+I acknowledge that paragraph 6.8 of the terms refers to closing some or all of your open 
+positions and paragraph 9.8 in effect says the same. There is therefore an indication in the 
+terms that the business could choose to close only some positions. However, it also allows 
+that they can close all open positions. Furthermore, Margin Closeout is defined in the terms 
+of business in the following terms:
+means the automatic closing of all your Open Positions by the Trading Platform, which 
+occurs when the amount in your Account doesnt meet the Margin Requirement.
+So, it seems in practice margin closeout will involve all open positions being closed out. 
+Given the definition of margin closeout and the fact that paragraph 6.8 and 9.8 both allow 
+for all positions to be closed, I dont think that the business would have done anything wrong 
+in closing six open positions in any event. 
+I note Mr I argues that the positions shouldnt have been closed simultaneously but I think 
+the definition of margin closeout indicates this is what will happen automatically and there is 
+nothing in the terms of business which suggests margin closeout of all positions cant be 
+simultaneous.
+Mr I has suggested that the business has failed to adhere to its obligations relating to best 
+execution in relation to his trades. He has referred to the provisions of COBS 11.2A in this 
+regard. The best execution rules dont prevent firms from closing out positions for margin 
+breach. The business did nothing wrong in closing out Mr Is position when his margin fell 
+below what was required. 
+If there had been evidence to suggest that the price on close out was less than should have been applied then it could be argued that the busines did something wrong, but I have seen 
+no such evidence.
+Mr I has suggested that the business should have had features to protect clients that other 
+brokers provide. He has referred to an offline money wallet or auto leverage change as 
+examples. However, the business doesnt provide such options to clients, and isnt required 
+to do so. Mr I didnt have to use the businesss service, he chose to do so. In doing so he 
+accepted the basis on which the service was provided and cant then complain what he 
+agreed to didnt include what he wanted. 
+Mr I says he tried to fund his account but was unable to access the platform. When the 
+investigator asked him about this, he said he was at a funeral and the internet wasnt good. 
+The business confirmed in its FRL that it investigated whether there was any issue with its 
+servers and no problem was identified.
+However, in response to the investigators opinion Mr I suggested that the business had 
+blocked him from accessing his account. From what he has said he has now suggested this 
+because he thinks the businesss refusal to reinstate his positions and allow him to fund his 
+account indicates it deliberately blocked his access in the first place. He has provided no 
+evidence to support what he has now suggested happened. 
+There is no evidence to suggest that the business deliberately blocked access to the 
+account. I note Mr I suggested this is something we needed to investigate but that isnt part 
+of our role. What I must do is consider the evidence provided by the parties and make a fair 
+and reasonable decision based on that evidence.
+Mr I originally suggested that he had poor internet access, and this is why he couldnt access 
+his account. I think he is unlikely to have put forward this explanation by mistake and this 
+also ties in with the businesss enquiries which identified no issue with its servers. I dont 
+think there is any basis to Mr Is subsequent suggestion that the business blocked access. In 
+short, I think it is more likely than not that his inability to access his account was because he 
+had a poor internet connection at the time as he originally indicated. 
+Mr I has also argued that as he isnt responsible for his inability to access his account the 
+business should repay him the money. He is suggesting that as the terms of business 
+include provisions which mean the business wont be liable for events beyond its control the 
+same should apply to him. 
+Such provisions are quite normal in agreements between firms and clients. However, the 
+relevant terms only apply to the business not to him and there is no basis for me finding that 
+because he wasnt responsible for not being able to access his account that the business 
+should repay the loses to him. 
+In short, it doesnt matter whether he was unable to access his account through some fault 
+of his own or because of matters beyond his control. It was his responsibility, at all times, to 
+ensure he had sufficient margin and as such he is liable for the loses arising on margin 
+closeout.
+There is also no basis for finding that the business should have reinstated his positions after 
+margin closeout simply because he has the funds available. The business has not acted 
+unreasonably in refusing to reinstate the positions given the terms of business dont require 
+it to do so. The only circumstance I think it would be reasonable to ask it to do this would be 
+where it has wrongly applied the margin closeout in the first place  which isnt the case 
+here.My final decision
+I dont uphold this complaint for the reasons I have set out above. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr I to accept or 
+reject my decision before 22 April 2022.
+ 
+Philip Gibbons
+Ombudsman

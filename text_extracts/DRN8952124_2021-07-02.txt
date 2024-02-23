@@ -1,0 +1,190 @@
+K821x#15complaint
+N, a limited company,  has complained First Data Europe Limited wont refund them  for a 
+transaction made using a card terminal  which they didnt authorise.
+Mrs R, a director of N, represents them in their complaint.
+background
+In January 2019 Ns card terminal was used without  Ns authority. The terminal  was used to 
+process a refund of £4,000. Mrs R complained to First Data  at the end of February that this 
+had been done without  Ns consent.  She was particularly  concerned  that this transaction 
+bore no resemblance  to Ns normal payment traffic  and had not been  questioned.
+First Data seemed to accept that N had been  a victim  of fraud but believed  their terms and 
+conditions determined where responsibility lay. As they considered these meant  transactions 
+were processed at Ns risk, they werent prepared to make any refund. They  expected N to 
+repay the outstanding funds.
+Mrs R brought Ns complaint to the ombudsman  service. An investigator reviewed what  had 
+happened. Overall  she didnt agree with First Data. As N hadnt  authorised  the refund 
+transaction, they should be reimbursed under the Payment  Services Regulations. She also 
+believed there  was no evidence to show N had acted with intent or gross negligence leading 
+to the refund  being processed.
+First Data didnt agree with this outcome. They pointed out that N hadnt  let them know about 
+the unauthorised  refund  for a month which limited their ability to get any money  back. They 
+asked an ombudsman to consider Ns complaint.
+my findings
+Ive considered all the available  evidence  and arguments to decide  whats  fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I explain below why Ive come to the conclusion I have.
+Where there is a dispute about what happened, I have based my decision on the balance  of 
+probabilities. In other words, on what I consider is most likely to have happened in the light 
+of the evidence.
+When considering  what is fair and reasonable, Im required to take into account: relevant law 
+and regulations; regulators rules, guidance  and standards; codes of practice; and, where 
+appropriate, what I consider to have been good industry practice at the relevant time. 
+how did the fraud happen?
+The detail of how the fraud  worked   with three  individuals  in the guise of making  a card 
+payment, taking control of the card terminal and processing the refund  without  Ns staff 
+being aware of what was going on  was covered in our investigators view of 4 November 
+2020.
+Ref: DRN89521242Im aware, as will be First Data, that this isnt an unknown method of committing  fraud. 
+Fraudsters with sufficient knowledge of how card payments work have seen this as a 
+method of processing  higher-value refunds to cards, which are then used for fraudulent 
+spending.
+First Data has told us that the information  about  how to process refunds is included  in the 
+instruction guide  which  was sent to N along  with their card terminal.  This states:
+the terminal  is shipped with an initial default password of [XXXXX] but is configured so that 
+a change of this password is required before you process any transactions.
+Terminals generally have a default code set up which  can be used to activate refunds to a 
+debit or credit card (as well as authorise  other  specific actions). As far as Im aware First 
+Data hadnt issued  any instruction to their merchants in 2019 or earlier  that it is incumbent 
+on them  to ensure all codes, passwords and PINs are changed from their default setting.
+I see no reason to doubt that a supervisor  password  was used to process the refund. 
+Particularly as I believe  its not a simple process  for any refund to be processed without a 
+code being used.
+Based on this I think its most likely  that sufficiently-knowledgeable fraudsters were aware of 
+any default code  which allowed  them  access to this mechanism of setting up fraudulent  
+refunds. 
+Payment Services Regulations
+First Data has already  accepted in correspondence that the relevant law providing a 
+framework for how to consider this complaint is The Payment Services  Regulations 2017.
+There are two key aspects to clarify. Firstly that merchant acquiring activity  comes under 
+these regulations and secondly  that payment transactions, as defined  by the Regulations, 
+were executed by the fraudsters using Ns terminal. 
+Im also going to confirm  that N, a limited company, are covered by the PSRs  by virtue of 
+being a payment service user. Im aware First Data  queried whether  N  a business   didnt 
+fit the definition  of a consumer  (which  means an individual ). The definition of payment 
+service user under the regulations covers a person when  making  use of a payment service 
+in the capacity of payer, payee  or both. Im satisfied N is a payment service  user within the 
+meaning of the regulations.
+Our investigator laid out the detail on these  aspects in correspondence with First Data. Ive 
+not seen any dispute raised by First Data that firstly  they are defined  as a payment service  
+provider under these  regulations. 
+Payment services, as included in Schedule 1 of PSRs 2017, includes the execution  of 
+payment transactions. Schedule 1, Part 1, clause 1. states:
+(c) the execution of payment transactions, including transfers of funds on a payment 
+account with the users  payment service  provider or with another payment service provider  
+(i)execution of direct debits, including one-off direct debits
+(ii)execution of payment  transactions  through  a payment card or a similar device
+(iii)execution of credit transfers, including standing  orders
+Ref: DRN89521243(d) the execution of payment transactions where  the funds are covered  by a credit  line for a 
+payment service user  
+(ii) execution of payment transactions through  a payment card or a similar device
+I believe the transaction which is essentially  the subject of this complaint  the refund  was 
+carried out on Ns behalf by First Data and credited to the fraudsters.  This is a payment 
+transaction for the purposes of the PSRs.
+Guidance from the Financial Conduct  Authority  also states two separate  things:
+Acquiring of payment  transactions is defined in regulation 2 as a payment service provided  
+by a payment  service  provider contracting with a payee  to accept and process  payment 
+transactions which result in a transfer of funds to the payee. This includes traditional  
+merchant acquiring  services enabling  suppliers  of goods, services, accommodation or 
+facilities to be paid for purchases  arising  from card scheme transactions.
+The firm providing the merchant acquiring service enabling the [merchant] to process the 
+card transaction and receive payment is providing  a payment service in this instance.
+Im aware First Data has not disputed any of this background. However  it is relevant that I 
+make a finding that the disputed transaction  the refund   falls within the definitions  of the 
+PSRs.
+There are two elements  of authorisation of a payment  transaction  under the PSRs: 
+authentication and consent.  These  must both exist for a transaction  to be authorised.
+N has denied authorising the execution  of the payment transaction.  It is for First Data  to 
+prove that this was authenticated.  Ive not, however, seen any evidence  to show how or 
+when or in what order the code was entered to authenticate  these transactions.  However,  as 
+stated above,  I accept the principle that there are limited circumstances in which a refund 
+can be processed. Therefore I agree that the password was used  to authenticate this 
+transaction.
+First Data believes  that N consented  to the execution of the payment transaction.  I believe 
+from what theyve stated  their belief rests on the payment transaction  being  properly carried 
+out. Id draw their attention to regulation  75 of the PSRs. This states:
+Where a payment  service user denies having authorised an executed payment transaction, 
+the use of a payment instrument recorded by the payment  service  provider, including  a 
+payment initiation  service provider where appropriate, is not in itself necessarily sufficient to 
+prove either that  
+(a)the payment  transaction  was authorised by the payer; or
+(b)the payer acted  fraudulently or failed with intent or gross  negligence to comply with 
+regulation 72
+So I dont  agree with First Datas interpretation. I dont really believe based on the evidence 
+provided by N and statements by First Data that theres  evidence  to show N consented to 
+this transaction.  The refund was for an amount of money well in excess  of normal  payments 
+that N accepted  and follows a known fraudulent pattern. Im satisfied N didnt consent  to this 
+transaction.
+Ref: DRN89521244Its also relevant to consider whether N may have  acted with intent or gross negligence. I 
+know that First Data  will be aware  that gross negligence is a high bar to get over and cannot  
+be seen as mere  carelessness. 
+The FCA guidance to the PSRs state:
+The burden of proof lies with the payment service provider and if a claim that a transaction  
+is unauthorised  is rejected, the rejection must be supported by sufficient evidence to prove 
+that the customer is guilty of fraud, gross negligence or intentional breach and the reason  for 
+the rejection must be explained  to the customer.
+First Data has told us that N failed to change their terminal password and only told them  a 
+month after the fraudulent refund that this had happened. However I dont believe either of 
+these two facts amount  to gross negligence. As stated  above, Im not aware that First Data 
+issued any instruction to their merchants in 2019  or earlier  about  how important it is to 
+ensure all codes  and PINs are changed  from their default setting.
+Nor can Ns advice to First Data about  the fraud  be seen as late in terms of whats contained 
+within the PSRs.  I appreciate First Data were  notified too late to track down the funds but 
+that doesnt change the legal requirement  upon  them to refund  N for the unauthorised  
+transaction.
+Overall I dont believe the case for gross negligence has been  made.
+terms and conditions
+I have considered the terms and conditions that First Data  supplied  to N at the beginning of 
+their agreement. 
+I dont see theres anything within these which makes me believe these have any primacy 
+over the PSRs.
+Although First Data alleges N is in breach of these, I dont believe this is the case. For 
+example there is no evidence to suggest  N made their code known to any other party.  In fact 
+if the default code was in use as I believe then this is what seems  to be the determining  
+factor in leading to the fraud. That and fraudsters targeting N.
+Ive already demonstrated the transaction was unauthorised under the PSRs. I dont believe 
+First Datas terms  and conditions trump these  regulations in requiring N to be refunded.
+triggers
+Mrs R, on Ns behalf, raised a concern that First Data didnt spot the unusual pattern of this 
+transaction being refunded. First Data confirmed they have a fraud monitoring team but they 
+didnt identify this transaction  as unusual.
+When reviewing this complaint, Ive already  confirmed I take into account  the law, regulators 
+rules and guidance, any relevant codes of practice  and what  I consider to have been  good 
+industry practice at the time. This means  I believe, as does the regulator, that First Data  
+should fairly and reasonably have had systems  in place to look out for unusual transactions  
+or other signs that might indicate  that its customers were at risk of fraud (amongst  other 
+things). This is particularly  so given the increase in sophisticated fraud and scams in recent 
+Ref: DRN89521245years, resulting  in payment service providers being  generally more familiar with than the 
+average customer. And that includes their business customers. 
+I appreciate First Data may believe the mechanisms at their disposal to undertake  detailed  
+monitoring is more limited  than those that may rest with banks. But Im not sure I agree with 
+this assessment. Unlike banks, First Data is reviewing sets of transactions  carried out by 
+specific customers rather than the breadth of transaction  and customer types that banks 
+have.
+So I do believe that First Data could have  been alerted to this transaction   specifically the 
+value of the refund should have  caused  alarm bells to ring. However as Ive already decided  
+N didnt authorise  this transaction, then this conclusion  is the one that impacts my proposed 
+resolution.
+putting things  right
+As I have concluded that N didnt authorise  the refund,  I am going to ask First Data to put 
+things right. 
+My understanding is that N is out of pocket for the £4,000 which  has had an impact on them.  
+First Data will need to repay  £4,000  to N. 8% simple interest a year will need to be added  to 
+this from the date N repaid First Data until the date of settlement.
+Im very aware that Ns complaint has been  with our service for a considerable period. 
+During that time weve been dealing with a rising number of cases of this type which weve  
+taken time to ensure were considering on a fair and reasonable  basis  in line with our 
+statutes. I appreciate the impact  this must  have  had on N. I am sorry about this.
+Unfortunately I am not able to instruct First Data to pay compensation to N for the distress 
+this has inevitably caused its director. In cases where complainants  are companies, like N 
+here, we are not able to pay compensation to companies for the distress  and inconvenience 
+suffered by their directors. 
+my final decision
+For the reasons  Ive given, my final decision is to instruct  First Date  Europe  Limited  to:
+Repay £4,000 to N; and
+Add 8% simple interest a year to this from the date N repaid First Data until the date 
+of settlement.
+Under the rules  of the Financial Ombudsman Service,  Im required to ask N to accept or 
+reject my decision  before 2 August 2021.
+Sandra Quinn
+ombudsman
+Ref: DRN8952124

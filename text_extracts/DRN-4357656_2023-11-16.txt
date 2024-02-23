@@ -1,0 +1,143 @@
+DRN-4357656
+The complaint
+Miss S complains that Revolut Ltd failed to refund transactions made from her account that 
+she didnt recognise.
+What happened
+What Miss S says
+Miss S says she noticed her mobile phone had stopped working and believed this could 
+have been because of an update to it. Miss S says it took some time to get her phone 
+working again. She then had to re-load the Revolut app on her phone but found she couldnt 
+log in to it. 
+About three days after the problem with her phone, Miss S eventually regained access to her 
+Revolut account and found numerous transactions had been made from it which she didnt 
+recognise. Some funds had been transferred to other accounts, some payments made using 
+her card linked to the account and some exchanged for crypto currency. 
+Miss S informed Revolut about these payments and informed them about the problems 
+shed had with her phone and app. A few payments had been blocked (and later reinstated 
+on Miss Ss account) by Revolut because of concerns about the transfers and some card 
+payments were later refunded by the merchants themselves. 
+The full list of transactions were produced by the investigator in her report to both parties so I 
+dont intend to repeat them here.
+Miss S told Revolut shed lost several thousand pounds, and this was as a result of her 
+phone/email and Revolut account being compromised by a hacker. Miss S provided details 
+of an attempt to reset her security credentials for her phone and its account. 
+Miss S confirmed to Revolut that she hadnt provided any of her banking/phone security 
+information to anyone else and she was the sole user of her phone. She confirmed she 
+hadnt been approached by anyone seeking her help or trying to obtain security information 
+from her.
+Miss S asked for her lost funds to be refunded, but Revolut declined, believing there was no 
+compromise of her account. Miss S disagreed and after her complaint to Revolut was also 
+declined, she brought it to the Financial Ombudsman Service for an independent review.
+What Revolut says
+Revolut received notice from Miss S that her account had been compromised and numerous 
+payments made from it. They looked into the issue but couldnt determine where it had been 
+compromised.
+Revolut confirmed that Miss S had added a new device (phone) to her account several 
+weeks prior to the disputed transactions. This included changing the phone number attached 
+to the account. The procedure for adding a new phone included a request for a photograph 
+of Miss S, this was sent at the time and Revolut were satisfied it matched the one shed 
+provided when opening the account some months earlier.
+The new device also used the same IP address which Miss S had used before, and this new 
+phone was responsible for making the various disputed transactions. Based on this 
+information, Revolut held her liable for the payments, believing shed carried them out 
+herself. 
+Note: IP addresses are a means to identify physical locations that online transactions are
+connected to and can be the actual physical location or other locations connected to the
+provider of the data services.
+The investigation so far
+Miss Ss complaint was looked into by a senior investigator. She asked both parties for 
+information about the complaint. Miss S provided an explanation of what happened and 
+provided details of messages shed received regarding her phones security.
+Revolut provided audit data concerning the changes to Miss Ss account (the addition of a 
+new device) and information about the disputed transactions.
+After reviewing the evidence, Miss Ss complaint wasnt upheld. The investigator commented 
+that:
+The data from Revolut showed it was Miss S whod added another device to her 
+account.
+The photos provided to add the phone matched the one already held by Revolut.
+A common IP address was used by both devices indicating that it was the same 
+person who had access to them.
+Miss S hadnt given her device or account details to anyone else.
+There was no evidence of a compromise or a plausible explanation how a third party 
+could have made the payments without Miss Ss knowledge.
+Miss S strongly disagreed with the report and, in summary, said:
+She wasnt responsible for the disputed transactions and reported them to Revolut 
+herself.
+Shes never owned the model phone added to her account.
+She believed Revolut were responsible for her details being compromised.
+Further details of her phones account being compromised were provided and a 
+notification concerning another payment method which had been stopped due to 
+suspicions of fraud (dated after these disputed transactions).
+Miss S said she kept her security details on the notes app on her phone, which is 
+how her account could have been compromised.She used public Wi-Fi which could account for the matching IP address.
+Miss S didnt accept shed provided her photos to Revolut and theyd been obtained 
+by the scammer.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+The relevant law surrounding authorisations are the Payment Service Regulations 2017. The 
+basic position is that Revolut can hold Miss S liable for the disputed payments if the 
+evidence suggests that its more likely than not that she made them or authorised them. 
+Revolut can only refuse to refund unauthorised payments if it can prove Miss S authorised 
+the transactions, but Revolut cannot say that the use of the card details or banking app 
+conclusively proves that the payments were authorised. 
+Unless Revolut can show that consent has been given, it has no authority to make the 
+payment or to debit Miss Ss account and any such transaction must be regarded as 
+unauthorised. To start with, Ive seen the banks technical evidence for the disputed 
+transactions. It shows that the transactions were authenticated using the payment tools 
+issued to Miss S. Ill now need to consider the information provided by both parties to 
+determine whether theres sufficient evidence to hold Miss S responsible for the disputed 
+transactions or not.
+Miss Ss version of events is that someone (unknown) took over her account, including her 
+phone and made various transactions from her account. Revolut have a different version and 
+believe their evidence points to Miss S being responsible for them.
+Examining the evidence provided by both parties, its apparent that Miss S had messages 
+from her phone provider that showed her account details had been used and a later 
+message to say that an attempt had been made to reset those details. This notice wasnt 
+actioned (by the phone operator) at the time. Thats because such requests are delayed to 
+help protect the accounts owner. This notice showed the request wouldnt be actioned until 
+well after these disputed transactions took place.
+I accept that Miss S had some messages concerning her account ID (held with her phone 
+provider), but theres nothing that indicates anyone was successful in taking over her 
+account. 
+Revoluts information showed that when Miss S opened the account, she provided a 
+photograph of herself, and this was later repeated when the second device was added to her 
+account some weeks before the disputed transactions were made. Miss S has argued that 
+these photographs were used by the scammer, and they werent the type she would send to 
+Revolut for the security check. Having looked at Revoluts records, they show the date and 
+time of each photo when it was received by them. Both photos are of Miss S and the audit 
+data linked to them indicates they were genuine and not subject to some form of 
+manipulation. So, its the case that if they were obtained by a scammer, then the account 
+itself would be false  because it couldnt have been opened at all without them. Miss S 
+hasnt raised this possibility and appeared to use the account normally from when it was 
+opened. The other option is that the photos were uploaded by Miss S herself and thats 
+supported by the audit evidence. I think that what Revolut have shown is that Miss S 
+registered the second device after providing a photo of herself.
+This is further supported by Revoluts evidence that a common IP address was used for both the devices associated with Miss Ss account. The pattern of use of those devices doesnt 
+support Miss Ss assertion that a scammer compromised her account on the same public 
+network, it's far more likely it was linked to a regular location. So, the combination of 
+Revoluts evidence doesnt support an unknown third party being responsible for these 
+transactions. 
+Ive also thought about the registration of the second device  it took place some three 
+weeks or so before the disputed transactions took place and at the time, the account held a 
+very healthy balance. If a scammer/fraudster had access to the account from the second 
+device, Id expect the account to be emptied at the time. Theres no good reason for a 
+criminal to wait if there are funds in the account as theyre unlikely to know if theyll be spent 
+or the compromise of the account identified. Generally, these types of compromise result in 
+a fairly quick attempt to remove the funds, but that didnt happen here.
+Ive also considered the various blocks applied to some transactions and credits to the 
+account, including the refund made by a merchant. I dont think that any of these show that 
+the account was operated by anyone without Miss Ss knowledge.
+Overall, Im not persuaded that Miss Ss account was compromised as the evidence doesnt 
+support that. What it does show is that Miss S registered a new device that was then used to 
+make various disputed transactions, including some crypto currency exchanges which are 
+also present on the account from some months earlier.
+My objective assessment here is that I think Miss S was more likely than not responsible for 
+these payments and it was reasonable for Revolut to hold her liable for them.
+My final decision
+My final decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Miss S to accept 
+or reject my decision before 14 December 2023.
+ 
+David Perry
+Ombudsman

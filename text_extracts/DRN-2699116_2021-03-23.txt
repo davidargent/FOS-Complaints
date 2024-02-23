@@ -1,0 +1,193 @@
+DRN-2699116
+The complaint
+Mrs J has complained about an international payment made through TSB Bank plcs internet
+banking.  
+What happened
+Mrs J attempted to make an international payment through TSBs internet banking in pounds
+sterling for a family member. After the beneficiary didnt receive the funds Mrs J contacted
+TSB who told her there were no notes to say it had been stopped or returned but they could
+put a trace on the payment. They said there was no 5 digit transit number entered on the
+transaction which would be needed for payments to Canada. Mrs J said she did not have
+one of these but did say she had a nine digit routing code.
+TSB tried to add this onto the Society for Worldwide Interbank Financial Telecommunication
+(SWIFT) message but werent successful. The payment had been returned the day before
+but this information wasnt available to the staff who were trying to help Mrs J. As the
+payment had been returned there would have been no way the outcome of the calls resulting
+in the payment being successful. This resulted in a loss of nearly £1,500 for Mrs J when the
+payment had been converted back to pounds sterling.
+Mrs J complained to TSB as she said their system did not allow her to input all of the
+required information. She wanted TSB to refund her losses on the transaction.
+TSB said that it was Mrs Js responsibility to obtain all of the information required from the
+beneficiary to ensure the payment was made and did not uphold her complaint so Mrs J
+brought her complaint to our service.
+Our investigator upheld Mrs Js complaint. She said the rejected SWIFT message showed
+there was missing information but Mrs J had provided this information initially. TSB wanted
+the matter to be referred to an Ombudsman as they said there is a free format field where
+Mrs J could have put the routing code and they will send us a payment journey of what Mrs J
+should have input and in what fields.
+As my findings differed in some respects from our investigators, I issued a provisional 
+decision to give both parties the opportunity to consider things further. This is set out below: 
+Ive considered all the available evidence and arguments to decide whats fair and
+reasonable in the circumstances of this complaint.
+Firstly, the individual circumstances of this complaint are quite unique. There has been a lot
+of information provided to Mrs J and our service which has been conflicting. That said, the
+parties seem to be generally agreed that the issue here is that Mrs J didnt provide a routing
+code and it was that which meant her payment was returned.
+From looking at the evidence here, I think thats the case too. The relevant SWIFT message
+shows the reason the payment was returned as states insufficient info full ben addr 12 digit
+act nbr and branch strt city required. Mrs J had input this information, so I looked at the
+technical reasons why the payment could have been blocked.
+When a customer enters information onto an online form, each piece of information from a
+field (box) correlates to a number on a SWIFT message. The information from the rejected
+payment shows two block codes, 108 and 119.
+Block 108: If the sender has not defined the message user reference in field 108, then the
+system uses the transaction reference number is in field 20 or 20C. In field 20 of the SWIFT
+message this is the senders reference and block 119 is Indicates that FIN validates the
+message according to straight through processing principles. FIN enables financial
+institutions to exchange structured messages securely and reliably. As the payment was
+blocked for these reasons it appears that the issue may have been the failure to include the
+routing code/transit number originally.
+So what Ive had to think about here is whether TSB can fairly be held responsible for that.
+TSB says that Mrs J had the routing code at the time of making the payment and shouldve
+been aware that she needed to provide it when making the payment. Mrs J says it wasnt
+clear that she needed to provide this.
+Ive thought about what Mrs J has said and also looked at the information TSB has provided.
+TSB told our investigator they would arrange for the digital payments team to show the exact
+information Mrs J should have input. This information would have shown whether the field
+marked with an example of invoice would have been the field to enter this information.
+TSB sent screenshots with what Mrs J should have done, but they completed the same
+information as what Mrs J originally did. Had a member of the payments team processed this
+information they too would have had the rejected payment like Mrs J did.
+I informed TSB that they had entered the same details as Mrs J had input and gave them
+another opportunity to show me where Mrs J should have put the routing code but TSB said
+Unfortunately, we are unable to provide you with any further screenshots to those we have
+already sent.
+So Ive relied on the information I have been sent by TSB here. In the screenshot of the
+internet banking screen Mrs J is likely to have seen, there is a box that says - payment
+reference for recipient: (e.g. invoice number 000234) (optional). This appears to be a free
+type field. When our investigator spoke to a payments manager from TSB, they said Mrs J
+would be able to include the routing code into a free type box. This appears to be the only
+free type box.
+If the free type box showing the example of invoice was the field to enter this information,
+this would map over to field 70 of the SWIFT message. It appears that Mrs J put in this field
+sending money home to family. I think it is reasonable that this would be input for a field
+which says payment reference for recipient.
+But TSB says that Mrs J shouldve known to put the routing code in this box. I dont think its
+fair to say that it wouldve been immediately apparent to Mrs J that she needed to do that
+here. The example given for why this box is needed for a customer gives the example of an
+invoice number and says that the reference is for the recipient. So by putting what she did
+here, I think Mrs J wouldve thought shed provided the information she needed to, where
+that information was a reference for the family member she was paying. The suggestion
+from how this box is explained to a customer is that this box is for a single piece of
+information as a reference, rather than a number of pieces.
+So when Mrs J entered that information  there was nowhere else that was obvious for her
+to enter the routing code. So Ive thought about whether there was any other reason that she
+shouldve known to provide this, or perhaps question where to put it. But I dont think therewas. The only specific mention of a routing code is on the FAQ page and that just explains
+what a routing code is. It doesnt explain when it will be needed, or where a customer should
+provide this on the online form if they have it. So I can see why she didnt think this was
+needed and why she thought that shed done all she could.
+TSB has explained that a routing number isnt always needed for a transaction, which could
+be one reason its not asked for as a standard part of the process. I can understand that.
+But, by the same token, this also means that sometimes a routing code will be needed, as
+was the case here. Mrs J has also shown us that when she makes similar payments through
+other businesses, they specifically ask for the routing number, whereas TSB doesnt. Its not
+my role to say that TSB needs to change its systems in light of what another business does.
+But in considering the individual circumstances here, this is another reason that I think it was
+reasonable for Mrs J not to provide the routing code, as she wouldve thought that if it was
+needed, then TSB wouldve asked for it in light of her previous experiences elsewhere.
+I realise TSB has concerns about the impact of a decision like this more widely. Its not for
+me to criticise its systems or processes  ultimately its entitled to decide on these as a
+business. But, I do need to think about whats fair and reasonable in all the circumstances of
+a complaint. In doing so, there will be times that a strict application of a process, or an
+established system working as it should, will result in an unfair outcome for a customer in the
+individual circumstances of a dispute.
+In my view thats whats happened here. And its for these reasons that I think that TSB
+should take steps to put things right here and pay Mrs J the exchange rate loss she incurred
+as a result of this, along with 8% interest for the time shes been without this money.
+I also think that, as Mrs J has done what she could have here in making this payment, that
+shes clearly been confused, frustrated and inconvenienced by this matter. So I think TSB
+should compensate her for that. I think £250 is fair to reflect the impact this had.
+In deciding whats fair, Ive also looked at TSBs handling of the situation after Mrs J reported
+it to them. There was some confusion over whether she had entered information for an
+intermediary bank or the actual bank of the beneficiary.
+Its clear the call handlers werent familiar with the process of international payments but I do
+think they tried to assist Mrs J as much as possible, were very pleasant and rang through to
+the payments team to get further assistance. The payments team informed the call handlers
+that Mrs J should have had a five digit transit code as they said payments to Canada require
+this but Mrs J didnt have this. Instead she had a 9 digit routing code. But, as previously
+mentioned, the outcome of these calls would have made no difference to the payment as it
+had already been returned by this point. So I think TSB handled the situation after the
+payment fairly, so I dont think it needs to do anything in this respect.
+I invited both parties to let me have any further submissions before I reached a final 
+decision. Mrs J had no further comments to add, but TSB responded with further comments. 
+In summary they said the payment was returned because Mrs J hadnt provided the correct 
+information initially and not because there was missing information. They feel it is a very cut 
+and dry case in their eyes and while Mrs J mightnt be sure about the information she 
+needed to input, she didnt contact TSB for assistance until the payment was returned. TSB 
+also said it doesnt feel like an individual case that I had eluded to in my provisional decision 
+and they cant alter their Digital Platform to specifically detail information related to country 
+requirements.  
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and reasonable in the circumstances of this complaint.
+Ive thought in great detail about what TSB has said in response to my provisional decision. 
+Its clear that they view this being a very clear cut case. But having thought about their 
+comments and after reviewing all of the evidence here again, I still think that the fair outcome 
+here is the one I suggested in my provisional decision. Ill explain why.
+Theres been several points during this investigation that incorrect information has been 
+given to either Mrs J or our service. For example, weve been told that the initial payment 
+may be amended after it had been sent and weve received conflicting information of why the 
+payment was returned (in some instances it was said it was because of incorrect 
+information, in other instances it was due to a missing routing number). TSB have also said 
+they would send us screenshots of what Mrs J shouldve entered into the screens but 
+actually TSB sent our service information that only showed what Mrs J actually input. 
+When this was pointed out to TSB and another opportunity was given to them to provide us 
+with the completed screenshots of what Mrs J shouldve input, TSB said they were unable to 
+provide me with further screenshots. So while I realise that TSB dont see it this way, I dont 
+think this is a straightforward matter and I think it ultimately comes down to the very 
+individual circumstances here.
+TSB have reiterated that the payment was returned because Mrs J input incorrect 
+information and not because information was missing. But thats not what the evidence Ive 
+seen shows. While Mrs J initially thought she may have given incorrect information she has 
+since confirmed the details were correct in an email to our investigator. The information and 
+evidence around this has been inconsistent in terms of whats been provided and said by 
+TSB. Having considered everything here Im satisfied that its more likely than not that she 
+did input the details correctly. So based on all of the evidence Ive seen Im satisfied that, on 
+balance, the main issue here was the missing routing number.
+Ive listened again to the phone call that our investigator had with TSBs payment manager 
+and the payment manager doesnt say incorrect information was given. Instead, he focuses 
+on the routing code being missing. He simply explains that the routing number shouldve 
+been entered in the free type field, which is also what I believe, on balance, is the reason the 
+payment failed - as all of the other information Mrs J provided was mirrored by TSB when 
+they sent us their screenshots for how Mrs J shouldve processed a successful payment.
+TSB say that Mrs J shouldve contacted them if she was unsure what information to enter 
+into their system and I think thats generally a fair expectation of a customer. But, in the 
+circumstances here - Mrs J thought she had all the information she needed to successfully 
+make the payment but couldnt find anywhere appropriate to enter the routing code.
+In regards to TSBs comments relating to their digital platform more widely, I can only 
+reiterate what I explained in my provisional decision - its not for me to criticise TSBs 
+systems or processes  ultimately theyre entitled to decide on these as a business. But, I 
+have to think about whats fair and reasonable in all the circumstances of a complaint. In 
+doing so, there will be times that a strict application of a process, or an established system 
+working as it should, will result in an unfair outcome for a customer in the individual 
+circumstances of a dispute. I remain of the opinion that this is whats happened here for the 
+reasons Ive already given.
+In summary, TSBs response hasnt changed my view and my final decision and reasoning 
+remains the same as in my provisional decision. I know TSB will be disappointed with the 
+decision, but I hope they understand my reasons.Putting things right
+Our investigator has suggested that TSB pay Mrs J the exchange rate loss she incurred, 
+along with 8% interest for the time shes been without this money.
+I also think that, as Mrs J has done what she could have here in making this payment, that
+shes clearly been confused, frustrated and inconvenienced by this matter. So I think TSB
+should compensate her for that. I think £250 is fair to reflect the impact this had.
+ 
+My final decision
+TSB Bank Plc should pay Mrs J £1,476 for the loss in exchange rate when the payment was 
+returned. 8% should be added to this amount from the date the funds were returned to Mrs J 
+to the date TSB pay this sum. Lastly, TSB Bank plc should pay Mrs J £250 as a reflection of 
+the trouble and upset caused by their failure to resolve this earlier.
+ 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mrs J to accept or 
+reject my decision before 20 April 2021.
+ 
+Gregory Sloanes
+Ombudsman

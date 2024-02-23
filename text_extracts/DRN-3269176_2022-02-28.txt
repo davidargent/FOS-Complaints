@@ -1,0 +1,130 @@
+DRN-3269176
+The complaint
+Mr C complained because Barclays Bank UK PLC refused to refund him for transactions 
+which he said he didnt authorise.
+What happened
+In the evening of 23 November 2020, a £2,000 payment debited Mr Cs Barclays account.  
+The next afternoon, a £10,000 payment was made. Both payments went to the same 
+person, who was a new payee for the account. Both were made using Mr Cs Barclays 
+Mobile Banking (BMB) device, and mobile. These had been registered to Mr Cs account for 
+a considerable time, and had been used for other undisputed payments. The IP address, 
+which is a type of computer address, was one which had also been used for previous 
+undisputed payments.
+Later in the afternoon of 24 November, Mr C rang Barclays. He said hed seen the 
+transactions when hed logged into his mobile banking app, and he hadnt made them. He 
+said his phone screen had gone black at the times of the transactions and he hadnt been 
+able to turn the phone on or off. Mr C also reported the transactions to Action Fraud.
+On 7 December, Barclays declined Mr Cs fraud claim. When Mr C received the letter he 
+complained.
+In its final response letter, Barclays didnt uphold Mr Cs complaint. It said that:
+- Mr C had told Barclays he still had his debit card, and this would have been needed 
+to set up a new payee on the mobile banking app;
+- The IP address, and device used for the payments, had been used for previous 
+undisputed transactions and day-to-day banking on the mobile banking app;
+- There was no opportunity for the passcode used to log into the mobile banking app 
+being compromised;
+- Mr C had said that hed reported the transactions in time for Barclays to have 
+stopped the second debit. Barclays said the second transaction had taken place at 
+3:36pm and Mr C had phoned at 5:47pm. Barclays explained that there could be a 
+delay between a transaction taking place and appearing on the statement, which was 
+why the second transaction had appeared at 7.01pm.
+Mr C wasnt satisfied and complained to this service. He set out what had happened, and 
+said that he felt Barclays could certainly have stopped the second transfer, as hed spotted it 
+so quickly on his mobile app. He also said that hed had to ring up several times for an 
+update on the investigation. He said that he was very disappointed and upset at the way 
+Barclays had treated hm. He didnt regularly transfer large sums of money, so the 
+transactions werent consistent with how he used his account. Mr Cc also said that if hed 
+transferred the money legitimately to the beneficiary, hed have sent the whole £12,000 in 
+one transfer. He believed someone was testing the water by doing a £2,000 transfer the 
+night before, and then the £10,000 one the next day.
+Mr C said he hadnt made the transactions or given authority for them, and he could only 
+think that either his mobile phone, or the Barclays app, had been hacked. He said he was 
+the victim of fraud.
+Our investigator didnt uphold Mr Cs complaint. He said that, looking at the electronic 
+records, he didnt think Barclays had acted unfairly in not refunding Mr C. That was because 
+there was no plausible explanation about how anyone could have accessed Mr Cs phone, 
+passed the phones security, and then known the mobile banking app passcode. As this was 
+a new payee, it would also have needed Mr Cs debit card  but Mr C had said hed never 
+shared any of his details and no-one else had access to his card or phone. The investigator 
+checked the electronic records about the timings and confirmed that the second disputed 
+payment had taken place just over two hours before Mr C rang Barclays.
+Mr C wasnt satisfied. He sent detailed letters including the following points:
+- Barclays had never got back to him about contacting the recipient bank to find out 
+more about the recipient account holder;
+- Barclays hadnt contacted him to verify the transactions. Mr C said that the recipients 
+name, and the size of the transactions, should have alerted Barclays;
+- he said it was obvious his IP address had been hacked, and said it was also feasible 
+that Barclays internet protocols had been hacked;
+- Mr C also explained that at 3.30 pm on 24 November hed been trying to log in but 
+the screen had gone black. He hadnt been able to log on until 5.45pm when hed 
+immediately rung Barclays. Mr C believed Barclays could have put a stop on the 
+transactions;
+- he said that as Barclays had signed up to the Authorised Push Payment scam code, 
+he was entitled to a refund;
+- he said it didnt need a debit card to set up a new payee, and he could just enter a 
+new persons details;
+- as Barclays hadnt entered the second transaction onto his statement until 7.01pm, it 
+could have stopped that payment after he phoned over an hour earlier.
+Mr C asked for an ombudsmans decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+As Ive set out above, Mr C has raised multiple points in his submissions to the service. Ive 
+understood all of those and considered all hes said and sent us, but in reaching my decision 
+here Ive focused on what I think is vital to my conclusions. Id also point out that this service 
+is an informal alternative to the legal process in terms of disputes with financial businesses. 
+So I have not pursued all the matters which Mr C has raised  where I dont think thats 
+necessary in order to reach a balanced and impartial decision on the crux of the complaint 
+here
+Regulations
+There are regulations which govern disputed transactions. The relevant regulations for 
+disputed transactions taking place in November 2020 are the Payment Services Regulations 
+2017. These say that the payment service provider (here, Barclays) must show the 
+transaction was authenticated. Thats the technical part, and here, Barclays has provided 
+computer records which show that Mr Cs registered device and phone number were used, 
+and the correct passcode had been entered. So the disputed payments were authenticated.The regulations also say that its necessary to look at whether the card holder authorised the 
+payments. In general terms, the bank is liable if the customer didnt authorise the payments, 
+and the customer is liable if he did authorise them. So Ive gone on to consider whether or 
+not its more likely than not that Mr C authorised the payments himself.
+Mr C told Barclays that he still had his bank card, and hadnt told anyone else his security 
+information. He said he hadnt downloaded any software or clicked on any links. He also said 
+no-one else had access to the device used to make the payments.
+So theres no clear way in which Mr Cs information could have been compromised.
+The computer evidence shows that the disputed transactions were:
+- carried out using the device and phone registered to Mr Cs account, and which had 
+been used for previous genuine transactions;
+- carried out using the correct passcode;
+- carried out at an IP address which Mr C had previously used for genuine payments.
+This evidence means that I consider its very unlikely that any fraudster would have been 
+able to carry out the transactions. So I think its more likely than not that Mr C carried out the 
+transactions himself. I realise thatll be a difficult message for Mr C, but its what the 
+evidence leads me to conclude here. This means that Barclays isnt required to refund him.
+Looking at some of the additional points Mr C raised:
+- Barclays didnt have any obligation to inform Mr C about any discussions it had with 
+the recipient bank; 
+- In respect of whether Barclays should have contacted Mr C about the unusually large 
+transactions, I find that its reasonable that Barclays didnt do so, in the light of the 
+evidence that the transaction had been authorised using Mr Cs phone, passcode 
+and IP address;
+- The transactions went through in full at the times Ive stated above: 7.01pm on 23 
+November and 3.36pm on 24 November. These were before Mr C rang Barclays at 
+5.47pm on 24 November. The fact that Mr Cs statement shows the later time of 
+7.01pm doesnt mean that they could have still be stopped at that point, just that this 
+was the time they showed on the statement;
+- These transactions werent Authorised Push Payments, so the code doesnt apply 
+here;
+- Mr C argued that it didnt need a debit card to set up a new payee, and he could just 
+enter a new persons details. This conflicts with Barclays response to this service 
+about what happened here. I checked with Barclays, which confirmed that making a 
+payment to a new payee through BMB needs the genuine BMB device registered to 
+a customers BMB profile. The app needs to be accessed through either the BMB 
+passcode or Touch ID (face or fingerprint). Here, Mr Cs app was accessed using his 
+passcode  and he said he still had his mobile, and hadnt disclosed his BMB 
+passcode. So I cant see any way a third party could have accessed these. 
+Taking all these factors into account, I dont uphold Mr Cs complaint.
+My final decision
+My final decision is that I do not uphold this complaint. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr C to accept or reject my decision before 28 March 2022.
+ 
+Belinda Knight
+Ombudsman

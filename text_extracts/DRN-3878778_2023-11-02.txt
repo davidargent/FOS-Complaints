@@ -1,0 +1,125 @@
+DRN-3878778
+The complaint
+Mr P complains that Revolut Ltd wont refund money he lost to an investment scam.
+Mr P is being represented by solicitors in his complaint.
+ 
+What happened
+The detailed background to this complaint is well known to both parties, so I wont repeat it 
+again here. Instead, Ill focus on giving my reasons for my decision.
+The complaint concerns 17 payments totalling £11,673 which Mr P made from his Revolut 
+account  mixture of card payments and transfers  between January and April 2022 (see 
+table below). Mr P says he made the payments in connection with an investment opportunity 
+promoted by a company, D, which he subsequently discovered had cloned a legitimate 
+company bearing the same name.
+Sequence Date Type Payee Amount
+Payment 1 31 January Debit card Etoro £950
+Payment 2 9 February Debit card Luno £50
+Payment 3 14 February Faster payment Luno £500
+Payment 4 27 February Faster payment Luno £250
+Payment 5 11 March Faster payment Luno £190
+Payment 6 28 March Faster payment Luno £725
+Payment 7 28 March Faster payment Luno £215
+Payment 8 28 March Faster payment Luno £8
+Payment 9 28 March Faster payment Luno £20
+Payment 10 29 March Faster payment Luno £250
+Payment 11 29 March Faster payment Luno £750
+Payment 12 1 April Faster payment Luno £970
+Payment 13 11 April Faster payment Luno £1,050
+Payment 14 11 April Faster payment Luno £120
+Payment 15 11 April Faster payment Luno £525
+Payment 16 17 April Faster payment Luno £100
+Payment 17 25 April Faster payment Luno £5,000
+Total loss £11,673
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I agree with the overall outcome reached by the investigator. Ive explained 
+why below.
+Revolut hasnt disputed Mr Ps claim that he sent payments to a clone company instead of 
+the legitimate company. I havent seen sufficient evidence to conclude either way. But given 
+that Revolut hasnt disputed Mr Ps claim that he was scammed, Ive proceeded on the basis 
+that his dealings were with the scam company. 
+The starting position is that liability for an authorised payment rests with the payer, even 
+when they are duped into making that payment. Theres no dispute that Mr P made the 
+payments using his security credentials, and so they are authorised. But in accordance with 
+the law, regulations and good industry practice, a payment service provider, including an 
+electronic money institution like Revolut, should be on the look-out for and protect its 
+customers against the risk of fraud and scams so far as is reasonably possible. If it fails to 
+act on information which ought reasonably to alert it to potential fraud or financial crime, it 
+might be fair and reasonable to hold it liable for losses incurred by its customer as a result.
+Revolut submits that payment 3 (see above table) did flag on its fraud detection systems. It 
+says it asked Mr P the purpose of the payment and displayed a warning based on the 
+purpose selected from the available options. Revolut argues that Mr P continued with the 
+transaction despite being given the opportunity to seek advice before going ahead.
+The investigator concluded that Revoluts intervention at the time of payment 3 was 
+proportionate given the amount. But having requested further information, I disagree. I asked 
+Revolut to tell us the payment reason Mr P selected and forward a copy of the warning 
+message it says it displayed at the time. Looking at its response, Mr P selected safe 
+account when in fact hed been investing funds and that was one of the payment purposes 
+on the list. It isnt clear why Mr P selected the reason that he did. Regardless, Revolut ought 
+to have been concerned when safe account was selected, given it is never a legitimate 
+reason for sending money to another account. 
+In the circumstances, I dont consider displaying a scam warning on the screen and giving 
+Mr P the option to (1) read its scam guidance, (2) get advice from one of its agents, (3) 
+cancel the payment, or (4) go ahead with it, was a proportionate response to the risk 
+identified. Revolut ought to have contacted Mr P to discuss the payment further, even if it 
+meant directing him to an in-app chat. 
+Had there been a human intervention and questions asked about the payment purpose 
+selected, its likely Mr P would have explained hed made a mistake and selected the safe 
+account option in error. Given that the payment had triggered on Revoluts systems prior to it 
+knowing the payment purpose, I would have expected it to continue with its enquiries once 
+Mr P confirmed that he was making an investment. So, I consider it missed an opportunity.
+But thats not the end of the matter. Causation is a critical determinative factor in every scam 
+case. It isnt enough that a payment service provider like Revolut failed to act unfairly or 
+unreasonably; its acts or omissions must be the immediate and effective cause of losses that 
+were reasonably foreseeable at the time of the breach. I cant know for certain what would 
+have happened if Revolut had questioned Mr P further about the disputed transaction. In 
+such situations, I reach my conclusions not based on mere possibilities but rather on what I 
+find most probable to have happened in the circumstances. 
+In other words, I make my decision based on the balance of probabilities  so what I 
+consider most likely to have happened considering the evidence and wider circumstances of 
+the case. Having carefully thought about this, Im not convinced that a scam warning 
+specifically about investments would have made a difference to Mr Ps decision-making. Ive 
+kept in mind that he thought he was dealing with the legitimate company, who he and a 
+friend he trusted had carried out due diligence into before deciding to invest. Even if 
+Revoluts intervention had included a discussion about scammers cloning legitimate businesses, having done a backdated search on the internet I cant see any information or 
+regulator warnings about D being cloned. 
+So, although Mr P had already done checks before deciding to invest, I dont think further 
+checks would have yielded anything else seeing as he would most likely have only seen 
+information about the legitimate company. Im also mindful that Mr P was in contact with the 
+scammer during the relevant time and any concerns he might have had following a more in-
+depth discussion with Revolut would have been alleviated by the scammers reassurances. 
+So, under the circumstances, Im not convinced that better intervention by Revolut along the 
+lines Ive described above would have necessarily unravelled the scam. And much for the 
+same reasons, I dont think further intervention at a later point would have made a difference 
+either. As the investigator has highlighted, Mr P says he wasnt pressured into sending more 
+money until after hed made the last disputed transaction. 
+Ive also thought about Revoluts actions in relation to the recovery of payments after it 
+became aware of the situation. In relation to the debit card transactions, the only avenue 
+here would have been a chargeback. Revolut could have only raised a chargeback against 
+the merchant Mr P paid, not another firm i.e., D. And given the merchant he paid had 
+provided the service (conversion of money into cryptocurrency or loading funds), its unlikely 
+that a chargeback would have been successful. 
+As for the faster payments, Revolut says that it contacted the beneficiary bank and 
+requested a recall of the funds. But the beneficiary bank asked for some further information 
+which it didnt have, so recovery was considered as failed. I cant see that Revolut reached 
+out to Mr P to check if he had the information that the beneficiary bank had requested. But I 
+dont think that matters. According to Revoluts notes, Mr P reported the scam on 27 June  
+over two months after hed made the last payment. Its unlikely that funds would have 
+remained in the beneficiary account by that point, given its often the case that scammers 
+move funds immediately to avoid the possibility of recovery. And if it is the case that the 
+beneficiary account here was Mr Ps wallet with Luno (from where the funds were sent on), 
+then there would have been nothing left to recover given the funds had already left Mr Ps 
+wallet. 
+In conclusion, I know that Mr P will be disappointed with this outcome. Not least because the 
+matter has been ongoing for some time. I fully acknowledge that theres a significant amount 
+of money involved here. Despite my natural sympathy for the situation in which Mr P finds 
+himself, for the reasons given, it wouldnt be fair of me to hold Revolut responsible for his 
+loss.
+My final decision
+For the reasons given, my final decision is that I dont uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr P to accept or 
+reject my decision before 30 November 2023.
+ 
+Gagandeep Singh
+Ombudsman

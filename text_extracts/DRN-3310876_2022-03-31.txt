@@ -1,0 +1,91 @@
+DRN-3310876
+The complaint
+Mr D complains that Santander UK Plc failed to refund a transaction he didnt recognise.
+What happened
+Mr D has explained that his mobile phone was downloading an update and believes this was 
+the explanation for how a large payment was able to be taken from his bank account. Mr D 
+said his phone started to update itself and whilst it was carrying out the update, the disputed 
+transaction occurred. Mr D didnt notice until the next morning when he used a different 
+phone to check his online banking because his original phone wasnt working. Mr D notified 
+Santander about it and they looked into what had happened.
+Santander explained to Mr D that the records showed it was his own mobile phone with his 
+login details and password that was used to make the payment. Mr D was asked if he gave 
+access to his phone to anyone else or downloaded any software. Mr D confirmed he hadnt 
+done this. Mr D confirmed he hadnt written his password down although Santander notes 
+record that at one point he told the call handler that he had recorded them on his phone. In 
+later conversations with the Financial Ombudsman Service, Mr D said he only recorded his 
+banking security details in a diary that was locked away securely at home.
+Santander advised Mr D to get his phone checked, which he did. Mr D took his phone to a 
+shop who charged Mr D £10 for fixing it but didnt explain what was wrong with it. Mr D told 
+Santander that on the evening of the problem with his phone, the update started around 
+8:00pm. Santander confirmed the payment was started sometime before that and then finally 
+completed after this point. Santander declined to refund Mr D because the evidence showed 
+his own phone and banking details were used to make the payment and there was no 
+evidence of a hack or other interference by third parties.
+Mr D remained unhappy and complained to Santander who revisited the situation but didnt 
+change their position. Mr D then brought his complaint to the Financial Ombudsman for an 
+independent review. It was looked into by one of our investigators who thought it was 
+reasonable for Santander to hold Mr D liable for the transaction.
+Mr D disagreed with the outcome and explained that hed been trying to unlock his phone 
+with his fingerprint when the update was loading, and this may be how the fraudsters were 
+able to access his phone. Our investigator told Mr D that his five-figure passcode was used 
+to confirm the payment and there was no explanation how this could have been found out by 
+a fraudster.
+The complaint has now been passed to me for a decision.
+  
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+The relevant law surrounding authorisations are the Payment Service Regulations 2017. The 
+basic position is that Santander can hold Mr D liable for the disputed payments if the 
+evidence suggests that its more likely than not that he made them or authorised them. 
+Authorisation is made up of two parts. Authentication and consent. Authentication is usually 
+referred to as the technical evidence and in this case, Santander have supplied evidence 
+that shows the payment was set up via Mr Ds online banking login and confirmed with his 
+passcode. Im satisfied the evidence shows the disputed transaction was authenticated.
+Consent refers to the way in which Santander and Mr D agreed to operate the account to 
+allow Santander to make payments on Mr Ds behalf. For example, Santanders terms and 
+conditions set out that if a payment is arranged through mobile/internet banking and the 
+account holder uses their security details to confirm the payment, then Santander accept 
+that the instruction to make the payment is authorised by the account holder. So, because 
+Mr Ds registered phone using his login credentials was used to open the mobile app and the 
+payment was confirmed with Mr Ds five figure passcode - Im satisfied that consent was 
+given and the disputed transaction was authorised. But, there are exceptions where it 
+wouldnt be appropriate for Santander to hold Mr D responsible, for example if the mobile 
+app was used without his permission.
+Mr D has speculated that an unidentified update on his phone was responsible for the 
+transaction that left his account. He told Santander of the approximate time this started 
+which was about 8:00 pm. Santander advised that part of the payment was started before 
+this time but finished sometime later whilst the update was still happening on Mr Ds phone.
+Mr D provided multiple screenshots of the update, but unfortunately theres no date on the 
+screen and the earliest time stamp is 21:31(9:31 pm). Mr D has explained that this update 
+was responsible, but theres no evidence to support that. I accept that third parties can gain 
+access to devices, usually through the user accepting some form of software or allowing 
+control of their phone. In this case Mr D confirmed that neither of things happened. Its 
+possible that some form of technical hack was carried out on Mr Ds phone, but this still 
+leaves the issue of how Mr Ds personal security credentials were used to make the 
+payment. 
+Santander recorded notes that Mr D told them his details were in the phone, but he then said 
+they werent. Mr D confirmed to our investigator that they were only written down in a diary at 
+home which was kept secure. So, I dont think theres a plausible explanation that 
+demonstrated how Mr Ds details became known to a fraudster. What is evident is that Mr 
+Ds registered mobile phone was used together with his personal login details to set up the 
+payment. This was then verified with his five-digit passcode. 
+I appreciate Mr D believes this update was responsible for the payment leaving his account 
+and that his attempts to open the phone using his fingerprint might have somehow enabled 
+the funds to be taken. Ive considered if this was somehow responsible for the disputed 
+payment, but I dont think it is. The payment couldnt be set up and verified without Mr Ds  
+personal security information - which wasnt available to anyone other than Mr D.
+Ive also considered if anyone else could have carried out these transactions using Mr Ds 
+phone. His personal circumstances would seem to rule out this possibility. Mr D confirmed 
+no one at his home address had access to the phone and there wasnt anyone else who was 
+able to access it at the time of the disputed transaction.
+Whilst Im sure Mr D will disagree with me; I think its more likely than not that Mr D was 
+responsible for authorising this transaction and that it was reasonable for Santander to hold 
+him responsible and I wont be upholding this complaint.My final decision
+My final decision is that I dont uphold this complaint against Santander UK Plc.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr D to accept or 
+reject my decision before 28 April 2022.
+ 
+David Perry
+Ombudsman

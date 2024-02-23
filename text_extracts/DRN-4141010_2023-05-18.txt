@@ -1,0 +1,106 @@
+DRN-4141010
+The complaint
+Mr S has complained that Monzo Bank Ltd wont refund the money he lost after falling victim 
+to a scam.
+What happened
+Both sides are most familiar with the case, so Ill summarise what happened in brief.
+In March 2022, Mr S entered his debit card details into a legitimate-seeming website, to buy 
+some electronic goods for about £360. The website owner did not send the goods, but 
+instead used Mr Ss card details to make a purchase at Argos for a similar amount. Its 
+recorded that this payment was authorised through Mr Ss Monzo app.
+Mr S reported the scam, saying he didnt authorise the payment through his app.
+Monzo explained they could try a chargeback, but Mr S would need to provide evidence of 
+trying to sort things out with Argos first. They otherwise declined to refund the payment, as 
+they found that Mr S had approved it via his app, so they considered the payment to be 
+authorised. Monzo offered Mr S £20 compensation for customer service issues, which they 
+later increased to £50 in total when the case came to our service.
+Our investigator upheld the complaint, arguing that Monzo should refund Mr S because hed 
+been deceived into making the payment, rendering it unauthorised. Monzo asked for an 
+ombudsman to look at things afresh, so the complaints been passed to me to decide.
+I sent Mr S and Monzo a provisional decision on 19 April 2023, to explain why I didnt think 
+the complaint should be upheld. In that decision, I said:
+Mr S fell victim to a convincing scam, and so he has my sympathy. I appreciate this must 
+have been highly frustrating for him, and I appreciate why he feels that his money should be 
+returned. Its worth keeping in mind that its the scammer whos primarily responsible for 
+what happened, and who really owes Mr S his money back. But I can only consider what 
+Monzo did. Having carefully considered everything that both sides have said and provided 
+so far, I dont currently think I can fairly hold Monzo liable for Mr Ss loss. Ill explain why.
+I do understand that Mr S does not recall authorising the Argos payment through his app. 
+But I can see from Monzos technical evidence that the payment was authenticated through 
+a 3DSecure challenge on Mr Ss mobile banking app. This challenge was approved using 
+Mr Ss PIN, on his registered mobile phone  the only device registered to the account. And 
+it was done at an IP address Mr S used both before and after for his other genuine activity. 
+So I can be reasonably satisfied that Mr S did authorise the disputed payment on his app, 
+rather than the scammer somehow authorising it themselves.
+From what I can see, Monzos 3DSecure challenge would have informed Mr S that the 
+payment was to Argos  and not to the website hed given his card details to. And it would 
+have given him the amount  which was slightly different to the amount Mr S thought hed be 
+paying. So I think it wouldve been apparent what Monzo was asking Mr S to approve or 
+reject. I can understand why Mr S may have authorised the payment by mistake, as he was 
+expecting a payment of around that amount to go out. But Im afraid that he is still usually 
+liable for the payments he authorises.
+Our investigator argued that the payment was unauthorised because Mr S was deceived into 
+approving it. But Im afraid that our investigator was mistaken. While Mr S would not have 
+intended his money to go to a scammer, under the Payment Services Regulations he is 
+liable for the loss in the first instance, since he ultimately consented to it via his app. And 
+broadly speaking, Monzo had an obligation to follow his instructions  the starting position in 
+law is that banks are expected to process payments that a customer authorises them to 
+make. Again, Im afraid Mr S is broadly responsible for the payments he authorises.
+Ive thought carefully about whether Monzo should have flagged or blocked the payment. 
+Monzo should have been on the lookout for payments which could be the result of fraud or 
+scams, to help prevent them. But I also accept that a balance must be struck between 
+identifying and responding to potentially fraudulent payments, and ensuring theres minimal 
+disruption to legitimate payments. In this case, I dont think this payment was so unusual or 
+out of character that Monzo needed to intervene. For example, it was just the one payment 
+rather than rapid multiple payments, it was not nearly large enough that Id expect the 
+amount to be flagged, and it went to a well-established merchant who Mr S had used before. 
+Next, Ive considered what Monzo did to try to recover Mr Ss money after he told them 
+about the scam. While there are methods for trying to recover funds lost to scams, they 
+generally only apply to certain types of payments, like bank transfers  but they dont apply 
+to card payments. And this payment was made by debit card. So Monzo were limited in what 
+they could do to help.
+Monzo did consider making a chargeback, which was the most appropriate way to try to get 
+Mr Ss money back. I should explain that chargebacks are a voluntary process, so Monzo 
+didnt have to raise one  though Id consider it good practice to do so. And I should also 
+explain that Monzo had to follow the chargeback scheme rules set by MasterCard.
+In order to start the chargeback, Monzo needed evidence that Mr S had tried to resolve 
+things with Argos first, such as an email chain. I can see they explained this to Mr S a few 
+times. And Im afraid that since Mr S didnt provide such evidence, its reasonable that they 
+didnt proceed with the chargeback. Im afraid it is now too late for Monzo to do so, as too 
+much time has passed.
+In any case, I should explain that its unlikely a chargeback would have succeeded here. 
+Chargebacks can only be made for certain reasons. For example, if a payment is 
+unauthorised  but here, it was authorised through Mr Ss app. Or if the goods are not 
+delivered  but here, its most likely that Argos did deliver the goods to the address they 
+were told to. There was not a MasterCard chargeback reason which really covered the 
+situation Mr S was in. So even if he had given Monzo evidence that hed tried to resolve 
+things with Argos, Im afraid its most likely that he still would not have got a refund via the 
+chargeback scheme. And there werent any other routes that Monzo could use to get his 
+money back.So while Im very sorry to hear about what happened to Mr S, I dont currently think that I can 
+hold Monzo responsible for his loss. And so I cant fairly tell Monzo to refund Mr Ss money 
+in this case.
+Lastly, Ive thought about the overall service Monzo provided to Mr S. Theyve accepted that 
+they initially handled his query incorrectly, and that they should have registered his complaint 
+a bit earlier. I also appreciate that Mr S felt frustrated at having to deal with different agents. 
+When it comes to compensation, its worth bearing in mind that were not here to issue fines 
+or to punish businesses, and that pursuing a complaint will never be completely hassle-free. 
+And in this case, while I can appreciate that the customer service issues may have caused 
+Mr S some frustration, Ive found that Monzo dealt with the issue at hand correctly overall. 
+Taking everything into account, I think Monzos offer of £50 compensation in total is fair for 
+the upset caused by their customer service issues.
+I said Id consider anything else anyone wanted to give me  so long as I received it by 
+17 May 2023. Monzo accepted the provisional decision. Mr S didnt respond.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Neither side have sent me any new evidence or arguments. So having reconsidered the 
+case, Ive come to the same conclusion as before, and for the same reasons as set out in 
+my provisional decision above.
+My final decision
+For the reasons set out above, I do not award a refund in this case. Monzo Bank Ltd should 
+pay Mr S the £50 compensation they offered, if theyve not done so already.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr S to accept or 
+reject my decision before 15 June 2023.
+ 
+Adam Charles
+Ombudsman

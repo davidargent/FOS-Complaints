@@ -1,0 +1,119 @@
+DRN-3716238
+The complaint
+Miss F complains that Monzo Bank Ltd (Monzo) wont refund payments sent from her 
+account which she didnt make or otherwise authorise.
+What happened
+The full details of this complaint are well known to both parties, so I wont repeat them again 
+here. Instead, Ill recap the key points and focus on giving my reasons for my decision.
+On 28 May 2022, Miss F received a text from an unknown number which said her 
+Apple Pay had been suspended. It included a link to update her details. Miss F 
+didnt read the text immediately. 
+On 29 May 2022, more than 24 hours after it had been received, Miss F read the 
+text. She clicked on the link and entered her card details. Later that evening, Miss F 
+received a call from an unknown number. She disputes answering the call, but a 
+screenshot of her phones call log shows the call was answered and lasted six 
+minutes. During that time, an Apple Pay token was set up (on someone elses 
+device).
+In the early hours of 30 May 2022, Miss F checked her Monzo account and realised 
+that money had been stolen from her account. Four transactions totalling £279.98 
+had been made using Apple Pay  two were at a car garage and two were online 
+payments to a catalogue retailer. Miss F reported the matter to Monzo immediately. It 
+declined to provide a refund and said she didnt take enough steps to keep her 
+security details safe. 
+Our investigator acknowledged there were gaps in what Miss F said had happened. 
+But they werent persuaded she authorised the transactions or otherwise consented 
+to them. They explained two of the payments were in connection with a distance 
+contract, so the provision in relation to a failure with intent or gross negligence didnt 
+apply. As for the other payments, the investigator didnt find that Miss F had failed 
+with intent or gross negligence. They recommended a full refund along with interest 
+as well as £150 compensation for the inconvenience caused by not refunding the 
+transactions sooner.
+Miss F accepted the investigators recommendations, but Monzo didnt. The 
+complaint was then passed to me to decide. I wrote to both parties informally and 
+explained that I intended agreeing with the investigators findings, but I considered an 
+amount of £100 to be fair compensation in the circumstances. We didnt hear back 
+from Miss F, and Monzo said it didnt have anything further to add.  
+  
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I uphold this complaint for these reasons:
+Its not in dispute that Miss F didnt authorise the payments. In line with the Payment 
+Services Regulations 2017 (PSRs), Miss F isnt liable for payments she didnt 
+authorise, unless she failed with intent or gross negligence to comply with the terms 
+of the account or keep her personalised security details safe. 
+Under section 77(4)(d) of the PSRs, except where they have acted fraudulently, the 
+payer isnt liable for any losses incurred in respect of an unauthorised payment 
+transaction where the payment instrument has been used in connection with a 
+distance contract (other than an excluded distance contract, also referred to as an 
+excepted contract). That means I dont need to consider gross negligence or intent in 
+those situations.
+In this case, the online payments went to a catalogue retailer. Theyre distance 
+contracts but wouldnt be considered as excepted contracts. As Ive explained, I dont 
+need to consider gross negligence or intent in that situation. And I note theres no 
+persuasive evidence, nor has Monzo sought to argue, that Miss F acted fraudulently. 
+Therefore, Monzo cant hold her liable for these transactions and it needs to put that 
+right.
+In relation to the remaining payments which were made at a garage, Miss F could still 
+be held liable if she failed with intent or gross negligence to keep her security details 
+safe. It hasnt been suggested that she failed with intent, and I agree. Her actions 
+were of someone who was following instructions to continue to be able to make 
+payments using Apple Pay. 
+I agree with the investigator that there are a few gaps in Miss Fs testimony. She 
+maintains she didnt answer the scammers call. But the available evidence suggests 
+otherwise. And during that time, a new Apple Pay token was approved which 
+wouldnt have been possible without the verification code that was sent to her phone. 
+I cant say for certain whether Miss F answered the call and shared the code. But 
+disputes like this one are only ever decided on the balance of probabilities. In other 
+words, whats more likely than not to have happened. 
+Having carefully considered the submissions from both parties, and what we know 
+about how these types of scams unfold, I think its more likely than not that Miss F did 
+speak to the scammer after unwittingly sharing her card details through the link in the 
+text. And somehow, during that call she ended up sharing the verification code. 
+Reviewing Monzos submissions to our service, I can see it also thinks that this is 
+whats most likely to have happened here.     
+Proceeding on that basis, Im not persuaded by Monzos arguments for why it 
+considers Miss F was grossly negligent by clicking the link in the text and entering 
+her card details, and by not verifying who she was speaking to. Miss F has told us 
+she uses Apple Pay as a payment method. So, I can see why the text message 
+wouldnt have appeared unusual to her when she received it, and why she believed it 
+was genuine. 
+I note that Miss F had made a payment using Apple Pay after she received the text 
+but before shed read it, which would indicate that her Apple Pay wasnt suspended. 
+When questioned, she told us she makes payments using both Apple Pay and her 
+contactless card and so didnt think anything about that transaction as she couldnt 
+remember what payment method shed used. When faced with that situation, I think that many people who use multiple payment methods wouldnt necessarily pause to 
+consider how theyd made their last payment. So, under the circumstances, I dont 
+think Miss Fs decision to click on the link and provide details was significantly 
+careless. 
+Similarly, I dont think providing information  including a verification code  amounts 
+to gross negligence on Miss Fs part if the caller would have already been aware of 
+the earlier suspension text which shed responded to. Our service has seen several 
+cases involving scams of this nature. Typically, a scammer requests certain 
+information under the guise of updating the customers details or securing their 
+account. Weve seen many people who have complied with such requests thinking 
+theyre speaking to their genuine bank, when in actual fact theyre speaking to a 
+scammer. I dont think Miss Fs actions fell so far below what a reasonable person 
+would have done in the same circumstances such that I think they amount to a 
+serious disregard for an obvious risk. In other words, gross negligence. This means 
+that she isnt liable for the remaining transactions in dispute either and Monzo needs 
+to put things right for her.
+Monzo should have refunded these payments sooner, in line with the PSRs. Because 
+it didnt, Miss F suffered added stress and worry, including having to borrow money 
+for her friends. Having thought carefully about the circumstances of this case, and 
+keeping in mind the financial loss she suffered, I award £100 compensation for her 
+distress and inconvenience.
+Putting things right
+To put things right, Monzo Bank Ltd needs to:
+reimburse Miss F the unauthorised transactions totalling £279.98;
+pay 8% simple interest per year for each refunded transaction, calculated from the 
+date of transaction to the date of settlement (less any tax lawfully deductible); and 
+pay Miss Y £100 compensation for her distress and inconvenience.
+My final decision
+For the reasons given, my final decision is that I uphold this complaint. I require Monzo Bank 
+Ltd to put things right for Miss F as set out above.
+Under the rules of the Financial Ombudsman Service, Im required to ask Miss F to accept or 
+reject my decision before 30 March 2023.
+ 
+Gagandeep Singh
+Ombudsman

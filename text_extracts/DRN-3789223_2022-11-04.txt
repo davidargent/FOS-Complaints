@@ -1,0 +1,116 @@
+DRN-3789223
+The complaint
+Mr D is unhappy that CB Payments Ltd wont refund money he lost as a result of a scam.
+What happened
+I understand that between March 2019 and February 2020 Mr D fell victim to an investment 
+scam. He reported that matter to the police in his country of residence in February 2020. It 
+appears that in June 2020 Mr D engaged with a business which claimed to be able to 
+recover his lost money. Unfortunately, the business he engaged with appears to be a clone 
+of a legitimate debt recovery business and it tricked him into sending it cryptocurrency with a 
+value, at the time, of over €200,000. Its a little unclear whether all of the money that is the 
+subject of this complaint was sent as part of the later recovery scam or whether some went 
+to the original investment fraudsters (though its possible they were, in fact, one in the 
+same). In either case, it doesnt impact the outcome of this complaint.  
+As part of the scam Mr D opened a CB Payments account and deposited funds into it from 
+his bank account in another country. He used those funds to purchase cryptocurrency from a 
+separate business, Coinbase UK. That cryptocurrency was deposited into a cryptocurrency 
+account provided by the same firm before being sent off the Coinbase platform to the 
+fraudsters. 
+Mr D complained to Coinbase (responding on behalf of both CB Payments and Coinbase 
+UK). It said that it had no relationship with the recipient of his cryptocurrency, it couldnt 
+recover his money and as hed carried out all of the activity himself, it wasnt responsible for 
+his loss. 
+Mr D referred the matter to our service. CB Payments argued that we had no power to 
+consider the complaint as it didnt relate to the electronic money activities provided by CB 
+Payments, but rather the unregulated cryptocurrency activities provided by Coinbase UK. 
+One of our investigators looked into the complaint. They initially agreed that we had no 
+power to consider the complaint but, after further consideration, they thought there were 
+aspects of it that we could consider  specifically those which related to whether CB 
+Payments had carried out adequate checks when Mr D opened his account and whether it 
+had properly monitored his account for unusual or out of character activity. Having reviewed 
+those aspects of Mr Ds complaint, the investigator concluded that CB Payments hadnt 
+made a mistake. 
+Mr D didnt agree, in summary he said:
+- Regardless of whether CB Payments and Coinbase are separate entities, all relevant 
+regulations still apply to CB Payments, including an obligation to suspend or freeze 
+payments that present a high risk of financial crime. 
+- Contrary to the investigators arguments, the payments were unusual due to their 
+large size  particularly the third payment.
+- CB Payments failed to adhere to good industry practice by not picking up on signs 
+that he was at risk of financial harm from fraud. 
+- CB Payments knows that investing in cryptocurrency is risky and, overall, it had 
+sufficient reason to contact him before allowing the purchases of cryptocurrency to 
+take place. It failed to do this. 
+- It was incorrect for the investigator to state that simply verifying his identity was 
+sufficient for CB Payments to discharge its anti-money laundering (AML) 
+obligations. The size of his deposits to a newly opened account should have been of 
+significant concern to any financial institution. 
+As no agreement could be reached, the case was passed to me for a final decision. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Im very sorry to hear about whats happened to Mr D. Im particularly saddened to hear that 
+Mr D was victimised again after losing such a significant sum to the initial fraud. So, I know 
+that it will be even more disappointing for him that Im unable to uphold his complaint about 
+CB payments. Ill explain why.
+There doesnt appear to be any dispute that our service cannot consider the actions of 
+Coinbase UK, so I dont need to comment on this further. Neither is it in dispute that Mr D 
+made the purchases of cryptocurrency from his CB Payments account himself. So, the 
+starting point is that he, rather than CB Payments, is responsible for the loss.
+However, in line with good industry practice, I agree that CB Payments should monitor its 
+customers accounts for activity that might suggest a customer was at risk of financial harm. 
+This should include monitoring account activity for transactions that are unusual or out of 
+character. In some circumstances, it should take additional steps, or carry out additional 
+checks, before processing a payment, or in some cases decline to make a payment 
+altogether, to help protect customers from the possibility of financial harm from fraud.
+As set out, I do agree that CB Payments has obligations to protect its customers from 
+financial harm from fraud. But, I also have to take into account that CB Payments offers a 
+specialist account that can only really be used to purchase (and receive the proceeds of 
+sale) of cryptocurrency. That means that such activity is unlikely to stand out as unusual in 
+and of itself. Its also important to note that the purchases of cryptocurrency were, in effect, a 
+transfer between accounts controlled by Mr D. It follows that CB Payments would have fewer 
+reasons to be concerned about fraud. And, as already noted, I cant consider whether 
+Coinbase UK ought to have been concerned by the subsequent onward transfer of 
+cryptocurrency.
+Mr D appears to have exclusively used this account for the purpose of paying the fraudsters. 
+That meant there was no genuine account activity to compare the disputed activity against. 
+That fact makes it more difficult to conclude that CB Payments ought to have known Mr D 
+was at risk of financial harm from fraud. 
+Its also important to state that CB Payments obligations to protect customers from financial 
+harm from fraud and its Know your Customer and AML obligations are different in nature. 
+The primary purpose of AML regulations is to prevent the laundering of criminal funds. As 
+such, Id expect CB Payments to (and there doesnt seem to be any dispute that it did) verify 
+Mr Ds identity and check the source of his funds. While the obligations of a business under 
+AML regulations do not stop after an account is opened and funds are deposited, it isnt in dispute that Mr D was using his own, legitimate funds. What, I think, Mr D understandably 
+argues is that CB Payments ought to have contacted him and discussed his reasons for 
+making the payments. And, if it had been concerned about those reasons (as Im sure it 
+would have been), it should have provided a strong warning about the risk of falling victim to 
+a scam. But, I dont think this obligation necessarily arises out of AML regulations, but rather, 
+in line with the good industry practice that Ive accepted applies to CB Payments, when there 
+are grounds to believe a customer is at risk of financial harm from fraud.
+While cryptocurrency clearly presents risks to consumers, I cant agree that depositing funds 
+into a CB Payments account and purchasing cryptocurrency is financial activity matching a 
+known method of fraud. As already set out, given that is the primary function of a CB 
+Payments account, it cannot be a useful indicator of financial harm. It would be an onerous 
+requirement on CB Payments to expect it to make enquiries of every customer purchasing 
+cryptocurrency to find out the wider circumstances surrounding each purchase. Instead, Id 
+only have expected it to do this where it had compelling grounds to believe that its customer 
+was at risk of financial harm from fraud. Though I accept the deposits and payments Mr D 
+made were large, I dont think this fact alone is sufficient (and, as Ive explained, neither 
+were there any other substantive reasons) for CB Payments to believe Mr D was at risk of 
+financial harm from fraud. It follows that I dont think there were sufficient grounds for CB 
+Payments to intervene before any of the payments were made. 
+Ive also not seen anything in Mr Ds submissions that would suggest that hes particularly 
+vulnerable to scams of this nature or that CB Payments would have been aware of any 
+vulnerability prior to, or during, the scam. 
+Finally, Im satisfied that CB Payments couldnt have done anything to recover Mr Ds funds 
+as they were sent off the Coinbase platform in cryptocurrency to a fraudster.
+ 
+My final decision
+For the reasons Ive explained, I do not uphold this complaint.
+ 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr D to accept or 
+reject my decision before 2 December 2022.
+ 
+Rich Drury
+Ombudsman

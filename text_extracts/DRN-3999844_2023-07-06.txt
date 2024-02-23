@@ -1,0 +1,157 @@
+DRN-3999844
+The complaint
+Mr N complains that Revolut Ltd wont refund money he lost when he fell victim to a bank 
+impersonation scam.
+What happened
+Mr N fell victim to a bank impersonation scam in March 2022. He received a call from 
+someone purporting to be from bank B, who he also has an account with. The caller 
+advised Mr N that his accounts were at risk as he had recently fallen victim to a missed 
+delivery text scam after clicking on the link and providing details. He was told he needed to 
+move his money to keep it safe. 
+I understand that payments were made from his account with Revolut as well as other firms 
+as part of the impersonation scam. This decision solely relates to the two payments  
+£24,378 followed by £24,000  that Mr N was tricked into making from his Revolut account 
+to two different safe accounts, which he thought had been opened in his name. 
+After being notified of the scam, Revolut managed to recover £2.26 and £1 from the 
+beneficiary accounts. It refused to refund the remaining funds as it said Mr N had authorised 
+the payments and ignored its warnings.
+Our investigator initially upheld the complaint in full and recommended Revolut to refund 
+Mr Ns loss along with interest. It disagreed and provided additional information about the 
+warnings it provided at the time of the payments. As a gesture of goodwill, Revolut offered to 
+refund 50% of the second payment. 
+The investigator reconsidered the complaint in light of that response. They no longer thought 
+that Revolut ought to have manually intervened during the first payment, but still felt that an 
+intervention of that nature was warranted when Mr N authorised the second payment as it 
+was in quick succession. The investigator remained satisfied that the scam would have been 
+uncovered had probing questions been asked of Mr N during such an intervention. But they 
+now thought that Mr N should share responsibility for his loss, and so recommended a 50% 
+deduction from the refund. In other words, the investigator concluded that the offer Revolut 
+had put forward was overall both fair and reasonable in the circumstances.
+Mr N didnt agree with the investigators findings and asked for an ombudsman to make a 
+decision on the matter. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Id like to start by reassuring Mr N and Revolut that although Ive only summarised the 
+background above, so not everything that happened is detailed, Ive read and considered 
+their submissions in its entirety. 
+Mr N has forwarded correspondence between him and the police to demonstrate he has 
+been a victim of fraud. I want to reassure him that its not in question he was the victim of a 
+cruel scam. And its very unfortunate that hes lost a significant amount of money as a result. 
+But Revolut doesnt automatically become liable to reimburse his loss. The starting position 
+is that liability for an authorised payment rests with the payer, even where they are duped 
+into making that payment. Here, its not in dispute that Mr N authorised the transactions.
+There are some situations in which a payment service provider should reasonably have 
+taken a closer look at the circumstances surrounding a particular payment. If it fails to act on 
+information which ought reasonably to alert it to potential fraud or financial crime, it might be 
+liable for losses incurred by its customer as a result. So, Ive gone on to consider whether 
+this is one of those situations.
+Revolut is an electronic money institution and the permissions granted to it by the Financial 
+Conduct Authority, the UKs financial services regulator, are different to those of a bank or a 
+building society. Electronic money institutions and authorised payment institutions operate 
+differently and in a different regulatory framework. In broad terms, the well-established codes 
+of practice for fraud prevention dont apply in the same way to these institutions as they do to 
+banks and other payment service providers. Ive thought about Revoluts obligations in this 
+case against that background.
+The technical evidence provided by Revolut shows that warnings were displayed at different 
+stages of each disputed transaction that Mr N authorised. 
+First, there was a Confirmation of Payee (CoP) check which came back with a no match 
+response for each payment. In other words, the receiving payment service provider informed 
+Revolut that the name Mr N had entered for the beneficiary account holder didnt match with 
+the true name of the receiving account. In this instance, both beneficiary accounts were also 
+held with Revolut. On the face of it, it doesnt seem totally illogical to conclude that Revolut 
+would know the true account name seeing as it was also the firm responding to the CoP 
+check. But its not as straightforward as that. 
+During a CoP check, the receiving payment service provider doesnt usually give any 
+additional information about the true name of the receiving account. To my knowledge, 
+currently theres no requirement to do so either. And thats the case even where the sending 
+and receiving accounts are held by the same payment service provider. As can be seen from 
+the screenshots Mr N has shared with our service for a test transaction he carried out with 
+bank B, a separate payment service provider, the CoP no match response didnt include 
+additional information even though the receiving account was also with B.
+In this case, we know Revoluts system picked up the true account names at some point as 
+they subsequently appeared on Mr Ns statement. But a screenshot of the transactions that 
+he took on the day of the incident shows the receiving account name as the one entered by 
+him when setting up the payment, i.e., his own name. Given this, I think its unlikely the 
+reconciliation of account names happened during the CoP process.
+Apart from the CoP-related warning, I can see that Revolut also provided a general warning 
+about sending payments to a new beneficiary. On its own, I dont think that warning was 
+particularly impactful. But on this occasion, there was a further warning given when Revolut 
+paused the payments pending further enquiry. It sent an email to Mr N both times informing 
+him that his payment had been frozen due to being considered risky. Mr N is correct in that 
+the email showed the beneficiarys name as that entered by him, not the true account name. 
+But as Ive mentioned, Revolut wasnt necessarily expected to have known that information 
+and to have presented it to Mr N at that specific moment in time. Revolut states that when it froze Mr Ns payments (referenced above), it asked him for some 
+additional information. Namely, the purpose for the payment. It submits that this additional 
+step gave him another opportunity to review the transaction before proceeding, and for it to 
+provide a more specific warning. The technical information Ive seen shows that Mr N chose 
+payment for goods and services on both occasions as the payment purpose. Revolut then 
+provided a further warning to Mr N that was more specific based on his response. On each 
+occasion Mr N confirmed he was happy to go ahead, and the payment was released.
+Revolut says that Mr N was presented with a transfer to a safe account reason as one of 
+the options. It argues that had he selected that reason, it would have provided a tailored 
+warning accordingly. Mr N says he doesnt deny selecting goods and services and argues 
+that safe account wasnt listed as one of the options. He questions the sample screenshot 
+Revolut has shared with our service and believes that its not reflective of what he saw at the 
+time. To support this, Mr N has also shared screenshots of the steps (including warnings) he 
+took when he recently attempted a test transaction for £1.
+I acknowledge Mr Ns concerns, but Im more persuaded that he was presented with the 
+options Revolut says he was shown. This is because it has told us that the specific payment 
+purpose intervention would have triggered in such situations for customers who were using 
+a particular version of the Revolut app, which it says Mr N had been using. I accept that the 
+payment journey of his recent test transaction doesnt include intervention. But that could be 
+because the test transaction didnt carry the same level of risk as the disputed transactions. 
+One possible reason could be because the amounts involved are significantly different. 
+I would just add that the value of a payment is just one of many possible risk factors.    
+Ive carefully considered the different warnings Revolut provided Mr N during the payment 
+journey for each disputed transaction. Ive also reviewed previous account activity. Although 
+a payment for £24,378 was substantially higher than the usual account activity, keeping in 
+mind Revoluts obligations as an electronic money institution, I find that such an intervention 
+was proportionate to the risk involved. But I cant fairly say the same for the next payment of 
+£24,000 which was authorised less than ten minutes later. I find that the same level of 
+intervention wasnt sufficient at that time, and a manual intervention was warranted for 
+further questioning  even if Mr N was genuinely paying for goods and services. 
+I understand Revolut doesnt offer phone services to its customers, and instead 
+communicates through its in-app chat. So, I think Revolut could have still contacted Mr N 
+and probed him further following the second payment being authorised. Had it done so, Im 
+persuaded that he would have answered Revoluts questions honestly. After all, theres no 
+indication that hed been coached by the scammer to lie. I recognise Revoluts concerns 
+about Mr N selecting the wrong reason for the payment. But Im not convinced that this was 
+intentional. I do think its more likely than not that further questioning would have uncovered 
+the scam, thereby preventing further loss. So, I find that Revolut can be held liable for Mr Ns 
+loss resulting from the second payment.
+Ive also carefully thought about whether Mr N is partly to blame for what happened. And I 
+think that he is. Mr N doesnt appear to have questioned why he needed to move his money 
+to two separate accounts to keep it safe. He was also aware that the CoP check came back 
+with a no match response. I understand he questioned the scammer about this, who said it 
+was because the account had been recently set up. While I appreciate Mr N was persuaded 
+by the scammers explanation, it remains the case he had been warned that the name hed 
+entered did not match the true name on the account. There were subsequent warnings that 
+he was potentially being scammed. Revolut was concerned enough that it even paused the 
+payment. Despite the sense of panic that the scammer might have created, I think there 
+were several flags in this particular case. Im also mindful that had Mr N selected the most 
+appropriate payment reason, it would have immediately put Revolut on notice that he had fallen victim to an impersonation scam. Under the circumstances, I find that a 50% deduction 
+for contributory negligence seems fair.
+Ive also considered whether Revolut took reasonable steps to try and recover Mr Ns money 
+once it became aware that hed been scammed. I acknowledge his frustrations about the 
+response time and having to deal with different agents when he reported the scam. 
+Unfortunately, the funds had already been removed from the beneficiary accounts by the 
+time Mr N initiated the in-app chat with Revolut. Theres not much more it could have done, 
+even if it had been quicker in responding to Mr Ns messages.
+Putting things right
+Revolut Ltd needs to refund 50% of the second disputed transaction. To this amount, it 
+needs to add simple interest at 8% per year. The interest is to be calculated from the date of 
+transaction to the date of settlement.  
+If Revolut considers that its required by HM Revenue & Customs to deduct income tax from 
+that interest, it should tell Mr N how much its taken off. It should also give Mr N a tax 
+deduction certificate if he asks for one, so he can reclaim the tax from HM Revenue & 
+Customs if appropriate.
+My final decision
+For the reasons given, my final decision is that I uphold this complaint in part. I require 
+Revolut Ltd to put matters right for Mr N as set out above within 28 days of the date on which 
+we tell it that Mr N accepts my decision.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr N to accept or 
+reject my decision before 3 August 2023.
+ 
+Gagandeep Singh
+Ombudsman

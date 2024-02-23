@@ -1,0 +1,225 @@
+DRN-3480019
+The complaint
+Miss D complains that Santander UK Plc (Santander) wont refund money she lost when 
+she fell victim to an investment scam.
+Miss D is being represented by a claims management company in her complaint.
+What happened
+Miss D became interested in a property development investment opportunity after watching 
+videos of a firm, L, on social media. She reached out to a representative, an investment 
+manager, who persuaded her to invest money in a development project overseas. Miss D 
+was recommended to open an e-money account with an electronic money institution (EMI) to 
+facilitate the investment funding. Funds were deposited into that account from her current 
+account with Santander over a number of transactions. 
+One of the transactions  the second payment  flagged on the banks systems and Miss D 
+needed to contact Santander to discuss it. The agent questioned her about the payment, 
+and she confirmed that she was sending money to her own account which shed recently 
+opened. Miss D also told the agent that no one had been involved in helping her set it up, 
+and she hadnt been asked to download anything on her device. The payment was released, 
+and subsequent payments to the same account were executed without further questioning.
+A further transaction was blocked by Santander when Miss D attempted to send money to 
+an overseas account. The bank phoned her to discuss the nature of this payment, and 
+Miss D confirmed she was investing in a property overseas  the same country where she 
+was sending the money to. The agent asked her what research shed done and how she 
+found out about the opportunity. They also told Miss D that the bank had seen an increase in 
+scams and wanted to make sure she had done her checks before proceeding. Miss D said 
+she was happy to proceed, and the payment was released. There were two further 
+international payments from Miss Ds account  to the same payee  which were made over 
+the next two days.
+Miss D discovered shed been scammed when she received an account closure notification 
+from the EMI she had recently opened an account with. She reported the scam to that firm 
+as well as Santander. Unhappy with their response, the matter was referred to our service. 
+Miss Ds complaint about the EMI is being considered separately by our service.
+Our investigator didnt uphold Miss Ds concerns as they werent persuaded that Santander 
+could have done more to prevent her losses. They were also satisfied that the bank did what 
+it could to try and recover the funds once it became aware of the scam. 
+Miss D and her representative dont agree with the investigators findings and have asked for 
+an ombudsmans decision. So, the complaint has been passed to me to decide.
+The following transactions, made from Miss Ds Santander account in October 2021, are 
+relevant to this complaint 
+Date Type/Payee Amount
+8 October Debit card payment to EMI £5.00
+12 October Faster payment to EMI £3,000.00
+13 October Faster payment to EMI £4,200.00 (flagged)
+14 October Faster payment to EMI £4,200.00
+14 October Faster payment to EMI £4,200.00
+14 October Faster payment to EMI £4,200.00
+14 October Faster payment to EMI £3,999.00
+15 October Faster payment to EMI £4,200.00
+15 October Faster payment to EMI £13,500.00
+17 October Credit from EMI (reversal) £4,200.00 (credit)
+17 October Credit from EMI (reversal) £13,500.00 (credit) 
+18 October International payment £17,208.65 (plus £25 charge) (flagged)
+19 October International payment £17,257.97 (plus £25 charge)
+20 October International payment £14,631.14 (plus £25 charge)
+Scam payments total £90,676.76
+Credits total £17,700.00
+Total loss £72,976.76
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+This complaint has been awaiting an ombudsmans decision for some time. So firstly, Im 
+sorry that Miss D and Santander have had to wait this long. Also, Id like to reassure the 
+parties that although Ive only summarised the background to this complaint, Ive read and 
+considered everything in its entirety. 
+Miss D says her dealings were with a representative from L. Ive done my own research into 
+L, but very little information is available about it in the public domain. I can see it has been 
+registered in an EU member state since July 2021, although it appears to have recently gone 
+into liquidation. This in and of itself isnt evidence that L was set up with the specific purpose 
+of scamming customers. But Miss D claims that she was scammed, and Santander hasnt 
+disputed this. So, Ive proceeded on that basis.
+At the outset, it has been difficult to unpick what exactly happened at the time the payments 
+were made. Miss D reported the scam just days after the last payment was made. Although I 
+appreciate that she may have still been trying to piece together what had happened when 
+she reported the matter, gaps remain in what shes since told her representative and our 
+service. Miss D has also given conflicting information about the disputed payments. 
+For instance, when Santander intervened on 13 October 2021, Miss D confirmed it was her 
+making the payment in question to her own account. During the call, she also confirmed 
+making the previous payment to the same account. Yet around a week later, when she 
+reported the scam to the EMI, Miss D said she hadnt transferred the funds from her 
+Santander account. Later, she acknowledged that she had.
+Similarly, when Santander intervened on 18 October 2021, Miss D confirmed the payment 
+was genuine and she answered the agents questions. But when our investigator phoned her 
+last year and requested further clarification, Miss D told them that although she did authorise 
+the first international payment, she thought it was from her account with the EMI. Ive 
+listened to the call recording and can hear the investigator reminding Miss D that it was Santander who had phoned her at the time to discuss the payment. Miss D can be heard 
+saying, no I thought it was my [EMI] account.  
+I do appreciate that the payments were made nearly two years ago. But these differing 
+recollections naturally cast a doubt on the credibility of Miss Ds testimony. In this situation, 
+my role is to weigh up the evidence we do have and decide on the balance of probabilities 
+whats most likely to have happened. For these reasons, Ive relied and placed more weight 
+on the documentary evidence available to reach a view on what happened. 
+The first thing I need to decide is whether, on balance, I think Miss D authorised the disputed 
+payments. Broadly speaking, Miss D is responsible for any payments that she has 
+authorised, and she isnt responsible for unauthorised payments. 
+Miss D has already accepted that she authorised the payments to her e-money account with 
+the EMI, as well as the first international payment. Having considered all the evidence and 
+information available, I think, on balance, its most likely that she also authorised the 
+remaining international payments. The technical evidence Santander has provided shows 
+that on the day of the relevant payments, online banking access was gained from the same 
+IP address that was used for the earlier payments (which Miss D has confirmed she 
+authorised). This means that Miss Ds account wasnt accessed from any other location. 
+Even if Miss D had granted remote access to the scammer at these times, and the 
+suggestion is that the scammer initiated the payments, each transaction was approved using 
+a one-time passcode (OTP) which was sent to Miss Ds registered mobile number. When 
+questioned, she told our investigator that she shared the OTP with the scammer whenever 
+they rang her and asked for it. 
+Santander has provided a copy of the text containing the OTP which it says it sent at the 
+time. The text reads, OTP to MAKE AN INTERNATIONAL PAYMENT of XXXXX.XX to a/c 
+ending XXXX. Call us if this wasnt you. NEVER share this code, not even with Santander 
+staff.
+I understand Miss D told her representative that she shared the OTPs with the scammer as 
+she believed it was to verify her investment account. But the above casts doubt on her 
+recollections, seeing as the message she would have needed to read in order to share the 
+OTP made it sufficiently clear that the code was for making a payment. Its also worth noting 
+that the message warned Miss D not to share the code.
+As Im persuaded that Miss D most likely authorised the disputed transactions, shes 
+considered liable for the loss  even if she was duped into making the payments  unless 
+theres evidence that Santander could and should reasonably have done more to protect her 
+against the risk of fraud and scams and that this would have made a difference to her 
+decision-making.
+Looking at the account history, I find that Santander intervened at the correct point as I dont 
+think payments 1 and 2 ought to have triggered as being unusual. Ive listened to the call 
+recording between Santander and Miss D on 13 October 2021, a copy of which has also 
+been shared with her representative. Ive carefully considered the concerns that have been 
+put forward for why the intervention didnt go far enough. However, I find that the intervention 
+was sufficient in the circumstances of this case. The agent enquired where the money was 
+going [an account Miss D had recently set up], whether anyone was involved in setting up 
+the beneficiary account [no], and whether shed been asked to download anything [no]. 
+The conversation that followed was based on Miss Ds answers. It is clear she was very 
+unhappy about being asked all these questions. At one point Miss D is heard saying, who are you to tell me where I should send my money? and this account pays me no interest. 
+Im not suggesting that angry or unhappy customers shouldnt be properly questioned by the 
+bank. Im merely highlighting that given Miss Ds state of mind, and her answers to previous 
+questions, Im not persuaded that further questioning along the lines of what the 
+representative has suggested  why she was sending so much money to her account with 
+an EMI; if she was planning on making international payments, etc.  would have resulted in 
+a different outcome. 
+During the call, Miss D had already told Santander that she was looking for a bank account 
+for her son when she came across the EMI. And that she decided to apply for herself 
+because she liked the colour of the debit card. We know that this isnt why Miss D opened an 
+account with the EMI. Im not convinced that further probing, including questioning her about 
+why she had opened an account with an EMI simply based on the colour of its debit card, 
+would have resulted in her saying anything that might have raised concerns. 
+It is also worth pointing out that only days later, when the EMI questioned the purpose of two 
+transfers from Miss Ds Santander account into her account with it, she said it was for paying 
+bills and making online payments. I think its likely that this is what she would have told 
+Santander had it questioned her further. I think its important to note that the EMI does offer 
+those facilities.
+Ultimately, the payment was going to an account in Miss Ds name that she confirmed she 
+had set up without anyone elses involvement. Shed already said it was her decision where 
+to send her money  including sending it abroad, seeing as she mentioned a countrys 
+name. Given that the EMI specialises in international transfers, I dont think Santander ought 
+to have discussed investment scams in the way the representative has argued. 
+Overall, I find that the intervention was sufficient and so Im satisfied Santander acted 
+reasonably. Miss D made four payments to her EMI account the following day. These were 
+released without additional enquiries. Even if Santander had paused some or all of them, Im 
+not persuaded Miss Ds answers would have been any different from those shed previously 
+given.
+The first international payment triggered an alert on Santanders fraud detection system and 
+it phoned Miss D to discuss it. Again, Ive listened to the call recording, and Ive considered 
+her representatives comments. I acknowledge that the agent could have questioned Miss D 
+further  its easy to be critical with the benefit of hindsight  but I dont agree that the agent 
+didnt probe at all. The agent asked whether she had been approached by anyone or had 
+researched the opportunity herself, and Miss D confirmed she had looked it up herself. She 
+also said she was investing with other people, and that they were into buying property and 
+doing it up. 
+The agent went on to ask Miss D how she came across this specific opportunity, and 
+whether shed seen any paperwork or contracts. Miss D confirmed that she had. The agent 
+explained that all banks had seen an increase in scams, and they wanted to make sure the 
+opportunity was legitimate, and that Miss D had done her checks before she was sending 
+the money. She was asked again if the company had given her paperwork and Miss D 
+confirmed that she had. I find that the call served the purpose of identifying a fraud risk, 
+providing a sufficient scam warning, and checking that Miss D had carried out sufficient due 
+diligence. 
+The representative submits that Santander didnt ask for the name of the investment 
+company to check if it was a regulated investment. But the beneficiarys name was the 
+investment company itself  L  and Miss D also confirmed it again during the call. And, as 
+far as I can tell, it wasnt an investment company in the literal sense; L was a property development / construction company. So, Im unsure about the relevance of checking 
+whether the investment was regulated. Its unclear whether the agent researched the 
+company before or during their call with Miss D. But in any event, if a check has been carried 
+out, L would have come up on the EU member states company register  indicating that it 
+had been properly registered with the local authorities. 
+Miss Ds representative also submits that Santander asked for the details of the investment 
+and Miss D said she didnt have any details other than it was a property in a certain country. 
+They argue that the bank should have seen this as a huge red flag as Miss D should have 
+been able to explain key details, such as the name of the investment firm, the location, price, 
+and the configuration of the property. 
+That isnt what happened during the call. After questioning her about the transaction, 
+Santander had asked to go over the payment details and Miss D said she didnt have them 
+at the time. That is why the agent went on to explain that normally the bank would want to 
+double check the details before processing the payment. But that the payment in question 
+could be released if Miss D was happy with the details shed entered online when she 
+authorised it. 
+Theres no suggestion that Miss D wouldnt have been able to answer what her 
+representative has referred to as key details had Santander questioned her further. In fact, 
+as Ive already mentioned, during the call she did confirm she wanted to pay L. It might be 
+that Ive misunderstood Miss Ds representative, and what theyre saying is that shes since 
+told them she wouldnt have been able to provide the information had she been asked at that 
+time. But Miss Ds recollections have already been called into question. If, as claimed during 
+the call, she was into buying property and doing it up, and shed actively sought this 
+opportunity, it seems unlikely that she wouldnt have received some information from L (like 
+a brochure or a sales prospectus) at the very least which would have enabled her to provide 
+that information.
+Overall, Im not persuaded that further questioning at the time of the international payment 
+would have led to a different decision-making on Miss Ds part. The next two payments went 
+to the same payee. Given that Santander had already made enquiries about the nature of 
+the previous payment to that payee, I dont think the bank acted unreasonably by not 
+contacting Miss D again when she authorised the subsequent payments. That means, I cant 
+fairly hold Santander liable for Miss Ds loss.
+Ive also thought about whether Santander could have done more to recover the funds after 
+it became aware of the situation, as in some circumstances the money can be recovered. In 
+relation to the payments to Miss Ds account with the EMI, we know funds had already been 
+transferred out by the time the scam was reported. So, a recall request wouldnt have been 
+successful. As for the international payments, I can see Santander sent a recall request to 
+the beneficiary bank. But it was told funds couldnt be recovered unless the beneficiary 
+consented, or the request came from a local authority. Under the circumstances, I dont think 
+Santander could have done anything more to recover Miss Ds funds.
+I recognise that Miss D will be very disappointed with this outcome. Not least because the 
+matter has been ongoing for some time. I recognise that theres a lot of money involved 
+here. But having considered the available information, for the reasons given, it wouldnt be 
+fair of me to hold Santander responsible for her loss.
+My final decision
+For the reasons given, my final decision is that I dont uphold this complaint.Under the rules of the Financial Ombudsman Service, Im required to ask Miss D to accept 
+or reject my decision before 14 September 2023.
+ 
+Gagandeep Singh
+Ombudsman

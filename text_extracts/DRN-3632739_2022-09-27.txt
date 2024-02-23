@@ -1,0 +1,109 @@
+DRN-3632739
+The complaint
+Mr P complains that TSB Bank plc failed to refund transactions he didnt recognise.
+What happened
+Mr P held a current account with TSB and noticed several payments to a merchant Ill refer 
+to as G that he didnt recognise. These payments were made using his debit card via either 
+the internet or a phone call.
+These payments took place over several days in late 2020 and Mr P notified TSB about 
+them. Mr P still had possession of his debit card at that point and hadnt given the details to 
+anyone else to use them. TSB issued a refund for the disputed transactions, cancelled his 
+card, and re-issued a new one with a different card number. 
+Early in 2021, there were a number of transactions to another business Ill refer to as J. 
+These took place over a two-week period and amounted to several thousand pounds. Mr P 
+didnt recognise these transactions which were made with the new card details recently 
+issued to him. Again, Mr P notified TSB about these transactions and they were investigated 
+by TSB.
+TSB were concerned about the two fraud claims and contacted both G and J. After 
+considering the situation, TSB recovered the original refunds theyd made to Mr P and 
+declined to refund the second set of disputed transactions from J. TSB believed Mr P was 
+responsible for making all the transactions hed disputed.
+Mr P was unhappy with TSB and made a complaint to them. TSB again looked into the 
+situation but didnt change their position and declined to refund him. Mr P then brought his 
+complaint to the Financial Ombudsman Service for an independent review. It was looked into 
+by one of our investigators who asked both parties for information about the situation.
+Mr P explained that he hadnt given either of his cards or their details to anyone else, but it 
+was possible for their details to be acquired through various means. TSB provided details of 
+their investigation and information about the transactions which had all been made as 
+distance contracts  which meant they were made either over the internet or via a phone 
+call. 
+The information required to make the transactions needed the various details from the card 
+including the three-digit security number (CVV). TSB were concerned about discussions 
+theyd had with G & J as they indicated links with Mr Ps accounts and addresses to another 
+person. 
+After considering the evidence, our investigator thought it was reasonable for TSB to hold Mr 
+P responsible for the transactions. Mr P disagreed with the outcome and maintained that he 
+wasnt responsible for the payments and was also a victim of fraud. 
+Mr Ps complaint has now been passed to me for a decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+The relevant law surrounding authorisations are the Payment Service Regulations 2017. The 
+basic position is that TSB can hold Mr P liable for the disputed payments if the evidence 
+suggests that its more likely than not that he made them or authorised them. 
+TSB can only refuse to refund unauthorised payments if it can prove Mr P authorised the 
+transactions, but TSB cannot say that the use of the card details conclusively proves that the 
+payments were authorised. Unless TSB can show that consent has been given, it has no 
+authority to make the payment or to debit Mr Ps account and any such transaction must be 
+regarded as unauthorised. 
+To start with, Ive seen the banks technical evidence for the disputed transactions. It shows 
+that the transactions were authenticated using the payment tools issued to Mr P. Ill now 
+need to consider the information provided by both parties to determine whether theres 
+sufficient evidence to hold Mr P responsible for the disputed transactions or not.
+Due to the age of the transactions, TSB were unable to provide all the details about the 
+payments, but theyve explained that the use of the CVV in the transactions was likely 
+required when the payments were made. This is relevant to my considerations because the 
+CVV isnt generally available anywhere but from the card. Looking at the amounts of the 
+payments made to both G & J, I think its likely that the CVV was required, at least for the 
+original payments made to them. It wouldnt be usual for a legitimate merchant (such as G & 
+J) to fail to ask for the CVV on a new payment from a person as its an integral part of the 
+security of the card and would put themselves at further risk of fraud.
+There were two sets of disputed transactions, each of them amounting to several thousand 
+pounds. The first set used the details from Mr Ps original debit card, including the CVV. The 
+second set of payments used the details from Mr Ps new card that had only been issued to 
+him some weeks earlier. In order for an unauthorised third party to carry out these 
+transactions, they would have needed to obtain two sets of details from Mr P, including the 
+CVV from each card which as Ive already mentioned isnt generally available from anywhere 
+but the card itself. 
+Mr P has confirmed he didnt reveal the card details to anyone else to use his card, but he 
+believes there are ways to obtain the card details. By that he means either physically ( taking 
+the card and copying the details) or some form of electronic or social engineering attack 
+(phishing). Whilst its true that the card details can be obtained by various methods, I dont 
+think thats the explanation here.
+I say that because these transactions required two different sets of card details including the 
+CVV. Mr P hasnt been able to provide any evidence that he was the victim of a phishing 
+attack that would have had to have happened twice to obtain both numbers, nor is there any 
+evidence that his card details were obtained by anyone being able to physically take them 
+and copy the details.
+Both sets of payments also needed other details including the address the card was 
+registered to. TSBs records indicated that both G & J had various details held on their 
+systems that were linked to Mr P, including his address. Mr P believed it was straight 
+forwards for his details to be added to both G & Js records by whoever carried out these 
+transactions. Its possible that someone else was responsible for them and orchestrated 
+various false accounts with G & J, but having looked at Mr Ps internet usage of his account, its apparent that he was using his online banking at various times between the disputed 
+transactions (which took place over an extended period of time). I think it unlikely that these 
+payments wouldnt have been noticed earlier as they were relatively large. 
+Prior to the first set of payments to J, the account received a number of payments which 
+appear to have been sent from another account belonging to Mr P. Three payments were 
+then made to J which amounted to over £1,500 and the account then received further inward 
+payments, again from accounts belonging to Mr P before further payments were made to J. 
+The account was, at that point, quite low and Mr P transferred further funds into it, before 
+further payments were made to J. So, it appears that the account was somewhat managed 
+throughout this period because many of the disputed transactions couldnt have taken place 
+without further funds being transferred in from Mr P. I think it unlikely that Mr P wasnt aware 
+of these large payments leaving his account, so Id question why he didnt notify TSB about 
+them earlier.
+Taking everything into account I think it more likely than not that Mr P was responsible for 
+making these transactions and that it was reasonable for TSB to hold him responsible for 
+them. Whilst Im sure Mr P will disagree with me, theres no evidence to show these 
+transactions were carried out by anyone else and the operation of his account indicates that 
+he was likely aware of the disputed transactions some time before he notified TSB about 
+them. Its also unlikely that an unauthorised third party was able to obtain two different sets 
+of card details including the CVV.
+My final decision
+My final decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr P to accept or 
+reject my decision before 25 October 2022.
+ 
+David Perry
+Ombudsman

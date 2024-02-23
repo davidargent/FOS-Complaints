@@ -1,0 +1,114 @@
+DRN-3619197
+The complaint
+Mr A complains that Monzo Bank Ltd are holding him liable for a transaction he says he 
+didnt authorise.
+What happened
+In November 2021, Mr As Monzo card was used to make a purchase which Mr A says he 
+didnt authorise. The transaction was made using Apple Pay on a device secondary to 
+Mr As trusted device registered with Monzo.
+Mr A received a notification on his phone to approve his card being registered to Apple Pay. 
+Mr A approved this notification, aware that he had recently set up his card through Apple 
+Pay. Following the approval, Monzo sent Mr A a text message to let him know his card had 
+been successfully set up.
+Around 25 minutes later, through Apple Pay, Mr As card was used to make a transaction at 
+a store. Mr A received a notification confirming the transaction so decided to freeze his card. 
+A few minutes after this, Mr A reported the transaction with Monzo.
+Monzo held Mr A liable for the transaction  they explained their technical evidence 
+suggested that it wasnt possible for the transaction to be authorised by anybody other than 
+Mr A. Our investigator reviewed things and didnt agree. In summary, he said there were a 
+few transactions in the lead up to the disputed transaction where Mr As card details could 
+have been compromised. And he didnt think Mr A had been grossly negligent when 
+approving the Apple Pay notification, as he did so in good faith knowing hed recently set up 
+Apple Pay through his own phone. On balance, the investigator didnt feel there was enough 
+evidence to hold Mr A liable.
+Monzo disagreed and asked for an ombudsman to review things. Therefore, the complaint 
+has been passed to me.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+This is a finely balanced case and I wont be able to say what happened for certain  Ill 
+need to make my findings based on what I think to have most likely happened in the 
+circumstances. 
+The relevant law surrounding authorisations are the Payment Service Regulations 2017 and 
+the Consumer Credit Act 1974. The basic position is that Monzo can hold Mr A liable for the 
+disputed payment if the evidence suggests that its more likely than not that he made it or 
+authorised it. If Mr A made the disputed transaction himself, it wouldnt be fair to ask Monzo 
+to refund it. But Mr A says he wasnt responsible for the payment in dispute. So, the key 
+question for me to consider is whether Monzo has provided enough evidence to hold Mr A 
+responsible. 
+Monzo can only refuse to refund the unauthorised payment if they can prove Mr A 
+authorised the transaction, but its not enough for Monzo to say that the use of Apple Pay 
+conclusively proves that the payment was authorised. Unless Monzo can show that consent 
+has been given, they have no authority to make the payment or to debit Mr As account and 
+any such transaction must be regarded as unauthorised. 
+To start with, Ive seen the banks technical evidence for the disputed transaction. It shows 
+that the transaction was authenticated using Apple Pay  which Mr A admits to approving a 
+short while before the transaction was made. In summary, Monzo say they can hold Mr A 
+responsible because theres no plausible explanation for how the payment was made 
+without Mr As involvement. They contend that its unlikely that anyone other than him could 
+have used his phone to authorise the Apple Pay transactions and as he wasnt under 
+pressure from a scammer; and theres no clear evidence when his card details were 
+compromised he must have been involved. 
+Ive seen Monzos internal notes which clearly confirms the circumstances of this complaint 
+relates to a likely Apple Pay scam. I dont think its fair or reasonable to hold Mr A liable for 
+the transaction on the basis that he cant pin-point when his card details were compromised. 
+I appreciate this makes things difficult  it would be simpler of course if Mr A recalled being 
+scammed. However, as scams are becoming more sophisticated, it isnt unusual for victims 
+to be unaware of when they are being tricked into giving information. Therefore, this point 
+alone, doesnt persuade me that Mr As card details werent compromised  and as the 
+investigator has rightly pointed out, they could have been compromised without Mr As 
+knowledge at all through data linked to transactions he did authorise leading up to the 
+transaction in question. Its also not for Mr A to prove when his card details were 
+compromised or when he was scammed; but instead, its up to Monzo to provide the 
+evidence to show Mr A knowingly consented to the payment.
+Mr A confirms he approved the Apple Pay notification he received on his phone to set up the 
+Apple Pay on a secondary device. While I recognise this in itself puts Mr A in a vulnerable 
+position, Mr A has provided a plausible and consistent story as to why he approved the 
+notification. Mr A has explained he thought the approval pop up related to him setting up 
+Apple Pay recently on his own phone; and didnt think anything untoward. Ive thought 
+carefully about Monzos response to this  they say as Mr A wasnt under pressure from a 
+scammer he should have thought carefully about the notification and not approved it. I think 
+Monzo are setting a high bar here  when deciding cases such as this, its important to 
+recognise the full circumstances of what had happened. And I dont think its unreasonable 
+for somebody to think a notification relating to an activity they did set up themselves a short 
+while before needed approving. I appreciate a warning message was also displayed  but as 
+Mr A set up Apple Pay himself beforehand, I dont find his story unrealistic. I also havent 
+seen anything to show that Mr A would have been aware from the notification that he was 
+setting up his card on a second Apple Pay wallet  if this message was more prominent, I 
+could understand Monzos approach better. Therefore, I dont think Mr A approving a 
+notification on his own device, which he genuinely thought was for something he had already 
+approved on his own device, persuades me that Mr A authorised and consented to the 
+transaction in question or the setup of Apple Pay on a secondary device unbeknown to him.  
+Mr A also took the actions Id expect him to when he found out about the disputed 
+transaction. He immediately froze his card, and contacted Monzo within minutes to dispute 
+the transaction  this would therefore avoid any further transactions being made without 
+Mr As consent which again, doesnt bring me to believe that Mr A was involved in the fraud 
+himself as it was a relatively small transaction which was carried out.
+I accept this is not a clear-cut case and Monzo have rightly raised several points that could 
+suggest Mr A authorised the transaction himself. However, having considered Mr As version of events, and the circumstances of this complaint alone, Im satisfied that its more likely 
+than not Mr A didnt authorise the disputed transaction. And therefore, I think Monzo should 
+reimburse Mr A for the disputed amount. 
+I dont consider Monzo are entitled to make any deductions to the refunds for contributory 
+negligence. Contributory negligence carries a high bar and I havent seen evidence to 
+persuade me that Mr A is at fault for the circumstances of this complaint.
+Putting things right
+In summary, I havent seen enough evidence to satisfy me that Mr A consented to the 
+payment in question being made. Im more persuaded by Mr As version of events and 
+therefore dont find that he should be held liable for the transaction. So, Monzo should refund 
+the amount of £299.95 and pay interest at 8% simple interest to recognise the loss of use of 
+the funds.
+My final decision
+For the reasons Ive explained above, I uphold this complaint. To put things right, Monzo 
+Bank Ltd should:
+Refund Mr A £299.95.
+Pay interest at 8% simple per year on this amount. Monzo should calculate this from 
+the date the disputed transaction was made and up until the date they refund it to 
+Mr A. 
+HM Revenue & Customs requires Monzo Bank Ltd to withhold income tax from the 
+above-mentioned interest. Monzo should give Mr A a certificate showing how much 
+tax is taken off if Mr A asks for one. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr A to accept or 
+reject my decision before 15 October 2022.
+ 
+Hayley West
+Ombudsman

@@ -1,0 +1,94 @@
+DRN-4444592
+The complaint
+Mr D complains that Revolut Ltd wont refund money he lost when he was a victim of a 
+scam.
+What happened
+The background to this complaint is well known to both parties and so Ill only refer to some 
+key events here.
+In July 2023 Mr D received a telephone call from scammers impersonating a legitimate 
+crypto firm. The scammers convinced Mr D that if he were to pay a withdrawal fee of £7,000, 
+he would receive over £90,000. To do this Mr D was instructed to set up a Revolut account, 
+a crypto wallet and also downloaded remote desktop software to allow the scammers to 
+assist him. 
+Two payments were made from Mr Ds Revolut account to a legitimate crypto exchange 
+before being forwarded on to the scammers. Mr D says it was the scammers that made 
+these payments, not him, as they had access to his Revolut card details by using the remote 
+desktop software. The relevant payments are:
+Date Type Amount
+24 July 2023 Debit card transaction £2,505.72
+24 July 2023 Debit card transaction £875.66
+Total £3,381.38
+Mr D has explained that he became concerned about the opportunity as, after hed made the 
+above payments, the scammers called him frequently and applied pressure for him to 
+deposit more. And so, Mr D carried out an internet search and spoke to a few people about it 
+ which led to him realising hed been scammed. 
+Mr D contacted Revolut about the scam payments but they explained a refund wasnt 
+possible. They said Mr D authenticated the payments via 3D Secure (3DS), which required 
+him to confirm the transactions on the Revolut app. And so, a chargeback claim couldnt be 
+pursued. 
+Unhappy with this, Mr D referred his complaint to the Financial Ombudsman. Our 
+Investigator didnt however think Revolut had to do anything further. She considered Mr D 
+authorised the payments as, even though the scammers may have processed them by using 
+the remote desktop software, Mr D was aware the funds were leaving his account and 
+allowed it to be sent. She also didnt think the payments were unusual or suspicious enough 
+whereby she wouldve expected Revolut to have identified them as being made in relation to 
+a scam. Nor did she think Revolut acted unfairly by not raising a chargeback claim for the 
+disputed payments.
+Mr D requested his complaint be reviewed by an Ombudsman, and so it has been passed to 
+me to decide. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Im sorry Mr D has been the victim of a scam and I dont underestimate the impact this has 
+had on him. But I must consider whether Revolut is responsible for the loss he has suffered. 
+And while I realise this isnt the outcome Mr D is hoping for, for similar reasons as our 
+Investigator, I dont think they are. I therefore dont think Revolut has acted unfairly by not 
+refunding the payments. Ill explain why. 
+In broad terms, the starting position in law is that an electronic money institution (EMI) is 
+expected to process payments that their customer authorises them to make. Here, Mr D 
+says he didnt make the payments himself but it was the scammers that processed them on 
+his computer by using remote desktop software. Revolut has however explained that that the 
+payments were authorised by 3DS and this required Mr D to confirm the transactions on 
+their app  which they sent push notifications to. Ive also considered that Mr D was aware of 
+the payments being made by the scammer at the time, as he allowed them to do so. 
+Because of this, Im satisfied Mr D authorised the payments. And, under the Payment 
+Services Regulations 2017 and the terms of his account, Revolut are expected to process 
+the payments and Mr D is presumed liable for the loss in the first instance.
+However, taking into account the regulatory rules and guidance, relevant codes of practice 
+and good industry practice, there are circumstances where it might be appropriate for 
+Revolut to take additional steps or make additional checks before processing a payment to 
+help protect customers from the possibility of financial harm from fraud.
+So, the starting point here is whether the instructions given by Mr D to Revolut (either 
+individually or collectively) were unusual enough to have expected additional checks being 
+carried out before the payments were processed. 
+The Revolut account was newly opened and so there wasnt any historical spending to have 
+allowed Revolut to assess whether the scam payment transactions were unusual or out of 
+character for Mr D. Ive therefore thought about whether the payments themselves, without 
+any typical account usage available, were suspicious enough to have prompted Revolut to 
+consider Mr D was at risk of financial harm from fraud.
+The payments were made to a legitimate crypto exchange. And while there are known fraud 
+risks associated with crypto, as scams like this have unfortunately become more prevalent, 
+many of Revoluts customers use their services to legitimately invest in crypto - particularly 
+as many high street banks have applied limits or restrictions. Because of this, and as I dont 
+think the payments were of a significant enough value, either individually or collectively, I 
+dont think there wouldve been enough reason for Revolut to have concerns. I therefore 
+think it was reasonable for Revolut to assume the payments were being made for legitimate 
+crypto purposes. And so, it follows that I wouldnt have expected Revolut to have taken 
+additional steps or carried out additional checks before processing the payments. 
+Ive considered whether, on being alerted to the scam, Revolut could reasonably have done 
+anything to recover Mr Ds losses, but I dont think they could. The only possible option for 
+recovery here, given the payments were made by debit card, would have been via a 
+chargeback claim. But given these payments were for the purchasing of crypto with a 
+legitimate firm, I dont think a chargeback claim would have been successful as Mr D 
+received the service he paid for. As such, I think it was reasonable for Revolut not have 
+raised a chargeback claim here. I have a great deal of sympathy for Mr D and the loss hes suffered. But it would only be fair 
+for me to direct Revolut to refund his loss if I thought Revolut was responsible  and Im not 
+persuaded that this was the case. For the above reasons, I think Revolut has acted fairly and 
+so Im not going to tell them to do anything further.
+My final decision
+My final decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr D to accept or 
+reject my decision before 29 December 2023.
+ 
+Daniel O'Dell
+Ombudsman

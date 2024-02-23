@@ -1,0 +1,128 @@
+DRN-4124965
+The complaint
+Mr T complains that Hargreaves Lansdown Asset Management Limited (HLAM), did not 
+execute his limit order to purchase shares when the limit price was reached.
+What happened
+The background to this complaint was set out in my provisional decision dated 18 April, so 
+I wont repeat the detail again here. In brief summary, Mr T placed an online order to 
+purchase 3,550 shares in a company, which Ill refer to as P, at a limit price of 510p. He 
+says the limit price was reached but HLAM did not trade. 
+HLAM said that, although the limit price was observed for around 13 minutes on the morning 
+of 7 March, its limit order service didnt trigger so the deal wasnt placed. 
+Our investigator concluded the market and the volume of trades on the morning Mr T placed 
+his order was unusual enough to satisfy term A12 which sets out that HLAMs service may 
+be interrupted, and its services might be variable and that, in these circumstances, HLAM 
+isnt liable to Mr T because its service wasnt available. But the investigator thought HLAM 
+should still pay Mr T £200 because it failed to provide the reason for the systems failure until 
+after this service issued its view.
+Mr T didnt agree so the complaint was passed to me. I wasnt minded to uphold the 
+complaint and I explained why. I said:
+HLAM sets out the risks of placing a limit order in its terms and conditions, and Im 
+satisfied these were brought to Mr Ts attention before he placed his limit order. 
+HLAM has a limit minding system. It doesnt enter limit orders to the exchange order 
+book. Rather, it attempts to trade as soon as practicable once the limit price is 
+reached and the order is triggered by its limit minding system. This is explained in its 
+terms which say:
+After the share price reaches the limit price or stop price you set we will attempt to 
+place your deal in the market. However, share prices can change in seconds and if a 
+share price has moved by the time we attempt to place your deal it may not be 
+executed at the price you have set, or at all.
+I think HLAM makes it reasonably clear that it cannot guarantee a limit order will be 
+executed. It says:
+Hargreaves Lansdown cannot guarantee that your stop loss or limit order will be 
+executed, even if the share price reaches the limit price or stop price you have set. If 
+you are not comfortable with this, you should not use this service.
+And it goes on to explain that there may be a number of factors which prevent a limit 
+order being executed, such as market conditions.
+It also says that:
+We do not accept any liability for any loss or potential loss you may suffer if there is 
+a delay in execution of a limit or stop loss order, a stop loss order is executed below 
+the stop price or there is a failure to execute a limit or stop loss order.
+So, when Mr T placed his limit order, Im satisfied he should have been reasonably 
+aware that there were no guarantees it would execute, even if the limit price was 
+reached, and that HLAM wouldnt be liable if the limit order didnt execute. 
+But Ive gone on to think about whether HLAM treated Mr T fairly in the 
+circumstances, particularly taking into account that the limit price requested by Mr T 
+was reached.
+The limit price was reached for around 13 minutes on the morning of 7 March 2022. 
+This would ordinarily be enough time to reasonably expect Mr Ts limit order to be 
+triggered and placed with the market. 
+But HLAM has told us there were exceptional market conditions that day which 
+meant its system didnt trigger. Mr T has quite rightly pointed out that HLAM is 
+required to stress test its systems. But there were a number of factors on the morning 
+of 7 March 2022 which lead me to conclude that market conditions were 
+unprecedented, as HLAM has claimed, and that it wasnt unreasonable that its 
+system came under strain, despite it having been stress-tested. 
+HLAM has explained that Russias invasion of Ukraine saw high volumes of sales on 
+3 and 4 March and that these reached their peak in the first hour of trading on 7 
+March. Its provided data which shows that:
+The daily volume of trades completed by HLAM was around twice what it would 
+typically expect.
+The volume of trades completed by HLAM in the first hour of trading was around 
+two and half times what it would typically expect.
+Of all the limit orders that were successfully traded on 7 March, almost 75% were 
+dealt during the first hour of trading.
+HLAM has provided a spreadsheet which records all quotes (clients who 
+requested a quote, but didnt proceed further), errors (where HLAM couldnt get 
+a quote from the market), trades (where the client received a quote and went 
+onto trade), and non-trades (where the client received a quote, asked to trade, 
+but the trade was rejected by the market). This record has 32,500 entries for the 
+13 minutes that P was at Mr Ts requested limit. 
+Im satisfied that the unprecedented market conditions, and volumes being 
+experienced by HLAM, reasonably reduced the chances of Mr Ts limit order being 
+triggered. In the circumstances, I dont find HLAM treated Mr T unfairly in not 
+compensating him for his limit order not being dealt. 
+Mr T says HLAM should have warned him that it was experiencing unprecedented 
+dealing volumes in line with its terms which say it will:
+inform our clients about any material difficulties relevant to carrying out orders 
+promptly upon becoming aware of the difficulty. 
+Whilst volumes were high on the two working days before 7 March, HLAM hasnt made us aware that this led to any difficulties in it fulfilling its clients orders. And, 
+whilst it may have expected volumes to remain high on 7 March, I dont think HLAM 
+had enough information for it to know in advance just how high the volumes would be 
+on that day and how this might impact its ability to place orders and, specifically, the 
+performance of its limit minding system. I can also see that it successfully traded 
+other limit orders, which shows that it was able to fulfil some of its clients limit orders. 
+Whilst this wont be of consolation to Mr T, the fact that it was still able to successfully 
+trade other limit orders doesnt suggest there was a general problem with it being 
+able to place orders promptly. So I dont find it reasonably had an obligation to notify 
+Mr T of any material difficulties.
+Our investigator recommended HLAM should still pay compensation of £200 to Mr T 
+for failing to explain to him why his limit order wasnt placed. Whilst it would have 
+been helpful for HLAM to give Mr T a fuller explanation for why his limit order wasnt 
+triggered, I dont find HLAM treated Mr T unfairly or unreasonably in failing to carry 
+out his limit order. And for that reason, I cant order it to pay compensation to Mr T for 
+any distress or inconvenience he was caused.
+Mr T didnt agree, saying that I hadnt understood his complaint and had confused market 
+risk with the failure of HLAMs systems. He said, in summary, that:
+He accepts there is a market risk of trades not being dealt and that HLAM isnt liable for 
+this.
+HLAM is responsible for its limit minding system, and it was this system that failed. He 
+should be compensated because its system failed and wasnt fit for purpose.
+HLAMs terms say that it will attempt to place an order in the market when the limit price 
+is reached. It breached these terms because it made no attempt to place his order. If the 
+order had been attempted, it would have been filled.
+HLAM withheld information about its limit minding service, and he didnt receive an 
+apology.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Ive carefully thought about what Mr T said in response to my provisional decision. But it 
+doesnt change my conclusion.
+I agree with him that HLAMs system didnt attempt to place Mr Ts order. But that was due 
+to the market conditions at the time. I dont find this means HLAMs system wasnt fit for 
+purpose  as I explained in my provisional decision, the market conditions were 
+unprecedented.
+HLAM doesnt guarantee limit orders will be placed. And Im satisfied that conditions were 
+such that it wasnt unreasonable that Mr Ts limit order wasnt placed. Ive already set out 
+HLAMs terms which explain there are a number of factors, including market conditions, 
+which might lead to a limit order not being placed. And that in such circumstances, it doesnt 
+accept liability for any loss.In my provisional decision, I said that it would have been helpful had HLAM given a full 
+explanation of why Mr Ts limit order wasnt placed in reply to his complaint. But Im not 
+persuaded it purposely withheld information as Mr T suggests.
+My final decision
+For the reasons Ive explained, my final decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr T to accept or 
+reject my decision before 12 June 2023.
+ 
+Elizabeth Dawes
+Ombudsman

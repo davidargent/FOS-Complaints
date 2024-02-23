@@ -1,0 +1,284 @@
+K821x#15complaint
+Mrs S complaint is that Swissquote Ltd (SQ) wrongly closed seven of her Forex Contracts 
+for Differences (CFD) positions (the positions) on 2 January 2019  (the date) by applying 
+non-market prices to them; and that the non-market  prices were the result of a malfunction in 
+SQs Liquidity Provider (LP) and pricing  system/feed at the time. To redress  this, she seeks  
+reinstatement of her positions or compensation.
+background
+SQ disputed  the complaint so Mrs S referred  it to this service. In the main,  SQ said:
+The positions were  closed at 23:37:45 on the date because  the margin  level in Mrs S 
+account fell below the requisite 50% (it fell to 47.21%); the margin  stop out provisions  
+for the account  were applied, as prescribed in the terms agreed  for the account; this 
+meant the positions were forcibly closed because  of the margin  breach.
+The margin level in Mrs S account and open positions based  on the following 
+currency pairs   AUD/NZD, AUD/CHF, CAD/JPY  and CAD/CHF (amongst others)  
+were impacted by a flash crash  in the forex market at the time, which led to sudden 
+price volatility that affected these  pairs; this was outside its control; it had a panel of 
+around 15 LPs from which it obtained  its price feed and liquidity; as a result  of the 
+flash crash  and volatility all but one of them stopped providing  prices for the affected 
+pairs; one continued to provide  prices, albeit  with a larger spread.
+Subsequent  to the stop outs of Mrs S positions,  its parent company and its parent 
+companys LPs granted it price improvements on currency  pairs affected by the flash  
+crash event  and, as a gesture of goodwill, it applied  the improved prices  to the 
+positions and passed on the benefit of this to Mrs S in the form of crediting her 
+account with 233.25  Euros on 7 January 2019.
+One of our investigators  looked into the matter and her initial  view was mainly as follows:
+The terms agreed for the account confirm that SQ set its own prices for trades,  
+inclusive of a  mark-up or mark-down  on inter-bank dealing  or market rates ; 
+and that there was no guarantee it would offer the best price in the market. 
+Nevertheless, and in order to be fair to its customers (like Mrs S), this did not mean it 
+could set any price. Its prices had to be reflective of the market.
+Overall and on balance, and with particular reference to the improvements applied by 
+SQ, the prices appear to have  been broadly fair. 
+The matter of the margin stop outs applied to close the positions arose, reasonably, 
+from the breach  of the margin requirement  within Mrs S account.
+Mrs S disagreed and asked for further investigation into the issues,  and the investigator  
+performed that. Mrs S remained dissatisfied with the feedback given to her by the 
+investigator, so the matter was referred to an ombudsman (me). Mrs S also notified  us of a 
+revision to the compensation she seeks in the complaint. Initially  she sought a refund of the 
+loss she incurred from the closure of the positions.  She extended that to claim, in addition, 
+compensation for the profit (at the rate of 104% and based  on a comparison with what her 
+trading robot achieved  elsewhere) she would  have made on that loss amount and 
+compensation for the costs she incurred  in consulting a specialist to aid the submissions she 
+made in the course of the complaint  the revised  compensation.
+Ref: DRN80682772I too investigated further into the relevant issues and reached a preliminary  view on the 
+complaint. With the investigators help, this view was shared with both parties. In the main, 
+my preliminary view was presented as follows:
+Two issues arise   the legitimacy  of the margin call in Ms S account and the legitimacy  of 
+the prices applied to her 7 positions in the course  of the margin call.
+I agree  with the investigators finding  on the matter of the margin call. I understand Ms S 
+point about unreliable (or even absent) prices at the time of the margin  call but, on balance  
+and in the context of the flash crash that happened at the time, it is more likely  (than  not) that 
+price volatility and the state of margin in her account both caused (or would have caused) 
+the margin call  irrespective of SQ struggling  to get a reliable price at the time.
+With regards to the prices  applied to her 7 positions, Im persuaded by Ms S argument. It is 
+one thing to say the margin call was fair, but the prices at which  the margin  call applied to 
+her 7 positions is a distinct matter.  We still need  to be satisfied that those prices were  fair, 
+and I can see the investigator already explored this with SQ. SQ concedes  that some  prices 
+were revised, it stands by its revised prices and it says it paid Ms S some  compensation 
+(based on the revisions) to reduce  the loss she incurred. Im not convinced  it has addressed 
+this issue fairly because the revised prices concern me. In forex  trading  terms Ms S is 
+correct in her assertions  about the importance  of PIPs and SQ will be fully aware of this. 
+Based on the evidence  on file and a spreadsheet summary of the global average prices  
+versus SQs revised prices, my calculation of the differences  (in PIPs) in the 4 currency  pairs 
+relevant to Ms S 7 positions is as follows  
+AUD/NZD  SQs  adjusted price was 178 pips lower than the global average.
+AUD/CHF  SQs  adjusted price was 378 pips lower than the global average.
+CAD/CHF  SQ did not adjust  this price and its original price was 7 pips higher than 
+the global average.
+CAD/JPY  SQs  adjusted price was 152 pips lower than the global average.
+The price  for the CAD/CHF pair is not a concern,  but the rest suggest prices  notably outlying 
+the wider market. I accept  SQ was not obliged to match its competitors prices or even to 
+match, precisely, the wider market  price but when  the investigator  questioned SQ about how 
+its prices were formulated it expressly  conceded  that the process used  by its parent 
+company/liquidity provider includes estimation of the true market  price, reflection of 
+market conditions and offering a price that is as good as those available in the external 
+market. Whilst I accept  its terms and conditions gave no guarantees in this respect,  the fact 
+remains that its pricing was not done  in a bubble and there was a need to have prices  that 
+reflected the market   its prices did not have to be an exact match to the average market 
+price but they ought to have been  reasonably within or close  to that average or the market 
+range. Being  152, 178 and 378 pips beyond the market does not sound  like a reflection of 
+the market  plus the flash crash at the time might  not be a viable excuse as my 
+understanding of the global average prices  presented as evidence  is that they already take 
+the flash crash into account.
+For the above reasons Im persuaded to say Ms S should be compensated for the losses  
+incurred from the closure  of positions  within the relevant 7  based  on the AUD/NZD, 
+AUD/CHF and CAD/JPY currency pairs. I do not suggest that the average market  prices are 
+what those positions  should have closed  at, but I am persuaded to use them  as a basis  upon 
+which this compensation should be calculated. It is not possible to say, with precision, what  
+Ref: DRN80682773revised prices SQ should have used to properly reflect the market and to apply to the 
+relevant positions,  so the average  market prices are fair and reasonable alternatives.  
+I do not accept Ms S argument  for lost future gains, which she says she would have made 
+thereafter on the amount she lost in the margin call. I consider  the argument  based on 
+speculation. Instead, I will be persuaded to award  £100 to her for the trouble and upset 
+caused by the matter.
+If the parties  agree to the above, the matter could be resolved without the need for a 
+decision. If either party (or both) disagree  with the above, I welcome their responses 
+(including any corrections  of facts) and any relevant evidence they might wish to present. 
+Unless, such responses (and evidence) change my mind, the above  is likely to form the 
+basis of my decision.
+A correction  subsequently  arose  in terms of Mrs S closed positions  being based, only,  on 
+the AUD/NZD and AUD/CHF  currency pairs. The investigator then helped  to convey the 
+following from me to both parties:
+I thank both parties for their responses,  thus far, to my preliminary view and I note that SQ 
+will shortly  be confirming to us its final position on that view.  I also note and appreciate both 
+parties clarification of the 7 positions  closed  by SQ in the complaint and that they featured 
+only the AUD/NZD and AUD/CHF pairs  not the CAD/JPY pair as I previously  mentioned. 
+For the sake of transparency, SQ should  be aware that Ms S has presented arguments that 
+appear to suggest  the CAD/JPY pair (and positions  related to it) should continue to feature in 
+the complaint  and in my treatment of it, because her price inaccuracy allegation affected 
+positions (closed and/or opened) in her account  as a whole. For the sake of clarity, I 
+disagree. The complaint  is to be addressed  as it was referred and presented  to this service, 
+and that featured the 7 positions closed by SQ. My consideration  of the complaint has been  
+and will continue to be based on this, and the same will apply to any decision I issue.
+In order to draw this matter to a conclusion, I will be grateful if SQ can confirm  its final 
+position on my preliminary view without undue delay  and no later than the end of this week.  
+Ms S should please take note of what I have clarified above in terms of the scope of the 
+complaint. If she wishes, she has the same  time to comment. After  the end of this week, I 
+will proceed with a decision and unless either  party presents comments  to alter my 
+preliminary view, that view will likely be the basis of the decision.
+In response, Mrs S essentially maintained  the argument my message referred to. She took 
+the view that out of the 43 open positions  in her account at the relevant time 21 of them  
+(including the seven featured  in the complaint (based on the AUD/NZD and AUD/CHF) and 
+four based  on the CAD/JPY pair) were  affected  by SQs non-market prices. She said that my 
+preliminary finding that SQs prices did not reflect the market cannot be reconciled with the 
+notion of not addressing the impact on her CAD/JPY based  positions. SQ has noted that it 
+did not close her CAD/JPY based positions. 
+Mrs S also says there is a conflict between  my finding that the margin  breach and closures  
+of her positions were  caused by the flash crash, and my finding  that SQs  prices (including 
+its improved prices) were not reflective of the market. She says the latter  in addition  to 
+evidence that, but for the non-market prices  applied to her positions,  fair market reflective 
+prices would not have  triggered a margin breach in her account  means I should also find 
+that the closures of her seven  positions should  not have happened and that it is SQs 
+responsibility that they did.
+Ref: DRN80682774Mrs S has also suggested that my preliminary view has been based less on thorough 
+consideration of her case and more on my application of a previous decision I made in a 
+complaint against  SQ with comparable facts  (including the same flash crash  event and 
+comparable margin breach closures of positions). She asserts  that her case  is 
+distinguishable from the case I addressed in the previous  decision.
+In response to my preliminary view SQ made attempts to settle Mrs S complaint. Up to the 
+point of drafting  this decision  it made  a settlement proposal to her based on my preliminary 
+findings and with a higher offer of payment for trouble and upset. Mrs S declined its offer and 
+maintains her claim for the revised compensation.
+my findings
+Ive considered all the available  evidence  and arguments to decide  whats  fair and 
+reasonable in the circumstances of this complaint.
+Other than the factual correction I noted above,  I do not appear to have received notice of 
+any dispute with or objection  to my preliminary  view from SQ, so I can conclude that it has 
+said nothing that causes me to reconsider or change  that view.  Mrs S responses, in the 
+main, have been summarised above.  Having considered them, and for the reasons I provide 
+below, I am not persuaded by her responses  to change my preliminary view. I retain and 
+incorporate that view  with the effect  of the factual correction  into this decision. That view 
+also serves as the basis upon  which  I uphold Mrs S complaint.
+I should address  the previous decision that Mrs S mentioned. Her suggestion  is that it has 
+unduly influenced my treatment  of her complaint. That is not the case.  I can confirm that her 
+complaint has been given  dedicated consideration, by the investigator and myself, at all 
+relevant times. The background summarised  above indicates the extent of engagement that 
+has taken place between  both parties,  the investigator and I before reaching the point of 
+issuing this decision  and the summary  does not fully reflect  the effort  made by the 
+investigator to facilitate that engagement.  None of this would have happened if, as 
+suggested, the previous decision was to be applied to Mrs S case in any event. The case in 
+the previous decision has many  similarities  to Mrs S  the same respondent, the same  flash 
+crash, similar affected currency pairs and similar  submissions by the parties  but her 
+complaint has been addressed on its own merits.
+I address Mrs S key points as follows:
+She will accept that the complaint referred  to us was limited to the issue of the seven 
+positions closed  by SQ. The contents  of her complaint form support this and the loss 
+she refers to in the form is based  on the seven closed  positions. On the date, SQ 
+closed only those  seven positions,  the rest (the other 36 positions) continued to 
+remain under Mrs S control and responsibility.  I do not consider  that she has 
+established a case for SQ to share or own responsibility for positions it did not close 
+ and positions which remained under her control at all relevant times. The flash  
+crash was precisely that, a flash event with temporary effects on the market and on 
+the pricing for her positions. Once it and its effects  were corrected normal  
+circumstances  so to speak  resumed and Mrs S could manage her positions  as 
+she wished. Indeed, it is within her statement that hours  after the flash  crash event 
+she closed a number  of USD/JPY based positions in her account.
+Ref: DRN80682775The conclusion that arises from these facts is that her complaint cannot  reasonably  
+be about anything  other than the seven closed positions  and those positions were 
+based, only, on the AUD/NZD and AUD/CHF currency pairs.
+A similar conclusion applies to the matter of the compensation initially sought by   
+Mrs S and the revised compensation she now pursues. Her claims for lost profit  and 
+specialist costs  appear to have  been afterthoughts. The former has a completely 
+speculative basis and there is a lack of evidence to show  any probability  that the loss 
+amount incurred from closure  of the positions would have been used as she claims 
+and/or that it would have yielded the profit she claims. There is also a lack of 
+evidence to sustain  the claim for costs or to establish that such costs should  be 
+recoverable as part of our determination of the complaint. I do not consider that 
+redress for Mrs S complaint can reasonably be about anything  other than the 
+financial loss she incurred as a result of the prices  at which  her seven  positions  were 
+closed (despite SQs revised prices  on 7 January 2019). For reasons given in the 
+preliminary view and addressed next, I do not consider  that redress should be about  
+the margin breach  closures (as a whole matter), but it is about  the prices  applied to 
+the positions.
+On balance, I am not persuaded  that the margin breach closures  were  wrongdoings 
+that SQ should  be held responsible for  hence the finding  that redress  should  not be 
+defined by this. Mrs S has repeatedly made  the assertion that a malfunction within  
+SQs LP and pricing system is to blame  for the prices applied to her positions and 
+that responsibility for that belongs to SQ. On balance,  I find that there was no such  
+malfunction and there is no such responsibility upon SQ.
+The flash  crash  and its effects upon  prices  (and high price  volatility) at the relevant 
+time in the wider  forex market should not be in dispute. There  is a sizable amount  of 
+information about this in the public domain. The high price  volatility  it caused  resulted 
+in firms across  the market  particularly  LPs  not being  able to determine and 
+provide reliable prices.  What Mrs S refers to as a malfunction was no more than 
+around 14 of SQs LPs being in this position  that is, not being able to determine  
+and provide reliable  prices, in the market  (or to SQ), for the currency pairs  affected 
+by the flash crash  because of the level of volatility the crash had caused. This does 
+not amount to a malfunction by SQ or its LPs, instead I consider that it was more  of 
+a market event. 
+Even if, for the sake of argument,  it is regarded as a malfunction, it was not one that 
+SQ or its LPs created or was responsible for and it was not one that was exclusive to 
+SQ or its LPs. It affected the wider  forex market. Another argument  that Mrs S has 
+made relates to what she considers to be SQs wrongdoing in applying  a single LPs 
+prices to her positions given that they were bound  to be unreflective  of the market. 
+She has referred to a finding, in another  case,  by the Swiss Ombudsman Service 
+which appears to make a similar  point. 
+The terms agreed for Mrs S account included the following  
+We are free to apply any spreads that we deem  appropriate. Indications  on spreads
+published on our website are indicative only and in no way binding. We reserve the 
+right to quote different spreads according  to the size of your deposit,  the size of a 
+transaction, or for any other reason that we deem  appropriate. Spreads will in 
+particular increase in exceptional market conditions, following decisions by central 
+Ref: DRN80682776banks, monetary policy decisions, or similar  events. The liquidity and the volatility  in 
+any underlying  market may also have an influence on the spreads. [my emphasis]
+What I have emphasised in the above quote  arguably gave SQ the discretion  to 
+apply the single LPs prices, with the greater  spread, as it did. Nevertheless, I agree 
+with Mrs S point to the extent that SQ could have considered that a single price  feed 
+from the relevant  LP, amid other  LPs finding prices  unreliable and wider price  
+unreliability due to price volatility, was more likely  (than not) to be unreflective  of the 
+market. I also consider that, implicitly, SQ might  also agree, given that its revision of 
+the prices on 7 January could be viewed as its correction  effort.  
+However, the above should be balanced  with consideration  of the risks that could 
+have existed  in terms of movement of the seven positions and margin  in Mrs S 
+account  if SQ had suspended everything and done nothing  to price the positions 
+during the crash. Its responsibility to monitor and react to margin  breaches in trading 
+accounts was not suspended by the flash crash event and in order to do that it 
+needed to apply prices. I appreciate  that another firm might have taken a different 
+approach, but what another  firm would have  done or did is not binding  on SQ. Overall 
+and on balance, I am not persuaded  that it was wrong to have applied the price feed 
+that was available to it at the time  especially as it subsequently revised prices. 
+Unfortunately for Mrs S this meant the closures of her seven positions and the 
+subsequent price revisions did not reverse that. I understand  her strength of feeling  
+in this respect, but ultimately the closures  happened  because of circumstances 
+caused by the flash  crash  event, not because  of a definitive wrongdoing by SQ.
+Whilst SQ did the right thing  by attempting to correct the relevant prices in the 
+aftermath of the flash crash, the complaint remains upheld  because the revised 
+prices it used for the correction were unreflective  of the market and unfair. In this 
+respect, I echo what I said in the preliminary  view and do not consider it necessary to 
+repeat that.
+Overall, on balance and for the reasons given above  I uphold  Mrs S complaint on the terms 
+set out in my preliminary view.
+what must  SQ do?
+As I found  in the preliminary  view and in terms of the price adjustments  applied by SQ to Mrs 
+S seven  positions:
+AUD/NZD  SQs  adjusted price was 178 pips lower than the global average.
+AUD/CHF  SQs  adjusted price was 378 pips lower than the global average.
+As I said in the view:
+I do not suggest that the average market prices are what those positions should have closed 
+at, but I am persuaded to use them as a basis upon which this compensation should be 
+calculated. It is not possible to say, with precision, what revised prices SQ should have used 
+to properly reflect the market and to apply to the relevant positions,  so the average market 
+prices are fair and reasonable  alternatives.
+For the positions  within  the relevant seven  held by Mrs S and based on the AUD/NZD 
+currency pair, the price adjustment still unfairly deprived her of the value of 178 pips.  SQ 
+Ref: DRN80682777must compensate her in the amount  that captures the total value  of 178 pips in these  
+positions.
+For the positions  within  the relevant seven  held by Mrs S and based on the AUD/CHF 
+currency pair, the price adjustment still unfairly deprived her of the value of 378 pips.  SQ 
+must compensate her in the amount  that captures the total value  of 378 pips in these  
+positions.
+SQ must pay Mrs S interest, on the total compensation, at the rate of 8% simple per year 
+from the date of this decision  if it does not pay her the total compensation within 28 days of 
+being notified that she has accepted this decision.  This provision is to compensate Mrs S for 
+any delay caused  by SQ in paying the compensation.
+SQ must pay Mrs S £100 for the trouble and upset  the matter  has caused  her.
+SQ must provide Mrs S with a calculation of the compensation in a clear  and simple  format.
+my final decision
+For the reasons  given  above, I uphold Mrs S complaint. I order Swissquote Ltd to 
+compensate her as set out above.
+Under the rules  of the Financial Ombudsman Service,  Im required to ask Mrs S to accept or 
+reject my decision  before 14 January 2021.
+Roy Kuku
+ombudsman
+Ref: DRN8068277

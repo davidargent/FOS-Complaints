@@ -1,0 +1,421 @@
+DRN-4087922
+The complaint
+Mr R feels that American Express Services Europe Limited has treated him unfairly about a 
+transaction on his credit card to purchase interlocking flooring.
+What happened
+In June 2019 Mr R purchased interlocking flooring to be installed at his home using his 
+American Express Services Europe Limited (Amex for short) credit card to pay for it. Mr R 
+says there was trouble with the flooring from the start and he spoke to the company he 
+purchased it from (the Supplier) of the flooring but was unsuccessful. So he took his dispute 
+to Amex in November 2019.
+Amex said it considered the dispute and noted that it had considered S75 of the Consumer 
+Credit Act 1974 but felt the necessary relationship for S75 to apply wasnt in place. So it 
+didnt think it could do anything more for Mr R. (Chargeback has been dealt with separately 
+and isnt part of this complaint). Unhappy with this Mr R brought his complaint to this service.
+Our Investigator issued an assessment on the matter which found that the required 
+relationship for S75 wasnt in place. But Mr R doesnt agree. So this dispute came to me to 
+decide.
+In November 2022 I issued a provisional decision stating that the required relationship issue 
+wasnt central to this case as I wasnt persuaded that there was a breach of contract or 
+material misrepresentation which Amex could be held responsible for. Amex responded 
+saying it agreed with my provisional decision. Mr R provided significant and substantial 
+comments on the matter including further evidence, photographs, and review of the flooring 
+by an independent expert. 
+In a further provisional decision I issued dated 04 April 2023 I reconsidered the matter afresh 
+and concluded that the DCS arrangement was in place and that the S75 claim should be 
+successful in large part due to the new evidence. Both parties have responded to this 
+provisional decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+In response to my second provisional decision Amex has agreed to the settlement I put 
+forward in terms of remedying the matter. Mr R has made some further arguments which I 
+will deal with under the heading further arguments. I shall now set out the broad rationale 
+from my recent provisional decision, which is from the end of this sentence to the heading of 
+further arguments.
+There is no debate that Mr R authorised the transaction and chargeback has been dealt with 
+separately as Ive described.
+Section 75
+Here I must consider what Amex should do. To do this, I have to decide what I think is fair 
+and reasonable, having regard to, amongst other things, any relevant law including both 
+legislation and case law. In this case, the relevant starting point is S75 of the Consumer 
+Credit Act 1974 (the Act) which says that, in certain circumstances, if Mr R paid for goods 
+or services on his credit card and there was a breach of contract or misrepresentation by the 
+Supplier, Amex can be held responsible.
+For claritys sake I shall explain the underpinning legislation concerning the DCS concept 
+before explaining my thinking on this case. S75(1) states:
+If the debtor under a debtor-creditor-supplier agreement falling within section 12(b) or (c)
+has, in relation to a transaction financed by the agreement, any claim against the supplier in
+respect of a misrepresentation or breach of contract, he shall have a like claim against the
+creditor, who, with the supplier, shall accordingly be jointly and severally liable to the debtor.
+So s.75 only applies if:
+i) There is a debtor-creditor-supplier agreement (or DCS agreement, for short) of the 
+type that falls within s.12(b) or (c);
+ii) That agreement finances the transaction between the debtor (Mr R) and the supplier; 
+and,
+iii)  If, relating to that transaction, the debtor (Mr R) has a claim against the supplier in 
+respect of a misrepresentation or breach of contract. If so, then the creditor 
+(Amex) is jointly and severally liable to the debtor. 
+S.12(b) applies to:  
+a restricted use credit agreement which falls within section 11(1)(b) and is made by the 
+creditor under pre-existing arrangements, or in contemplation of future arrangements, 
+between himself and the supplier
+S.11(1)(b) defines a restricted-use credit agreement as a regulated consumer credit 
+agreement:
+to finance a transaction between the debtor and a person (the supplier) other than the 
+creditor
+Subsections 11(3) & (4) provide:
+"(3) An agreement does not fall within subsection (1) if the credit is in fact provided in such a 
+way as to leave the debtor free to use it as he chooses, even though certain uses would 
+contravene that or any other agreement.
+(4) An agreement may fall within subsection (1)(b) although the identity of the supplier is 
+unknown at the time the agreement is made."
+Section 187 provides:
+"(1) A consumer credit agreement shall be treated as entered into under pre-existing 
+arrangements between a creditor and a supplier if it is entered into in accordance with, or in 
+furtherance of, arrangements previously made between persons mentioned in subsection 
+(4)(a), (b) or (c).
+(2) A consumer credit agreement shall be treated as entered into in contemplation of future 
+arrangements between a creditor and a supplier if it is entered into in the expectation that 
+arrangements will subsequently be made between persons mentioned in subsection (4)(a), 
+(b) or (c) for the supply of cash, goods and services (or any of them) to be financed by the 
+consumer credit agreement.
+(3) Arrangements shall be disregarded for the purposes of subsection (1) or (2) if
+(a) they are arrangements for the making, in specified circumstances, of payments to the 
+supplier by the creditor, and
+(b) the creditor holds himself out as willing to make, in such circumstances, payments of the 
+kind to suppliers generally.(4) The persons referred to in subsections (1) and (2) are
+(a) the creditor and the supplier;
+And s.189 says finance means to wholly or partly finance, and that financed shall be 
+construed accordingly.
+Historically credit cards worked within a commonplace three-party structure. Specifically that 
+there was:
+an agreement between the card issuer (the Creditor) and the cardholder (the Debtor) 
+to extend credit by paying for goods or services purchased by the cardholder from 
+suppliers who had agreed to honour the card; 
+an agreement between the card issuer and the supplier under which the supplier 
+agreed to accept the card in payment and the card issuer agreed to pay the supplier 
+promptly;
+an agreement between the cardholder and the supplier for the purchase of goods or 
+services.
+As time went by a new type of party entered the market and specifically these types of 
+transactions, known as the Merchant Acquirer. This led to the creation of four party 
+relationships where instead of the agreement being between the card issuer and the 
+supplier, there were two agreements:
+an agreement between the merchant acquirer and the supplier, under which the 
+supplier undertook to honour the card and the merchant acquirer undertook to pay 
+the supplier; and 
+an agreement between the merchant acquirer and the card issuer, under which the 
+merchant acquirer agreed to pay the supplier and the card issuer undertook to 
+reimburse the merchant acquirer.
+The impact of this development on the application of S75 was considered by the Court of
+Appeal in the case of Office of Fair Trading v Lloyds & others [2006] (the OFT case). The 
+Court of Appeal first considered whether the introduction of the four-party structure
+meant that the system had evolved significantly beyond the state of affairs to which S75 had
+been directed. They concluded that it had not, stating at paragraph 55 of their judgment:
+From the customer's point of view  it is difficult to see any justification for drawing a
+distinction between the different [three-party and four-party] situations. Indeed, in the case of
+those card issuers such as Lloyds TSB, who operate under both three-party and four-party
+structures, the customer has no means of knowing whether any given transaction is
+conducted under one or other arrangement. Similarly, from the point of view of the card
+issuer and the supplier the commercial nature of the relationship is essentially the same:
+each benefits from the involvement of the other in a way that makes it possible to regard
+them as involved in something akin to a joint venture, just as much as in the case of the
+three-party structure.
+ They went on to say;
+It is clear that, whether the transaction is entered into under a three-party or four-party 
+structure, the purpose of the credit agreement is to provide the customer with the means to 
+pay for goods or services. It follows that in both cases the card issuer finances the 
+transaction between the customer and the supplier by making credit available at the point of 
+purchase in accordance with the credit agreement. The fact that it does so through the 
+medium of an agreement with the merchant acquirer does not detract from that because it is 
+the card issuer's agreement to provide credit to the customer that provides the financial 
+basis for the transaction with the supplier.In the House of Lords in the same case Lord Mance said, in relation to the recruitment of 
+overseas suppliers to the network:
+30.  That, in today's market, arrangements between card issuers and overseas suppliers 
+under schemes such as VISA and MasterCard are indirect (rather than pursuant to a direct 
+contract as is still the case with American Express and Diners Club) is a consequence of the 
+way in which the VISA and MasterCard networks have developed and operate. Likewise, the 
+fact that the rules of these networks give card issuers no direct choice as to the suppliers in 
+relation to whom their cards will be used. The choice of suppliers is, in effect, delegated to 
+the merchant acquirers in each country in which these networks operate, and provision is 
+made, as one would expect, to ensure and monitor the reliability of such suppliers in the 
+interests of all network members. That network rules may not provide all the protections that 
+they might, e.g. by way of indemnity and/or jurisdiction agreements, is neither here nor there. 
+They could in theory do so, and it is apparent that there are some differences in this respect 
+between different networks. The Crowther Report and 1974 Act proceed on the basis of a 
+relatively simple model which contemplated that card issuers would have direct control of 
+such matters. A more sophisticated worldwide network, like VISA or MasterCard, offers both 
+card issuers and card holders considerable countervailing benefits. Card issuers make a 
+choice, commercially inevitable though it may have become, to join one of these networks, 
+for better or worse.
+Lord Mance was talking about the conditions that existed almost twenty years ago, because 
+the case from which he was hearing an appeal went to trial in 2004. But, I think it is clear that 
+even by then the commercial practices by which card networks recruited suppliers had 
+evolved by developing a system that left supplier recruitment to intermediaries, and card 
+issuers were faced with an essentially commercial decision as to whether to participate in 
+network that included suppliers who had been recruited that way.  Since 2004, new 
+technology and the growth of internet commerce have opened up additional channels for 
+recruiting suppliers and routing payment to them (for example, payment facilitators, which 
+are now an established part of the payments industry) and, again, card networks have 
+changed their rules and practices in response. 
+Having provided some important context to the circumstances in Mr Rs case, I need to now 
+establish the exact nature of what happened as best I can and the relation between the 
+parties involved. 
+The DCS issue
+I have considered the particular facts of Mr Rs case. In order for S75 to apply there has to 
+have been arrangements between Amex and the Supplier to finance transactions between 
+Amexs cardholders and the Supplier. Its clear that there was no direct arrangement 
+between them, but this isnt a requirement for the application of S75.
+I say this because the Judge who heard the OFT case at first instance ([2005] 1 All ER 843) 
+had also considered the meaning of the word arrangements, as used in section 12, and 
+whether there existed relevant arrangements between creditors and suppliers in the four-
+party situation. He said that the use of the word showed a deliberate intention on the part of 
+the draftsman to use broad, loose language, which was to be contrasted with the word 
+agreement. In the Court of Appeal, the creditors argued that arrangements should be given 
+a narrower meaning that took the four-party structure outside the definition. But the Court of 
+Appeal agreed with the Judge that arrangements had been used to embrace a wide range 
+of commercial structures having substantially the same effect. They held that it was not 
+required for arrangements to be made directly by or between the creditor and supplier, 
+merely that arrangements should exist between them, and it was difficult to resist the conclusion that such arrangements existed between credit card issuers and suppliers who 
+agreed to accept their cards, and stated:
+Moreover, we find it difficult to accept that Parliament would have been willing to allow some
+consumers to be disadvantaged by the existence of indirect arrangements when other
+consumers were protected because the relevant arrangements were direct.
+Ive also considered the recent High Court case of Steiner v National Westminster Bank 
+(2022) EWHC 2519 (the Steiner case). This case involved payments to a trust for the 
+provision of a timeshare supplied by a timeshare provider.  The High Court dismissed the 
+claim under s.75 on the basis that the timeshare purchase was not made under a debtor-
+creditor-supplier agreement. This was because payment had been made in the first instance 
+to the trust company, whereas the claim related to agreement to purchase a timeshare from 
+the timeshare provider. Mr Steiners credit card was issued under the MasterCard scheme 
+and the trust company was a member of the MasterCard network, but the timeshare provider 
+was not. 
+The Judge (Lavender J) held that central question was not whether "arrangements" existed 
+between the bank and the timeshare provider at the time when Mr and Mrs Steiner had 
+entered into their agreement with the timeshare provider and Mr Steiner had used his card to 
+pay the trust company. Rather, the question posed by s.12(b) CCA was whether Mr Steiners 
+credit card agreement with the bank was made by the creditor (i.e. the bank) under pre-
+existing arrangements, or in contemplation of future arrangements, between the creditor 
+(i.e. the bank) and the timeshare provider. When a bank made an agreement with one of its 
+customers in relation to a card issued by the bank to the customer, then the agreement was 
+made under the card network, which constituted "arrangements" between the bank and the 
+other members of the network.  So, if a supplier was already a member of the card network, 
+the agreement was made "under pre-existing arrangements ... between the bank and the 
+supplier".  The bank was also aware that other merchants were likely to join the card 
+network in the future, so in that respect the agreement was made "in contemplation of future 
+arrangements, between the bank and merchant who subsequently joins the card network.
+However, in the absence of specific factual evidence as to the bank's state of mind, the 
+Judge said it was difficult to envisage that a bank which issued a card to its customer and 
+made a credit card agreement in relation to that card made that agreement under, or in 
+contemplation of, any arrangements other than the card network. And, as the timeshare 
+provider was outside the card network, it didnt supply the timeshare under a debtor-creditor-
+supplier agreement. 
+Is there a DCS agreement here? 
+The question of whether Mr Rs transaction took place under a DCS agreement seems to me 
+to turn in this case on two matters: first, whether there existed arrangements between Amex 
+and the Supplier for the financing of transactions with the Suppliers customers; and second, 
+if such arrangements existed, whether that was the case when Amex entered a credit 
+agreement with Mr R or, if the arrangements came into existence after that, whether Amex 
+contemplated that they would do so. Ill examine those questions in turn.
+Arrangements 
+Our Investigator looked into the transaction primarily based on the information Amex had 
+given this service about the presence of a fourth party in the transaction namely PayPal. Our 
+investigator later contacted PayPal and asked it what its role was in the transaction. PayPal 
+responded and has been forthcoming in its role within this transaction and more broadly 
+about the services it provides.PayPal is a well-known provider of a variety of financial transactional services. This includes 
+both payment processing and E-Money provision amongst other services. In this particular 
+transaction PayPal has provided evidence around this specific transaction including its 
+internal report of the transaction in question. It shows two transactions for exactly the same 
+amount of money at exactly the same date and time (to the second). One transaction is the 
+amount (the cost of the flooring) being charged to Mr Rs Amex credit card to fund Mr Rs 
+account with PayPal. The second transaction is from Mr Rs PayPal account to the 
+Suppliers account.
+The transactional record PayPal has provided shows that Mr Rs account with it was of a 
+zero balance immediately before the transaction and returned to zero after the transaction 
+completed (after a partial refund is made and then reversed). It also shows the status of the 
+charge to the credit card being completed and both transactions being apparently 
+instantaneous. It refers to the transaction paid to the Supplier as being express checkout 
+payment. Such dual transactions are sometimes referred to as back to back transactions.
+PayPal has explained that the Supplier also had an account with it. In essence it appears 
+that the Supplier had outsourced its payments processes to PayPal in this instance. So the 
+Supplier by dint of having a commercial entity agreement with PayPal is bound by its rules. 
+Mr R by dint of having a PayPal account is also bound by its rules. And clearly Amex is 
+aware it is funding Mr Rs PayPal account, which it knows is funding transactions with 
+suppliers of goods and services.
+It is clear that this transaction from Mr Rs credit card to the Suppliers account with PayPal 
+is in essence instantaneous. The amount debited from Mr Rs account is the same amount in 
+Great British Pounds that is credited to the Suppliers account. It also seems likely here that 
+there is a conversion to E-Money in the transaction from Mr Rs card to his account with 
+PayPal but I dont think it makes a difference here and doesnt prevent there from being a 
+DCS agreement for reasons I shall give in this decision later.
+I should add at this juncture that Amex has provided minimal representations to support its 
+argument here on DCS. It hasnt provided detail about the exact journey of this transaction 
+nor explained why it believes that there is no longer a relevant DCS relationship in regard to 
+this transaction other than pointing to the presence of another party. It has not explained why 
+the arrangement in this case should be distinguished from the established legal authorities. 
+Nor has it chosen to provide supporting evidence about the agreements in place between 
+the various parties. It has only pointed to PayPal and in essence said the mere presence of 
+PayPal is proof that there is no relevant DCS relationship.  
+It may be that in this case there was a Merchant Acquirer as well. But whether there was a 
+four-party arrangement here or indeed a five-party arrangement present in Mr Rs case, 
+either way Im still satisfied that there are sufficient arrangements between Amex, as card 
+issuer, and the Supplier, for the purposes of establishing a DCS relationship, I shall now 
+explain why.
+In Mr Rs case, I think there are indications of relevant arrangements even before looking at 
+the contractual obligations undertaken by the parties, given that PayPal was specifically, and 
+publicly in the business of processing or facilitating financial transactions such as the 
+transaction in this case. It should also be noted that PayPal is a very large company 
+generating vast numbers of transactions which go through all the card networks and 
+payment methods every day. So clearly Amex (and the other networks) have decided to 
+allow such payments to go through their networks. And it would seem that, considering the 
+commercial benefits of such volumes of transactions, this is entirely understandable.Here PayPal is specifically and publicly in the business of providing financial transactional 
+services to suppliers, such as to the Supplier here. Amex would be able to know the parties 
+within the arrangement here included PayPal and that PayPals business involved 
+processing payments for its customers, such as the Supplier and Mr R. And the Supplier 
+was obliged through its agreement with PayPal to also be bound to follow its rules. 
+Fundamentally, it follows that Amex financed the transaction between Mr R and the Supplier 
+by making credit available at the point of purchase in accordance with the credit agreement 
+between them. The fact that it does so through the medium of PayPal does not detract from 
+that: it is Amex's agreement to provide credit to Mr R that provides the financial basis for the 
+transaction with the Supplier. And all of this done with both Mr R and the Supplier being 
+required to comply with PayPals rules.
+I would also note that both Amex and the Supplier undoubtedly benefit commercially
+from the involvement of the other, through the intermediations of PayPal (and any Merchant 
+Acquirer present), in a way that makes it possible to allow the transaction to happen. By 
+financing purchases from the Supplier, Amex are able to lend money to their customer (Mr 
+R) and make interest and/or other charges for that service, whilst the Supplier is able to 
+obtain payments from Amexs credit card holders and so benefit from the credit Amex 
+extended (albeit indirectly).
+Contemplation
+It is possible that Amex may argue that such arrangements as those present in Mr Rs case 
+were outside of its contemplation at the time when it agreed with Mr R to open his credit card 
+account, and thus there is no DCS agreement for it to be liable under. 
+Given that payments systems and card networks have continuously changed and evolved 
+over the past half century, I think it likely that Amex as lender always understood that card 
+schemes and payment systems would be operated in accordance with evolving rules and 
+commercial practices, and that this evolution was likely to bring in new groups of 
+participants. Amex must have known it and other card schemes would try to adapt 
+themselves to accommodate major changes in the payments industry; and it would certainly 
+not have expected that each customer to whom it issued a credit card would only make 
+purchases from the suppliers recruited under the rules and practices applicable at the date 
+when the credit agreement was first entered into. Rather, it would have contemplated that all 
+its credit card holders would (irrespective of when their credit agreement started) have 
+access to the same suppliers, i.e. those suppliers allowed under the relevant network or 
+payment system. So, I think Amex must have contemplated, when agreeing to give Mr R a 
+credit card, that his card would be used to finance purchases from whatever suppliers it or 
+PayPals changing rules and practices accommodated at the time of the purchase. 
+In this case, the credit card payment went to the Supplier via PayPal and this transactional 
+process between debtors and suppliers is commonplace.  It is a method of payment to a 
+type of supplier that Amex accommodates and, as such, I consider that it was within Amexs 
+contemplation when the credit card agreement was entered into. 
+Conversion
+Amex may point to the conversion from Sterling to E-money as a reason for why there might 
+no longer be a DCS agreement. But Im not persuaded by this either, because had there 
+been a conversion of foreign currency in the transaction as is the case in huge numbers of 
+credit card transactions used during holidays abroad the accepted position is DCS isnt 
+broken. And usually in such foreign transactions there is a fee charged for providing the 
+added service of the currency exchange. It is important to remember here that the entire 
+sum here was funded by the Amexs credit card. This transaction wasnt funded by the balance already held in the account with PayPal. This was a near instantaneous transaction 
+from Mr Rs credit card to the Supplier through the intermediation of the financial 
+transactional service as provided by PayPal. And I cannot see a fee being directly charged 
+for the exchange to E-money here. And even if there was such a fee whether directly applied 
+to the transaction or as part of the overall service that PayPal provided, I dont think it would 
+make this transaction distinguishable from the other types of currency exchanges Ive 
+described. 
+I should also note that PayPal in its evidence to this service previously has stated that its 
+Guest Checkout service converts to E-Money but doesnt disrupt the DCS relationship. So 
+Im not persuaded the conversion in itself should prevent there from being a DCS agreement 
+here as, to my mind, this conversion does not negate the arrangements in place between the 
+parties as Ive described.
+Accounts
+It may be that Amex points to the fact that the transaction journey is from Mr Rs card into Mr 
+Rs account with PayPal and then onto the Suppliers account with PayPal as a reason why 
+to consider their might not be a DCS agreement. But Im not persuaded by this. There are 
+still the necessary arrangements to my mind. Merchant Acquirers, Payment Processors and 
+those parties providing currency conversion services have accounts in which transactions 
+pass through on their journey from debtor to supplier. Ive not seen any persuasive reason to 
+distinguish what happened here from the authorities mentioned before. 
+The other networks stance
+Mastercards public stance on this matter generally is unclear from my research. I do note 
+however that one of the other major networks (Visa) has made clear on its website that it 
+does, at least imply, that DCS isnt disrupted. It has said:
+If your Visa card purchase was made using a digital wallet where the payment was made 
+with a linked card, chargeback and Section 75 claims work in the same way as if you paid 
+directly with your card.
+So all in all Ive not seen any persuasive evidence at this stage that the additional services 
+provided by PayPal interrupts the DCS agreement. Im also satisfied this transaction fits 
+within the financial limits set out in relation to S75 claims as described in the Act. Accordingly 
+Im satisfied at this time that there is the necessary DCS agreement and a S75 claim can be 
+successful if the other requirements are made out. 
+liability
+As Ive explained, for Amex to be liable under S75 a breach of contract or a material 
+misrepresentation needs to be made out. Mr R in response to my earlier provisional decision 
+on the matter has provided further, and to my mind persuasive, evidence on the quality of 
+the flooring provided. This has been provided to Amex which has responded by saying:
+I appreciate that they have supplied photographs that show the faults with the product, but I 
+feel these do not prove that the product was faulty from purchase and would not prove 
+satisfactory in our investigation. The independent report that has been provided, however, 
+does hold more weight as it states the reviewers belief that the product has not been 
+properly manufactured.
+Ive considered the Independent report Mr R has provided. It is clear an independent 
+company has visited and reviewed the flooring at Mr Rs premises. The inspection has said I would not expect this to have gapped to this extent if this had been properly 
+manufactured
+Ive also considered Mr Rs substantial evidence with regard to the surrounding issues such 
+as the underfloor that this flooring was installed upon (with photos), the comments of the 
+manufacturer in its advertising that Mr R points towards, the further evidence Mr R has 
+provided showing the scale of issues with the flooring, Mr Rs new evidence including 
+photographs showing where the flooring was stored prior to installation and Mr Rs detailed 
+response to my provisional decision.
+Ive also considered Amexs position on the flooring, which gives no persuasive reasoning as 
+to why Amex feels these do not prove that the product was faulty from purchase... It just 
+says that is its position. I also note its acceptance that the independent report carries weight 
+before returning to its arguments about DCS.
+All goods sold should be of satisfactory quality. Having considered the matter afresh and 
+bearing in mind the test I must apply of balance of probabilities, it is evident now, to me, that 
+this flooring wasnt of satisfactory quality when purchased. I say this because it is clearly 
+insufficiently durable and clearly had defects from the start which have worsened over time. 
+And I think the independent report here, plus further evidence since my provisional decision 
+are more than sufficient to change my original position on the matter.
+Further arguments
+Amex has agreed to settle the matter as Id previously set out. I am glad to see that it has 
+accepted the weight of further evidence on the liability aspect of this case.
+Mr R has asked for significant compensation to reflect the issues that this matter has had on 
+his family including such things as stress and impact. Under S75 Amex is only liable for 
+breach of contract or misrepresentation. It isnt liable for distress or inconvenience like that 
+which Mr R points to, so such an award is not applicable here. Bearing in mind the usage of 
+the flooring Mr R has had (albeit sub-optimally) Im not persuaded there should be any 
+award for consequential loss.
+Mr R asks why interest is at 8%. This has been our standard rate for an elongated period of 
+time and reflects our and the courts approach to being deprived of money. It is not linked to 
+any of the variety of measures of inflation. And I see no persuasive reason to deviate from it 
+here.
+Mr R has asked about the removal of the flooring. Amex has not indicated that it wishes to 
+take possession of the flooring. If it does wish to do so it should do so at its own cost. And if 
+it does do this it must pay the redress to Mr R before doing so, to enable him not to be 
+without flooring.
+Mr R has pointed to the changing cost of flooring since the transaction in question. Im not 
+persuaded Amex should be responsible for this considering what happened here, and the 
+usage hes had (albeit sub-optimally) and in any event Mr R has made clear he doesnt 
+intend to replace like for like.
+Having considered the matters again, and particularly the further arguments made Im not 
+persuaded to deviate from my previous position. Accordingly under S75 I have decided that 
+that there is a DCS arrangement and that there is a breach of contract here and Amex is 
+liable for the reasons given. It may be that Mr R remains unhappy with this final decision. He 
+should be aware that if he chooses to not accept it then Amex is not bound by it.Putting things right
+Mr R has requested a full refund for the flooring. Taking into account all of the circumstances 
+I think this is a fair remedy. I think such flooring should be expected to last many years, so I 
+dont think a reduction for usage here is fair. Amex can take possession of the flooring at its 
+own cost and after it has settled the matter so that Mr R is not left without flooring. Amex 
+must pay 8% interest on this amount from when it rejected Mr Rs S75 claim to it until it 
+settles this matter.
+My final decision
+It is my decision that this complaint should be successful. I have decided that there is the 
+required DCS agreement under s.75, and on balance, there is a breach of contract. So I 
+direct that American Express Services Europe Limited must compensate Mr R for the loss 
+suffered here as I have described above.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr R to accept or 
+reject my decision before 17 May 2023.
+ 
+Rod Glyn-Thomas
+Ombudsman

@@ -1,0 +1,105 @@
+DRN-3271589
+The complaint
+Ms H complained because Santander UK plc refused to refund her for transactions she said 
+she didnt make.
+What happened
+On 13 November 2020, a £7.62 payment was made from Ms Hs account at 1.20 am. The 
+payment was authenticated using a security system called 3D Secure, which meant that it 
+had been made using Ms Hs online login. The IP address, which is a unique address that 
+identifies a computer on the internet, was one which Ms H used regularly. The internet 
+access company was one to which Ms H paid a direct debit.
+This first payment was followed by another payment for £37.06 on 23 November, and then a 
+series of other similar payments, all to the same recipient, a digital goods company. 
+On 10 December, Santanders security systems picked up the payments, and sent a text to 
+Ms H asking her to authenticate the payments. Ms H confirmed that the payments were 
+genuine. The same thing happened on 12 December and again Ms H confirmed that the 
+payments were genuine.
+On 14 December, Ms H rang Santander. She said shed confirmed the payments as 
+genuine, but she realised she didnt recognise them. During the call, the adviser asked if 
+anyone else had access to her card and login, and Ms H asked her children if theyd ordered 
+anything, while she was on the phone to Santander. They said no. Ms H told the adviser that 
+in any case her younger son was supervised by her daughters boyfriend when carrying out 
+online transactions. The adviser said shed raise a fraud claim and block Ms Hs card.
+A payment had gone out that morning, making a total of £489.75. There were no further 
+attempted payments after that point.
+After investigating, Santander refused to refund Ms H. It told her this was because the IP 
+number matched her home, and also the internet access company was the one which Ms H 
+used. Ms H said shed tried to contact the company but hadnt been able to. She asked to 
+appeal Santanders decision, and said she suffered from anxiety and stress. But Santander 
+didnt change its mind, because of the IP address match. 
+Ms H wasnt satisfied and complained to this service. She told us what had happened, and 
+said shed tried all avenues to get a refund, including trying to find the digital goods company 
+to which the money had gone. She said she hadnt heard of the company, and definitely 
+hadnt authorised them. Nor had she lost her card or phone. Ms H explained that her main 
+income was benefits, and she couldnt afford to lose the money.
+Our investigator didnt uphold Ms Hs complaint. Ms H had said that the reason shed 
+confirmed the transactions when Santander had texted her, was that she hadnt checked the 
+list of transactions properly because of her anxiety  and because shed thought it must have 
+been something her children had bought. The investigator explained that the payment had 
+been set up using Ms Hs IP address. And theyd been carried out after logging in to Ms Hs 
+online banking. Ms H accessed this using her phone, and the 3D Secure system, which 
+meant the payments were authorised using an app on Ms Hs phone. The app was unlocked 
+using a passcode and the banking app had been accessed using a five digit code. Anyone 
+else whod made these payments would have needed to know the passcode to unlock the 
+phone, and the five digit code to access the banking app  and theyd have had to have 
+access to the phone and card, which Ms H still had in her possession. 
+The investigator said there were multiple companies with the name of the company which 
+had debited Ms Hs account. She also explained the payments looked as if they might have 
+been a Continuous Payment Authority. This is a type of payment which gives the merchant 
+permission to take multiple payments  like a subscription. So the investigator told Ms H that 
+if this were the case, she couldnt just stop the payments by blocking the card, and she 
+should try and contact the merchant. The investigator also said shed thought about whether 
+Santander could have known that the payments might be this type of payment - but the 
+phone recordings showed that Ms H had initially thought her children might have purchased 
+the items. 
+Ms H wasnt happy with the outcome. She tried to contact the merchant, but hadnt been 
+able to. She agreed that the IP address was hers, and said her children did buy the odd 
+item, but supervised by her daughters boyfriend. Ms H said she hadnt authorised any 
+payments to the merchant whod taken the 14 payments, and she hadnt given anyone in her 
+household permission to buy from the digital merchant either. She explained about her 
+personal difficulties, with health, bereavement, and money problems. She asked for an 
+ombudsmans decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Im sorry to hear about Ms Hs various difficulties. I can understand that the amount paid out 
+to the merchant would have been a lot of money to her, and she said its money which she 
+couldnt easily afford to lose. Like the investigator I can see that a Google search shows a 
+number of merchants with similar names, in the digital products market, but unfortunately I 
+cant help her to track down which merchant it might have been. 
+My job is to see whether Santander acted wrongly when it refused to refund the 14 
+transactions. To do this, Ive looked at the regulations about disputed payments, as well as 
+all the circumstances.
+There are regulations which govern disputed transactions. The relevant regulations for 
+disputed transactions taking place in November and December 2020 are the Payment 
+Services Regulations 2017. These say that the payment service provider (here, Santander) 
+must show the transaction was authenticated. Thats the technical part, and here, I can see 
+from the computer records that the payments were correctly  authenticated. 
+The regulations also say that its necessary to look at whether the card holder authorised the 
+payments. In general terms, the bank is liable if the customer didnt authorise the payments, 
+and the customer is liable if he did authorise them. The regulations also say that account 
+holders can still be liable for unauthorised payments under certain circumstances  for 
+example if theyve failed to keep their details secure to such an extent that it can be termed 
+gross negligence.As Ive set out above, the payments were made:
+- at Ms Hs own IP address, which she used many times;
+- using an internet access company to which Ms H paid a direct debit;
+- using Ms Hs phone and card. Ms H hadnt lost these; 
+- using Santanders 3D secure system. So whoever made the payment had logged 
+into Ms Hs online banking using her phone. The phone had to have been unlocked 
+using a passcode, and the banking app had to have been accessed using a five digit 
+code. Whoever made the payments must have known this information;  
+- Ms H also twice confirmed to Santander that the payments were genuine, when its 
+security systems queried them. I realise that shes said that she suffers from anxiety, 
+and thought that it was something her children had bought.
+I do understand that Ms H has said that she personally didnt carry out the transactions. But 
+whoever carried out the transactions was located at Ms Hs address, and had access to her 
+online banking, codes, phone and card. Account holders are responsible for keeping their 
+security details secure, and are liable if they dont do so. So I cant say that Santander was 
+wrong to refuse to refund Ms H in all the circumstances of this complaint.
+My final decision
+My final decision is that I do not uphold this complaint. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Ms H to accept or 
+reject my decision before 28 February 2022.
+ 
+Belinda Knight
+Ombudsman

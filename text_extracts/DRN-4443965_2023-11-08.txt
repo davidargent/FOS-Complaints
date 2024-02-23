@@ -1,0 +1,215 @@
+DRN-4443965
+The complaint
+Mr B complains that National Westminster Bank Plc (NatWest) failed to raise chargeback 
+claims for payments he made to an online casino, preventing him from recovering them. He 
+thinks NatWest should therefore refund him for the payments.
+What happened
+Around May 2021, Mr B opened an account with an online casino, R. He made a number of 
+payments to R using his NatWest VISA debit card. He won Rs jackpot, but they refused to 
+pay out. He says they ultimately stopped responding to him and suspended his account.
+On 16 October 2021, Mr B called NatWest to dispute the payments to R. He explained he 
+had a gambling block on his account, but the payments had gone through due to R using 
+various merchant names, and various incorrect merchant categorisation codes (MCCs). He 
+said that was against VISAs rules  and had allowed R to circumvent the gambling block.
+On 19 October 2021, Mr B confirmed 54 transactions, made between August and October 
+2021, which he was disputing. While they showed as going to various merchants, Mr B says 
+the merchants were effectively acting as payment processors for R, as all the payments 
+were loaded as credits to his account with R.
+A few days later, NatWest notified Mr B it was declining his fraud claim. He complained, 
+explaining his dispute was about R using incorrect MCCs. NatWest maintained there had 
+been no bank error. Unhappy with this response, Mr B referred the matter to our service. He 
+explained he had spoken to VISA, who advised him NatWest should have raised chargeback 
+claims against the merchants shown on his statements.
+An investigator for our service ultimately decided not to uphold Mr Bs complaint. She said 
+that, as the payments didnt appear to go directly to R, it wasnt clear chargeback claims 
+would have succeeded.
+Mr B appealed the investigators outcome so the case was escalated to me. Earlier in 
+November 2023, I issued my provisional decision explaining I was minded to uphold the 
+complaint. I proposed that NatWest should refund 70% of the value of the disputed 
+payments, plus interest, to compensate Mr B for his loss of chance. I invited both parties to 
+respond before I made a final decision. 
+Initially, Mr B said payments were missed that he thought should be included. And that he 
+should be compensated for his time researching and bringing the complaint. But he then 
+accepted the provisional decision. Similarly, NatWest has accepted the provisional decision. 
+As both sides have responded, Im now proceeding to finalise my decision. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+As both parties have agreed with my provisional decision, I see no reason to depart from it. I 
+therefore uphold this complaint. 
+Ill set out the reasons given in my provisional decision for arriving at this outcome. Ill 
+additionally cover off the points I have already explained to Mr B directly, regarding his 
+response to my provisional decision.
+I have listened to the calls from October 2021 in which Mr B raised this matter with NatWest, 
+to help me decide whether  as he alleges  it ought to have raised chargeback claims for 
+the disputed payments.
+For context, the chargeback scheme is a process for resolving settlement disputes, in line 
+with rules set by the card scheme provider (in this case, VISA). In some circumstances, 
+VISAs rules allow banks to claim in relation to issues between the card holder and the 
+merchant paid.
+The scheme is voluntary, so banks arent obliged to raise claims just because the card 
+holder has reported a dispute. But our service would consider it good practice to do so if the 
+claim was likely to succeed.
+In the call on 19 October 2021, Mr B specifically asks about raising chargeback claims due 
+to the merchants use of incorrect MCC codes. In line with the VISA rules, there is a 
+chargeback claim option relating to this: VISA Dispute Condition 12.7: Invalid Data.
+The rules explain disputes can be initiated under that condition if the authorisation request 
+contained an incorrect MCC. Subject to certification that, and an explanation of why, the 
+authorisation request would have been declined if valid data had been provided. There is 
+nothing in the rules restricting such a claim being raised against a merchant providing 
+gambling services. To defend such a claim, the acquirer would need to show why the 
+dispute was invalid  such as showing the authorisation didnt contain invalid data.
+The time limit for a chargeback claim under dispute condition 12.7 is 75 calendar days from 
+the transaction date. Ive checked and the earliest payment disputed on 19 October 2021 
+was from 9 August 2021. So Mr B notified NatWest of the dispute within the time limit.
+However, from listening to the calls, I think NatWest misunderstood and mis-characterised 
+Mr Bs dispute. Based on what he said, I think it should have considered whether to raise 
+chargeback claims for the payments. So Ive considered the impact this error had on Mr B.
+Our services role is to decide whats fair and reasonable in all the circumstances of a case. 
+That involves taking into account relevant law and regulations. In this case, I think it is 
+appropriate to characterise Mr Bs complaint to be about loss of chance  and to consider 
+what the courts would be likely to award for this.
+In line with how the courts would consider a claim for loss of chance, I am assessing 
+whether there was a real and substantial chance that, but for NatWests failure to understand 
+and act on Mr Bs dispute appropriately, he would have made a recovery from the merchants 
+who the chargeback claims could have been raised against. If I find there was a substantial 
+chance, I will assign a likelihood/percentage to that chance to determine a fair award.
+I consider it clear Mr B wanted to pursue chargeback claims. And, for reasons Ill expand on 
+below, I think there was a failure by NatWest in not putting forward his claims. I think there 
+were reasonable prospects of success, such that it should have attempted claims in line with 
+good industry practice. But for its failure to respond appropriately to Mr Bs dispute, I am 
+persuaded the claims would have been raised.I dont consider the chances of the claims succeeding to be completely straightforward. 
+There are a few reasons for this. But overall, I do think there was a real and substantial 
+chance they would have. Ill explain why  addressing the reasons that complicate the 
+chance of success:
+I dont have firm evidence there was a gambling block on Mr Bs NatWest account at 
+the time of the transactions. That is significant as, even if the merchants used the 
+wrong MCCs, a claim under VISA dispute condition 12.7 would only succeed if using 
+the correct MCC would have stopped the payment from being taken.
+The payments Mr B is disputing went to merchants using the following MCCs: 7994 - 
+Video Game Arcades; 5399  Misc General Merchandise; 8999  Professional 
+Services; 5818  Digital Goods; 5999  Misc Specialty Retail; and 4900  Utilities. 
+Whereas NatWest has confirmed that, if the payments were for gambling, the 
+merchants should have used MCC 7995. And my understanding is that, if there was 
+a gambling block on the account at the time, payments to merchants using MCC 
+7995 would have been blocked.
+As I dont have a record of the block, I cant be certain the payments would have 
+been blocked if the authorisation requests had used MCC 7995. But I am persuaded 
+of this point on balance. This is because, when Mr B spoke to NatWest at the time, 
+he mentioned the gambling block on his account. And NatWest didnt dispute that 
+there was one, which I expect it would have done if there wasnt. NatWest also 
+acknowledges it may not have a record of the block due to record retention, rather 
+than because there wasnt one.
+There is also limited evidence to show the payments Mr B has disputed were, in fact, 
+going to R. He has provided some screenshots of his account with R, showing credits 
+which appear to tally with the payments he is disputing. But the records are 
+incomplete. Which does affect my judgment on whether there was a real and 
+substantial chance of the claims succeeding.
+I think the lack of information we have about this is, in part, attributable to NatWests 
+failings. If it had directed Mr B correctly on the processing for raising chargeback 
+claims, I consider it likely he would have got better records. He says he was never 
+directed to try to resolve things further with R, or to get evidence to show the 
+payments were ultimately credited to his account  which I consider it likely NatWest 
+would have directed him on if it had correctly considered his dispute.
+On balance, I am persuaded by Mr Bs consistent testimony and the detailed records 
+he has pulled together to try to reconcile the payments shown on his statements with 
+the partial records he has of the credits applied to his R account. These were 
+obtained prior to R blocking his account. They suggest the payments were all 
+ultimately processed by/on behalf of R.
+If we accept the payments did go to Mr Bs gambling account with R, which Ive 
+explained I consider likely, some of the MCCs (such as the code relating to utilities) 
+seem clearly incorrect. However, some merchants used the MCC for video game 
+arcades and digital goods. It is less clear whether R could have been providing 
+services that might reasonably fall within those categorisations.That said, for similar reasons to those given above, I do consider it likely that the 
+payments were for gambling. Mr B has been clear and consistent on this point, and 
+the records he has provided does seem to show funds being loaded to a casino 
+wallet. Mr B explains he was drawing on this pot to use Rs online casino. Bearing in 
+mind Ive found its likely he could have got better records but for NatWests failure, I 
+dont think this undermines his case for having a real and substantial chance of 
+raising successful chargeback claims. The potential disparity between the likelihood 
+of the claims succeeding, in line with the various MCCs used, is something I will take 
+into account further when deciding the appropriate level of redress.
+It has been difficult to establish where R are based. My research on this isnt 
+conclusive, but it does appear they operate from overseas. And the individual 
+merchants paid (who I believe were acting for R) also show as operating from outside 
+the UK. Bearing in mind the merchants will be subject to local laws, that makes it 
+possible they may have been able to use non-gambling MCC codes  as local laws 
+may differ in their definition of gambling and/or the requirements they place on 
+merchants providing gambling services.
+On the other hand, VISAs chargeback scheme, and its rules, are global. So it seems 
+reasonable to conclude that, in providing gambling services, the merchants should 
+have been using MCC 7995.
+Taking all of this into account, I think Mr Bs chargeback claims had a real and substantial 
+chance of succeeding. There are reasonable grounds to think the merchants may have been 
+using incorrect MCCs to circumvent a gambling block that would otherwise have prevented 
+the payments from being taken.
+I have therefore gone on to consider what Mr Bs chances of success were, to determine 
+what redress should be paid by NatWest to compensate him for his loss of chance due to 
+failing to raise his claims. In line with the approach taken by the courts, I propose to calculate 
+this on a percentage basis.
+As explained above, there are several factors which lead me to conclude the chances of the 
+claims succeeding are not 100%; there is too much uncertainty, and not enough clear and 
+persuasive evidence. But I have also set out above the factors which persuade me there 
+were reasonable prospects for the claims to succeed.
+There is one further point I would highlight, which has a bearing on my judgment on what 
+level of award would be fair, in addition to the points Ive already laid out.
+In all the circumstances, it does look credible and persuasive to me that these merchants 
+were engaging in untoward activity.
+There are many reports online of Rs clients experiencing problems with their services. They 
+also dont make it clear where they are operating from, or provide much traceable 
+information about their operations.
+For those locations which there are suggestions online that R may be operating from, I have 
+checked their respective gambling commissions/authorities. R invariably arent registered 
+with them. If R were operating legitimately, it does strike me as odd that they wouldnt be 
+more forthcoming about their operations. To my mind, that adds weight to Mr Bs allegation 
+that they are operating in a way to circumvent VISA requirements, using firms as aliases or 
+to obscure what they are doing.If the merchants involved in these payments are not operating within VISAs rules, that 
+makes it less likely they would, and could, successfully defend chargeback claims against 
+them.
+On that basis, I think there are reasonable grounds to suspect the merchants may have 
+decided to allow Mr Bs chargebacks if they had been raised. Defending the claims would 
+have risked then moving forward to the arbitration stage of the chargeback process  at 
+which point VISA would have looked at both sides submissions and decided whether the 
+claims should succeed.
+If the merchants werent following VISAs rules, they probably wouldnt want to draw 
+attention to this by engaging with VISA.
+When weighing all of this up, I consider it reasonable to assign an overall chance of 70% to 
+Mr Bs prospects of his 54 claims succeeding. This takes into account variations across the 
+claims based on the particular MCCs used. But I consider it pragmatic and fair to reach an 
+overall percentage chance to serve as the basis for calculating the redress I think NatWest 
+should pay, to compensate Mr B for his loss of chance.
+Following my provisional decision, Mr B pointed out he had told us about further payments to 
+Red Lion. He queried whether those should be included in my award. As I have explained to 
+him, I dont think they should be. The figure of 54 disputed payments matches the records I 
+have from the time. Its also the figure he gave when he referred the matter to our service. 
+That suggests the additional transactions werent reported within the applicable time limit for 
+the chargeback process. 
+I appreciate there probably were further payments to Red Lion. But on the balance of the 
+available evidence, Im not persuaded NatWest missed them or can be held at fault for Mr B 
+not reporting them in time. It would be for Mr B to check and confirm the transactions he was 
+disputing. Overall, I don't consider it likely that failings by NatWest caused a substantial loss 
+of chance regarding any further payments. 
+Mr B also said he had put time and effort into pursuing his loss. While that is true, Im not 
+persuaded it is fair to award him additional compensation for that  bearing in mind he is 
+being awarded for (part of) his loss, with interest. It is part and parcel of raising a dispute that 
+it will involve some effort. But our service is available to use as a free and informal way of 
+pursuing such matters. And there is a level of individual discretion involved regarding how 
+much time is taken to pursue things.  
+Overall, I consider that directing NatWest to pay an award in line with Mr Bs 70% loss of 
+chance in relation to the 54 disputed transactions, with interest, is a fair way to resolve this 
+complaint.My final decision
+For the reasons given above, I uphold this complaint and direct National Westminster Bank 
+Plc to:
+Refund 70% of the value of the transactions Mr B disputed on 19 October 2021, to 
+compensate him for his loss of chance (which NatWest has calculated to be 
+£3,916.96); and 
+Pay 8% simple interest per year on this amount, accruing from 19 October 2021 (the 
+date of his attempted claim) to the date of settlement, to compensate Mr B for the 
+loss of use of those funds.
+National Westminster Bank Plc must pay the compensation within 28 days of the date on 
+which we tell it Mr B accepts my final decision.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr B to accept or 
+reject my decision before 6 December 2023.
+ 
+Rachel Loughlin
+Ombudsman

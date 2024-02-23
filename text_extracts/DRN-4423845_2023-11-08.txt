@@ -1,0 +1,140 @@
+DRN-4423845
+The complaint
+Mr G complains that Revolut Ltd wont refund money he lost when he fell victim to a 
+cryptocurrency scam.
+Mr G is represented by solicitors in this complaint. 
+What happened
+Mr G says that in May 2023, he was tricked into sending money in connection to what he 
+thought was an investment opportunity. But it turned out to be a scam. Mr G explains that 
+one of his friends started posting a lot about making good returns from investing on their 
+social media, which got him interested in the opportunity as well. He says he didnt know at 
+the time that his friends social media account had been hacked. 
+Mr G reached out to the broker his friend had seemingly been posting about and was 
+encouraged to open an account with Revolut to make deposits into his investment account. 
+For some of the deposits, Mr G used his Revolut account to exchange funds (fiat currency) 
+into cryptocurrency, which he then withdrew and sent on to his investment account. He also 
+used his Revolut account to send money to a cryptocurrency exchange, where the funds 
+were converted into cryptocurrency before being sent on. 
+Mr G realised hed been scammed after his requests to withdraw profits were repeatedly 
+declined and when his friends social media posts started to change, and he learnt that the 
+account had been hacked. He reported the matter to Revolut but it refused to refund any of 
+the transactions. Unhappy with this, Mr G complained to Revolut that it didnt protect him 
+from financial harm at the time he made the payments. The complaint was subsequently 
+referred to our service. 
+I issued a jurisdiction decision last month explaining that this service doesnt have the remit 
+to consider Mr Gs complaint about the cryptocurrency payments which he sent directly from 
+his Revolut account. But we can consider his complaint about the payments that were made 
+in fiat currency to the cryptocurrency exchange for onward transfer. 
+This decision solely relates to my consideration of the merits of Mr Gs complaint regarding 
+the following fiat transactions from his Revolut account 
+Date Type Payee Amount
+25 May Faster payment Coinbase £1,970
+26 May Faster payment Coinbase £3,940
+26 May Credit Coinbase £3,940 (reversal)
+26 May Faster payment Coinbase £3,940
+27 May Credit Coinbase £3,940 (reversal)
+27 May Faster payment Coinbase £3,940 (declined)
+28 May Debit card Kraken £3,940
+Total loss £5,910
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, Ive decided not to uphold it. I realise that Mr G will be disappointed, but Ill 
+explain why Ive reached that outcome.
+The starting position is that liability for an authorised payment rests with the payer, even 
+when they are duped into making that payment. Theres no dispute that Mr G made the 
+above payments using his security credentials, and so they are authorised. But in 
+accordance with the law, regulations and good industry practice, a payment service provider, 
+including an electronic money institution like Revolut, should be on the look-out for and 
+protect its customers against the risk of fraud and scams so far as is reasonably possible. If 
+it fails to act on information which ought reasonably to alert it to potential fraud or financial 
+crime, it might be fair and reasonable to hold it liable for losses incurred by its customer as a 
+result.
+Revolut submits that the first transaction (see above table) did flag as suspicious on its fraud 
+detection systems. It says it asked Mr G to select the purpose of the payment from a list of 
+options and displayed a warning based on his response. Mr G selected investment as the 
+payment purpose and weve been provided a screenshot of the relevant warning Revolut 
+says it would have displayed at the time. The warnings states, Fraudsters could contact 
+you, or you may see an advertisement online, offering you a fake  but often convincing  
+investment opportunity to make easy money, and Legitimate investments will never 
+guarantee profit and wont be arranged over social media. Investment companies will be 
+registered with a regulator, such as the Financial Conduct Authority (FCA) in the UK. 
+Given the transaction amount in question and the fact that this was a newly opened account 
+with an electronic money institution, who operate differently in a different regulatory 
+framework and have different FCA permissions to those of a bank or a building society, Im 
+satisfied that the intervention Revolut carried out in that instance was a proportionate 
+response to the risk identified. One or more of the scenarios set out in the warning applied to 
+Mr Gs situation. In the circumstances, I dont consider giving him the option to (1) get advice 
+from one of its agents, (2) read its scam guidance, (3) cancel the payment, or (4) go ahead 
+with it, was unfair or unreasonable.      
+Revolut states that the next two transactions to the same payee, which were made the 
+following day, were executed without further intervention. Given that the payments were 
+going to a cryptocurrency exchange, I think Revolut ought to have provided a tailored 
+warning like the one it provided at the time of the previous payment. But I dont think a 
+similar intervention, which in my view would have been a proportionate response at these 
+times as well, would have made a difference to Mr Gs decision-making seeing as he 
+continued with the earlier payment despite the warning. So, I dont think a missed 
+opportunity at these times would have led to a different outcome.
+  
+Looking at the account statement, it seems that the transactions were reversed by the 
+beneficiary on both occasions. From the chat history, I can see Mr G provided Revolut a 
+screenshot of the email which he received from the beneficiary at the time. It says his recent 
+deposit had been declined due to a suspicious activity warning. Its unclear what triggered 
+this warning, but the evidence Ive seen shows that Revolut released the funds as per Mr Gs 
+instructions. So, Im not persuaded that the payments were rejected by Revolut as he 
+claims. I also dont think Revolut ought to have been concerned by the reverted payments in 
+the way the investigator has suggested. The issue appears to have arisen once the funds 
+reached the beneficiary, which declined the deposit. When Mr G authorised a further transaction for the same amount the following day, it was 
+declined. Mr Gs account was restricted while Revolut undertook a review of his account. 
+During that time, Revolut didnt make any enquiries of Mr G. It did, however, inform him that 
+the review could take up to two weeks. The review was completed within 24 hours and the 
+restrictions were removed, and Mr G was once again able to make transactions from his 
+account. It was then that he successfully made the final disputed transaction, a card 
+payment for the same amount but to a different cryptocurrency exchange.
+The investigators view was that Revolut ought to have questioned Mr G when it declined the 
+payment and restricted his account, given there were multiple contributing factors. But I dont 
+agree with that view. As Ive mentioned above, I dont consider the payment reversals 
+warranted further investigation by Revolut. The evidence shows that it executed Mr Gs 
+authorised instructions and didnt stop the payments. On the point of account opening 
+purpose, one of the options Mr G selected was transfers. While he may have been sending 
+the disputed payments for the purposes of investing, technically he was making transfers 
+still. So, Im not persuaded by the investigators reasons for why they thought Revoluts 
+investigations didnt go far enough.
+Its true that the transaction was declined, and Mr Gs account was temporarily restricted. 
+And I acknowledge his frustrations when he wasnt getting any answers from Revolut. But 
+based on what Ive seen, Im not satisfied that the review it undertook  which led to the 
+restrictions  was specifically about the transaction in question. In other words, I wouldnt 
+have expected Revolut to have questioned Mr G about the payment or requested additional 
+information in the way the investigator has suggested, given the nature and scope of its 
+review. Once the review was complete, all the restrictions were removed.  
+For the transaction that was declined, had Revolut not been undertaking a review, I would 
+have only expected it to have provided Mr G a tailored warning much like it did at the time of 
+the first disputed transaction. Much for the same reasons as Ive given for the earlier 
+transactions, Im not convinced a warning would have positively impacted Mr Gs decision-
+making.
+The same goes for the last disputed transaction which Mr G made using his debit card. It 
+was for the same amount and going to a cryptocurrency exchange. It isnt clear whether 
+Revolut provided a tailored warning, but that is what I would have expected it to do in the 
+circumstances. And I dont think it would have stopped Mr G from going ahead with the 
+payment.
+Ive also thought about Revoluts actions in relation to the recovery of payments after it 
+became aware of the situation. In relation to the faster payment, given that Mr G transferred 
+the cryptocurrency from his wallet with the cryptocurrency exchange on to the scammer, 
+there wouldnt have been any funds left to recover. Nevertheless, I can see that Revolut 
+contacted the beneficiary and requested a recall. But it didnt hear back. 
+As for the debit card transaction, the only avenue here would have been a chargeback. 
+Revolut could have only raised a chargeback against the merchant Mr G paid, i.e., the 
+cryptocurrency exchange, not another firm i.e., the scammer. Given the merchant he paid 
+had provided the service (conversion of money into cryptocurrency), its unlikely that a 
+chargeback would have been successful. 
+So, overall, Ive come to the same overall conclusion as the investigator. Im not persuaded 
+that any failure on Revoluts part  in this case, the lack of tailored warnings on each 
+occasion  is the proximate cause for Mr Gs loss. I fully acknowledge that hes lost a lot of money. But having considered the matter very carefully, for the reasons given, it wouldnt be 
+fair of me to hold Revolut responsible for his loss.  
+My final decision
+For the reasons given, my final decision is that I dont uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr G to accept or 
+reject my decision before 6 December 2023.
+ 
+Gagandeep Singh
+Ombudsman

@@ -1,0 +1,169 @@
+DRN-3975658
+The complaint
+Mr F complains Investment Funds Direct Limited trading as Ascentric (Ascentric) displayed 
+the incorrect book costs for his holdings and this prevented him from trading sensibly. He 
+also complained incorrect prices were shown for one of his holdings and the platform wasnt 
+available for him for a period of two weeks.
+What happened
+Mr F instructed a financial advisor who used Ascentrics platform to trade his investments.
+On 19 July 2020, Mr F asked for some of his holdings to be transferred between his three
+different accounts and after this the book costs showed incorrectly. His advisor contacted 
+Ascentric to complain on the basis Mr F was prevented from trading sensibly because he 
+didnt know the true position of the profit and loss.
+Ascentric responded to the complaint and accepted the book costs had been incorrectly
+displayed. Initially, they offered Mr F £250 to resolve the complaint.
+Further to this, Mr F also raised an additional concern that the platform was broken for him
+for a period of two weeks during the time the book costs were displayed incorrectly. He said 
+this meant he could not view his holdings. And he complained about the display prices being
+lower than expected.
+Ascentric issued two further responses covering these issues and said they hadnt done 
+anything wrong. Mr F remained unhappy and asked our service to look into things. Ascentric 
+agreed it was sensible for us to consider these issues together and increased their offer to 
+£350. 
+Mr F also referred a complaint he had previously raised about international share prices 
+being displayed incorrectly on Ascentrics platform for over six months. A decision that this 
+complaint was referred to us out of time has been made. So, Im unable to comment on this 
+further.
+ 
+I issued a provisional decision on 20 December 2022. I said: 
+Incorrect book costs
+Ascentric have already accepted the incorrect book costs were displayed for the 
+investment holdings transferred between accounts at the end of July 2020. Theyve 
+explained they showed the prices from the date of the transfer, rather than the 
+original price when purchased.
+Additionally, theyve accepted there was delay in rectifying the book costs. They were 
+first notified on 29 July 2020 by Mr Fs financial advisors and whilst the matter was 
+being rectified, they didnt provide clear timescales in respect of when Mr F could 
+expect it to be fixed. Mr F has confirmed the book costs did not report accurately until 
+mid-November 2020.
+Ascentric offered £350 in recognition of the frustration and inconvenience caused. 
+This wasnt accepted by Mr F. He said he held about £200,000 worth of investments 
+on the platform and so the opportunity loss may have been significant. I do recognise 
+the inconvenience and frustration suffered. Also, that it would have been harder to 
+place trades because of the issues identifying the profit and loss, as well as capital 
+gains. But Im not persuaded he was prevented from trading sensibly.
+In response to the view, Mr F has said Ascentric told him they were unable to use the
+information on the platform to calculate the book costs but thats what he is being told 
+he could have done. Mr F has also said he had a ticket open about not being able to 
+view the contract notes on his tablet (which he said he understood they support).
+Firstly, I would note it would be unreasonable of me to expect Ascentric to ensure
+compatibility of all the functions on its platforms with all devices. Theyve explained 
+this is something their working on expanding, particularly in respect of the tablet Mr F 
+was using.
+Nevertheless, Im satisfied Ascentric made all details of trades placed and contract 
+notes available through the platform. This information could be used to identify the 
+original purchase price, which could then be used to calculate the profit and loss and 
+capital gains tax on potential trades. However, I do appreciate this would have been 
+more inconvenient for Mr F. He also appointed a financial advisor. For example, Ive 
+seen evidence the financial advisor did contact Ascentric about a potential trade in 
+August 2020.
+I can see from the evidence Mr F contacted Ascentric, and his financial advisor also
+contacted them on his behalf. Mr F has confirmed the advisors time amounted to
+approximately £1,000. Ascentric said they wouldnt normally look to cover this cost 
+but might consider it. Im not able to comment on this as my role is to consider the 
+impact to Mr F, and Ive not been provided with evidence to show these costs have 
+been passed on to Mr F. But Ill consider anything else Im provided.
+Overall, Ascentric displayed incorrect book costs and took a significant amount of 
+time to rectify this. This caused Mr F frustration and took up his time to deal with it. Ill 
+come back to how they should put things right below.
+Platform availability
+Ive seen an email Mr F sent to his financial advisor where he confirmed he had told
+Ascentric how to fix the problem with the platform and after 20 days he could view his
+investments. I understand he could only view a blank screen. I appreciate this would 
+have been frustrating for Mr F who wanted to use the platform. Additionally, Ive 
+reviewed correspondence from July 2020 where Mr F was asked if he had tried 
+clearing his cache and logging in on another device/browser. Ascentric asked him 
+twice because they couldnt locate his reply.
+However, based on the evidence Ive seen I cant conclude Ascentric were 
+responsible for a fault which prevented Mr F from viewing the platform. Ascentric 
+recognise there are some compatibility issues with certain devices which theyre 
+working on. Ascentric have also confirmed with their IT department that there were 
+no unexpected errors or downtime within the period described by Mr F. They also 
+have a recommended device and browser for viewing the platform.Having reviewed the evidence Ive received, Im not persuaded Ascentrics service 
+was unreasonable here as the evidence isnt sufficient for me to conclude there was 
+a issue with the platform caused by Ascentric.
+Incorrect Price
+In October 2020, Mr F complained the price for his Ceres Power holding was wrong. 
+His financial advisor called on 5 October 2020 to query the display price because it 
+differed from the live price. Mr F was concerned hed be unable to make trading 
+decisions.
+Ive reviewed Ascentrics response to Mr F in which they explain how the price is 
+displayed. They said Ceres Power was an equity share traded on the London Stock 
+Exchange electronically. They went on to say the closing price is set in one of two 
+ways.
+Firstly, there is a closing auction where market participants can put in orders for the 
+closing price. If there are sufficient orders for the auction to result in a trade, the price 
+of that trade will determine the official closing price for the stock for that day.
+Secondly, Ascentric explained if there arent sufficient orders for the action to result in 
+a trade, the official closing price is determined as the mid-price of the bid/offer spread 
+at the end of the auction period.
+Ascentric have confirmed they display the mid-price by calculating the average of the 
+bid and offer prices received via a daily feed from their data vendor. In their response 
+to Mr F, they also provided a table with information of the most recent prices for 
+Ceres Power and confirmed they do not provide a live feed for anything exchange 
+traded.
+Ascentric also explain in their terms and conditions that the prices of assets 
+displayed should only be used as an indicative price and they will price Exchange 
+Traded Instruments at mid-market price as per HMRC guidance (9.2).
+Ascentric have further explained that the price hadnt been updated when the 
+financial advisor called on 5 October 2020. Theyve said this was because they set a 
+tolerance level for pricing data received from the vendor. The mid-price exceeded 
+this tolerance level, so it was necessary for it to be manually verified and the previous 
+active price was displayed until verification.
+Having considered this, Im not persuaded this meant Ascentrics service was 
+unreasonable, and Id note its not unusual for platform providers to implement these 
+types of checks before displaying prices.
+Having reviewed the information, Im satisfied Ascentrics service has been 
+reasonable here. When Mr F raised concerns, they sought to explain how they 
+calculated their display prices and Im satisfied this is in no way unusual. The 
+evidence doesnt persuade me Ascentric displayed incorrect prices. Moreover, they 
+dont display the live prices on their platform, so the prices are only intended to be 
+indicative as described in their terms and conditions.
+Putting things right 
+Ascentric have offered Mr F £350 compensation. I appreciate he didnt agree this 
+reasonably reflected the impact of their service failings. I would assure Mr F that I do recognise the inconvenience and frustration he experienced because of the incorrect 
+book costs. However, Im satisfied this is an appropriate amount of compensation in 
+the circumstances.
+I also want to note that this isnt to be considered a penalty for Ascentric and it is 
+outside of our remit to take punitive measures against businesses. It is also not 
+intended to reflect Mr Fs personal day rate as this isnt in line with our approach.
+I gave both parties the opportunity to comment before I proceeded to make a final decision 
+on the complaint. Ascentric confirmed they had nothing to add and accepted my decision.  
+Mr F didnt agree with what I set out. In summary, he said: 
+His financial advisor spent time (which amounted to about £1,000 in professional 
+fees) in trying to get the book costs corrected. This could be checked with his advisor 
+and reflects the difficulty in placing trades. 
+The £200,000 was the total amount of tradeable assets with the incorrect book costs 
+(as opposed to the total value of investments held on the platform). 
+The shares have been traded over many years and sometimes they were sold and 
+repurchased. So, it would be very difficult (if at all possible) to work out the book 
+costs from scratch. It might have taken an hour or more to calculate the position of 
+one trade, particularly when navigating a system which wasnt very easy to use. 
+Ascentric agree to provide a platform with useful up to date information and its not 
+reasonable to say a client could recalculate all of the information (going back over ten 
+years) because the information they supplied was wrong and they were unable to fix 
+it within the statutory time. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I see no reason to depart from the conclusion I previously set out.
+I accept what Mr F has said about his advisors fees and the difficulties in trading. Ive seen 
+some correspondence between his advisor and Ascentric which also demonstrates the 
+difficulties in trading and getting the issues resolved. I also agree it took Ascentric too long to 
+put things right. Moreover, I have also addressed the difficulties Mr F would have had trading 
+himself. Im satisfied Ive appropriately considered these issues and theyve been addressed 
+as set out above. 
+I also acknowledge what Mr F has said about the £200,000 and I apologise for the confusion 
+here. But Im satisfied this point does not materially change the reasons I previously outlined 
+for reaching my decision.  
+Putting things right
+Ascentric should pay Mr F £350 compensation for the reasons set out above. This is fair and 
+reasonable in all the circumstances of this complaint. 
+My final decision
+For the reasons outlined above, my final decision is that Investment Funds Direct Limited 
+trading as Ascentric should pay Mr F £350 compensation. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr F to accept or 
+reject my decision before 17 April 2023.
+ 
+Laura Dean
+Ombudsman

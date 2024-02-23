@@ -1,0 +1,88 @@
+DRN-3949030
+The complaint
+Mr K complains that Wise Payments Limited trading as Wise wont refund the money he lost 
+when he fell victim to a scam.
+What happened
+Mr K received a text, allegedly from the post office, asking him to pay a small fee to 
+rearrange delivery of a parcel. He followed the link to enter his card details, but no payment 
+was taken.
+A few days later, Mr K received a call from someone claiming to be from the bank who 
+provided the card he had used. They said there had been unusual activity on his card, and 
+asked if he had used it recently. When Mr K mentioned the text, they said that must be how 
+his card details had been compromised.
+Unfortunately, this call was from a scammer impersonating Mr Ks bank. They persuaded 
+him to send funds to his Wise account. It seems they told him this was needed to clear a 
+fraudulent standing order that had been set up, and the money would then be credited back 
+to his bank account. 
+The scammer directed Mr K to change the password for his Wise account. He paid in the 
+funds as instructed. Following this, a payment of £16,650 was sent to a third party. 
+When Mr K realised he had been scammed, he reported this to Wise (as well as his bank). 
+Wise was able to recall £7,116.18 from the account the funds were sent on to, but held Mr K 
+liable for the remaining amount. He complained about this, saying he didnt authorise the 
+payment. But Wise maintained its position as it thought he had authorised it.
+Unhappy with this response, Mr K referred the complaint to our service. Our investigator 
+didnt uphold it. Although they thought Mr K had been tricked into making the payment, they 
+thought he had authorised it. And they thought it was reasonable that Wise processed the 
+payment without completing further checks or identifying a fraud concern. 
+Mr K has appealed the investigators outcome so the case has been passed to me. He says 
+he received notification that a transaction had been cancelled, which he thinks shows Wise 
+did have fraud concerns  and so should have done more to protect him.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, Ive decided not to uphold it. Ill explain why. 
+First, Ive considered whether Mr K authorised the payment. As in broad terms, he would 
+generally be liable for a payment he authorised  whereas Wise would generally be liable if 
+he didnt.
+Under the relevant regulations, the Payment Services Regulations 2017 (PSRs), 
+authorisation comes down to whether the payment was properly authenticated  and 
+whether Mr K consented to it. The key issue here is that Mr K says he didnt consent to the 
+payment.
+However, consent has a particular meaning under the PSRs. It doesnt mean informed 
+consent. Its about whether Mr K, or someone acting with his authority, completed the steps 
+agreed between Wise and Mr K, under the terms of the account, to make a payment.
+Two One Time Passcodes (OTPs) were sent to Mr K by Wise, and used, during the scam. It 
+appears he may have disclosed one to the scammer under the guise it was needed to 
+change his password. But it seems the other was shared with them (bearing in mind they 
+were posing as Mr Ks genuine bank) on the understanding it would be used to make a 
+payment. It also sounds as though he may have known/understood the scammer had 
+access to his account and was making payments. What he didnt know was that the 
+scammers would send the funds to a third party (rather than him) and/or that they wouldnt 
+later return the payments. 
+Having put this to Mr K, he doesnt seem to dispute this understanding. Hes reiterated that 
+he didnt know or agree that the payment would be sent to a third party. While I accept he 
+was tricked about the recipient, I think the payment would still be deemed authorised under 
+the PSRs. As the steps were likely completed by him and/or someone acting with his 
+authority  even though that authority was gained through deception. 
+And so the starting position is that Mr K is liable for the outstanding loss stemming from the 
+payment. However, I have also considered whether Wise did, or should have, identified the 
+payment as presenting a fraud risk. And if so, whether it should therefore have taken further 
+fraud prevention measures which would have prevented Mr Ks loss.
+In considering this, its important to note that Wise isnt a bank; its an e-money institution 
+(EMI). That will affect the type, and value, of payments it generally processes, and the type 
+of account activity it expects to see, when compared with a standard retail bank.
+Mr K had previously used his account to make high-value payments. While I appreciate his 
+point that these were international payments to family, rather than payments to another UK 
+account, I still consider it reasonable that this factored into Wises judgment of what level of 
+payments to expect on the account. I have also considered that the funds were sent a new 
+payee. But I dont think Wise ought to have taken further steps to verify this  bearing in 
+mind the use of OTPs to make the payment.
+Overall, I dont think it was unreasonable for Wise to simply process the payment in line with 
+the request it received. Under the PSRs, it has a duty to promptly execute authorised 
+payment instructions. And I dont consider it remiss that Wise didnt identify the payment as 
+suspicious enough to warrant additional checks.
+Mr K has pointed out that he received an email from Wise at the time saying a transfer had 
+been cancelled  which he thinks shows it did have fraud concerns. But, having checked 
+Wises records, Ive found the cancellation related to an attempt to move funds into the 
+account. It appears an inward transfer was cancelled by Mr K, and another was attempted 
+but there werent enough funds in the sending account. So I dont think this was anything to 
+do with Wise having fraud concerns about the outgoing payment that was completed.
+In saying all of this, Im mindful Mr K has lost out due to being tricked by a scam. Its just that 
+Im not persuaded his loss is attributable to failings by Wise. And so I dont consider it fair to 
+expect it to accept liability for his loss.My final decision
+For the reasons given above, my final decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr K to accept or 
+reject my decision before 12 December 2023.
+ 
+Rachel Loughlin
+Ombudsman

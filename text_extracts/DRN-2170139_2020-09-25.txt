@@ -1,0 +1,223 @@
+DRN-2170139
+The complaint
+Mr Hs complaint is about the cancellation of a buy trade order (worth around £60,000) he 
+placed in his Barclays Bank UK PLC (Barclays) trading account on 25 September 2019.
+What happened
+Mr H placed the At Best order, through Barclays trading platform, at 9.21am and within the 
+same minute he cancelled it by using the platforms cancellation button. The cancellation 
+remained pending at 9.27am when he called Barclays to have it confirmed. 
+According to Barclays records the call lasted 37 minutes and by the time it ended the 
+message to Mr H was that his order had been executed prior to his call and could not be 
+cancelled. Barclays records also show that execution of the order was not completed until 
+around 12.30pm on the day. Mr H was sent a confirmation email in this respect. However, he 
+also received  at the same time  an email from Barclays confirming that his order had 
+been cancelled. He says he saw the cancellation email and assumed his cancellation 
+request had eventually been confirmed, and that he did not see the email about execution of 
+the trade until the following morning.
+On 26 September 2019, around 9.30am, Mr H called Barclays to clarify the conflicting emails 
+and he expressed dissatisfaction that the trade had been executed despite the email 
+informing him that it had been cancelled. During this call he was advised to take no action on 
+the holding bought through the trade as the trade might be reversable. During another call 
+around 12.15pm Barclays confirmed that the trade would stand, and Mr H had to make his 
+own decision on what to do with the holding. He sold the holding the following day (27 
+September 2019) for around £47,500, realising a loss of around £12,500.
+Mr H complained about what he considered to be the malfunctioning of Barclays trading 
+platform, with specific regard to the cancellation button not working as he expected it to; he 
+also complained about being misled during his conversations with Barclays (about his ability 
+to cancel the order and the execution of the order) and being misled by the email that 
+confirmed his order had been cancelled. In the main, he sought recovery of his loss from the 
+trade, based on the argument that he would not have incurred such a loss if the order had 
+been cancelled.
+Barclays gave a mixed response to the complaint. It did not consider its platform had done 
+anything wrong and did not accept any wrongdoing in terms of the execution of the order on 
+25 September; however, it noted that it provided an execution only service so it should not 
+have advised Mr H to retain the holding in the morning of 26 September as it did; it also 
+conceded that Mr H was given conflicting information about his cancellation request in the 
+emails he received and during the calls he made; but it maintained that at the time of his first 
+call on 25 September the order had been executed and could not be cancelled. 
+For the trouble and upset caused to him in the matter Barclays offered Mr H £500; for giving 
+him advice, on 26 September, to take no action on the holding  when it should not have 
+given such advice  Barclays offered him compensation in the amount of the loss in value of 
+the holding between 9.47am on the day (when he was told to take no action) and 12.15pm 
+on the day (when he was told its previous statement was wrong and that it was for him to 
+decide on what to do with the holding); Barclays considered that its responsibility for the 
+advice expired at the latter time; the compensation amounted to £4,017.46; and with the 
+addition of interest and deduction of tax the net compensation amount of £4,056.89 was 
+offered to Mr H.
+Mr H did not consider that this outcome sufficiently resolved his complaint. One of our 
+investigators considered the matter and noted that it was reasonable for Mr H to assume the 
+order had been cancelled when (and after) he received Barclays email confirming the 
+cancellation; so Barclays calculation of compensation should begin from 12.39pm on 25 
+September when this email was sent/received; and she considered that Barclays offer of 
+£500 for trouble and upset is reasonable. 
+Barclays thereafter offered to extend the calculation of Mr Hs loss even further by starting 
+from the time of his first call on 25 September. However, this produced a negative outcome 
+and the investigator said such an outcome does not give fair resolution to Mr Hs complaint. 
+Barclays retained its position and the matter was referred to an ombudsman  to me. 
+I considered the matter and, with the help of the investigator, my preliminary view was 
+shared with Barclays (and with Mr H) for comments in response. My view was expressed as 
+follows  
+I consider that [Mr Hs] case should be upheld and I appreciate that Barclays already 
+acknowledges that some parts of the case should be upheld. However, my preliminary view 
+is that the case should be upheld on the basis that the trade should have been cancelled 
+(wholly or partially) in the course of [Mr Hs] telephone call to Barclays at 9.27am on 25 
+September 2019 (around 6 minutes after he tried to cancel the trade on the platform). I hold 
+this view because the balance of available evidence is that either none or only a limited part 
+of the trade had been executed at the time of the call, so the implication is that either all or 
+the majority of the trade had yet to be executed, could have been cancelled and should have 
+been cancelled. In straightforward terms, the fact that the trade had to be worked in the 
+market for the next three hours and the fact that its execution was not completed until past 
+12pm strongly suggests that a complete or partial cancellation should have been and was 
+possible around 9.27am. To support this view, I note the following from Barclays 
+investigation report:
+During the call that began at 9.27am [Mr H] is told the trade order is pending, then he 
+is told the order is locked in at price 0.045 but a dealer was attempting to better the 
+price, and then by 9.30am he is told that the order has been executed at price 0.045. 
+This describes a trade that, within three minutes, was pending  then found a price  
+then sought a better price  then executed at the initial price that was found. 
+However, we know this was either inaccurate or misleading because execution of the 
+trade did not complete until around three hours later and in the interim the order had 
+to worked in the market due to its size (which was above the relevant EMS).
+Barclays explanation of what happened during the three hours of working the order 
+is that because it was much larger than the average trade size it took time to fulfil and 
+that During this time, the dealer was arranging prices with counterparties to  get 
+the amount of shares to complete the trade and  see if [the dealer] can arrange a 
+better final price. [my emphasis] This, as I have emphasised, appears to be a 
+concession by Barclays that the trade was nowhere near execution at 9.27am and 
+that it needed all of the following three hours to search for and find enough shares to 
+buy to fill the trade and to agree a price for the trade. 
+Barclays Head of Platform Transactions Customer Journeys says All requests to 
+cancel a pending order are queued up; most cancel immediately; however in a case 
+where an order has already been claimed (by a Dealer) the cancellation would be rejected if the order is subsequently dealt. Available evidence is that [Mr Hs] 
+cancellation request remained pending at the time of the call  not rejected. I am 
+persuaded that this happened because, as the quote describes, the request would 
+have been rejected if the trade had been dealt but the trade had not been dealt at 
+that time (and was not completely dealt until three hours later) so the cancellation 
+request remained pending. An error on Barclays part therefore appears to have 
+occurred, whereby it failed to act on a pending cancellation request despite the fact 
+that the trade had not been executed and could be cancelled. 
+In light of the above and in the absence of evidence that a definitive part of the trade was 
+executed by 9.30am on 25 September 2019, when [Mr Hs] call appears to have ended, the 
+conclusions that follow are that the trade continued to be worked during that call, that it had 
+not been dealt during that call, that it could have been cancelled during that call and that it 
+should have been cancelled during that call (given that [Mr Hs] repetition of his cancellation 
+request over the platform and telephone could not have been clearer). If there is evidence 
+that a definitive part of the trade was executed by 9.30am on 25 September  which 
+Barclays needs to present and refer me to  then these conclusions apply to the part of the 
+trade that was not executed by this time.
+The above is further supported by Barclays terms for the trading service. The provisions of 
+Section B, Part 2, paragraph 1.12 (c) match the notion of manually working an order (for 
+example, and in [Mr Hs] case, where it is larger than the average trade size); paragraph 2.2 
+in the same section and part says the At Best trade order that [Mr H] placed is subject to 
+execution in full with a counterparty; paragraph 2.3 in the same section and part addresses 
+the factors that affect trade orders and says An Order is monitored by us and presented for 
+execution when its conditions are met unless it expires, is cancelled or rejected or not 
+accepted by a Counterparty. Overall and on balance, I consider that, aside from the 
+cancellation that was not performed (and should have been performed), all these provisions 
+are broadly reflected in what Barclays did with the trade and they are not inconsistent with 
+my preliminary view that the trade was not executed during [Mr Hs] initial telephone call and 
+could (and should) have been cancelled at the time.
+If the above view is retained, and if it applies to the order as a whole, then everything that 
+happened after 9.30am on 25 September becomes arguably irrelevant  because Barclays 
+should have cancelled the order by this time and had it done so nothing would thereafter 
+have happened with the order; in this case fair compensation for [Mr H] would be payment of 
+the total financial loss he incurred in the entire trade (that is, the total difference between 
+what he paid for the holding and what he sold it for) minus the compensation that Barclays 
+has already paid him.
+If Barclays can prove that a definitive part of the trade was executed by 9.30am on 25 
+September 2019 then such part could not have been cancelled, but the remainder of the 
+trade could and should have been cancelled; in this case fair compensation for [Mr H] would 
+first be a payment of the total financial loss he incurred in the remainder of the trade (which 
+could and should have been cancelled, but was not) minus the compensation that Barclays 
+has already paid him; I appreciate [Mr H] would seek compensation for any part of the trade 
+that was executed by the above time and could not be cancelled; on balance I consider that 
+if Barclays had given him any relevant and accurate information in this respect he would 
+have  or ought to have  mitigated this by selling the shares derived from the partial 
+execution on the same day (25 September 2019) so fair compensation for this element 
+would be based on calculating the total sale value of the specific number of shares based on 
+the closing share price on 25 September 2019 [a], calculating what the same number of 
+shares generated, in total, when the wider holding was sold on 27 September 2019 [b] and if 
+a is greater than b then the difference should be paid to [Mr H] in compensation, otherwise 
+no compensation is due in this respect.Interest could apply to any compensation award.
+Barclays responded and mainly said:
+The order was picked up by its Dealing Team at 9.22am on 25 September and was 
+executed with a counterparty at 9.25am.
+The counterparty agreed to underwrite the trade at the price of 0.045p, the order was 
+stopped at this price whilst an attempt was made to improve the price for Mr H.
+Between 9.25am and 12.29pm this attempt was successful as the trade was 
+booked at 0.0448p.
+The order could not be cancelled because Barclays had committed to buy, at the 
+share price of 0.045p, the shares from the counterparty at 9.25am; the counterparty 
+agreed to try to improve the price by buying in more of the relevant shares in order to 
+pass on to M H (at a lower price); and this is what was eventually achieved by 
+12.29pm.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Overall and on balance, I am not persuaded to depart from my preliminary view in this 
+matter. I retain that view, as quoted above, and I incorporate it into this decision. 
+I appreciate the response provided by Barclays, but it falls short of defeating the key point 
+conveyed in my preliminary view  which, in simple terms, was that the order had not gone 
+past the point of no return when Mr H called at 9.27am on 25 September, so it should have 
+been cancelled. 
+My first observation is that Barclays response presents an account of events that is 
+somewhat different from what has previously been said. 
+As stated in my preliminary view, Barclays investigation report said that when this call 
+happened at 9.27am the trade order was still pending  yet its response to my view says 
+the order was executed two minutes earlier at 9.25am; Barclays complaint response letter to 
+Mr H said that at the time of the call it had  partially completed the trade at the market  
+[my emphasis]  this too appears to conflict with its present assertion that the entire trade 
+was executed, before the call, at 9.25am; its investigation report said during the three hours 
+it took to work the trade order in the market  the dealer was arranging prices with 
+counterparties to  get the amount of shares to complete the trade and  see if [the dealer] 
+can arrange a better final price [my emphasis]  but it now says the order was worked with 
+only one counterparty and that it was the counterparty, not the dealer, that sought to procure 
+the number of shares needed to fill the order and sought to improve the price for Mr H.
+On balance, I consider that an element of doubt can be applied to Barclays present account 
+of events and I am not persuaded to accept it over what has previously been said.
+The notion of a trade executed at 9.25am does not match the reality of a trade that 
+subsequently had to be worked in the market for around three hours and was eventually 
+executed around 12.30pm. Whatever the arrangements were during these three hours, the 
+focal point must be on the state of affairs as of 9.27am  when Mr H was directly engaged in 
+the call with Barclays and wanted the order cancelled. Whether the order was worked with one counterparty or more than one counterparty, the fact 
+is that it had to be worked in the market for around three hours after 9.27am. Another fact 
+that has been conceded within Barclays statements is that, at 9.27am, it had essentially just 
+begun to search for the total number of shares required to fill the order. I have not seen 
+evidence of any commitment to an executed trade, to match the order, at 9.27am and, 
+despite the invitation within my preliminary view, I have not seen evidence of any partial 
+execution of the order by this time.
+Overall, on balance, for the above reasons, and for the reasons given in my preliminary 
+view, I remain persuaded that Mr Hs entire order could have been cancelled at 9.27am on 
+25 September 2019 and should have been cancelled at that time.
+Putting things right
+I agree with the investigators finding that the £500 offered by Barclays to Mr H is a 
+reasonable amount to cater for the trouble and upset caused to him. If this payment has not 
+already been made, I order Barclays to now make it to him.
+I am also mindful of the net compensation amount of £4,056.89 that Barclays has already 
+offered Mr H. This appears to have already been paid to him. If so, this amount should be 
+deducted from the compensation ordered below; but if it has not already been paid then no 
+such deduction should be made.
+Fair compensation to Mr H is to return him to the position he would be in had the trade order 
+been cancelled. I appreciate that he might or might not have proceeded with the same or 
+similar trade thereafter, but because the trade was not cancelled, we will never know what 
+would have happened (and what the circumstances of any such alternative trade would have 
+been) in this respect. As such, it would not be fair or reasonable to deprive him of 
+compensation in the face of such uncertainties.
+To compensate Mr H fairly, Barclays must:
+Calculate the exact total amount Mr H paid for the holding that was bought through 
+the trade on 25 September 2019. [a]
+Calculate the exact total amount Mr H received when he sold the holding on 27 
+September 2019. [b]
+If a is greater than b, pay Mr H the full difference as compensation. [c]
+Pay interest on c at the rate of 8% simple per year from 27 September 2019 to the 
+date of settlement. [Income tax may be payable on any interest awarded.]
+Provide Mr H with a calculation of this compensation in a clear and simple format.
+My final decision
+For the reasons given above, I uphold Mr Hs complaint and I order Barclays Bank UK PLC 
+to pay him compensation (alongside a clear and simple calculation of the compensation) as 
+set out above. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr H to accept or 
+reject my decision before 23 October 2020.
+ 
+Roy Kuku
+Ombudsman

@@ -1,0 +1,91 @@
+DRN-3504966
+The complaint
+Mr C complains that Barclays Bank UK PLC failed to refund a transaction he didnt 
+recognise.
+What happened
+Mr C explained that he received notification from Barclays of a suspicious transaction on his 
+account. When he contacted Barclays, he found that a payment had been made to another 
+account in a name he didnt recognise. Mr C explained that at the time of the payment, he 
+had his phone and debit card in his possession, and he hadnt given them to anyone else to 
+use. 
+Mr C requested a refund from Barclays who investigated the transaction. After theyd looked 
+into it, they declined to refund Mr C because they believed he was responsible. Mr C 
+complained about the lack of refund, but Barclays didnt change their position and declined 
+Mr Cs complaint.
+Mr C remained unhappy with how his complaint had been handled and brought it to the 
+Financial Ombudsman Service for an independent review. Mr Cs complaint was looked into 
+by one of our investigators who asked both parties for information about what had 
+happened. Mr C explained he hadnt used his phone or his Barclays Mobile Banking (BMB) 
+app on the day of the disputed transaction.
+Barclays provided information concerning the use of Mr Cs BMB and how the payment was 
+arranged. Barclays confirmed that the payment had initially been flagged as suspicious but 
+later released. It was confirmed that Mr Cs debit card details were needed to confirm the 
+payment because it was to a new payee. 
+Our investigator thought Mr C was likely responsible for making the transaction and didnt 
+uphold the complaint. Mr C disagreed and thought hed been the victim of a hack after 
+changing his phone around the time of the disputed transaction and providing his bank 
+details to a mobile phone provider.
+Mr C asked for a further review of his complaint which has now been passed to me for a 
+decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+The relevant law surrounding authorisations are the Payment Service Regulations 2017. The 
+basic position is that Barclays can hold Mr C liable for the disputed payments if the evidence 
+suggests that its more likely than not that he made them or authorised them. 
+Barclays can only refuse to refund unauthorised payments if it can prove Mr C authorised 
+the transaction, but Barclays cannot say that the use of  Barclays internet banking app 
+(BMB) conclusively proves that the payment was authorised. 
+Unless Barclays can show that consent has been given, it has no authority to make the 
+payment or to debit Mr Cs account and any such transaction must be regarded as 
+unauthorised. To start with, Ive seen the banks technical evidence for the disputed 
+transaction. It shows that the transaction was authenticated using the payment tools issued 
+to Mr C. Ill now need to consider the information provided by both parties to determine 
+whether theres sufficient evidence to hold Mr C responsible for the disputed transaction or 
+not. 
+Mr C believes he was the victim of a hack. Barclays believe Mr C was responsible due to 
+the evidence of the use of his BMB and how the payment was confirmed with details from Mr 
+Cs debit card. Where there is a dispute about what happened, and the evidence is 
+incomplete or contradictory, I must reach my decision on the balance of probabilities  in 
+other words, on what I consider is most likely to have happened in light of the available 
+evidence.
+Barclays information includes details of the device used to access Mr Cs BMB, which in this 
+case is a phone registered by Mr C and used regularly or without issue prior to the disputed 
+transaction appearing on the account. What that means here is that Mr Cs registered phone 
+was used to set up the new payee, from a consistent IP address and used Mr Cs security 
+details to access the BMB and details from the debit card to confirm the payment.
+Note: IP addresses are a means to identify physical locations that online transactions are
+connected to and can be the actual physical location or other locations connected to the
+provider of the data services.
+I appreciate that Mr C believes the IP address data had been manipulated to make it look 
+like it was his consistent location, but theres no evidence to suggest that happened here.
+Mr C told our service that he changed his phone because his original one may have been 
+hacked. Ive looked at the activity of Mr Cs device and can see that it was used to 
+repeatedly logon to his BMB prior to the disputed transaction taking place. The disputed 
+transaction then took place shortly after the last recorded login. The IP address was also 
+consistent throughout the logon activity, including other undisputed payments made from the 
+account using the same IP address with Mr Cs registered device and phone number.
+Barclays confirmed that Mr Cs debit card details were also needed to confirm the payment, 
+and once these were provided they released it. As Mr C remained in possession of both his 
+phone and debit card, I dont think its plausible that someone else was able to gain access 
+to his phone at the same location normally used by Mr C, obtain the security passcode to his 
+BMB and know the details required from his debit card without Mr C being aware. 
+Mr C believes that because Barclays initially identified a possible problem with the payment, 
+theyre responsible because they later released it. Barclays do have a role to play in 
+protecting customers funds and preventing them from being scammed. But here, once they 
+were satisfied that the payment was legitimate, they released it. Barclays have told our 
+service that once they received the details from the debit card, they were able to proceed 
+with the payment. Whilst I understand Mr Cs point, the issue for me to consider is were 
+Barclays entitled to process the payment based on the instructions they received from Mr C. 
+Essentially  does the evidence point to Mr C authorising the payment? 
+While Im sure Mr C will disagree with me, the evidence that Ive considered leads me to the 
+objective conclusion that, on the balance of probabilities, it was more likely than not that Mr 
+C authorised the transaction. So, taking everything into account, I think it is fair and 
+reasonable for Barclays to hold Mr C responsible for this transaction.  
+My final decision
+My final decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr C to accept or 
+reject my decision before 12 August 2022.
+ 
+David Perry
+Ombudsman

@@ -1,0 +1,141 @@
+DRN-3709243
+The complaint
+Mr W complains Santander UK Plc failed to refund three payments he says he didnt make, 
+and they havent provided enough information to help him investigate how this happened.
+What happened
+Mr W is represented by his father in bringing this complaint.
+Mr W says he didnt make three payments that debited his accounts across two days in 
+October 2021. Two payments were made via an account being set up in Mr Ws name with a 
+well-known payment service provider (although Mr W disputes setting the account up), and 
+one payment was sent directly from Mr Ws Santander savings account to the account of a 
+third party. Mr W says he does not know the payees and believes them to be associated with 
+a bar in a country he has no association with.
+Our investigator didnt uphold the complaint. They concluded:
+The other payment service providers account was set up using the correct details for 
+Mr W, including the same email address Santander had recorded for him, and        
+Mr Ws Santander card details were used.
+The payments in question were verified by one-time passcodes being sent to the 
+mobile number that had been registered to his Santander account for some time. 
+There wasnt a persuasive explanation as to how the passcodes could have been 
+intercepted. The investigator later clarified that one-time passcodes werent sent, but 
+push notifications were, and the two relevant payments were approved on Mr Ws 
+online banking account. 
+The IP addresses logged when the payments were made to the payment service 
+provider matched IP addresses logged numerous times in the past on his account. 
+This suggested the payments were made within the same vicinity where Mr W had 
+previously accessed his account.
+Someone logged on to Mr Ws banking application numerous times the day one of 
+the payments was made. For someone other than Mr W to have accessed his online 
+account that person would have needed either his security passcode, biometric 
+fingerprint or have passed facial recognition. There wasnt a persuasive explanation 
+as to how someone else could have passed these security measures.
+Under the Payment Services Regulations 2017 (PSRs), Mr W likely consented to the 
+payments. Consent here meant formal consent in the sense that Mr W likely made 
+the payments according to the agreed form and procedure to make each payment. It 
+did not mean informed consent, a concept which isnt applicable to the PSRs. 
+Mr W via his father rejected the outcome reached by our investigator and his complaint has 
+been given to me to make a final decision in my capacity as an ombudsman. 
+Mr Ws father made a number of points which I have considered in full. But I am only 
+referring to the points I find relevant in order to reach a decision. In summary, he said:
+We should interpret consent in terms of its normal meaning and not the narrow 
+interpretation under the PSRs. He referred to a final decision by another ombudsman 
+on a different complaint.
+Mr W did not consent to the payments, and there is insufficient evidence to conclude 
+that he did. The starting point should be he didnt authorise the payments, and 
+evidence needs to be produced to show on the balance of probabilities that he did, 
+including his motive.
+Potential security flaws cannot be ruled out, so its possible banking application 
+transmissions could have been intercepted or diverted.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Ive decided not to uphold Mr Ws complaint. Ill explain why.
+Mr W and his father are unhappy Action Fraud have not investigated this matter to their 
+satisfaction. But my role is not to provide information or investigate their concerns for 
+purposes outside of determining whether Santander should refund Mr W the payments he 
+disputes making or whether they should otherwise compensate him.
+Mr W referred to another ombudsmans decision. But my role is not to review or account for 
+the conclusions of another ombudsman for a different complaint. Instead, I must determine      
+Mr Ws complaint based on its individual circumstances to reach a decision I find is fair and 
+reasonable.
+The PSRs are very relevant to determining Santanders liability to Mr W. And, I am applying 
+consent here as its meant to be interpreted under the PSRs. The PSRs govern a payment 
+service providers liability to a payment service user in relation to payments the user says 
+they didnt make. Santander are not liable for every misfortune that might befall a customer 
+in terms of their account where there is no proper basis to hold them responsible. And, I find 
+it would be unreasonable to disregard the meaning of consent as it applies to the PSRs in 
+the circumstances of this complaint.
+However, I dont find the matter of informed consent relevant here, as Mr W hasnt said he 
+allowed someone access to his account but didnt agree to the payments in question or that 
+he was scammed into making them. Instead he says he didnt make them, and he didnt 
+allow anyone access his account. So, I need to decide whether I agree.
+After considering all the information and evidence available to me, I find Mr W most likely 
+made the payments or he allowed someone else to. I say this because:
+Two push notifications were sent to the mobile device registered with Mr Ws 
+account. The notifications revealed that each payment needed to be authorised 
+through Santanders online banking. When Santander first answered Mr Ws 
+complaint they mixed up the last four digits of Mr Ws mobile phone number and 
+incorrectly referred to the push notifications as one-time passcodes. This was an 
+error for which Santander compensated Mr W, but its clear that Santanders records 
+show push notifications were sent to the correct mobile device, and the payments 
+were approved by someone accessing Mr Ws online bank account.
+The savings account payment was also made by someone accessing the banking 
+application to set up a new payee and make the payment. So again, Mr Ws mobile 
+phone security measures needed to be passed, and his banking application security 
+would have also needed to be passed to access the account.
+I have seen no evidence to show that a SIM swap occurred, or anything else which 
+could reasonably show how anything other than Mr Ws mobile device was used to 
+access his account. But even if a SIM swap had occurred, this wouldnt explain how the unique identification number associated with Mr Ws mobile was still recorded for 
+each payment. Neither have I seen any evidence to show that banking application 
+transmissions were compromised or intercepted. So, I cannot fairly conclude an 
+unidentified security flaw most likely explains what happened, simply because Mr W 
+says he didnt make the payments and he doesnt know the recipients of the 
+payments.
+No other payments were made around the time of the disputed payments even 
+though a substantive balance remained on Mr Ws accounts. And, although not 
+always the case, its fair to say a fraudster will often attempt to make off with as much 
+money as possible on obtaining access to an account. I find it telling that the 
+remainder of Mr Ws funds were not dissipated further if a fraudster had accessed his 
+account on at least two occasions over two days.
+I also would have reasonably expected Mr W to have noticed the not insignificant 
+reduction to his account balances earlier than he says he did. Instead it appears it 
+was Mr Ws father who noticed the payments on reviewing his sons accounts almost 
+one month later.
+During a phone call Mr W had with Santander about the payment from his savings 
+account he said I dont know anyone called that in relation to the payees name, 
+and he then said that might have been a friend thing, Im not sure. He also wasnt 
+interested in Santander going to the recipients bank to see what they said, which I 
+find unusual. Despite being disappointed at Santander not refunding the other 
+payments, Santander were clear this was a different type of payment and the 
+recipients bank could have relevant information. I must consider the possibility that 
+Mr W may not have wanted Santander to contact the recipients bank for other 
+reasons that would not support his position that the payment was unauthorised.
+Mr W says its possible his drinks were spiked the day before the first payments were 
+made, so his card details and information might have been obtained this way. Im 
+sorry to hear if Mr Ws drinks were spiked, but this doesnt very well explain how his 
+banking application security was passed using his mobile device the following 
+afternoon or the day after that. 
+Mr Ws father says his card and mobile might have been obtained temporarily without 
+his knowledge when he stayed at shared university accommodation or attended the 
+gym. This is possible but given the amount of information someone would have 
+needed to pass through Mr Ws mobile phone security and banking application 
+security, I find this scenario too speculative and unlikely to explain what happened.
+Cumulatively, Im satisfied that the available information and evidence casts sufficient doubt 
+on Mr Ws assertion that he didnt make the payments or that he didnt allow someone else 
+to make them. I find its more likely than not that he did provide consent.
+There may be a variety of reasons why Mr W might have made the payments or allowed 
+someone else to make them, which wouldnt have required Mr W to know the payees. For 
+instance, it could be he was asked to help someone he knew who needed to make 
+payments, or the payments were made for a reason which he hasnt revealed, and he now 
+regrets making them. But I dont find Santander need to speculate as to his motives. Instead, 
+I find there was sufficient evidence for them to decline Mr Ws fraud claim, and I dont require 
+them to refund the payments or do anything more than they have.Mr Ws father said the payments were out of character for his son and ought to have been 
+picked up on by Santander. But as I find Mr W most likely consented to the payments, this is 
+not a reason to direct Santander to refund them.
+My final decision
+I have decided not to uphold Mr Ws complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr W to accept or 
+reject my decision before 4 January 2023.
+ 
+Liam King
+Ombudsman

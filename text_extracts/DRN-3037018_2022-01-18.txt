@@ -1,0 +1,122 @@
+DRN-3037018
+The complaint
+Mr G as the director of O complains that New Wave Capital Limited (New Wave) failed to 
+refund two transactions made from his account that he didnt recognise.
+What happened
+Mr G had an evening out abroad between 2 and 3 February 2020. He went to various 
+hospitality venues and ended the evening at a bar Ill call R. When Mr G checked his 
+transactions, he noted two payments for £468.55 that he didnt recognise. The merchant was 
+shown as R, but the letters SL appeared after R. The table below shows the transactions 
+that were made that evening with the disputed transactions highlighted:
+Date Time Location Method Amount 
+02/02/20 20.59 1 Chip and PIN 2£22.75
+02/02/20 21.18 2 Chip and PIN £52.70
+02/02/20 21.35 3 Chip and PIN £102.23
+02/02/20 22.00 3 Chip and PIN £298.17
+02/02/20 22.54 3 Chip and PIN £340.76
+02/02/20 23.25 2 Chip and PIN £340.76
+03/02/20 00.03 2 Chip and PIN £340.76
+03/02/20 00.32 2 Chip and PIN £340.76
+03/02/20 01.33 3 Contactless £20.45
+03/02/20 01:51 R Contactless £210.78
+03/02/20 03:12 R Chip and PIN £327.13
+03/02/20 03:24 R Chip and PIN £281.13
+03/02/20 03:55 R Chip and PIN £299.87
+03/02/20 04:07 R SL Chip and PIN £468.55
+03/02/20 04:36 R Chip and PIN £301.40
+03/02/20 04:45 R SL Chip and PIN £468.55
+Mr G contacted New Wave on 4 February 2020 to say that he didnt recognise the merchant 
+or the two payments and asked if the payments were authorised by chip and PIN. New 
+Wave confirmed they were, and suggested Mr G go back to the merchant. Mr G later 
+contacted New Wave and said he recognised R but not R with SL after the name and 
+confirmed he didnt make the disputed payments. He has suggested that his card was 
+cloned or that staff at R saw him enter his PIN and used his card and PIN when they took it 
+out of his sight to make genuine payments. 
+New Wave completed an investigation but did not accept the transactions were made 
+fraudulently. It said the transactions were authorised using Mr Gs unique pin. 
+The investigator who considered the complaint didnt recommend that it be upheld. In 
+summary, she was persuaded that Mr G authorised and consented to the payments. She felt 
+R and R SL were the same establishment. The investigator noted that Mr G only handed his 
+card to staff when he was making a payment but that there was a time difference between a 
+genuine payment and a disputed one of twelve minutes for the first payment and nine for the 
+second. The investigator also noted that the second disputed transaction was the last time 
+Mr G used his card that night/morning, indicating he would have waited for it to be returned 
+to him before he left the venue. Overall, the investigator was satisfied Mr G intended to make 
+the two transactions. 
+Mr G, on behalf of O, didnt agree with the investigator. He said the disputed payments dont 
+fit his pattern of spending that night. In particular, the disputed payments were of greater 
+value, to a different merchant (R SL rather than R) and that the time between the previous 
+payment and the disputed payments was shorter than between genuine transactions. He 
+explained that he always protects his PIN and has used a credit card for 25 years without 
+experiencing this type of crime. Mr G said he didnt know how staff had been able to use his 
+PIN but suggested the terminals could have been swapped or a fake keypad used to steal 
+his PIN (as he had read an online article that explained this could happen). 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+And where there is a dispute about what happened, and the evidence is incomplete or
+contradictory, I must reach my decision on the balance of probabilities  in other words, on
+what I consider is most likely to have happened in light of the available evidence.
+The relevant law surrounding authorisations are the Payment Service Regulations 2017. The
+basic position is that New Wave can hold O liable for the disputed payments if the evidence
+suggests that its more likely than not that Mr G, on behalf of O, made or authorised them.
+Authorisation is made up of two parts, authentication and consent. Authentication is usually 
+referred to as the technical evidence and in this case, New Wave has supplied evidence that 
+shows the genuine card and PIN were used to make the transactions. So, Im satisfied that 
+the evidence shows the disputed transactions were authenticated.
+Consent refers to the way in which New Wave and Mr G agreed to use the card for 
+transactions. For example, when using the card and PIN together, New Wave agree to 
+accept that this is a legitimate payment instruction made by the cardholder or another 
+approved user and make the payment on their behalf. The transactions in this case used the 
+genuine card and the correct PIN, so Im satisfied that consent was given, and the disputed 
+transactions were authorised. 
+Having looked at all the evidence and considered Mr Gs explanation carefully Im not
+persuaded by what Mr G has said. And on balance Ive ruled out that a third-party fraudster
+was responsible. Im satisfied that Mr G consented to the transactions he is disputing. So, I 
+dont think it would be fair or reasonable to say New Wave needs to refund him. I say this for 
+the following reasons:
+-The technical evidence shows that the disputed payments were made using the card 
+and PIN Mr G held for Os account. The PIN number is unique to Mr G and wouldnt 
+have been known to third parties. Mr G has explained to this service he protects his 
+PIN carefully and never shares it so on balance Im not persuaded staff noted Mr Gs 
+PIN when he made genuine transactions. 
+-Mr G confirms he was in possession of his bank card all evening, except for when 
+staff took it out of his sight when he made genuine payments. But twelve minutes 
+elapsed between an undisputed payment to R and the first disputed payment to R SL and nine minutes for the second. Im not persuaded Mr Gs card would have been out 
+of his possession for so long without him noticing or questioning why it hadnt been 
+returned to him.  
+-Mr G has sought to differentiate the disputed transactions by saying the period 
+between a genuine transaction and the two disputed transactions was much less 
+than between any other transaction that night, the disputed transactions were for 
+greater sums and the merchant name was different. But I note that a period of twelve 
+minutes also elapsed between two genuine payments to R and that although the 
+disputed transactions were a bit higher than other transactions they were for similar 
+amounts. Mr G made four consecutive payments of £340.76 that he doesnt dispute 
+on the same evening. So, I dont find two payments of £468.55 to be out of character 
+with Mr Gs genuine spending that evening. And whilst Im uncertain why the 
+merchant appears as R SL for the disputed transactions, I consider it more likely than 
+not that all the transactions to R and to R SL were made at the same venue.  But 
+regardless, as I cant see how a third party got access to Mr Gs PIN, Im persuaded 
+that its more likely Mr G authorised the payments.
+-Mr G has raised a point about his card potentially being cloned, and the cloned card 
+used for the disputed transactions. But cloning involves the copying of the 
+information on the magnetic strip on the back of the card to a new card. In this case, 
+the evidence shows that the chip in Mr Gs card was read, which means Mr Gs 
+genuine card was used. So Im not persuaded that Mr Gs card was cloned.
+-Mr G has referred to an online article which explains how fraudsters can use a fake 
+keypad that allows them to steal a cardholders PIN and use this information together 
+with a stolen card to make purchases in the cardholders name. Ive seen nothing to 
+suggest that this is what happened here. Im also mindful of the fact that only two 
+transactions are disputed, and fraudsters would likely try to spend as much as 
+possible. 
+The evidence that Ive considered leads me to the conclusion that, on the balance of 
+probabilities, it was more likely than not that Mr G on behalf of O authorised or allowed his 
+card details to be used to make the payments. So, taking everything into account, I think its 
+fair and reasonable for New Wave to hold O responsible for these transactions.
+My final decision
+For the reasons I have explained I do not uphold this complaint. 
+Under the rules of the Financial Ombudsman Service, Im required to ask O and O to accept 
+or reject my decision before 15 February 2022.
+ 
+Jay Hadfield
+Ombudsman

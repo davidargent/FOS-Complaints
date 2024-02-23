@@ -1,0 +1,191 @@
+DRN-3408624
+The complaint
+Mr R is unhappy because Goldman Sachs International Bank (trading as Marcus) has 
+changed the way they allow him to generate one-time passcodes (OTPs) and has 
+threatened to close his online savings account because he doesnt have a mobile phone.
+What happened
+The circumstances that led to this complaint are well known to both parties, so I wont repeat 
+them in detail here. But, in summary.
+In late-2018 Mr R wanted to open an online savings account with Goldman Sachs. He 
+initially complained that he was asked to provide a mobile phone number as part of the 
+application process. But, in the end, he provided a number which enabled him to open 
+the account.
+A couple of weeks after opening the account, Mr R asked Goldman Sachs to remove the 
+mobile phone number from his records. They refused, but Mr R was able to manage his 
+account without the use of a mobile phone until early-December 2019. 
+In early-December 2019 Mr R contacted Goldman Sachs because hed been unable to 
+complete the authentication process in the way hed done in previous months  by 
+requesting a one-time passcode (OTP) be sent to his email address. This was because 
+Goldman Sachs had removed this facility, which meant OTPs could only be sent to the 
+mobile phone number registered to the account or by calling the contact centre, passing 
+security and requesting the OTP be sent by email.
+After Mr R told Goldman Sachs that he no longer had access to the mobile phone 
+number that was registered to his account, they gave him two months notice to close his 
+account. The closure was avoided after Mr R provided a new mobile phone number, but 
+hes subsequently said this is his friends number and he does not have access to it.
+Mr R thinks Goldman Sachs are acting unfairly and contrary to the guidance/best practice 
+thats been given about how businesses should implement Strong Customer Authentication 
+(SCA) in order to guard against digital exclusion.
+I issued a provisional decision earlier this month, setting out why I didnt think Goldman 
+Sachs had acted unfairly or unreasonably in changing its authorisation processes or seeking 
+to close Mr Rs account unless he provides them with a mobile phone number to which he 
+has permanent access and which he will use in the future to undertake the majority of his 
+transactions. I have reproduced my provisional findings here:
+Ive had regard to Mr Rs comments and the SCA guidance (along with any related rules, 
+regulations and best practice) when making my decision but I must also take into 
+account what I believe, overall, to be fair and reasonable. I, ultimately, agree with 
+Goldman Sachs assertion that SCA provisions do not apply to Mr Rs account. The 
+underlying regulations say SCA must be applied in certain circumstances and I dont 
+currently think any of those apply to the relationship Mr R has with Goldman Sachs in 
+relation to his online savings account. 
+The account terms and conditions do not say specifically that Mr R must provide at the 
+outset, and continue to hold on his account, a mobile phone number. But nor do those 
+terms and conditions set out all of the other account eligibility criteria. The account 
+requirements do, however, appear to have been set out on Goldman Sachs website. 
+These include being aged 18 or over and a UK resident as well as the need to provide 
+details of a UK current account held in the customers name and their own email address 
+and mobile phone number. Im not currently persuaded Goldman Sachs insistence that 
+Mr R provide his own mobile phone number goes against the terms and conditions of the 
+account. Its also clear Mr R understood the need to provide a mobile phone number in 
+order to open and operate the account as he specifically complained about this before 
+opening his account. He then provided a friends number in order to be able to proceed 
+with the account opening and benefit from the favourable rate of interest Goldman Sachs 
+was offering. 
+Mr R managed his account without incident for 12 months, circumventing the need to 
+use the registered mobile phone number, because he was able to request OTPs be sent 
+to his email account. Goldman Sachs removed that facility in November 2019 and I dont 
+think it was unreasonable for them to have done so. The motivation for making this 
+change was not SCA-related but, it seems, stemmed from a desire to better protect 
+customers. This seems to have been prompted, at least in part, by Goldman Sachs 
+gaining a better understanding or awareness of how fraud was being perpetrated and a 
+belief that email accounts could be more easily compromised and/or intercepted than 
+mobile phone contact. Speed of contact also seems a primary concern when it comes to 
+notifying customers about important account activity, such as withdrawals or updates to 
+personal information. Some notifications are sent by both email and text message. But, 
+without a mobile phone number as a means of contact, I can see that there may be 
+delays in Mr R receiving essential security notifications relating to his account. Im 
+currently satisfied Goldman Sachs has provided valid reasons for wanting to be able to 
+contact Mr R by mobile phone. And his refusal to communicate via this medium 
+legitimately impacts their ability to protect Mr Rs account in the way they feel is 
+appropriate. 
+I appreciate Mr R has been able to manage his account without using a mobile phone 
+since the authentication changes were made in November 2019. When necesary, he 
+calls the contact centre and the OTP is emailed once hes passed a number of security 
+checks. But I dont think this means Goldman Sachs has to continue to offer this facility 
+as a permanent workaround for Mr R simply because he chooses not to have a mobile 
+phone. Its apparent this alternative authentication process has been put in place to help, 
+occasionally, if a customer is unable to obtain an OTP via their mobile phone (for 
+example, if they dont have mobile phone reception at a particular point in time). And its 
+not intended to be a permanent solution, not least because the contact centre is only 
+open from 8am to 8pm, Monday to Friday. 
+The account terms and conditions entitle Goldman Sachs to end its relationship with 
+Mr R immediately in some circumstances or, otherwise, after giving two months notice. 
+There are some circumstances where I might consider it unreasonable for a bank to 
+close a customers account, even after giving notice. That might include if doing so would 
+effectively leave the consumer unbanked  unable to get another account with another 
+provider. But that would only usually apply to current accounts. Mr Rs account with 
+Goldman Sachs is a savings account. And the only detriment I can really see in this case 
+is that if Goldman Sachs closes this account, Mr R may be unable to find another comparable account that offers a similarly favourable rate of interest. And I dont think 
+the loss of such, in and of itself, would be enough for me to conclude that the account 
+had been closed unfairly.
+Mr R didnt accept my provisional findings and said, in summary, that:
+PERG 15.3 from the FCAs handbook says a flexible savings account  where there are 
+no restrictions on the ability to make withdrawals  can be considered a payment 
+account. But even if his account isnt a payment account as defined within the 
+Payment Service Regulations 2017 (the PSRs), Goldman Sachs are a bank and a 
+payment services provider. The services it provides include the transfer of funds. So 
+while its arguable whether or not the PSRs and rules/guidance relating to SCA apply to 
+his own account, the spirit and intention of the guidance is to stop customers being 
+excluded from basic financial services products simple because they dont have access 
+to a mobile phone. Goldman Sachs are using SCA and, accordingly, the SCA guidance 
+and best practice should be taken into account when deciding whether Goldman Sachs 
+has treated him fairly.
+The website screens he saw when he opened the account do not form part of his 
+contract with Goldman Sachs. The account terms and conditions did not, and do not, say 
+that not having a mobile phone is a reason to close the account. One of Goldman Sachs 
+employees told him, towards the end of 2019, that he could supply a friend or family 
+members mobile phone number in order to keep the account open. By doing so he could 
+then continue to keep the account and request OTPs via a phone call.
+He did understand, when he opened the account, that he needed to provide a mobile 
+phone number. But he didnt understand  because it wasnt explained  one was also 
+needed to operate the account. And this wasnt the case for the first year that he held the 
+account. He doesnt own, and doesnt wish to own, a mobile phone and this decision 
+puts him in a minority group. It isnt fair to discriminate against any minority groups  
+regardless of whether the reason for the discrimination relates to a protected 
+characteristic  and the guidance published by the FCA suggests it agrees. 
+Goldman Sachs says they prefer to send time-critical communications to a mobile 
+phone, but there is always the possibility that a mobile phone will be turned off or have 
+no signal. Money from his savings account can only be withdrawn to a single, linked 
+account and the process to change that account is secure and takes several days. If 
+there was a concern about his accounts security, he would expect Goldman Sachs to 
+lock the account until it had been able to make contact, thereby minimising any risks 
+while awaiting his reply.
+He holds different types of accounts with a number of other providers and almost all of 
+them provide an alternative to using a mobile phone to receive OTPs. Goldman Sachs 
+are acting unfairly and contrary to the rest of the banking industry.
+I inferred that it would be fair for a bank to close anybodys account for almost any 
+reasons. This cannot be right.
+He has found some other ombudsman decisions on our website which mirror the 
+circumstances of his complaint and which were upheld.
+Goldman Sachs accepted my provisional findings and said, in summary, that:They are not a payment service provider (PSP), as defined in the PSRs, so they are not 
+required to comply with the SCA rules or the related FCA guidance. As such, the 
+changes made to their OTP process were not implemented in order to comply with SCA 
+rules or the related FCA guidance.
+They have decided to use mobile phones as a critical way to enhance their security 
+measures, in order to protect their customers accounts and funds. The change made to 
+the OTP process in 2019 were implemented to enhance security following the insight 
+and awareness theyd gained, in the initial 18 months after the account was launched, 
+about how fraud was being perpetrated.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+I would first like to say I appreciate Mr R has found it frustrating that my provisional decision 
+differed from the answers he was previously given by my colleagues. I also note hes found, 
+on our database, other ombudsmens decisions about cases with circumstances which, he 
+thinks, closely mirror his own. My role was to review this case afresh and reach my own 
+decision, having considered everything that he and Goldman Sachs had said and provided. 
+Each case must be decided on its own merits and what may appear (on the face of it) to be 
+a similar set of circumstances, often transpires not to be the case.
+I wont repeat my provisional findings which, I believe, already address some of the points 
+Mr R made in response to my provisional decision. But, for the avoidance of doubt, I would 
+say that I dont consider Mr Rs account with Goldman Sachs to be a payment account. I 
+note what he says about the various rules and guidance, including his references to PERG. 
+But PERG also says, amongst other things, that The possibility of making payment 
+transactions to a third party from an account or of benefitting from such transactions carried 
+out by a third party is one of the defining features of the concept of payment account. With 
+this in mind, the account in question is a savings account. The terms and conditions say 
+explicitly that its a savings account and also that its not suitable for everyday use such as 
+day-to-day spending or paying bills. There is no facility for Mr R to set up direct debits or 
+standing orders, make card payments, or withdraw cash from the account. Nor can he make 
+payments to, or receive payment from, a third party. In fact the only way he can pay money 
+into, or withdraw money from, the account is via a linked account held in his name. And so 
+while his account has some flexibility, in that the money is not tied in for a fixed period, I do 
+think there are some restrictions on his ability to make withdrawals. 
+In all the circumstances, I remain satisfied that Mr Rs account is not a payment account and 
+he is not a payment service user. Nor do I consider that the authentication processes he has 
+to go through to operate his account have been put in place by Goldman Sachs in order to 
+comply with SCA. Accordingly, despite what Mr R has said, I dont think the related rules and 
+guidance about SCA apply to his account.
+Having said this, I do acknowledge that the FCAs guidance about implementing SCA makes 
+clear PSPs should provide SCA solutions that work for all groups of consumer. This includes 
+authentication methods that dont rely on mobile phones, in order to cater for (and not 
+exclude) consumers who dont have (or dont want to use) a mobile phone. However, there 
+may be PSPs who make having a mobile phone part of the account opening eligibility 
+criteria. In such cases wed consider carefully the reasons why a consumer who had a 
+mobile phone at the point of application couldnt then use a mobile phone subsequently to 
+complete SCA. And we would likely only require a PSP to provide an alternative SCA option 
+where it would be unreasonable to expect the consumer to complete SCA using a mobile. So, even if Im wrong and SCA does apply to Mr Rs account, that still wouldnt mean I must 
+conclude that Goldman Sachs has treated him unfairly.
+In this particular case, as Ive previously said, I think Goldman Sachs likely made clear at the 
+point of account opening that a mobile phone was required to open and operate the account. 
+Given this, the nature of this account and for the reasons already set out in my provisional 
+decision, I remain satisfied that Goldman Sachs has not treated Mr R unfairly or 
+unreasonably by saying it will close his account unless he provides a mobile phone number 
+and uses it, most of the time, to operate his account. 
+My final decision
+My final decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr R to accept or 
+reject my decision before 28 April 2022.
+ 
+Ruth Hersey
+Ombudsman

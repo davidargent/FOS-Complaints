@@ -1,0 +1,127 @@
+DRN-2864739
+The complaint
+Miss K complains that HSBC UK Bank Plc excessively charged her when she made an
+international transfer and she had an error message after completing the transfer.
+What happened
+Miss K attempted to make an international transfer for £20,000 to a family member, using
+the HSBC application (app). When completing the payment details she left the screen to
+double check the details she entered were correct. Miss K said that she then proceeded with
+the payment as all of the details looked correct on the preview screen, but she forgot to
+check the currency the payment was made in.
+Miss K says that when she completed the transaction, she wasnt given a reference number
+and an error showed on her screen. Because of this, Miss K thought the transaction hadnt
+actually completed and went to make the payment again. As she received a prompt from the
+online app that she had already made a payment to the same recipient she didnt complete
+the payment again.
+The recipient of the payment told Miss K that they had only received £18,900. Miss K
+contacted HSBC for them to investigate why this was and had follow up calls with them but
+because she didnt get consistent responses from her follow up calls she raised a complaint
+with HSBC. She had told HSBC that the recipients bank was contacted and they said they
+didnt exchange the currency or charge for the transaction. She also said that the recipients
+account could have accepted different currency to GBP but then later confirmed that it could
+only accept GBP.
+HSBC did not uphold her complaint. HSBC said that after speaking to their Electronic
+Payments Team, Miss K had selected the payment to be made in Polish currency - Zloty
+(PLN) and as the beneficiary in Poland had a Great British Pounds (GBP) currency account,
+the payment was converted back to GBP and Miss K suffered a loss. They said that HSBC
+had made no error in processing the payment.
+Miss K brought her complaint to our service. Our investigator did not uphold her complaint.
+He said that he had not found any evidence of any HSBC error and that HSBCs systems
+automatically populates the currency to the currency in which the beneficiarys country uses.
+He said this seems to suggest this is how the online system functions, rather than there
+being a problem that makes this occur. Miss K asked for her complaint to be reviewed by an
+Ombudsman.
+As my findings differed in some respects from our investigators, I issued a provisional 
+decision to give both parties the opportunity to consider things further. This is set out below: 
+Ive considered all the available evidence and arguments to decide whats fair and
+reasonable in the circumstances of this complaint.
+When money is sent internationally this often creates a Society for Worldwide Interbank
+Financial Telecommunication (SWIFT) message which sends and receives information
+about financial transactions between financial institutions. Ive looked at the SWIFT message
+in great detail to try and work out what happened here.
+Im satisfied that the payment was instructed to be made in PLN. I say this as the SWIFT
+message shows this was the instruction. So Ive considered what could have happened here
+as Miss K is certain that she made the payment in GBP.
+Our investigator explained to Miss K that HSBCs systems automatically pre populate to
+show the currency of the country it is being sent to on the online payments form. So Im
+persuaded that one of two things has happened here. Either that the transaction had always
+been in PLN and Miss K had forgotten to change this to GBP. Or, when Miss K left the
+screen to check the details were correct then this reverted the payment back to PLN.
+But Ive considered both outcomes of what couldve happened here and they lead me to the
+same outcome. As HSBCs screens show a verification page summarising the payment
+details including the currency it is being made in before the payment is submitted then Miss
+K was responsible for checking that the details on the page were accurate before submitting
+the payment.
+Miss K said to our service on her complaint form that she didnt double check the currency
+the payment was being made in. But had she checked this then Im satisfied she wouldve
+seen that the currency was made in PLN based on the evidence of the SWIFT message. Ive
+seen no evidence from either party that details could change from the verification screen to
+the completion of the transaction. So I cant hold HSBC responsible for Miss K clicking to
+confirm all of the details were correct, even if she was under the impression the payment
+was sent in GBP.
+Although Miss K has said there was an error message on the app after the payment was
+made and this is why she didnt get a transaction reference, Im not persuaded that this
+means there was an error with the app for the payment itself as the SWIFT message shows
+the details which were instructed by Miss K when she confirmed the payment details.
+Ive then looked at the issue of the foreign exchange loss. This is not a fee in itself but if the
+exchange rate between PLN and GBP is different from when the payment is processed to
+when the payment was converted back to GBP then this would be passed onto the customer
+whether it was higher or lower.
+Im not persuaded that HSBC are responsible for the foreign exchange loss and Ill explain
+why. HSBC confirmed that they charged £4 for the online transaction and that they sent the
+money as instructed by PLN. And this is the only charge indicated on the SWIFT message
+by HSBC. Im persuaded that it wasnt HSBC who converted the money from PLN to GBP
+which caused the foreign exchange loss. There was no foreign exchange loss either from
+them acting on the instruction to convert the payment from GBP to PLN originally and its my
+understanding the exchange rate wouldve shown on the verification screen before the
+payment was confirmed. Im persuaded their role in the transaction is limited to sending the
+money Miss K instructed them to send in PLN.
+Miss K confirmed to HSBC in an email dated 27 November 2020 that the receiving bank
+could only accept payments in GBP. Again, Ive looked at the SWIFT message to see if this
+would give me an indication of what couldve happened here.
+The SWIFT message appears to show that a third party bank may have been involved in the
+transaction, along with HSBC and the recipients bank. This happens a lot with international
+payments when some financial institutions do not have the infrastructure or capability to
+directly accept international payments.So Im persuaded that one of two things have happened here, but they both result in the
+same outcome  either the third party bank have converted the PLN to GBP on the receiving
+banks behalf if they were involved in the transaction or the receiving bank have converted
+the PLN to GBP.
+So, what the bank could have done here is one of two things  either convert the PLN to
+GPB and pass on the loss to Miss K or return the money to Miss K as they couldnt accept
+the payment in PLN  this likely wouldve incurred a foreign exchange loss also and the
+recipient would not have received the remaining funds. But as the payment was sent in PLN
+and it needed to be converted to GBP to reach the recipients account, then whether it was
+HSBC, the third party bank or the recipients bank who passed on the foreign exchange loss,
+then Im satisfied it was a legitimate charge as it would be unfair for them to take on the
+liability for the difference in exchange rates when the instruction was submitted to send the
+payment in PLN.
+In summary, Im satisfied that Miss K confirmed the payment which was ultimately made for
+the reasons Ive already given. And as the payment was converted from PLN to GBP as the
+recipients bank account couldnt accept PLN then a foreign exchange loss was passed on to
+Miss K. I havent seen any evidence of a HSBC error on the transaction itself or the
+exchange rate loss, so although Miss K will be disappointed, it follows that I wont be asking
+HSBC to do anything further.
+I invited both parties to let me have any further submissions before I reached a final 
+decision. HSBC didnt respond. Miss K responded and said she was disappointed with my 
+provisional decision. She made several comments about the process of HSBC providing 
+information and she asked if I had requested a screen by screen transaction history from 
+HSBC. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+I can assure Miss K that I did request evidence in relation to the app activity from the day 
+when she made the transaction. This would have provided evidence such as what was input 
+on the screens and any errors that may have occurred. But HSBC have said they only have 
+access to the last five actions of any type - this information wouldnt have been relevant to 
+her complaint. So we do have the power to request information, but if HSBC dont have the 
+information weve requested available to them, then they wouldnt be able to send this to us.
+Miss Ks response hasnt changed my view and my final decision and reasoning remains the 
+same as in my provisional decision. I know Miss K will be disappointed with the decision, but 
+I hope she understands my reasons.
+My final decision
+I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Miss K to accept 
+or reject my decision before 7 July 2021.
+ 
+Gregory Sloanes
+Ombudsman

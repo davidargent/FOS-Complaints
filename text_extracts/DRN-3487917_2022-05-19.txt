@@ -1,0 +1,183 @@
+DRN-3487917
+The complaint
+Mr A complains that Monzo Bank Ltd failed to refund a transaction he didnt recognise.
+What happened
+Mr A transferred funds into his Monzo account for a purchase he was due to make. Within a 
+few minutes of receiving the funds, he saw a message from Monzo that a debit card 
+payment had been made to a merchant Ill refer to as C for an online transaction. Mr A didnt 
+recognise making this payment and transferred the remaining balance to a different account 
+in order to protect it from further fraud. 
+Mr A contacted Monzo about the disputed transaction and told them he hadnt authorised it. 
+Monzo asked Mr A about his card and personal identification number (PIN) and whether 
+anyone else knew them. Mr A confirmed that he still had his card in his possession and that 
+no one else had access to it or knew the PIN.
+Monzo told Mr A to contact C about the payment and raise it with them. Mr A was told by C 
+that it was Monzos responsibility to raise it and he was sent back to Monzo. 
+Monzo looked into the circumstances surrounding the payment and decided not to refund Mr 
+A. They believed hed authorised the payment and relied on the timing of the incoming 
+transfer that facilitated the disputed transaction to support their case. They also believed the 
+transfer of the remaining funds was suspicious. Monzos decision was made the same day it 
+was reported to them by Mr A. 
+Monzo decided not to raise a chargeback on Mr As behalf because they believed hed 
+authorised it. Mr A complained about how Monzo had handled the matter. Monzo again 
+looked into the situation and didnt change their opinion. Mr A remained unhappy with Monzo 
+and brought his complaint to the Financial Ombudsman for an independent review. When Mr 
+A first registered the complaint he gave two addresses, his current one and his previous 
+address where the Monzo account was registered to. 
+It was looked into by one of our investigators who thought it was reasonable for Monzo to 
+hold Mr A liable for the transaction because the evidence showed it was Mr A using his 
+mobile app when the payment was made from it, including reference to IP address data.
+ Note: IP addresses are a means to identify physical locations that online transactions are 
+connected to and can be the actual physical location or other locations connected to the 
+provider of the data services.
+Also, that the timing of the incoming payment and the outgoing disputed transaction was 
+suggestive that it was unlikely this information was known to anyone other than Mr A. Our 
+investigator also thought the movement of the remaining funds was linked to Mr A 
+authorising the transaction. They didnt uphold the complaint. 
+Mr A disagreed with the outcome and asked for a further review, re-iterating that he hadnt 
+authorised it and the transfer of the remaining funds was a reaction to a fraudulent payment 
+on his account to protect his funds. Mr A said his device wasnt used for the transaction. 
+Mr A believed the facts werent understood and the evidence supports his assertion that he 
+didnt authorise the transaction. Thats because it was an online transaction that didnt need 
+his physical card or his device, which he still had in his possession. 
+I issued a provisional decision outlining my initial thoughts which said: 
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint. 
+Monzo believed Mr A was responsible for authorising the payment. They came to this 
+conclusion within a few hours of receiving Mr As notification about the disputed transaction. 
+Essentially, Monzo thought that the incoming payment and the timing of the outgoing 
+payment were so close together, that it couldnt be anyone else who made it. 
+When Ive examined the circumstances of this complaint, its evident that the payment wasnt 
+made using Mr As mobile app on his phone, rather it was made using the card details from 
+his debit card. 
+What that means here is that any reference to IP address data (referred to in the 
+investigators outcome) from the use of Mr As device isnt relevant to whether he carried out 
+the transaction or not. Online transactions such as this one needed information from Mr As 
+debit card, together with whatever C required to complete the order. 
+So, Ive gone on to think about whether Monzo have provided sufficient proof that Mr A 
+authorised this payment. The relevant law surrounding authorisations are the Payment 
+Service Regulations 2017. The basic position is that Monzo can hold Mr A liable for the 
+disputed payment if the evidence suggests that its more likely than not that he made them 
+or authorised them. 
+Authorisation is made up of two parts. Authentication and consent. Authentication is usually 
+referred to as the technical evidence and in this case, Monzo have supplied evidence that 
+shows the payment used Mr As debit card details. Im satisfied the evidence shows the 
+disputed transaction was authenticated. 
+Consent refers to the way in which Monzo and Mr A agreed to operate the account to allow 
+Monzo to make payments on Mr As behalf. For example, Monzos terms and conditions set 
+out that if a payment is arranged through the use of the debit card details, then Monzo 
+accept that the instruction to make the payment is authorised by the account holder. So, 
+because Mr As debit card details were entered - Im satisfied that consent was given, and 
+the disputed transaction was authorised. But, there are exceptions where it wouldnt be 
+appropriate for Monzo to hold Mr A responsible, for example if his card details were used 
+without his permission. 
+The incoming payment and the outgoing card transaction took place within about five 
+minutes of each other, so I can see why Monzo thought this was suggestive that Mr A was 
+responsible for the transaction. Thats because it would be difficult to explain how someone
+knew the incoming payment would be available in his account, and the disputed payment 
+would have likely failed without the receipt of this payment because there werent enough 
+funds in the account prior to its receipt. 
+Monzo considered that the incoming transfer followed by an outgoing payment was how Mr 
+A normally operated his account. Together with the removal of the remaining funds to another account in his name, this was an indication that supported Monzos belief that Mr A 
+was responsible for the disputed transaction. 
+Mr A explained that he transferred funds in because he was going to purchase an item, so I 
+dont think this was in anyway unusual with how his account operated or the reason for the 
+incoming payment. Monzo have confirmed that Mr A would have received a payment 
+notification on his app when the debit card transaction was put through Cs payment system. 
+Mr A said it was this that alerted him to remove his remaining funds to protect them and I 
+think this is what Id expect someone to do in a similar situation. By doing this, he reduced 
+the risk of losing further funds. 
+Mr A doesnt know how anyone could have known about this but has consistently denied it 
+was him that made it. Online transactions such as this dont always require much in the way 
+of additional information to enable them to be made. The authentication data provided by 
+Monzo shows its an online payment made to C, using Mr As card details. Most of the other 
+information needed (by C) to process the transaction would have been collected by them. 
+Usually thats contact information and address data which is used, partly, to confirm the 
+payment details and arrange collection or delivery. 
+I dont know what details were collected by C because they wouldnt deal with Mr A and 
+Monzo didnt contact them about the transaction. Because the payment was made using Mr 
+As debit card, that meant it utilised the Mastercard network to facilitate the payment. 
+Payments made using their network are subject to certain rules and procedures. They have 
+a separate system to challenge payments called Chargebacks. 
+Chargebacks arent a right, so its not something that Mr A can require Monzo to do. 
+However, the Financial Ombudsman Service expects a bank to make a chargeback, where 
+there is a reasonable prospect of success. Mr A didnt specifically request that Monzo make 
+a chargeback on his behalf, nor do I think he needed to. Mastercards system and processes 
+are complex and I wouldnt necessarily expect Mr A to know about them. Monzo on the other 
+hand are in a position to understand the avenues available to them when dealing with a 
+transaction that Mr A disputed. That included making a chargeback request. 
+Monzo, in their response, explained that they didnt make a chargeback because they 
+believed Mr A had authorised the transaction. Its far from clear if Mr A authorised the 
+transaction himself as the details used were obtained from his debit card. I cant know how 
+these details were obtained, but theres nothing else apart from the timing of the payment 
+that indicates it was Mr A who made the payment. 
+Monzos decision not to undertake a chargeback denied them the opportunity to challenge 
+the payment on Mr As behalf and understand the other details collected by C. Mastercard 
+chargeback rules indicate that a card holder can challenge a payment because they didnt 
+authorise it, so I think it was possible for Monzo to make such a challenge to C. 
+Chargebacks have strict time limits and unfortunately theyve now expired, so this process is 
+no longer available to Monzo. 
+I cant know the outcome of any chargeback because I dont know how C would have 
+responded. But if Monzo had made one, they would have, at the very least, had more 
+information about the transaction. They could then have made a more informed decision
+about whether to refund Mr A or not. Because Monzo decided not to mount a chargeback on 
+behalf of Mr A when it was an avenue open to them, I think this has resulted in an unfair 
+outcome for him. 
+Im currently thinking of upholding this complaint and I intend to instruct Monzo to refund the disputed transaction to Mr A, add 8% simple interest from the date of the payment to the 
+date its repaid. I also intend to instruct Monzo to pay Mr A £75 for the way in which they 
+handled the situation and the inconvenience caused to him.
+I invited Mr A and Monzo to give me any more evidence and information they wanted me to 
+consider before issuing my final decision. Mr A accepted my provisional decision and Monzo 
+added: 
+ The claim and chargeback were declined because the circumstances were highly 
+suspect and theres no way that this payment couldnt have been made by anyone 
+else.
+ Monzo went on to say that we find the possibility that the customers card details 
+were compromised, used only once and used for an amount under the balance 
+shows that the customer is complicit.
+ Monzo repeated their assertion that the timings were supportive of their case and 
+there were no other uses of the card or other devices associated with the account. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Ive already addressed the use of the account by Mr A, and Monzo havent added anything 
+that would change my mind about the incoming payment and why Mr A deposited it into his 
+account. 
+I dont think Monzos assessment of the timings makes any allowance for the possibility that 
+Mr As card details were used by anyone else and as Ive already said, the evidence that it 
+was him is far from persuasive. 
+I understand Monzos assessment of the details including the lack of additional attempts on 
+the card or that no other devices were recorded using the account. But whilst these can be 
+related to attempts to avoid liability for transactions  Monzo dont appear to have given 
+much credence to Mr As attempts to find out the details of the transaction with C. 
+Would Mr A approach C to try and get details of the transaction if it was him? Surely hed 
+know that if Monzo approached C (as he was told they should do by C), they would obtain 
+details about the payment. If that was the case and it looked like it was Mr A who made the 
+payment, then wouldnt he realise hed be held liable for it? But, as Ive already mentioned, 
+Monzo decided not to pursue a chargeback. 
+Monzo believed that because the payment was less than the available balance, it was 
+indicative that it was Mr A who made it. I can see why Monzo thought that, but its equally 
+arguable that if it was Mr A  then why didnt he utilise more of the available funds in his 
+account? Also, its supportive of the position that whoever made the transaction knew 
+enough that funds were being transferred but not the actual amount. 
+I accept there are some indications that Mr A may have had some knowledge of the 
+payment, but the facts also support his stance that it wasnt him, including the movement of 
+his remaining funds from the Monzo account once he received the notification about the 
+unrecognised payment. I dont think Monzo have provided sufficient evidence to hold him 
+liable for the payments. Monzo also didnt mount any Chargeback request and I think this 
+has led to an unfair outcome for Mr A  particularly when he tried to obtain the details from C himself but was told that it was Monzos responsibility.
+Putting things right
+I see no reason to change the outcome set out in my provisional decision. It follows that I 
+uphold this complaint. As the disputed transaction was a distance contract and my decision 
+is that Mr A cant be held liable for it  Monzo are required to refund it.
+My final decision
+My final decision is that I uphold this complaint and instruct Monzo Bank Ltd to: 
+ refund the disputed transaction to Mr A, add 8% simple interest from the date of the 
+payment to the date its repaid. 
+ To pay Mr A £75 for the way in which Monzo handled the situation and the inconvenience 
+caused to him.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr A to accept or 
+reject my decision before 16 June 2022.
+ 
+David Perry
+Ombudsman

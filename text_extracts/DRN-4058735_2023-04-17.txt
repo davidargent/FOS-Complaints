@@ -1,0 +1,116 @@
+DRN-4058735
+The complaint
+Mr D complains that Monzo Bank Ltd failed to refund transactions he didnt recognise.
+What happened
+Mr D noticed that a number of transactions had been made from his Monzo account earlier 
+that morning that he didnt recognise. The payments were made using bank transfers, credit 
+payments from a linked flex account and card payments using Mr Ds payment card. 
+Further, an overdraft was applied for and granted which was used to fund some of those 
+disputed payments.
+Mr D said he had trouble accessing his phone and using the Monzo app, so had to change 
+his phone which could then be used to communicate with Monzo about the issue. He told 
+Monzo about the unrecognised payments and sought a refund, explaining to them that he 
+was the sole earner in his family and the loss of his funds, and the overdraft applied for in his 
+name were affecting his financial situation. 
+Monzo looked into what had happened, although this took some time (Monzo later offered 
+£50 to Mr D for this delay), but eventually declined to refund him. Monzo also advised that 
+some of the original disputed transactions using the card hadnt been collected by the firm 
+they were originally sent to, so theyd been credited back to the account.
+Mr D maintained that he wasnt responsible for the disputed transactions and complained to 
+Monzo and the Financial Ombudsman Service about the situation. Once Monzo completed 
+their investigation  they maintained their position and declined to make any refund to Mr D. 
+An investigator from our service was appointed to independently look into the complaint and 
+asked for evidence from both parties. Mr D repeated his position that he wasnt responsible 
+for the transactions and:
+he hadnt given his phone to anyone else.
+No one else knew the Personal Identification Number (PIN) for his card or account.
+No one else knew the login credentials for his Monzo account.
+Mr D found software on his phone that he believed could be responsible for the 
+takeover of his account.
+Mr D provided information about his phone and the payment for a technician to 
+clean it.
+Monzo provided details about the transactions and how they were made, including 
+information about the IP addresses used by Mr Ds authorised devices that accessed the 
+Monzo account. Statements were also provided of the various accounts held by Mr D with 
+them. Monzo had also thought that Mr D may have been scammed, but Mr D denied this 
+during their investigation, which was why they conducted their enquiries based on Mr D 
+denying hed authorised the payments.
+After considering the evidence, the investigator didnt think there was sufficient evidence to 
+uphold Mr Ds complaint and recommended that Monzo can hold Mr D liable for the debt 
+from his overdraft and the payments made from his account.
+Mr D disagreed with the investigators outcome and continued to argue that his phone had 
+been hacked and this was the reason for the disputed transactions. 
+The investigator acknowledged there were some factors that pointed to unusual activity on 
+Mr Ds phone, but there was no explanation for how the PIN (which wasnt stored anywhere 
+or written down) could have been obtained by an unauthorised third party to confirm one of 
+the large payments made using Mr Ds payment card.
+Mr D asked for a further review of his complaint which has now been passed to me for a 
+decision. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+The relevant law surrounding authorisations are the Payment Service Regulations 2017 and 
+the Consumer Credit Act 1974. The basic position is that Monzo can hold Mr D liable for the 
+disputed payments if the evidence suggests that its more likely than not that he made them 
+or authorised them. 
+Monzo can only refuse to refund unauthorised payments if it can prove Mr D authorised the 
+transactions, but Monzo cannot say that the use of the card and PIN or the use of online  
+payment details or internet banking conclusively proves that the payments were authorised. 
+Unless Monzo can show that consent has been given, it has no authority to make the 
+payment or to debit Mr Ds account and any such transaction must be regarded as 
+unauthorised. To start with, Ive seen the banks technical evidence for the disputed 
+transactions. It shows that the transactions were authenticated using the payment tools 
+issued to Mr D. Ill now need to consider the information provided by both parties to 
+determine whether theres sufficient evidence to hold Mr D responsible for the disputed 
+transactions or not.
+It's Mr Ds case that his phone was somehow hacked which led to the disputed 
+transactions. Monzo believe that Mr D himself was responsible for the payments made from 
+his account.
+Mr Ds evidence shows he took his phone to an independent IT expert who carried out a full 
+data removal under suspicion of the device being hacked. Its not possible to determine 
+what was on the device because it was removed on the day of the disputed transaction.
+Mr Ds evidence is that software was found on it that is often associated with fraud. That 
+software allowed another user to remotely access the phone if given permission by the user 
+of the phone. Mr D was asked whether hed ever given permission through this software, 
+and he confirmed he didnt know it was on his phone and hadnt authorised anyone to gain 
+access to it.
+Whilst theres evidence of Mr Ds phone being data cleaned, there isnt anything to say what 
+was on it or whether the software he was told about had anything to do with the disputed 
+transactions he later claimed from Monzo.Monzo provided details about the phone that was used to make all the disputed transactions. 
+This was the one registered by Mr D and had been used without incident for some time. That 
+phone accessed the Monzo account from an IP address that was in use both before during 
+and after the disputed transactions. IP addresses give information about the device and the 
+network it uses to access the services  such as Monzos app. Here the evidence shows that 
+Mr Ds phone was used to access the Monzo app from a consistent IP address, including all 
+the transactions Mr D later disputed.
+One of the disputed transactions was for a relatively large amount (over £1000) and this 
+required an extra security step in order to authorise the payment called 3DS. This required 
+the person who was making the payment to enter the PIN known only to Mr D (which he 
+confirmed wasnt written down). So, it seems unlikely that a third party could have been 
+responsible for this payment because no one else knew the PIN and its unlikely it could 
+have been guessed correctly.
+Ive also examined the payments into and out of the account. Whilst its fair to say the series 
+of disputed payments were unusual, they only started after the account received a large 
+payment into it. Prior to this, the account had a balance of less than £50. This incoming 
+payment effectively funder a number of the disputed payments (apart from those that used 
+savings, the overdraft and the flex credit payments). I think the timing of these payments 
+indicates that whoever made them was aware that those funds had been recently paid into 
+the account.
+If Mr Ds phone was hacked, I would expect to see conflicting data in the audit information 
+about the phone and its IP address, that wasnt the case here. What the evidence does 
+show is that Mr Ds genuine phone, using its normal IP address made various transactions 
+using different types of payments, which required the login details to the Monzo app and 
+additional security known only to Mr D. 
+Based on an objective review of the evidence, I think its more likely than not that Mr D was 
+responsible for making these payments and obtaining the overdraft. It was then reasonable 
+for Monzo to hold him liable for the payments and the overdraft.
+Monzo accepted that theyd not met their standards of service when Mr D complained. They 
+made a small payment to him to recognise this. I think this was a fair response in the 
+circumstances and I wont be asking them to do anything further. 
+My final decision
+My final decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr D to accept or 
+reject my decision before 15 May 2023.
+ 
+David Perry
+Ombudsman

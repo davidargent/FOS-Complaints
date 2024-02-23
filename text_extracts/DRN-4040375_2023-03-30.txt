@@ -1,0 +1,130 @@
+DRN-4040375
+The complaint
+D says ClearBank Limited, trading as Tide, should refund the money they lost as the result 
+of an authorised push payment (APP) scam.
+Mrs N has brought this complaint on behalf of D, for ease of reading I will refer to Mrs N in 
+this decision.
+What happened
+In summary, Mrs N received a one-time password (OTP) from Tide to authorise a payment 
+on 14 November 2021. She ignored it as she was not expecting it. She then received a call 
+from Tide, she believed, saying it had noticed some suspicious payments about to debit her 
+account. The call cut off but as she was concerned Mrs N blocked her account. 
+The caller rang back and had sufficient information to reassure Mrs N he was from Tide.  
+Mrs N was then transferred to another party who explained that to refund the suspicious 
+payments Mrs N would first need to approve them. There were three payments to two 
+different merchants:
+payment value, £ method merchant
+1 2,151.98 Apple Pay Dimprice.com
+2 2,939.96 Apple Pay Dimprice.com
+3 2,380.98 Apple Pay Laced
+Worried the money would leave her account if she did not do as instructed, Mrs N provided 
+the caller with the authorisation codes that were sent to her by text. All three payments 
+debited her account on 14 November 2021 within an hour. The next day, when no refunds 
+came through, Mrs N realised it was a scam and contacted Tide.  I note merchant three 
+refunded £1,640 directly to Mrs N on 19 November 2021.  
+Tide refused to refund the payments saying Mrs N had authorised the payments. 
+Our investigator upheld Mrs Ns complaint. She said Tide ought to have intervened before 
+payment 2 and had it done so it would have prevented Mrs Ns subsequent losses. She said 
+Tide must refund Mrs M £5,320.94, less any merchant refunds, and add simple interest of 
+8% a year from the date of the payments to the date of settlement. She didnt think Tide 
+could have recovered payment 1 as a chargeback would most likely have been successful.
+Mrs N accepted this assessment but Tide disagreed. 
+It said, in summary, Mrs N had shared the OTPs and was aware payments would be made; 
+she knew the call was not from a known Tide number; its not possible a code was sent to 
+Mrs N via its app; Mrs N has kept none of the communication she refers to; she ignored red 
+flags such as accepting the transactions needed to be approved to then be refunded; and 
+one of the merchants has already refunded £1,640. In the round, it argues Mrs N had 
+concerns yet went ahead and this is gross negligence.
+Our investigator explained it is not in dispute the payments were authorised by Mrs N, and 
+that gross negligence is a consideration for complaints about unauthorised transactions. She 
+said she was upholding the complaint as Tide ought to have detected out of character 
+activity when there was an attempted payment of £34,999 prior to payment 2. Had it 
+intervened then it could have stopped payments 2 and 3. Finally, she was satisfied Mrs N 
+thought it was a genuine call from Tide based on the information the caller had and a 
+spoofed text. She added it is not uncommon for victims of a scam not to have saved the 
+relevant messages.
+Tide still disagreed and asked for an ombudsman to review the complaint.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so I am upholding Mrs Ns complaint in part. 
+Theres no dispute that Mrs N made and authorised the payments. Mrs N knew why she was 
+making the payments. At the stage she was making these payments, she believed
+they had to be authorised so that the related refunds could then be processed. I dont 
+dispute Mrs N was scammed and she wasnt making payments for the reason she thought 
+she was, but I remain satisfied the transactions were authorised under the Payment Services 
+Regulations 2017.
+Its also accepted that Tide has an obligation to follow Mrs Ns instructions. So in the
+first instance Mrs N is presumed liable for her loss. But there are other factors that must be 
+taken into account.
+To reach my decision I have taken into account the law, regulators rules and guidance, 
+relevant codes of practice and what I consider to have been good industry practice at the 
+time. This means I think that Tide should have:
+been monitoring accounts and payments made or received to counter various
+risks, including fraud and scams, money laundering, and the financing of terrorism.
+had systems in place to look out for unusual transactions or other signs that
+might indicate that its customers were at risk of fraud (amongst other things). This is
+particularly so given the increase in sophisticated fraud and scams in recent years,
+which financial institutions are generally more familiar with than the average
+customer.
+in some circumstances, irrespective of the payment channel used, taken
+additional steps or made additional checks before processing a payment, or in some
+cases declined to make a payment altogether, to help protect its customers from the
+possibility of financial harm.
+In this case I think Tide ought to have taken additional steps before processing payment 2. 
+After the first payment at 12.03pm Mrs N blocked her card when the initial call with the 
+scammers dropped. But she was then persuaded by them to lift the block at 12.27pm due to 
+the amount of accurate information they had about her account. A payment of £34,999 was 
+then attempted by the scammers at 12.31pm. It only failed as it was over Mrs Ns daily limit.
+Tide ought to have detected this attempted payment as out of character and unusual based 
+on Mrs Ns account history.  Had it done so, and contacted Mrs N, I am certain it would have 
+broken the spell of the scam. Mrs N has said she was unsure of what she was being asked 
+to do  but as she had never needed to speak to Tide and wasnt sure of its usual process she complied with the scammers requests. In such circumstances - and if the attempted 
+high value transaction had been queried with Mrs N  I am confident Tide would have 
+effectively prevented Mrs N from sharing any further OTPs and suffering any loss beyond 
+payment 1.
+It follows I find had Tide intervened as it should have, the scam would have stopped before 
+payment 2. So I now need to decide what Tide must do to put things right.  
+In response to the investigators assessment Tide argued that Mrs N followed the callers 
+instructions despite being unsure - and so I assume it would argue she should share some 
+responsibility for her loss. But I am not persuaded that is the case in these circumstances. 
+Mrs N has accepted she was unsure of the process the scammers said she must follow to 
+facilitate the refunds, but she has explained this was due to her lack of previous interaction 
+with Tide. She balanced this out against the information they had about her account and the 
+messages she received. Unfortunately I have not had sight of the messages, but this does 
+not change my conclusion and I find her justification of why she went ahead to be 
+reasonable. Its what I could fairly expect a lay person to do in the circumstances. Tide 
+needs to take into account that it is the expert in fraud prevention, and not Mrs N. 
+Overall, this means I am instructing Tide to refund the full value of payments 2 and 3, 
+adjusted only for the merchant refund on payment 3.
+I have then considered whether Tide ought to have done more to help Mrs N recover 
+payment 1 as she asks. It could have looked to raise the dispute as a chargeback. In certain 
+circumstances card issuers (so here Tide) can request refunds from sellers by raising a 
+chargeback claim  but theres no obligation on an issuer to do this. This system has rules 
+which means there are only certain grounds under which a chargeback can succeed. So in 
+this case I need to decide whether Tide acted fairly and reasonably in its decision not to 
+present a chargeback on behalf of Mrs N. I have already found that Tide must refund 
+payments 2 and 3, but my finding that follows would have been equally applicable to those 
+transactions, if relevant.
+Tide said a chargeback claim would have been unsuccessful as the transaction was 
+authorised. I accept the reason code unauthorised transaction would have failed  as I 
+clarified at the start of my findings it is not in dispute that all payments were authorised. Tide 
+could have considered anther reason code but I think this would have most likely failed too. 
+Given the fraudulent nature of the transaction Mrs N had no evidence to support the 
+payment, such as an agreement, invoice or order form. And the merchant most likely would 
+have had evidence of delivery  albeit to the scammer. So, overall, I think Tides decision not 
+to raise a chargeback claim to try to help Mrs N recover payment 1 was fair in the 
+circumstances, albeit that I dont find it made its decision for the right reason. 
+Putting things right
+Tide must pay Mrs N £5,320.94 (the sum of payments 2 and 3) minus the merchant refund 
+of £1,640 on payment 3. It should add 8% simple interest a year from the date of the 
+payments until the date of settlement*. 
+ *HMRC requires Tide to deduct any tax from any award of interest. It must give Mrs N a certificate showing
+the deductions if she asks for one.
+My final decision
+I am upholding Mrs Ns complaint in part. ClearBank Limited, trading as Tide, must put 
+things right as set out above.  Under the rules of the Financial Ombudsman Service, Im required to ask Mrs N, on behalf of 
+D, to accept or reject my decision before 27 April 2023.
+ 
+Rebecca Connelley
+Ombudsman

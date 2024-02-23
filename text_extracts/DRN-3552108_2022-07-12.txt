@@ -1,0 +1,148 @@
+DRN-3552108
+The complaint
+Mr S complained about Monzo Bank Limited. He said a cash machine debited his account 
+but didnt dispense his money, but Monzo refused to refund him.
+What happened
+On 30 May 2021, Mr S contacted Monzo and disputed a transaction. He said hed used a 
+cash machine which hadnt dispensed his money. He provided a photo of a receipt, timed at 
+13:36 that day, which said You have exceeded your daily withdrawal limit. You have not 
+been charged for this transaction.
+Monzos disputes team looked at the evidence, but said that that receipt matched a later 
+withdrawal attempt. In chat, it asked if hed made two different attempts to withdraw cash. Mr 
+S replied My friend had made the transfer [a £300 deposit at 11.09 on 30 May] as he could 
+not withdraw funds himself. I immediately tried withdrawing after he made that transfer and 
+was not able to with [sic] anything.
+Monzo gave Mr S a temporary £250 credit and contacted the cash machine provider. But the 
+machine owner produced evidence which Monzo said showed that £250 had been 
+successfully withdrawn from Mr Ss account at 13.34. Thered been a second attempt at 
+13.36, which had failed because of Mr Ss daily withdrawal limit, as the receipt said. So 
+Monzo rejected Mr Ss disputed transaction claim and said it would re-debit the temporary 
+£250 credit in two weeks time.
+In chat with Monzo on 21 July, Mr S said the cash didnt come out, and that it was an 
+absolute disgrace and hed be closing his account. He asked why it had shown as a failed 
+transaction, and pointed out that hed even sent Monzo a photo of the receipt which had 
+shown that the transaction had failed. Mr S then wrote  Ive just checked with my mate who 
+transferred the money, he was the one who tried withdrawal and he confirms categorically 
+that he actually only tried once. 
+Monzo didnt change its mind, and in its final response letter on 5 August, it said that it had 
+raised a chargeback for Mr S, and the card company had ruled in favour of the cash 
+machine provider. It pointed out that the receipt Mr S had provided had a different time 
+stamp to the payment which had debited Mr Ss account. It also said that as it had now taken 
+back the temporary credit, this had resulted in an unarranged overdraft, and asked Mr S to 
+get in touch if he was worried about repaying this.
+Mr S wasnt satisfied and contacted this service. He told the investigator hed never disputed 
+trying twice to get the money out. He said one withdrawal appeared on his internet banking 
+as a failed transaction but had then disappeared off his internet banking, and the other had 
+appeared as a debit saying the money had come out. He said the money had never come 
+out, and Monzo had never answered his question asking for CCTV to prove the money 
+hadnt come out.
+The investigator asked Monzo for more information. These included, among other requests, 
+information about:
+- any reported issues with the machine around the time of the disputed transaction;
+- a copy of the journal roll including transactions around the time of the withdrawal; 
+- whether there had been any evidence of a third party device fitted to the machine;
+- evidence to show whether any money had been found in the purge bin (where 
+returned notes go);
+- the end of day balance for the machine on the day of the disputed transaction;
+- whether or not there had been any CCTV in the area, and if so, whether Monzo had 
+requested this. 
+But Monzo said the investigator would have to ask the machine provider. The investigator 
+reminded Monzo of the Regulations about disputed transactions, but Monzo said the 
+investigators queries were outside its chargeback processes. 
+So the investigator upheld Mr Ss complaint. She said Monzos notes appeared to show it 
+was confused and struggling to interpret the journal roll correctly, or to be categorically sure 
+that the cash had been dispensed. She said it was likely that if the cash hadnt dispensed 
+first time, Mr S would have tried again. She thought that if the machine had dispensed the 
+£250 first time, Mr S wouldnt have tried again just two minutes later. And Mr S had asked for 
+any CCTV  which would have been a risk if that might have shown the money had indeed 
+been dispensed. She said Monzo should pay Mr S £250 for the disputed transaction, with 
+interest at 8% plus £100 compensation for distress and inconvenience. 
+Monzo didnt agree. It said there was nothing wrong with the evidence it had provided, 
+because it showed the full amount dispensed with no errors. It said that was all the card 
+provider specifically required for a chargeback. Monzo also didnt agree with the 
+investigators arguments that Mr S would have tried again if the machine hadnt dispensed 
+first time, and that it would have been risky for him to have asked for CCTV if hed been 
+dishonest. It said these were a best guess and werent relevant to whether or not it had 
+handled the complaint correctly in line with the card providers very specific rules. Monzo 
+asked for an ombudsmans decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Regulations 
+There are regulations governing disputed transactions. For Mr Ss complaint, these are the 
+Payment Services Regulations 2017. These say that the payment service provider (here, 
+Monzo) must first show the transaction was authenticated. Theres a second stage if 
+authentication is satisfied, which considers whether or not the customer authorised the 
+transaction. But authentication must be satisfied first. The relevant section of the Regulations 
+is section 75, which says:
+Evidence on authentication and execution of payment transactions
+75.(1) Where a payment service user
+(a)denies having authorised an executed payment transaction; or
+(b)claims that a payment transaction has not been correctly executed,
+it is for the payment service provider to prove that the payment transaction was 
+authenticated, accurately recorded, entered in the payment service providers accounts and 
+not affected by a technical breakdown or some other deficiency in the service provided by 
+the payment service provider.What the Regulations mean for Mr Ss complaint
+Monzo has argued that it carried out a chargeback, and that this was optional, and that its 
+obligations were confined to what that card scheme rules say. A chargeback is a process by 
+which settlement disputes are resolved between card issuers and merchants under the 
+relevant card scheme. Theyre resolved on the basis of the card schemes rules, not 
+necessarily the relative merits of the dispute.
+But what governs disputed transactions is, as Ive set out above, the Payment Services 
+Regulations, not chargeback scheme rules. And the Payment Services Regulations clearly 
+set out that its for the payment service provider  here, Monzo  to prove that the payment 
+transaction was authenticated, accurately recorded, entered in the payment service 
+providers accounts and not affected by a technical breakdown or some other deficiency in 
+the service provided by the payment service provider. 
+While I appreciate that a payment service provider can do a chargeback as one way of 
+dealing with a dispute of this nature, that wont always give enough information to satisfy the 
+requirements of the Payment Services Regulations. In terms of our investigation, its for 
+Monzo to provide more information here to prove that the transaction was correctly carried 
+out. For example, Monzo hasnt shown that the machine wasnt affected by technical issues 
+or deficiencies. So I find that Monzo hasnt satisfied its obligations under the Payment 
+Services Regulations 2017. 
+This is a key factor in determining whether Mr Ss complaint succeeds. But Ive also looked 
+at other factors. 
+Mr S initially told Monzo, and told this service, that he had attempted the withdrawals on his 
+account. But I saw that, in the chat between Monzo and Mr S on 21 July, Mr S had said that 
+it had been a friend who had carried out the attempted withdrawals on Mr Ss account  not 
+Mr S himself. Ive quoted this above. So I asked Mr S for clarification of this, pointing out that 
+it was inconsistent with his previous testimony to Monzo and to our investigator. I asked 
+what had happened on 30 May, as it now appeared that Mr S hadnt been at the cash 
+machine when the disputed transaction had been made. I asked who had been there, and if 
+it wasnt Mr S, what was his friends recollection.
+Mr S replied that his friend had transferred £300 to his account as he didnt have a card to 
+make withdrawals. Mr S then said we were both present at the ATM and two attempts were 
+made to withdraw the funds.  He continued If I remember rightly, I had gone inside the 
+petrol station to pay for fuel, I gave him my card to make the withdrawal as I queued, 
+however I was back out and with him whilst both attempts to withdraw the money were 
+made.
+So at first, Mr S told Monzo hed attempted the withdrawals on 30 May. He then said in the 
+chat on 21 July that theyd been attempted by his friend and he confirms categorically that 
+he actually only tried once. When he referred his complaint to this service, he told our 
+investigator that hed attempted them  with no mention of a third party. And when 
+challenged about the chat evidence, he provided a different version, saying theyd both been 
+present. This conflicts with saying hed asked his friend who had said categorically that hed 
+only tried once  because if Mr S had been present as he says, he wouldnt have needed to 
+ask his friend. And theres conflicting evidence about whether Mr S and his friend say the 
+withdrawal(s) were attempted once or twice. And Mr S also said hed gone into the petrol 
+station to pay for fuel but had left his card  which hed presumably have needed to pay for 
+petrol  with his friend for him to make withdrawals.These variations cast some doubt on Mr Ss account of what happened. But ultimately, they 
+dont make me think that itd be fair and reasonable for Monzo to hold him liable for the 
+transaction here. Mr S is suggesting that his friend was making the transaction with his 
+authority. So in considering the regulations, the circumstances here arent much different to 
+Mr C making the transaction himself.
+Mr S then disputed that the money was dispensed and the relevant regulations are clear 
+about what Monzo needs to evidence to be able to hold Mr S liable for the transaction. It 
+hasnt done that, and so I uphold Mr Ss complaint. I also award £100 compensation for the 
+distress and inconvenience Mr S suffered as a result of Monzos failures.
+My final decision
+My final decision is that I uphold this complaint and I order Monzo Bank Limited to pay Mr S:
+- £250 to refund the disputed cash machine withdrawal; and 
+- Interest on £250 at 8% from 30 May 2021 to the date of payment; and 
+- £100 compensation for distress and inconvenience.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr S to accept or 
+reject my decision before 9 August 2022.
+ 
+Belinda Knight
+Ombudsman

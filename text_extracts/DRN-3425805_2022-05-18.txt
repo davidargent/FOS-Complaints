@@ -1,0 +1,104 @@
+DRN-3425805
+The complaint
+Miss M and Ms R complained because Bank of Scotland plc, trading as Halifax, refused to 
+refund them for a transaction they said they hadnt made. 
+What happened
+On 24 June 2020, an online payment was made from Miss M and her mother Ms Rs joint 
+account with Halifax. It was for an item from a retailer abroad for the equivalent of £99.50, 
+and was made using Ms Rs card, and Miss Ms details. Although Miss M and Ms R normally 
+live in different places, they were then living together at Miss Ms address because of the 
+covid lockdown.
+On 20 August, Miss M and Ms R contacted Halifax and said that they hadnt made the 
+£99.50 payment. Halifax provided a temporary refund while it investigated with the merchant, 
+using the chargeback process. But the merchant defended the chargeback by providing Miss 
+Ms name, address, email address, and the IP address (an internet identifier) for the 
+purchase. So Halifax re-debited the £99.50 on 28 October.
+On 17 November, Miss M and Ms R complained about the outcome and about Halifaxs 
+service. Halifax replied on 14 December, explaining that the merchant had defended the 
+case and what it had provided as evidence. It suggested contacting the merchant direct to 
+pursue a refund. Halifax paid Miss M and Ms R £30 for service issues.
+Miss M and Ms R questioned the IP address which the merchant had provided, saying it 
+didnt match the IP address on Miss Ms devices, or her geographical location. And they 
+raised concerns because the payment had used Ms Rs card but Miss Ms details  and said 
+Halifax shouldnt have let it through.  Nor had the merchant provided shipping information to 
+show where the item purchased went to.
+But in Halifaxs final response letter on 30 December, it said that geographical locations of 
+an IP address may not always be accurate  but it had matched the IP address provided by 
+the company with consistent logons from Miss Ms online banking. Halifax also said that its 
+systems had detected that the address hadnt matched, but this wasnt part of its security 
+checks so it wouldnt stop the payment going through. It said it did other fraud prevention 
+measures and the transaction hadnt been treated as suspicious. And in relation to the 
+shipping information, it said that it didnt have control over what the merchant sent in terms 
+of evidence  but the merchant had provided several pieces of information which sufficiently 
+suggested the payment hadnt been fraudulent.
+Miss M and Ms R werent satisfied and complained to this service.
+Our adjudicator didnt uphold their complaint. She said that Halifax had sent a report 
+showing log-ins from the IP address used for the disputed transaction  and it was unlikely a 
+fraudster would be able to use the same IP address as one which the account holders had 
+used regularly for genuine online banking. And Miss M and Ms R had said that Ms Rs card 
+hadnt been out of her possession, so it wasnt likely the card had been compromised.
+Miss M and Ms R said they were very disappointed. They said they didnt understand how 
+the purchase had happened, but they knew they hadnt made it. Halifaxs £30 compensation 
+for service didnt start to touch on the stress and inconvenience it had caused them.
+Miss M said that Halifax hadnt told her that her details had been used with Ms Rs card, and 
+had told her she couldnt complain as it was Ms Rs card. She said that surely Halifax should 
+have let her know, because two different peoples details had been used.
+Miss M also said they were confused about the IP address, and queried that it wasnt 
+impossible. They suggested the fraudster might have used or replicated the same IP 
+address, so that they won and Miss M and Ms R lost their money. Miss M said she also 
+didnt understand why her phone showed one IP address but Halifaxs records another. They 
+also said that the type of product purchased, and the fact it was a merchant abroad, didnt 
+make any sense and werent reflected in their history. And Miss M said that when shed 
+checked the website, the merchant hadnt even been there any more which was suspicious.
+Miss M and Ms R asked for an ombudsmans decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+There are regulations which govern disputed transactions. The relevant regulations for 
+disputed transactions taking place in June 2020 are the Payment Services Regulations 
+2017. In broad terms, these say that the bank is liable if the customer didnt authorise the 
+payments, and the customer is liable if he did authorise them. So Ive considered whether or 
+not the evidence shows that Miss M and / or Ms R authorised the payments.
+ 
+I recognise that Miss M and Ms R have said categorically that they didnt authorise this 
+payment. But Ive had to look at what the available evidence showed Halifax, to decide 
+whether or not Halifax acted unfairly when it refused a refund.
+Ive seen the evidence which the merchant sent back when Halifax disputed the payment 
+with the merchant. Halifax also sent a copy to Miss M and Ms R. This included Ms Rs card, 
+and Miss Ms name, address, email address, and the IP address which was used for the 
+transaction.
+Halifax also sent us a list of other, undisputed, transactions which had been made on Miss M 
+and Ms Rs account.  There are nearly 50 logins between June and October 2020 which 
+show the same IP address as the one which the merchant provided. 
+I recognise that Miss M and Ms R have suggested that a fraudster might have used or 
+replicated the same IP address. But, theres no evidence to suggest that this is the case and, 
+while Ive considered what Miss M and Ms R have said, I consider this is unlikely. If a 
+fraudster had indeed somehow managed to replicate that address, its unlikely that the sole 
+transaction would have been a one-off £99.50 transaction  because fraudsters tend to 
+maximise their gains by withdrawing as much as possible in a short time, before account 
+holders can realise and stop the fraud. There were several thousand pounds in the account 
+at the time, and I think its very unlikely there wouldnt have been more disputed transactions 
+if a fraudster had indeed been able to replicate the IP address.Moreover, the postal address which the merchant had was the correct one for the account. I 
+recognise that Miss M and Ms R say they didnt have anything delivered. But there was no 
+advantage to a fraudster in authorising goods which were recorded as to be sent to the 
+account holders address. 
+Miss M and Ms R have also said that Halifax should have stopped the payment, because it 
+used Ms Rs card and Miss Ms details. However, I accept Halifaxs explanation that its 
+systems picked up the fact there was a mismatch, but that there were other, more important, 
+security checks which the transaction passed.
+Miss M and Ms R have also said the type of product didnt reflect their buying history; that it 
+was a merchant abroad; and that theyd googled the merchant but the website wasnt there 
+any more. But I dont consider these factors weigh as heavily as the technical evidence that 
+the merchant provided to Halifax. In the light of that evidence when the merchant defended 
+the claim, I cant see that Halifax acted unfairly or unreasonably. It seems more likely than 
+not that either Miss M or Ms R carried out the transaction, or someone else at their location 
+and with Ms Rs card details. This means that Halifax doesnt have to refund them.
+Finally, Ive considered the £30 for service issues which Halifax paid Miss M and Ms R, and I 
+consider that was fair and reasonable in all the circumstances of this case.
+My final decision
+My final decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Miss M and Ms R 
+to accept or reject my decision before 15 June 2022.
+ 
+Belinda Knight
+Ombudsman

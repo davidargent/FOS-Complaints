@@ -1,0 +1,140 @@
+DRN-3644300
+The complaint
+Mrs W complains that Monzo Bank Ltd wont refund transactions she says she didnt 
+authorise.
+What happened
+Mrs W said on 5 October 2020, she received a call from someone claiming to be from 
+Monzo where she was told there was suspicious activity on her account. She said she 
+looked and saw transactions involving Argos and her Lloyds account. She said the caller 
+already knew her personal details and PIN, and they asked her to verify her details.
+The next day, Mrs W realised several payments had debited her account and that her email 
+account and her Lloyds account had been compromised.
+She reported this to Monzo, who declined to refund the transactions. Thats because it 
+couldnt see how the payments had been authorised by anyone other than Mrs W. 
+Our investigator didnt uphold the complaint, agreeing with Monzo that these payments were 
+authorised. Mrs W disagreed. In summary she said:
+She didnt authorise the payments, add Apple Pay to any device or share any 
+personal information.
+Two people were arrested in connection with the fraud, so she cant understand how 
+this doesnt help her case.
+Monzo ought to have intervened as the activity was highly unusual for her account.
+The complaint has been passed to me to reach a final decision. For ease, Ive included a 
+timeline showing the key events over the period in question. Some of the precise times 
+arent know, but Ive generally reflected the order they appear on Mrs Ws statements. 
+Date Time Event 
+05 October 2020 08:26 A device, thats been used since July with Mrs Ws Monzo 
+account, accesses her Monzo account for the first time 
+that day. 
+05 October 2020 Unknown £1400 is withdrawn from Mrs Ws Savings Pot to her main 
+Monzo account.
+05 October 2020 Unknown £1400 is transferred to Mrs Ws Lloyds account. 
+05 October 2020 Unknown £969 is transferred from Mrs Ws Lloyds account to her 
+Monzo account.
+05 October 2020 08:59 £969 Mastercard payment at Argos Milton Keynes.
+05 October 2020 Unknown £479 is transferred from Mrs Ws Lloyds account to her 
+Monzo account.
+05 October 2020 09:06 £479 Mastercard payment at Argos Milton Keynes.
+05 October 2020 Unknown £379 is transferred from Mrs Ws Lloyds account to her 
+Monzo account.
+05 October 2020 09:22 £379.99 Mastercard payment at Argos Milton Keynes. This 
+is noted as pending. 
+05 October 2020 Unknown £379.99 is credited from Argos Milton Keynes. This is 
+noted as pending.
+05 October 2020 14:40 £429 Mastercard payment at Argos London.
+05 October 2020 16:25 A new device accesses Mrs Ws Monzo account for the 
+first time. 
+06 October 2020 Unknown £5010.75 is withdrawn from Mrs Ws Savings Pot to her 
+main Monzo account.
+06 October 2020 12:30 The newly registered device is seen for the last time that 
+day. I understand this device attempted to make a faster 
+payment. 
+06 October 2020 12:32 The device, used since July with Mrs Ws Monzo account, 
+accesses her Monzo account again.
+06 October 2020 12:37 £4480.00 faster payment to NT Traders Ltd. 
+06 October 2020 12:56 £314.99 Mastercard payment to www.tempcover.com.
+06 October 2020 12:59 £68.26 Mastercard payment to Dayinsure.
+06 October 2020 13:03 £132.00 Mastercard payment to DVLA.
+06 October 2020 Unknown £83 peer to peer transfer received from Ms W.
+06 October 2020 13:19 £82.50 Mastercard payment to Transport for London.
+06 October 2020 Unknown £30 peer to peer transfer received from Mr W.
+06 October 2020 17:05 £14.95 Mastercard payment to Deliveroo.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I agree with the conclusions reached by the investigator for these reasons.
+The starting position under the Payment Services Regulations 2017 (PSRs) is that 
+Mrs W is liable for payments she authorised. 
+The PSRs explain that authorisation depends on whether the payment transactions 
+were authenticated correctly and whether she consented to them.
+Its not disputed here that Mrs Ws card and security details were used to make the 
+card transactions and that her banking credentials were used to make the faster 
+payment. So Im satisfied the transactions were authenticated.
+So Ive gone on to consider whether Mrs W gave her consent. The PSRs state how 
+consent is given  it must be in the form, and in accordance with the procedure 
+agreed between Mrs W and Monzo. In other words, consent happens when Mrs W 
+uses the steps agreed for making a transaction. Its also possible for someone else to 
+act on Mrs Ws behalf and use these agreed steps.
+Its not clear that Mrs W herself used the agreed steps for all the transactions  for 
+example, shes pointed out that she was at work when some of the transactions took 
+place in a different location. So I have instead considered whether she did something 
+that meant someone else could make payments on her behalf.
+To answer this, I have noted that: 
+oA device, that Mrs W used since July 2020 and was in Mrs Ws possession, 
+was active on Monzos app at the time the disputed transactions were made. Indeed, it was this device that approved some of the card transactions and 
+made the faster payment. It was also this device that made a withdrawal from 
+Mrs Ws Savings Pot that ultimately facilitated some of the payments from the 
+account. 
+oSome of the payments were facilitated by incoming payments from Mrs Ws 
+Lloyds account. Its not clear how someone else was able to access this 
+account. 
+oSome of the payments were facilitated by incoming peer to peer payments 
+from individuals that Mrs W had transacted with before. 
+oMrs W said that shed received a call from someone pretending to be Monzo, 
+who talked her through verifying her details. But shes said that at this point, 
+the payments to Argos and those involving her Lloyds account had already 
+happened. So this doesnt explain how someone else was able to get the 
+details needed for these transactions and the involvement of Mrs Ws device. 
+oIve noted that arrests were made in connection with the faster payment to 
+buy a car and Ive reviewed the police report. But this notes that the suspect 
+called Mrs W in the days before and at the time of the faster payment. Mrs W 
+has only told our service about one call with someone pretending to be 
+Monzo on 5 October. Shes not told us about further calls or explained how 
+she couldve been tricked into using her device to make payments.  
+I cant say for certain what happened. But disputes like this one are only ever 
+decided on the balance of probabilities. In other words, whats more likely than not to 
+have happened. 
+Here, given what Ive noted, I dont think these transactions couldve made without 
+Mrs Ws knowledge or involvement. To summarise, thats in light of her devices 
+involvement, how the payments were facilitated, the suggested calls between her 
+and the accused, and that Ive not been persuaded how Mrs W couldve inadvertently 
+shared her details and taken steps to make payments. 
+So, even if she didnt take all the agreed steps to make the payments herself, I think 
+its more likely than not that she did something that allowed these payments to be 
+made and understood that payments were being made.
+I recognise that Mrs W may not have benefited from what was purchased, but thats 
+not a consideration in whether the payments were authorised. And for the reasons 
+Ive explained, Im satisfied that Monzo acted fairly in treating them as authorised 
+payments.
+That means the starting position is that Mrs W is liable for the payments. I have also 
+considered Monzos responsibility to protect Mrs W from financial harm  and so to 
+intervene with any unusual or suspicious activity.
+Here, its arguable that Monzo ought to have been concerned when a new device 
+was registered to Mrs Ws account and a payment was attempted. But even if Monzo 
+had intervened, Im not persuaded this wouldve stopped the payments. Thats 
+because Im not persuaded the payments couldve happened without Mrs Ws 
+knowledge and involvement with the payments. So had she been questioned, Im not 
+convinced that it wouldve revealed that these transactions werent genuine. I recognise that Mrs W feels very strongly about this. But, having considered this 
+carefully, I dont think Monzo can be held fairly asked to refund these disputed 
+transactions. 
+Following our involvement, Monzo made an offer to pay £75 compensation for 
+closing Mrs Ws account immediately without notice. Given that Monzo were entitled 
+to make that decision, and that I cant see the lack of notice had a significant impact 
+on Mrs W, I consider the offer fair.
+My final decision
+For the reasons Ive explained, I think the offer to settle the complaint is fair. Monzo Bank Ltd 
+must pay Mrs W £75. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mrs W to accept or 
+reject my decision before 12 September 2022.
+ 
+Emma Szkolar
+Ombudsman

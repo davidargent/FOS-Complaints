@@ -1,0 +1,101 @@
+K820x#14complaint
+Mr K says the following events occurred,  between 12 and 13 November 2018, in his 
+Interactive Brokers (UK) Ltd (IB) trading account:
+He was unable  to close particular positions on both dates.
+He also experienced problems in the trading platform when he tried to place  
+particular preview trade orders  on both dates.
+IB unreasonably  delayed margin close  outs of his positions.  They occurred at a 
+price(s) that significantly increased his loss, whereas they could  and should  have  
+taken place much earlier  at significantly less loss (or even profit) to him.
+background
+IB disputes  the complaint.  In the main,  it says:
+The complaint  primarily  relates  to Mr Ks margin trading in his execution only online 
+trading account;  to the ongoing margin  requirement he had to satisfy at all times as 
+part of his trading;  to the margin deficit that occurs whenever the requirement is not 
+satisfied; to the need for either a cash deposit  or closure of open positions by the 
+client to rectify the deficit; and to its right, as the broker, to liquidate  positions in the 
+account  through forced  margin close outs of open positions  where the margin  
+deficit is not rectified by the client. The terms and arrangements  in these respects 
+were as agreed in the terms for the account, and were followed.
+Mr K did not contact IB on 12 November with regards to any problems he was facing. 
+Had he done so, it would have helped to address any such  problems.
+Mr Ks account was in margin deficit between 12 and 13 November, so his options to 
+rectify this  which had to be done  as a priority   were  to deposit  cash  into the 
+account or close open positions.  It was not a permissible option for him to open new 
+positions or preview and process orders which would worsen  the deficit, which  is 
+what he sought to do. He also tried to close positions in a manner that benefited him 
+but not the deficit  and was at risk of increasing the deficit  so this was declined on 
+13 November.
+The terms for the account  gave it discretion over the manner of applying margin  
+close outs. It closed  Mr Ks positions reasonably,  and consistent with that discretion.
+One of our investigators  looked into the complaint  and concluded that it should not be upheld  
+ for reasons broadly  similar to those given by IB. Mr K disagreed with this outcome. In the 
+main, he says:
+IB has still not justified  its delay  in applying the margin close  outs to his position.  It 
+had opportunities  to do so when his positions  were in profit and up to when they had 
+much less loss than the loss that was crystalized when IB eventually liquidated them. 
+There was nothing  in the market throughout  the day that prevented  IB from applying  
+the liquidation much  earlier in the day.
+The same  point  applies to the problems he faced  in trying to close  his positions. It is 
+logical that closing his positions would have reduced the margin deficit  and not 
+increased it as IB has argued.
+The matter  was referred to an ombudsman.
+Ref: DRN64619082my findings
+Ive considered all the available  evidence  and arguments to decide  whats  fair and 
+reasonable in the circumstances of this complaint.
+Liquidation Arrangements
+The agreed terms for the account present the correlation, as described  by IB, between  
+ongoing maintenance of the margin requirement,  the margin deficit that arises upon  breach 
+of that maintenance and requirement, the need to either fund an account with cash  or close  
+open positions upon a margin  deficit,  IBs right  but not obligation  to liquidate  open 
+positions in an account where a margin deficit has not been rectified and its discretion over 
+the manner in which such liquidation takes  place.
+I consider that IB conducted itself within the above  agreed arrangement  and within its 
+liquidation related discretion. I understand Mr Ks argument about how IB could have 
+liquidated positions in the account in a manner that would have been less detrimental  to him. 
+However, it is an argument that benefits  from hindsight  hindsight  which  shows that an 
+earlier liquidation  could  have reduced  his losses. IB did not have this benefit at the time of 
+the event and, importantly, it had full discretion on how to apply the liquidation process.  
+I do not suggest that it would have been  fair for IB to use its discretion in an unreasonable or 
+unduly delayed  manner. However,  the balance of evidence suggests that it applied  a part of 
+its discretion towards trying, without  success, to help Mr K with his positions before the 
+liquidation was applied. In addition, whilst I note Mr Ks argument that there was nothing  in 
+the market preventing a prompt liquidation,  the key points are that there is an absence of 
+evidence showing that IB intentionally and/or negligently delayed the liquidation and that IB 
+was not obliged to execute a prompt liquidation. As stated above, it had discretion over the 
+manner in which it executed liquidation  after an unresolved margin deficit. It should also be 
+noted that Mr K had the opportunity to avoid the liquidation by either funding his account or 
+closing positions  himself. I have not seen evidence that he funded  the account in response 
+to the margin  deficit. I address the matter of his closure attempts below.
+Preview Orders and Closure Attempts
+Available account activity  evidence  shows that orders Mr K sought to place were  due to be 
+detrimental to the margin  deficit.  I do not consider that it was unreasonable  for IBs system to 
+decline those orders. 
+Mr K also says his idea to close positions was bound to reduce the deficit. He says he 
+attempted to do this on 12 November and faced problems on the trading platform  which 
+prevented him from doing so. There is no evidence that he contacted IB directly, over the 
+telephone, to get assistance with any such problems on this date. On balance, I accept IBs 
+explanation that it would  have helped him had he done so. I do not consider it reasonable to 
+hold IB responsible for an alleged  problem  with the platform  that was not brought to its 
+attention at the time. I also have not seen enough  evidence to establish  the alleged  problem.
+With regards to events  on 13 November IB says the manner in which  Mr K sought to close  
+his positions would have worsened  the margin deficit, but Mr K says the opposite. I consider 
+that both sides  genuinely sought to have the margin deficit addressed. Mr K had the 
+opportunity to do so before IB proceeded with the forced liquidation. 
+Ref: DRN64619083On balance, I do not consider that IB would have declined Mr Ks attempt to close positions if 
+that would  have had a positive effect  on the margin deficit. Both sides  had a mutual interest 
+in addressing that deficit so it stands to reason that IB would have facilitated such  an 
+attempt. It appears that Mr Ks preference,  in terms of closure, was considered by IB to bear 
+risks of worsening the margin  deficit.  In such circumstances it was reasonable for it to have 
+suggested an alternative that effectively  or more effectively  addressed the deficit.  
+Evidence suggests that Mr K declined the alternative that was suggested and that he was 
+aware that, thereafter  and in the absence of a resolution to the deficit, forced liquidation  of 
+his positions will take place. He also should have been aware that the liquidation  would take 
+place at IBs discretion.
+my final decision
+For the reasons  given  above, I do not uphold Mr Ks complaint. Under the rules of the 
+Financial Ombudsman  Service,  Im required to ask Mr K to accept or reject  my decision 
+before 17 January 2020.
+Roy Kuku
+ombudsman
+Ref: DRN6461908

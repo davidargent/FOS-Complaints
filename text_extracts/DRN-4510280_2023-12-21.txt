@@ -1,0 +1,152 @@
+DRN-4510280
+The complaint
+Mr A complains that Monzo Bank Ltd (Monzo) wont refund over £11,000 he lost to a fake 
+job scam.
+What happened
+The details of this complaint are well known to both parties, so I wont repeat everything 
+again here. In brief, Mr A fell victim to a fake job scam after he was contacted by a scammer, 
+who I will call B, via a messaging service. B told Mr A that he would be paid for completing a 
+number of tasks. After he started these tasks he was told that he had to pay various fees in 
+order to release his earnings. Mr A made the following payments; 
+Transaction 
+NumberDate Type of 
+PaymentAmount
+1 09 April 2023 Card payment £51
+2 09 April 2023 Card payment £18
+3 10 April 2023 Card payment £75
+4 11 April 2023 Card payment £20
+5 11 April 2023 Card payment £80
+6 11 April 2023 Card payment £300
+7 28 April 2023 Card payment £1,185
+8 28 April 2023 Card payment £50
+9 3 May 2023 Card payment £3,350
+10 5 May 2023 Card payment £1,990
+11 5 May 2023 Faster Payment £2,010
+12 8 May 2023 Faster Payment £2,000
+When Mr A attempted to make a further payment on 10 May 2023 Monzo called Mr A to 
+warn him that he might be being scammed. Mr A did not make that further payment and 
+raised a complaint with Monzo asking for the transactions to be refunded. Monzo declined to 
+do this but it paid Mr A £50 for the delays in investigating this matter.
+Our investigator upheld the complaint in part. She thought that Monzo ought to have 
+questioned Mr A about payment 8. The investigator thought, had that happened, the scam 
+would likely have been stopped. Therefore, the investigator said that Monzo should refund 
+the money Mr A had lost from this payment onwards, less a deduction of 50% in recognition 
+of Mr As own contributory negligence. Monzo disagreed, so the matter has been escalated 
+to me to determine. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+It isnt in dispute that Mr A has fallen victim to a scam here, nor that he authorised the 
+disputed payments he made to the scammer. The payments were requested by him using 
+his legitimate security credentials provided by Monzo, and the starting position is that banks 
+ought to follow the instructions given by their customers, in order for legitimate payments to 
+be made as instructed.
+However, Ive considered whether Monzo should have done more to prevent Mr A from 
+falling victim to the scam, as there are some situations in which a bank should reasonably 
+have had a closer look at the circumstances surrounding a particular transfer. For example, 
+if it was particularly out of character for that account holder. I also note that Monzo does 
+have the provision in its terms and conditions to stop payments if it believes they are 
+fraudulent.
+In this instance I am satisfied that payment 8 was out of character as Mr A had not made 
+payments of this size in the past via card payment. It was also clear that this was a payment 
+made to purchase crypto. I think by May 2023 Monzo should really have been aware of the 
+dangers of crypto scams and given the pattern of payments before, and the size of this 
+transaction, Im satisfied this payment ought reasonably to have been considered as unusual 
+and have triggered an intervention by Monzo.
+Had Monzo contacted Mr A at this point and asked suitably probing questions, there is no 
+reason to suggest he wouldnt have been forthcoming about what he was doing. (I note that 
+initially during Monzos intervention on 10 May 2023 Mr A said he was sending funds to a 
+family member, but shortly afterwards he explained what he was actually doing, so I am 
+satisfied that an intervention during transaction 8 would have gone the same way with Mr A 
+setting out what he was making the payments for.) So, if Monzo had questioned Mr A about 
+these payments, it would have likely discovered that he had been contracted out by a 
+company offering to pay Mr A for completing tasks, and that Mr A had was trying to recover 
+a balance that he wanted to withdraw, and he needed to pay additional funds to achieve this. 
+This is not how companies normally operate and it has all the hallmarks of a scam. I 
+consider there would have been reasonable grounds for suspicion here. And Monzo ought 
+reasonably to have provided a scam warning in light of all the information then known to 
+financial professionals about the risks associated with scams such as these.
+Monzo does not believe it is liable for Mr As loss, as it said the loss occurred from his 
+cryptocurrency accounts, rather than his Monzo account. However, Monzo is aware of our 
+general position on a Payment Service Providers safeguarding and due-diligence duties to 
+protect customers from the risk of financial harm due to fraud. We have published many 
+decisions on our website setting out these principles and quoting the relevant rules and 
+regulations. Therefore, I wont rehash them again here in detail.
+I appreciate that the cryptocurrency exchange in question is legitimate. But I think Monzo still 
+should have provided a tailored scam warning in light of all the information known to banks 
+about the increasing number of scams associated with cryptocurrency. I note that Monzo 
+said it did issue a new payee warning but looking at it I do not think it sufficient and I think 
+that a bigger intervention should have taken place. By the time Mr A made the payments, 
+cryptocurrency scams had risen greatly in frequency and its reasonable to conclude that 
+banks, such as Monzo, had also had time to digest these warnings and put mechanisms in 
+place to detect and prevent this type of fraud affecting its customers.
+I recognise that if an intervention by Monzo had taken place, it likely wouldve identified that 
+the payment was going to the consumers own account with the cryptocurrency exchange in 
+question. But I dont think the conversation should have stopped only on the basis that the 
+money appeared to be going somewhere safe and within the consumers control.I say this because by the time Mr A made these payments, Monzo ought reasonably to have 
+had a good enough understanding of how these scams worked, to have been able to identify 
+the risk of harm occurring to its account holders from fraud. This includes the consumer 
+often making a number of purchases of crypto assets in a relatively short space of time or a 
+consumer repeatedly sending money to a platform where the money is subsequently moved 
+on to or taken by the scammer. So, it is with this in mind that I think Monzo ought to have 
+probed further about the nature and context of the payments Mr A was making.
+In light of this, I think Mr As losses were foreseeable to Monzo, despite the payment not 
+leaving his control on the face of it. And Im satisfied that, had Monzo asked relevant 
+questions of Mr A, it would have been apparent that he was falling victim to a scam. In other 
+words, but for Monzos failure to make reasonable further enquiries, it would have been 
+noticed that there was a very high chance that Mr A was going to suffer financial harm from 
+fraud. 
+Had Monzo provided Mr A with a warning, it would have likely alerted him to the common 
+issues arising in relation to scams. I think this, in turn, would have led Mr A to question 
+whether he was in fact dealing with a legitimate business and would have likely stopped Mr 
+A from making any further payments, much as Monzos intervention on 10 May 2023 
+stopped any further payments being made. 
+As a result, I believe Monzo should refund the payments Mr A lost to the scam from and 
+including payment 8.
+Theres a general principle that consumers must take responsibility for their decisions. And I 
+have duly considered whether Mr A should bear some responsibility by way of contributory 
+negligence. In the circumstances, Im satisfied that he should do so in this case.
+In the circumstances, I dont consider Mr A carried out sufficient due diligence to ensure that 
+the company he was dealing with was genuine. Mr A was contacted out of the blue via a 
+messaging service and was offered a job. This is not something that usually happens. 
+I also think the tone of some of the messages from B were unprofessional, which again 
+should have been a red flag for Mr A.
+Finally, during the messages between Mr A and B, Mr A seemed initially sceptical about 
+being paid to carry out, as he says a few clicks, he questions this with B and the answer 
+provided was every order we submit is real, when we submit an order the platform will 
+automatically write reviews for us users, you help the attraction to improve the data and 
+popularity, the attraction will pay the corresponding commission to the platform
+This explanation is far from convincing and did not really make any sense. I also note that Mr 
+A questioned if B was a scammer early on in the conversation.
+Therefore, Im satisfied that Mr As lack of due diligence, and that he proceeded despite his 
+reservations, means that he should share responsibility with Monzo. Because of this, Im 
+satisfied a 50% deduction is fair and reasonable in the circumstances for the debit card 
+payments. 
+In relation to the faster payments, it is not entirely clear that they were covered by the 
+Contingent Reimbursement Model, but even were they, I think that I would have only 
+recommend that 50% of these payments be refunded as I dont think that Mr A acted with a 
+reasonable basis of belief.
+RecoveryIn relation to recovering the funds I dont think that Monzo could have recovered the debit 
+card payments. The main way to recover the payments would be to attempt a chargeback, 
+but I dont consider Monzo ought to have attempted a chargeback claim, as Mr A made 
+payments to get crypto and he seems to have received this before he forwarded it on to B. 
+So he got what he paid for.
+In relation to the faster payments, it is unclear if Monzo contacted the beneficiary banks to 
+try and recover the funds, but on balance, given the time between the transactions and when 
+it was notified about the scam, I think the funds would have been moved on before any 
+recovery could have been attempted.
+Putting things right
+For the reasons given above, I uphold this complaint in part and direct Monzo Bank Ltd to:
+Refund the payments Mr A lost to the scam from and including transaction 8, less a 
+deduction of 50% in recognition of Mr As own contributory negligence towards his 
+loss. 
+Pay 8% simple interest per year on this amount, calculated from the date of loss until 
+the date of settlement, minus any applicable tax.
+My final decision
+My final decision is that I uphold this complaint in part and direct Monzo Bank Ltd to pay the 
+redress outlined above.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr A to accept or 
+reject my decision before 18 January 2024.
+ 
+Charlie Newton
+Ombudsman

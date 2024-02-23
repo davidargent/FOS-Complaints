@@ -1,0 +1,156 @@
+DRN-2932469
+The complaint
+A company which I will refer to as C complains that TSB Bank Plc didnt do enough to 
+prevent it losing out financially as a result of an authorised push payment (APP) fraud.
+What happened
+The background to the complaint is known to both parties and so I wont repeat it at length 
+here. Briefly, in July 2019, the finance director of C received an email purportedly from the 
+managing director, asking that their salary be paid into a new account with TSB. There was 
+nothing suspicious about the email and so the finance director carried out the instruction and 
+made two payments to the new account  one for £7,200 and a day later another for about 
+£700. 
+The fraud came to light two days later and Cs bank contacted TSB. It appears that TSB had 
+blocked the second payment by then and that was returned to C. However, the first payment 
+of £7,200 was taken out of the recipients account through multiple transactions on the same 
+day it was received into the account, and so wasnt available to be returned. 
+C complained to TSB that it failed to prevent the fraud. C noted that TSB was able to block 
+the second payment going out of the recipients account even before Cs bank alerted TSB. 
+So it questioned why TSB wasnt able to do anything about the first payment which 
+happened just the previous day.  TSB said that it hadnt made any mistake and that the 
+matter had been dealt with correctly by it. 
+One of our investigators said that TSB could have done more to prevent the loss to C.  He 
+said that he wasnt able to conclude that TSB did anything wrong or missed something when 
+its customer (the recipient) opened the account with it. However, he noted that the relevant 
+transaction and the outgoing payments following it were unusual activities to the recipients 
+account. So he was of the view that had TSB held the first large payment out of the account 
+and looked into things, it would have had an opportunity to prevent further losses to C. But it 
+failed to do so and therefore it is fair that TSB compensates C for the losses. He worked out 
+the total amount to be refunded to be £6,950.
+TSB didnt agree. It said that it employs transaction monitoring systems that are the same as 
+the majority of the industry. It utilises a number of fraud detection and prevention tools in 
+addition. These measures strike the right balance it needs to achieve between allowing its 
+customers to transact business and questioning transactions to confirm they are legitimate. 
+The bank said that though Cs bank contacted it only a few days later, TSB had already 
+flagged a transaction that took place from the recipients account as suspicious and 
+investigated it within the same day which ultimately led to blocking of the account.  It said 
+that its response on this occasion was proportionate and in line with the industry standards.
+Recently C informed us that in April this year, TSB has returned about £3,650 to it. This sum 
+was returned by another bank to which the TSBs customer transferred about £4,000 out of 
+the £7,200. C confirmed to us that to date it hasnt received any payment from any other 
+source in relation to the £7,200.
+ 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+In broad terms, the starting position in law is that a bank is expected to process payments 
+and withdrawals that its customer authorises it to make, in accordance with the terms and 
+conditions of the customers account. And I have taken that into consideration when deciding 
+what is fair and reasonable in this case. However that is not the end of the story. A bank also 
+has an ongoing obligation to be alert to various risks in relation to the accounts with it. 
+Specifically, Im mindful that a bank:  
+must conduct their business with due skill, care and diligence (FCA Principle for 
+Businesses 2);
+have a longstanding regulatory duty to take reasonable care to establish and maintain 
+effective systems and controls for compliance with applicable requirements and 
+standards under the regulatory system and for countering the risk that the firm might be 
+used to further financial crime (SYSC 3.2.6R of the Financial Conduct Authority 
+Handbook, which has applied since 2001);
+must fairly and reasonably been monitoring accounts and any payments made or 
+received to counter various risks, including anti-money laundering, countering the 
+financing of terrorism, and preventing fraud and scams. At the material time, those 
+requirements included maintaining proportionate and risk-sensitive policies and 
+procedures to identify, assess and manage money laundering risk, e.g. through 
+customer due-diligence measures and the ongoing monitoring of the business 
+relationship (including through the scrutiny of transactions undertaken throughout the 
+course of the relationship
+must have systems in place to look out for unusual transactions or other signs that might 
+indicate risk of fraud (among other things). This is particularly so given the increase in 
+sophisticated fraud and scams in recent years, which banks are generally more familiar 
+with than the average customer.
+Ultimately, its a matter for TSB as to how it chooses to configure its fraud detection systems 
+and strike a balance between allowing its customers to transact business and questioning 
+transactions to confirm they are legitimate.  But where it is alleged that TSB didnt do enough 
+to prevent a loss which resulted from an alleged APP fraud, I will look into the circumstances 
+of the case and decide, based on what I have seen, whether in that case it could have fairly 
+and reasonably done more.
+Taking all of this into consideration, I think in this instance TSB had reason to have done 
+more. I will explain why. 
+Once Cs payment arrived into the recipients account, essentially all of it was withdrawn or 
+spent from the account within 24 hours. The first payment to leave the recipients account 
+was an ATM withdrawal for £250. I dont think this was an unusual payment or something 
+that I could reasonably have expected TSB to have intervened in.
+The second payment to leave the account was a debit card payment for a large amount and 
+it appears to be a foreign currency exchange transaction. Taking into account the historical activities on the account, this was not only unusually large, but also was an unusual 
+transaction. It represented a sudden and uncharacteristic increase in spending. In the 
+circumstances, I consider that the payment was one that TSB could and should reasonably 
+have made additional checks with their customer before it processed the payment. 
+I cannot be certain as to what would have happened had TSB contacted its customer at this 
+point. However I note that after this payment, its customer attempted another debit card 
+payment. This time the payment was blocked and TSB investigated the matter. At that time 
+TSB attempted to contact its customer but the customer did not respond, which ultimately 
+led to TSB deciding to close the account. 
+Given this, I think that had TSB blocked the first large unusual payment that went out and 
+attempted to contact its customer (which I consider it should have), it is more likely that they 
+wouldnt have responded to the banks attempts at contact. And even if they had, I dont 
+think they would have been able to convincingly explain the context of the payment they 
+were making and why they had recently received such an unusually large credit, particularly 
+where the incoming payment had a beneficiary name that was different to that of the account 
+holder.  
+I consider that this in turn would have led TSB to block the account and carry out further 
+investigation, and Cs funds would have been intact when the payers bank contacted TSB. 
+TSB told us that even if it blocked one channel of payment for investigation, say payments 
+through debit card, it need not automatically block the other channels. 
+As I said earlier, I appreciate that TSB needs to strike a balance and it is up to the bank to 
+decide what sort of measures it needed to take when a suspicious activity was flagged. 
+However, I think on this occasion, had TSB blocked the first debit card payment and looked 
+into things closely, it could have quickly reached a conclusion  for the reasons I have 
+already explained  that there are causes for concern in relation to the account activity, 
+which in turn ought to have prompted it to block the entire account pending investigation. 
+However TSB didnt do so and as such I consider it missed an opportunity to prevent C from 
+suffering a financial loss. Nevertheless, on this occasion, it appears that the bank to where 
+the funds were transferred identified the transfer as suspicious and contacted TSB 
+straightaway querying the nature of the transfer. It appears that it may have taken action to 
+withhold the funds at the time as it was ultimately able to return most of the amount 
+transferred.
+In this regard, TSB told us that it would chase the payment service provider to whom their 
+customer transferred the funds (the second generation funds) on a best endeavours basis. 
+So it is unclear why on this occasion the funds were not chased immediately when it was 
+advised of the scam, and when in fact the receiving bank contacted it straightaway. TSB 
+tried to secure the funds only after our involvement and more than a year later. As I 
+mentioned earlier, after TSB contacted that bank recently, most of the funds that were 
+transferred out were recovered. I consider that had TSB chased the funds early on, this sum 
+could have been returned a lot sooner to C. 
+For completeness, Ive also considered whether C should bear some responsibility for their 
+loss (or a proportion of it) due to any contributory negligence. But in the circumstances of 
+this complaint, I dont think they should. C was going about its business in the usual way 
+without knowledge or awareness of the scam and there was nothing suspicious about the 
+email the finance director received. So I dont think its actions can fairly be described as 
+negligent.Putting things right
+I appreciate that TSB needs to strike a balance in the extent to which it intervenes in 
+payments, against the risk of unduly inconveniencing or delaying legitimate payment 
+requests. I acknowledge the perpetrator here is the fraudster. But overall, I think TSB failed 
+to recognise the unusual behaviour on the receiving account or respond to it appropriately, 
+which ultimately resulted in an avoidable loss to C. Had it intervened and questions been 
+asked, as I think they ought to have been, it wouldve prevented a sizeable proportion of Cs 
+loss.
+So I consider that TSB should compensate C for its failure. As I said earlier, it should have 
+intervened when the second payment was made from the account (the one made after the 
+cash withdrawal of £250). This means I consider the loss to C due to TSBs failure to be 
+£6,950 (£7,200 less £250). However, TSB has ultimately recovered about £3,650. So the net 
+loss to C remains just under £3,300. TSB should return this sum to C. 
+I also think that 8% simple interest should be added to compensate for C being without funds 
+they otherwise would have had. Rounding off the sum C received to date, the interest should 
+be paid as follows: On the £6,950 from the date C raised its fraud claim with TSB until the 
+date TSB paid £3,650 to C. And then on the balance of £3,300 from that date to the date of 
+settlement. 
+ 
+My final decision
+My final decision is that I uphold the complaint for the reasons given. In full and final 
+settlement of the complaint, TSB should pay £3,300 to C together with interest as I have set 
+out above.
+ 
+Under the rules of the Financial Ombudsman Service, Im required to ask C to accept or 
+reject my decision before 16 August 2021.
+ 
+Raj Varadarajan
+Ombudsman

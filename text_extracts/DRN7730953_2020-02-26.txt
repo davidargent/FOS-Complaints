@@ -1,0 +1,112 @@
+K821x#15complaint
+Mrs O and Mr M complain  that FairFX Plc wont refund a cash withdrawal that they say they 
+didnt receive.
+background
+Mrs O and Mr M were  abroad in March  2018.  They had loaded a pre paid card from FairFX 
+with money from their joint bank account. They say they tried to take out 440 euros  from a 
+cash machine and were  unsuccessful. When they tried a different machine  the money had 
+been shown as debited and they told FairFX they wanted a refund.
+FairFX didnt agree. It said that it had disputed the withdrawal using the chargeback  scheme 
+and had received  information showing that the cash was dispensed.
+Our investigator recommended that the complaint be upheld and the money refunded  with 
+eight per cent simple  interest and £75 paid in compensation. He said that:
+-Mrs O and Mr M said that they had inserted their card into the machine and tried to 
+withdraw money but were told there were insufficient  funds. They tried again but said 
+that the machine showed that it would be converting a sterling  amount to euros  which 
+they didnt think  was correct. 
+-They said they voided the transaction and that they didnt think that the money was 
+dispensed. They said that there  was no one behind them  when they used the 
+machine 
+-Mrs O and Mr M said they went to a machine at a different financial business  and 
+were again told they had insufficient funds.
+-They have provided evidence of using different means to fund their spending  while 
+away and that they soon  contacted FairFX to complain.
+-Hed asked FairFX to provide evidence about  any amounts of money in the purge 
+box of the machine  and the journal  roll showing if there were any discrepancies 
+when the machine  was balanced but these werent provided.
+-Mrs O and Mr M had given a consistent  and plausible explanation of what  happened.  
+We typically see more evidence in a dispute like this and that was the responsibility 
+of FairFX to obtain.
+FairFX didnt agree. It said that it had fulfilled its requirements under the voluntary 
+chargeback scheme.  And that this service may like to approach the card scheme  involved  if 
+it wanted more  information. 
+ 
+my findings
+Ive considered all the available  evidence  and arguments to decide  whats  fair and 
+reasonable in the circumstances of this complaint.
+I need to consider all the issues that have  been raised by Mrs O and Mr M in this complaint. 
+And one is that they cancelled the transaction and so it wasnt authorised.
+So Ill be taking into account  the Payment Services Regulations 2017. These state  that a 
+payment can only be authorised if it was consented  to. So its not enough for it to be 
+authenticated, say with a card and PIN. And if it wasnt authorised Mrs O and Mr M wouldnt 
+generally be responsible for it.
+Ref: DRN77309532As our investigator says there  is limited  information  about the withdrawal but Im going to set 
+out some  of the key times involved  here that day. Ill be using local time HH:MM:SS 
+(seconds only available for some points) as that was one hour ahead  of the time in this 
+country:
+15:54  the card is used in the machine  involved to attempt to withdraw 466.68 euros. This is 
+more than the amount available. This may be the issue Mrs O and Mr M had mentioned with 
+being asked for a sterling amount and then this was converted  into euros.
+15:56:05  a withdrawal of 441.50  euros is requested which  included  a fee of 1.50.
+15:58  the transaction  log shows the cash was dispensed which was at least one minute 
+and 55 seconds  later but as I dont have the seconds it could be up to 59 seconds longer 
+than this (that is to say up to 15:58:59).
+15.59  Mrs O and Mr M try to make a withdrawal of 440 euros  at a different cash  machine 
+which is refused as the previous withdrawal  is showing  as authorised
+16:07  the original cash machine is next used for a withdrawal by a different customer.
+17:03:05  Mrs O contacts FairFX by email about  the issue (I think  that the time given on the 
+email was that in this country).
+Im satisfied from the available evidence that sufficient information was input  into the 
+machine to authenticate a payment. And that Mrs O and Mr M wanted  to withdraw the 
+money. They were at this machine for some minutes  and Im satisfied based on the audit 
+information that they requested a second withdrawal of 440 euros. There  is no evidence 
+from the machine  log to show that this was cancelled even if thats what  they thought. Im 
+satisfied that the withdrawal was authorised.
+The question then is whether they received  the money or not. I appreciate that FairFX has 
+raised a chargeback and that this is a voluntary scheme. Thats  often helpful  in gathering  
+evidence about  a payment. And it operates  in line with the rules  of that card scheme. But as 
+FairFX says thats not a statutory and binding approach. Its the way FairFX has been 
+dealing with this. And I cant  see any evidence its attempted  to get any further information 
+about the payment. That is fairly  its role here.
+I wont be able to say exactly what happened here. Im going  to need to think  about  what is 
+most likely based on the evidence  available.
+On the basis that the timings Ive been given above are all directly comparable I do consider 
+the time between when  the withdrawal was authorised and the cash apparently dispensed  
+relatively long especially  when waiting at a cash machine. So to me it isnt impossible that 
+Mrs O and Mr M had concluded that no money  was being dispensed. And thats  why 
+knowing whether  any money dispensed could have been purged back  into the machine if not 
+taken is especially relevant. That length of delay is also not inconsistent  with an error being 
+made in dispensing the money.  And again  the journal roll showing whether the machine 
+balanced could  have assisted here. The machine  wasnt  used for a transaction for some  
+minutes after that. Its not impossible that someone  else saw the money dispensed and took 
+it. Ive no evidence for that and if say that had happened on the timings above I dont think  I 
+could fairly  hold Mrs O and Mr M responsible for it. If for some reason these timings arent 
+directly comparable then I still would think it reasonable to see the specific evidence  about 
+the purge  bin and the journal roll (not to rely on a comment  apparently added to the 
+transaction list by the cash machine owner to say that there were no exceedings).
+I also take into account that within  about  a minute  (as I say I dont have the number of 
+seconds here) Mrs O and Mr M were at a different cash  machine and had authorised a 
+Ref: DRN77309533further withdrawal. Theyve  also shown  how when this was unsuccessful they quickly  
+contacted FairFX and later managed to fund the rest of their trip in a different way. I agree 
+with our investigator that their version  of events is plausible  and most likely  here.  Im not 
+satisfied that FairFX has demonstrated that they received  this money.
+I understand the difficulty FairFX may have felt in doing anything  more. But I have  to make 
+my decision  on the strength of evidence that is available. Its not convinced me that its fair to 
+hold Mrs O and Mr M responsible for this withdrawal. And so it should be refunded  and they 
+should be compensated. I want to say a bit more about that to ensure  that they arent out of 
+pocket. The loss in euros to them  is 441.50. This should be converted back to sterling  at the 
+rate of exchange  used when they loaded the card (which was 444 euros divided by 400 
+sterling = 1.11) resulting  in 397.75.  Theyve  mentioned that they want this paid direct  to their 
+bank account  as they dont have a use for the card now and I think  thats a reasonable 
+request. I also agree  with the simple  interest and the compensation for inconvenience 
+recommended by our investigator.
+my final decision
+My final decision is that I uphold this complaint and I require FairFX Plc to
+1)Pay, not credit, Mrs O and Mr M with £397.75 plus simple  interest  at eight percent 
+from the date it was loaded to the card to the date it is refunded  to them.
+2)Pay, not credit, Mrs O and Mr M with £75 compensation.
+Under the rules  of the Financial Ombudsman Service,  Im required to ask Mrs O and Mr M to 
+accept or reject my decision  before  26 March  2020.
+Michael Crewe
+ombudsman
+Ref: DRN7730953

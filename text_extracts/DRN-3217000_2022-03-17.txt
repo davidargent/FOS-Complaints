@@ -1,0 +1,293 @@
+DRN-3217000
+The complaint
+Mr W complains Investec Bank Plcs approach to strong customer authentication means that 
+his internet account is no longer truly an internet account. He says that means there are 
+times when he wont be able to use his account when he should be able to.
+What happened
+Mr W has five savings accounts with Investec (although hes told us that Investec is now 
+paying him zero interest on these accounts as the product he had has been withdrawn). He 
+can only withdraw money from these accounts giving three months notice and no payments 
+(standing orders, direct debits, or card payments, for example) can be made from them.
+Mr W has told us that he doesnt have a mobile phone. Hes also told us that he was happy 
+with the service he received from Investec until it migrated to an internet platform  see 
+below  and ceased its Saturday telephone service. He said that decision made any 
+telephone questions not only inconvenient but also costly  particularly if he was to call from 
+abroad whilst travelling.
+In 2016 Mr W complained to Investec about its plans to migrate to an internet platform that 
+would rely on mobile phones. He says he was told that Investec would disable the need for a 
+one-time passcode given that he didnt have a mobile phone meaning hed still be able to 
+check his account. In other words, he was told that hed have read-only access for his 
+accounts  thats been the position for several years.
+In May 2019 Mr W complained to Investec about its plans to use mobile phones to 
+authenticate their customers. Investec had written to its customers to say that theyd need to 
+be able to authenticate through a one-time passcode sent to their mobile or through its in-
+app authentication. Investec had said customers who werent able to authenticate in either of 
+these two ways wouldnt be able to get online access to their accounts. He also asked 
+Investec to send him his statements on a monthly basis so he could at least check his 
+account once a month whilst the issue of him being able to access his account online was 
+resolved. Mr W and Investec exchanged several emails about the issues Mr W was 
+complaining about.
+In July 2019 Investec sent a final response to Mr W saying that it hadnt upheld his 
+complaint. Mr W and Investec continued to correspond after this, about strong customer 
+authentication amongst other things.
+In December 2019 Investec sent what Mr W thought was a second final response saying 
+that on 14 September 2019 new requirements for authenticating online payments were 
+introduced in Europe as part of the second Payment Services Directive. Investec said that it 
+had played an active role within the industry discussing and consulting on the new 
+requirements. Having done so, Investec said it had decided to authenticate its customers 
+through a one-time passcode sent to a mobile or through its in-app authentication, as these 
+methods suited its customer base. Investec said that it believed these changes were 
+consistent with those that many banks in the industry would be making and that Mr W 
+wouldnt be able to operate his accounts online unless he used one of those two methods. 
+Investec said that it could see that Mr W had logged in and used his internet banking four 
+times in 2019 and that he could still manage his accounts through its telephone banking / 
+paper statements. Investec said to us that Mr W could call its customer services or email 
+them a request if he wanted to do so, and statements could be sent in any format including 
+by email or in paper form.Mr W subsequently complained to us in June 2020  more than six months after hed been 
+sent Investecs initial final response  normally complaints have to be referred to us within 
+six months of a final response otherwise we might not be able to consider them. He said that 
+until Investec offered at least one genuine internet (only) based method of authentication 
+there would always be scenarios when customers didnt have a viable authentication option. 
+He said that it had introduced options based on sunny day scenarios that would work for 
+most of the people most of the time but not always. He gave examples of when the options 
+offered wouldnt work, including when he was travelling. Investec ultimately consented to us 
+looking at Mr Ws complaint  after some debate over whether we could do so or not, so Im 
+satisfied were able to look into Mr Ws complaint even if it was referred to us more than six 
+months after Investecs final response.
+Our investigator looked into Mr Ws complaint and said that they didnt think Investec had 
+acted unfairly when it had said that in order to authenticate Mr W would have to use a mobile 
+phone or its in-app authentication. They didnt think guidance that the FCA has issued on 
+authentication applied to an account like the ones Mr W holds as they arent payment 
+accounts  nor the relevant part of the Payment Services Regulations to which that guidance 
+relates  and didnt think Investec had been unfair or unreasonable given the limited number 
+of times Mr W typically logged in and the nature of his accounts. Mr W disagreed with our 
+investigator, saying that all Investec had to do was offer a method of authentication that 
+works when its customers have internet access only, and that unless and until they did so 
+there would be times when he wouldnt be able to access his accounts online. For example, 
+when travelling abroad. He said that relying on a mobile phone meant his accounts were no 
+longer internet based accounts. He didnt think how hed used the accounts in the past was 
+relevant either.
+In March 2021, Mr W says Investec said it would be closing the type of account that he held 
+and would be moving to an online account for which its customers would need to supply a 
+mobile number belonging to a smartphone. As Mr W disagreed with our investigators view 
+on the complaint that he referred to us in June 2020, an ombudsman was asked to look at 
+that complaint. So thats what Im going to do. I havent looked at whether or not Investec 
+acted unfairly saying that it would be closing the type of account Mr W held and moving to an 
+online account for which its customers need to supply a mobile number belonging to a 
+smartphone as that will need to be dealt with as a separate complaint.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.In 2019, Investec contacted its customers, including Mr W, to explain that theyd need to 
+supply a mobile number in order to carry on using their accounts online. Investec said that 
+this was because of new requirements for authenticating online payments introduced in 
+Europe as part of the second Payment Services Directive. I want to explain a bit more about 
+these requirements as understanding them well is important in this case.
+Investec is right that new requirements came into effect in September 2019 and that this was 
+as a result of the second Payment Services Directive. Thats an EU directive from 2015 
+commonly known as PSD2. In the UK, the requirements of PSD2 were implemented via the 
+Payment Services Regulations 2017 (which Ill refer to as the PSRs or the regulations in 
+the rest of this decision). The regulations required payment service providers (PSPs) to 
+apply strong customer authentication in certain circumstances. Those circumstances are set 
+out in in Article 100 of the regulations which says:
+A payment service provider must apply strong customer authentication where a payment 
+service user
+(a) accesses its payment account online, whether directly or through an account 
+information service provider;
+(b) initiates an electronic payment transaction; or
+(c) carries out any action through a remote channel which may imply a risk of payment 
+fraud or other abuses.
+Its important to note that the regulations, as far as strong customer authentication is 
+concerned, only apply to payment service providers. I say that because Investec has said 
+to us  after Mr W complained to it  that the regulations do not apply to the account Mr W 
+has as its not a payment account and its not a payment services provider. The guidance 
+the FCA has issued  see next  by extension doesnt either, according to Investec.
+The FCA gave PSPs until March 2020 to implement strong customer authentication for 
+online banking. There was, of course, nothing to stop firms bringing in strong customer 
+authentication sooner than that, if they wanted to do so.
+The Payment Services Regulations define strong customer authentication as:
+authentication based on the use of two or more elements that are independent, in that the 
+breach of one element does not compromise the reliability of any other element, and 
+designed in such a way as to protect the confidentiality of the authentication data, with the 
+elements falling into two or more of the following categories
+(a) something known only by the payment service user (knowledge);
+(b) something held only by the payment service user (possession);
+(c) something inherent to the payment service user (inherence);In short, strong customer authentication involves, amongst other things, checking that the 
+person accessing a payment account online or initiating an electronic payment is permitted 
+to do so. PSPs have to authenticate the person in question using factors based on 
+knowledge, inherence or possession and must use at least two independent factors 
+when doing so. They cant, for example, check using only knowledge based factors, but 
+they can check using one or more knowledge based factors and one or more possession 
+based factors. Investecs response to these new requirements  and not, according to Mr W 
+coming up with a solution that allows him to carry on using his accounts as internet 
+accounts in the true sense of the word  and the extent to which Investec needed to 
+implement changes is at the heart of Mr Ws complaint.
+Investec and strong customer authentication
+Investec explained to Mr W in 2019 that it would be making changes to how its customers 
+authenticated because of new requirements for authenticating online payments that were 
+being introduced in Europe. Investecs comments early on, in other words, implied that it had 
+taken the view that it was going to have to make changes to its processes given the 
+requirements of PSD2 and the PSRs, and that the changes it decided to make were to start 
+authenticating its customers through a one-time passcode sent to a mobile or through its in-
+app application. Later, however, after Mr W had complained to us, Investec said that it 
+wasnt a payment service provider and that the account that Mr W had wasnt a payment 
+account.
+Having looked at the type of account Mr W had, I agree with Investec that it wasnt a 
+payment account  Mr W couldnt, for example, set up direct debits or standing orders or 
+make card payments or withdraw cash from the account. And the only way he could 
+withdraw money from the account was by giving three months notice. It would perhaps have 
+been helpful had Investec been clearer about this earlier, but its not something I can or 
+should ignore.
+Why did Mr W complain?
+Mr W has told us that he has a number of internet accounts. Hes also told us that he 
+opened these accounts because its important to him that hes able to manage his finances 
+over the internet  that, according to Mr W, is what an internet account should by 
+definition allow you to do. Hes given us lots of reasons why people generally, including 
+himself, like to open internet accounts. For example, the convenience of being able to 
+manage your finances online compared to the inconvenience of having to call your bank or 
+visit a branch (particularly during Covid and in light too of the number of branches that have 
+closed over the past few years and continue to close).
+Mr W has told us that during his career hes worked in a number of different countries, often 
+for months at a time, and that being able to manage his finances when hes away was 
+important too. Hes told us that hes now looking forward to the idea of retirement, and that 
+having saved up during his life, hes now looking forward to spending the money that hes 
+put to one side. Hes told us that he has plans, for example, to be away for six to twelve 
+months travelling around a particular region of the world (outside the EU) once restrictions 
+have been eased. And that it will be important that hes able to manage his finances when 
+hes abroad for that long period of time, and other trips he has planned. The new regulations 
+Investec mentioned  and PSD2  are, of course, about strong customer authentication in 
+Europe and not worldwide. They also require firms to authenticate using a second factor  
+commonly possession. That does create difficulties for someone who wants to be able to 
+access their accounts when they only have access to the internet, as the ability to log in from 
+any device anywhere in the world means logging on itself rarely proves possession as the 
+device used wont be tied to the customer. A trusted device is potentially different.Mr W has told us that he doesnt own a mobile phone, and hes explained why even if he did 
+it wouldnt help him manage his finances. He makes a lot of good points. Hes also told us 
+that he owns a computer  this is the device he uses when hes at home  and that the 
+computer he owns at the moment is a laptop. He does, however, routinely delete his cookies 
+ for security reasons. He cant do that and set his laptop up as a trusted device.
+Its clear from what Mr W has told us that his main complaint about Investecs response to 
+strong customer authentication is that it simply doesnt allow him to manage his finances 
+when hes travelling. He appears to have accepted for a number of years that hes only able 
+to monitor his accounts with Investec because he doesnt have a mobile phone, and that if 
+he wanted to make any withdrawals then hed have to use his landline at home to arrange 
+this. But Investecs changes mean that he can no longer log into his account unless he has a 
+mobile phone or uses Investecs in-app authentication. Mr Ws temporary solution to this was 
+to ask Investec to send him paper statements on a monthly-basis so that he could monitor 
+his accounts. So, I can see why hes said this would only work when hes at home and not 
+whenever he has access to the internet. In the circumstances, I can see why Mr W says that 
+his internet accounts were no longer operating like internet accounts because of the way 
+Investec had responded to the introduction of strong customer authentication.
+Mr W isnt complaining about Investecs decision to make changes following strong customer 
+authentication, which is an important measure designed to combat fraud. And hes not 
+complaining about having to complete additional checks either  on the face of it at least. 
+Hes told us he agrees that strong customer authentication is an important measure 
+designed to combat fraud. Im satisfied that the only reason why Mr W complained was 
+because he didnt feel Investec had offered a method of authenticating that would allow him 
+to continue to operate his accounts as internet accounts. He wouldnt have complained had 
+Investec, for example, offered him the option of authenticating using a token.
+What has the FCA said about strong customer authentication and its expectations?
+Mr W has referred to what the Financial Conduct Authority (the FCA) has said about strong 
+customer authentication. The FCA has published several papers encouraging firms to think 
+about the impact on different groups of customers, and emphasised that firms shouldnt rely 
+only on mobile phones and should provide viable alternatives for those who dont possess a 
+mobile phone, or those who may make payments in areas without reception. Mr W has 
+quoted the FCAs guidance  and guidance from others too  to support his complaint and 
+Ive spoken to him about it in detail.
+Should Investec do more for Mr W?
+Mr W has told us that he doesnt own a mobile phone and that the papers the FCA and 
+others have published on strong customer authentication are relevant to this complaint. I 
+dont entirely agree here  given that I accept that the type of account Mr W has isnt a 
+payment account. 
+Having taken everything into account, I dont think it was unfair or unreasonable of Investec 
+to consider strong customer authentication when it was deciding whether or not it wanted to 
+make changes to the ways it authenticated its customers  strong customer authentication is 
+an important measure to help combat fraud. I dont think Mr W would disagree with me  
+hes said that he supports strong customer authentication. The key question for me is 
+whether or not it was fair and reasonable of Investec to offer two alternative ways of 
+authenticating only  namely by sending an OTP to a mobile number or authenticating in-
+app.I dont think Mr W can say that Investec dont offer him a way to check and manage his 
+accounts when hes at home because he can use his landline to do everything he wants to 
+be able to do. He can find out his balance, get statements sent by email and give notice that 
+he wants to withdraw his money. I accept that this wouldnt be true internet banking as far 
+as Mr W is concerned as it would mean he would have to rely on his landline and couldnt 
+just rely on the internet. But I dont think I can say its unfair or unreasonable that Mr W has 
+to use his landline if he wants to find out his balance or otherwise manage his savings 
+account whilst hes at home. Investecs phone lines arent open 24/7 so I accept that Mr W 
+isnt able to check his balance or manage his savings 24/7. But given that he cant withdraw 
+money from the accounts without giving three months, I dont think I can say thats unfair. I 
+cant see a situation where it would be fair to say that he shouldnt have to wait until 
+Investecs phone lines are next open, particularly given how often he accesses or is likely to 
+access his account. 
+I accept that Mr W isnt able to use his landline to find out his balance or otherwise manage 
+his savings accounts when hes not at home  for obvious reasons. So, I have to consider 
+whether Investec has given Mr W a viable alternative to use when hes not at home and, in 
+particular, when hes travelling abroad. More importantly, I have to consider whether 
+Investec should have given Mr W a viable alternative in those circumstances in the first 
+place. And, having done so, and having taken everything else into account, I have to decide 
+whether whats happened here is fair and reasonable in all the circumstances or not. So 
+thats what Im now going to do.
+The FCA has said  and I think its fair and reasonable  that in its view payment service 
+providers should be giving their customers several different ways to authenticate 
+themselves, and not just rely on mobile phones, so that authentication works for all groups of 
+consumers. I can see why the FCA said this  as its paper makes clear, not everyone owns 
+a mobile phone, nor is everyone able to use a mobile phone. So, its important that these 
+groups arent overlooked otherwise they could find that theyre unable to access online 
+banking or make online payments or manage their accounts remotely. And these arent the 
+only groups potentially affected. Or the only scenarios when authentication can be 
+problematic, depending on the solution adopted. Mr W, given his background, is perhaps 
+more knowledgeable than many when it comes to potential pitfalls here. Hes worried, in 
+particular, about whats going to happen when large numbers of people (including himself) 
+start to travel again. And hes worried too about some of the technologies that businesses 
+are relying on  some of which he says are unreliable (because they were never designed to 
+be used the way they are now being used) and some of which he says will soon be 
+redundant. Hes told us that many businesses, including Investec, are relying on sunny day 
+solutions, by which he means solutions that work when everything is well, but break down 
+easily. Hes told us that this is because businesses, including Investec, havent focussed on 
+whats key here  and that, according to Mr W, is making sure at least one solution works 
+whenever a customer has internet access. I can see that there has been a lot of discussion 
+about consumers who might live or work in areas of limited mobile reception, and some 
+discussion about what happens when consumers travel abroad to the EU and beyond  
+particularly the implication of roaming charges, for example. I agree with Mr W that this might 
+well be an issue that will cause problems in the future, and it would have been helpful to 
+have more material here which I could have considered on how far businesses need to go. 
+But I also have to remember that I am looking at this individual complaint, and that I have to 
+decide whats fair and reasonable in all the circumstances. Its important too that I remember 
+that the account that Mr W has isnt a payment account.As Ive already mentioned, Mr W has savings accounts with Investec. They arent accounts 
+which he can withdraw money from instantly, nor are they accounts he can send payments 
+from using faster payments or CHAPS. Nor are they accounts that have a card attached to 
+them. In fact, if he wants to withdraw money from them he has to give three months notice. 
+They are also accounts that Mr W has accepted hes only able to view for several years, 
+ever since Investec introduced OTPs in 2016  see above.
+Mr W hasnt been able to give us any examples of when he had been unable to get 
+information about his accounts or manage them when he wanted to  although he has been 
+able to give me an example of when he had a problem at an airport because a card he had 
+got blocked on account of security checks. Mr W has said to us that the way hed operated 
+his accounts in the past wasnt relevant  he says the only thing thats relevant is how he 
+wanted to operate his accounts. I agree with Mr W to a degree. Its clear that hes moving 
+from a period in his life when he worked and has saved to a period in his life when hes likely 
+to want to spend his money and is likely to travel abroad far more and for long periods of 
+time. So, what hes done in the past is likely to be less relevant. I do, however, think I can 
+and should take into account the type of account he had, and how it can be used. In this 
+case, as Ive said, he has savings accounts that he is only able to withdraw money from by 
+giving three months notice. And I also think I can and should take into account how hes 
+used the account in the past and how he would have been likely to do so in the future.
+Having considered everything, I dont think it was unreasonable or unfair of Investec to say 
+that if Mr W wants to manage his accounts online he has to do so using an OTP sent to a 
+mobile phone or its in-app authentication. Thats because Mr W is able to do everything he 
+wants to do when hes at home as he has a landline. I accept that using his landline  
+effectively telephone banking  to manage his account isnt the same as being able to 
+manage it online. And if this account had been a payment account that might be enough to 
+say that Investec wasnt acting in a fair or reasonable way. But its not, and that means 
+Investec isnt under the same obligations as it would be if it was a payment account. These 
+are accounts that Mr W checked once every three months or so, and accounts he cant 
+transfer money out of without giving three months notice. And for those reasons, even 
+though I accept that Mr Ws use of these accounts is likely to change in the future, I also 
+dont think its unreasonable that hell have to manage his affairs in a way that accounts for 
+any long periods he decides to go abroad, particularly if he chooses to travel outside Europe 
+and to areas that are remote or with limited coverage.
+My final decision
+My final decision is that Im not upholding this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr W to accept or 
+reject my decision before 31 March 2022.
+ 
+Nicolas Atkinson
+Ombudsman

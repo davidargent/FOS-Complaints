@@ -1,0 +1,62 @@
+DRN-3786265
+The complaint
+Mr I is unhappy that Revolut Ltd wont refund a transaction he didnt authorise.
+What happened
+Mr Is partner received an email saying they had sold something they were selling 
+online. After following the link, Mr I shared his card details and a onetime passcode  
+he thought this was to receive the payment for the item theyd sold. 
+Moments later, a card payment using Google Pay was made from Mr Is account for 
+£2,299.67. Mr I raised this with Revolut. It declined to refund the payment  it said it 
+couldnt proceed with a chargeback claim and it referred to its terms and conditions 
+about sharing security details.  
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Revolut seem to have accepted Mr I didnt authorise this transaction. I agree. As per 
+the Payment Services Regulations 2017s description of when a payment is 
+authorised, I dont think Mr I consented to it using the form and procedure that was 
+agreed between him and Revolut. Instead, Mr I was tricked into sharing details which 
+allowed a fraudster to add Google Pay to their device. The fraudster then made the 
+transaction. 
+In saying this, I have noted Revoluts comments that under chargeback rules, a 
+payment that passed 3D Secure verification is authorised. But the transaction details 
+dont suggest this was an online transaction, so Im not convinced that 3D Secure is 
+relevant. 
+So, in line with the PSRs, the starting position is that Revolut is liable for the 
+unauthorised transaction. But Mr I can be held liable where he failed with intent or 
+gross negligence to comply with the terms of the account and keep his personalised 
+security details safe.
+Revolt hasnt suggested this happened because Mr I failed with intent. It noted he 
+shared details with his partner, but it accepted he wouldve likely acted in the same 
+way. Instead, Revolut submitted that Mr I failed with gross negligence. 
+Having considered the circumstances carefully, Im not persuaded he did. Ill explain 
+why. 
+Mr I shared his card details as he thought they were needed to receive a payment for 
+something he and his partner had sold. I dont think it sounds implausible that card 
+details would be needed to receive a payment. Ive also considered that the webpage 
+looked convincing  it had the online marketplaces name in the website address and 
+referenced the specific item they were selling. So I dont think Mr I was significantly 
+careless for sharing this information  I think lots of people wouldve done. 
+After inputting the card details, the webpage asked for a onetime password that had 
+been sent to Mr Is phone  it said this was to confirm his bank details. I can see how 
+this sounded persuasive to him at the time  after all, people are genuinely asked for 
+onetime passwords from various organisations to confirm their identity. And given 
+that Mr I was primed to expect the password, I can see how he shared it without 
+realising its actual purpose to set up Google Pay. I dont think it meant he seriously 
+disregarded an obvious risk. 
+So, in all, I think Mr I was tricked into sharing information by a clever and convincing 
+scam  and Im not persuaded he failed with gross negligence. So, in line with the 
+PSRs, I conclude that he isnt liable for the transaction and Revolut needs to put 
+things right  by refunding his losses from this unauthorised transaction alongside 
+interest to compensate him for the time hes been out of pocket.
+My final decision
+For the reasons Ive explained, I uphold Mr Is complaint. Revolut Ltd must: 
+Pay Mr I the total of the unauthorised transaction, less any amount recovered or 
+already refunded  I understand this to be £2,299.67.
+Pay 8% simple interest per year on this amount, from the date of the unauthorised 
+transactions to the date of settlement (less any tax lawfully deductible).
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr I to accept or 
+reject my decision before 26 January 2023.
+ 
+Emma Szkolar
+Ombudsman

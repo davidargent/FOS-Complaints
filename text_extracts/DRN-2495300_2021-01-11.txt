@@ -1,0 +1,159 @@
+DRN-2495300
+The complaint
+Mr A has complained that TSB Bank plc refused to refund transactions on his account, which
+he says he didnt make, and that it registered a fraud (CIFAS) marker against his name.
+What happened
+On 4 November 2019, between 03.55 and 04.45, there were multiple faster payments, 
+totalling £8,771.98, from Mr As current account to a third-party account. The payments 
+were funded by internal transfers from Mr As savings accounts to his current account and 
+faster payments into his account from the same third-party account.
+Mr A said he was woken up at 05.00 by text alerts on his phone. When he checked his 
+phone, he saw the transactions.
+He called TSB and raised a fraud complaint. He said he didnt make any of the 
+transactions and he didnt know the third party. He said he wasnt expecting any money 
+from this or any other person. He told TSB that he was asleep at the time in a locked 
+room. He said he owned two mobile phones  an android and an iPhone. He said he kept 
+his iPhone in a wardrobe in his bedroom. Hed stopped using it in August 2019, when his 
+employer gave him a work phone. He said he hadnt disclosed his passwords for his 
+phones or his mobile banking log in details to anyone and he hadnt kept a written note of 
+this information. He confirmed that he hadnt received any suspicious texts or emails and 
+he hadnt had any issues with his phones. He said the transactions were out of character 
+for him and that hed never made transactions at that time of day or night.
+He asked TSB for a refund.
+TSB investigated his complaint and decided not to refund him. It said there was no 
+evidence of fraudulent activity and concluded that Mr A had made the transactions himself 
+because:
+an iPhone, registered to his account, was used to make the internal transfers 
+and payments from his account. He had used this device before.
+The log in was done via the mobile banking app. His log in details would have 
+been needed to make the transactions.
+There was no evidence of how a third party gained access to his iPhone, as Mr 
+A said it was stored in a wardrobe in the room he was sleeping in and that 
+room was locked at the time.
+Mr A said he hadnt shared his log in details or password for his iPhone with 
+anyone else.
+It wasnt likely a fraudster would transfer money to his account.
+Subsequently, TSB closed his account and registered a CIFAS marker against 
+Mr As name. Mr A didnt think this was fair and so he asked this service to investigate.
+An investigator looked into his complaint and recommended a partial uphold. In summary, 
+he felt unable to conclude that the disputed payments had been made fraudulently and was 
+persuaded they were most likely made and authorised by Mr A. However, he didnt agree 
+TSB had satisfied the test for registering the CIFAS marker and he asked TSB to remove it.
+Mr A didnt accept the investigators view that he had authorised the disputed payments. He
+said he believes he should get his money back or some sort of compromise. He also asked
+for the CIFAS marker to be removed. TSB disagreed with the investigators view on the 
+CIFAS marker. It said it had taken advice from CIFAS and it was satisfied it had met the test 
+for registering a marker. Both asked for an ombudsmans final decision.
+I completed a provisional decision on 2 December 2020. I decided it was more likely than not 
+that Mr A had authorised the disputed transactions and that it was reasonable for TSB to 
+hold him liable for them. I also decided that TSB had satisfied the test for registering the 
+CIFAS marker.
+TSB accepted this outcome. Mr A didnt. He maintained he didnt commit a fraud and that he 
+wouldnt throw away his future for £8,000. He said it made no sense for money to be 
+transferred back and forth between his account and a strangers account. He said he didnt 
+gain financially from the disputed transactions and as he didnt commit a fraud, there 
+shouldnt be a fraud marker against his name.
+I now have enough information to make my final decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+When considering what is fair and reasonable, Im required to take into account: relevant law
+and regulations; regulators rules, guidance and standards; codes of practice; and, where
+appropriate, what I consider to have been good industry practice at the relevant time. These 
+considerations are set out in my provisional decision and so I wont repeat them here.
+Having reviewed the evidence, arguments and relevant regulations, Im afraid Ive reached 
+the same conclusion as I did in my provisional decision. Where appropriate, Ive referred to 
+the points Mr A made following that decision.
+The banks technical evidence shows Mr As iPhone was used to make the disputed 
+payments together with his log in details for the mobile banking app. Im satisfied, therefore, 
+that the disputed payments were authenticated. But the regulations relevant to this case say 
+that is not, on its own, enough to enable TSB to hold him liable. So, Ive considered whether 
+the evidence suggests that its more likely than not that Mr A made the disputed payments 
+himself.
+From what Ive seen, I dont think its unreasonable for TSB to conclude that Mr A made the
+disputed payments himself. Not only was his iPhone used, but the evidence also shows that
+biometrics were used to log in to the mobile banking app and to make the first payment.
+Theres no evidence of any password resets, a sim swap or that Mr As phone had been
+redirected  all of which might point to third party activity. And the transactions were made
+from an IP address, which had been used in the past for genuine transactions, thus ruling
+out remote access to his phone by a third party.Originally, Mr A told TSB that both his phones were secured using biometrics. When TSB
+explained that meant only he could access his phones  and especially if his room was
+locked at the time - he changed his evidence to say that he logs in using three characters
+from memorable information. But even if this were true, Mr A hasnt provided a plausible 
+explanation for how a third party gained access to his iPhone, which was in a locked room, 
+or knew his log in details. He confirmed that he hadnt written down this information or 
+shared it with anyone else. So, on his own admission, only he knew the log in details for his 
+iPhone and only he had access to it. Also, as Ive already mentioned, TSB said biometrics  
+either fingerprint or facial recognition  were used to log in to the mobile banking app which 
+means only Mr A could do this.
+Mr A didnt respond to this evidence in his reply to my provisional decision. And he hasnt 
+provided any evidence showing any faults or tampering with his phones.
+Ive also considered the fact there were credits into Mr As account totalling £8,584.01. The
+credits came from the third-party account. The money was paid back to the third-party
+account. Mr A said it makes no sense for him to do this. He asked why he would do this. I 
+agreed this was very odd. But I think its equally unusual for an unknown third party to make 
+payments into a victims account and send it back, as the risk of being caught is very high. 
+Im afraid Im not persuaded, therefore, that an unknown third party paid these credits into Mr 
+As account. 
+In summary, Im afraid I dont find Mr As testimony to be persuasive or plausible. As well as
+the change in his evidence about how he logs in to his iPhone, he said hed stopped using it
+in August 2019 as his main phone, that hed wiped it and kept it stored in a wardrobe. He
+said he used his iPhone occasionally if his other phone needed recharging. He told this
+service he often forgot his mobile banking password and had to reset it. He also said that
+hed never made transactions in the middle of the night.
+However, his evidence is contradicted by the technical evidence. The banks online audit
+report shows that he was logging in to his mobile banking app regularly throughout
+September, October and November 2019 and he had made payments during this period.
+He couldnt have wiped his iPhone, if he were using the mobile banking app.  And, there
+was no evidence that hed reset his password.
+Also, the banks transactions reports show that he had made transactions at this time of
+night/day in the past, for example:
+4 June 2019 at 12.46am
+21June 2019 at 1.54am
+27 July 2019 at 12.21am
+15 August 2019 at 1.23am
+1 September 2019 at 3.56am
+25 September 2019 at 12.20am
+24 October 2019 at 1.08 am
+25 October 2019 at 12.30am
+3 November 2019 at 12.20am
+Again, Mr A didnt comment on any of this evidence in his reply to my provisional decision. 
+Based on all the evidence, Im afraid I think its more likely than not that Mr A authorised the
+disputed payments and I consider that its fair and reasonable for TSB to hold him liable for
+them.
+Ive considered his complaint that TSB should have been alerted to the activity on his
+account. The banks dont share the details of its anti-fraud detection systems with thisservice, for obvious reasons. This is highly commercially sensitive information. Despite this,
+Im afraid I dont consider there were any obvious signs of fraud which should have
+prompted the bank to send a text message. This is because the disputed payments were
+made with a trusted device, the IP address had been used for genuine transactions and it
+wasnt unusual for Mr A to make transactions late at night or in the early hours.
+CIFAS
+I wont repeat the test for registering a CIFAS marker. Our investigator has already explained
+it in his view. It doesnt always follow that a bank must register a CIFAS marker when it, or
+this service has rejected a fraud complaint. Thats because the relevant regulations talk of
+unauthorised transactions. There are occasions when a disputed transaction is treated as
+authorised, but the claim isnt fraudulent.
+However, I think it was clear from the technical evidence in this case that Mr A wasnt
+completely truthful with this service or TSB. And as theres no credible alternative scenarios
+for how the transactions were made e.g. that he shared his details with someone he knew, 
+and they made the transactions, then Im afraid I have no option but to conclude that Mr A 
+has made false representations with a view to making a financial gain. I note Mr A said he 
+hasnt gained financially and that he is now out of pocket by £8,000. However, by making a 
+claim against TSB he was hoping for a refund, which would be regarded as a financial gain.
+In these circumstances I consider that TSB has met the test for a CIFAS marker and that it 
+has acted fairly and reasonably.
+I appreciate that a CIFAS marker can have an impact on a customers ability to access 
+financial services. A CIFAS marker shouldnt automatically cause a bank or other financial 
+service provider to decline an application for goods or services. The CIFAS principles state 
+that financial service providers must interpret the information in a proportionate manner, in 
+other words as appropriate and relevant having regard to its products and risk appetite. 
+However, I accept Mr A wont find this reassuring. 
+Im sorry this isnt the outcome Mr A was hoping for, but I trust the reasons for my decision 
+are clear.
+My final decision
+My final decision is that Im not upholding this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr A to accept or 
+reject my decision before 8 February 2021.
+ 
+Razia Karim
+Ombudsman

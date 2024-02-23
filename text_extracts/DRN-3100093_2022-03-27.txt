@@ -1,0 +1,139 @@
+DRN-3100093
+The complaint
+Mr W says Interactive Brokers (UK) Ltd (IB) failed to execute his options exercise 
+instruction on 17 April 2020 (the date), so the contract he held expired worthless and he 
+incurred a loss. He seeks compensation for his loss.
+What happened
+The instruction related to Mr Ws long options put position in Luckin Coffee Inc. (LC), at 
+strike price $25, which expired on the date. This position was part of a short options spread, 
+so it was coupled with a short put position in the same stock but at a higher strike price. The 
+instruction was intended to exercise the long position (that is, to realise its value at the time), 
+as opposed to the position expiring without being exercised and therefore expiring worthless.
+Mr W submitted the instruction through the mobile trading platform. IB says it did not receive 
+an exercise instruction from him on the date, so his position expired worthless. Both parties 
+have referred to IBs notice about a halt in trading on the LC stock that was sent to clients. 
+Mr W accepts that he received this notice on 15 April 2020. 
+The notice referred to the halt in trading, to the Options Clearing Corporation (OCC)  the 
+clearing house for the options contract  suspending its exercise by exception process for 
+options on the stock (which was the process of automatically exercising in-the-money 
+options upon expiry) and to IB applying a different process for those who wished to exercise 
+their options in the stock. The notice explained this as follows:
+While this announcement does not prevent you from exercising your long LK option 
+contracts, it does require that you provide IBKR with affirmative instructions if you wish to do 
+so. If you do not provide us with such instructions by the close of regular trading hours in 
+New York on April 17, 2020, any expiring contracts will not be exercised (and will expire 
+worthless, whether in-the-money at the time or not) regardless of their type or strike price. 
+Instructions must be provided by this deadline via the Message Center in Client Portal.
+Mr W says he had enquiries and concerns about submitting his instructions through the 
+message centre and that he tried to call IB for this reason but could not get through. His 
+concerns remained and because of them he did not use the message centre for his 
+instruction, instead he submitted it through the mobile trading platform. IB says no instruction 
+from him was received as prescribed in the notice  that is, through the message centre  so 
+his position expired unexercised and it did nothing wrong in the matter. Mr W maintains that 
+the mobile platform facility for the instruction was functional when he used it, so his 
+instruction was successfully submitted to and received by IB. He says that the facility being 
+in working order at the time meant he was entitled to rely upon it and if IB did not permit its 
+use then the facility would have been blocked.
+As the long put position expired worthless it no longer covered the short put position in the 
+spread, so Mr W faced exposure to an uncovered loss arising from the latter being exercised 
+against him. His concerns about using the message centre  and reasons for not doing so  
+were/are mainly as follow:
+Such messaging was not normally permitted for orders or instructions, and IBs 
+notice gave no guidance on how the exercise instruction should be set out (and to 
+whom it should be addressed). The notice was inherently unclear and it should not 
+have been. Furthermore, response times associated with messages were usually 
+poor and, at the time, IB was warning that response times would be even slower than 
+usual.
+There was no function in the messaging centre that confirmed submission and/or 
+acceptance of an instruction.
+He was unsure about whether (or not) an instruction submitted in this way would be 
+irrevocable.
+His reading of the notice was that it was intended for those who relied on exercise by 
+exception automatically applying to the their positions upon expiry, so it did not 
+necessarily follow that express instructions through the mobile platform  for those 
+who actively instructed the exercising of their positions  were disallowed; especially 
+as the notice did not say this and as the mobile platforms facility for this remained 
+open and functional.
+One of our investigators looked into the complaint and concluded that it should not be 
+upheld. In the main, he considered that IBs notice made clear that circumstances 
+surrounding the options contract were not normal (due to the trading halt) and made clear 
+what Mr W was required to do to exercise his position in such abnormal circumstances. In 
+his view, Mr W failed to do as the notice set out and IB did not receive an instruction from 
+him in the way it required such instructions at the time, so IB had done nothing wrong in the 
+matter. He also noted that IBs notice about the specific event was consistent with the 
+provisions within its terms of service for extraordinary events. 
+The investigator also made observations about the possible reason behind IBs requirement 
+for instructions through the messaging centre, about opportunity Mr W had to raise his 
+enquiries through the messaging centre at the time and about the cancellation of the 
+instruction he placed through the mobile platform. Mr W strongly disagreed with the overall 
+outcome. He gave focused responses to the investigators observations, which he 
+considered (with reasons) to be misguided. In the main, he repeated and elaborated upon 
+the same concerns about using the messaging centre as summarised above. He also 
+argued that evidence of his instruction being received at 10:54 on the date, not being 
+rejected at the time and being cancelled at 16:40 on the same date (without notice of 
+cancellation to him) shows wrongdoing on IBs part.
+The matter was referred to an ombudsman.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I do not uphold Mr Ws complaint.
+I consider that the supplementary observations made by the investigator were intended to 
+provide context that he thought could be helpful for his findings. I understand Mr Ws 
+rebuttals to those explanations, but I am not persuaded that they need to be treated further. 
+The scope of his complaint is relatively limited and the key evidence within it is undisputed. 
+As the investigator concluded, IBs notice was issued in abnormal circumstances and it set 
+out what Mr W was required to do in order to exercise his long put position. On this basis, 
+and on balance, I do not consider that IB has committed a wrongdoing in relation to his position expiring unexercised and worthless. That happened because he did not submit the 
+instruction as he was required to.
+The key piece of evidence is the notice that IB sent, and that Mr W received three days 
+(inclusive) before the expiry of his position. As quoted above, the notice said  If you do not 
+provide us with such instructions by the close of regular trading hours in New York on April 
+17, 2020, any expiring contracts will not be exercised (and will expire worthless, whether in-
+the-money at the time or not) regardless of their type or strike price. This made clear that an 
+express instruction was required. In this respect, I acknowledge that an account holder who 
+had relied on the default exercise by exception process could have been prompted to take 
+this message seriously  because it asked for action that s/he would not have previously 
+planned to take  but I disagree with the argument that only such accountholders were the 
+audience for the notice. The notice had nothing to state or suggest this, and it made no 
+distinction about who it was targeted to, it applied generally to all who held the relevant 
+options contract associated with the LC stock.
+The notice then said  Instructions must be provided by this deadline via the Message 
+Center in Client Portal [my emphasis]
+It is fair to say that the message in this sentence could not be clearer. Submission of 
+instructions through the message centre was mandatory for those who wished to submit 
+their exercise instructions. As such, by using the mobile platform facility Mr W knew that he 
+was acting outside what IB required for exercise instructions at the time, and he knew the 
+abnormal circumstances that had led to the norms no longer applying and had led to the 
+unusual  as he says  process of accepting such instructions through the message centre. 
+The fact that he acted outside what was required was his choice.
+I understand Mr Ws argument that his actions were forced upon him because of the 
+concerns and reasons he set out, but I disagree with it. He had written record of IBs notice 
+requiring him to use the message centre for his instruction. The wording of the instruction 
+would arguably have been obvious  given that its objective was to exercise the options 
+position  and addressing it to a relevant recipient (such as the dealing desk/team, or 
+equivalent or a recipient matching what was on the mobile platform) would not have been an 
+unreasonable expectation. The important task was to ensure that his instruction was 
+submitted in the way that he had received notice to do. If, upon doing so, his instruction was 
+subsequently mishandled by IB he would have had a different case to what he presently has. 
+He would have submitted his instruction as required and any mishandling thereafter could or 
+would potentially have been IBs liability. Instead, he undertook full liability by not submitting 
+his instruction as required.
+I also do not find merit in the argument about the mobile platform facility continuing to 
+function. If Mr W was not given IBs notice and if he had used the mobile platform without 
+knowledge of that notice, the argument could develop weight, but that was not the case. He 
+used the facility knowing it was not what IB had asked him to do so, as I said above, he 
+undertook full liability. Given the circumstances, he had no grounds to expect execution of 
+an instruction submitted in the wrong way. Reference to his instruction being logged in the 
+morning, reference to it not being cancelled until later in the afternoon and reference to him 
+not having notice that there was anything wrong (in terms of rejection or cancellation) with 
+the instruction is somewhat irrelevant to the specific complaint. The instruction was wrong at 
+the outset because IBs notice said how instructions must be made at the time, and use of 
+the mobile platform was not what was required. With regards the alleged lack of news to    
+Mr W, about its cancellation, this appears to be a different complaint that has yet to be made 
+ it appears remote to the complaint about the instruction not being executed.My final decision
+For the reasons given above, I do not uphold Mr Ws complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr W to accept or 
+reject my decision before 25 April 2022.
+ 
+Roy Kuku
+Ombudsman

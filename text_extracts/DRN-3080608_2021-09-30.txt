@@ -1,0 +1,161 @@
+DRN-3080608
+The complaint
+Mr S complains that he wasnt able to access his account with Revolut Ltd after travelling.
+He wanted our service to look at the customer service options Revolut provides, and
+consider the security of his account.
+ 
+What happened
+Mr S is a frequent traveller, and he told us he uses the Revolut app to move money between
+currencies, and provide access to his money while hes away from home.
+Mr S said he first registered the Revolut app with a number from his country of residence. He
+then spent some time in Turkey, and was able to change the number held on the Revolut
+app, and use his app with a Turkish sim card in his phone. Mr S then returned to his country
+of residence, and switched back to a sim from there. He said he used the card from time to
+time. Then in December 2019 he transferred over £2,000 into his sterling account with
+Revolut.
+In January 2020 he went to a country in Asia for seven weeks. He said he wasnt able to
+change his number to a local number there, but he was still able to use his Revolut account
+and withdraw money.
+In mid-February he returned to his country of residence, and went back to using a local sim
+card. But he couldnt access his Revolut account. Mr S said that the app was asking for his
+phone number but seemed unable to accept this number and always returned a message
+"Something went wrong......".
+Mr S said Revolut suggested hed forgotten his password, and it took several emails to
+convince it otherwise. Revolut suggested he could open another account, but it wouldnt
+reassure him that the money in the old account wouldnt be lost, because it said he couldnt
+tell it the phone number of that account.
+Mr S said he offered to send a photo of himself, holding his passport, and his Revolut bank
+card, but it still wouldnt agree he could access his old account. So he opened a new
+account, and fortunately the money was moved across.
+Mr S said he wanted to know why there was no customer service phone number to contact
+Revolut, outside of the app. And he also wanted to know why other forms of proof of ID
+werent acceptable. He wanted to know how hed been able to use the account for so long, if
+the phone number in Revoluts data bank was different to the phone number he had.
+Mr S said that Revoluts customer service and security provisions werent good enough, and
+needed to be significantly upgraded. And he wanted Revolut to pay him compensation. He
+said Revolut had only offered him eight months of free premium service, and he didnt think
+that was enough to make up for what had gone wrong.
+Revolut said its users dont need to change the phone number on the app whenever they
+travel. Its app targets people who travel, and its built to work everywhere without the need to
+change anything. So Revolut said it was Mr Ss decision to change the number. And Revolut
+said that it isnt possible to use a number from every country for the app, due to local
+regulations which restrict its operations in some countries. Thats why Mr S couldnt add a
+number from the country he visited in Asia.
+When Mr S first asked Revolut what had gone wrong, and why his app wouldnt accept a
+number from his country of residence, Revolut said that was a technical issue. But when
+our service asked, Revolut offered a different explanation.
+Revolut said that when Mr S was trying to log back in with a number from his country of
+residence, he couldnt because he had previously changed the number the app was
+registered to, over to a Turkish number. So the app couldnt open Mr Ss account simply
+because at that time the number he was inputting was no longer linked to his account.
+Revolut sent evidence that Mr S changed the number to a Turkish one in late 2019, and that
+its agent changed it back in late March 2020, to one from his country of residence, to allow
+him to access the account.
+Revolut said it had tried calling Mr S, but on the number it held for him, which was the
+Turkish number. So he didnt answer. Revolut said it had done what it could to try to help Mr
+S. It thought it hadnt done anything wrong, so it said that its offer was fair.
+Our investigator didnt think this complaint should be upheld. She said that Mr S had
+changed his number from a number from his country of residence on 20 November 2019,
+and just hadnt changed it back. So the reason he couldnt get back into his account when he 
+returned to his country of residence was because he was trying to log in using a local
+number, but the number Revolut held for him at the time was a Turkish number.
+Our investigator said Revolut changed Mr Ss contact number back to one from his country
+of residence on 30 March 2020. And this is when he was able to access his account again.
+Because Revolut hadnt done anything wrong, our investigator thought that its offer of eight
+months of a premium plan (or the money equivalent, which is £48) was reasonable.
+Mr S didnt agree. He said that Revolut didnt get him back into his account. He wasnt able
+to access the account because that can only be done through the app and with the phone
+number on record. So he had to take the chance and close that account and open a new
+one, in the hope that the money in the old account could be transferred, when he had the
+chance to prove his identity.
+Mr S said our answer didnt explain how transactions were carried out when he was using
+the wrong sim card. He wanted to know, if he still had a Turkish number registered with the
+app, why he could use the app in his country of residence, then in Asia but then returning to
+his country of residence it wouldnt work? He wanted us to ask Revolut for an explanation.
+Our investigator said Mr Ss card had always worked, but Mr S said that wasnt what hed
+asked. Because no agreement was reached, this case was passed to me for a final decision.
+My provisional decision
+I issued a provisional decision on this complaint and explained why I did propose to uphold 
+it. This is what I said then: 
+I can see that Mr S started raising this issue with Revolut on 26 February 2020. He 
+was told on 4 March to use the apps chat feature to contact Revolut to discuss the 
+problem. But Mr S had already said he couldnt access the app.There followed a long conversation where Revolut repeatedly said to Mr S that he 
+needed to input the number associated with his account, and he repeatedly said that 
+he was doing just that, but not seeing what Revolut told him he should see.
+I can see how frustrating this was for Mr S. He and Revolut were talking at cross 
+purposes, and he wasnt making any progress. But I dont think that was primarily 
+Revoluts fault.
+With an app like this, the phone number registered to the account is a key piece of 
+information to access that account. Its the equivalent of a username. And the core 
+issue here is that, while Mr S was trying to solve this problem, he was quite confident 
+that the phone number he was giving Revolut was the right one, registered on the 
+app. But we now know, from Revoluts internal records, that it wasnt.
+Mr S had changed the number, when he went to Turkey. Ive seen the logs which 
+show the number changed in late 2019, from a number that started with an 
+international code from Mr Ss country of residence, to a number with a Turkish 
+international dialling code. The last three digits of that number match the digits that 
+Revolut tried to prompt him with, when it was asking him if he could remember the 
+number on his old account.
+Mr S then hadnt changed the number back, when he came back to his country of 
+residence. The app still held the Turkish number, while he was at home, in Asia, and 
+then back at home again. Revoluts logs show the number didnt change back, to one 
+that started with an international code from Mr Ss country of residence, until late 
+March 2020.
+So the number Mr S thought this account was registered to, wasnt the right one. I 
+think thats whats gone wrong here, and why it took Revolut so long to help him.
+Although I understand that this was very frustrating for Mr S, I do think that Revolut 
+tried to help. I dont think it was Revoluts fault that it wasnt able to help Mr S at first. 
+It was working on the basis of what he told it, that the number he was inputting was 
+the right one. So I dont think it was Revoluts fault that Mr S wasnt able to access 
+his account for some time.
+But I do think that Revolut had a responsibility, as part of dealing with Mr Ss 
+complaint, to tell him what had gone wrong. And I cant see, when Revolut responded 
+to his complaint, that it ever did that. It just told him this was a technical glitch. And 
+it wasnt. 
+I think that was a mistake. Revolut ought to have explained to Mr S why the number 
+from his country of residence wouldnt unlock the app, and told him the things it has 
+set out for our service now. Mr S shouldnt have to bring a complaint to our service, 
+just to find out why he couldnt log into his account.
+We know that Mr S was able to open a new account, and he got access to more 
+detailed help in that way. Revolut was then able to verify his identity, and delete the 
+new, duplicate account, as well as restore his access to his original account.
+Mr S said he was worried hed lose his money, and Revolut wouldnt reassure him on 
+that. But I havent been able to see that Mr S raised concerns about whether the 
+money in his old account would be lost, and didnt receive reassurances on that.Mr S also wanted our service to explain how he could use the card for so long, with 
+the wrong number. I cant be sure why the app didnt recognise earlier that the 
+number Mr S had registered wasnt the same as the one on his sim card, or when 
+exactly Mr S stopped inputting the Turkish number to access the app. But the 
+complaint Mr S made was about why he couldnt access the app in his country of 
+residence. Before this, nothing appears to have gone wrong. And our service has a 
+narrow remit  we arent a regulator, we cant look at general concerns flagged up by 
+complainants. So I cant also look into the security issues that Mr S raises now, to 
+find out why this didnt go wrong earlier.
+Ive considered this case carefully, and although I understand how frustrating it was 
+for Mr S trying to get help, when he and Revolut appeared to be talking at cross 
+purposes, I dont think that was Revoluts fault. And Ive explained that our service 
+isnt a regulator, so I cant tell Revolut to change its security procedures, or to run a 
+phone hotline for customers which can be accessed independently of its app.
+I can just look at whats happened here. So Ive set out my understanding of this 
+case above  that it wasnt Revoluts fault Mr S couldnt access his account, but that 
+it did then let him down, by not explaining how things had gone wrong. Because of 
+that, I think that Revoluts offer of £48 doesnt quite put right what has gone wrong 
+here. I think Revolut should pay Mr S £100 in compensation. If Mr S has accepted 
+Revoluts offer of £48 in cash, or £48-worth of premium service, then Revolut can 
+deduct £48 from the amount it pays Mr S now.
+I invited the parties to make any final points, if they wanted, before issuing my final decision. 
+Neither party has replied. 
+ 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+I havent changed my mind. Ill now make the award I originally proposed.
+ 
+My final decision
+My final decision is that Revolut Ltd must pay Mr S £100 in compensation. But if Mr S has 
+accepted Revoluts offer of £48 in cash, or £48-worth of its premium service, then Revolut 
+can deduct £48 from the amount it pays Mr S now.
+  
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr S to accept or 
+reject my decision before 28 October 2021. 
+Esther Absalom-Gough
+Ombudsman

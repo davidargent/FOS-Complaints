@@ -1,0 +1,93 @@
+DRN-4115750
+The complaint
+Mr S has complained that Santander UK Plc wont refund transactions he says he didnt 
+make or otherwise authorise.
+What happened
+Both sides are most familiar with the case, so Ill summarise what happened in brief.
+In September 2022, Mr S tried to buy tickets from a website which turned out to be a scam. 
+He gave them his credit card details to make the purchase, but the scammers instead used 
+his details to make four payments at travel companies, totalling around £2,500. The 
+payments were authenticated using one-time passcodes sent to Mr Ss mobile phone.
+Santander explained that they werent responsible for the payments, as it seemed that Mr S 
+had authorised them using the passcodes he was sent. They tried to get his money back via 
+chargebacks, but this didnt succeed.
+Mr Ss representative argued that Mr S did not receive the passcodes, that Santander should 
+have blocked the payments, and that Santander should have done more to get his money 
+back.
+Our investigator looked into things independently and didnt uphold the complaint. They 
+found that the passcodes had been sent to Mr Ss genuine mobile phone number, and had 
+been provided to put the disputed payments through.
+Mr Ss representative asked for an ombudsman to look at the case afresh, so the complaints 
+been passed to me to decide.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+I understand that Mr S fell victim to a scam here, and so he has my sympathy. I appreciate 
+this cant have been an easy situation for him, and I appreciate why he feels his money 
+should be returned. Its worth keeping in mind that its the scammers who are primarily 
+responsible for what happened, and its the scammers who really owe Mr S his money back. 
+But in this decision about Santander, I can only consider what Santander did. Having 
+carefully considered everything that both sides have said and provided, I cant fairly hold 
+Santander liable for Mr Ss loss. Ill explain why.
+Broadly speaking, Santander can hold Mr S liable for the payments in dispute if the evidence 
+suggests that he authorised them.
+Im satisfied from Santanders technical evidence that the payments in dispute used Mr Ss 
+genuine card details, along with one-time passcodes which were sent to Mr Ss mobile 
+phone. So I can see that these transactions were properly authenticated.
+The one-time passcodes were only sent to Mr S, and no one else. Given the circumstances 
+of the case and the technical data at hand, there is no plausible method by which the 
+scammers could have got the codes without Mr Ss consent. And theres no evidence which 
+substantiates the representatives suggestion that Santanders systems were somehow 
+compromised. I understand that Mr S may genuinely not recall giving the codes to the 
+scammers, and I understand that he thought the details he gave them were only intended to 
+buy tickets. But I think its most likely that the scammers convinced Mr S to give them the 
+codes, even if he no longer recalls doing so. These scams are often complex, sophisticated, 
+and convincing. And given the evidence at hand, and the balance of probabilities, theres no 
+other likely or plausible explanation for how the scammers got Mr Ss codes from him.
+The one-time passcode texts set out clearly that the code would be used to authorise a 
+payment, where that payment was going to, and how much it was for. And they stated that 
+any requests to share a passcode will always be fraudulent. So I think Santander made the 
+nature of the codes sufficiently clear to Mr S. And though Mr S wouldnt have intended for his 
+money to go to a scammer, by providing the codes it means he effectively authorised the 
+disputed payments. So under the Payment Services Regulations, he is liable for the loss in 
+the first instance.
+Ive thought carefully about whether Santander should have blocked the disputed payments. 
+By providing the one-time passcodes, it meant that the payments looked like Mr Ss genuine 
+payment instructions. And broadly speaking, Santander had an obligation to follow Mr Ss 
+instructions  the starting position in law is that banks are expected to process payments 
+that a customer authorises them to make.
+Of course, Santander should have been on the lookout for payments which could be the 
+result of fraud or scams, to help prevent them. But I also accept that a balance must be 
+struck between identifying and responding to potentially fraudulent payments, and ensuring 
+theres minimal disruption to legitimate payments.
+Here, I dont think the payments involved were so unusual or out of character that Santander 
+needed to intervene. I accept that they were for larger than usual amounts, made from new 
+IP addresses to overseas merchants. But the merchants were established travel companies, 
+the amounts were not so large that Id expect them to be of particular concern, and from time 
+to time customers do make larger than usual payments or access their mobile app from a 
+new location. Its not particularly remarkable for a customer to suddenly spend larger 
+amounts for travelling or a holiday. And ultimately, as far as Santander could see at the time, 
+Mr S had approved the payments after receiving texts to his registered mobile which 
+confirmed the merchants and amounts. So they could be reasonably satisfied that the 
+payments had been authorised by their genuine customer.Lastly, Ive considered what Santander did to try to get Mr Ss money back. I can see that 
+they tried a chargeback, and that both sides broadly blame the other for the chargeback 
+failing. But Im afraid that as far as I can see, the chargeback would not have been 
+successful in any case. Chargebacks can only be made for specific reasons, under specific 
+conditions set by the chargeback scheme rules. And I cant see that any of those reasons 
+applied here. For example, one can try a chargeback for unauthorised payments  but here, 
+the payments would be considered to be authorised given the use of the passcodes Mr S 
+was sent. Or one can try a chargeback if the merchant didnt deliver the goods to the place 
+specified when buying  but here, the goods would have been delivered to the place the 
+scammers specified when buying them. So a chargeback was not going to realistically 
+succeed anyway. And Im afraid there werent any other applicable routes Santander could 
+take to try to get Mr Ss money back in this case.
+So while Im very sorry to hear about what happened to Mr S, I dont think Santander should 
+be held responsible for his loss. And so I cant fairly tell Santander to refund Mr Ss money in 
+this case.
+My final decision
+For the reasons Ive explained, I dont uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr S to accept or 
+reject my decision before 11 July 2023.
+ 
+Adam Charles
+Ombudsman

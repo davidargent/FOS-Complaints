@@ -1,0 +1,181 @@
+DRN-3017312
+The complaint
+Miss M has complained about her motor insurer esure Insurance Limited (Esure) because 
+when her car was returned to her after it had completed some accident repairs, there was a 
+fault on its adaptive cruise control (ACC) system.
+What happened
+Miss M had an accident in January 2020, damage was caused to the front end of Miss Ms 
+car and Esure arranged to repair it. Miss Ms car was returned to her on 10 February 2020, 
+but Miss M noted a fault with the parking assistance system. Esure wasnt persuaded this 
+was related to the accident or work it had done but took the car back and ultimately 
+completed a repair of a loose wire to the cars computer unit (ECU).
+On 2 March 2020 Esures customer care team was valeting Miss Ms car prior to arranging 
+to return it to her. At 21:44 on 4 March 2020, after the cars return, whilst Miss M was driving 
+it, a warning message appeared on the dashboard. Miss M took a photo. The message read: 
+ACC and Front Asist: no sensor view. Miss M contacted Esure. Esure said that whilst it had 
+fixed the parking issue before, it had done so as a goodwill gesture as it believed that fault 
+had pre-dated the accident and its repairs. Esures diagnostic contractor explained that this 
+was all part of the same issue and Esures engineer told Miss M that, if she didnt agree, 
+shed need to provide proof from her dealership.
+With the pandemic ensuing around this time it was June 2020 before Miss M had the car 
+further assessed. Miss Ms dealership, using global fault finding (GFF) diagnostics 
+determined the warning was being caused by a fault with the radar system that informs the 
+cars ACC and Front Assist functions. The dealership reported that a close inspection of the 
+radar unit (which sits under but proud of the front registration plate in the centre of the front 
+of the car) showed damage from an impact and that one of its brackets was bent and/or 
+damaged. The whole process was captured on video. Replacement was recommended with 
+an estimate produced for work, which included the diagnostics already undertaken and VAT, 
+of £2,004.64.
+Miss M returned to Esure and its engineer reviewed the matter, including the new data from 
+the dealership. Esures engineer was initially minded to think this damage might have been 
+caused during the accident. However, he then noted that various checks using ODIS 
+(Offboard Diagnosis Information System) had been completed on the car since it was initially 
+damaged and this fault hadnt been found. He then compared a still image taken from the 
+dealerships diagnostic video and one of the front of the car when it initially came in for repair 
+following the accident in January 2020. The engineer said he could see no sign of damage 
+to the radar unit in January 2020. He also said the radar unit hadnt been removed during the 
+work to fix the parking system fault. So he thought the damage was most likely unrelated to 
+either the accident or Esures repairs. When Esure told Miss M that it wasnt prepared to pay 
+for the replacement radar unit, she complained to us. 
+Our investigator felt it was fair to say that the damage had likely not been caused in the 
+accident. But wasnt persuaded it was most likely it had happened after the car had left 
+Esures control on or after 2 March 2020 and before 21:44 hours on 4 March 2020, whilst in 
+Miss Ms control. So he said Esure should pay for repair of the radar.
+Miss M was happy with that outcome. Esure said it disagreed with the findings. Its engineer 
+reiterated his view that the damage to the radar unit was new damage unrelated to the 
+accident and which had not been identified until June 2020. The engineer also 
+acknowledged/explained that this was a different fault to the parking system issue. The 
+complaint was passed to me to decide.
+I also felt it should be upheld; that the fault with the radar was unlikely to be a new issue. But 
+my reasoning differed to that of the investigator. I issued some provisional findings:
+I note that Esures engineer, whilst he later changed his mind, initially conceded that this 
+damage might have been caused during the crash. Having seen the crash damage photos, 
+given the location of the radar unit and the accepted impact damage which occurred to the 
+front end of the car, including the cracking of the number plate immediately above the unit; 
+I think thats a fair assessment. And I dont think those photos rule out the possibility that the 
+radar unit, including one of its brackets, is damaged. I say that as the brackets for the unit 
+arent visible in the photos. But also because the impact damage to the front of the unit, at 
+the top, simply may not be visible in these photos due to the lighting, distance and angle of 
+the shot (daylight, several feet away, from the side). The still from the dealership video 
+shows that the unit is under artificial light, with the camera or focus of the camera quite 
+close, from a position in front of and slightly above the unit.
+Im also not persuaded that the diagnostic tests Esures said were completed on the car rule 
+out the possibility that this damage and fault werent caused by the crash. As I understand it 
+the dealership found the fault using the GFF diagnostic programme and whilst this is part of 
+the ODIS system, it is an optional process that can be switched off. I havent seen any 
+evidence that makes me think Esures contractors used the GFF part of the ODIS 
+programme. 
+Further, Esures contractor ran an ODIS test on 28 February 2020, around the time it traced 
+and fixed the parking sensor fault. The invoice captures the tests results and shows that all 
+systems [are] operational. But I note that the dealership, when identifying the radar fault, 
+recorded the following: Vehicle status shows no fault with system. It was seemingly when 
+further GFF checks were done that the in-put error; ie that the radar wasnt feeding 
+information to the ACC system, was found.
+In March 2020 Esures contractor doesnt seem to have run any further diagnostic checks. At 
+least none are shown on the invoice dated 11 March 2020. Rather the contractor seems to 
+have only provided a report which sought to suggest that this radar fault was part of a 
+historic parking system fault it had identified with the car earlier on in the repair process. But 
+Im not persuaded, given that the parking and ACC systems (the ACC being the system the 
+radar feeds information too) are two entirely different processes, performing two entirely 
+different functions, that that is likely correct. And I note that Esures engineer has confirmed 
+the two issues are separate and unrelated.
+I know that Esures engineer has concerns that the dealership only saw and assessed the 
+car several months after it was returned to Miss M. However, I note Miss M took a photo of 
+the fault warning on 4 March 2020  the dashboard shows the time was 21:44 and the 
+properties of the photo confirm the date. So I dont think it matters that the diagnosis for the 
+fault only occurred sometime later. 
+Im also not persuaded that, assuming for a moment the radar wasnt damaged during the 
+crash, that its most likely it wasnt damaged during Esures care. It seems that the external 
+parts of the cars front end were removed by Esures contractors during late February in 
+order to repair the loose ECU wire. It isnt clear whether the radar unit was entirely disconnected, certainly Esures engineer says it remained in place. But I think its fair to say, 
+given the photos Ive seen of the car, both intact and whilst under repair, that it was certainly 
+moved and/or partially disconnected. Further the car around the unit was clearly undergoing 
+significant work. As I said above, the last diagnostic Esures contractor, based about 
+50 miles from Miss Ms home, ran was 28 February 2020, and on 2 March 2020 the car was 
+being prepared by Esures customer care team for return to Miss M. How the car was 
+transferred between the contractor and customer care, and then to Miss M hasnt been 
+disclosed. So the radar unit was at least moved and/or partially disconnected whilst work 
+around it went on and the car was in Esures care for at least three days after the contractor 
+last ran a diagnostic on it. Further the car was transported by Esure after that diagnostic. 
+When the car was prepared and returned to Miss M in early March 2020, I think she had it 
+for only around two days before the warning appeared. I say that as she was told on 2 March 
+that it was being prepared for return to her. So it could only have been later that day, at the 
+earliest, that it was returned to her. And the warning appeared on the night of 4 March 2020. 
+So the car was in her possession for less time than it remained with Esure after its last 
+diagnostic was completed. And, from what Ive seen, the warning message in question is not 
+of the type that  if the damage/fault was already present  would show on the dashboard as 
+soon as the car was started. So the fact Miss M didnt see it, or it didnt appear until 21:44 on 
+4 March 2020 doesnt mean the damage/fault wasnt present before that time. 
+Having seen everything I think it's more likely, on balance, that the radar unit was either 
+damaged in the accident or whilst in Esures care, than whilst being in Miss Ms care after 
+2 March 2020. As such I think its reasonable to say that Esure should pay for the work to be 
+done to fix the unit. The dealership, as of last year, said that will cost £2,004.64. So I think 
+Esure should pay this sum, plus interest*.
+I think this situation has been frustrating for Miss M and she clearly feels let down by Esure. 
+Further whilst she seems to have been able to drive the car in the interim its clear this 
+important safety function hasnt been working. So Im minded to award £100 compensation 
+for this. Whilst I note Esure has paid Miss M compensation previously for other issues 
+experienced with the repair process, it has never accepted liability for this problem. So I think 
+a further £100 for the distress and inconvenience caused by this issue is fairly and 
+reasonably due. 
+In reply Miss M provided further evidence about what shed paid already to diagnose the 
+fault and what it was now going to cost her to repair the car. So I issued some further 
+findings to both parties which, in short, said that Esure should pay the £60 diagnostic fee 
+Miss M had already incurred, plus interest and the price of the new estimate for repair less 
+VAT; £1,819.76 (with the VAT of £363.95 being payable by it once work was done). 
+Esure said it was generally unhappy with my findings. It said it would like me to explain what 
+evidence I had considered in order to conclude the car had likely been damaged in the 
+accident or in its care, rather than once returned to Miss M. Esure said as we are an 
+evidence based service I should accept the evidence it had presented and not make 
+decisions based on likelihoods. It said it would be prepared to pay half of Miss Ms repair 
+costs and the £100 compensation. 
+Miss M said shed spent a lot of time on this matter. She asked that I award the cost of the 
+new estimate, plus £1,000 compensation (increased from £100). Miss M concluded that 
+there needed to be an incentive for Esure to not do this again.
+What Ive decided  and whyIve considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Evidence provided to this service is always subject to scrutiny and assessment. Having 
+considered the evidence, it is then my job to decide what is most likely to have happened. 
+I appreciate Esure doesnt agree with my assessment of the evidence provided. But I set out 
+my reasoning in full in my provisional decision which explained the evidence I had seen. My 
+findings also explained what weight I had given to the evidence provided, by both parties, 
+and which evidence, and why, I found most persuasive. Ive nothing to add to that. So whilst 
+I note Esures offer to pay half of Miss Ms repair cost, Im not persuaded that would be a fair 
+and reasonable outcome.
+Whilst my view on Esures liability for the damage hasnt changed since I issued my 
+provisional decision, I have been given cause to amend my suggested redress. Miss M 
+should be able to have her car fixed and shes now shown what the current cost will be for all 
+necessary work. And Esure hasnt raised any concerns about the new estimate. So it seems 
+fair to me to base my redress on that figure, and make Esure pay Miss M £1,819.76. And in 
+line with our usual process, VAT on the repair costs, £363.95, should be paid by Esure once 
+Miss M submits an invoice to it showing the work has been done and VAT has become due. 
+And, in line with my previous findings, Miss M paid a £60 diagnostic fee previously too, so 
+its only fair shes reimbursed for that as well.
+I appreciate that Miss M has been caused distress and inconvenience because of Esures 
+actions. I understand that Miss M has felt shes had to take some time off work to visit 
+garages. But Im not persuaded that was entirely necessary, and Ive not seen that she lost 
+income as a result either. I also dont award compensation in a punitive manner  to prevent 
+a business from making failures or causing upset in the future. Instead awards of 
+compensation are made to address the distress and inconvenience in the specific 
+circumstances of the case. I remain of the view that, for the distress and inconvenience 
+caused to Miss M by this failure of Esures, £100 compensation is fairly and reasonably due.   
+ 
+Putting things right
+I require Esure to pay Miss M:
+£60 to reimburse the initial diagnostic cost, plus interest from 12 June 2020 (the receipt 
+date) until settlement is made.
+£1,819.76 being the price of the new estimate, less VAT.
+Once a VAT invoice is received, £363.95 to cover Miss Ms VAT outlay.
+£100 compensation for the distress and inconvenience caused.
+*Interest is at a rate of 8% simple per year and paid on the amounts specified and from/to 
+the dates stated. If Esure considers that its required by HM Revenue & Customs to take off 
+income tax from any interest due to Miss M, it should tell her how much its taken off. It 
+should also give Miss M a certificate showing this if she asks for one, so she can reclaim the 
+tax from HM Revenue & Customs if appropriate.
+My final decision
+I uphold this complaint. I require esure Insurance Limited to provide the redress set out 
+above at putting things right.  Under the rules of the Financial Ombudsman Service, Im required to ask Miss M to accept 
+or reject my decision before 30 September 2021.
+ 
+Fiona Robinson
+Ombudsman

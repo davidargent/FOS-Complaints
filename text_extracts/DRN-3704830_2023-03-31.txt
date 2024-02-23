@@ -1,0 +1,302 @@
+DRN-3704830
+The complaint
+Mr T complains Interactive Investor Services Limited (Interactive) took too long to make 
+shares available on his account. He says this meant he was unable to sell them when he 
+wanted and so he made a large loss instead of a large gain. He says there were significant 
+limitations to Interactives service that Interactive failed to point out to him.
+What happened
+I wrote to the parties outlining my understanding of the relevant circumstances. In brief:
+Mr T placed three orders to use sterling to buy dollar-denominated shares of a company. 
+The large size of his first order meant it took a lot of purchases - or fills - to complete. 
+Still, these fills were likely completed within a matter of minutes, at which point the 
+particulars that would determine what Mr T owed in sterling for the order - such as the 
+dollar cost and the time of each fill - were all known. By that point the risks of the 
+purchases rested with Mr T and he was obliged to cover the cost.
+There was a period  which Interactive calls a contracting period - during which Mr T 
+was unable to manage his risk by selling the shares. During this period, details of the 
+trades were reported back to Interactive by its dealer. To work out and tell Mr T what he 
+would have to pay, Interactive then converted the known dollar cost of the shares into a 
+sterling cost. A separate conversion was done for each fill, as the underlying exchange 
+rate for a fill varies according to its timing. Fees may also vary with the size of a fill. 
+Above a certain number of fills, the process becomes manual rather than digital and so 
+takes longer  and this was the case for Mr Ts large order.
+Interactive has said it is not realistic for its terms of service to address all scenarios 
+relating to the execution and contracting of orders. Its terms dont address exactly how or 
+why shares in Mr Ts order were for a time not available for him to sell. Some shares 
+were released at 14.57pm, about 19 minutes after his large order, and Mr T sold these 
+for a higher dollar price than he had paid for them. These shares outnumbered those in 
+his two small orders combined, so some or all were part of his large order. So, it appears 
+parts of an order could be made available before the rest of an order.
+Interactive had said: "Where an executed trade has not yet contracted, we exercise a 
+degree of caution before we can allow a customer to sell the stock and have controls 
+to ensure that we avoid the duplication of a sale and/or a customer selling stock they 
+dont actually own". It had also said its phone service lets customers check orders. In the 
+phone calls Mr T made asking to sell shares, there was no suggestion he didnt own the 
+shares. Rather it appeared that Interactive was working through his order.
+The size of Mr Ts large order meant his orders cost more than his spare account funds. 
+This isn't supposed to happen, but it can and does happen and Mr T knew this as he had 
+benefited from it in the past. It happened this time due to Interactives system allowing it 
+when it shouldnt have and Mr T not checking his order like he should have. Mr T has 
+said his large order was large due to him typing in a far larger order than he intended.
+Mr T has given various figures for the profits he has lost or the losses he suffered 
+instead. For example he estimated a gain of more than $130,000 based on selling the 
+shares at the price available when the first shares were released and a loss of more than 
+$100,000 from the sale of his shares when he actually sold them.
+Interactive told us the controls Mr T encountered were imposed due to a combination of 
+factors such that this couldnt be predicted in advance. It said the situation was usually rare, 
+affecting less than 0.01% of transactions, although it became more common during a short 
+period linked to US meme-stock trading. It said Mr Ts case was unusual in terms of volume.
+Based on what I had seen, my initial findings were - in brief:
+I assumed Mr Ts large order was an error like he said, but I wasnt sure it would make 
+any difference if it wasnt. Mr Ts liability for the order wasnt in dispute.
+Interactive had said the case turns on whether it ought to have acted differently when 
+Mr T queried the status of his order. I thought it probably should have acted differently.
+Interactives process wasnt entirely clear, but what was presented didnt suggest a risk 
+of Mr T selling shares he didnt own or had already sold. It was known that the purchases 
+had been done. What wasnt known was the sterling value Interactive would charge Mr T 
+for those. It looks like Interactive took a long time to work this out, Mr T was losing out in 
+the meantime and Interactive wouldn't let him do anything to stop this. There didnt seem 
+to have been any risk to Interactive that made it reasonable to not permit Mr T to trade 
+the shares Interactive knew it had bought for him. 
+Mr T was aware delays could happen, given what Interactive had said about his prior 
+experience of this, so more information about how things worked wouldnt have changed 
+his approach. If his large order was an error, then plainly more information wouldnt have 
+affected that. But knowing there might be delays doesnt mean Mr T couldnt have a valid 
+complaint if losses were the result not only of delays but of Interactive unreasonably 
+refusing to take reasonable steps to allow him to try to mitigate the losses. On balance 
+this appears to be what happened here.
+Mr T in the past had benefited from the delays enabling him to invest more than he 
+should've been able to. But plainly this wouldn't entitle Interactive to disadvantage Mr T 
+by not acting fairly and reasonably towards him in the current situation.
+When Mr T made it clear he wanted to urgently sell the shares, Interactive should've 
+allowed him to sell. This could reasonably have involved Interactive making some checks 
+before allowing this - so it wouldn't necessarily be right to base the outcome on prices 
+Mr T had reported as available while he was on the phone to Interactive. It is hard to say 
+precisely what Mr T might have realised for his shares had Interactive allowed him to sell 
+them like I think it shouldve done.
+From the contract notes provided, I calculated the difference between the dollar cost of 
+the shares and the dollar proceeds of the sales  Mr Ts actual dollar loss  as $97,205. 
+Mr T accepts his own decision to hold on to some shares  in the hope of reducing his 
+loss - increased his loss, and he doesn't seek restitution for that part of his loss.With all this in mind, my view was that Interactive should compensate Mr T by paying 
+$32191. This figure is Mr T's actual dollar loss but reduced by $65014 which from what 
+Id seen was the difference between the price Mr T could've realised when the balance of 
+his shares were in fact released to him and the price he actually sold those shares for. 
+This redress would be instead of the $8372 fee refund Interactive had offered so far. The 
+redress would be paid into Mr T's account in dollars. 
+Interactive should also make a payment to Mr T for distress so Interactive should also 
+pay Mr T £350.
+Interactive didnt agree with my proposals. It said, in summary: 
+The large size of Mr Ts order, rather than being an error as Mr T has claimed, may have 
+been designed to trigger Interactives risk mitigation controls, delay contracting and 
+enable Mr T to buy more shares than his account would otherwise have allowed. 
+There seems to be some confusion around Interactives risk mitigation process. This is 
+done to protect it from the risk of duplicated currency exchanges and the costs 
+associated with correcting large manual trades. 
+If this were Mr Ts first interaction with these controls or he hadnt benefited significantly 
+from them in the past, his claims would potentially have some validity and it would be 
+reasonable for him to blame Interactive. But Mr T was aware of the process and his 
+continued use of the service showed an understanding of it. Once a customer is aware of 
+a process its ultimately for them to decide whether, despite the consequences it may 
+bring, they wish to continue trading with those controls in place.
+When Mr T previously encountered a situation like the present one, (including buying far 
+more shares than his available funds would cover) he complained about it until it became 
+beneficial for him to accept the shares. To make hundreds of thousands of dollars from 
+the control one week and be refunded tens of thousands the next for a situation he was 
+fully aware of, doesnt appear fair and would give Mr T a no-lose option.
+If the controls in place were unfair, this should be applied to all Mr Ts interactions  the 
+previous events shouldnt be uncoupled from this one. 
+Interactive has multiple processes where to ensure its business runs correctly, customer 
+activity is delayed until Interactive can be confident in the action it is taking. 
+It seems the outcome is Interactive should have done more to assist Mr T with selling his 
+shares. While Interactive can understand this, simply breaking its control environment to 
+do as the customer wants is not the standard process and would amount to treating Mr T 
+differently to others. Interactives references to executive sign-off being needed (to allow 
+Mr T to sell the shares sooner) doesnt mean approval wouldve been given for this or 
+that escalation would have delivered what Mr T wanted - rather it was to indicate the 
+(very senior) level at which this request wouldve needed to be considered in view of the 
+risk the request posed to Interactive as a business. 
+Interactive believes all its actions were completed in line with previous interactions and, 
+while its regrettable it didnt benefit Mr T in this instance, he was fortunate to benefit 
+from it previously. As such the outcome of the initial review was correct.
+What Interactive sent us relating to Mr Ts previous interactions included a call he made 
+about a trade that had completed but was still showing as pending. There were also secure messages where Mr T chased the proceeds of a sell trade he had carried out and where he 
+chased a trade that had got stuck due to the number of fills involved and where he received 
+a message from Interactive around 24 hours later saying his order was by then showing as 
+executed. 
+Mr T also replied to what Id said. What he said included, in brief summary:
+Events at the time, including the content of his phone calls, show his large order was an 
+error. When he first asked to cancel it, the shares were up rather than down. He was not 
+trying to manipulate the system like Interactive says.
+He was used to receiving an error message and his order not being executed if, in error, 
+he placed an order whose cost exceeded his available funds. One such order had been 
+executed in the past but there had been no delay in accessing the shares. He disputed 
+liability for that trade but had no choice but to accept it and ask Interactive for more time 
+to pay. The shares then recovered unexpectedly, and he was able to sell for a profit (two 
+days before the orders being considered here). The situation had caused anguish and 
+wasnt one he had wished to repeat but he withdrew his complaint as hed made no loss. 
+But he objects to and rejects Interactives suggestion that he had brought about a repeat 
+of that situation deliberately in the present case.
+He has complained before about delays to his trades and sometimes has to phone to 
+find out what is happening. But he doesnt deliberately trade on the understanding his 
+shares will get stuck and a phone call might fix it.
+He understands his request may not have conformed with Interactives standard 
+process, but the very large size of the error meant he hoped his call would be treated 
+differently to a standard call to customer services.
+He cant see where the risk was to Interactive (of allowing him to sell the shares) when 
+the trade is fully executed and Interactive is in possession of the shares. Making sure the 
+right exchange rates and fees were applied is understandable but shouldnt have stood 
+in the way of Interactive selling shares it had for which he was fully liable.
+His loss caused by Interactives delay is $75,905 not $32,191. The shares released at 
+14.57pm presumably included all the shares from his two smaller orders with only the 
+balance coming from his large order. The remaining 83938 shares of the large order 
+were the shares Interactives delay kept him from accessing for a further 40 minutes. The 
+share price when these shares were released was $6.85. At this price his loss on those 
+shares was $75,905 compared to the price he paid for those shares in his large order.
+Shares sold at 14.57pm (on which he made a profit) should be excluded from the 
+calculation. For some of those shares this is because the shares likely comprise the two 
+smaller orders and those orders werent subject to the controls that led to the delay for 
+which Interactive is at fault and didnt suffer from that delay. For the rest of those shares 
+they should be excluded as even though they were part of the larger order they werent 
+delayed like the rest of the larger order and so they werent affected by the delay for 
+which Interactive was at fault.
+As the complaint wasnt resolved informally, it is one I must decide.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and reasonable in the circumstances of this complaint.
+Having done so, Ive decided to uphold Mr Ts complaint for largely the same reasons as 
+those I shared previously with the parties. Ive summarised these briefly below.
+I remain of the view that Interactive ought to have acted differently when Mr T queried the 
+status of his order  and ought to have allowed Mr T to sell his shares. So I still think 
+Interactive should compensate Mr T in the way I proposed. 
+I say this bearing in mind that when Mr T called Interactive to sell the shares, Interactive 
+knew enough to know the shares had been bought and that Mr T would be liable for the cost 
+of those shares. There was an earlier stage in the process during which Interactive had to be 
+sure Mr Ts order had been filled in full, but from what Interactive has told us I understand 
+this was no longer an issue at the time Mr T called.
+Ive considered all Interactive has said about its process at that stage and its reasons for not 
+allowing Mr T to sell the shares. I understand its main reason was to do with checks to avoid 
+duplicating currency exchanges. It has also referred to the costs of correcting large manual 
+trades but without elaborating on this. I understand Interactive would want to avoid error in 
+currency exchanges relating to Mr Ts order. But what Interactive has said doesnt persuade 
+me that not allowing Mr T to sell his shares was necessary to that process, which was slow, 
+or that it was reasonable or fair to deny Mr Ts request to sell the shares due to that process. 
+I say this bearing in mind Mr Ts large order resulted in his orders buying more shares than 
+his available funds would cover and, from what Interactive has said, more shares than he 
+ought to have been allowed by Interactive to buy. 
+Interactive thinks Mr T may well have placed his large order deliberately with the idea that 
+Interactives risk mitigation measures, including those that then delayed his access to the 
+shares, could allow him to buy more shares than he would otherwise have been able to buy. 
+Interactive says this is a reason for not compensating Mr T for losses relating to that delay. It 
+adds that Mr T had at times experienced similar delays in the past with his orders, so by 
+continuing to use Interactives service he accepted these. Mr T says the size of his large 
+order was an error on his part. 
+Whether he placed them deliberately or carelessly it seems to me that the starting point is 
+that Mr T was liable for his orders - which neither party has disputed - and that Interactive, 
+having accepted and placed his orders, was obliged to treat Mr T fairly from that point. I dont 
+agree that whether Mr Ts order was an error or not makes a material difference to that or to 
+what would be a fair outcome here. (I note in passing that if it were a deliberate act to obtain 
+more shares than he was supposed to be able to buy, Interactive seems to have done little 
+to prevent this, despite being aware Mr T could use its system and service in that way.) 
+In reaching this view, Ive taken into account all Interactive has said about Mr Ts previous 
+interactions with its process, and the knowledge or experience he had of the delays that 
+could arise. In what it has provided I see some similarities with aspects of the orders under 
+consideration in this case. But I dont see that these would have given Mr T knowledge of 
+Interactives process such that he was bound to expect or anticipate that Interactive would 
+treat his orders and his request to sell the shares in the way that it did. Rather it seems Mr T 
+experienced delays on occasion and Interactive apologised to him for these.  For example a 
+reply Mr T received about a sale taking longer than he expected was: There are a number 
+of reasons why this can occur, and we do apologise for any inconvenience caused. 
+Overall what I have doesnt persuade me that Mr T knew how Interactive would handle the 
+present situation and chose to do what he did, and to risk the losses he now claims for, with that knowledge. So what Interactive has said in this regard doesnt change my view about 
+whether Interactive treated Mr T fairly nor does it persuade me that Mr T shouldnt receive 
+redress if he wasnt treated fairly. Having considered all Interactive has told us, I remain of 
+the view that what I have doesnt explain or evidence a cost, risk or limitation of a kind that 
+made it reasonable, fair or proportionate for Interactive to refuse Mr Ts request to sell his 
+shares in this case. If there was a good reason for this, it hasnt been articulated during this 
+complaint - and I reach my conclusion on the basis of the evidence Ive been given in this 
+complaint by the parties. I remain of the view that Interactive ought to have given greater 
+weight to Mr Ts interests when considering his request to sell his shares. 
+Interactive says this wouldve meant treating Mr T differently to others by departing from its 
+standard process. But, from what Interactive has told us, what it was doing wasnt a process 
+set out or detailed within its terms. Also, while outlining the workings and rationale of that 
+process in this complaint in very general terms, Interactive has also said it wasnt a process 
+used commonly and it applied to a very small proportion of transactions. With all this in mind, 
+if varying that process or steps within it in the way I have suggested was necessary to treat 
+Mr T fairly with due regard for his interests in this particular instance, I think it reasonable 
+and fair to conclude that this is what Interactive ought to have done. That is the conclusion I 
+have reached here - I think to treat Mr T fairly Interactive did need to act differently. 
+I dont doubt that to ensure its business runs correctly Interactive has multiple processes that 
+for good reason delay customer activity. But that doesnt alter my view on the situation here. 
+Interactive says it is unfair to compensate Mr T for losses arising from the present situation 
+when in the past he gained from a comparable situation. I understand that the past gain was 
+more than the loss he claims for in the present case. But any such gain took place before the 
+acts that caused his loss in the present case. So the acts that caused loss in the present 
+case were not the same acts that caused any earlier gain, even if the act that caused the 
+earlier gain was the same in nature or as faulty. So I dont see grounds to offset Mr Ts loss 
+against gains caused by earlier and separate acts. I dont agree that not doing so is unfair.
+Also I dont agree that compensating Mr T in the way I suggested gives him a no-lose option, 
+given that he lost tens of thousands more than my proposed award - and this would remain 
+the case even if I accepted Mr Ts suggested revisions to the redress. 
+Before I discuss those, Id mention that Ive taken the view that I cannot determine the price 
+Mr T might have got had Interactive released his shares promptly following his call. This is 
+due to the variations that took place in the share price and the fact that there is a range of 
+points in time within which Interactive might reasonably have released the shares to Mr T 
+such that to select one would be highly artificial. So I suggested that redress be approached 
+in terms of Mr Ts actual cash loss, unadjusted for any loss or gain that an earlier release of 
+the shares might have allowed him to make (both were possible), but adjusted to reflect only 
+that part of the loss for which Interactive is responsible. Neither party has objected to this 
+approach in principle.
+Mr Ts redress suggestions in substance would mean gains on shares sold at 14.57pm are 
+not offset against the losses he made on the rest of the shares later. This increases redress 
+by around $30,000 by excluding the two small orders and by around $17,000 by excluding 
+shares from the large order. The price of $6.85 he has used for the price he couldve sold 
+the shares for is slightly higher than the $6.81 used in the figure I shared with the parties, 
+otherwise his figure wouldve been $3357 higher still. Interactive hasnt commented on or 
+objected to that particulars I used to reach the figure I shared with the parties.
+Looking at what Interactive has said, it does appear that Mr T is right to say that the early 
+released shares were attributable in part to his two small orders and only partly to the large order. But I dont think excluding these from the loss assessment is right or fair. I say this 
+because in my view the action Mr T took to sell those shares at the time he sold them, arose 
+from him finding himself in a situation where by accident or design he had bought far more 
+shares than his account could afford and he was looking to cancel, dispute or sell the shares 
+as soon as possible. So it would be wrong to treat those shares and those sales  and the 
+gains arising from them - as separate from losses Mr T suffered on the rest of the shares. I 
+find that Mr Ts gains from those sales and the losses he complains of are all linked and flow 
+from the acts about which he has complained and that form the substance of his complaint. 
+So I remain of the view that it is fair and reasonable to take as the starting point Mr Ts loss 
+on all these share purchases as a whole  which takes into account the gains on the earlier 
+sales  and then to deduct from this that part of the loss that was attributable to Mr Ts 
+decision to speculate further after the shares had been made available to him. Mr T has from 
+the outset accepted that such a deduction is fair and I agree with him. Interactive hasnt 
+objected to the share price I suggested be used to calculate this net loss. Ive noted that this 
+price gives a more favourable result than that implied within what Mr T has recently said. 
+The sterling value of the loss is greater today than when it arose, due to exchange rate 
+moves since. Neither party has suggested adjustments for this or for the passage of time in 
+any other way. With all that in mind, Im satisfied my approach below to redressing the 
+financial loss suffered by Mr T is fair and reasonable in all the circumstances. 
+Also I still think Interactive should pay Mr T redress for the inconvenience and distress that 
+its failings caused him.
+In light of all Ive said above, I uphold Mr Ts complaint and I see no reason to depart from 
+the figures or resulting redress amount I shared with the parties. This is reflected in my 
+award below.
+Im grateful to Interactive and to Mr T for their patience and assistance throughout our 
+consideration of this complaint.
+Putting things right
+To put things right, Interactive Investor Services Limited should pay Mr T $32191. This is 
+instead of the fee refund, stated as $8372, so if Interactive Investor Services Limited has 
+already paid that refund to Mr T it may deduct the amount it has already paid him when 
+arriving at the redress due. 
+If Mr T still has an account at Interactive, Interactive Investor Services Limited may pay the 
+redress due into that account. Otherwise Interactive Investor Services Limited should pay 
+the redress due to Mr T in sterling using the exchange rate current when the redress is paid. 
+Interactive Investor Services Limited should also pay Mr T £350 for the inconvenience and 
+distress its failings caused him.
+If Interactive Investor Services Limited does not pay my award within one month of receiving 
+from us Mr Ts acceptance of my award, Interactive Investor Services Limited should also 
+pay Mr T simple interest on my award at the rate of 8% per year from the date of my 
+decision until the date Interactive Investor Services Limited pays my award to Mr T.
+My final decision
+For the reasons Ive given and in light of all Ive said above, I uphold Mr Ts complaint. 
+Interactive Investor Services Limited should put things right by doing what Ive said above.Under the rules of the Financial Ombudsman Service, Im required to ask Mr T to accept or 
+reject my decision before 28 April 2023.
+ 
+Richard Sheridan
+Ombudsman

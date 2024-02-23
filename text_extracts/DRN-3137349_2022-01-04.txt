@@ -1,0 +1,147 @@
+DRN-3137349
+The complaint
+Mr A complains that Barclays Bank UK PLC failed to refund several transactions he didnt 
+recognise.
+What happened
+Mr A received a message from Barclays which prompted him to check his account. He saw 
+three transactions to an online betting merchant Ill refer to as D. Mr A notified Barclays that 
+these transactions werent carried out by him. 
+Barclays investigated the circumstances and provided a temporary refund to Mr A whilst they 
+carried out a chargeback request. This is a process that enables card payments to be 
+challenged and requires the merchant (D) to defend their right to take the payments from Mr 
+A. 
+D responded to Barclays with evidence to show they were entitled to the funds. They 
+supplied details that showed an account in the name of Mr A had been set up some years 
+previously and the information matched those that Barclays had also recorded for Mr A, 
+including his home address, telephone number and email address. D also recorded the IP 
+address used to make the payments to them that Mr A was disputing. IP addresses relate to 
+physical locations recorded when online activity takes place. They can record various 
+aspects of the activity and sometimes indicate the location of the user, but they can also 
+indicate a location linked to the online provider. In Mr As case, the details they recorded 
+were an exact match for the details Barclays had recorded when Mr A used his Barclays 
+Mobile Banking app (BMB).
+D also explained that each time a deposit was made, the card holder had to enter the three-
+digit security number (CVV) from their card to confirm the transaction. Barclays data 
+recorded that each of the disputed transactions used the CVV, together with all the other 
+details from Mr As debit card.
+Barclays sent Mr A a copy of the evidence theyd received from D. They asked Mr A to 
+respond with any further comments or evidence he had and gave him ten days to reply. Mr A 
+has said he never received that letter and once the ten days expired, Barclays stopped 
+challenging the payments under the chargeback arrangements. They then held Mr A liable 
+for the transactions and redebited the temporary refund from Mr As account.
+Mr A made a complaint to Barclays that he wasnt responsible for the disputed transactions 
+and hed not received the evidence in order to reply to them. Barclays later sent a copy of 
+the evidence to Mr A, but their records show they never received anything back about the 
+information D had provided.
+Barclays wrote to Mr A and explained they werent going to refund him because D had 
+presented sufficient information to link Mr A with the transactions. Mr A was unhappy with 
+how Barclays had dealt with his complaint and brought it to our service for an independent 
+review.
+It was looked into by one of our investigators who received more information from Mr A  he 
+said that he lived in a premises with multiple other people and hed recently lost his phone 
+for a while but had since got it back again. He explained that hed recently lost his card and it 
+was replaced by Barclays.
+Mr A thought his phone had been hacked which was the reason for these disputed 
+transactions. Mr A later explained that he kept his passcode written in a book in his room, 
+but he hadnt given it to anyone. He also confirmed he still had his card at the time of the 
+disputed transactions. Once our investigator had looked into the details, she thought it was 
+reasonable for Barclays to hold Mr A liable for the transactions. It was further explained that 
+Mr As BMB log ins coincided with the disputed transactions and she thought it unlikely that a 
+fraudster would use an account that was in the name of Mr A to send payments to D. This 
+was because any winnings would be paid back to Mr As debit card and make it difficult for 
+someone other than Mr A to utilise any winnings.
+Mr A disagreed with the outcome and asked for a further review of his complaint which has 
+now been passed to me for a decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+The relevant law surrounding authorisations are the Payment Service Regulations 2017. The 
+basic position is that Barclays can hold Mr A liable for the disputed payments if the evidence 
+suggests that its more likely than not that he made them or authorised them.
+ 
+Coming to the question of authorisation, this is made up of two parts. Authentication and 
+consent. Authentication is usually referred to as the technical evidence and in this case, 
+Barclays have supplied evidence that shows the debit card details, including the CVV were 
+used to make the transactions. Im satisfied that the evidence shows all the disputed 
+transactions were authenticated.
+Consent refers to the way in which Barclays and Mr A agreed to use the card for 
+transactions. For example, when using the debit card details to complete an online 
+purchase, Barclays agree to accept that this is a legitimate payment instruction made by the 
+cardholder or another approved user and make the payment on their behalf. The 
+transactions in this case used the debit card details including the CVV, so Im satisfied that 
+consent was given, and the disputed transactions were authorised. But, there are exceptions 
+where it wouldnt be appropriate for Barclays to hold Mr A responsible, for example if the 
+card was used without his permission.
+Mr A has explained that he lives with several other people and at some stage before the 
+disputed transactions took place, he temporarily lost his phone. Mr A has speculated that his 
+phone could have been hacked and is the reason for the disputed transactions. He also 
+explained that his card had recently been replaced and he keeps the security information for 
+his phone written down in a book which is kept in his room. 
+Mr As domestic arrangements provided an opportunity for other persons to gain access to 
+both his phone and the security details to access it. It also appears that his phone was 
+mislaid for a short while. However having considered these circumstances, I dont think this 
+is the likely explanation for the disputed transactions. I say that because the transactions 
+used the debit card details rather than the phone. These transactions needed all the details 
+from the debit card, along with the CVV  which is only recorded on the debit card. Mr A 
+confirmed that hed recently lost his card and Barclays had replaced it, and it was the new card that was used to make these transactions. Mr A kept the card in his wallet and still had 
+it at the time of the disputed transactions. There doesnt seem to be an opportunity for 
+someone else to obtain the necessary card details to make these transactions.
+Additional knowledge of Mr As personal information would also be required to make the 
+transactions, including his date of birth, address and email address. Whilst some of that 
+information would be available to other persons in the property, the combination of 
+necessary information seems unlikely when I also consider that Mr A was using his BMB at 
+the same time these transactions took place. We know that at the time of the transactions, 
+Mr A had his phone because he received the message from Barclays that prompted him to 
+check his account.
+The IP address data is an exact match between the records supplied by D and the BMB 
+audit information from Barclays. Ive thought about the possibility of another person in the 
+household gaining access or using the same internet service, and whilst its possible that a 
+similar IP address could have been generated from a person using the same internet service 
+at the property, its highly unlikely to be an exact match due to the part of the IP address that 
+records the actual device itself, which it was here. 
+Mr A has denied he set up an account with D, although Ds records show the account was 
+originally set up some years beforehand. I dont think its a common approach for an 
+unauthorised third party who had all the necessary information to use Mr As debit card 
+details with a gambling merchant. Thats because any withdrawals or winnings would be 
+paid back to the same account they came from. The risk of using the card details with a 
+gambling merchant seems very high, particularly when someone who was going to defraud 
+Mr A and steal his funds could easily use the card details and other private information with 
+far less risk.
+I also dont think these transactions were made by an unauthorised third party as its highly 
+unlikely theyd be able to find out the account details with D that were some years old  
+particularly when Mr A has denied ever setting it up in the first place. The scenario where 
+someone set up an account in Mr As name and is then able to obtain his debit card details 
+years later seems highly unlikely. 
+Whilst Im sure Mr A will disagree with me, when Ive considered all the evidence , my 
+objective conclusion is that I think its more likely than not, that Mr A was responsible for 
+making these transactions and it follows that it was reasonable for Barclays to hold him liable 
+for them.
+Non receipt of chargeback letter.
+Mr A also thought Barclays hadnt dealt with the chargeback properly because they didnt 
+give him an opportunity to respond when D sent their evidence. Barclays have said they sent 
+the letter and have produced a copy of the covering letter, but theres some doubt raised in 
+their own records about whether it was actually sent. So, its not clear if the evidence ever 
+reached Mr A within the timeframe laid out in the letter. The chargeback process has strict 
+timings and when Barclays hadnt received any further response from Mr A, they were no 
+longer able to challenge the payments on Mr As behalf. 
+What that means in practice is that Barclays needed to be able to show that Mr A wasnt 
+responsible with evidence they could send back as part of the chargeback process. Barclays 
+resent the evidence to Mr A after the deadline had passed but their records show that they 
+didnt receive anything further from Mr A. So, whilst its unclear if Mr A had been given a 
+chance to provide further evidence, I dont think this changed the ultimate outcome. Thats because the information supplied by D and Barclays shows it was unlikely to be anyone 
+other than Mr A that made the transaction.
+It was unlikely that the chargeback could have been successful due to the evidence supplied 
+by D. So, I dont think Mr As chargeback claim was disadvantaged, whether he received the 
+evidence or not, because the evidence from D and Barclays showed Mr A was likely linked 
+to the account and hed made the payments. 
+Ive also examined all the information supplied by Mr A in the course of his complaint and if I 
+thought that he wasnt responsible for the transactions, I would have instructed Barclays to 
+refund them. But, as Ive already explained, Ive found that Mr A was more likely than not 
+responsible for them and I wont be upholding this complaint.
+My final decision
+My final decision is that I dont uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr A to accept or 
+reject my decision before 1 February 2022.
+ 
+David Perry
+Ombudsman

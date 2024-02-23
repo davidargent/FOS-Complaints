@@ -1,0 +1,67 @@
+DRN-3246668
+The complaint
+Mrs J complains that an international transfer sent to her account with Revolut Ltd was 
+returned. 
+What happened
+In October 2020 Mrs J sent a transfer of around $37,000 from a bank in the US to her 
+Revolut USD account. Mrs J has confirmed the transfer was received without issue. 
+On 2 November 2020 Mrs J instructed another transfer, this time for $102,000. The funds 
+were sent from an account Mrs J held with a US bank via its intermediary (B) to Revoluts 
+intermediary bank (J). J was responsible for processing the international transfer and 
+ensuring funds reached Revolut so they could be applied to Mrs Js account. 
+J received a Swift payment instruction but says the details included were incomplete. On 4 
+November 2020 a message was sent via the Swift system from J to B with a request for 
+further information. J said the Swift instruction contained insufficient beneficiary details which 
+meant it wasnt able to complete the transfer. Another message was sent from J to B a few 
+days later but after no response was received, the transfer was sent back on 9 November 
+2020. 
+During the above period, Mrs J was in contact with Revolut and asked it to investigate the 
+delay and why the transfer hadnt been applied. Mrs J has pointed out she made another 
+transfer using the same details a couple of weeks earlier. 
+Mrs J complained that Revolut and its intermediary bank had made mistakes that led to her 
+transfer being returned. Mrs J has explained she lost out on exchange rates as a result of 
+the decision to return her transfer. Revolut didnt agree it had made mistakes or treated Mrs 
+J unfairly by returning the transfer.
+An investigator at this service looked at Mrs Js complaint. They reviewed the information 
+Revolut had provided and contacted J for further evidence. The investigator thought Revolut 
+had dealt with Mrs Js case fairly and didnt agree it was responsible for mistakes or that J 
+had unfairly returned the transfer. Mrs J asked to appeal, so her complaint has been passed 
+to me to make a decision. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+As Mrs J has highlighted, there are lots of parties involved in the international transfer. Mrs 
+Js bank in the US had an intermediary bank acting for it. And Revolut had its own 
+intermediary, J, in place. In addition, when Mrs J sent a previous transfer in October 2020 
+Revolut used a different intermediary. Mrs J has clearly spent lots of time and effort trying to 
+get to the bottom of why her transfer was returned and I accept the number of parties 
+involved has complicated matters. I want to explain that in this decision I can only look at 
+Revolut and its intermediarys actions. I cant comment on whether her bank in the US or its 
+intermediary, B, made mistakes. 
+Mrs J has picked up that Revolut introduced a new intermediary bank between her October 
+2020 and November 2020 transfers. Revolut has provided a copy of the Swift message it 
+sent via the transfer service to participating banks in October 2020. The Swift message 
+confirms that international USD payments would be made via J going forward. Updated 
+details to help route further payments were supplied. So whilst I understand there was a 
+change in intermediary bank arrangements between transfers, the new approach appears to 
+have been communicated to other Swift users in advance. Despite this, it appears the 
+transfer instruction didnt contain the necessary details J needed.  
+J contacted B and said it didnt have useable beneficiary details. I can see the initial 
+message was sent on 6 November 2020 and a response was chased before the funds were 
+returned. Ive seen no evidence that shows J received a response to its Swift messages from 
+B before the transfer was sent back. 
+In the background to this, Mrs J was working hard to try and get Revolut and J to accept the 
+transfer information. But the Swift transfer process is driven by the various parties involved 
+and I dont think it was unreasonable for J to request confirmation of payment details from B 
+before completing. As no response was received, Im satisfied Revoluts intermediary acted 
+reasonably by returning the transfer. 
+Im sorry to disappoint Mrs J but I havent found that Revolut or its intermediary treated her 
+unfairly. As Im satisfied Revolut dealt with Mrs Js complaint fairly, Im not telling it to do 
+anything else. 
+My final decision
+My decision is that I dont uphold Mrs Js complaint. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mrs J to accept or 
+reject my decision before 6 September 2022.
+ 
+Marco Manente
+Ombudsman

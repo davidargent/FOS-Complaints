@@ -1,0 +1,100 @@
+DRN-4365712
+The complaint
+Mr S complains that Monzo Bank Ltd (Monzo) failed to stop payments made to a merchant 
+for gambling or reach out to help despite knowing he had a gambling problem. 
+What happened
+Mr S held an account with Monzo and had activated a gambling block on his account. On 7 
+July 2022 Mr S complained to Monzo regarding gambling payments hed made through an 
+online banking payment provider. Monzo explained that as the payments were made by 
+open banking faster payment transfer it couldnt identify the end recipient of the payments  
+so couldnt know the payments were for gambling and block them.
+Monzo confirmed this information to Mr S and how gambling blocks work on 9 July 2022. In 
+the message Monzo explained that gambling blocks work by blocking transactions that have 
+been identified by a merchant category code associated with gambling. The codes are 
+assigned by the merchants themselves and sometimes customers are able to complete 
+gambling transactions with companies that havent been correctly identified as gambling 
+merchants due to their merchant category codes not being categorized correctly. In cases 
+such as these Monzo wouldnt have any way of knowing that the transactions were for 
+gambling.  
+Monzo further explained that to combat this it could add merchants to its gambling block 
+manually if notified about them and that this usually takes effect within two weeks.
+Between 28 January and 25 February 2023 Mr S made numerous faster payments totalling 
+£2,170 to a merchant (not categorized as a gambling merchant) from his account with 
+Monzo. 
+Mr S attempted to raise a complaint regarding these payments to Monzo on 25 February but 
+had difficulties with Monzos ID requests. Mr S was also unhappy as he says he asked 
+Monzo to review his previous complaint on numerous occasions but didnt hear back. 
+On 27 February Mr S successfully logged a complaint about these issues with Monzo and a 
+manager from Monzo got in touch two days later. Following this Mr S received a message 
+from Monzo on 5 March apologising for the delay in getting back to Mr S and confirming that 
+he would like to block future payments to the merchant in question and that it would put this 
+in place and let him know when this was done.
+Despite chasing Mr S didnt receive an update regarding this or a response to his complaint, 
+he referred the matter to this service. Following this, on 9 May, Monzo issued its final 
+response and confirmed that it had blocked the payments to the merchant, but recognised 
+that there had been delays and it hadnt responded to all his complaints. It offered Mr S £115 
+compensation for this but as the payments to the merchant in questions were made by faster 
+payment and not able to be picked up by the gambling block, it would not reimburse Mr S for 
+any of the transactions. 
+Monzo subsequently increased the offer of compensation to £150. 
+Our investigator looked at all of this and thought that Monzo had made it clear to Mr S that 
+the gambling block only covers card transactions (not bank transfers) with certain merchant 
+codes and that the block may not work if a company doesnt disclose theyre a gambling 
+merchant. They thought Monzo had applied the gambling block fairly in line with its process 
+and as such didnt think Monzo should refund the gambling transactions. They thought the 
+£150 was a fair compensation for the distress and inconvenience caused to Mr S by the 
+delays in dealing with his complaint. 
+Mr S was dis-satisfied with this. He doesnt believe he has been helped as a vulnerable 
+customer as he was allowed to spend over £2,000 in a month and Monzo didnt reach out or 
+block the transactions to ask if they were suspicious. Mr S wants Monzo to refund 50% of 
+the transactions and has asked for an ombudsmans decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+I hope that Mr S wont take it as a discourtesy that Ive condensed his complaint in the way 
+that I have. Ours is an informal dispute resolution service, and Ive concentrated on what I 
+consider to be the crux of the complaint. Our rules allow me to do that. And as such the 
+focus of my decision will be on whether Monzo shouldve done more to support Mr S and 
+block the gambling transactions that took place between 28 January and 25 February. 
+Having considered everything I dont think it was unfair that Monzo didnt do more to stop 
+payments to this merchant for the period in question. 
+While I wouldnt tell Monzo what tools it needs to have in place to support customers with a 
+gambling addiction, I would expect it to utilize the tools it does have and make the customer 
+aware of what it can do to assist. 
+Nothing is fool proof and in Mr Ss case, Monzo made him aware of the limitations of the 
+gambling block as well as the potential solutions for this. I think Mr S understood that the 
+gambling block wasnt working regarding this merchant but waited a month before informing 
+Monzo about this and that there was a problem. 
+So I dont think Monzo should be penalised for the limitations of the gambling block which 
+were out of its control. And not being able to easily block all gambling transactions made by 
+online banking transfers or otherwise, is not an error on Monzos part. It simply isnt possible.
+Mr S says hed never used this merchant before and believes the activity on his account 
+alone shouldve been enough for the transactions to be flagged and for Monzo to have taken 
+proactive measures to safeguard his welfare.
+Monzo says it has systems in place to try to pick up suspicious or out of character 
+transactions that might be fraudulent but that its fraud prevention system didnt record 
+anything of concern. The transactions to the merchant were made for various relatively small 
+amounts over different days. 
+And having reviewed the transactions on the account prior to January 2023 I can see that Mr 
+S may not have used this merchant before, but he had previously made the same types of 
+faster payment transactions for similar amounts. So Im satisfied there wasnt enough to 
+indicate to Monzo that these types of payments were a concern or unusual for Mr S and that 
+it shouldve stepped in. And I dont believe it would be reasonable for Monzo to be expected to monitor every individual transaction on a customers account because it had been made 
+aware of a gambling problem. 
+So although I sympathise with Mr S and the struggles he has with gambling addiction, I dont 
+think it would be fair to ask Monzo to refund him for the money he spent.
+However, I do accept that Monzos service couldve been better and that there was around a 
+three month delay in applying the block and Monzo failed to respond to Mr S in a timely 
+matter regarding his complaints. But as Mr S made no payments to the merchant during this 
+time and I cant see that Mr S has lost out financially because of this, Im in agreement with 
+our investigator that the compensation of £150 for the distress and inconvenience caused is 
+a fair way to settle Mr Ss complaint and I do not think further compensation is warranted.
+My final decision
+For the reasons Ive explained Ive decided what Monzo Bank Ltd has already done to put 
+things right for Mr S is a fair and reasonable outcome and Im not going to ask it to do 
+anymore.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr S to accept or 
+reject my decision before 9 November 2023.
+ 
+Caroline Davies
+Ombudsman

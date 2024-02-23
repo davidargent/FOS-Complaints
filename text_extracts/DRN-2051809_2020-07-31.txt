@@ -1,0 +1,217 @@
+DRN-2051809
+ 
+The complaint
+Mr D is a director of a business that Ill refer to as R. He complained on Rs behalf that 
+GPUK LLP trading as Global Payments (GP) failed to support its appeal against the 
+chargeback of a number of card transactions, resulting in significant losses for the business. 
+Mr D also complains that GP held some of the funds from Rs account on reserve, without 
+informing it, while the chargebacks were being investigated.
+Mr D is represented in bringing this complaint by one of his employees, Mr H.
+What happened
+R has held card processing facilities with GP since 2014. In late May and early June 2019,  
+R accepted multiple Card Not Present (CNP) transactions over the phone from a new 
+customer. There were ten transactions in total over a period of 12 days, totalling £29,756.56. 
+GP was concerned by declines on multiple card transactions through Rs card terminal 
+during this period. They queried the transactions with the card issuers, who confirmed they 
+were fraudulent. 
+GP contacted R about these transactions on 14 June 2019. At this stage, R had already 
+delivered goods to the value of £17,756.56 to its customer. GP reminded R that CNP 
+transactions were taken at its own risk and were its liability. Following this, R didnt release 
+the remaining £12,000 worth of goods to the customer.
+R was immediately placed on reserve by GP while they investigated the total value that had 
+been taken as a result of these transactions. Being placed on reserve meant that some of 
+Rs funds were withheld by GP in a reserve account. This was to safeguard at least a 
+proportion of the funds that might be required if the card issuer sought to reverse any of the 
+transactions (under a process known as a chargeback). R said it was not informed of this 
+action and it put considerable financial strain on the day-to-day running of the business. 
+GP sent chargeback letters to R for ten transactions that had been rejected by the card 
+issuing banks. They said all cardholders denied authorising or participating in these 
+transactions, so they were deemed to be fraudulent. GP said R needed to provide certain 
+evidence to enable them to defend the chargebacks and refute the cardholders claims. 
+R responded on 24 July 2019. It also said that Mr D had recently undergone surgery and 
+was unfit for work, so it requested the case be dealt with as a priority. 
+GP said Rs responses were insufficient and that two of the ten transactions were now out of 
+time to defend. The two in question had been sent to R on 27 June 2019 and a response 
+had been required by 7 July 2019. GP chose not to defend any of the chargebacks, and the 
+transactions were debited from Rs account. 
+The funds that were being held in a reserve account by GP were released back to R on 7 
+August 2019, once GP received bank statements from R and were satisfied that all the 
+chargebacks had been paid.
+R complained to GP, which said that all CNP transactions are taken at the merchants own 
+risk and referred R to the terms of service of their agreement. R was unhappy with GPs 
+response. It said GP shouldnt have authorised the payments and they were responsible for 
+checking them. 
+GP responded by explaining that Rs card terminal captures the transaction date and 
+requests authorisation from the card issuer. When an authorisation is provided for the 
+transaction, it confirms that the card has not been reported lost or stolen at the time of sale, 
+and that there are enough funds available for payment, but it does not guarantee payment. 
+GP re-iterated that CNP transactions are a greater risk of fraud, as there is no guarantee 
+that you are dealing with the genuine cardholder, and they referred R to their Merchant 
+Operating Instructions.
+GP also said that the card transaction is governed by the relevant card scheme rules and, 
+although they endeavour to defend chargeback disputes on behalf of their customers, they 
+must act within these rules. They said they were unable to defend Rs case as the 
+transactions had been certified as fraud by the cardholders and R had been unable to 
+provide compelling documentary evidence to refute the cardholders claims. They were not 
+obliged to notify R that it had been placed on reserve and this is set out in their terms of 
+service.
+R was still unhappy with GPs response, so it referred its complaint to our service. Our 
+investigator looked into matters and didnt think that GP had done anything wrong in not 
+defending the chargebacks. He thought that R should have been aware of the risk 
+associated with CNP transactions and that GP had done enough to inform R about this risk.
+R asked for the case to be considered by an ombudsman. It said that GP should never have 
+authorised the transactions and it wanted them to refund the chargebacks. 
+My provisional decision
+I issued a provisional decision on Rs complaint last month, setting out what I thought GP 
+needed to do to resolve the matter. I said:
+Card Not Present (CNP) transactions
+In late May and early June 2019, R accepted multiple CNP transactions over the 
+phone from a new customer. CNP means neither the card nor the cardholder were 
+present at the point of sale, and the card details were manually input into Rs card 
+terminal. 
+Processing CNP transactions is not uncommon but it does present a higher risk of a 
+card being used fraudulently, as neither a signature nor a PIN have been used to 
+verify the transaction as genuine. I can see that these risks are detailed in GPs 
+Terms of Service and Merchant Operating Instructions, which were provided to         
+R when they signed the card processing agreement in 2014. Sections 4.19 and 4.20 
+of the Terms of Service say:
+4.19 These Terms of Service and Merchant Operating Instructions contain 
+guidelines for processing CNP transactions but undertaking such transactions will be 
+solely at your commercial risk, regardless of whether or not any request for 
+authorisation or other enquiries have been made to us or if an authorisation has been 
+received.4.20 GP does not guarantee that any CNP transactions will be honoured or that GP 
+will not exercise its chargeback or other rights of reduction or set-off under the 
+Agreement in relation to such a transaction. 
+  
+And on page 33 of the Merchant Operating Instructions, under the section CARD 
+NOT PRESENT (CNP) TRANSACTIONS, it says:
+Card Not Present (CNP) transactions are any transaction where the card and 
+cardholder arent physically present with you at the time of the transaction.
+These transactions present an opportunity for fraud, as the card, signature and 
+personal identification number (PIN) cannot be checked.
+Note: Its vital that you understand the risks associated with CNP transactions. All 
+CNP transactions are accepted at your own risk. Please read the How To Reduce 
+Fraud section on page 76 which provides important advice on CNP fraud and how to 
+minimise your risk of financial loss.
+There is also information on page 3 of the Know the Risks document which provides 
+details on how a merchant can minimise its risks when undertaking CNP 
+transactions. 
+In addition to the above, GPs internal notes state that R was educated about the 
+risks of CNP transactions during a phone call shortly after the account was opened.  
+These terms are clear and unambiguous, and a prominent part of the documentation 
+provided to R. In deciding to accept CNP transactions, I think it was up to R to ensure 
+it understood the associated risks and how to mitigate them. And taking the above 
+into account, I think GP did all Id reasonably expect of it by providing R with the 
+appropriate information about CNP transactions and the risks involved. 
+Several different cards were used by Rs customer. Some of the transaction amounts 
+were split, sometimes on the same card and sometimes on different cards, and a 
+number of the card transactions were declined. I think that this should have alerted R 
+to the fact that there might be an issue with the payments and made them more 
+cautious in releasing the goods, especially as this was a new customer that it had not 
+done business with before. 
+Authorisation of the transactions
+R told us that it obtained authorisation codes for these transactions and therefore 
+believed that they were successful. It said GP shouldnt have authorised the 
+payments and were responsible for checking them. However, the authorisation code 
+comes from the card issuer, so GP did not authorise the payments and they werent 
+responsible for checking them. 
+The Terms of Service mentioned above also made it clear that authorisation didnt 
+change the fact that the transaction was at the merchants risk. This is further 
+expanded on in section 4.6 of these terms which says:
+...Authorisation can only confirm the availability of credit limit or funds and that the 
+card in question has not been reported as lost or stolen at the time of the transaction. 
+Obtaining an authorisation does not guarantee payment or that such transactions 
+cannot be the subject of a ChargebackI have looked at the information GP provided to R when the account was opened and 
+I see that in the risk awareness section on pages 4 and 5 of the Merchant Operating 
+Instructions, under the heading Chargebacks, it says:
+Theres no guarantee of payment for any transaction, even if you obtained 
+authorisation. Authorisation checks that at the time of the transaction, the card isnt 
+reported lost or stolen and that the genuine cardholder has sufficient funds 
+available. Authorisation cannot verify that the genuine cardholder is conducting the 
+transaction. 
+And on page 3 of the Know the Risks document there is a warning to Remember 
+authorisation is NOT a guarantee of payment.
+Again, I think GP did all I could reasonably expect of it in giving R appropriate 
+information about what an authorisation code represents. 
+Defence of the chargebacks
+GP said it would not defend the chargebacks as R had not been able to provide 
+compelling evidence to prove the cardholders authorisation or participation in the 
+transactions. So, I have looked at the card scheme rules and the information 
+provided by the cardholders and R to decide if this was fair.
+The chargeback process is run by the card issuer and is subject to the relevant card 
+scheme rules. In this case, the genuine owners of the cards disputed the transactions 
+as unauthorised and the transactions were recognised as fraud by the card issuing 
+banks. Based on the evidence that was provided, I am satisfied that the cards had 
+not been reported lost or stolen at the time these transactions occurred. The 
+cardholders have stated that neither they nor anyone authorised by them were 
+involved in the disputed transactions, so I am satisfied that the chargebacks were 
+legitimately raised. 
+The card scheme rules say that if a merchant wants to dispute the chargebacks, it 
+needs to provide documentary evidence to refute the cardholders claims that the 
+transactions were fraudulent and show a link between the person receiving the goods 
+and the cardholder. GP said Rs responses were insufficient as there was not enough 
+evidence to prove that any of the transactions were genuine. They told R they were 
+unable to defend the chargebacks on this basis. They also said that two of the 
+responses were out of time to defend under the card scheme rules, but even if they 
+had been submitted on time there still wasnt enough evidence for them to defend 
+them.
+I have reviewed the information that R submitted to GP to support its defence. 
+Although R has supplied some of the information specified by GP, Im satisfied that 
+GP acted reasonably in declining the defence of the chargebacks. I say this for 
+several reasons. 
+R was asked to provide a description of the goods, a detailed invoice with the 
+cardholders information, details of the delivery address and signed proof of delivery 
+showing the customers name, address and signature. R provided invoices, card 
+receipts and delivery dockets to support its case. However, there are numerous card 
+transactions for each invoice. The goods have been paid for using several different 
+cards for the same purchase or splitting the transactions in half using the same card. The delivery address details are unclear on the delivery dockets and there appears to 
+be no connection between any of the cardholders names, or between any of the 
+people who have signed for receipt of the deliveries. Each delivery has also been 
+signed for by a different person. 
+So, Im satisfied that there was no compelling evidence with which to defend the 
+chargebacks under the relevant card scheme rules, as R couldnt show a link 
+between the person receiving the goods and the cardholder. Therefore, I think GP 
+acted reasonably in not defending the chargebacks.
+Im genuinely sorry to see that R has lost money as a result of this fraud, but Im 
+afraid I cant say that this is because of anything GP did, or failed to do, in respect of 
+the chargeback process or the authorisation of the transactions. 
+GP placing Rs funds on reserve
+R told us that GP held some of the funds from Rs account on reserve without 
+informing it, while the chargebacks were being investigated. GP confirmed that they 
+placed R on reserve to safeguard the funds that might be required for the anticipated 
+chargebacks. R said this action had put considerable financial strain on the day-to-
+day running of the business. 
+While I agree that the Terms of Service allowed GP to block access to Rs funds 
+while the transactions were under investigation, I dont agree that GP wasnt required 
+to notify R of these actions. Clause 19 states:
+At any time, GP may establish an account in its books and records ("Reserve 
+Account") to secure the performance of your obligations under the Agreement. You 
+will be advised within a reasonable time of GPs exercise of this right.
+So, I think GP ought to have told R this was happening and explain the reasons why.
+I think GP treated R unfairly in this regard. R had already suffered a significant loss 
+as a result of the fraud, and it said this action had put considerable financial strain on 
+the day-to-day running of the business. This had an impact on Rs cashflow and Mr D 
+had difficulty contacting GP  having to spend time chasing them to find out why 
+payments totalling more than £12,000 had been outstanding for over a month and 
+were not being released. 
+This all occurred during a period when Mr D was recovering from surgery and was 
+not fit for work. R did not provide any evidence to suggest that it suffered a financial 
+loss as a result of being placed on reserve by GP. 
+However, I think R is entitled to some compensation for the inconvenience this lack 
+of communication caused. It is for this reason that I am minded to direct GP to pay 
+compensation of £200 to R.
+Neither party responded to my provisional decision with any further comments or evidence 
+for me to take into account.
+My findings
+Ive considered all the available evidence and arguments to decide whats fair and reasonable in the circumstances of this complaint.
+Having done so, and with neither party having sent me anything further to take into 
+consideration, I see no reason to reach a different conclusion. So this decision confirms my 
+provisional findings, as detailed above.
+My final decision
+My final decision is that I require GPUK LLP to pay £200 to R in recognition of the 
+inconvenience caused to R when it was not told about being placed on reserve.
+Under the rules of the Financial Ombudsman Service, Im required to ask R to accept or 
+reject my decision before 28 August 2020.
+ 
+Tara Richardson
+Ombudsman

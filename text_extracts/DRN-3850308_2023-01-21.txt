@@ -1,0 +1,116 @@
+DRN-3850308
+The complaint
+Mr C complained because Revolut Ltd refused to refund him for transactions which he said 
+he didnt authorise.
+What happened
+On 15 August 2022, there were three debits from Mr Cs account, for a total of £7,540. 
+Mr C logged in on 17 August, when the account balance was €0.71. He said he knew there 
+was nearly €9,000 in the account, and hed paid in €1,000 on 4 August. He contacted 
+Revolut. 
+Revolut asked a number of questions, including whether his phone and / or Revolut card had 
+been lost or stolen, and how he logged into his Revolut app.
+Mr C told Revolut that his Revolut card wasnt missing, but hed lost his phone on 22 July. 
+The phone was secured with Face ID or passcode, with the phone asking for the passcode if 
+it didnt recognise the face.  He said his Revolut app was secured with a PIN.  He said hed 
+tried to recover it using a finding app, but it couldnt be tracked because the phone was 
+turned off. He put the phone into Lost Mode and reported this to his insurance on 26 July, 
+and received a replacement phone two days later. 
+Mr C said that on 5 August hed received a text saying the phone was now on, and asking 
+him to log on using his phone passcode and Cloud password. Mr C said he entered these, 
+but the screen went blank. He contacted his phone supplier, which said the text had 
+probably been a scam, and Mr C should change his passcode and passwords straightaway, 
+which he did. He hadnt received any other suspicious calls.
+Revolut told Mr C to change his in-app passcode, and his email password, and said it would 
+investigate.
+The next morning, Mr C had a message from Revolut. It said it had reviewed Mr Cs case, 
+and wouldnt be reimbursing him. It said that its protections had been in place, and both 
+phone and Revolut app has also been protected, and Revolut had found no signs of 
+fraudulent activity. 
+Mr C complained. In Revoluts final response to Mr Cs complaint, it said it had escalated the 
+matter to its fraud team. The fraud team had checked and had found no signs of account 
+takeover. So Revolut said it wasnt liable for the three payments.
+Mr C said he couldnt understand how Revolut had decided that no fraud had been 
+committed. He said that one way to prove it was to check which device was logged in at the 
+time the payments had been made  and he said it had to be another device than his phone. 
+Mr C said Revolut had been negligent, and since hed opened the account hed only paid 
+money in which hed then transferred to euros. So he had no reason to transfer back to 
+pounds, which should have been a red flag. He said this was his entire saving and it had 
+been stolen, and he didnt accept there was nothing that could be done.
+Mr C contacted this service.
+Our investigator didnt uphold Mr Cs complaint. She said that because Mr C had put the 
+phone into Lost Mode on 26 July, she didnt think anyone other than Mr C could have 
+accessed the phone after that. She also thought the timescales made it unlikely that a 
+fraudster had made the transactions. She thought it was more likely than not that Mr C had 
+authorised the transactions himself.
+Mr C didnt agree. He said the investigator was basically saying hed approved the 
+transactions, using a phone he no longer had. He said there was clear evidence to prove he 
+didnt have the lost phone.  He also said hed found three emails from Revolut in his deleted 
+folder, which he hadnt deleted  which he said proved that someone else had had access to 
+his emails on 28 July and 1 August. 
+Mr C also sent further comments. He said that the three transactions had been completed in 
+a short space of time, and Revoluts systems should have flagged this and frozen the 
+account. He said that as it was a new payee, he should have been sent an email or text to 
+make sure hed genuinely set up the payee  and this hadnt happened. Mr C also said that 
+Revolut had proof that it was the old phone which had logged in on 12 August, then made 
+the payments on 15 August. He hadnt had the phone since 22 July, so he hadnt made the 
+payments. Mr C suggested that the money should be traced to where it went, so Revolut 
+could find the person that had stolen his money. Mr C said that he was the victim, not the 
+fraudster, and the money was savings for his wedding. He said theyd been paying for things 
+in euros using the Revolut card, and wouldnt have transferred it back into sterling. Mr C said 
+he worked long hours and didnt want the hassle and stress, or to be accused of making it 
+up.
+Mr C asked for an ombudsmans decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+There are regulations which govern disputed transactions. The relevant regulations for 
+disputed transactions taking place in 2022 are the Payment Services Regulations 2017. In 
+general terms, the bank is liable if the customer didnt authorise the payments, and the 
+customer is liable if they did authorise them. 
+The regulations also say that account holders can still be liable for unauthorised payments 
+under certain circumstances  for example if theyve failed to keep their details secure to 
+such an extent that it can be termed gross negligence.
+The technical evidence shows that Mr Cs old phone was used to log into his Revolut 
+account on 12 August. It was the old phone which logged in again on 15 August, and made 
+the three disputed transactions. 
+I recognise that Mr C says he lost his old phone on 22 July, and put the phone into Lost 
+Mode on 26 July. Hes also provided a copy of a very short message from his phone 
+supplier, which says that the replacement device Mr C had ordered was on its way. 
+But as Mr C had put the phone into Lost Mode on 26 July, I dont think anyone else could 
+have used it after then. Lost Mode locks the device to protect the owners personal 
+information.  Mr C said that he had phishing messages on 5 August, and he entered his old phones 
+passcode and his password. But I dont think this would have been enough to enable a 
+fraudster to access Mr Cs Cloud account. When accessing Cloud from a new device, the 
+user would have had to enter a verification code, which a fraudster couldnt have received. 
+Ive also taken the timescales into account. If a third party fraudster obtained Mr Cs phone 
+on or around 22 July, I dont consider its likely that theyd have waited until 5 August before 
+attempting a phishing call. And even if the information Mr C entered had provided a fraudster 
+with sufficient information to enable them to access the account  and as Ive explained I 
+dont think this was enough - its most unlikely a fraudster would then have waited even 
+longer before carrying out the disputed transactions. The technical evidence shows that the 
+old phone was logged into on 12 August  but no transactions were made. This isnt what a 
+fraudster would do. Instead, whoever logged in waited until 15 August before carrying out 
+the disputed transactions, having theoretically had the phone since 22 July.  
+Ive also borne in mind that, as Ive set out above, the relevant Regulations say account 
+holders can still be liable for unauthorised payments if theyve failed to keep their details 
+secure to such an extent that it can be termed gross negligence. Here, Mr C told Revolut 
+that he stupidly (in his words) clicked a link and provided some of his security information 
+to a phishing text. I dont think this alone would have been enough for any third party 
+fraudster to have been able to access Mr Cs Revolut account. But the fact that Mr C didnt 
+keep his details secure, means that Revolut considered hed acted negligently in the terms 
+of the relevant Regulations.
+Finally, I recognise that Mr C says that Revolut should have stopped the transactions as 
+atypical behaviour, and that it should have traced the recipient of the funds. But the 
+transactions were fully authenticated so I dont consider it had any duty to stop them. And I 
+consider that there was significant evidence to indicate that the transactions hadnt been 
+made by a third party fraudster, so I dont agree that there was any obligation on Revolut to 
+try to trace the recipient. 
+Taking all the evidence into account, I consider its most likely that Mr C carried out the 
+disputed transactions himself. So I dont require Revolut to refund him.
+My final decision
+My final decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr C to accept or 
+reject my decision before 18 February 2023.
+ 
+Belinda Knight
+Ombudsman

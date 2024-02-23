@@ -1,0 +1,115 @@
+DRN-3536509
+The complaint
+Mr L is unhappy that Barclays Bank UK PLC wont reimburse him for transfers made from 
+his account which he says he didnt authorise. 
+The complaint is being brought to us by Mr Ls parents, Mr L1 and Mrs L. But for ease of 
+reading, Ill only refer to Mr L.
+What happened
+Mr L holds a current account and savings account with Barclays. In April 2021, Mr L received 
+a credit of approximately £11,500 into his savings account. 
+Shortly after, between 5 May and 9 June 2021, the majority of Mr Ls savings were 
+transferred to his current account. These were then followed by 58 transfers totalling 
+£11,460 mostly to a crypto exchange company and to some third parties. There were also 
+two debit card transactions amounting to around £250 which Mr L didnt recognise. 
+Mr L reported these transactions to Barclays. He believes that his mobile phone was 
+somehow cloned or hacked. He explained there were over 100 text messages to parties not 
+in his contacts which werent sent by him. He contacted the crypto exchange company and 
+confirmed the account wasnt set up in his own name. He also said that he didnt recognise 
+the third-party beneficiaries.
+Barclays refunded the disputed debit card transactions, but they declined Mr Ls claim on the 
+disputed transfers. They said the disputed transfers were completed using Mr Ls mobile 
+phone which had been used to make genuine logins and payments. They said the mobile 
+banking application was accessed using Touch ID and passcode and they couldnt establish 
+a point of compromise or find evidence of third-party involvement.
+Unhappy with this, Mr L referred his complaint to our service. Our investigator didnt uphold 
+the complaint as he thought Mr L authorised the transactions himself. Mr L disagreed and 
+asked for an ombudsman to review his complaint.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Under the relevant rules, Barclays can hold Mr L liable for the disputed transactions if the 
+evidence suggests that its more likely than not that he made or authorised them himself.
+Ive looked at the technical evidence provided by Barclays. It shows that Mr Ls account was 
+accessed using the same mobile phone device used to log on to the account and carry out 
+genuine transactions. 
+It also shows that the access to Mr Ls mobile banking application was made by Touch ID 
+and Passcode. Touch ID is either fingerprint or Face ID. So, Im satisfied the disputed 
+transfers out of Mr Ls account were authenticated.
+But this alone isnt enough to say that Mr L is liable for the transactions. I also need to be 
+satisfied that based on the evidence, its likely that Mr L made the transfers himself or 
+otherwise authorised them.
+Mr L has confirmed that his mobile phone was still in his possession, and it only had his 
+Touch ID on the device. He also has Touch ID set up on his mobile phone and if that fails, 
+he has a passcode. Hes said that no one knows his passcode for his mobile phone or 
+mobile banking application and isnt written or stored anywhere.
+Hes also said that he doesnt have any recollections of any phishing calls or text messages 
+which might have resulted in him giving a fraudster permission to access his online banking 
+without his knowledge. He says he hasnt been a victim of a scam.
+So, its hard to understand how anyone else couldve carried out the transactions given what 
+Mr L has said and considering the evidence which shows that his account was accessed 
+using his Device ID, Touch ID and passcode while he was still in possession of the device.
+Ive thought about the explanation Mr L has provided about his mobile phone being 
+compromised either by cloning or hacking. Hes explained that a cloned mobile phone would 
+show the same Device ID as his genuine device. 
+But based on what Ive seen, I think this is unlikely in this situation. I say this because if a 
+fraudster had cloned or hacked into Mr Ls mobile phone as hes suggested, then it would 
+mean they had full access to his accounts. 
+And if that were the case, then I think its most likely that the fraudster wouldve drained all 
+the funds from Mr Ls accounts as quickly as possible rather than over a period of six weeks. 
+I think a fraudster would want to maximise gain before the account holder could discover the 
+fraudulent activity and notify their bank to put a block on the account.
+Mr L has said that the payments followed a testing the water pattern as they start off small 
+and spaced out and then increase in value and frequency.
+I dont think its likely that a fraudster would want to test to see if the payments would be 
+noticed. Doing so would mean theyd run the risk of being exposed and their access to the 
+account removed  thereby minimising their financial gain.
+The statements show the transactions were carried out over several smaller payments 
+between 5 May and 31 May 2021. And there were some days where no withdrawals were 
+attempted which I think would be unusual given that the fraudster didnt know when their 
+access to Mr Ls accounts would be removed.
+Mr L has said there are over a 100 text messages from his mobile phone which he hasnt 
+sent. But these appear to have started in February 2021 which is around two months prior to 
+the disputed transfers. So, I think its unlikely to be linked to Mr Ls disputed activity on his 
+bank accounts.
+While a SIM swap fraud is possible, I dont think its probable in Mr Ls case. I say this as a 
+fraud of this nature would generally mean Mr L wouldve lost the ability to use his phone as 
+the fraudster wouldve deactivated his SIM. Another sign would be if Mr L had suddenly lost 
+access to his bank account. Neither of these appear to have happened to Mr L  hes been able to use his account to 
+make several genuine transactions and his SIM wasnt deactivated, so I think a SIM swap 
+fraud can most likely be ruled out.  
+In any case, I dont think Mr L has provided sufficient supporting evidence to show that his 
+mobile phone device or SIM was compromised. 
+Taking everything into account and on balance, I think the most plausible explanation here is 
+that the transfers were made by Mr L.
+I appreciate Barclays have refunded the two disputed debit card transactions. But this 
+doesnt mean that they should also refund all the disputed transfers out of the account. 
+Barclays have explained they refunded the debit card transactions automatically without 
+carrying out an investigation  this is a decision theyre entitled to make.   
+I take Mr Ls point that the IP addresses are varied. But I dont think this is sufficient 
+persuasive evidence to demonstrate that the transactions werent authorised by him. IP 
+addresses arent always reliable as they can be masked and are sometimes inaccurate.
+Also, I can see an IP address used to make a genuine transaction on 15 March 2021 was 
+the same as three disputed transactions on 24 May 2021. And Mr Ls account was accessed 
+at several different IP addresses before the disputed transactions started  so I dont think 
+the IP addresses not being the same is helpful to support Mr Ls case.
+Looking at the pattern of the payments, I agree that it shouldve triggered Barclays to 
+complete further checks for transactions between 1 June and 4 June 2021 as Mr L had 
+spent more than he usually does. There were also multiple payments to the same crypto 
+exchange company which would be considered out of the ordinary.
+That said, I dont think this wouldve prevented the transactions from going through. While I 
+appreciate Mr L says that he wouldnt have authorised the payments if Barclays had 
+contacted him, the evidence suggests otherwise. 
+Based on what Ive seen, I think Mr L authorised the transactions, so Im persuaded that on 
+balance its likely he wouldve told Barclays he authorised them  if they had carried out 
+further checks. 
+Ive also thought about whether Mr L may have been a victim of a scam and if he was tricked 
+into making these transfers. But hes adamant that he didnt make these payments. 
+All things considered, I think the evidence points to Mr L having authorised the transactions. 
+So, I cant fairly ask Barclays to refund him.
+My final decision
+For the reasons explained above, my final decision is that I dont uphold the complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr L to accept or 
+reject my decision before 24 November 2022.
+ 
+Ash Weedon
+Ombudsman

@@ -1,0 +1,102 @@
+DRN-4369081
+The complaint
+Mr S complains that Revolut Ltd (Revolut) wont refund the money he lost to a scam. 
+What happened
+In early 2023, Mr S was arranging a trip to visit family. He used his Revolut card to make 
+payments to who he thought was an estate agent, on the understanding they were arranging 
+flights for him. Unfortunately, they were a scammer. 
+Mr S says he agreed to two payments. He was tricked into making another as the scammer 
+told him one hadnt gone through. He was then told he needed to authorise the refund for the 
+overcharged amount  but instead, further payments were taken.
+When Mr S realised he had been scammed, he raised a dispute with Revolut in relation to 
+the following payments: 
+Date Merchant paid Amount
+03/02/2023 T £1,645
+03/02/2023 T £1,645
+03/02/2023 T £1,645
+04/02/2023 S £415.43 (plus £4.16 fee)
+04/02/2023 S £166.21 (plus £2.49 fee)
+Total loss  £5,523.39
+Revolut said, in line with the chargeback rules set by the card scheme provider, there 
+werent valid grounds to raise successful claims. Unhappy with this response, Mr S referred 
+his complaint  about Revoluts decision not to refund him  to our service. 
+Our investigator didnt uphold the complaint. In summary they said, bearing in mind the 3DS 
+screens Mr S would have seen/approved, the payments should be treated as authorised. 
+They didnt think Revolut had cause to be concerned at the time of processing the payments. 
+And they didnt think it was at fault for not pursuing chargeback claims. 
+Mr S has appealed the investigators outcome. He says Revolut should have had 
+further/better measures in place to protect him. He has provided some information about his 
+prior account to explain why he thought Revolut should have been concerned about the 
+scam payments. And hes expressed dissatisfaction about the difference in protection 
+offered by debit cards and credit cards. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, Ive decided not to uphold it. Ill explain why. 
+First, Ive considered whether the payments should be treated as authorised, in line with the 
+relevant regulations  the Payment Services Regulations 2017 (PSRs). This is relevant as 
+Mr S would generally be liable for authorised payments and Revolut would generally be 
+liable for unauthorised payments. 
+In broad terms, as set out in the PSRs, a payment would be deemed authorised if the 
+account holder completes the agreed steps to make a payment  or gives someone else 
+access to complete those steps on their behalf.
+Im satisfied the payments on 3 February 2023 were authorised. While Mr S was being 
+tricked, he provided his card details to the scammer, and completed the 3DS screen in the 
+Revolut app, for the purpose of allowing them to take the payments. I understand he was 
+tricked into thinking one hadnt gone through  which is why he completed the process 
+again. But he knew the steps he took would allow a payment to be taken at that point, 
+meaning it would still be deemed authorised.  
+I have considered what Mr S has told us about the payments taken the next day. He says 
+that, while he approved the payments via the in-app 3DS screen, he completed this step 
+thinking he would be receiving (rather than making) payments. 
+Looking at how the 3DS screen would have appeared, it was the same as for the previous 
+payments. It showed the merchant name, as well as the payment amount with a minus sign 
+in front of it. I think that made it clear enough that, by selecting to confirm the payment, 
+Mr S was allowing the payment to be debited. He was giving a form of authority to the 
+scammer to act on his behalf in requesting the payment. So I think, for the purposes of the 
+PSRs, all the payments should be deemed authorised. 
+As explained, that means Mr S is presumed liable for the loss in the first instance. Revolut 
+has a duty to act on his authorised payment instructions without undue delay. However, 
+there are circumstances when it might be appropriate for Revolut to take additional steps 
+before processing a payment. Such as when there are grounds to suspect the payment 
+presents a fraud risk. That might occur when a payment is significantly unusual or 
+uncharacteristic compared to the normal use of the account.
+Looking at Mr Ss account history, Im not persuaded these payments appeared so 
+uncharacteristic that Revolut ought to have suspected he was falling victim to a scam. He 
+had previously made similar size (and larger) payments, and had sent multiple payments to 
+the same payee within a day. I appreciate the distinction Mr S has drawn about the nature of 
+those earlier payments. But I still consider them relevant to what level/type of account 
+activity Revolut would be expecting to see from Mr S, and what it would consider significantly 
+uncharacteristic and risky. 
+In the circumstances, I dont consider it remiss that Revolut processed the payments in line 
+with the instructions received without completing further checks.
+I appreciate Mr S thinks Revolut should have recovered the funds through the chargeback 
+scheme. This is a scheme run by the card-scheme provider (in this case, Mastercard) to 
+resolve payment disputes between customers and merchants  subject to the rules they set. 
+The scheme is voluntary and limited in scope. Revolut isnt obliged to put a claim through 
+just because Mr S requests one. But Id consider it good industry practice to do so if the 
+claim was likely to succeed. Here, the way the payments were authenticated (using 3DS) meant the funds couldnt be 
+charged back from the merchants paid on the grounds of fraud. Nor am I persuaded there 
+were any other chargeback reasons, under Mastercards rules, that would have been likely 
+to succeed. 
+Most chargebacks reasons are for (evidenced) issues with the goods or service provided by 
+the merchant paid. T was a money transfer service. They likely provided the expected 
+service by loading/transferring the funds in line with the instructions received. Similarly, S 
+appears to be a digital goods provider. And theres no indication they didnt provide whatever 
+goods and services the payments were funding. I therefore think it was reasonable that 
+Revolut didnt try to charge back these card payments  as I dont think the claims would 
+have succeeded.
+I understand Mr S is disappointed that the recovery options for payments made on debit card 
+(as these were) differ to those made on credit card. There is different legislation that can, in 
+some circumstances, give rise to a different type of claim for credit card payments. But what 
+Im considering is whether Revolut acted fairly, in line with its obligations. 
+I do appreciate how disappointing this will be for Mr S, who has clearly fallen victim to a cruel 
+scam. But in all the circumstances, Im decided not to direct Revolut to reimburse him for his 
+loss. Thats because Im not persuaded that loss is attributable to a failing by Revolut. 
+My final decision
+For the reasons given above, my final decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr S to accept or 
+reject my decision before 18 January 2024.
+ 
+Rachel Loughlin
+Ombudsman

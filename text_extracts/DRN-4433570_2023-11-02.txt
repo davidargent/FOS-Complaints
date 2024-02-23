@@ -1,0 +1,310 @@
+DRN-4433570
+The complaint
+Mr and Mrs B complain that Lloyds Bank PLC (Lloyds) wont refund the money they lost 
+when they fell victim to a scam.
+What happened
+The details of this complaint are well known to both parties, so I wont repeat them all again 
+here. Instead, Ill summarise the key points, and focus on giving reasons for my decision.
+In early 2021, Mr B purchased £200 worth of cryptocurrency. He did so via a legitimate 
+cryptocurrency merchant Ill refer to as J. He was then contacted by another company, R, 
+who I understand claimed to be a subsidiary of J.
+R told Mr B they would help set him up with an exchange and platform, and encouraged him 
+to invest with them. I understand R used remote access software to access Mr Bs device 
+and help him set up an exchange wallet with B  who are also a legitimate cryptocurrency 
+merchant. He sent funds to B from his joint Lloyds account, then purchased cryptocurrency 
+to send on to Rs platform.
+At first, Mr B says the cryptocurrency appeared to grow. But then it crashed. R told him he 
+was liable for a loss exceeding £30,000. Following this, he sent a series of further payments 
+from the joint account he and Mrs B held with Lloyds, to (re)cover the loss.
+Mr B says he repeatedly asked to withdraw funds but was told he couldnt until all his 
+trades/stocks were positive. On Rs suggestion, Mr B took out a loan to fund further 
+payments, as well as using money from an equity release. Ultimately, R stopped responding. 
+Mr B then realised R were operating a scam, and so logged a fraud dispute with Lloyds.
+Lloyds didnt agree to refund Mr and Mrs B, following their fraud claim and subsequent 
+complaint. It said the loss had only occurred when the funds were sent on from B. Unhappy 
+with Lloyds response, Mr and Mrs B referred the matter to our service. Our investigator 
+reviewed things, but ultimately didnt think Lloyds was liable for their loss.
+The case was then allocated to me as Mr and Mrs B appealed the investigators outcome. In 
+brief summary, they raised the following points:
+They dispute the investigators view that these were me-to-me payments, and that 
+the Lending Standards Boards Contingent Reimbursement Model (CRM) code 
+therefore doesnt apply. They say B was only an in and out exchange, and the only 
+destination was R  as Lloyds knew, because Mr B told it during a call when 
+processing one of the payments. So they think the code applies.
+As Lloyds previously said there was negative information available online about R 
+since December 2020, it should have been aware R were illicit. Although Lloyds has 
+since said it cant find any reference to this, Mr and Mrs B doesnt think it can 
+backtrack. And it should therefore have stopped the payments, regardless of their 
+insistence to continue  which was due to their fear of Rs legal threats.
+I issued my provisional decision in October 2023, explaining I was minded to uphold the 
+complaint and direct Lloyds to refund some, but not all, of Mr and Mrs Bs loss. Both parties 
+have responded to accept my proposal, although Mr and Mrs B have queried what the exact 
+award will be when interest is applied. As both sides have responded, I can now proceed to 
+issue my final decision. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+As Ive not received any new points or evidence in response to my provisional findings, I see 
+no reason to depart from them. I uphold this complaint, and I give directions below for what 
+Lloyds needs to do to put things right for Mr and Mrs B. 
+Before setting out my reasons for this decision, Ill comment on Mr and Mrs Bs query about 
+the award. As I have told them directly, it will be for Lloyds to complete the final calculation in 
+line with the directions I give in my decision. Im satisfied those directions make it clear how 
+it should do this. But it will be Lloyds, rather than our service, who is responsible for 
+completing the calculations  bearing in mind that interest will accumulate up until the award 
+is paid. 
+With that said, Ill now give my reasons for upholding this complaint.
+The transactions Im considering
+I want to clarify the transactions Im considering. Of most significance, compared to what has 
+already been set out in the investigators view, is that Mr B has told us he received credits in 
+via a different cryptocurrency wallet (so not with B or J)  which came from the scam 
+platform.
+As these credits were paid into the Lloyds account, they are relevant for establishing the 
+outstanding loss being sought from Lloyds. Particularly bearing in mind that Mr and Mrs B 
+have already recovered losses from the other banks used to send payments to the scam.
+Outward payments lost to the scam (via B):
+Requested date Amount Payment type
+26/03/2021 £1,000.00 Debit card
+26/03/2021 £1,000.00 Debit card
+26/03/2021 £1,000.00 Debit card
+27/03/2021 £1,000.00 Debit card
+30/03/2021 £10.00 Transfer
+30/03/2021 £22,000.00 Transfer
+31/03/2021 £10,000.00 Transfer
+31/03/2021 £1,000.00 Debit card
+31/03/2021 £2,000.00 Debit card
+31/03/2021 £2,200.00 Debit card
+04/04/2021 £20.00 Debit card
+07/04/2021 £1,000.00 Transfer
+07/04/2021 £19,000.00 Transfer
+09/04/2021 £500.00 Debit card10/04/2021 £330.00 Debit card
+13/04/2021 £9,000.00 Transfer
+14/04/2021 £1,000.00 Transfer
+14/04/2021 £25.00 Debit card
+18/04/2021 £50.00 Debit card
+30/04/2021 £500.00 Transfer
+10/05/2021 £1,001.00 Transfer
+11/05/2021 £1,000.00 Transfer
+15/06/2021 £10,000.00 Transfer
+16/06/2021 £10,000.00 Transfer
+16/06/2021 £15,000.00 Transfer
+17/06/2021 £10,000.00 Transfer
+21/06/2021 £25,000.00 Transfer
+22/06/2021 £14,000.00 Transfer
+22/06/2021 £5,000.00 Transfer
+TOTAL £163,636.00  
+Credits from the scam:
+Date received Amount Description
+26/03/2021 £83.44 Credit from B
+26/03/2021 £4.13 Credit from other crypto wallet, 'C'
+26/03/2021 £2,118.91 Credit from C
+27/03/2021 £1,981.19 Credit from C
+TOTAL £4,187.67  
+By my calculations, that means the loss relevant to this complaint is £159,488.33.
+Authorisation
+Its accepted that the disputed payments were authorised by Mr B, even though he was 
+tricked by the scammer. In line with the Payment Services Regulations 2017 (PSRs), the 
+broad position is that a customer would generally be liable for an authorised payment  but 
+their bank would be liable for an unauthorised payment.
+That said, there are situations where it might be fair to hold a bank liable for an authorised 
+transaction. Such as if the payment was a result of a scam, and the scam risk was (or ought 
+to have been) apparent to the bank, and appropriate intervention in response to that  as 
+part of banks duties to help protect customers from financial harm from fraud  would have 
+affected the customers decision making and preventing them from incurring the fraudulent 
+loss.
+Furthermore, Lloyds has signed up to the CRM code. If the code applies, there are additional 
+considerations for whether it should be held liable for losses incurred from an authorised 
+push payment (APP) scam. So Ill address that first.The CRM code
+This code only covers authorised push payments (which includes bank transfers, but not 
+card payments) made between two accounts held in the UK. Both accounts must be 
+denominated in pounds sterling (GBP). And the payments must go to another person.
+As a number of these payments were made by card, they dont fall within the scope of the 
+code for that reason alone. But I also dont think the transfers are covered by the code.
+While Mr and Mrs B refer to B, the payment destination shown on their statements, as purely 
+an in-and-out exchange, I dont agree with that characterisation. As Mr B explained to Lloyds 
+during a call at the time of making one of the payments, he had to set up a wallet with B in 
+his name. He would send a payment to B, exchange it into cryptocurrency, then sent it on to 
+R. It didnt automatically transfer through to an external account without Mr B completing an 
+additional payment. Without further action, the funds would simply have stayed in Mr Bs 
+wallet with B.
+So although the end destination was a scam, under the confines of the code, the payments 
+to B were correctly deemed me-to-me payments.
+Id also highlight that, even if I were to take another view and treat R as the destination 
+(which, to be clear, I dont think would be right), the payments still wouldnt be covered by 
+the code. Thats because it only covers payments between UK-based GBP accounts. First of 
+all, its not clear to me that the destination account was in the UK, given that R were 
+operating from abroad. And the onward payment was made in cryptocurrency  and so 
+wasnt between GBP accounts.
+So, Im satisfied the code isnt relevant here. But, in line with the principles Ive set out 
+above, Ive considered whether Lloyds is liable in line with its wider fraud-prevention duties.
+Fraud risk
+Im not persuaded Lloyds initially had cause to be concerned that Mr B was at risk from 
+fraud. The payments were going to B, which is a legitimate company. Companies can, and 
+do, offer genuine cryptocurrency services by way of wallets, exchanges, and trading. So that 
+alone wouldnt reasonably have caused concern. Nor do I think the value of the first few 
+payments was uncharacteristically high or otherwise concerning.
+However, Lloyds did identify a fraud risk when Mr B made the fourth payment. While I dont 
+think the size or destination (as apparent to Lloyds from the payment request alone) 
+appeared particularly concerning in isolation, I can see why it was identified as risky. It 
+followed three payments the previous day to a new cryptocurrency payee. So it could be 
+seen as suspicious that Mr B would then go on to make a further payment for the same 
+amount  totalling £4,000 in two days, over four payments  to a new payee.
+Did Lloyds do enough in response to the fraud risk identified?
+In response to the risk identified, Lloyds required Mr B to call it to discuss the payment. So 
+Ive considered whether it asked enough, and whether it was reasonable, in line with Mr Bs 
+responses, that it was sufficiently reassured and therefore processed the payment. To that 
+end, Ive listened to the call.Ive considered this carefully. Im mindful that, in hindsight, knowing the funds were lost to a 
+scam, the risks may seem more apparent than they were at the time. Id also emphasise 
+there are no set questions banks have to ask. Nor would I consider it reasonable (as has 
+been suggested) that Lloyds should refuse an instruction, regardless of the insistence or 
+responses of the customer, due to any level of risk indicator. That would be contrary to 
+Lloyds regulatory duty to execute authorised payment instructions without undue delay.
+But I would expect banks to question with genuine curiosity, to understand the full 
+circumstances of the payment. And to help educate customers on the scam risks they are 
+aware of associated with the type of transaction being made. As banks will generally have 
+more knowledge of this than their customers.
+In the call, Mr B gave the impression of being confident in what he was doing, and of having 
+satisfied himself R were legitimate. He hadnt yet run into the difficulties with R that emerged 
+shortly after. And the staff member Mr B spoke to did ask some sensible questions and 
+highlight some relevant points. Such as emphasising the need to be sure of how the 
+withdrawal process worked (which Mr B said he could do via his wallet with B).
+However, I also think there were some concerning points mentioned during the call that 
+werent appropriately questioned or challenged. While Mr B was advised to check how to 
+withdraw, the staff member at Lloyds said he didnt need to actually do it as he would want to 
+keep his money on Rs platform in order to make more money. This sounded more like a 
+reassurance than a warning. And Lloyds didnt explain that scammers often allow low-level 
+withdrawals initially, to appear legitimate and thereby persuade customers to pay more.
+Additionally, Mr B told Lloyds he would be sending the funds on to R. So Lloyds knew the 
+payment wasnt staying with B. Already, the involvement of a third-party ought to have rung 
+alarm bells, in the context of Mr B making cryptocurrency-related payments. Dating back to 
+mid-2018, the UK financial regulator (the FCA) and Action Fraud had warned about the 
+features of such cryptocurrency scams, whereby customers are tricked into sending 
+cryptocurrency, via legitimate wallets or exchanges, on to professional-looking fake trading 
+platforms. So this is something Lloyds should have been aware of, and taken into account, 
+when questioning Mr B.
+No questions were asked about how Mr B came to deal with R. He seems to have been 
+quite open at this stage about what he was doing. So if asked, I think he would have 
+explained the circumstances of how R contacted him following him setting up an account 
+with J, due to them being a subsidiary. I think the manner of this contact ought to have 
+sounded suspicious to Lloyds, in light of its experience of cryptocurrency scams. But as this 
+wasnt explored, no warnings were given to Mr B about this.
+Furthermore, Mr B wasnt asked about Rs role in him setting up the cryptocurrency wallets. 
+Hes told us that remote access software was used by R to help him set up the account with 
+B. Again, I would have expected Lloyds to have realised this fit a known pattern of these 
+types of cryptocurrency scams. Which is something I dont think Mr B, as a layperson, 
+appreciated the risk of to the same extent.
+Additionally, the way Mr B described his dealings with R sounded like it went beyond 
+providing a cryptocurrency platform/exchange. I think it gave the impression that R were 
+giving him investment advice, and that advice went beyond cryptocurrency and into other 
+forms of investment  as mentioned in the call.That would be an indication that R should be regulated, in order to be providing such 
+services in the UK. That wasnt explored further. And while the FCA didnt issue a warning 
+about R until after all these payments were made, Lloyds could have guided Mr B on how to 
+check the FCA register  which R were not listed on as an authorised firm.
+While I wouldnt expect Lloyds to go so far as to provide Mr B with investment advice, I dont 
+consider it unreasonable to expect, in response to what it was told, that it could have warned 
+Mr B about checking the FCA register, and why R not being regulated in the UK could be an 
+indicator they were operating dishonestly  in light of the services they seemed to be 
+offering.
+The tone of this intervention call overall was broadly reassuring. I appreciate the staff 
+member seemed interested in, and knowledgeable about, cryptocurrency. But I think there 
+wasnt enough done to fully assess the risks. The circumstances werent explored enough, 
+particularly in response to some points mentioned which I think should have rung alarm bells 
+with Lloyds.
+Mr B has explained he wasnt an experienced investor and wasnt well-versed in how 
+cryptocurrency scams work. I think he was therefore open to further explanation and 
+warnings from Lloyds about the risks this was a scam. So I do think there was a missed 
+opportunity by Lloyds to stop the loss incurred from that point. And I therefore consider it 
+reasonable to expect it to bear some liability for that loss.
+Should Mr and Mrs B also share liability for their loss?
+Even though Ive found that Lloyds has some liability for what happened, I must also 
+consider whether there was contributory negligence by Mr B. If he showed an unreasonable 
+lack of care, which contributed to the loss, then Id consider it fair to expect him and Mrs B to 
+share liability alongside Lloyds.
+In making this assessment, I am conscious there was a sophisticated scam occurring. But in 
+all the circumstances, I do consider it fair to hold Mr B partly to blame for the loss incurred, 
+for the following reasons:
+Its unclear to me how much research Mr B did into R before investing. Although he 
+has made reference to looking up R, at points he describes this as happening after 
+he had started investing, when he was struggling with making a withdrawal. And 
+when he did look them up, he says he found both good and bad information. 
+While Ive not been able to find much from the relevant time about R, I accept Mr Bs 
+testimony that he did find reviews as accurate. Its not usual for reviews  both good 
+and bad  to be removed or deleted in subsequent years. And if Mr B had found 
+those mixed reviews prior to getting to the point when he felt trapped by the situation, 
+as I consider it would be reasonable to expect him to, before making a substantial 
+investment, he may not have chosen to trade with R.
+Id also point out that, while there may have been adverse information online about 
+R, Ive seen no indication this is something Lloyds ought to have been aware of. We 
+wouldnt expect it to complete research on behalf of its customers. While we expect 
+banks to employ watchlists of merchants who may be a scam, that would normally be 
+in response to strong evidence such as a regulatory warning. As set out above, the 
+FCA warning wasnt live at the time. And nor would Lloyds have identified R 
+immediately from its watchlist even if it had been, given that the payments were 
+going to B.The call Ive outlined above wasnt the only point at which Lloyds intervened with the 
+payments. Mr B says the larger payments on 31 March 2021 were him sending funds 
+to try to recover his loss. And these payments were also blocked pending a 
+conversation with him. I also note there is reference to a further payment being 
+blocked right at the end of the scam, although Lloyds hasnt provided much detail 
+about this.
+Having listened to the second call, again Im not persuaded Lloyds questioning went 
+far enough. But equally, Mr B said he was 99.9% sure R were a genuine 
+investment. Whereas he has subsequently told us he felt pressured by R, and that he 
+didnt think he was investing at this point  rather, he was chasing his loss. Had he 
+positioned this situation in that way during his call, that would have made it easier for 
+Lloyds to identify, and warn Mr B, that it sounded like a scam. The way he responded 
+therefore likely contributed to his loss.
+For example, in this call, Mr B asked whether he had given remote access to his 
+device and said he hadnt. Whereas he has told us he did give remote access to R 
+when setting up his cryptocurrency wallet(s). Im mindful the question sounded more 
+as though Lloyds were concerned about access to his Lloyds account, not the 
+onward destination. But if Mr B had answered more carefully, again it would have 
+improved Lloyds chances of uncovering the scam. 
+Lloyds also warned Mr B that these scams often involve customers being told to lie to 
+their banks about what they are doing. Its not particularly clear to me whether that 
+was happening here. But given Mr Bs subsequent comments about his fear about 
+Rs threat of legal action, and his understanding he was no longer investing, his 
+responses to Lloyds do suggest he wasnt being completely forthcoming. As 
+highlighted above, I do think that, in not answering these questions openly and 
+carefully, as I would expect, it may have hindered Lloyds further chance to help 
+prevent some of the loss.
+Mr B has also took out a loan to fund some of the payments he made to R. As well as 
+using funds from an equity loan (although I havent seen any suggestion that was 
+taken out during the scam or at Rs prompting). I think Mr B should have realised it 
+wasnt appropriate to borrow for this purpose. As he said himself during a call with 
+Lloyds, he understood (even when thinking R were legitimate) that there was a risk 
+he would lose all his funds.
+I therefore think he should have realised this posed a repayment risk. Its therefore 
+unlikely he gave investments as the purpose of the loan  as if he had done so, its 
+unlikely the lending would have been agreed. And if he hadnt taken out this loan, it 
+would have reduced the amount of money he had available to send on the scam. So 
+again, I do think Mr B showed a lack of care which contributed to his loss.
+Overall, Im minded to conclude it would be fair to expect Mr B (and Mrs B, as the joint 
+account holder) to share liability with Lloyds for the fraudulent loss incurred from payment 
+four onwards. Im therefore proposing that Lloyds should refund 50% of this loss.
+Recovery
+For the first three payments which Ive concluded Lloyds isnt at fault for not preventing, Ive 
+considered whether it missed a chance to recover the loss.However, I dont think Lloyds ought to have done more which would have succeeded in 
+recovering the loss. As the payments were sent by card, the chargeback scheme applies. 
+This is a voluntary scheme to help resolve payment disputes between consumers and 
+merchants. Banks arent obliged to raise claims, but wed consider it good practice to do so if 
+the claim was likely to succeed. That would generally require specific evidence, as set out in 
+the scheme rules, that there was an issue with the merchants service.
+The scheme only covers disputes with the merchant paid directly. As set out above, that was 
+B. They were the merchant who Lloyds would have received the payment requests from. 
+And there is no allegation they were involved in the scam, or otherwise didnt provide the 
+expected level of service. They loaded the funds in line with the payment request. And so I 
+dont think there were grounds, under the scheme rules, for successful chargeback claims.
+My final decision
+For the reasons given above, my final decision is that I uphold this complaint. Lloyds Bank 
+PLC must refund half of Mr and Mrs Bs loss incurred, via their Lloyds account (taking into 
+accounts the credits received), from the fourth scam payment onwards.
+Lloyds Bank PLC should pay 8% simple interest per year on this amount, running from the 
+dates of payment to the date of settlement, less any tax lawfully deductible. This is to 
+compensate Mr and Mrs B for the loss of use of the funds.
+Lloyds Bank PLC must pay the compensation within 28 days of the date on which we tell it 
+Mr and Mrs B accept my final decision
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr and Mrs B to 
+accept or reject my decision before 30 November 2023.
+ 
+Rachel Loughlin
+Ombudsman

@@ -1,0 +1,151 @@
+K821x#15complaint
+Mr P and Ms L complain, on behalf  of their business  which  Ill call T, that transactions that 
+were meant to go to Ts account  have  been  incorrectly processed to another merchants 
+account by American  Express Payment  Services  Limited.
+background
+T has retail  outlets for which  they have payment terminals supplied  by Barclaycard. T had a 
+terminal they had tried using in one of its stores but because of poor signal, it was kept as a 
+back-up. When a new store was being  moved  to, it was decided  they would try the old 
+terminal again and this was set up to accept American Express payments in about July 
+2017. 
+Following the move  to the new store in September 2017, T started to use to the terminal for 
+payments. And from October 2017  this included payments using  American Express cards.  
+However, payments  made between 3 October 2017 and 23 November 2017 went to another 
+merchants account  with American Express. T raised  this with American Express who 
+discovered the wrong merchant ID (MID) had been used which directed payments to the 
+other account. T complained about  this as it had lost over £20,000.
+American Express looked into the complaint  but didnt uphold  it. It said it wasnt  responsible  
+for the installation of the payment terminals; that was a matter  for Barclaycard. But it 
+recognised the other merchant had funds  they werent entitled to and initiated contact with a 
+view to obtaining those  funds back. 
+At the same time as this T also complained to Barclaycard but didnt receive a response.  
+Unhappy with both parties, T asked us to look into this complaint. After  much 
+correspondence between  the three parties this is what we know.
+From T:
+Has two retail outlets, shop one and shop two. In relation to this matter it had three 
+payment terminals in total.  Shop  one had two terminals, one which worked and 
+another which struggled to get a signal, which Mr P and Ms L decided to keep as a 
+back up terminal. I will call this terminal two. Terminal two had been  in Ts 
+possession since about December 2014  but wasnt used until September 2017.
+ Mr P and Ms L decided  to use terminal two for shop two. There was an issue  with a 
+terminal being used  for this shop  but it isnt clear which  one. A third terminal  was 
+obtained.  
+The store  manager  might  have given the terminal  engineer  the MID from terminal two 
+for terminal three. But the issues  stem  from terminal two having  the incorrect MID. 
+No engineer visited to set up terminal  two for American Express  payments. This was 
+done over the phone. Barclaycard had the MID information; it wasnt  given by 
+anyone working  for T. 
+A test receipt was done in June 2018  showing the MID number had been changed to 
+the correct one and this was for terminal two, without  an engineers visit or any input 
+by T. 
+From American Express:
+It doesnt set up the terminals,  which is the responsibility of the terminal  provider.  
+Ref: DRN43369082Mr P told it that a receipt was printed out which is how the engineer was given the 
+wrong MID. Mr P has now said that was a hypothetical explanation for what might 
+have happened.  
+It batches up MID numbers to give to the payment terminal providers, who then 
+distribute them  to the merchants. 
+The wrong merchants  MID was set up from September 2017 and that merchant  
+doesnt use Barclaycard as the terminal provider. 
+It doesnt duplicate  or reuse MID numbers.  
+Payment terminal are reused. If the terminal isnt cleared properly  the MID number 
+will remain  and this might explain why the wrong MID was on the receipt used to 
+give to the engineer.  
+The wrong MID number is a recent MID series.  
+It has been in contact with the recipient of the funds to obtain the funds  back.
+From Barclaycard:
+It doesnt receive MIDs from Amex  but gets them from its customer. 
+The terminal was set up by an engineer  who received  the MID number from a receipt 
+given to it (information  Barclaycard  got from American Express).  
+It doesnt have  any actual records of how the engineer obtained the MID number.  It 
+also doesnt have  any call records about the terminal set up. 
+The correct MID number is showing for the receipt in June 2018, as it had been 
+notified by American Express the wrong  MID was being used and so it corrected 
+this. 
+The investigator ultimately concluded  American Express  had provided  the same  MID to two 
+different parties  and so it had done something  wrong. She asked it to reimburse T with the 
+lost funds plus 8% interest. She also asked it to pay compensation to T of £300,  in addition 
+to a previous award of £200 for it not acting sooner, for the delays and inconvenience 
+caused. 
+T agreed with the outcome.  Because there  were  delays  in American Express  responding to 
+her assessment the matter was referred  for an ombudsmans decision. Before it reached me 
+American Express provided further submissions.  It said it had received further  information  
+from Barclaycard that:
+The terminal was originally set up for shop one. 
+The terminal wasnt used from December 2014  until September  2017. Non American 
+Express payments started from 26 September  2017.  
+American Express transactions  started  on 3 October 2017. 
+Barclaycard did not provide the MID to the engineer. 
+It says this information shows it didnt duplicate the MID to Barclaycard. 
+my findings
+Ive considered all the available  evidence  and arguments to decide  whats  fair and 
+reasonable in the circumstances of this complaint.  Having done so, I uphold  this complaint. I 
+explain why below. 
+Ref: DRN43369083I would say at the outset  this case hasnt been  straightforward. And getting  to the bottom  of 
+what went wrong hasnt  been helped by the contradictory information provided by the 
+parties. And its been particularly unhelpful  that neither American Express nor Barclaycard 
+can be certain about how this particular terminal and MID set up took place. Im also mindful 
+that Mr P has also been contradictory; telling us the incorrect MID didnt come  from them  but 
+also saying it might have  been given by a store manager. 
+But I think its possible to cut through all of this and get to the heart of what went  wrong  two 
+different merchants having the same MID number. 
+I have considered Barclaycards  comments that it receives the MID numbers from the 
+customer. But American Express has told us that it batches the MID numbers up and sends 
+them to the terminal  providers to distribute to customers. As the provider  of the merchant  
+facility and the business that creates  the MIDs,  I think  it is best placed  to know how these 
+are distributed. With that in mind,  Im satisfied it was American Express that provided the 
+same MID to two different parties   there is no evidence  the MIDs were  created or 
+distributed by anyone else.  
+In reaching this conclusion, I would like to respond to American Express points  that are 
+relevant to this. American Express has said if a terminal is recycled and not cleared properly 
+and MID number may remain  in situ and this may have been  how it appeared on a receipt 
+and was given  to an engineer. 
+Mr P has said no engineer visited to set up the terminal; this was all done over the phone. 
+No evidence has been provided by any of the parties  that an engineer  actually did visit. And 
+if one did, no persuasive evidence has been  provided about how the engineer obtained  the 
+MID  everything said and provided has been conjecture. The receipt relied  on by American 
+Express and given  by it to Barclaycard as evidence of how the MID was obtained,  is dated  6 
+October 2017  three days after the first transaction that went to the wrong account. So it 
+isnt physically possible for this to be the receipt that any party relied on to obtain the MID.  
+And in order for the MID to appear on this receipt  it needed to have been obtained and set 
+up beforehand.  
+I accept terminals may be recycled. But Barclaycard has confirmed, as has Mr P, that this 
+terminal has been in Ts possession since around  December  2014. If, as American Express  
+tells us the incorrect MID is a more recent  series, I question how that MID came to be on that 
+terminal, which had been in Ts possession for three years at the time of the transactions  in 
+question. That doesnt seem possible if its a more recent MID.
+Furthermore, even if I accepted the MID was on the terminal, I can only see two possibilities 
+for how the funds went to the wrong  account  either the incorrect party was the previous 
+owner of the terminal and just happened to be the party that ended up with the same MID 
+again with another terminal provider or American  Express gave the same MID, at a later 
+date, to the other party. I consider the first option, whilst possible,  to be so highly 
+coincidental that it isnt the most  likely explanation. Overall, I consider  the most likely  
+explanation is that American  Express duplicated the MID  it matters little whether that was 
+to Barclaycard or the other terminal provider. 
+As I have found that American Express  did something wrong, it is for it to put this matter  
+right. And receipt of the funds by the wrong merchant  is a matter between  it and the other 
+merchant. 
+Ref: DRN43369084how American Express  need to put this right
+T has been  without these  funds for some  considerable time. And although  American Express  
+was taking steps to obtain  the funds  back  from the recipient, Im not aware that any 
+payments have been made to Ts account.  With that in mind  I require American  Express  to:
+Pay T £20,610   the value of the missing transactions (less any payments obtained 
+from the wrong recipient and already refunded). 
+Add 8% simple interest per annum to each  of the transactions from the date they 
+should have applied to Ts account to the date of settlement.  
+T has also been caused considerable  inconvenience  in this matter.  Mr P and Ms L have 
+been put to the time and trouble of getting this matter  sorted  and T has been  without the use 
+of these funds   which undoubtedly  has had an impact  on cash  flow and the general day to 
+day running of the business. In all I consider an additional award of £300 to be fair and 
+reasonable for the impact  this has had on T.
+If American Express thinks  its obliged to deduct any tax from any interest, it must send a tax 
+deduction certificate to T if it asks for one.
+my final decision
+For the reasons  given  above, I require American  Express Payment Services Limited to pay T 
+compensation in line with what I have  set out above. It should also make this payment  within  
+28 days of Ts acceptance of my decision.  
+Under the rules  of the Financial Ombudsman Service,  Im required to ask T to accept or 
+reject my decision  before 11 March  2019.
+Claire Hopkins
+Ombudsman 
+Ref: DRN4336908

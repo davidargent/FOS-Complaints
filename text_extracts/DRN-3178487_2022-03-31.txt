@@ -1,0 +1,167 @@
+DRN-3178487
+The complaint
+Mr P says CMC Spreadbet Plc (CMC) applied margin close-outs to his spread-betting 
+positions on 8 March 2020, causing loss and lost potential profit across other positions in his 
+account and causing a negative account balance. 
+He says he did not receive the margin notification(s) that should have been sent to him; he 
+challenges what he considers to be unexplained and suspicious timing in CMCs application 
+of the close-outs which, he says, unjustly happened at the bottom level of market pricing at 
+the time (bypassing better price levels at which it could have applied) and which, he says, 
+resulted in increasing the loss crystalized by the closures; he also refers to how a price 
+movement in favour of his positions, a few seconds thereafter, could and/or should have 
+altered the course of the closure event.
+What happened
+One of our investigators considered the complaint and concluded that it should not be 
+upheld. In the main:
+He began his consideration with the negative account balance and he noted the 2018 
+measures, introduced by the European Securities and Markets Authority (ESMA), 
+which protected retail clients against negative account balances in their derivatives 
+trading accounts. He explained that Mr P lost this protection because he was 
+recategorized as a professional client (to whom the protection did not extend) in the 
+same year, so he considered whether (or not) the recategorization was valid and 
+compliant with the regulators requirements. 
+He referred to those requirements  the qualitative, quantitative and procedural tests 
+in the Conduct of Business Sourcebook (COBS, at COBS 3.5.3) within the 
+regulators Handbook  and he referred to available documentary evidence from and 
+related to Mr Ps 2018 recategorization. He concluded that CMC properly applied the 
+tests, assessments and procedure at the time, all of which led to and supported the 
+result that Mr P was correctly recategorized as a professional client, so he had no 
+negative balance protection in 2020.
+He then moved to the matter of the close-outs. He said the close-outs automatically 
+applied because there had been a margin breach  a breach of the requirement for 
+equity in the account not to go below 50% of the maintenance margin level [or 
+liquidation level] required in the account. He also said CMC owed no obligation to 
+give him prior notice of the close-outs; that it was not required to apply a wait and see 
+based timing to execution of the close-outs; that they were applicable upon the 
+margin breach; and that, as a matter of courtesy, the account was set for automated 
+notification at the point equity dropped to 80% of the margin requirement, but it took 
+less than 30 seconds for the margin breach to occur in Mr Ps case and this setting 
+did not dilute his responsibility to monitor and manage margin in his account.
+ Mr P disagreed with this outcome. He mainly said:
+He has never claimed negative balance protection. Instead, part of his key 
+arguments are that CMC failed to promptly apply the close-outs upon the margin 
+breach, despite the absence of gapping in the relevant pricing and despite the 
+absence of reason for delay; and that such immediate or prompt application would 
+have been consistent with the past close-outs he had experienced, over a number of 
+years, which diminished his accounts value but never resulted in a negative account 
+balance.
+There is evidence to suggests that the 50% liquidation level breach happened many 
+seconds and perhaps minutes before the close-outs were applied. The liquidation 
+level set for the account was reached when the account would have been in around 
+£1,000 positive territory, yet the close-outs were applied when margin was around 
+negative £8,000, so the delay in application is evident. A similar analysis applies to 
+the pricing of the underlying Crude Oil commodity (related to the positions), which 
+was around $35.6/barrel at the point of the liquidation level but was around 
+$32/barrel at the point the close-outs were applied. The close-outs were supposed to 
+be applied without delay at the liquidation level and there is no justification for the fact 
+that they were not.
+Mr P also set out scenarios in which, but for the delayed close-outs that he asserts and but 
+for the consequences of the negative account balance that they caused, some margin would 
+have been maintained in the account  based on timely and appropriate close-outs at the 
+outset  and certain positions would thereafter have continued and yielded profits for him.
+The matter was referred to an ombudsman.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I have reached the same conclusion expressed by the investigator for the 
+broadly the same key reasons he gave. 
+I consider that the investigator followed a logical approach to the complaint by beginning with 
+Mr Ps professional client recategorization. The negative account balance features in the 
+case. In 2020, that would not have been so  or would not have been permissible  if Mr P 
+was a retail client. I understand his point about this matter, he has not thrown weight behind 
+a claim that he ought to have had negative balance protection, but if the recategorization 
+was wrong then the implications could be that he ought to have remained a retail client and 
+ought to have had such protection. Hence the prompt to consider this first.
+Overall and on balance, I am satisfied that Mr P was correctly recategorized as a 
+professional client in 2018. There is evidence of the qualitative, quantitative and procedural 
+tests having been applied to his recategorization at the time; of the factual information 
+sought by CMC, presented by him and used by CMC in the assessment process; and of all 
+relevant information at the time, up to and including the procedural declaration required to 
+conclude the assessment, supporting and resulting in what appears to have been a valid 
+recategorization. 
+Ordinarily, it is likely that I would provide details of the aforementioned evidence, but I am 
+conscious of a responsibility to avoid detailing information about Mr Ps wider personal 
+trading and personal finances without a call for such details to be set out. On balance, I do 
+not consider that such a call exists. The investigators view  which, unlike this decision, is 
+not published  already set out some of these details and CMCs documentation for the assessment was requested by and disclosed to Mr P. In response, he does not appear to 
+have disputed the documentation, the assessment or the recategorization. Therefore, there 
+does not appear to be a dispute to resolve in this respect, or a requirement to illustrate the 
+grounds for my finding that he was correctly defined as a professional client. 
+As I said above, it has been necessary to address this in order to clarify whether (or not) 
+negative balance protection should have applied to him. It follows from him being a 
+professional client that no such protection applied to him  it applied/applies only to retail 
+clients. Furthermore, documentation issued to him at the time gave notice about the loss of 
+negative balance protection due to the recategorization.
+I understand Mr Ps key points about application of the close-outs. They have been 
+presented well and in reasonably clear terms. However, on balance, I am not persuaded by 
+them.
+His positions were closed out from 22:02:33 on 8 March 2020. I have seen evidence of a 
+Low Account Revaluation Amount Notice sent to him by CMC, which warned that as of 
+22:02:15 his account was approaching the close-out level. This was sent to him at 22:04 so 
+it is fair to say it was a redundant notice, given that it was sent after the close-outs had 
+already started. At the same time (22:04), he was also sent another notice that said as of 
+22:02:33  any or all of [his] open positions may now be closed in accordance with the 
+Terms of Business. A copy of the relevant account activity statement shows that the close-
+outs began at 22:02:33, and that a number of the Crude Oil based positions were closed.
+We have been provided with a screenshot of Mr Ps liquidation account profile and settings 
+as of 8 March 2020, at 22:02:33. This too confirms that the liquidations (close-outs) began at 
+this time. It shows that the Account Revaluation Amount (essentially, the accounts equity) 
+was below the liquidation level, this triggered the close-outs. The following setting selections 
+were in place  a last-in-first-out liquidation method; a 50% liquidation level; an account reset 
+level of 70%; and a notification level of 80%. The screenshot also shows that execution of 
+the close-outs for the Crude Oil based positions had begun at this time. The screenshot 
+appears to have been taken on 19 July 2021, but I have not seen cause to doubt that it is a 
+valid depiction of the account on 8 March 2020 (at 22:02:33).
+Section 12 of Schedule 1 in the 2018 Terms for Mr Ps account says: 
+You must ensure that for each Account your Account Revaluation Amount is at all times 
+above the applicable Close-Out Level for your Account displayed on our Platform. Where 
+your Account Revaluation Amount is less than the applicable Close-Out Level, our Platform 
+may automatically initiate Account Close-Out in accordance with your Account settings. 
+Further details on the applicable Close-Out Level for your Account, and the methods of 
+Account Close-Out, can be found on our Platform. Account Close-Out does not and is not 
+intended to limit your entire liability to us in respect of your Bets. You can lose more than 
+your investment and you may be required to make further payments, except in respect of a 
+CMC Start Account, an Account with Negative Balance Protection enabled or an Account 
+with Shield Mode enabled, where you cannot lose more than your Invested Capital.
+Section 9 of CMCs 2018 Order Execution Policy (OEP) is a separate section dedicated to 
+the execution of close-outs. It was/is distinct from the best execution based provisions in the 
+different sections (for executing trade orders for different products) set out earlier in the 
+OEP. This is not uncommon in OEPs for firms like CMC, because close-outs are not 
+comparable to trade orders. They do not usually carry a best execution characteristic, they 
+aim to react to a margin requirement breach. Section 9 of the OEP said:There are some circumstances where the whole or a portion of your Bets will be closed 
+without instructions from you. This includes where Account Close-Out occurs, where you fail 
+to reduce any Position to below the applicable limit within the relevant time limit specified by 
+us or where we exercise our rights to close your Bets.
+I do not suggest that close-outs can reasonably be executed negligently or intentionally 
+against an accountholders interest. That should not be the case. However, on balance, I do 
+not consider it has been established that the close-outs of Mr Ps positions were conducted 
+negligently or intentionally against his interest.
+The close-outs were validly triggered by the liquidation level breach in his account. I can 
+understand criticism he could have about the warning notice that was sent after the close-
+outs had started. From his perspective that was a pointless warning, because the relevant 
+event had already started. The account was set for such a warning at the 80% level, ahead 
+of the 50% breach level. However, two factors feature in this respect. Firstly, there does not 
+appear to have been any contractual guarantee that such a warning will always be provided. 
+Even if it was done in the past, the first quote above confirms Mr Ps primary and sole 
+responsibility to monitor and manage margin in his account. That responsibility was not 
+qualified by reference to the warning level setting in the account. Secondly, and as the 
+investigator appears to have noted, available evidence suggests the margin breach 
+developed and happened in less than 30 seconds. Whilst this might or might not explain why 
+the warning was sent to Mr P around a minute and a half after the close-outs began, it does 
+suggest that a warning less than 30 seconds before the breach (and onset of the close-outs) 
+would have been unlikely to make a difference to the matter. 
+As I said above, the screenshot and the account activity statement show that close-out 
+execution of the Crude Oil based positions began at 22:02:33, so the process does not 
+appear to have been unduly delayed as Mr P has argued. CMC was not under an obligation, 
+in the context of the validly triggered automated close-out process, to wait for the chance of 
+a price rebound  which is what would have been required in terms of taking benefit from the 
+price rebound Mr P has referred to. 
+Overall, on balance and for the above reasons, I am not persuaded to uphold Mr Ps 
+complaint.
+My final decision
+My final decision is that Mr Ps complaint is not upheld.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr P to accept or 
+reject my decision before 28 April 2022.
+ 
+Roy Kuku
+Ombudsman

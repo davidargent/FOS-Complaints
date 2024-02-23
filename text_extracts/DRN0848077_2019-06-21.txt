@@ -1,0 +1,107 @@
+K820x#14complaint
+Mr S operates a small retailer, which Ill refer to as A. Mr S is unhappy  that WorldPay (UK) 
+Limited has deducted funds from As account  after a chargeback was made against it.
+background
+WorldPay acts as As merchant acquirer.  As part of this arrangement  it provides a card 
+terminal for transactions to be processed  by A.
+On 15 September  2018 Mr S sold goods to a customer and a card payment for £688  was 
+taken and processed via As card terminal.
+On 23 September  2018 WorldPay received notification  from the bank of the card holder 
+whose account  was debited with the £688  that they were disputing  the transaction  as they 
+denied making  or authorising it. As a result the card holders bank was raising a chargeback 
+requesting that the money be refunded.
+On 27 September  2018 WorldPay wrote to A asking for additional information about the 
+transaction. After  reviewing the information  provided, WorldPay  informed A on 6 October 
+2018 that it would be debiting £688 from its account  as the evidence  wasnt sufficient to 
+defend the chargeback. 
+Mr S, on behalf of A, continued to dispute  this decision and complained  to WorldPay. 
+WorldPay maintained  it hadnt  done  anything wrong and that the transaction  had been  
+debited from As account in line with the agreement between the two. It said that the user 
+agreement explained  that card payments do not offer guaranteed forms of payment, even if 
+all of the usual  security procedures are followed,  and that retailers, such as A, are potentially 
+liable if the genuine account  holder  disputes making the payment.  
+WorldPay also said that the evidence available showed that this transaction had been 
+keyed, with the card details manually entered into the terminal, rather  than processed as 
+Chip and PIN, which would normally be the case when a cardholder is present. Although A 
+had taken an imprint of the card, the cardholder  details didnt match those  of the card holder 
+whose account  was debited  so the card used for the transaction  appeared to be 
+counterfeit. And this was why WorldPay  had been unable to defend  the chargeback on As 
+behalf. 
+Unhappy with this response Mr S complained  to our service. He feels WorldPay  has not 
+supported A or considered this case individually. Mr S said at no time had a representative  
+of A keyed any information into the terminal, so if this was the case then the customer 
+mustve managed to override the process.  When dealing  with customers  travelling from 
+overseas, sometimes Chip and PIN is not enabled  so a signature  is required on the sales 
+voucher, which  is why, when the terminal receipt requested  a signature,  they were not 
+suspicious. Where that happens Mr S says A takes a card imprint, two forms of identification 
+and a separate signature  all of which had been  done here.  So Mr S felt that there was 
+nothing more that A couldve  done and it was unfair that it was being held liable for the 
+transaction.
+Ref: DRN08480772Our adjudicator didnt  think the complaint should  be upheld as he felt WorldPay was entitled  
+to hold A liable for the transaction.  Mr S disagreed. Mr S said that he felt this was not a 
+straightforward case and that WorldPay had not acted fairly  and shouldve  done more  to 
+assist A. As Mr S didnt agree with our adjudicators  findings the complaint has been  passed 
+to me to decide.
+my findings
+Ive considered all the available  evidence  and arguments to decide  whats  fair and 
+reasonable in the circumstances of this complaint.  
+I can see that Mr S feels very strongly about this issue and has provided  a number of 
+detailed explanations and responses  to our service.  Ive taken everything he has said into 
+account. But I havent addressed every point he has made individually. And that is because  
+they all relate to the central issue of his complaint  whether it is fair that WorldPay holds A 
+liable for the chargeback. And this is what Ive focused on.
+Chargeback is the process by which card payment disputes are resolved between card 
+issuers and merchants. The rules around chargebacks are set by the card scheme, in this 
+case Visa.  And WorldPay is required to abide by these rules  in respect of chargeback 
+claims.
+An imprint of the card used for the transaction that is being disputed  has been  provided. Ill 
+come on to discuss the reason for the imprint having been taken shortly.  But the crucial 
+piece of information the imprint provides relates to the cardholder  name  listed  on the card 
+used for the transaction. The person whose account was charged, is not the person listed  on 
+the card. The account holders bank instigated the chargeback and sent information to 
+WorldPay, via the relevant card scheme,  that the card number  corresponds  to that of their 
+account holder  but the name on the card used is not the same  as its account holder. 
+Therefore it said that it appeared  that the card was not genuine and the account holder was 
+likely a victim of fraud. So under the VISA rules,  the chargeback raised appears valid.  And I 
+dont think anything provided at the time or subsequently by Mr S wouldve been sufficient 
+for WorldPay to dispute the chargeback. So I think it is reasonable that the funds were 
+debited to As account via chargeback.
+Mr S has said that As original agreement was with a different company and that WorldPay 
+took over this agreement. As a result he says A wasnt provided with the terms of the 
+agreement with WorldPay or operating manual. I think  its likely that A was provided with the 
+relevant information  when  WorldPay  became its merchant acquirer. In any event though A 
+has continued to use WorldPays  services, so appears to accept the ongoing  arrangement. 
+So I think its reasonable that WorldPay is entitled  to apply the terms and conditions.  And the 
+terms and conditions of As agreement with WorldPay make it clear  that A will be liable for 
+any successful chargebacks. And on balance I think its likely any agreement A had with its 
+previous provider was likely to contain the same  provision.
+Mr S says that, because  of how WorldPay has handled this dispute,  it isnt fair that this term 
+be applied. Specifically he has referred  to it maintaining  that the transaction  was carried  out 
+as keyed even  after he explained why he didnt agree and its failure  to investigate this 
+further.
+Ref: DRN08480773Weve been provided with a copy of the receipt for the transaction. And this does say that 
+the transaction was completed as keyed where the card details are manually entered  into 
+the terminal, and that a signature was required. Ive taken on board what  Mr S has said 
+about it not being unusual  that a signature be required, as some cards  require this additional 
+verification, particularly overseas customers and that A takes imprints of the cards  in those 
+instances. So I can understand  why this may not have appeared out of the ordinary. 
+I asked WorldPay for evidence of what receipts  would look like in the scenarios Mr S 
+described  where  a PIN is entered and signature  still required.  And it has shown that 
+receipts in those scenarios wouldnt include the description keyed. WorldPay has also 
+provided details  of the transaction  from its processing system  recorded  remotely  when the 
+transaction is processed on the terminal  which also shows  the transaction  as having been 
+keyed. There is no way to know exactly what happened  when  the transaction  was carried 
+out. But based on the evidence that is available, I dont think it was unreasonable for 
+WorldPay to conclude that the transaction  was carried out as keyed and end its 
+investigation at that point.
+I have a great deal of sympathy for Mr S as it appears that A has also been  a victim in this 
+instance. But this is due to actions of the person that carried out the purchase. I think 
+WorldPay has handled the dispute fairly, so I think its reasonable that it hold A liable, in line 
+with the terms of their agreement.
+my final decision
+For the reasons  set out above I dont uphold Mr Ss complaint.
+Under the rules  of the Financial Ombudsman Service,  Im required to ask Mr S to accept or 
+reject my decision  before 21 July 2019.
+Ben Stoker
+ombudsman
+Ref: DRN0848077

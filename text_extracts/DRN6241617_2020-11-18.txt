@@ -1,0 +1,115 @@
+K820x#14complaint
+Mr W complains that Barclays  Bank UK PLC wont refund payments that he says he didnt 
+authorise.
+background
+Mr W lives abroad but has bank accounts at Barclays in this country.  He uses  an online 
+money transfer business to send money  to himself in the local currency. He pays  for it using  
+his Barclays debit card. Mr W disputes seven  payments made through  the money  transfer 
+business which totalled £9,411.50. These  were  sent between 5 February  and 28 February 
+2018. He says these were  all sent to a different country to the one he lives in. 
+Barclays said it wouldnt be refunding this money.  The money transfer  business  had the 
+correct personal details for Mr W. And for each  payment the debit card number, expiry date 
+and the CVV three-digit security number would have been  captured.  It also thought that a 
+fraudster would likely have taken  money  as quickly as possible and not over the course of 
+three weeks. And it said that Mr W didnt cancel  his card until 28 March 2018.  These  facts  
+suggested that he had authorised the payments.
+Mr W didnt agree with Barclays decision,  so he asked this service to investigate.
+Our investigator didnt  recommend that the complaint be upheld.  She said that Mr W had told 
+her that his card was safely  locked away in a drawer at home.  And that his account details 
+were kept safe too. The password on his account  with the money transfer business hadnt 
+been changed. She set out a table for Mr W with the time and date of the disputed 
+payments. One of them was relatively small for £101.90 and she thought that unusual  for a 
+fraudster. And she also showed in the table that Mr W had logged on to his online banking  at 
+Barclays at around the time as two of the payments, suggesting he wasnt only aware of 
+them but had authorised  them.
+Mr W, who is represented in this complaint, didnt agree.  He said that Barclays had evidence  
+that his card was used  by someone  else. He thought  that the money transfer business had 
+confirmed that the money had been sent from this country to a third country by a man also in 
+the UK. He said that a letter hed received from a credit reference agency  about some of his 
+details being compromised showed  how common such an occurrence  was. Mr W said he 
+reported this when he first became aware  of it. He explained that he had two bank accounts 
+at Barclays and only accessed the one used for the disputed payments at the end of the 
+month for his accountant. He said did not look at the detail for that account when he logged  
+on. He thought any suggestion hed given his card details to someone else was ridiculous. 
+He believes his details  were stolen after the third party had hacked into his account with the 
+money transfer business, possibly from its webpage,  when he was online. He maintained  
+that he had operated his account  appropriately for many years and that Barclays is liable for 
+the payments   and this service should not be defending  it.
+He has asked for an ombudsmans final decision.
+my findings
+Ive considered all the available  evidence  and arguments to decide  whats  fair and 
+reasonable in the circumstances of this complaint.
+Ref: DRN62416172When considering  what is fair and reasonable, Im required to take into account: relevant law 
+and regulations; regulators rules, guidance  and standards; codes of practice; and, where 
+appropriate, what I consider to have been good industry practice at the relevant time.
+In short,  Barclays is required to refund the amount of an unauthorised transaction.  The 
+relevant regulations, to this effect, are the Payment Services  Regulations  2017  (the PSRs  
+2017). But the bank  can hold Mr W liable for any disputed transactions,  if the evidence 
+suggests that its more  likely than not that he made or authorised them  himself.
+ 
+In his response to our investigator, Mr W agreed  that the payments had been authenticated 
+with his personal information  and the debit card details. His point is that the information  had 
+been obtained by someone  else. And based on the available evidence, I agree that these 
+payments were authenticated. 
+But the regulations relevant to this case say that is not, on its own,  enough to enable  
+Barclays to hold him liable. I also need  to think about whether the evidence suggests that its 
+more likely than not that Mr W consented to them. So, my primary concern is to come to a 
+view about:
+what is the most likely  explanation  of how these payments were made?
+whether Mr W authorised the payments on the account, or allowed someone  else to 
+make them?
+Mr W says he didnt make the disputed payments. He says the third party was also a 
+customer of the same  money  transfer  business.  He believes the third party logged in to his 
+own account using  his own password and transferred money  to the other country using Mr 
+Ws debit card details.  He believes the third party  got his card details by hacking  into Mr Ws 
+account with the money transfer business, 
+It doesnt make sense, in my opinion, for a fraudster to hack into Mr Ws account and then 
+make payments from his own account  using someone elses  card details.  The risk of being 
+caught and linked to the stolen card details is high.  But, anyway, this version of events isnt 
+supported by the technical evidence.
+The money transfer business  confirmed  that the disputed payments were made to the third 
+party from Mr Ws own account, not from a third-party account.  The IP address, which was 
+used for the login at the money transfer business,  was based in the country where Mr W is 
+living. And Barclays has provided us with the online banking audit for Mr W. It shows that he 
+uses the same IP address  when  he logs in to his online banking.
+Unfortunately, I cant say whether the same  device was used each time. This information 
+isnt available.
+So, while Mr W might  believe  that a third party logged in from the UK, Im satisfied from the 
+evidence that the payment requests were made from the country  where Mr W lives.  
+I dont doubt that its possible for the account to be hacked in some way. But Barclays said 
+the person making the payments would  have needed to enter Mr Ws card number,  expiry  
+date and the three-digit CVV number. I dont see how the third party could  find those details. 
+The money transfer business  said that his card details would not have been stored on its 
+website and there is no option  to save them. Mr W has explained how he kept his card 
+Ref: DRN62416173secure in a drawer. And he says he is sure no one had access to his card or his account 
+information. 
+The money transfer business  also said it would  have sent Mr W a confirmation  email after 
+each payment and so he would have known about  those  payments when they were  made.  
+However, Mr W didnt  raise a complaint until 28 March 2018. It said there was no evidence  
+that his account  had been hacked. There was no password reset, which  is an indication that 
+someone else has access to the account.
+And I agree with our investigator  that someone  in possession of his card details would have 
+been likely  to transfer as much  money as quickly as possible. I know Mr W says there  was a 
+limit of £2,000 on each  payment. But there was a sizeable interval between the first payment 
+of that amount on 5 February 2018 and the next on 22 February 2018. The further payments 
+came after a transfer of £8,000 into his account. Theres no likely way I can see how an 
+unknown third party would have known how much money was in Mr Ws Barclays account at 
+any given time. 
+Mr W has given  a detailed explanation of why he doesnt check his account at Barclays each 
+time he logs on to online  banking. I havent got any information to show  whether he did view 
+each account  when he logged in or not. I understand from his evidence he would  have seen 
+both accounts  with the available  balance when he logged in but not the entries.
+I cant say exactly what happened here but Im thinking about what  is most  likely to have 
+happened. And Im afraid I dont think the most likely explanation here is that the payments 
+were made fraudulently.  I think its more likely than not that Mr W authorised the payments 
+either by making  them himself or allowing someone else to do so. It follows  that Barclays  is 
+entitled to hold him liable for them.
+Im sorry  this will be disappointing news for Mr W, but I hope  the reasons  for my decision are 
+clear. 
+my final decision
+My decision  is that I do not uphold  this complaint.
+Under the rules  of the Financial Ombudsman Service,  Im required to ask Mr W to accept or 
+reject my decision  before 18 December  2020
+Razia Karim
+ombudsman
+Ref: DRN6241617

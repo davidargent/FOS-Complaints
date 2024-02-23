@@ -1,0 +1,293 @@
+DRN-3565145
+The complaint
+Mr D complains that HSBC UK Bank Plc (HSBC) didnt do enough to protect him from losing 
+money to an investment scam.
+What happened
+Mr D has explained that in 2018 he was persuaded by Golden Markets to pay a significant 
+amount of money  over numerous payments  to an investment. He started making the 
+payments in April 2018, the vast majority of which were made from bank accounts not held 
+with HSBC (and therefore not the subject of this complaint). 
+Mr Ds complaint about HSBC is about the following payments he made to the investment 
+using his First Direct debit and credit cards: 
+Mr D subsequently came to realise hed been scammed by Golden Markets, and he got in 
+touch with HSBC about this. Ultimately, apart from crediting £50 to Mr Ds account for 
+service issues, HSBC didnt refund the lost payments to Mr D. Mr D therefore referred his 
+complaint about HSBC to us. As our investigator was unable to resolve matters informally, 
+the case has been passed to me for a decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, Ive decided to uphold this complaint. Ill explain why.
+The credit card payment  section 75 of the Consumer Credit Act 1974 (s.75)
+Ive considered whether it would be fair and reasonable to uphold this complaint about the 
+credit card payment on the basis that HSBC is liable under s.75. As a starting point, its 
+useful to set out what s.75 actually says:
+(1) If the debtor under a debtor-creditor-supplier agreement falling within section 
+12(b) or (c) has, in relation to a transaction financed by the agreement, any 
+claim against the supplier in respect of a misrepresentation or breach of 
+contract, he shall have a like claim against the creditor, who, with the supplier, 
+shall accordingly be jointly and severally liable to the debtor.
+
+Payment 
+no. DateType of 
+payment MerchantAmount 
+(£)Fee 
+(£) Total (£)
+115 June 
+2018Debit 
+card ZM broker 882.21 24.26 906.47
+217 July 
+2018Credit 
+card FINMARKET.TRADEFINMARKET 3,984.80 119.15 4,103.95
+Total 4,867.01 143.41 5,010.42(3) Subsection (1) does not apply to a claim  
+a) under a non-commercial agreement,
+b) so far as the claim relates to any single item which the supplier has 
+attached a cash price not exceeding £100 or more than £30,000
+To summarise, there must therefore be:
+1. a debtor-creditor-supplier agreement falling under section 12(b) or 12(c); and
+2. a transaction financed by the agreement; and
+3. a claim for misrepresentation or breach of contract related to the transaction;
+4. but not a claim which relates to any single item to which the supplier attached a cash 
+price not exceeding £100 or more than £30,000.
+Ill deal with each of these requirements in turn. 
+First, Im satisfied here there is nothing that breaks the debtor-creditor-supplier chain of Mr 
+D (the debtor), HSBC (the creditor), and Golden Markets (the supplier).
+Ive noted that Mr D paid Finmarket.Tradefinmarket using his credit card, and Ive noted this 
+merchant corresponds with other cases at this service where Golden Markets is listed as the 
+supplier in dispute. This suggests to me that Finmarket.Tradefinmarket was doing no more 
+than processing the payment on behalf of Golden Markets. 
+But where a payment processor is used in a credit card transaction, it doesnt break the DCS 
+chain, it just creates a four-party agreement. Weve published final decisions on this issue.
+Here Finmarket.Tradefinmarket (and any Merchant Acquirer present) appears to be in the 
+business of providing financial transactional services for Golden Markets. The transactional 
+services provided here have effectively been outsourced to them by the parties. And clearly 
+the network in this case had arrangements with Finmarket.Tradefinmarket (and any 
+Merchant Acquirer) and HSBC would be able to know of the parties within the arrangement 
+here and the respective offerings provided prior to the transaction in this case by dint of 
+Finmarket.Tradefinmarket and any Merchant Acquirer being users of the network used here. 
+In absence of any evidence from HSBC that Finmarket.Tradefinmarket was doing more than 
+just processing the payment in this agreement, Im satisfied that there is no break in the DCS 
+chain. I appreciate that HSBC has argued that Finmarket is a Cyprus regulated Forex broker 
+which still appears to be in existence. However, as weve explained to the parties, 
+Finmarket.Tradefinmarket appears to be a different entity to the Finmarket HSBC has 
+referred to here (as the Cyprus regulated Forex broker). So this doesnt change my mind 
+about this. 
+  
+The second consideration is whether the transaction is financed by the agreement. 
+Transaction isnt defined by the Act, but it has generally been given a wide interpretation by 
+the courts  to include whatever bilateral exchanges may be part of the deal. Here, Mr D 
+deposited funds for use on an investment platform and to be able to withdraw them as and 
+when he wished. Given the exchange of money in return for certain contractual promises  
+Im satisfied there was a transaction for this deposit (which Ill call the deposit-transaction) 
+as defined by the Act. 
+To finance (or financed by the agreement) is also not defined under the Act. An ordinary 
+definition would be to provide funds to do something. In Office of Fair Trading v Lloyds TSB 
+Bank plc [2004] Miss Justice Gloster said in a passage with which the Court of Appeal 
+agreed, The phrase to finance Approaching the matter in a common sense way, the phrase must mean provide financial accommodation in respect of A credit card issuer 
+clearly provides financial accommodation to its cardholder, in relation to his purchases from 
+suppliers, because he is given time to pay for his purchases under the terms of the credit 
+card agreement.  
+Applying this ordinary definition here, if Mr D had not used his credit card he would have had 
+to find the cash from his own resources to fund the deposit-transaction. So, its clear that the 
+deposit-transaction was financed by the agreement. 
+Third, the claim for misrepresentation or breach of contract must relate to the transaction. Its 
+important to consider what Mr Ds claim is here. Its evident from his testimony and 
+correspondence that he feels he was tricked into depositing the payments with Golden 
+Markets which had the dual purpose of:
+a) stealing the deposit money; and
+b) encouraging Mr D to deposit further amounts. 
+Mr D does not believe that Golden Markets was operating legitimately and believes he was 
+misled into thinking it was.
+This claim, that Mr D was misled into depositing funds, is clearly a claim in relation to the 
+deposit-transaction. The claim must also be one for misrepresentation or breach of contract. 
+In this case, if Mr D was told by Golden Markets matters that were factually untrue to trick 
+him into the deposit-transaction, his claim would be for misrepresentation. Or, if Golden 
+Markets made binding promises to him as part of the transaction and went on to breach 
+these, that would make his claim one for breach of contract.  
+Finally, the claim mustnt relate to a single item to which the seller has attached a cash price 
+not exceeding £100 or more than £30,000. Here, the cash price of the deposit-transaction is 
+the value of that deposit-transaction. It is both the consideration and subject matter of the 
+contract. 
+HSBC seems to take the position that the deposit was nothing more than transferring money 
+onto another account, opened for the purpose of speculating with the money, rather than 
+being a payment for the purchase of goods or services. However, when funds are deposited 
+onto a trading account this isnt necessarily just a transfer of money between accounts; the 
+deposit may also have been made in return for something. And in this case, I am satisfied 
+Golden Markets made contractual promises in exchange for the deposit-transaction. Its 
+important to note that s.75 doesnt use the term purchase of goods or services nor is there 
+anything within the Act that would exclude the present type of transactions.  
+For the reasons set out above, Im satisfied that s.75 does apply to this credit card deposit-
+transaction. Ill therefore go on to consider whether Mr D has a valid claim for 
+misrepresentation or breach of contract.
+Misrepresentation
+I consider Mr D has made a claim of misrepresentation by Golden Markets  that claim being 
+that it represented to him that it was a legitimate enterprise when this was not the case.
+For a claim of misrepresentation to be successful its necessary to show a false statement of 
+fact and that this induced Mr D into entering into an agreement. 
+A false statement of factIf Im satisfied that the merchant was not likely to be operating a legitimate enterprise  one 
+through which Mr D could have ever received back more money than he deposited  then it 
+follows that any statements made by Golden Markets to the contrary are likely to be a 
+misrepresentation.
+So, the mere suggestion that Mr D could make money from the platform is likely to suffice as 
+entailing, by necessary implication, a statement of fact by the merchant that it operated a 
+legitimate business, i.e. a legitimate trading platform on which investors could profitably 
+trade. And, Im satisfied, based on Mr Ds account of events and the overall circumstances, 
+that Golden Markets did state that Mr D could make money from the trading platform. 
+that induced Mr D into entering the agreement
+Again, if Golden Markets was essentially a scam designed to relieve investors of their 
+money, rather than a legitimate service  and if Mr D had known this  theres really little 
+question: he would not have invested with Golden Markets. Consequently, should I be 
+satisfied that Golden Markets wasnt a legitimate enterprise then inducement will also be 
+demonstrated.
+Was the merchant operating a legitimate enterprise?
+Ive found Mr Ds account of events persuasive.  
+On 25 May 2018 (almost two months before Mr Ds credit card payment), the Financial 
+Conduct Authority (FCA) published an alert about Golden Markets, warning that it was 
+offering financial services in its jurisdiction without authorisation.
+HSBC says this FCA warning isnt evidence that Golden Markets was operating a scam, but 
+merely that it wasnt regulated and customers should proceed with caution. However, binary 
+options/forex traders offering services in the UK were required to be regulated by the FCA at 
+the time of Mr Ds payment, and Golden Markets wasnt. Nor was Golden Markets licensed 
+or regulated abroad as far as Im reasonably aware. There are also many online reviews 
+from victims that share similar experiences to that of Mr D.
+I understand that Mr D did receive some credits back from Golden Markets but these were 
+received into accounts not held with HSBC, and were in relation to those separate accounts. 
+Theres nothing unusual about victims receiving some credits from scam investments like 
+this. Typically, its done to hook the victim in and to keep them sufficiently satisfied and 
+placated, to potentially induce them into further deposits. And as the credits were received in 
+respect of payments made to Golden Markets not through Mr Ds HSBC account, Im 
+satisfied the credits arent applicable to this complaint about HSBC.
+Taking everything together, I think its most likely that Golden Markets was not operating a 
+legitimate enterprise. This means that I think it made misrepresentations to Mr D  
+specifically that it was a genuine enterprise through which he could have got back more than 
+his deposits from the platform. Im also satisfied that if Mr D had known this, he wouldnt 
+have deposited any money, so he was induced into the contract on the basis of these 
+misrepresentations.
+What damage was caused by the misrepresentation 
+The legal test for consequential loss in misrepresentation, where a person has been 
+fraudulently induced to enter into a transaction, is that they are entitled to recover from the 
+wrongdoer all the damage directly flowing from the transaction: Smith New Court Securities v Scrimgeour Vickers (Asset Management) [1997] AC 254. This implies two hurdles that 
+must be surmounted before any item of loss becomes recoverable from the wrongdoer:
+a) The loss would not have been suffered if the relevant transaction had not been 
+entered into between the parties. This is the factual but for test for causation; and
+b) The loss must be the direct consequence of that transaction (whether or not it was 
+foreseeable) or be the foreseeable consequence of the transaction. 
+Transaction fee
+The transaction fee linked to the credit card deposit-transaction is somewhat straight forward 
+to cover off. Had the deposit-transaction not have occurred, the transaction fee couldnt have 
+occurred. The transaction fee was a direct consequence of the deposit-transactions. So, 
+Im satisfied Mr Ds payment of the transaction fee was consequential loss in 
+misrepresentation. 
+Breach of contract 
+Ive not considered breach of contract because Im satisfied Mr D can claim back the full 
+amount taken from his credit card through a claim under misrepresentation.
+The debit card payment
+Section 75 (above) doesnt apply to the debit card payment. So Ive instead considered 
+whether HSBC ought reasonably to have prevented this debit card payment to the scam 
+before it was processed.
+My fellow ombudsmen and I have referenced the relevant rules, codes of practice and good 
+industry practice at the time in many decisions, both to HSBC and published on our website. 
+Taking into account the law, regulatory rules and guidance, relevant codes of practice, and 
+what I consider to have been good practice at the time, I consider HSBC ought fairly and 
+reasonably to:
+Have been monitoring accounts  and any payments made or received  to counter 
+various risks, including anti-money laundering, countering the financing of terrorism, 
+and preventing fraud and scams;
+Have had systems in place to look out for unusual transactions or other signs that 
+might indicate its customers were at risk of fraud (amongst other things). This is 
+particularly so given the increase in sophisticated fraud and scams in recent years, 
+which banks are generally more familiar with than the average customer; and
+In some circumstances, irrespective of the payment channel used, have taken 
+additional steps, or made additional checks, before processing a payment, or in 
+some cases declined to make a payment altogether, to help protect customers from 
+the possibility of financial harm from fraud.
+I understand Mr Ds payment did flag on HSBCs systems for a check before it allowed the 
+transaction through  and HSBC consequently spoke to Mr D (before allowing the 
+transaction through). HSBC hasnt provided us with a recording of that call, so I cant know 
+for certain what was discussed. However, I understand that HSBC says during the call Mr D 
+confirmed the payment was genuine and so it then allowed the transaction to go through. HSBC ought well to understand that an authorised scam (like this one, where Mr D 
+authorised the payment but was nonetheless scammed), is  by definition  authorised by 
+the customer. HSBC ought therefore to very well understand that asking a customer to 
+confirm whether a transaction is genuine or not, without surrounding context and potential 
+probing, is insufficient to fully protect a customer from the potential of financial harm. 
+There may be cases where its reasonable enough for a bank to undertake basic enquiries 
+with the customer about authorisation of the transaction (for example by text message), 
+rather than a fuller interaction with the customer to establish the context behind the payment 
+(to protect customers from the risk of authorised scams). But here, HSBC called Mr D to 
+discuss the payment. HSBC therefore had a clear and natural opportunity  during this call  
+to ask Mr D for some basic context behind the payment. So, rather than just establishing Mr 
+D recognised the transaction as one he had authorised and that he was happy to proceed 
+with it, HSBC could easily and naturally  and reasonably ought to have  obtained some 
+basic context, and to have proceeded appropriately from there, to ensure Mr D wasnt about 
+to fall victim to fraud and scams that a bank like HSBC ought reasonably be aware of and 
+able to help customers avoid. Given the nature of the payment and the point behind a 
+payment like this flagging on HSBCs system  and the fact that HSBC called Mr D to 
+discuss the transaction before allowing it through  I think HSBC reasonably ought to have 
+asked Mr D for the basic surrounding context, and to have then proceeded appropriately 
+from there  with the intention to disturb or unearth a potential fraud or scam.
+I have not seen evidence that persuades me HSBC did this, however. I think that if it had 
+done this, its most likely Mr D would have been open with HSBC and explained the payment 
+was for some trading he was doing with Golden Markets  binary options. HSBC would also 
+have been aware the payment was directed outside of the UK.  
+Regulated firms like HSBC ought reasonably to take notice of common types of scams. As 
+long ago as June 2012, the FCAs predecessor indicated  in its consultation paper entitled 
+Banks Defences Against Investment Fraud: detecting perpetrators and protecting victims  
+that it was good industry practice for firms to build up an updated watch-list of types of 
+scams and potential perpetrators; and regularly to share timely and detailed intelligence 
+with other banks, UK and overseas regulators, the police, etc. 
+As Ive already stated, the FCA published a warning about Golden Markets on 25 May 2018 
+(before this debit card transaction). And HSBC reasonably ought to have been aware that at 
+the time binary options/forex traders offering services in the UK were required to be 
+regulated by the FCA. Golden Markets wasnt regulated by the FCA; nor was it licensed or 
+regulated abroad as far as Im reasonably aware. 
+In such circumstances, whilst HSBC had no duty to protect Mr D from a bad bargain or give 
+investment advice, it could have explained to him that there was a regulatory warning and 
+invited him to look more closely into this trader. It could have also explained its own 
+customer experiences with unregulated and unlicensed high-risk investment traders is that 
+customers would often be prevented from withdrawing available balances, or from 
+withdrawing them entirely until theyd been duped into making more and more payments. 
+After all, at that time, there was information in the public domain  which HSBC really ought 
+to have known about even if a lay consumer ought not  about the very high risks associated 
+with binary options trading, including many warnings of potential fraud (e.g. Action Frauds 
+June 2016 warning; the European Securities and Markets Authoritys July 2016 warning; the 
+Financial Conduct Authoritys consultation paper of December 2016; and the Gambling 
+Commissions December 2016 scam warning that an unlicensed operator is likely operating 
+illegally; City of London Polices October 2017 report noting victims had lost over £59m to 
+binary options fraud; Visas Business News publication of October 2017 where it expanded its chargeback scheme rules to cover binary options and investment disputes arising from 
+merchants often unlicensed and unregulated deploying deceptive practices; and so forth). 
+After all, Golden Markets isnt new to regulated firms and weve seen several customer 
+complaints about this particular dealer. It seems likely that HSBC wouldve seen a number 
+of consumer complaints prior to and following the FCAs warning to have been familiar 
+enough with this scammers deceptive trading practices.
+ 
+So I think HSBC ought to have at least given Mr D a stern warning about the risks. And 
+ultimately, whilst I cant be certain, I think its most likely that Mr D would have taken the 
+warnings from HSBC seriously, and decided that the risk of continuing to invest with Golden 
+Markets was too high to accept. So I think its most likely that had HSBC done what it 
+reasonably ought to have done, Mr D wouldnt have proceeded with this payment. 
+Ive considered whether Mr D should bear some responsibility for this payment by way of 
+contributory negligence. However, I think Mr D was still at this point totally in the dark and 
+simply didnt appreciate what he was doing or the consequences of his actions. I think he 
+would have taken notice of a warning from HSBC, but simply was unaware of scams like this 
+ and I dont think its appropriate to make a reduction for contributory negligence on this 
+occasion.
+Putting things right
+Ive explained, in relation to the credit card payment, why Im satisfied Mr D has a claim for 
+misrepresentation, on the basis that Golden Markets misrepresented matters, namely that it 
+was operating a legitimate enterprise and that Mr D could earn a profit from his deposit-
+transactions. HSBC should pay Mr D £4,103.95 (the payment plus the fee), plus interest 
+from the date of the payments to the date of settlement calculated at 8% simple per year.
+With regards to the debit card payment, Ive explained why I dont think Mr D would have 
+gone ahead with this if HSBC had done what it reasonably ought to have done. He therefore 
+wouldnt have incurred a fee in relation to this payment either. HSBC should therefore pay 
+Mr D £906.47 (the payment plus the fee), plus interest from the date of the payments to the 
+date of settlement calculated at 8% simple per year.
+My final decision
+For the reasons Ive explained, I uphold this complaint and I direct HSBC UK Bank Plc to 
+pay Mr D £5,010.42, plus interest calculated at 8% simple per year from the date of the 
+payments to the date of settlement. If HSBC deducts tax from this interest, it should provide 
+Mr D with the appropriate tax deduction certificate.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr D to accept or 
+reject my decision before 25 July 2022. 
+Neil Bridge
+Ombudsman

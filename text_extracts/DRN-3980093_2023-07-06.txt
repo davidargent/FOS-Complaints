@@ -1,0 +1,188 @@
+DRN-3980093
+The complaint
+Mr A is complaining on behalf of M, a limited company hes the director of. The complaint is 
+that M hasnt been refunded by Revolut Ltd after money was lost to a scam.
+Although M is the complainant, it is Mr A that had all the dealings with the scammer and 
+Revolut, so Ill mostly refer to him throughout this decision.
+What happened
+Mr A was contacted by someone claiming to be working on behalf of HMRC on 
+28 March 2022. The caller said Mr A had taxes unpaid and as a result hed been fined. He 
+was told that he could be arrested and have his visa revoked if he didnt immediately pay 
+what was owed.
+Mr A didnt realise at the time, but he was speaking with a scammer.
+Mr A checked the number he was being called from and found it was the number for the 
+Ministry of Justice. Mr A has explained how this made the call seem very convincing and 
+genuine. Hes also explained how the scammer knew some personal information about him 
+and about M. 
+Mr A did owe HMRC money at the time and hed been putting off making the payment. Mr A 
+wasnt then completely surprised at being contacted about unpaid taxes. Mr A says the 
+scammer knew the amount of tax outstanding.
+The scammer talked Mr A through what was owed. This started with the unpaid tax and then 
+went on to include other payments for fines, court fees, and solicitors costs. Mr A went on to 
+make six payments to a new payee, as instructed by the scammer. The first was made at 
+15:19 and the last at 16:07. When asked to send a seventh payment, Mr A realised 
+something was wrong and that hed been scammed, so he contacted Revolut immediately. 
+The times of the scam payments are given in the table below:
+Time Amount
+15:19 £967.44
+15:41 £1,251
+15:46 £998
+15:50 £1,521
+15:52 £1,498
+16:07 £350
+Revolut attempted to recover the money from the receiving account. But it had all been 
+removed and so nothing could be returned to Ms account. Revolut went on to consider 
+whether it would refund M. But as the payments were all auhtorised Revolut said it wouldnt 
+do so. 
+Revolut also said that it had presented scam warnings to Mr A as he was making the 
+payments. 
+Mr A brought Ms complaint to this service as he disagreed with Revoluts answer. One of 
+our investigators upheld the complaint and recommended a partial refund. He said that by 
+the time of the fourth payment the activity on Ms account demonstrated enough risk factors 
+to suggest that M might be at risk of financial harm through fraud. That meant Revolut ought 
+to have acted by stopping payments and speaking with someone at M. He said the warnings 
+provided by Revolut werent enough to discharge its fraud prevention obligations.
+Our investigator was satisfied that intervention by Revolut would have revealed the scam 
+and prevented any further loss to M. He recommended Revolut refund M from the fourth 
+payment on, adding interest at 8% simple per year.
+Our investigator considered Mr As actions in authorising the payments on Ms behalf, 
+thinking about whether M ought to bear some responsibility for the loss from payment four 
+onwards. He felt that the scam had been sophisticated, particularly the number spoofing 
+element, and had clearly caught Mr A off-guard. He said Mr A had  on Ms behalf  acted 
+reasonably and so made no deduction to the refund.
+Revolut didnt agree and so the case has come to me for final decision.  
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Generally speaking, a company like M will bear responsibility for any payments out of its 
+account that are properly authorised. That responsibility is set out in the Payment Service 
+Regulations 2017. Theres no argument here as to whether the transactions were 
+auhtorised; all parties agree Mr A made them on Ms behalf. 
+Revolut has an obligation to follow the instructions it receives from its customers. And it 
+should do so with minimal friction and delay. But there are times when Revolut  or any 
+other account provider  ought to stop payments and ask questions of its customer to 
+establish the legitimacy of the instruction. The establishment of legitimacy not only means 
+making sure they payment is properly authorised, it also means making sure the customer 
+isnt at risk of financial harm through fraud. That is to say, Revolut must have systems and 
+precautions in place to help stop its customers falling victim to scams. 
+Part of those systems and precautions means monitoring accounts for unusual and out of 
+character activity and being on the lookout for known scam indicators.
+Should Revolut have stepped in to question the payments being sent from Ms account?
+Im satisfied Revolut ought to have recognised M was at risk of financial harm through fraud 
+at payment four. Its at this point where several different risk factors have converged, 
+marking the account activity out as unusual.
+All payments were being made to a new payee. The use of a new payee is not a clear risk 
+indicator on its own. Account must be taken of what else is happening. For instance, the first 
+payment value is relatively low. And so, the transaction doesnt look unusual in isolation. 
+Making a one-off, low-value payment to a new payee is very commonplace and so its 
+understandable Revolut felt no need to act here. That remains true for payments two and 
+three as well.  
+What is worth noting though, is that theres very little evidence of new payees being set up 
+on Ms account. The faster payments that are made from the account over the preceding 
+months tend to be to the same, long-established payees. Established payees carry a lower 
+fraud risk given they have been tried and tested over time. Its fair to say the establishing of 
+new payees of Ms account was not a regular activity.
+Following the first payment at 15:19, we then see three more payments quickly made to the 
+same payee  meaning four are made within thirty minutes. Its fair and reasonable to say that the activity becomes more unusual  both generally and for this account specifically  
+with each additional payment, in quick succession, to the same payee. 
+This pattern of repeated payments to a new payee is very common for this type of scam and 
+so is an indicator that a customer might eb at risk. Revolut ought to have been aware of  
+and on the lookout for  this at the time. 
+Revolut has argued that business customers will often make repeated payments in quick 
+succession to the same payee. Its suggested this might be to cover various invoices, with 
+money owed to the same payee for different reasons. Its provided no supporting evidence of 
+this, though I can accept it might happen as a general point. What the evidence for this 
+complaint does show, is that such activity was not being conducted on Ms account. I cant 
+see any examples of a new payee (or an existing one) being paid repeatedly within an hour, 
+or even a day or week. And so, it was uncommon for Ms account to be used in this way.
+Ive considered the impact these unusual transactions have on the balance of the account 
+too. What can be observed is the balance dropping drop over £6,000 down to little more than 
+£600. Much of that reduction  85% of the account balance  has occurred with the setting 
+up of the fourth payment. Im satisfied this presents another concerning factor Revolut ought 
+to have taken into account.
+I have thought about the arguments Revolut has put forward. Some of what Ive said already 
+directly addresses those arguments. But its also said that when the account was set up for 
+M it was told:
+M would conduct 10-100 transactions per month;
+M might carry out volumes of transfers from between €10,000 and €100,000;
+M might carry out a single transaction to the value of €20,000. 
+Revolut says that, because of these indications given by M when the account was opened, 
+all the fraudulent activity was within expected limits. I dont find this to be a persuasive 
+argument for not stepping into to prevent fraud. If Revolut were to only to consider 
+intervening when these parameters had been breached, it seems fair to say it would rarely 
+ever prevent a scam. 
+Its also unclear how these parameters are actually established, and what alternative options 
+might have been indicated at the point the account was applied for. 
+Overall, Im satisfied Revolut ought to have intervened at payment four, and so it ought to 
+refund M from that point on. 
+Im also satisfied that intervention would have made a difference. It doesnt appear as 
+though Mr A was given a cover story to present to Revolut, had it started asking questions. 
+And, as the expert in the relationship, Revolut ought to have been able to ask suitable 
+probing questions to establish what was happening and why Mr A was moving Ms money. 
+There were enough known features of an impersonation scam for Revolut to have broken 
+the scammers spell and prevented further loss to M.
+I acknowledge Revolut did present some warnings to Mr A when he was making the 
+payments. But my findings are that it ought to have intervened directly. 
+Should M bear some responsibility for the loss?
+I need to consider Mr As actions here. He was the authorised party acting on Ms behalf. 
+And so, its whether he acted reasonably in the circumstances that needs to be assessed. 
+Having considered the circumstances of the case I find Mr A did act reasonably, and so 
+theres no deduction to what Revolut should now refund.
+Revolut has suggested that Mr A, as a director, ought to be particularly aware of 
+safeguarding company funds and that he also ought to be aware of HMRC processes and procedures. I can agree with what its said here, to a degree. But its important to consider 
+the circumstances of the scam and the factors that led to Mr A falling into the scammers 
+trap.
+Mr A was called on a spoofed number. Mr A had every reason to believe it was someone 
+from the Ministry of Justice calling him, given thats the number that showed up on his 
+phone. Many people, including those that are directors of companies, will not be aware of a 
+fraudsters ability to spoof a phone number. So when a call comes through a great deal of 
+faith is put in the phone number that is displayed. This fact alone meant Mr A was deeply 
+hooked into the scam from the outset.
+I note that the warnings provided by Revolut didnt refer to impersonation scams or a 
+fraudsters ability to spoof phone numbers. And so Mr A received no live education, in the 
+moment, about what to be on the lookout for or what to be wary of.
+Mr A has provided evidence to show that he did have an outstanding HMRC bill. That may 
+have been a complete coincidence or a lucky guess on the scammers part. Or it might be 
+that genuine correspondence had been intercepted at some point. But the effect of this was 
+to make the call seem legitimate. 
+Mr A knew he had an unpaid tax bill. And the genuine HMRC correspondence he had 
+received had told him hed be pursued for that unpaid bill. The call from the scammer was 
+then not entirely surprising or completely unanticipated.
+The scammer also used emotional manipulation to confuse Mr A and prevent him from 
+thinking things through as clearly as he otherwise might have done. The scammer incited 
+fear and panic by not only going through the financial implications of not complying, but also 
+talking about Mr A being arrested and having his visa revoked. Those appeared to be very 
+real risks to Mr A, especially considering the convincing aspects of the scam Ive already 
+discussed. 
+Its true that Mr A made payments to an account in the name of an individual, rather than a 
+business or institution. And that might fairly be said to cast some doubt on what Mr A was 
+being told to do. Mr A has explained that he was told he was paying the attorney who was 
+handling his case on behalf of the Ministry of Justine and HMRC, and that they would 
+arrange payments of the charges and fees. 
+I dont consider that to be a particularly persuasive explanation by the scammer. But I dont 
+find its such a questionable feature that it means it ought to have overcome the very 
+persuasive elements Ive discussed already. 
+Ive considered all the available evidence and I dont believe Mr A  acting on behalf of M  
+behaved unreasonably in the circumstances. I dont make any deduction to the refund due 
+from Revolut as a result. 
+Recovery of funds
+Mr A let Revolut know about the scam quickly and asked that it stop or reverse the payments 
+hed made. Revolut rightly said that wasnt possible. Instead, Revolut had to try to pursue the 
+funds through the receiving accounts in an attempt to recover anything that might have 
+remained.  
+My understanding is that the money went to accounts held within a territorial jurisdiction 
+outside of the UK. Revolut was then more limited in what it might have done than had the 
+accounts been held domestically. Nonetheless it appears the scammers moved the funds on 
+within moments of them crediting the receiving accounts. And so it seems the prospect of 
+recovering anything at the time was always remote at best.
+Putting things right
+If Mr A accepts these findings on behalf of M Revolut should:Refund Ms loss from payment four onwards (£3,369)
+Pay interest on that amount at 8% simple per year, calculated from the date of 
+payment to the date of settlement
+My final decision
+I uphold this complaint against Revolut Ltd.
+Under the rules of the Financial Ombudsman Service, Im required to ask M to accept or 
+reject my decision before 3 August 2023.
+ 
+Ben Murray
+Ombudsman

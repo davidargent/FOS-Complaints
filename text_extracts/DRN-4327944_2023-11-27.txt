@@ -1,0 +1,115 @@
+DRN-4327944
+The complaint
+Mr F has complained that PayPal (Europe) Sarl et Cie SCA placed restrictions on his PayPal 
+account; didnt cancel a continuous payment to a retailer; and set up a new payment account 
+without his consent.
+What happened
+Mr F added new account details to his PayPal account on 25 April 2023 and on the 26 April 
+2023 Mr F transferred money into his PayPal account with the intention to transfer the 
+money out again. But when he went to transfer the money out of his PayPal account, it was 
+blocked. Mr F says he called PayPal to find out what had happened, and he was told a 
+freeze had been applied to his account due to irregular activity being detected on his 
+account. Mr F was eventually able to get the block lifted, but was told that it could take up to 
+a day for the block to be removed. Mr F was then able to transfer the money out of his 
+PayPal account on the 27 April 2023.
+During this time, a retailer that hed previously had a continuous payment set up for debited 
+money from his PayPal account. Mr F says that hed cancelled the continuous payment 
+authority and says that the payment should not have been taken from his account.
+During this time, also Mr F received an email saying that hed applied for a PayPal Xoom 
+account  Mr F says he hadnt applied for such an account.
+Mr F raised his concerns with PayPal. In its final response letter PayPal explained that its 
+fraud detection systems identified the request to withdraw money to a newly added account, 
+and as Mr F had accessed the account via a Virtual Private Network (VPN), it placed a 
+freeze on the account to ensure that the transfer was being made by Mr F and to ensure that 
+his account had not been compromised. It also explained that when the freeze was lifted, 
+some of the same indicators were present and so PayPals fraud detection system reinstated 
+the block as a precaution, until it was satisfied that it was Mr F making the transfer.
+In terms of the retailer withdrawing the money from Mr Fs PayPal account, PayPal said that 
+the retailer had been attempting to take the money from Mr Fs account since November 
+2022 under a continuous payment thatd been set up, but until that point, it had been 
+unsuccessful in doing so as there was insufficient balance in Mr Fs account. PayPal 
+explained the process for Mr F to dispute the transaction on his account. PayPal confirmed 
+that itd look further into Mr Fs concerns about the Xoom account, and to apologise for the 
+inconvenience that Mr F experienced, PayPal paid Mr F £100.
+After referring his complaint to our service, one of our investigators assessed the complaint 
+and they didnt uphold the complaint.
+Mr F disagreed with the investigators assessment, so the matter was referred for an 
+ombudsmans decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having reviewed everything, I agree with the outcome reached by the investigator, for 
+broadly the same reasons. I will explain why.
+Blocks on account
+Looking through the evidence surrounding the block that was applied to Mr Fs account, its 
+clear that this occurred due to PayPals automated fraud detection system. PayPal has not 
+given the exact reasons as to why the block was applied to Mr Fs account. But I wouldnt  
+necessarily expect it to disclose such detailed information, as such information could 
+potentially allow fraudsters to circumvent its fraud detection systems. Nevertheless, PayPal 
+has explained in its final response letter that a number of factors were involved in the block 
+being applied. This included the addition of a new account to the PayPal account; a transfer 
+out to the newly added account; and also Mr F accessing the account via a VPN.
+In the circumstances, I can see why Mr F was frustrated that he was unable to transfer the 
+money that he had put into his PayPal account. I appreciate that Mr F questions why the 
+block was put in place, as he says the amount was not unusual and that he had used a VPN 
+to access his account many times before without issue.
+However, PayPal only placed the block on Mr Fs account so as to protect him from 
+potentially being a victim of fraud. Indeed, due to the ever-increasing levels of fraud and 
+scams, this is unfortunately becoming an increasingly necessary action for financial business 
+to take to protect their customers. As such, I cant reasonably say that PayPal was being 
+unreasonable in placing a block in the circumstances. 
+Nevertheless, I can see that when Mr F called PayPal about the blocked transfer, once 
+PayPal was assured that it was a genuine transaction, PayPal arranged for the block to be 
+removed. And although there was an initial delay in it being lifted, PayPal did warn Mr F that 
+it could take up until the next day for the block to be removed. I can see that Mr F was able 
+to make the transfer on the afternoon of the following day i.e. 27 April 2023. As such, 
+although I recognise that implementing such protections has caused Mr F some 
+inconvenience on this occasion, I think that PayPal dealt with the matter in a fair and 
+reasonable way.
+Disputed transaction
+During the period that Mr F was blocked from his account, a retailer debited a payment from 
+his PayPal account. I understand that this related to a previous disputed transaction and 
+PayPal explained that the retailer had in fact been attempting to take the payment for some 
+time, but until then, it was unsuccessful as there were never enough funds in the account. 
+Mr F says that he had previously cancelled the payment authority to this retailer and so says 
+the payment should never have been made. In response to this, I can see that PayPal 
+explained how Mr F could raise a dispute about this payment with PayPal. And Im glad to 
+hear that the matter was subsequently resolved.  
+Xoom account
+Finally, Mr F says that he never set up or agreed to the Xoom branded money transfer 
+account. Whereas PayPal has provided evidence to show that Mr F had logged on to his 
+PayPal account and whilst he was logged in, applied for the Xoom account.On balance, the evidence does indicate that Mr F did apply for the Xoom money transfer 
+account. I note that the process to set one up is fairly straightforward. So I think its possible 
+that Mr F mayve applied for a Xoom account without realising hed done so. For example, 
+under the send option, PayPal provide the following options to send money:
+To a bank account
+Cash for pick-up
+Reload phones
+Mobile wallet transfers
+By clicking on any one of these options, the account holder is presented with a pop-up which 
+says:
+By continuing, you confirm you are at least 18 years old and agree to the Xoom User 
+Agreement. Well use your PayPal details to create a Xoom account.
+This is followed by a button saying: Agree and Continue.
+As such, in the circumstances, I think its possible that Mr F had clicked on the wrong 
+buttons, or perhaps clicked the Agree and Continue button without reading the pop-up in an 
+attempt to get rid of the pop-up and inadvertently agreed to open a Xoom account without 
+realising what hed done.
+Nevertheless, if it is the case that Mr F didnt agree to it and PayPal had set up the Xoom 
+account in error (although I dont think it did), I cant see that Mr F has lost out by this. 
+PayPal has confirmed that Mr Fs Xoom account has since been deleted.
+So taking everything into account, whilst I recognise that Mr F experienced some 
+inconvenience because his attempt to make a transfer was temporarily blocked, pending 
+verification from PayPal that it was a genuine transfer, I dont think that PayPal has acted 
+unfairly or unreasonably. I also think that the steps it took to resolve the other two issues i.e. 
+directing Mr F to raise a claim about the disputed transaction and to close his Xoom account, 
+were fair. 
+Overall, I think that the £100 that PayPal paid to Mr F was reasonable and I dont think any 
+further payments of compensation are warranted in this case.  
+My final decision
+Because of the reasons given above, I dont uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr F to accept or 
+reject my decision before 29 December 2023.
+ 
+Thomas White
+Ombudsman

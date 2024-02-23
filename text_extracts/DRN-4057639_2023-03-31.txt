@@ -1,0 +1,184 @@
+DRN-4057639
+The complaint
+A company Ill refer to as R complains that Soldo Financial Services Limited (Soldo) declined 
+its claim for a refund of card transactions it says it didnt authorise.
+R is represented by one of its directors, Mr M.
+What happened
+R has an account with Soldo that lets it assign pre-paid cards to each of its members. Some 
+of its members, including the member in question in this case, are vulnerable and not able to 
+manage their own finances. Soldos system allows R to set various restrictions on each card, 
+such as an automatic block on the account after a single transaction is made.
+Between around 10pm on 22 January 2021 and 1:30am on 23 January 2021, 24 payments 
+of £99.99 (totalling £2,399.76) left Rs account. R says it didnt authorise those transactions 
+and that they were made by the member, who had obtained the card details without Rs 
+permission. R had recently added spyware to the members phone, which meant it had 
+added the card details to the phone. And it neglected to remove the card details after it had 
+done so.
+When Mr M contacted Soldo to ask for a refund of the payments, Soldo declined the request. 
+So, Mr M brought Rs complaint to our service. Our investigator upheld the complaint. She 
+did think R had authorised the payment, but she thought 24 consecutive payments of £99.99 
+in such a short space of time was unusual on its own and in the context of the historical 
+spending on this account.
+She felt Soldo should have noticed something was wrong after the third payment of £99.99 
+in quick succession and that the remaining payments would have been stopped, had Soldo 
+acted appropriately.
+Soldo didnt agree. Among other representations, it said R had negligently left card details 
+on the members phone, hadnt applied any of the blocking measures available to it and that 
+Soldo had no reason to suspect there was anything wrong with the payments made. It asked 
+for an Ombudsman to review matters afresh.
+On 16 August 2022, I issued my provisional findings, which said:
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Important to my decision about what is fair and reasonable in the circumstances of this 
+complaint, are the Payment Services Regulations 2017 (the PSR 2017) which apply to 
+transactions like the ones R disputes.
+Among other things regulation 67 of the PSR 2017 says:
+67. (1) A payment transaction is to be regarded as having been authorised by the payer 
+for the purposes of this Part only if the payer has given its consent to  (a) the execution of 
+the payment transaction; or
+(b) the execution of a series of payment transactions of which that payment transaction 
+forms part.
+Whether a payment transaction has been authorised or not is important because account 
+holders will usually be liable for payments theyve authorised and, generally speaking, 
+financial institutions will be liable for unauthorised payments.
+Mr M has explained that Rs employees did not make the transactions and did not know that 
+the transactions were being made. He has explained the member in question isnt capable of 
+managing his own finances and doesnt have control of the funds allocated to him. Instead, 
+Rs staff make payments for the member, so he doesnt have direct access to the account 
+funds. That is supported by the account history, which shows previous payments were 
+almost always one-off payments. And far more occasional than the 24 consecutive 
+payments in dispute.
+However, that doesnt automatically mean that those transactions are unauthorised and that 
+they should be refunded to R. Its possible for R to give someone else authority to make 
+transactions on its behalf  and it follows that R would then be responsible for them. This is 
+the case even if this person carried out more transactions than R agreed to or expected and 
+is whats known as apparent authority.
+If the R has allowed a third party to make use of their payment instrument so that, to Soldo, it 
+looks like the payment transaction has been authorised by R, then the payment can be 
+considered authorised for the purposes of the PSR 2017.
+However, apparent authority cant be given negligently. And Im not persuaded R 
+deliberately gave the member its card details. R had to put its card details onto the 
+members phone for legitimate purposes, and forgot to remove the details after. Ive not seen 
+any evidence to persuade me that R intended to give the member access to its card details, 
+and the payments in question do not fit with the kind of transactions I would expect R to 
+authorise on this account in light of the nature of the purchases, values and 
+frequency/timings of the transactions.
+So, its for the reasons Ive set out above that I dont agree with our investigator on the point 
+of authorisation and why I consider R to have authorised the transactions in dispute. Which, 
+on the face of it, means Soldo is liable for those transactions.
+However, our service wouldnt tell Soldo to refund authorised transactions if we considered 
+R had failed with intent or gross negligence to keep its security details safe. Ive already set 
+out above why I dont think R acted intentionally here and the same rationale applies to 
+failing to keep its security details safe with intent. But gross negligence does warrant further 
+examination.
+And Soldo has referred to a number of options R had to protect its account, that it did not 
+use. Of particular relevance to this case, Soldo says that online payments can be turned on 
+or off, that the card can be locked after each transaction, and that daily transaction limits can 
+be set. R says that it regularly used the blocking features available to it, but Soldo has 
+provided a screenshot from its system that says no blocks were applied to the card between 
+30 September 2020 and the date of the disputed transactions. So, the evidence suggests no 
+blocks were applied.
+Further, I accept that it was careless of Rs employee to leave card details on the members phone. That presented a risk that the card would be used without Rs authorisation, which is 
+ultimately what happened.
+But mere carelessness isnt enough to meet the standard required for gross negligence in 
+these cases. The Financial Conduct Authority (FCA) has issued the Payment Services and 
+Electronic Money  Our Approach to help businesses to navigate the Payment Services 
+Regulations 2017 (PSRs 2017) and the Electronic Money Regulations 2011 (EMRs) 
+(together with our relevant rules and guidance), and to understand our general approach in 
+this area.
+And at paragraph 8.222, the FCA explains we interpret gross negligence to be a higher 
+than the standard negligence under common law. The customer needs to have shown a very 
+significant degree of carelessness. So gross negligence goes far beyond a failure to 
+exercise proper skill and/or care.
+And with that being the case, I cant reasonably say R acted with gross negligence. If, as 
+appears to be the case here, R didnt apply the blocks available, that did present a risk to the 
+card. But accidentally leaving card details on a mobile phone was a simple mistake to make, 
+and I cant reasonably say that doing so amounted to a serious disregard of or indifference 
+to an obvious risk.
+It follows then that I dont consider R to have authorised the payments it disputes, or to have 
+failed with intent or gross negligence to keep its security details safe. And so, in accordance 
+with the PSR 2017, Soldo is liable to refund R.
+Our investigator also found that the payments on the account were unusual, and that Soldo 
+should have acted to stop further payments after the third consecutive transaction of £99.99. 
+While what Ive said above means Soldo is liable to refund all of the transactions in dispute, 
+its worth noting that, even if I didnt consider the transactions to be unauthorised, or if I did 
+find R had failed with intent or gross negligence to keep its security details safe, I agree that 
+Soldo didnt do enough to stop the transactions.
+In reaching this conclusion, Ive taken into account, the law, regulators rules and guidance, 
+relevant codes of practice and what I consider to have been good industry practice at the 
+time. And Ive thought carefully about the payments in dispute here. In doing so Ive 
+reviewed the account statements Soldo has provided to see how R operates this particular 
+account.
+In the preceding fifteen months, the total expenditure on the account was £1,056.68. 
+£830.72 of that was made in two transactions to a different merchant to the one in question.
+There had only ever been two payments on any single day. And indeed, any account activity 
+was sporadic, with no significant bursts of spending on multiple transactions. So, 24 
+transactions of £99.99 to the same merchant, all in the space of three-and-a-half hours and 
+late at night was not usual account activity. In fact, half of the payments were made over a 
+38 minute period between 22:01 and 22:39, with the other half being made over a 14 minute 
+period between 01:12 and 01:26.
+I recognise Soldo allows customers to apply blocks that would prevent unauthorised use, but 
+in the circumstances of this particular case, Im not persuaded that that diminished Soldos 
+need to check transactions. And I dont think Soldos system applied satisfactory monitoring 
+to look out for unusual transactions or other signs that might indicate that its customers were 
+at risk of fraud (among other things).
+Because the payments were to a merchant the account had paid before, I wouldnt expect Soldo to have blocked all payments immediately. But after 3 payments of the same amount 
+in the space of a few minutes, Im satisfied it should have been clear to Soldo that all was 
+not well. And I consider Soldo should have intervened and asked R what was going on. And 
+Im satisfied that, had it done so, the payments wouldve stopped.
+Overall then, Im persuaded Soldo ought fairly and reasonably to have done more in terms of 
+intervening and questioning R about the nature and purpose of the payments in question. 
+And Im persuaded that if Soldo had intervened it would have made a difference. Although 
+as I say above, this is a secondary issue because, for the reasons Ive set out, I consider 
+Soldo is liable for all of the transactions, because they were unauthorised
+I invited both parties to make any further submissions or provide any further evidence they 
+wished me to consider. Mr M didnt have anything further to add, but R made a number of 
+representations it wished me to consider.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Ive considered all of the representations Soldo made in response to my provisional findings. 
+But Im sorry to say that they dont change my findings. I understand Soldo feels strongly 
+about this complaint, and I want to reassure it that I have made this decision on the balance 
+of probabilities, and on the circumstances of this particular complaint. 
+I understand the nature of the services Soldo provides and the nature of Rs business. And I 
+accept R had various obligations with which it had to comply, and that it had a number of 
+options available to it that could have prevented the transactions from happening. In 
+reaching my decision, Ive taken the law and both parties responsibilities into account, but 
+my overall decision is based on what I consider to be fair and reasonable in the 
+circumstances of this complaint.
+And ultimately, Im not persuaded that R was grossly negligent. I accept there were steps it 
+could have taken by adding restrictions to the card, and that the transactions were made 
+possible by Rs error i.e. that it failed to remove the card details from the members device. 
+However, for the reasons Ive set out above, Im not persuaded that those actions meet the 
+high bar that is required to make a finding of gross negligence. 
+Soldo did say that their records show the card details were uploaded to the members device 
+5 weeks before the disputed transactions started. And that theres no evidence to show they 
+were left in place carelessly. But because of what Mr M has told our service about the 
+member in question being vulnerable and not able to manage their own finances, and 
+because the transactions were reported by R when they were discovered, I accept that the 
+card details were left in place by mistake and not intentionally. So, the timings dont affect 
+my outcome. And again, while I accept that was careless, I dont agree it amounted to gross 
+negligence.
+Soldo also argued that the pattern of transactions was not unusual. It said the card in 
+question was active for a little over 3 months and didnt agree there was a fifteen-month 
+history to compare the transactions against. The statement provided by Soldo does indeed 
+show that the first transaction on the account was October 2020, not October 2019. 
+However, I remain satisfied that the pattern of transactions in dispute was unusual for the 
+reasons Ive set out above. There were 24 transactions of the exact same amount (£99.99), all very close together and all in the final few hours of the day/early hours of the following 
+morning. Which was not in line with usual account activity and I dont find that the lack of a 
+long account history changes matters. Indeed, transactions of this nature on a new account 
+can still be cause for concern such that I would expect a financial business to take action.
+Having considered everything both parties have said, my provisional findings havent 
+changed. So my final decision is that Soldo must reimburse the transactions and pay interest 
+on the balance due to R.
+My final decision
+Soldo Financial Services Limited must pay R:
+1. £2,399.76, being the value of the unauthorised transactions; and
+2. Simple interest at the rate of 8% on the above amount, from 22 January 2021 up to 
+the date of settlement.
+Under the rules of the Financial Ombudsman Service, Im required to ask R to accept or 
+reject my decision before 27 April 2023.
+ 
+Alex Brooke-Smith
+Ombudsman

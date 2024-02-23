@@ -1,0 +1,201 @@
+DRN-3361599
+The complaint
+Ms G complains that PayPal Europe SARL & Cie, SCA (PayPal) are holding her liable for a 
+transaction of £249 that she says she didnt make or otherwise authorise. 
+What happened
+In June 2020, two payments were made to a retailer from Ms Gs PayPal account which she 
+says she did not make or otherwise authorise. They were made eight minutes apart and 
+totalled approximately £500. 
+Ms G said she became aware of them when her bank notified her that there were insufficient 
+funds in her account to cover a third attempted payment on the evening the payments were 
+made. She noticed the payment had been made from her PayPal account, and immediately 
+limited her PayPal account, informed the relevant authorities and blocked her bank card. 
+She said she found out that the goods purchased were picked up from a shop the day after 
+the payments were made, so she went there and reviewed the CCTV with the security staff 
+and saw an unknown male pick up the goods. 
+She explained that shed set up the PayPal account to use for selling items on an online 
+marketplace but had not yet used it to send or receive any money. She had only accessed 
+PayPal through her tablet. She hadnt written down her login details anywhere, nor had she 
+saved them on her tablet or any other device. She had memorised the PayPal password, 
+and said it wasnt something that was easily guessable. She explained she hadnt responded 
+to any suspicious emails or disclosed her login details to anyone. 
+PayPal received notification that Ms G had raised the unauthorised transaction on the day 
+the payment was made. They also received a chargeback request from Ms Gs card issuer 
+on the same day. They reviewed what had happened, and within a few days they decided 
+that they would deny Ms Gs unauthorised transaction claim as they said there was no 
+strong evidence of unauthorised account access. 
+Three months later, Ms Gs chargeback via her bank and card issuer was decided in her 
+favour. This means the first payment was reimbursed via the card company, and the 
+remaining loss stands at £249. Ms G remained unhappy, so she came to our service. Our 
+investigator reviewed what had happened and didnt recommend that her complaint be 
+upheld. They only looked at PayPals liability for the second transaction, as the first had 
+been refunded separately. They said: 
+they could not find a realistic point of compromise for the login details to her PayPal 
+account, so could not see how an unknown third party could have made the 
+transaction; 
+they had noted that the items that Ms G said she didnt buy were collected from a 
+shop near to her address, and whilst this wasnt strong evidence of a link to Ms G, it 
+is something they had kept in mind;
+the IP address for the second PayPal payment matched the IP address of an online 
+banking login for Ms Gs account, that she hasnt disputed was her, meaning it was 
+most likely carried out at the same location as Ms G; 
+Ms G didnt agree. She said that: 
+she didnt have the technical knowledge to explain how the fraud was perpetrated, 
+but she did not authorise the transactions;
+it was disheartening that the burden of proof was placed on her to prove her 
+innocence; 
+her logins to her PayPal and her online banking from the same IP address could be 
+explained by the fact that she had logged into both after receiving notification from 
+her bank that there were insufficient funds in her account to cover a payment; 
+she sent a screenshot of a notification that an attempt was made to purchase goods 
+for £498 on the same evening, and said it was unclear why PayPal had not 
+mentioned this; 
+it was illogical that the bank and card issuer believed her, but that PayPal did not; 
+she understood from the retailer that at least one of the purchases was picked up 
+using a different email address and phone number to hers; and
+she had notified PayPal of the existence of CCTV showing the person who had 
+picked up the items and that it would be available for 25 days, but they had not 
+followed this up. 
+On receipt of this email, our investigator said theyd review it in full but had some matters to 
+clarify before they did so. They said: 
+in many cases it is impossible to say exactly what happened, so we must say what 
+we think, on the balance of probabilities, is most likely to have happened. So were 
+not saying that it is for Ms G to prove her innocence  our role is to determine what 
+we think was most likely to have happened, such that we can assess whether PayPal 
+should be liable for the disputed transaction. We had evidence that her credentials 
+and security information were used to make the payment and have not been 
+provided with an explanation for how this could have been done by someone else. 
+their original findings were made in assessment of all of the evidence, not just the 
+online logins on the night in question as Ms G had asserted; 
+one of the reasons we dont rely on CCTV evidence is that it doesnt disprove the 
+knowledge or authorisation of the account holder. Similarly, the use of a different 
+email address or phone number doesnt prove or disprove the account holders 
+knowledge of the purchase. 
+PayPal hadnt acted incoherently, or at odds with the bank. When a payment is 
+disputed, a temporary credit will be made to cover the payment whilst an 
+investigation is undertaken and they may remove the funds if they think the payment 
+was authorised. There was also a separate charge back process here, which was 
+found in Ms Gs favour for one of the payments which is why it was refunded to her 
+bank account. This explains why it may appear that PayPal have changed their 
+decision, but in fact they have always maintained the payments were authorised. 
+Our investigator later reviewed his findings in light of Ms Gs comments, and changed their 
+opinion of the matter. They found that whilst they couldnt explain exactly how, they agreed it 
+looked like Ms G hadnt authorised the transactions. They said: 
+whilst it didnt absolutely prove or disprove Ms Gs authorisation, they did think it 
+strange that the email address and phone number used to collect at least one of the 
+items didnt match Ms Gs; 
+theyd seen evidence of the third attempted transaction for £498, the failure of which 
+led to her receiving the text and logging into her online banking. This explained why 
+she logged in around the same time as the disputed transactions. it was reasonable to assume that Ms G did know the balance of her account, so 
+would know that sufficient funds were not available for the third transaction. So, it 
+seemed more likely to fit the pattern of an opportunistic fraudster, who may make 
+smaller test payments, then attempt or complete transactions for larger amounts. 
+whilst they couldnt establish a point of compromise for her login details, when 
+considering the case as a whole they felt she may not have authorised the 
+transactions. The fact that the IP address matched for some of the relevant logins 
+simply meant that someone with access to her network made the logins, rather than 
+proving they were made from Ms Gs device or by her specifically. So they thought it 
+could have been done by someone known to her, or close in proximity to her. 
+PayPal didnt agree. It said it had previously provided our service with compelling evidence 
+in support of their position on this case. So, because an agreement could not be reached, it 
+has come to me to decide. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I am not upholding this complaint. 
+I reviewed what had happened, and wrote to both parties saying the following: 
+Ive looked at the evidence and what happened on this complaint. I am minded to not 
+uphold this complaint  Ill explain why. 
+I accept that Ms Gs behaviour and elements of this case certainly look like someone who 
+had fallen victim to a scam. The following, whilst not being conclusive, certainly do look like 
+she may have been the victim of fraud: 
+She quickly reported it to her bank and PayPal after the third failed transaction led 
+her bank to alert her to her lack of funds. 
+More than one IP address was shown in the technical data relating to the logins.
+Someone elses email address and phone number were used for at least one of the 
+collections from the shop. 
+CCTV showed that the person collecting the goods was not Ms G. 
+The two payments came to more than she had in her bank account, and a third 
+payment was attempted. Ms G would have been aware of her account balance and 
+not tried to put things through that exceeded it so dramatically. 
+However, I am currently unable to see how I can uphold this complaint on the evidence I 
+have. For me to believe what Ms G has told this service, I would have to accept that an 
+unknown third party has managed to correctly guess her email address and PayPal 
+password  a password that by her own account isnt written down, stored anywhere, known 
+by anyone other than her -  and utilised these to purchase goods from a shop that just so 
+happens is not far geographically speaking from where Ms G lives. Further to this, the 
+account hadnt existed for long, so the period of time in which someone could have come 
+across it, even if her details were really recorded somewhere, is slim. She has ruled out any 
+point of compromise for her login details, that would have allowed someone else to become 
+aware of her details such that they could make the payments. This leads me to the 
+conclusion that she either made the payments herself, or is not being entirely honest about 
+whether she told someone her details, or whether they were recorded somewhere. 
+In these circumstances I am struggling to see how I could make a fair and reasonable finding 
+that PayPal should refund the outstanding loss. I say this because technically speaking, if Ms G is being honest about her password, I cannot see how these were plausibly completed 
+by anyone other than her. But taking into account all of the circumstances of the complaint, 
+and the fraud-like elements of this case I listed above, I think it is more likely that someone 
+known to Ms G had the details  perhaps with her consent to use for something small, 
+perhaps without her consent because she had, for example, actually recorded them 
+somewhere. If this was with her consent  it could well be that she knew of the transactions, 
+or that she knew they were going to utilise her PayPal account but they exceeded what was 
+agreed  hence the spending not appearing to have regard to the account balance. In this 
+case, according to the relevant rules and regulations and the conditions of Ms Gs account, 
+she would be assumed liable for any transactions made on her behalf. 
+There, of course, is the possibility that the details were saved or recorded somewhere, or 
+she had told them to someone  and they were used without her consent. But I cannot see 
+why Ms G would not tell us this if this was the case. So, based on the fact that Ms G has told 
+us that there was no way an unknown third party could have gained her password, I think 
+what is most likely is that she allowed someone to use her PayPal account, and that perhaps 
+they exceeded their agreement.
+I invited both parties to submit any further evidence or comments prior to proceeding to this 
+decision. PayPal had nothing further to add. Ms G said: 
+She denied in the strongest possible terms that she authorised these transactions;
+No one close to or known to her has authorised the transactions;
+She went from setting up a PayPal account, to being scammed, to being accused of 
+fraud by the ombudsman which raises serious questions about due process and 
+protection of consumer rights;
+The position of my email, and the position of our investigator given in September 
+2021 are totally contradictory  and she asked how she was expected to accept our 
+investigators opinion then, and mine now. She pointed to various specific quotes 
+from the investigators opinion that led them to believe that Ms G hadnt authorised 
+the transactions;
+She could not explain the technical details of how the fraud occurred or how it was 
+achieved  but this didnt mean that the transactions were completed by her or 
+someone known to her; 
+She did everything correctly - as soon as she discovered that her account was 
+compromised she contacted the police, met with the retailer, met the bank and spent 
+months trying to get answers. 
+Ive considered these comments, and I am afraid they dont change my thoughts on this 
+case. I would like to first address Ms Gs objection that my findings on the matter differ from 
+the second opinion offered by our investigator. As a service, the majority of our cases are 
+resolved informally by our investigators. But, when a party requests a final decision an 
+ombudsman must independently review the evidence and circumstances of the case and 
+make fair and reasonable findings. So, whilst I know it is disappointing that my decision 
+differs from our investigators opinion, this can and does happen as my role is more than 
+merely to rubber stamp our investigators opinion. 
+Moving to the merits of this complaint, I can see no plausible way that an unknown third 
+party would have been able to obtain her security credentials such that they could make 
+these transactions. We may never know exactly what happened, but on balance I remain of 
+the opinion that the most likely thing that happened is that Ms G gave her details to someone 
+who may have exceeded what shed allowed them to do with her PayPal account. 
+Ms G has said that not being able to explain the scam does not equate to the transactions 
+being completed by her or someone known to her. But, as outlined in my email, for me to say that this was not completed by her or someone known to her I would have to say that it 
+was most likely that someone who happened to live near her, yet did not know her, had 
+managed to guess her login security credentials which were not known to anyone other than 
+her, nor recorded or saved anywhere. Ive tried to consider all of the alternative scenarios in 
+which an unknown third party could have accessed her security credentials, and I do not see 
+any of them as what is most likely to have happened here. For example, she also said she 
+only ever logged in on her tablet, so I cannot even conclude it is likely that she left her 
+account logged in on a public device which allowed access to an unknown third party. She 
+said she hadnt responded to any strange emails, so it seems unlikely that someone has 
+conducted some kind of phishing scam. She didnt leave her login details written down in a 
+notepad somewhere that someone could come across. In the circumstances, I cannot fairly 
+and reasonably conclude that the transactions were completed by an unknown third party, 
+so I will not be asking PayPal to refund the remaining transaction.
+My final decision
+My final decision is that I do not uphold this complaint. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Ms G to accept or 
+reject my decision before 6 April 2022.
+ 
+Katherine Jones
+Ombudsman

@@ -1,0 +1,113 @@
+DRN-3866497
+Complaint
+Mr M is unhappy that Modulr FS Limited wont refund the money he lost when he fell victim 
+to a scam. 
+Background
+In October 2020, Mr M fell victim to a cryptocurrency investment scam. Hed been 
+researching prospective investments and completed an online questionnaire. That resulted 
+in someone calling to offer him an investment opportunity. Unfortunately, that individual was 
+not a legitimate employee of an investment business, but a scammer. 
+Mr M was persuaded to use Modulr to transfer fiat currency to an account he held with a 
+separate business Ill refer to as B. B was responsible for the operation of a cryptocurrency 
+wallet. The deposit into his account with B was converted into Bitcoin. Mr M then transferred 
+the Bitcoin to the scammer. He lost around £29,000 as part of the scam. 
+There has been significant confusion as to which business should be responsible for 
+responding to Mr Ms complaint. He has complained to Modulr and to B. Modulr said that Mr 
+M should direct his complaint to B. It said it provided B with its payment infrastructure, but 
+that it has no direct relationship with its customers. B itself said it fell outside of this services 
+jurisdiction because its not regulated by the Financial Conduct Authority (FCA). 
+Mr M was unhappy with the responses he received from both firms and so he referred his 
+complaint to this service. It was looked at by an Investigator who said that it was outside of 
+our jurisdiction. She said that Mr M wasnt an eligible complainant because he didnt have 
+the necessary relationship with Modulr. For us to consider the complaint, the Investigator 
+said that Mr M needed to be a customer of Modulr in relation to the activity which he is 
+complaining about  i.e. the transfer of cryptocurrency from his account to that of the 
+scammers. 
+Mr M was unhappy with this response from the Investigator and so he asked for the case to 
+be reviewed by an Ombudsman. As a result, the case was passed to me. 
+Findings
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+I issued my provisional findings on this complaint in November 2022. I wasnt persuaded that 
+I had any grounds to uphold Mr Ms complaint. I wrote the following:
+I dont agree that the complaint is entirely outside of this services jurisdiction. B isnt 
+an authorised firm in its own right, but it is an agent of Modulr which is. That means 
+some of its activities fall within our jurisdiction. As a result of the relationship between 
+the two firms, in certain circumstances Modulr can be answerable for the actions and 
+inactions of B.
+Mr M used Modulr to make payments of fiat currency into a cryptocurrency wallet that 
+was maintained by B. The subsequent conversion and transfer of the cryptocurrency 
+is an unregulated activity and so I cannot consider it.
+The starting point in law is the B was expected to process payments when Mr M 
+asked it to do so and that Mr M is liable for any transactions that he authorised. 
+However, that isnt the end of the story. Good industry practice required that it should 
+monitor its customers accounts for activity that might be indicative of an increased 
+risk of financial harm due to fraud. This should include monitoring account activity for 
+transactions that are unusual or out of character. In some circumstances, it should 
+take additional steps, or carry out additional checks, before processing a payment, or 
+in some cases decline to make a payment altogether.
+If there were transactions that were significantly out of character, I wouldnt expect B 
+to simply take at face value that theyd been authorised by Mr M. However, Ive 
+looked at a history of activity on the account. This appears to have been a new 
+account. This meant it would be particularly difficult for B to identify a typical pattern 
+of usage so as to spot significant deviations from it.
+Its also important to note that his account with B isnt like a current account. There 
+are no regular credits or spending and it has only one purpose  i.e. to purchase 
+cryptocurrency from and withdraw funds back to a bank account. Taking that into 
+account, I dont think B wouldve had any reasonable basis for considering this 
+activity to be suspicious or that there was an enhanced risk of fraud.
+Ive also seen nothing to suggest that B could have known who controlled the 
+blockchain address that the funds were eventually sent to or that it had previously 
+been informed that it had any connection with fraud. I dont think there were any 
+checks it could have reasonably carried out on the ultimate beneficiary of the scam 
+and, since the funds were sent to a blockchain address, they were irrecoverable.
+I recognise that these findings will be hugely disappointing to Mr M. Theres no 
+question that he has been the victim of a cruel and cynical fraud. But Im restricted to 
+considering what Modulr and B have done. Essentially, while it is now known with the 
+benefit of hindsight that Mr M had been targeted by a scam, I dont think there 
+wouldve been any reasonable basis for either to recognise that risk given the 
+information that was available at the time.
+Mr M disagreed with the outcome I came to in my provisional decision and responded at 
+length. I have considered his submissions carefully, but Im afraid Im not persuaded to 
+depart from the view I took in my provisional decision. 
+Mr M has said that the account was opened specifically for and only used for the purchase of 
+cryptocurrency and that this should've been a trigger for an intervention on the part of B. I'm 
+afraid I'm not convinced. I think the implication here is that there should be a presumption 
+that any payment connected with cryptocurrency is fraudulent or highly likely to be so. It is 
+true that there are clear risks associated with buying cryptocurrency. However, I dont think it 
+follows that all transactions connected with such an investment are more likely than not 
+connected with an attempted fraud or that individuals who want to invest their money in 
+cryptocurrency shouldnt be free to do so.
+He's also suggested a range of questions that firms involved in facilitating the purchase and 
+exchange of cryptocurrency could ask customers to protect them from fraud. It is suggested 
+that these questions should be put to customers when opening new accounts and making 
+new payments. I can't say for sure whether, if firms had been expected to do so, it would've prevented Mr M from falling victim to this scam. Nonetheless, that wasn't the standard B was 
+expected to meet. I'm also mindful of the fact that, given the significant volume of 
+transactions that take place daily, it wouldn't be practical for B to stop and check each 
+individual payment, particularly if it's not unusual in the context of the other activity on the 
+account. It has to strike a balance between monitoring accounts and preventing fraud 
+without unduly hindering its customers general use of their account.
+Mr M has argued that a customer with a new account shouldnt be less protected from the 
+risk of fraud than one with an established account. However, significant changes in activity 
+are an important criterion when determining fraud risk. As a result, it is harder for a firm to 
+spot activity that might be fraudulent without a reasonable amount of historic data to serve 
+as a basis for comparison.
+Mr M has described in some detail the impact that this scam had on his personal life and the 
+difficult circumstances that he was dealing with at the time. I do fully recognise the appalling 
+impact that this crime has had on Mr M and his family. The person ultimately responsible for 
+that impact is the scammer. My remit is limited to considering the actions and inactions of B 
+and Modulr. Although I feel an enormous amount of sympathy for the position Mr M has now 
+found himself in, that doesnt give me grounds for directing Modulr to refund the money he 
+lost. 
+Mr M has pointed that hes had an account with the same bank for decades and that it 
+shouldve recognised that his spending had increased significantly. However, this complaint 
+isnt against that bank, but is against Modulr. If Mr M wants to make a complaint about a 
+failure by his bank to prevent this fraud then he would need to complain to it directly. If hes 
+unhappy with its response, hell be free to bring his complaint to this service. 
+Final decision
+For the reasons Ive set out above, I dont uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr M to accept or 
+reject my decision before 16 January 2023.
+ 
+James Kimmitt
+Ombudsman

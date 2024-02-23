@@ -1,0 +1,166 @@
+K821x#15complaint
+Mr C complains Coutts & Company didnt provide enough information  to his new bank 
+account provider  to allow a smooth and effective transfer of his current account to them.
+background
+Mr C had a current account  with Coutts. In March 2019, he wanted  to transfer his account to 
+a new bank, and initiated a transfer using the current account switch  guarantee  scheme.
+The account  switch  didnt run smoothly, and some of Mr Cs direct  debit instructions werent  
+transferred to his new bank. This was because  of the way some of Mr Cs historic direct  
+debits were set up  Coutts used to allow a customer to set up direct debits using a cheque 
+book number rather than the account number itself. Coutts notified customers  in 2016  they 
+must stop using this method for new direct debits.  But it did develop  an internal fix to 
+identify existing debit  instructions, to make sure these payment requests continued to be 
+honoured without  any problem. So, the direct debit instructions Mr C had set up using this 
+old process continued to be paid as normal.
+However, this internal  fix didnt capture the older  instructions when a customer  transferred  
+their account  using the switch guarantee service. Coutts told us where  a customer  started an 
+account switch  process  and provided  their new bank  with their cheque book number  and 
+not the actual  account number - any direct  debits set up using the cheque book method 
+wouldnt be redirected. This is what happened here.
+Shortly after the switch  request  was made,  Coutts wrote to Mr C to tell him that a number of 
+the regular payments and debits on his account   those set up using the cheque-book  
+number method  may not be transferred to his new bank. Coutts told Mr C that hed need  to 
+contact each payment  or debit originator to advise  them of his new bank account details. In 
+fact, some  of Mr Cs direct debits werent  successfully switched, and went  unpaid.
+Mr C complained to Coutts.  He believed that Coutts  had developed  a system that allowed 
+cheque-book direct debits to continue to work, so that system should also work in an 
+account switch  situation. His account switch hadnt worked as it should have, and hed 
+suffered inconvenience as a result. Coutts  didnt uphold the complaint,  so Mr C brought his 
+complaint to us. One of our investigators  reviewed the complaint, but didnt think Coutts 
+should have done anything differently. She concluded Mr C was told in 2016  about the 
+change in account number, and it was up to him to have  updated his direct debit receivers 
+with his correct  account  number  the switch failure  process wasnt a bank error.
+Mr C was unhappy with this outcome and asked for an ombudsman to look at the complaint.
+my provisional findings 
+I have previously issued  my provisional  findings in this case,  in which  I reached  the following 
+conclusions.
+The account  switch  guarantee service, operated by BACS, allows an account holder to move 
+their bank account  the switch  to a new bank. It states, amongst other things:
+We have designed the Current Account  Switch  Service to let you switch your current  
+account from one bankto another in a simple, reliable and stress-free way
+Ref: DRN25656082We will take care of moving  all your payments  going out (for example, your direct 
+debits and standing  orders) and those coming in (for example your salary)
+The guarantee makes  the new bank responsible for making sure the switch is effective. but it 
+also has to rely on full information being provided  by the existing bank. Ive seen that Coutts 
+did this  it provided details of every one of Mr Cs payment instructions to his new bank.
+I asked what happens when a failed payment request  to Coutts was made post-switch  and 
+was told these were captured by the BACS system  and returned  to the requestor. Coutts 
+advised it didnt  see these failed requests, so couldnt have done anything  to alert Mr C 
+about them  or been aware generally if any requests  werent being  honoured.
+I acknowledged Mr C used the wrong  account  number for the switch   and had he used the 
+correct one its likely none of the subsequent problems would have occurred. Coutts  has told 
+us it advised all their customers, in 2016,  there was an issue  with using the wrong  account  
+number on payment instructions. It reissued new cheque  books  showing the correct  account 
+number. I was satisfied  these would have been sent to Mr C, and so Mr C was likely aware 
+what his correct account number was at the time of his switch application  and concluded 
+he most likely  made a simple mistake  using the wrong number for the switch process.
+I also asked Coutts  how it communicated with Mr C after becoming aware the switch  may be 
+problematic. Coutts advised  it had two processes  a letter was sent listing all of the 
+payment instructions on Mr Cs account  that may be affected, and also an internal message 
+was generated  to Mr Cs private banker asking her to contact him. I havent seen a copy  of 
+the message,  but Ive been told it was a prompt for her to contact Mr C to suggest he re-
+attempt the switch using the correct number. Coutts  has told me no such contact was made, 
+and the first communication the private  banker had with Mr C (post-switch)  was after hed 
+raised his complaint  over one month later. I concluded that, had the private banker 
+contacted Mr C as she was supposed  to do, hed likely  have been  alerted to the problem 
+almost on day one. Given this, I thought its more likely than not  aware what the potential  
+problems could be - hed have made a further  correct switch application.
+So, put simply, I thought Mr Cs initial  mistake caused the problem,  but Coutts failure  to 
+follow its own guidance by contacting  Mr C prevented the fallout from that mistake  from 
+being mitigated   i.e. the missed payments, fees and inconvenience experienced by Mr C.
+Mr C advised hed incurred some fees  amounting to £263 - as a result of missed 
+payments, and I considered who should  be responsible  for meeting these. Under  the switch 
+process the new bank  only covers  costs that are attributable to its own actions  or mistakes. 
+These fees werent  incurred because of the actions of the new bank. So, that left either  Mr C 
+or Coutts.  And because I thought the actions/inactions of both Coutts and Mr C helped 
+cause these fees to be incurred, I said the fairest outcome here would be for this cost to be 
+evenly split, and Coutts should reimburse Mr C half of this sum - £131.50. And I concluded 
+Coutts should also pay £75 to Mr C to compensate for the inconvenience experienced by 
+him as a result of their mistake.
+Finally, Mr C had asked  for a proper  enquiry  into the way Coutts manages its account 
+switching procedures. I advised the Financial  Ombudsman Service  is set up to resolve 
+disputes, and not to review or tell a bank how its processes should work  this is a matter for 
+the Financial Conduct Authority, so I wouldnt be able to look at this part of Mr Cs complaint.
+Ref: DRN25656083response to my provisional  findings
+Both Mr C and Coutts have responded. Mr C doesnt believe he is partly  liable  for the failure 
+of the switch process. He makes the following comments in this regard:
+Coutts had set up an internal fix to deal with the account/chequebook number issue   it 
+was aware this was a problem issue and a workaround had been created
+Before the switch, all direct debit payments were made,  and cheques  accepted  bearing  
+the original account number,  to allow the account to continue to run smoothly
+And so, Mr C was entitled  to assume  all further  dealings involving the cheque  book 
+account number  would provide the same  level of service as with any other  number which 
+Coutts was able to recognise. And this would include the switching process
+Coutts decided  not to invest in the necessary IT systems to ensure a successful switch 
+operation. It had a system that auto-generated  an internal message  which it didnt 
+react to  so there was knowledge  switching was an issue. It wasnt Mr Cs fault Coutts 
+chose not to create the necessary IT fix
+And finally, Coutts cant absolve  itself of blame by printing out a sheet of bank payments 
+and simply sending  it out - that is not the point of the switch guarantee
+Coutts is also unhappy with my provisional  decision. Coutts  says it did all it needed  to do 
+under the switch and shouldnt be liable for events caused by Mr Cs mistake  using  the 
+wrong account number.  So Coutts says it shouldnt be liable for half of Mr Cs fees. And 
+Coutts disagree with my conclusions regarding its personal banker failing to contact  Mr C, as 
+its internal guidelines said she should have done,  after realising Mr C had attempted  the 
+switch using the wrong number. Coutts  maintain it did make Mr C aware of the switch 
+problem by writing to him as soon as it became aware, but he took no action.
+my findings
+Ive reconsidered  all the available evidence and arguments to decide  whats  fair and 
+reasonable in the circumstances of this complaint.
+From my review of the circumstances the outcome  here is essentially  dependent on whether 
+Coutts followed its own internal processes sufficiently and notified  Mr C of the potential  
+problems his switch  request  might encounter. Coutts  has confirmed it had two processes  
+sending the letter mentioned above,  and Mr Cs personal banker making contact.
+Coutts say by sending this letter it complied  with its internal guidance about alerting Mr C to 
+the potential switch problem as soon  as it became aware. Ive seen a copy of this letter  - 
+populated with the details  of Mr Cs various monthly  payment transactions   over 60 in total - 
+which the letter says may not automatically redirect. But the letter  doesnt  say Mr C used  
+the wrong account number when completing  his switch application  instead it says an 
+incorrect account number  was used when setting up certain regular payments. And the 
+letter doesnt  advise  Mr C he could re-attempt  the switch  using  the correct  account number. 
+Instead it simply advises him to contact the originators of each of the payments mentioned  to 
+advise them of his new bank details.
+And regarding  the issue  of the private banker  alert,  Im told this was an auto-generated 
+message sent to the private  banker as soon as Coutts system registered  the application. But 
+Ive been told the private  banker made  no contact. Coutts hasnt referred to its private 
+bankers failure  to contact Mr C in its response  to me.
+Ref: DRN25656084Coutts says it did everything it could  or should have done in the circumstances. Ive agreed 
+previously that, as part of the BACS switch process itself,  Coutts  did all it was required to do 
+in terms of providing Mr Cs payment information to his new bank, and Ive seen nothing  that 
+leads me to change  my mind on this point. The issue is one of customer  service, around the 
+internal processes Coutts has to help its customers through this process  separately to the 
+formal switch process  and whether  these  were followed.
+But Coutts  letter to Mr C wasnt sufficiently clear regarding why his switch may not work, nor 
+did it give clear advice  about how ultimately to resolve the problems  caused   re-attempt 
+using the correct number. And Coutts  didnt  follow  its other  internal  process  properly - Mr Cs 
+private banker  contacting him to alert him of the problems. Yes, this situation  was initially 
+triggered by Mr C using  the wrong  account number. But I dont think  Coutts  then did enough 
+to prevent the problems subsequently experienced by Mr C, or acted in line with its own 
+processes.
+So, Ive havent  seen anything further from either  party  for me to change  my mind  here,  or 
+my proposed  outcome. Mr C did incur some fees as a result of the problems he experienced 
+after the switch.  Both parties made  mistakes that contributed  to those fees being  incurred, I 
+think the fairest outcome is for each party to assume  equal responsibility for these. As I said 
+before, that means Coutts must  repay 50% of those fees to Mr C. And it must  also pay £75 
+as compensation  for the distress and inconvenience experienced by Mr C.
+my final decision
+So, for the reasons set out above, my final decision  is that I uphold this complaint, and 
+require Coutts  & Company to do the following:
+Pay £131.50 to Mr C as contribution  to the fees hes incurred following problems 
+associated with his account switch application.
+Coutts must also calculate  and pay Mr C 8% simple interest* on this sum, broken down 
+as follows:
+oIn respect of the first £5.50, pay 8% simple interest from 16 April 2019, the day 
+the fees were  incurred,  until the date of settlement
+oIn respect of the remaining  £126,  pay 8% simple  interest  from 31 May 2019, the 
+day the fees were  incurred, until the date of settlement
+Pay a further  £75 to Mr C, as compensation for the inconvenience experienced during 
+his account switch process.
+Under the rules  of the Financial Ombudsman Service,  Im required to ask Mr C to accept or 
+reject my decision  before 2 May 2020. 
+Mark Evans
+ombudsman
+*If Coutts and Company  considers that its required by HM Revenue & Customs to take off income tax from that 
+interest, it should tell Mr C how much it has taken off. It should also give Mr C a certificate showing this if they ask 
+for one, so they can reclaim  the tax from HM Revenue & Customs if appropriate.
+Ref: DRN2565608

@@ -1,0 +1,179 @@
+DRN-3568510
+The complaint
+Mrs F complains Monzo Bank Ltd wont reimburse her in full for money she lost when falling 
+victim to a bank impersonation scam.
+What happened
+In March 2021, Mrs F received texts purportedly from another bank she is a customer of, 
+which Ill call B, to ask if she had made a payment of £253.99. When she replied N she 
+was told shed be contacted. It transpires this text and the following calls were actually from 
+scammers pretending to be Bs fraud department.
+Mrs F says the callers knew her bank details, personal information and had seen fraudulent 
+activity including payments to Deliveroo and Mercedes. She says they explained her two 
+current accounts with B had been compromised and they would need to set up two new 
+accounts for her. It isnt entirely clear how the scammers had access to Mrs Fs accounts 
+with B. But she reports she was told fraudsters had taken out overdrafts  totalling £2,000 - 
+on her accounts and everything needed to be transferred to Monzo to prevent loss. Mrs F 
+agreed to the transfer into her Monzo account.
+She says she was then notified two new accounts had been set up with B and account 
+details were provided for her to move her money back to it. When she attempted it initially, 
+she received a message that the payee  her  didnt match the account destination. So she 
+was given another name to use, and was told it was the name of a branch manager for B. 
+She then received a further warning, in which Mrs F confirmed she was transferring money 
+to a safe account. Mrs F not only sent back the £2,000, she also sent an additional £2,958 
+that had been held in her Monzo account  this was done in two payments. It isnt entirely 
+clear why this was done but it appears Mrs F was told the fraudsters had access to her 
+Monzo account also. During this time, Mrs F says she searched the number she was called 
+from and realised it was a scam.
+Mrs F reported the matter to Monzo. It refunded £2,958 that she had lost from her Monzo 
+account. But it refused to reimburse the £2,000 as it said that had been unauthorised lending 
+and so should be the responsibility of B. Not happy with that, Mrs F asked us to look into her 
+complaint.  Our investigator upheld the complaint. She said that, under the Lending 
+Standards Boards Contingent Reimbursement Model (CRM), Monzo should reimburse 
+customers who are victims of authorised push payment scams except in limited 
+circumstances; and she didnt think those circumstances applied here. (Although not a 
+signatory of the CRM, Monzo has agreed to adhere to it). The investigator upheld the 
+complaint as:
+She wasnt persuaded Monzo had provided an effective warning when the 
+payments were requested.
+She was satisfied Mrs F had a reasonable basis for belief that her account 
+with B was compromised and that she needed to take action.
+As Mrs F had selected safe account it ought to have known she was risk of 
+losing money and paused the payment to ask further questions.
+Monzo asked for the matter to be referred to an ombudsman. In summary, it says:
+It doesnt believe it should be reimbursing the £2,000 that was unauthorised 
+lending from B. It believes B should be responsible for reimbursing this.
+It provided an extract from some guidance where it suggests the loan provider 
+will be liable for making good an unauthorised loan and so it doesnt believe it is 
+responsible for this.
+On 24 May 2022, I issued my provisional decision explaining why I wasnt going to ask 
+Monzo to pay any more compensation than it already has. Monzo has confirmed it agrees 
+with the outcome reached. We havent heard from Mrs F, despite following the matter up 
+and providing extra time for a response. It is now appropriate to move the complaint to 
+this final stage and in doing so, I have assumed Mrs F has nothing further to add.
+As neither party has provided any further submissions for me to consider, I see no reason to 
+alter my provisional findings. I therefore make them final below. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+In broad terms, the starting position is that a payment service provider is expected to 
+process payments that its customer authorises, in accordance with the Payment Services 
+Regulations 2017 (PSRs), which apply to this complaint, and account terms and conditions. 
+But where a customer made a payment as a result of the actions of a scammer, it may 
+sometimes be fair and reasonable for a payment service provider to reimburse its customer, 
+even though the payment was authorised.
+In considering this, I have taken account of whether Monzo ought to have reimbursed Mrs F 
+under the provisions of the CRM code, and whether it ought to have done more to protect 
+her from potential financial harm from fraud. The Code also places a level of care on Mrs F, 
+and so I have considered whether she met this.
+The CRM Code
+The CRM Code requires payment service providers to reimburse customers who have been 
+the victims of authorised push payment (APP) scams like this, in all but limited 
+circumstances. It is for Monzo to establish that a customer failed to meet a requisite level of 
+care under one, or more, of the listed exceptions set out in the CRM Code.
+Those exceptions are:
+The customer ignored an effective warning in relation to the payment being made.
+The customer made the payment without a reasonable basis for believing that:
+othe payee was the person the customer was expecting to pay;
+othe payment was for genuine goods or services; and/or
+othe person or business with whom they transacted was legitimate
+o
+There are other exceptions which arent applicable here. So I need to consider whether any 
+exceptions apply to Mrs Fs case.
+Was there an effective warning?The CRM Code sets out that an effective warning should enable a customer to understand 
+what actions they need to take to address risk and the consequences of not doing so. As a 
+minimum the CRM Code sets out that an effect warning should be understandable, clear, 
+impactful, timely and specific.
+Monzo has provided a copy of the warning that was provided to Mrs F. Initially the customer 
+is asked what the payment is for  amongst a number of options is Transfer to a safe 
+account. Once that option is selected the customer is taken to an additional screen which 
+has a warning triangle, and underneath says:
+Stop, dont pay
+Its very likely this is a scam
+Remember
+X Monzo will never call you 
+without arranging by email or in-
+app chat first
+X Other banks will never ask you to 
+move money out of your Monzo 
+account.
+I have considered the warning carefully. And although I accept this is written in clear 
+language and is provided at a timely place within the payment journey, Im not persuaded its 
+impactful or specific. Although it tells the customer not to pay, it doesnt set out the 
+consequences of proceeding; Monzo has said in its submissions that the warning clearly 
+states that it is almost impossible to reclaim money, but this doesnt feature in the warning 
+information it says Mrs F saw. And although it says other banks will never ask you to move 
+money out of Monzo, there is nothing about scammers pretending to be banks within the 
+warning.
+Overall, Im not minded to find the warning was effective. I do, however, think it relevant to 
+take into account when deciding if Mrs F had a reasonable basis for belief, which I come on 
+to below.
+Should Monzo have intervened?
+I have taken account of section SF1(5) of the CRM which says:
+Where a Firm has sufficient concern that a payment may be an APP scam, it should 
+take appropriate action to delay the payment while it investigates.
+Where Firms have concerns, Firms should intervene on a risk-based approach to 
+delay execution of the payment authorisation to the extent possible within the limits of 
+the law and regulation, taking reasonable steps to communicate with the originating 
+customer.
+I think it fair to say, at the point Mrs F selected transfer to a safe account when indicating 
+the purpose of the transfers, Monzo was on notice that she was more likely than not falling 
+victim to a scam; Im not aware of any legitimate scenario involving a safe account. It 
+therefore should have had sufficient concern that she was at risk of financial harm such that 
+it ought to have delayed the payments and spoke to Mrs F before allowing them. Im 
+satisfied an intervention of the type set out in the CRM would have been sufficient to stop 
+Mrs F in her tracks and so Monzo could have prevented her loss.Should Monzo be liable for the £2,000 transferred from B?
+The scammers had access to Mrs Fs accounts with B. And as part of the scam was able to 
+effect two overdrafts, one on each of the accounts held with B. Mrs F says she was told the 
+fraudsters who had access to her accounts had taken out the overdrafts and she needed to 
+move the funds in order stop the fraudsters having access to them. As a result she 
+authorised the moving of the funds from B to Monzo in order to protect them.
+I do take Monzos point that the lending here was unauthorised; Mrs F hadnt taken out the 
+overdrafts nor agreed to them being taken out. But the transfer from B to Monzo was in fact 
+authorised  she agreed for the transfer to take place to protect the funds. Im satisfied that 
+once the funds were within Mrs Fs account with Monzo, they became its responsibility to 
+safeguard from the risk of fraud and scams, in line with its duties and obligations.
+I have considered the information provided by Monzo, which appears to be a form of 
+guidance in relation to reimbursement of funds if unauthorised lending has occurred. It goes 
+on further to say any unauthorised lending should be referred back to the lender. However, 
+this doesnt appear to be part of the official CRM nor its accompanying practitioners guide. I 
+have therefore placed little weight on this in reaching my conclusion in the paragraph above.
+Did Mrs F have a reasonable basis for belief?
+Under the CRM Code Monzo can choose not to reimburse Mrs F if it doesnt believe she 
+took the requisite level of care to ensure she had a reasonable basis for belief that the 
+person/business she was paying was legitimate and for genuine goods or services. It isnt 
+enough for Mrs F to believe that she was paying a legitimate business for genuine goods or 
+services, she had to have a reasonable basis for belief. And its here that I disagree with 
+some of the investigators findings.
+I accept that Mrs F was under the impression that her accounts with B had been 
+compromised. I also accept the scammers were very convincing  they knew personal 
+details about her and seemingly wanted to help her keep her money safe. However, it isnt 
+clear why Mrs F accepted the texts that started the scam process as legitimate. They werent 
+sent from a number spoofed to look like Bs, nor did it enter into any previous chat or text line 
+that Mrs F had had with B previously. Rather the text came from a mobile number which isnt 
+how a bank would usually contact its customer.
+Further, its unclear why, having been told two new accounts had been opened with B that 
+Mrs F sent not only the £2,000 back, but also the money she had held in her Monzo account. 
+There is some indication in Monzos file that she was told the scammers were in contact with 
+Monzo as well, but its unclear why Mrs F believed B would have had access to Monzos 
+systems in order to know that.
+But more important, is that Mrs F was told by Monzo not to pay, and that she was likely 
+falling victim to a scam. Further, the warning also said that other banks would never ask her 
+to move money out of her account. Whilst I didnt find the warning effective, once Mrs F saw 
+this, Im satisfied she no longer had a reasonable basis for belief that the payment was for 
+genuine goods or services, or that the person or business with whom she was transacting 
+was legitimate.
+Under the CRM Code where a business has failed to provide an effective warning, but the 
+customer hasnt met the requisite level of care, each party will accept equal responsibility. In 
+these situations the CRM Code requires the payment service provider/bank to reimburse 
+50% of the losses. Although I have found Monzo could have done more, I find that a fair way 
+to resolve this complaint  as I have found Monzo didnt provide an effective warning, but that Mrs F hadnt met the requisite level of care to ensure she was paying a legitimate 
+person or business or for genuine goods or services.
+Monzo has already reimbursed Mrs F £2,958 which is over 50% of the total losses Mrs F 
+incurred. Im therefore dont require it to reimburse anything more.
+My final decision
+For the reasons given, my final decision is that I dont uphold this complaint. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mrs F to accept or 
+reject my decision before 27 July 2022.
+ 
+Claire Hopkins
+Ombudsman

@@ -1,0 +1,132 @@
+DRN-2931475
+The complaint
+Miss S complains that National Westminster Bank Plc (NatWest) declined to return 
+payments from her account that she didnt authorise, and she experienced poor customer 
+service.
+What happened
+Miss S noticed several payments had left her account that she didnt recognise and 
+contacted NatWest about them. 
+NatWest looked into Miss Ss claim and after their investigation, they declined to return the 
+money. They held Miss S liable for the transactions, believing shed authorised them herself.
+NatWest said that the payments were made using Miss Ss mobile phone and location data 
+ known as Internet Protocol addresses (IP) showed that common locations had been used 
+prior to the disputed transactions. NatWest believed this showed Miss S was responsible for 
+the payments.
+Miss S denied shed made them and argued that the payments were sent to a payee in 
+Birmingham and some of the IP address data was related to that area.
+Miss S was at home at the time of the transactions and confirmed two close relatives live 
+with her but neither of them had access to her phone or knew the pass codes to use her 
+online banking. Miss S explained that she had recently used her debit card on a social media 
+site, and this could be the reason why the payments were made without her permission. 
+Miss S also said that her friends knew her passcodes to access her phone which were the 
+same as her banking app.
+NatWest investigated Miss Ss complaint and didnt change their position, but they did 
+acknowledge that theyd let Miss S down during a visit to a branch shortly after reporting the 
+disputed transactions where she was denied access to her funds. Miss S was given access 
+to her funds a few days later. Miss S also complained that NatWest failed to update her 
+address after shed let them know on a several occasions. NatWest awarded £30 to Miss S 
+as recognition for the poor service shed received.
+Miss S was unhappy with how the complaint was dealt with and brought it to our service for 
+an independent review. It was looked at by one of our investigators who thought NatWest 
+acted reasonably when they held Miss S liable for the transactions. She also thought the £30 
+awarded to Miss S was a fair level of compensation for the poor service.
+Miss S disagreed that she made the disputed transactions and asked for an ombudsman to 
+review the complaint. Its now been passed to me for a final decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+The relevant law surrounding authorisations are the Payment Service Regulations 2017. The 
+basic position is that NatWest can hold Miss S liable for the disputed payments if the 
+evidence suggests that its more likely than not that she made them or authorised them. 
+Authorisation is made up of two parts, authentication and consent. Authentication is usually 
+referred to as the technical evidence that NatWest are required to show about how a 
+payment was made. In this case, several faster payments were made using Miss Ss mobile 
+banking facility and the audit data shows that Miss Ss regular device was used to set up and 
+make the payments and Im satisfied NatWest have demonstrated that the payments were 
+authenticated.
+The second part, consent, refers to the agreement between Miss S and NatWest about how 
+instructions are made that NatWest will accept as a legitimate authorisation to carry out 
+those instructions. The terms and conditions list various examples including use of a debit 
+card or the mobile banking service. So, where the correct method was used  in this case 
+the mobile banking service, and because the payments were properly authenticated, it 
+follows that Im satisfied the transactions were authorised. But, there are exceptions to this 
+as it wouldnt be fair for NatWest to hold Miss S liable if she didnt agree to the payment.
+Theres some reliance on the IP addresses by both parties to support their cases. Miss S 
+has said that some of the data shows a Midlands location and as shes not from there it 
+couldnt have been her. NatWest have provided evidence that the IP address used to make 
+the payments matches one thats been previously used for successful mobile banking 
+activities by Miss S. IP addresses dont always show specific locations of the device, they 
+can identify other locations used by the internet provider as well. But here theres evidence 
+that the registered device used by Miss S made successful transactions that she hasnt 
+disputed from the same IP address that the disputed transactions were made from.
+I dont think the actual location is as important as the consistency of the location data. Where 
+the IP address shows the same location for both successful and disputed transactions, as it 
+does here, I think this demonstrates Miss Ss device was more than likely used from a 
+location previously linked to Miss S.
+Miss S said she lives with close family and she didnt think they knew how to access her 
+phone. Miss S said she arrived home mid evening and the only others present were her 
+close family members. I dont think it likely the payments were made from close family, even 
+if they knew how to access the phone. Thats because the phone was kept in her room and 
+the disputed transaction took place over about an eight-hour period, including one which was 
+made very early in the morning. This would mean someone entering her room and taking the 
+phone on different occasions and replacing the phone which doesnt seem likely with Miss S 
+in the room.
+Miss S said some of her friends do use her phone and the pass code is the same for her 
+banking app, but I dont think its likely that one of her friends used her phone because they 
+werent present at Miss Ss home when the payments were made.
+There was a successful payment made from Miss Ss mobile device earlier that day which 
+hasnt been disputed. Audit records show that the device reference number stayed the same 
+for both the successful and the disputed transactions. This indicates it was the same device 
+used for all the payments.
+The disputed transactions start around the time that Miss S said she arrived home and 
+continued into the evening, with the last one early the next morning. There were five faster payments made from the account, four to one person and a fifth to another. They start with a 
+small amount of £15.00 and increase to £250.00, the total amount paid out of the account 
+was £705.00. If the transfers were as a result of an unknown third-party accessing Miss Ss 
+device, they would also have access to the full mobile app and be able to tell exactly what 
+funds are available. I find it unusual that a fraudster would make so many relatively small 
+payments to two different people over an eight-hour period. It would have been much easier 
+and less risky for a thief to limit the number of transactions and do them over a shorter 
+period of time to minimise the losses being detected.
+NatWest have explained that when their fraud team looked into the transactions, their 
+system notes identified that Miss Ss fingerprint was used to access the mobile banking 
+service, although Miss S has said this wasnt the case. The audit data is no longer available 
+for me to examine, but I have looked at the notes made at the time by the bank which record 
+the information the bank relied on, including the use of fingerprint evidence (touch 
+identification) to access the mobile banking service.
+I appreciate Miss S has said this wasnt the case, but the banks records were created at the 
+time the incident was reported by Miss S, and its unlikely that this was incorrect, as the rest 
+of the audit data supplied matches the information in the report. So, I think that its more 
+likely than not that biometric data (the fingerprint) was used to access the mobile banking 
+service on Miss Ss phone. The use of such security makes it unlikely that it was anyone 
+other than Miss S who used her phone and set up the payments through her mobile banking. 
+But, even if Miss Ss device was accessed using the passcodes, Ive already discounted that 
+its likely to be anyone else in the house.
+Ive also considered the possibility that her device was hacked after Miss S used her debit 
+card details on a social media website some time before the disputed transactions 
+happened. Because the disputed transactions used the faster payment system, Miss Ss 
+debit card wouldnt have given anyone the appropriate security details to make the 
+payments. The faster payments needed access to Miss Ss bank account and were 
+payments to other bank accounts rather than debit card payments. So, I dont think its likely 
+that the use of a debit card led to the setting up of faster payments Miss S has disputed.
+Miss S did suffer a previous incident with her account about six months earlier and Ive 
+considered if this previous problem with her mobile banking was the likely cause of this one. 
+Since this event, the account has had funds consistently available for a thief to remove if 
+they continued to have access from the earlier event, and none were taken. I dont think its 
+likely that a thief would wait for six months to take money from the account and theres no 
+record of another device being used to access the account.
+At the time Miss S reported the disputed transactions she was denied access to her money 
+for several days, which the bank apologised for and paid £30 as compensation for the poor 
+service. The bank also recognised that theyd let Miss S down when the didnt update her 
+address details when she asked them to. Miss S had to visit the bank a second time to get 
+access to her funds and whilst this was inconvenient, I think the £30 compensation is a fair 
+recognition of the way that NatWest let Miss S down with their poor service.  
+Taking everything into account, Im satisfied that it was more likely than not, that Miss S 
+authorised the transactions and it was reasonable for NatWest to hold her liable for the 
+payments. The compensation paid to her for the poor customer service was a fair response 
+from NatWest and I wont be asking them to do anything further. 
+My final decision
+My final decision is that I dont uphold this complaint against National Westminster Bank Plc.Under the rules of the Financial Ombudsman Service, Im required to ask Miss S to accept 
+or reject my decision before 27 November 2021.
+ 
+David Perry
+Ombudsman

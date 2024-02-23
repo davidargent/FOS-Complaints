@@ -1,0 +1,202 @@
+DRN-4520580
+The complaint
+Mr H complains that Clear Score Technology Limited will not onboard his bank meaning he 
+is unable to use Clear Scores account information services in respect of his bank account.
+What happened
+Background
+Clear Score is a financial technology business. One of the financial services Clear Score is
+authorised to provide is account information services. An account information service is an
+online service which provides consolidated information on one or more payment accounts
+held by a payment service user with another payment service provider.
+Mr H wanted to link his bank accounts to Clear Scores app. Clear Score would then be able
+to use the information from Mr Hs bank accounts to give personalised insights and offers
+when providing his credit score, reports and spending analysis.
+At the time of the events complained about, Mr Hs payment accounts were not provided by
+one of the nine largest banks in the UK. His bank had made an Open Banking API
+(application programming interface) available for integration, but it wasnt shown in the Clear
+Score app because Clear Score had not integrated. As a result, Mr H could not use Clear
+Scores account information services in respect of his bank account.
+Mr Hs complaint
+Mr H explains that he contacted Clear Score about the possibility of connecting with his bank
+three times, but did not receive any acknowledgment or reply so had no option but to raise a
+complaint. Hes provided copies of the emails that he sent to Clear Score in February and
+March 2022 that went unanswered.
+When Mr H didnt receive a final response from Clear Score, he referred the matter to this
+service. He wanted us to direct Clear Score to integrate with his bank. He also made a
+complaint about the bank, which is being considered separately. He said the Financial 
+Ombudsman Service is uniquely placed to request the bank and Clear Score to work
+together.
+Clear Score responded to us. It explained that initially it was not in collaboration with Mr Hs
+bank, but it had passed the request to integrate on to the relevant team. Clear Score says
+that it did then try to onboard Mr Hs bank, but was unable to provide him with business
+confidential information about the onboarding process. 
+Clear Score indicated to us that it thought the link was operational, and then that it would be 
+operational in late Summer 2022. It said it should have handled Mr Hs correspondence 
+better than it did and explained it had provided feedback to its staff.
+When Mr Hs complaint was allocated to our Investigator, he explained that the app still
+wasnt linked to his bank and provided screenshots to show it was not supported.
+Around the same time, Mr H contacted Clear Score again. It told him it had made a mistake
+when it had said his bank was available to link with. It apologised for the disappointment of it
+not being available yet but said the delay was at the banks end, so was out of Clear Scores
+control.
+Our Investigator considered the matter but did not recommend it should be upheld. He said
+Clear Score arent required to link with Mr Hs bank. His investigation concluded that the
+problem preventing the integration from being successful had been at the banks end.
+Mr H didnt accept the Investigators view. In summary, he said some compensation ought to
+be considered on account of the misinformation provided by Clear Score and the length of
+time taken to get traction on the issue. He felt not upholding the complaint suggested Clear
+Score had done nothing wrong and that the complaint was without merit, which is not the
+case. Mr H wanted to know when onboarding would become an option and requested a
+clearer explanation as to how it was being taken forwards. He explained hed had a poor
+experience, having got his hopes up only for them to be dashed again.
+As no agreement could be reached, the complaint was referred to me. 
+My further investigation
+When the complaint was referred to me, I contacted Mr Hs bank to find out why the attempt
+to onboard had failed and whether the issue had since been rectified. The bank responded
+to say there were no barriers to onboarding currently and the previous issues had been
+resolved.
+I asked Clear Score whether it would consider attempting to integrate with the bank again
+now the problem appears to have been rectified. Clear Score responded to say that there
+were no current plans to onboard with this particular bank as there is not sufficient demand
+for it. Clear Score explained that connections with other financial institutions are taking
+priority.
+Mr H was disappointed. He said that as a customer of a smaller bank he is disadvantaged
+and facing an invisible block to Open Banking services, now not because of technology but
+down to commercial feasibility. He suggested there was a competition issue if customers
+must move to a larger bank to be able to access the full range of Open Banking services,
+creating a situation that is not financially inclusive.
+Mr H explained that his affordability score in Clear Scores app was low because it is unable
+to link to his bank accounts.
+Whilst the complaint has been with me, Mr Hs bank decided to move away from the retail
+banking market and gave Mr H notice of its intention to close his accounts. Clear Score
+provided me with a list of the organisations that have successfully onboarded with its
+services, which I shared with Mr H to assist him.
+My provisional decision 
+After considering everything that both sides had said and provided, I was minded to reach a 
+different outcome to our Investigator. I issued a provisional decision which forms part of this 
+final decision on 24 November 2023. My findings are included below:
+Onboarding Mr Hs bank
+I understand Mr H wants to fully utilise the benefits and opportunities that Open Banking
+presents. But I have to decide whether Clear Score is required to onboard Mr Hs bank andwhether it has acted unfairly or unreasonably by ultimately not doing so.
+I have looked at Clear Scores terms and conditions. They set out what Mr H can expect
+from them, and they govern how the relationship between them will work. The terms say that
+Clear Score may change the content or functionality of its apps, website or any other method
+which allows access to its services at any time. They also say that Clear Score cannot
+guarantee that its website or apps or any content on them or provided as part of its services
+will always be available, uninterrupted or error free. Clear Score has not made any
+commitment that its product will always be fully compatible with every financial institution.
+Clear Score has explained that this particular bank was not a priority for it to integrate with
+and so has made a commercial decision not to pursue integration at this time. It has
+explained there was not sufficient demand for it. It is for Clear Score to decide the
+circumstances in which it will connect to account servicing payment service providers. The
+bank Mr H was with has a smaller customer base and, as such, a limited scope. Clear Score
+is entitled to make this commercial decision.
+Clear Scores operational priorities have changed. I accept it is disappointing for Mr H that
+Clear Score decided against integration, but I am not a regulator and I do not have the
+power to change the wider Open Banking ecosystem to facilitate increased participation for
+groups of end users that hold payment accounts with smaller firms.
+In my view, Clear Score has not acted unfairly or unreasonably towards Mr H by deciding not
+to pursue a connection to the bank at this time and I cannot compel it to when it is not
+obligated by law or regulation to do so.
+The service provided to Mr H
+Clear Score has already acknowledged that Mr Hs experience has not been smooth, so it
+should come as no surprise that Mr H has found this matter to be frustrating. It repeatedly
+didnt answer his correspondence when he initially asked about integration, ultimately
+resulting in him making a complaint. Hes gone to the trouble to raise this issue and hes
+spent further time contacting Clear Score to follow it up after being mistakenly told that the
+integration was in place.
+Whilst Clear Score did initially try to pursue integration with Mr Hs bank, and I do appreciate
+that the information Clear Score shared with Mr H about that progress was given in good
+faith, Im also mindful that Mr H has had to do much of the running here and there were
+periods of time where he was in the dark about what was happening. Although I accept
+Clear Score couldnt share commercially sensitive information about the processes and
+procedures that were happening in the background, it could have still explained to Mr H in
+general terms what was happening. Its clear that Clear Score took longer than Mr H was
+entitled to expect to respond to his queries and concerns.All of these matters have had an impact on Mr H. I dont think Clear Scores apology goes far
+enough given that both parties broadly agree that Clear Score did not provide the level of
+customer service that it ought to have done on more than one occasion. I think Clear Score
+has caused Mr H unnecessary distress and inconvenience, for which I consider £250 would
+be an appropriate award.
+Responses to my provisional decision 
+Mr H responded to say he would be happy to agree to my provisional decision.
+Clear Score didnt agree with everything that Id said. It acknowledged that Mr Hs 
+experience had not been smooth, and it agreed that there had been mistakes, but it also 
+considered there had been mitigating circumstances and factors outside of its control that 
+should be taken into consideration. 
+Clear Score pointed out that the provisional decision was the first time it had been raised 
+that Mr H had tried to get in contact in February/March 2022. Clear Score said it had no 
+record of ever receiving those emails and asked me to provide copies so it could look into 
+what may have happened. It didnt feel it was fair to say these emails represented Clear 
+Scores customer service standards as it had no knowledge of them until now. It pointed out 
+that Mr Hs emails between 11 April and 2 May 2022 were answered within approximately 
+two days. 
+Clear Score said that it had told Mr H on several occasions that it didnt have answers 
+regarding potentially onboarding his bank and against that backdrop it was Mr Hs choice to 
+continue to engage on the matter. It disagreed that Mr H had been specifically 
+inconvenienced in a way that Clear Score could or should have mitigated. It highlighted that 
+Mr Hs credit score had been perfect during the life of this case, putting him in the best 
+possible position to access credit through Clear Score if he had wished to do so. It said there 
+was no reason to believe that Mr H would have been in a better position to access credit or 
+benefit from Clear Scores services had any of this turned out differently. 
+Clear Score said it regretted that it had told Mr H that his bank had been onboarded in error 
+and recognised the experience would have been frustrating, but it felt an award of £250 was 
+steep and implies a more significant degree of inconvenience and harm than what was 
+caused. It suggested £100 would be more appropriate. 
+I contacted Mr H to let him know what Clear Score had said. He felt £250 was reasonable in 
+the circumstances. He was surprised that Clear Score didnt have any record of his earlier 
+emails and felt that it was trying to reduce the seriousness of the failings. 
+Clear Score followed up to say it had searched but had no record of the emails in its 
+systems. It speculated that the emails had never arrived because they didnt have any 
+reference number or input from its auto responder in the thread at any point. It couldnt 
+explain exactly why this happened as it no longer had relevant records from Spring 2022. It 
+speculated the messages could have been caught in a spam filter but acknowledged that it 
+had previously corresponded with Mr H using the same email address with no issues.
+Clear Score acknowledged that Mr H wouldnt have known to expect an auto response or a 
+reference number and accepted it would have looked poor on his end, but said it was 
+surprised that Mr H didnt reference the lack of response when he contacted Clear Score 
+successfully at a later date. 
+As both parties have now had the opportunity to consider and respond to my provisional 
+decision and no agreement has been reached, I shall now consider the matter afresh. What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Following my provisional decision, both sides broadly agree that Mr H has encountered 
+difficulties and that his time was wasted when he was erroneously told a successful 
+integration with his bank was in place. 
+As such, the only matter that remains outstanding is that of fair compensation. Mr H agrees 
+£250 is appropriate to recognise the impact Clear Scores handling of this matter has had on 
+him, Clear Score considers there are mitigating factors to consider. It feels the award is on 
+the high side. It has pointed out that Mr H decided for himself to continue to follow up on the 
+integration despite being told there was no time frame for when his bank might be added.
+It is not the role of this service to penalise Clear Score, only to ensure that a consumer is 
+compensated fairly. The aim of a distress and inconvenience award is to recognise the 
+emotional or practical impacts of a mistake.
+I appreciate Clear Scores point that it wasnt able to respond to emails that it didnt receive. 
+But Clear Score has also acknowledged that from Mr Hs perspective, there was no way for 
+him to know that those messages had not arrived, especially as he was contacting Clear 
+Score from an email address that hed used previously without any issues. There is no 
+dispute that Mr H was contacting Clear Score using the correct contact details. As such, 
+I dont think it was unreasonable for Mr H to assume his messages had been safely received 
+and I agree with him that it would have been annoying to not receive any reply. I dont think 
+the fact that Mr H didnt explicitly raise his annoyance in his future contact with Clear Score 
+means that he did not experience any frustration at all. I still consider that he would have 
+experienced some annoyance for which a modest compensation payment would be 
+appropriate. 
+Clear Score also acknowledges that Mr H experienced a loss of expectation when he was 
+told that there was a successful integration with his bank. After being told this, he took the 
+time to try and integrate his bank and was put to the effort and inconvenience of having to 
+follow the matter up to find out what was happening when it wasnt possible to connect. Ive 
+thought carefully about everything Clear Score has said and provided in response to my 
+provisional decision, but I still consider that the culmination of several errors have required 
+some reasonable efforts on Mr Hs part to follow up. In all the circumstances here, I still think 
+Mr H suffered some trouble and I dont think my proposed award overstated the impact of it 
+on him. 
+Putting things right
+I still believe its fair and reasonable that Clear Score pay Mr H £250 compensation for the 
+distress and inconvenience caused to him.
+My final decision
+For the reasons given above, my final decision is that Clear Score Technology Limited 
+should pay £250 compensation.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr H to accept or 
+reject my decision before 15 January 2024.
+ Claire Marsh
+Ombudsman

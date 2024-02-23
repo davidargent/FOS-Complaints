@@ -1,0 +1,171 @@
+DRN-3960300
+The complaint
+A company which I will refer to as T complains that HSBC UK Bank Plc is refusing to fully 
+reimburse the loss they suffered due to an authorised push payment scam. They also say 
+that the bank failed to prevent the fraud from occurring, did not provide them with any 
+warning via text or phone call, and later there was undue delay on the part of the bank to 
+take action when T notified it of the scam.
+What happened
+The background to the complaint is known to both parties and so I wont repeat it at length 
+here. 
+Briefly, in August 2020, Ts staff received instructions via email purportedly from one of Ts 
+directors asking them to make two payments totalling £27,500 to an account with Bank A. 
+Two days later it came to light that this was a scam. The director contacted HSBC to report 
+the scam but was advised that the fraud centre was not open that day being a Saturday. He 
+was asked to call the following Monday, which he did. HSBC immediately contacted Bank A, 
+but unfortunately no funds remained in the recipients account.
+HSBC apologised for the incorrect information provided to the director when he first called 
+the bank. It offered to pay £400 - £200 for the inconvenience this matter has caused and 
+£200 being the amount that could potentially have been recovered had the bank taken action 
+when the director first contacted it. 
+HSBC also reviewed Ts claim under the Contingent Reimbursement Model Code (the 
+Code) and offered to reimburse T 50% of the sum lost. It however declined to reimburse the 
+loss in full. In essence it said that Ts staff ought to have known that the payment request 
+was somewhat unusual and should have taken steps to contact the director before making 
+the payment. The bank also said that the director provided his log in details to the staff to 
+make payments which he shouldnt have. It further said that T ignored the Confirmation of 
+Payee (CoP) warning and continued to make the payments.
+One of our investigators considered the complaint and concluded that it should be upheld. 
+He said, in summary: 
+The banks warning wasnt effective or impactful in the circumstances.
+The CoP message wasnt sufficient to prevent C from continuing with the payments. 
+Also, the bank could only rely on exception R2(1)(b) under the Code - which is in relation 
+to CoP messages  from 28 April 2022 and it was not retrospective.
+This was a sophisticated scam and T had reasonable basis of belief that the email was 
+genuinely from the director.
+Given the above, the investigator was of the view that it wouldnt be fair on part of HSBC to 
+refuse to reimburse the loss in full. Therefore, they said that HSBC should reimburse the 
+remaining 50% also, together with interest.
+HSBC did not agree and essentially reiterated its points. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+In broad terms, the starting position in law is that a firm is expected to process payments and 
+withdrawals that a customer authorises, in accordance with the Payment Services 
+Regulations and the terms and conditions of the customers account. However, where the 
+customer made the payment as a consequence of the actions of a fraudster, it may 
+sometimes be fair and reasonable for the bank to reimburse the customer even though they 
+authorised the payment. 
+HSBC is a signatory of the CRM Code. This code requires firms to reimburse customers who 
+have been the victim of authorised push payment scams, like the one T fell victim to, in all 
+but a limited number of circumstances. And it is for the firm to establish that one of those 
+exceptions to reimbursement applies.
+Under the CRM Code, a firm may choose not to reimburse a customer if it can establish that: 
+The customer ignored an effective warning in relation to the payment being made
+The customer made the payment without a reasonable basis for believing that the payee 
+was the person the customer was expecting to pay, the payment was for genuine goods 
+or services and/or the person or business with whom they transacted was legitimate
+Where the Customer is a Micro-enterprise or Charity, it did not follow its own internal 
+procedures for approval of payments, and those procedures would have been effective 
+in preventing the APP scam or 
+The Customer has been grossly negligent 
+There is a further exception that could apply where a customer did not take appropriate 
+actions following a clear negative Confirmation of Payee result, but as stated by the 
+investigator, this wasnt in force at the relevant time.
+Did T ignore an effective warning? 
+The CRM Code says that an effective warning should enable a customer understand the 
+actions they need to take to address a risk and the consequences of not doing so. And it 
+says that, as a minimum, an effective warning should be understandable, clear, impactful, 
+timely and specific. 
+HSBC has sent us a copy of the warning it says T was shown before making the payment. 
+The warning says:  
+Fraudsters may call or email pretending to be people you trust like a supplier, HSBC or 
+even the police. They could ask you to change the beneficiary account details such as 
+account number, sort code, IBAN or BIC and make a payment to the new details. If you 
+receive an unexpected request to initiate a new payment or make changes then please 
+independently verify that the request is genuine and not a scam before making any 
+payments e.g. by using their telephone number from a trusted source such as their website.
+While this warning does mention the possibility of impersonation scams, I dont think it was 
+specific to be effective in Ts circumstances. In this instance the email wasnt from a supplier 
+or someone pretending to be the bank or police. It was purportedly from the director. T wasnt warned of the possibility of director impersonation scam which was relevant here. 
+Further, this was not an unexpected request, as it wasnt unusual for the director to ask the 
+staff to make new payments via email. There was also no indication as to what would 
+happen if T proceeded with the payment. 
+(The bank has given us an example of another set of warning but from what I can see that 
+warning is only triggered if there was a no match of the payee name, which didnt happen 
+here. So, I am not convinced that T would have seen that warning.)
+Overall, I am not persuaded that the warning provided by the bank was effective. I therefore 
+also dont think HSBC has established that T ignored an effective warning when making 
+these payments.
+Did T have a reasonable basis for belief when making the payment? 
+The email to the staff purportedly came from the director. There was a small variation in the 
+email address but otherwise the email looked similar to the other genuine emails the staff 
+received from the director  samples of which T has provided us. The staff had no idea that 
+their email account had been hacked. 
+The above referred emails also show that it wasnt unusual for the director to send emails to 
+the staff asking them to make payments on behalf of the company.
+The email asked the staff to make payment to the directors personal account. The bank 
+says that paying the director from the account was an unusual activity and so the staff ought 
+to have been suspicious about the request. However, T has provided us evidence to show 
+that the company does make payments to the director, albeit from a different account. So, I 
+cant say that it is unusual for the company to pay the director. Also, the scammers email 
+didnt specify from which account the payment should be made. So, the fact that the 
+payment went from a different account appears simply to be the staffs choice at the time. 
+When the payment was made, there was a Confirmation of Payee check. HSBC says that T 
+ignored the CoP warning given at the time and continued to make the payments. Firstly, the 
+message wasnt that there was a mismatch in the payees name, it was that the name could 
+not be checked. The fraudster anticipated this and advised the staff beforehand that they 
+would get a message stating that the name cant be verified and that was fine because their 
+bank hadnt yet signed up to the CoP system. That was correct as Bank A (the recipient 
+bank) wasnt participating in the CoP system at the time. So, I can see why the staff didnt 
+consider the CoP message to be suspicious. Further, the message stated that before 
+proceeding with the payment the payer should contact the beneficiary and confirm the 
+details via a phone or email. However, as noted previously, the email which purportedly 
+came from the director already had advised the staff that they would receive a message of 
+this nature and assured them that it was fine. 
+Taking all of the above into account, I dont think it can fairly be said that T (the staff) made 
+the payment without a reasonable basis for belief that it was genuine.
+Did T not follow its own procedure?
+Ts director has explained that usually he or that particular staff would make the payments 
+and the same procedure was followed on this occasion as well. He also says that it is not 
+unusual for him to instruct via email to the staff to make payments and as noted above, has 
+provided us with genuine examples of the same. So, I dont think it could be said that T didnt 
+follow its own procedures.Did T act in a grossly negligent manner
+It was a sophisticated scam, the email appeared genuine, the fraudster anticipated and 
+addressed any potential concern, and it wasnt that the staff did not follow any set procedure. 
+So, I dont think it is fair to say that T acted in a grossly negligent manner when making the 
+payments. 
+HSBC says that the director provided his log in details to the staff to make payments, which 
+it says he shouldnt have done. 
+The director explains that the account was set up in 2008 and it was his co-director who set 
+up the account and as such had the log in details. However, they are a very small business 
+and only he and the other staff make all the payments. So, they didnt feel any need to set 
+up separate log in details for each one of them. 
+I appreciate what the bank says and ideally separate log in details were obtained by T for the 
+director and the staff. However, the Payments Services Regulations 2017 do allow for 
+payment transactions be initiated by someone acting on behalf of the consumer (e.g. an 
+agent).  
+Whilst I agree that the director / staff could have obtained their own log in details, there is no 
+dispute here that T allowed the staff to make payments on its behalf and that they were 
+scammed in the process of making payments on behalf of T. In the circumstances, I dont 
+think it is fair and reasonable for HSBC to deny reimbursement to T for this reason, when 
+otherwise full reimbursement would have been due under the CRM Code. In reaching my 
+conclusion I have also taken into account Ts submission that even if they had obtained a 
+separate log in detail for the staff, the loss couldnt have been prevented here, given the 
+circumstances. In other words, Ts failure to obtain separate log in detail for the staff didnt 
+cause the loss.  
+Taking all of the above into account, I agree with the investigator that it would not be fair for 
+HSBC to only reimburse 50% of the loss under the Code. 
+Putting things right
+As I understand it, the total loss to T was £27,500. Of this I believe HSBC has already 
+reimbursed £13,750. It appears that, in addition, HSBC has paid £400 to T. This is made up 
+of £200 for the inconvenience this matter has caused (which I agree is fair), and another 
+£200 which would have been recoverable from the recipient had HSBC acted sooner. Thus, 
+of the total £27,500 it appears that HSBC has already reimbursed £13,950 to T. 
+Therefore, HSBC should now reimburse the remaining £13,550 to T. It should also pay 
+interest on this sum. The funds were lost from a business current account, which earned little 
+interest. But the relevant question is the opportunity cost of the lost funds to T. In this case, I 
+cannot be certain about the cost to T of being deprived of the money because it might have 
+used the funds in a variety of ways. It is however clear to see that this was a large sum of 
+money and the loss has had an impact on the company. In the circumstances, without any 
+compelling reason to depart from our usual approach, I consider it fair and reasonable that 
+HSBC pays T simple interest at 8% p.a. on the £13,550. 
+Interest should be paid from the date the bank declined Cs claim (i.e. the date when it 
+agreed to pay only 50%) to the date of settlement.My final decision
+My final decision is that I uphold this complaint. In full and final settlement of the complaint 
+HSBC UK Bank Plc should reimburse £13,550 together with interest as set out above.
+Under the rules of the Financial Ombudsman Service, Im required to ask T to accept or 
+reject my decision before 12 May 2023.
+ 
+Raj Varadarajan
+Ombudsman

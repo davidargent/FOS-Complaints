@@ -1,0 +1,127 @@
+DRN-2300460
+The complaint
+Mr N says Plus500UK Ltd (Plus500):
+Applied the wrong sell price to his EUR/TRY Contracts for Differences (CFD) buy 
+position on 18 November 2019, which unfairly triggered its margin call/forced closure. 
+He says he should be compensated for the loss that arose from the closure.
+Applied overnight financing charges (OFCs) to his trades that it was not supposed to 
+apply (because they were not in the terms he agreed); or, in the alternative, it applied 
+OFCs which were excessive and unfair. He says he should be refunded the OFCs he 
+incurred.
+What happened
+Plus 500 disputes the complaint. In the main, it says:
+It provides execution only accounts for its CFD trading platform; Mr N retained, at all 
+times, sole responsibility to manage his account, to make his own trading decisions 
+in the account and to monitor (and manage) margin in the account; he agreed to the 
+terms and conditions for the account in the User Agreement (UA) in the course of 
+opening his account and the July 2019 version of the UA was binding upon him at the 
+time of his complaint and the complaint events.
+Mr Ns EUR/TRY CFD position (the position) was closed at the sell price of 6.2782 
+at 22:27 GMT on 18 November; Mr N says the price for the EUR/TRY pair never fell 
+to this level at the time and he has referred to prices available from other firms in 
+support; the terms he agreed in the UA confirmed that Plus500 applied its own 
+prices, based on external price feeds, to transactions and was/is not obliged to match 
+another firms prices; there is evidence from Bloomberg that the best/highest sell 
+price for the pair fell even lower than 6.2782 at the time and other evidence that 
+6.2782 was comparable to the rates shown by the market data providers Yahoo 
+Finance and Trading View at the time; so its price was reflective of the underlying 
+market and was not wrong.
+Under the UA, Plus500 was entitled to apply automatic closures of any or all open 
+positions in an account when the accounts equity fell below its maintenance margin 
+level; that level was set in compliance with the 50% margin close out rule, for retail 
+clients, set by the European Securities and Markets Authority (ESMA); in Mr Ns 
+case the price movement for the position meant his account equity fell to £2,211.08 
+whilst the maintenance margin required in the account was £2,243.81, so the margin 
+call closure applied on this basis; he had been sent a clearly worded alert warning of 
+the potential margin call (and the maintenance margin level that was at risk of being 
+breached) as early as 10:00 on the day (though SMS, email and push notification) 
+but he had taken no steps to address the matter by the time the margin call was 
+applied at 22:27.
+The terms providing for the application of OFCs are within the UA Mr N agreed; the 
+terms explained the reasoning behind the charges and how they were calculated and 
+applied; the specific OFCs are clearly displayed on the trading platform at all times 
+(before a position is opened, whilst it is opened and maintained and after it is closed) 
+and summary of what they are and how they are calculated is also available on the 
+platform; if Mr N did not like the OFCs quoted he was under no obligation to open 
+any position; it has recalculated the OFCs for two EUR/TRY positions he highlighted 
+and the charges applied were accurate; and it has invited him to refer to OFCs in any 
+other positions he is concerned about.
+One of our investigators looked into the complaint and concluded that it should not be 
+upheld, for broadly the same reasons as those given by Plus500 and with reference to the 
+same evidence. 
+In summary, she noted that the sell price applied to the position was reflective of the market 
+and that this is supported by evidence; that the margin call was legitimate; that Mr N 
+received clear warning ahead of the margin call and it was his responsibility to monitor and 
+manage margin in his account; that the OFCs were provided for in the UA and information 
+about them was displayed on the trading platform; and that Mr N appears to have confused 
+the facility for rolling over a position (which related to futures contracts based positions) with 
+OFCs (which applied to leveraged trades like his CFD positions) but the terms were clear in 
+distinguishing them and OFCs were correctly applied to his positions. The investigator also 
+addressed Mr Ns reference to financial hardship arising from the complaints subject matter, 
+however he subsequently clarified that this is not a complaint issue.
+Mr N disagreed with the investigator. He retained his original arguments and considered that 
+an audit of trades in his account should be conducted in order to identify unfair and 
+excessive OFCs (when compared to charges other firms were applying) as he alleges; he 
+maintained that the sell price for the position was not reflective of what others were 
+presenting at the time; he also argued that OFCs were not binding on him at the relevant 
+time because they were introduced afresh in a version of the UA that post dates his 
+complaint. 
+In response, the investigator repeated (and clarified) her findings. She also re-affirmed that 
+provisions for the OFCs were in the 2019 version of the UA that was binding on the 
+complaint events. She did not consider it fair to conduct the account audit Mr N sought 
+without cause to do so and, like Plus500 had previously done, she invited him to identify any 
+specific charges he disputes.
+The matter was referred to an ombudsman.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I do not uphold Mr Ns complaint. I conclude as follows:
+The sell price applied by Plus500 to the position was reflective of the market for the 
+EUR/TRY pair at the relevant time and was fair. Evidence presented by Plus500 
+which shows that Bloomberg recorded spot fx sell prices for the pair, at the relevant 
+time, that were lower than 6.2782  contrary to Mr Ns claim that the price did not fall 
+so low  and that 6.2782 was comparable to the market data provider rates from 
+Yahoo Finance and Trading View at the time. 
+Plus500s terms for the account under the 2019 version of the UA applies to, and is 
+binding upon, the complaint and complaint events. I am satisfied that it was agreed 
+by Mr N, it was binding upon him as a Plus500 account holder and it pre-dated the 
+complaint events.
+The UAs terms confirmed that Plus500 applied its prices to transactions on its 
+platform. It was under no obligation to match any external price source elsewhere in the sector/market. On this basis, I do not accept the comparisons that Mr N has 
+made with the prices he obtained from other platform providers. Plus500s price did 
+not have to match, exactly, the underlying market price for the EUR/TRY pair, it only 
+had to be reflective of that price and, as I said above, it was.
+Plus500s reference to the effect of the margin close out rule from ESMA is accurate; 
+the UAs terms related to this were that it was Mr Ns sole responsibility to monitor 
+and manage margin in his account in order to ensure the accounts equity did not fall 
+to or below the maintenance margin level; and that margin close out would apply if he 
+did not. The price movement for the position resulted in the account equity figure I 
+mentioned above, which fell below the maintenance margin level (also mentioned 
+above). In those circumstances, based on the UAs terms and on ESMAs margin 
+close out rule Plus500 was entitled to close the position. I am satisfied with evidence 
+that Mr N was given ample notice of the need to manage the level of margin in his 
+account in response to the threat of a margin call. He could have either funded the 
+account or closed a position(s) himself, but he appears to have done neither by the 
+time the margin call was applied. I do not consider that Plus500 was wrong to apply 
+the margin call.
+The investigator gave thorough treatment to the distinction between the platforms 
+rolling over function and its OFCs. I consider that the difference has been clearly 
+explained to Mr N. The matter disputed in the complaint is the application of OFCs. 
+They are provided for in the UA he agreed and information about their purpose and 
+calculation was available to him within the agreed terms and on the trading platform. I 
+am persuaded by screenshot evidence which shows he would have been given prior 
+notice of applicable OFCs before submitting a trade order, so he would have had the 
+opportunity to accept them if he wished or to decline any associated trade if he 
+considered that the OFCs were excessive. I have not seen evidence that wrongly 
+calculated OFCs were applied to the positions he highlighted, the recalculations 
+conducted by Plus500 appear to verify that the OFCs for those positions were 
+correct. In the absence of cause to do so, I do not consider that the composite audit 
+that Mr N appears to seek in this matter is reasonable. He has been repeatedly 
+invited to specify any other OFCs he disputes but he has not done so. 
+My final decision
+For the reasons given above, I do not uphold Mr Ns complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr N to accept or 
+reject my decision before 29 December 2020.
+ 
+Roy Kuku
+Ombudsman

@@ -1,0 +1,146 @@
+DRN-3850832
+The complaint
+Mr B complained because Monzo Bank Limited refused to refund him for three transactions 
+which he said he didnt authorise.
+What happened
+On 25 April 2022 there was a £1.500 credit to Mr Bs Monzo account, from his bank account 
+elsewhere. The same day, there was an outgoing £1,000 payment from Mr Bs Monzo 
+account to a cryptocurrency organisation.
+On 2 May, there was a £1,000 credit to Mr Bs Monzo account, from his bank account 
+elsewhere. The same day, there was an outgoing £1,000 payment from Mr Bs Monzo 
+account to the same cryptocurrency organisation.
+On 11 May, there was a £1,000 credit to Mr Bs Monzo account, from his bank account 
+elsewhere. The same day, there was an outgoing £1,000 payment from Mr Bs Monzo 
+account to a different cryptocurrency organisation.
+On 18 June, Mr B filled up a dispute form for the three transactions, and contacted Monzo to 
+say he hadnt authorised the three outgoing payments. He told Monzo no-one else had 
+access to his phone, which was protected by a password or biometrics. All three had been 
+approved using the Monzo app on Mr Bs registered phone, and his PIN. Mr B initially said 
+no-one else had access to his card, PIN, or phone. Monzo froze Mr Bs account and blocked 
+his card so no more transfers could be made.
+Monzo asked Mr B for more information. It said it had separate processes for different 
+scenarios. Both processes could recover the money, but the chances reduced if the wrong 
+route was chosen. Monzo told Mr B that there was one process if hed sent the money 
+himself as a result of a scam, and a different process for when someone else had made the 
+payment. So Monzo asked Mr B whether hed sent the money himself as a result of a scam, 
+or whether the money had been sent without his knowledge.
+Mr B replied that the money had been sent without his knowledge. He then said hed left his 
+phone and wallet in a restaurant on 2 May around 10 am, and had got it back around 5 pm. 
+Monzo asked whether there had been any other times when Mr B hadnt had his phone, and 
+whether anyone else knew his PIN. Mr B said a few people knew his PIN, especially at work, 
+but it had only been on 2 May that he hadnt had access to his phone.
+Monzo told Mr B that it didnt agree that the transactions had been carried out by an 
+unauthorised third party. It said the decision was based on the data available, and the 
+timeline of transactions was suggesting it wasnt possible for anyone else to have authorised 
+them. Monzo also reminded Mr B that the terms and conditions provided that it could close 
+an account at any time, and it decided to close Mr Bs account the next day, 21 June.
+Mr B said that hed been introduced by a friend to an investment guide. And a third party had 
+accessed his device, using remote access software which was normally used for the 
+maintenance of computers and other devices. He said he hadnt authorised the payments. 
+Mr B complained about Monzos rejection of his fraud claim, and also because hed asked 
+Monzo to trace the recipient of the payments to the cryptocurrency organisations and reclaim 
+the money, which Monzo said it couldnt do.
+Monzo sent Mr B its final response to his complaint on 29 June. In this, it said:
+- there was a scheme to reimburse customers who had transferred money after falling 
+victim to a scam. This was called the Contingent Reimbursement Model (CRM) and 
+applied to Authorised Push Payment (APP) scams. These cases were where a 
+fraudster deceived a customer into sending a faster payment under false pretences. 
+But Monzo said that this scheme  which Monzo didnt control - only applied to faster 
+payments, but the payments from Mr Bs account had been card payments. And in 
+any case, Mr B had said he hadnt authorised the payments. So it couldnt use this 
+scheme to refund Mr B.
+- Monzo believed its investigation had been thorough, and had reached the right 
+conclusion.  It had reason to believe the transactions hadnt been fraudulent, so it 
+didnt have to refund Mr B.
+Mr B wasnt satisfied and contacted this service. He said hed been investing with a 
+company in April 2022, which had had access to his device, using the remote access 
+software which was normally used for the maintenance of computers and other devices. He 
+said the company also had his address and identification. 
+Our investigator didnt uphold Mr Bs complaint. She said shed considered what Mr B had 
+said about the investment company which had had remote access to his device, but thought 
+it was unlikely that a fraudster with full access would only have made three transactions over 
+around two weeks. She also pointed out that Mr B had only been without his phone at the 
+time of one of the disputed transactions, not all of them. And although Mr B had said he 
+sometimes gave his phone passcode to others at work, hed also said he always changed it 
+after others had used his phone. So the investigator thought it was most likely that Mr B had 
+authorised the disputed transactions himself.  
+Mr B didnt agree. He agreed that the transactions couldnt have happened when hed left his 
+phone at work, because no-one there knew his Monzo app passcode. He said he hadnt 
+known that the company he was investing with had had access to all his data through apps 
+which it had required him to download  including access to his email, where they could set 
+up cryptocurrency accounts in his name, to which theyd transferred the money. He said that 
+even recently, someone had tried to reopen one of the accounts under his name and Action 
+Fraud had told him about it, and had told him to change his driving licence.
+In a phone call with the investigator, Mr B also said that hed been introduced to the 
+investment company by a friend, so hed expected the phone call, and had approved the 
+companys  access using the remote access software.  Mr B also told the investigator that 
+Action Fraud had told him there was now a warning on the anti-fraud database CIFAS, to 
+show hed potentially had his identity stolen. And Mr B clarified that the reason his work 
+colleagues had his phone passcode was so they could buy things in the restaurant  but 
+they didnt have Mr Bs banking app passcodes, either for Monzo or for Mr Bs bank from 
+which money had been transferred immediately before the disputed transactions.
+Mr B asked for an ombudsmans decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and reasonable in the circumstances of this complaint.
+There are regulations which govern disputed transactions. The relevant regulations for 
+disputed transactions taking place in 2022 are the Payment Services Regulations 2017. 
+These say that the payment service provider (here, Monzo) must show the transaction was 
+authenticated. Thats the technical part, and here, Monzo has provided the technical 
+evidence to show that all three disputed transactions were authenticated using Mr Bs 
+genuine card, and correct PIN, using 3D secure. So the disputed payments were 
+authenticated.
+The regulations also say that its necessary to look at whether the card holder authorised the 
+payments. In general terms, the bank is liable if the customer didnt authorise the payments, 
+and the customer is liable if they did authorise them. The regulations also say that account 
+holders can still be liable for unauthorised payments under certain circumstances  for 
+example if theyve failed to keep their details secure to such an extent that it can be termed 
+gross negligence.
+So Ive gone on to consider whether its more likely than not that Mr B authorised the 
+payments himself.
+The payments were all carried out on Mr Bs registered device, using the Monzo app on the 
+phone. Mr B said his phone was protected with Face ID and passcode, and so was his 
+Monzo app. So Ive considered how any third party might have been able to carry out the 
+payments.
+Mr B initially told Monzo that no-one else had access to his phone, card, or PIN. He later 
+said that hed left his phone and wallet in a restaurant on 2 May, but its hard to see how a 
+third party could have accessed his phone and Monzo app when both were protected with 
+Face ID and passcode. Mr B got the phone and wallet back when he went back at around 
+5pm, which isnt likely to have happened if those who found it were dishonest. Also, this 
+wouldnt explain the other two transactions on 25 April and 11 May.
+Mr B also said that work colleagues knew his phone PIN, but said he always changed the 
+PIN after someone else had used it. And after the investigators view, Mr B agreed that the 
+transactions couldnt have happened when hed left his phone at work, because no-one 
+there knew his Monzo app passcode.
+Mr Bs theory is that the transactions were carried out as a result of a company hed been 
+investing with. He said hed approved the companys access using the remote access 
+software tool, which is normally used for the maintenance of computers and other devices. 
+Mr B also told us that he provide the company with proof of his address, and a picture of his 
+driving licence. 
+But there are problems with this theory. First, there is still the problem of obtaining Mr Bs 
+phone which was Face ID and passcode protected, and then accessing the Monzo app 
+again with Face ID and passcode. I also dont think its likely that the use of that remote 
+access software could have enabled a third party to carry out fraudulent transactions on Mr 
+Bs account. And all three of the transactions were immediately preceded by transfers into 
+Mr Bs Monzo account from his bank account with another bank. This shows there was clear 
+balance knowledge, and its likely that it also indicates an intention to carry out the 
+payments. I recognise that Mr B says he didnt make the bank transfers either  and this 
+complaint isnt about his other bank, so I dont have the technical information for that non-
+Monzo account. But there are still too many factors meaning that I cant see how a third 
+party fraudster could have carried out the transactions. I also think that if a third party fraudster had: obtained Mr Bs phone; been able to unlock it 
+despite it being Face ID and passcode protected; and had been able to access his Monzo 
+account despite being Face ID and passcode protected - theyd have taken more than three 
+transactions between 25 April and 11 May. Most fraudsters maximise their gains in as short 
+a time as possible, before anything can be discovered and stopped.
+Mr B told Monzo categorically that he didnt authorise these payments. So that rules out the 
+possibility of it having been a scam, using an Authorised Push Payment (APP). 
+Taking all these factors into account, I cant see how any third party fraudster could have 
+authorised the transactions. So I think its more likely than not that Mr B carried them out 
+himself. This means that under the Payment Services Regulations, Monzo isnt required to 
+refund him.
+My final decision
+My final decision is that  do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr B to accept or 
+reject my decision before 31 January 2023.
+ 
+Belinda Knight
+Ombudsman

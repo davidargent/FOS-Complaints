@@ -1,0 +1,95 @@
+DRN-2646004
+The complaint
+Mr S complains that Santander UK Plc wont refund payments he didnt make from his 
+account.
+What happened
+Mr S says he was abroad with friends. He was separated from them on his way back to an 
+apartment and his mobile phone was stolen from him at knifepoint at about 11pm that 
+evening. Nothing else was taken. His phone was used to make payments using a mobile 
+payment service (Apple Pay). He says he didnt make the three payments which came to 
+over £5,000.
+Santander said it wouldnt be refunding the money. The payments would have been verified 
+using security information set on his mobile phone. They were made at one venue and over 
+a period of time. Each time the verification would have been needed.
+Our investigator didnt recommend that the complaint be upheld. Santander wasnt able to 
+show whether the payments were verified with a passcode, or biometric data. But such 
+verification would have been required to make the payments. Mr S said he had reported the 
+loss of his phone to police but unfortunately there was no crime report and he hadnt notified 
+Santander or blocked the mobile payment service. Mr S thought that Santander should have 
+contacted him about the payments  especially as he hadnt told it he was going abroad. But 
+our investigator said that even if Santander had it may not have made a difference as a third 
+party if using the phone to make payments had the security information. She couldnt see 
+how a third party had been able to see his passcode. And to then be able to use the phone 
+over a period of time to make payments. She thought a fraudster would have taken as much 
+money as quickly as possible and that the payments wouldnt be spaced out in one venue  
+they occurred at 11:50, 00:16 and 01:10. She didnt think that CCTV even if available would 
+have made a difference.
+Mr S didnt agree. He said that his issue was with the practices and processes of Santander 
+itself. It was frustrating that it couldnt now locate some information and didnt have 
+recordings of his phone calls. CCTV mightnt have led anywhere but there was no 
+information about the nature of the payments themselves. He thought he might have caused 
+confusion over access to the phone and said that the code to open the phone and authorise 
+payments was the same. There was no option for these to be separate. The PIN on his 
+actual debit card was different. So, if someone saw him open his phone then that person 
+would have access to mobile payments. Mr S says that when he has been abroad before he 
+filled in an online form for Santander. This time he didnt do so and expected as before that 
+purchases might be temporarily blocked and thought that Santander should have done so 
+this time. It could have easily prevented what happened.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+I need to take into account the Payment Services Regulations 2017 in considering this 
+complaint. These state that a payment can only be authorised if it was consented to. So, its 
+not enough for it to be authenticated, say with a card and PIN. And if they werent authorised 
+Mr S wouldnt generally be responsible for them.
+So, I will be thinking about the following areas in looking at this complaint:
+- What is the most likely explanation of what happened to the phone and verification 
+information used for these payments?
+- Did Mr S authorise the payments on the account? 
+- Should Santander reasonably have taken any further action?
+I am making my decision on the information available. It isnt always possible to have 
+complete information for example call recordings. I wont be able to say exactly what 
+happened but Im thinking about what is most likely. 
+I have seen the audit logs for these payments. And I am satisfied that they were originated 
+and authenticated using the mobile payment service. The issue is whether Mr S consented 
+to them.
+Mr S said to this service that the security on the phone I believe uses either face recognition 
+or a PIN number. To distinguish as he has that number from the different PIN on his 
+underlying debit card I will continue to describe it as a passcode. Santander cant say which 
+specific method was used here. But Im not sure that puts Mr S at a disadvantage. I think I 
+can safely say that Mr S would have needed to be involved in payments using face 
+recognition or touch ID. Mr S position and explanation is that the third party had discovered 
+his passcode and that his passcode must have been seen at some earlier time  because he 
+doesnt for example say that it was demanded by the person who robbed him.
+Passcodes are now typically six digits but in any event I dont think even a four-digit number 
+could have been guessed. I dont see and Mr S cant explain when that number was 
+compromised. I also appreciate he says he didnt know that much about the mobile payment 
+service and in particular that there werent specific limits. But Im afraid as he set this up 
+thats not something Santander should be responsible for. And I also think that he was 
+reasonably expected in the same way as if hed lost a debit card, to report the loss or at least 
+disable the apps and mobile payment service.
+As our investigator indicates, the payments were consistent with the person using the phone 
+while spending time at a venue. And I want to add that there was for example a further 
+attempt to make a payment at 01:38 at the same venue which was declined twice for lack of 
+funds in Mr S account. The point is that the phone was used in this way over nearly a two-
+hour period there. I appreciate that the payments are for large amounts  but Mr S position 
+is that he wasnt there and didnt have the phone and so couldnt have say been tricked into 
+making them.
+I appreciate Mr S says that Santander should have flagged these payments as unusual as 
+they originated outside this country and given the amounts. That point though only has 
+significant relevance if I were to find that Mr S didnt consent to them and authorise them. 
+Based on the evidence available and considering what hes said I am not persuaded that the 
+most likely explanation is the one he gives  that his phone was stolen, and he didnt make 
+these payments. The timing of the payments, lack of any evidence to support his phone 
+being taken and passcode being discovered and him taking no action to disable the payment 
+service or report this loss to Santander to me are the key factors here. Given that finding I dont consider that Santander ought reasonably to have contacted Mr S about the payments 
+at the time.
+I fully appreciate the amount at stake here for Mr S, but I dont have a reasonable basis to 
+require Santander to do anything further.
+My final decision
+My decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr S to accept or 
+reject my decision before 14 May 2021.
+ 
+Michael Crewe
+Ombudsman

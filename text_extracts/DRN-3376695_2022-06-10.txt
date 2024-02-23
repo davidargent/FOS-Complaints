@@ -1,0 +1,176 @@
+DRN-3376695
+The complaint
+L, a limited company, complains that WorldPay Limited wont refund it for a transaction that 
+was made using one of their card terminals which they did not authorise.
+Miss D along with Mr W, a director of L, represent L in its complaint.
+What happened
+At 3:55am on 7 March 2018 a refund of £2,000 was processed using a card terminal issued 
+to L as part of their payment processing agreement with WorldPay. 
+WorldPays transaction monitoring team reviewed the refund after it was made and had 
+concerns about its legitimacy, but also Ls conduct given that its trading pattern had reduced. 
+WorldPay issued a notice to terminate the agreement with immediate effect on 9 March 
+2018.
+Miss D and Mr W contacted WorldPay on 15 March 2018 to advise that the transaction was 
+fraudulently processed by a manager employed by L. The refund was made to their personal 
+debit card and had no relation to any previous payment made by, or owed to, him. Though 
+the manager had authority to use the card terminals on behalf of L, Miss D and Mr W say he 
+didnt have Ls authority to process this refund.
+WorldPay investigated the matter and decided that L was liable for the disputed refund. 
+WorldPay pointed to its terms and conditions, which it says confirm that users are fully 
+responsible for any fraudulent or unauthorised use of their terminals.
+Miss D and Mr W did not agree with WorldPays decision and referred Ls complaint to the 
+Financial Ombudsman Service. When bringing the complaint to our service, Miss D and 
+Mr W argued that the refund was unauthorised and shouldve been subject to further checks 
+prior to its release. Miss D and Mr W also felt that the refund shouldnt have been processed 
+because it had no corresponding incoming card payment, which the terms and conditions 
+specifically exclude. Miss D and Mr W believe the large value of the refund and the time of 
+day it was processed made it highly suspicious. 
+One of our Investigators considered the matter and thought that WorldPay had dealt with the 
+complaint correctly. She said that the refund was technically authorised because it was 
+made by someone that L had agreed could use its payment tools. She also felt that the 
+refund was not suspicious enough in and of itself for WorldPay to have intervened. She 
+didnt uphold the complaint on that basis.
+Miss D and Mr W did not accept the Investigators position. They still felt WorldPays 
+systems and algorithms shouldve detected that a refund was being made to a card not 
+previously used for payment and prevented it from debiting Ls account. Miss D and Mr W 
+have explained during the course of this complaint that their other merchant terminal 
+provider had automatically prevented an attempted refund by the manager on the basis that 
+there wasnt a corresponding purchase.
+Miss D and Mr W also didnt accept WorldPays explanation that refunds are manually 
+reviewed if theyre deemed to be suspicious and believe that this should be done by 
+computer systems and detected at the time. 
+Miss D and Mr W also requested evidence confirming whether WorldPay would have been 
+reimbursed for the refund by its insurers. The Investigator advised that its not for us to say 
+whether WorldPay should claim on any insurance policy they have in place and, instead, our 
+role is to determine whether WorldPay has acted fairly in holding L liable for its loss. 
+As Miss D and Mr W remained dissatisfied with the outcome of the Investigators 
+assessment, the matter has been referred to me.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+When considering what is fair and reasonable, Im required to take into account: relevant law 
+and regulations, such as the Payment Services Regulations 2017 (the PSRs), the contract L 
+has entered into, including the terms and conditions of that agreement and the operating 
+instructions, as well as regulators rules, guidance and standards; codes of practice; and, 
+where appropriate, what I consider to have been good industry practice at the relevant time.
+There are two main issues that have impacted this case. The first being whether the refund 
+was authorised by L and the second being whether WorldPay shouldve prevented the 
+transaction debiting the account. Ill address these points below.
+Was the refund authorised by L?
+In this case all parties agree that the refund in question was processed by a manager of L for 
+their own personal benefit and without the explicit agreement of Miss D and Mr W.
+Though this may be the case, this doesnt automatically mean that the transaction is 
+unauthorised and it should be refunded. It is possible for Miss D and Mr W to give someone 
+else authority to carry out transactions on Ls behalf, so L would still be liable, even if Miss D 
+and Mr W didnt physically perform the transaction themselves or give their explicit 
+permission for it. WorldPay can hold L liable for any transactions that happened because L 
+gave someone authority to act on its behalf. The fact remains that the manager had the 
+authority of L to use and operate the card terminals provided to L by WorldPay. By permitting 
+the manager to use Ls payment tools, Miss D and Mr W effectively gave the manager the 
+status of being Ls agent. I cant see that the manager was given limited or restricted 
+authority by L or that there was a process put in place requiring them to obtain the authority 
+of Miss D and Mr W prior to processing certain types of transactions. 
+From how the situation has been described, its fair to say that the manager had the open 
+authority of L to use the card terminal and, on that basis, this means that the refund can be 
+treated as authorised for the purposes of the PSRs.
+Its clear that the manager abused a position of trust and made this refund to themselves in 
+circumstances that had not been agreed. But this doesnt mean that the transaction is 
+unauthorised. Providing the manager with the ability to make payments served to, in effect, 
+authorise the refund the manager went onto make, even though the manager made a 
+transaction that had not been discussed or intended by L. This means that WorldPay can 
+treat the disputed transaction as being authorised by L, even though the manager utilised funds for their own personal gain and without Miss D and Mr Ws express knowledge and 
+agreement.  
+Should WorldPay Limited have prevented the refund being processed?
+Miss D and Mr W are concerned that WorldPay did not do enough to protect L and feel it 
+should have stopped the transaction in real time, preventing the loss L went on to suffer. 
+When reviewing this complaint, Ive already confirmed I take into account the law, regulators 
+rules and guidance, any relevant codes of practice and what I consider to have been good 
+industry practice at the time. This means I believe, as does the regulator, that WorldPay 
+should fairly and reasonably have had systems in place to look out for unusual transactions 
+or other signs that might indicate that its customers were at risk of fraud (amongst other 
+things). This is particularly so given the increase in sophisticated fraud and scams in recent 
+years, resulting in payment service providers being generally more familiar with than the 
+average customer. And that includes micro enterprise customers such as L. 
+Its generally considered good industry practice for businesses to have provisions in place to 
+ensure the safety and security of their customers. This includes having mechanisms and 
+procedures in place to detect any unusual activity on the accounts they operate. From what 
+I have seen, WorldPay does have the ability to monitor transactions.
+So, bearing the above in mind, I have to consider whether the refund processed was 
+unusual enough to have prompted further action from WorldPay prior to allowing the 
+payment to debit Ls account. As part of that, Ive considered Ls previous account activity.
+In the year leading up to the disputed refund, L processed 16 genuine refunds. This shows 
+that processing a refund using WorldPays terminal isnt an unusual activity for L to partake 
+in, in and of itself.
+Ive then thought about the value of the refund and whether this should have caused concern 
+at the time the transaction was being made. Of the 16 genuine refunds processed by L 
+leading up to the disputed refund, the highest value refund was £228. Whilst the disputed 
+refund of £2,000 exhibits an increase when compared to the typical amount refunded by L, 
+I dont think that the increase is so significant that it presents itself to WorldPay as a clear 
+and obvious risk that L is at risk of falling victim to fraudulent behaviour.  
+Ive also balanced the value of the incoming payments L processed using WorldPays card 
+terminal in the year leading up to the disputed refund against the individual value of it. 
+I can see that, on average, L processed payments of over £20,000 per month using 
+WorldPays card terminal in the year leading up to the disputed refund. This demonstrates 
+that the refund was not of a significant value in comparison to Ls typical monthly income via 
+card payments. 
+Taking everything into account, I am not persuaded that the disputed refund was out of 
+character and unusual enough so that WorldPay ought to have intervened at the time. There 
+is a delicate balance to be struck. There are many millions of payments made each day and 
+it would not be possible or reasonable to expect a payment service provider to check each 
+one. I dont think this transaction should have aroused suspicion that L was being taken 
+advantage of, or that WorldPay missed clear indicators that L was at risk of financial harm. 
+Miss D and Mr W believe the transaction shouldve flagged as suspicious because it did not 
+correspond with a genuine payment that had previously been made. The terms and conditions of the card terminal agreement that L entered into explain that the 
+responsibility and liability for ensuring that the correct card and amount are being used when 
+processing a refund is placed on the user.
+Section 4.1.5 of WorldPay Limiteds Customer Operating Instructions state:
+When you process a refund on a card transaction, the amount of the refund is returned to 
+the customers card account and a corresponding debit will be made to your nominated bank 
+account. If the refund facility is used where there is no corresponding originating transaction, 
+this is not classed as a refund and does not fall within the terms of your contract. This is a 
+breach of your contract for which you will be responsible.
+WorldPay has confirmed that refunds will not be declined by their systems on the basis that 
+there is no corresponding purchase. Im also satisfied that it isnt a requirement for a refund 
+to correspond with a previous payment in order for it to be successfully processed by 
+WorldPays payment systems.
+I can see from the evidence provided that the refund was reviewed by an employee of 
+WorldPay on 9 March 2018 as its systems flagged it for further investigation as it was 
+processed to a card which had no corresponding purchase.
+WorldPay explained that the transaction didnt flag sooner as the process for identifying 
+refunds without a corresponding purchase is not done in real time. Further to this, refunds 
+are not automatically placed on hold pending further review by WorldPay on the basis that 
+they were made without a corresponding purchase. 
+I appreciate Ls other merchant terminal provider prevented an attempted refund by the 
+manager in real time and I have thought about whether it would be good industry practice to 
+say that any attempt to put through a refund without a link to a corresponding purchase 
+should not be processed. But I also have to bear in mind that there are genuine 
+circumstances in which customers may require a refund to be processed to a card that 
+wasnt used for a purchase, such as if the previous card had been replaced or expired. 
+Because of this, I wouldnt be able to fairly say that WorldPay should automatically prohibit 
+refunds made to a card which doesnt have a corresponding purchase. I dont think its 
+unreasonable for WorldPay to decide to investigate refunds on a case by case basis. In most 
+instances, a refund to a replacement card from the same bank that links back to the same 
+underlying bank account would not be a cause for concern. 
+Furthermore, Im not a regulator and Im unable to make the rules that a business must 
+follow in their day to day operations. This means Im not in a position to compel WorldPay to 
+change its systems so they automatically prohibit any refunds where there is no 
+corresponding purchase. I can only comment on whether I think the business has acted fairly 
+by following the procedures and policies that were in place at the time of the event 
+complained about. Having carefully considered the individual circumstances of this 
+complaint, I dont think I can fairly criticise WorldPay for processing the disputed refund. 
+I realise Miss D and Mr W will be disappointed by this, especially against the backdrop 
+that Ls other merchant services provider did prevent an attempted refund.
+I have considerable sympathy for what Miss D and Mr W have been through. This situation 
+wouldve undoubtedly come as a shock to them given that the refund was made by someone 
+they trusted and it has caused their business to incur a loss. 
+I have considered whether WorldPay can fairly be held liable for Ls loss. But, for the 
+reasons stated above, I cant say that WorldPay acted incorrectly. I think WorldPay can fairly 
+treat the disputed refund as being authorised by L. Im also not persuaded that WorldPays transaction monitoring systems failed in this instance. This means there is no basis on which 
+I could fairly say WorldPay must take responsibility for Ls loss. 
+My final decision
+For the reasons Ive explained, I dont uphold this complaint. 
+Under the rules of the Financial Ombudsman Service, Im required to ask L to accept or 
+reject my decision before 8 July 2022.
+ 
+Claire Marsh
+Ombudsman

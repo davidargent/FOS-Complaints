@@ -1,0 +1,204 @@
+DRN-4256213
+The complaint
+Mrs B is unhappy that Nationwide will not refund the money she lost as the result of an
+authorised push payment (APP) scam.
+Mrs B has used a representative to bring her complaint to this service. For ease, I will refer
+solely to Mrs B throughout this decision.
+What happened
+Both parties are familiar with the details of the scam so I will provide only a summary here.
+Mrs B made the following payments totalling £22,600 on the understanding she was
+investing in cryptocurrency.
+payment date value type recipient
+1 28/04/2022 £200 faster payment Payward Ltd
+2 02/05/2022 £500 faster payment Payward Ltd
+3 23/05/2022 £5,200 faster payment Payward Ltd
+4 24/05/2022 £4,500 faster payment Payward Ltd
+5 26/05/2022 £500 faster payment Payward Ltd
+6 31/05/2022 £5,000 faster payment Payward Ltd
+7 06/07/2022 £5,400 faster payment Payward Ltd
+8 07/07/2022 £1,300 faster payment Payward Ltd
+She says she trusted the broker who was advising her as he kept in regular contact, showed
+her the portal she could use to track her investment and gave details of the returns similar
+investments had achieved. He also spoke her native language.
+However, when she was asked to repeatedly pay fees to access her investment returns she
+realised it was a scam and raised a fraud claim with Nationwide. It rejected her claim saying
+the money was moved to the scammer from Payward Ltd so it was the point of loss, not
+Nationwide. It apologised for its slow response to Mrs Bs claim and paid her £50
+compensation.
+Our investigator upheld Mrs Bs complaint in part from payment 4 saying this ought to have
+triggered further checks from Nationwide. And had it intervened she thought it would have
+broken the spell of the scam.
+Nationwide disagreed with this assessment and asked for an ombudsmans review.
+It said the payments were not out of character and were made to an account in Mrs Bs
+name. It pointed out that Mrs B had moved similar amounts of money to an account in her
+name at WISE, a firm that operates a similar business model to Payward. It acknowledges
+Payward is potentially a crypto linked business and this was a new payee for Mrs B but
+argues those factors were not enough to raise concerns in the circumstances. As Mrs B
+stopped using WISE during the life of the scam it says it seems like she had changed
+providers for money transfers.
+Mrs B said Nationwide should have intervened at payment 3.
+I reached a different decision to the investigator so I issued a provisional decision. An extract 
+follows and forms part of this final decision.
+Extract from my provisional decision
+I dont dispute Mrs B was scammed and she wasnt making payments for the reason she 
+thought she was, but I remain satisfied the transactions were authorised under the Payment 
+Services Regulations 2017.
+Its also accepted that Nationwide has an obligation to follow Mrs Bs instructions. So in the
+first instance Mrs B is presumed liable for her loss. But there are other factors that must be
+considered.
+To reach my decision I have taken into account the law, regulators rules and guidance,
+relevant codes of practice and what was good industry practice at the time. To note, as the
+payments were to an account in Mrs Bs name the principles of the Contingent
+Reimbursement Model (CRM) code do not apply in this case.
+This means I think that Nationwide should have:
+been monitoring accounts and payments made or received to counter various
+risks, including fraud and scams, money laundering, and the financing of terrorism.
+had systems in place to look out for unusual transactions or other signs that
+might indicate that its customers were at risk of fraud (amongst other things). This is
+particularly so given the increase in sophisticated fraud and scams in recent years,
+which financial institutions are generally more familiar with than the average
+customer.
+in some circumstances, irrespective of the payment channel used, taken
+additional steps or made additional checks before processing a payment, or in some
+cases declined to make a payment altogether, to help protect its customers from the
+possibility of financial harm.
+I currently think Nationwide should be liable for payments 3 to 8. Ill explain why.
+Payments 1 and 2
+There is a balance to be struck. Banks and building societies have obligations to be alert to
+fraud and scams and to act in their customers best interests. But they cant reasonably be
+involved in every transaction. Nationwide has said Mrs B would have seen a warning at this
+stage but it hasnt shared the content to date. Nonetheless, I dont think it was unreasonable
+for Nationwide to process these payments given their value.
+Payment 3
+I think Nationwide ought to have carried out further checks and spoken to Mrs B before
+processing this transaction. It was higher than her typical account activity, to a relatively new
+payee, but most critically to a crypto account.
+I accept this was now the third payment to that new payee so Nationwide may argue Mrs B
+had by now paid them twice already without issue, but Nationwide is aware of the typicalpatterns of scams like this  that customers often move money onto a crypto account in their
+own name before moving it on again to scammers; and that scams like this commonly take
+place with multiple payments, starting at a low value, over a protracted timescale.
+I also appreciate that Mrs Bs loss didnt materialise directly from her Nationwide account in
+these circumstances. But even though she was transferring funds to a crypto account in her
+own name, I still think that Nationwide ought to have taken a closer look at payment 3 
+given the significant risk of fraud associated with cryptocurrency investments at the time.
+The FCA and Action Fraud published warnings about cryptocurrency scams in mid-2018.
+And by January 2019, cryptocurrency scams continued to increase in frequency. So, by the
+time Mrs B started making her investments in April 2022, it is reasonable to say Nationwide
+ought to have had a good enough understanding of how crypto scams works  including the
+fact that their customer often moves money to an account in their own name before moving it
+on again to the fraudster.
+Therefore, Im satisfied that Nationwide shouldve had mechanisms in place to detect and
+prevent this type of fraud at the time Mrs B was making this payment, and that it should
+have led to it intervening to ask further questions about payment 3.
+Nationwide argues that Mrs Bs spending pattern with WISE was the reason it did not need
+to intervene, arguing Payward operates a similar model and Mrs B was perhaps simply
+changing her money transfer provider. I have several concerns with this defence. The firms
+offer very different services. Payward is registered for certain crypto asset activities whereas
+WISE is an authorised electronic money institution. And its assertion that Mrs B was most
+likely changing money transfer providers is wholly assumptive. It also only functions as a
+retrospective defence as at the time of payment three it would not have known Mrs B was
+not going to use WISE during the life of this scam.
+It follows I find payment 3 ought to have triggered checks. This means I now need to decide
+what would most likely have happened had Nationwide spoken to Mrs B at this stage.
+I would expect Nationwide to have asked Mrs B who the payment was for, what it was for,
+and for the basic surrounding context of the payment - it could, for example have, asked how
+she had been contacted, whether shed parted with personal details in order to open a
+trading account, whether she was being helped by any third parties e.g. a broker, whether
+the investment opportunity was linked to a prominent individual, advertised on social media
+etc. These are typical features of cryptocurrency scams.
+I have no reason to believe Mrs B wouldnt have been open with Nationwide, and I think she
+would have taken its intervention seriously. So I think Nationwide would have quickly learned
+from its conversation with Mrs B the basic background to the payment instruction  that she
+was buying cryptocurrency through Payward to send onto what she thought was a
+cryptocurrency type trading investment which shed decided to pursue after learning about it
+via social media. And that she had been guided by a third party using AnyDesk on how to
+set up the Payward app.
+I note Mrs B had been told to select bills as the reason for payment but I feel Nationwide
+would quickly have uncovered that was not the case. Mrs B had not been provided with a
+robust cover story by the scammer in the event she was asked verbally about the reason for
+the transfer(s).
+Even though the conversation would have identified the payment was going to Mrs Bs own
+cryptocurrency account (before being sent onto the scammers), the conversation shouldnt
+have stopped there on the basis that the money appeared to be going to somewhere safe
+and within Mrs Bs control. This is because by 2022 Nationwide was well aware  or ought tohave been well aware  of how scams like this work  including that the customer often
+moves money onto an account in their own name before moving it on again to scammers.
+So, in the round, I think Nationwide would have been concerned by what the conversation
+would most likely have revealed and so warned Mrs B, explaining the typical characteristics
+of scams like this. Had it done so I think Mrs B would have listened and recognised she was
+at risk. She has told us she tried to research the opportunity online but there were no
+reviews anywhere. I am satisfied she would have had second thoughts if Nationwide had
+intervened effectively.
+It follows I think Mrs B would not have gone ahead with payment 3, nor any subsequent
+payments.
+Nationwide has confirmed it contacted Payward to try to recover the funds once Mrs B
+reported the fraud but there were no funds available (as Mrs B would have already been
+aware as she moved the money on to the scammer). I note she received a number of related
+credits from her Payward account during the life of the scam to a total of £1,893.53.
+In conclusion, for the reasons set out above I currently think Nationwide must refund
+payments 3 to 8 to Mrs B, minus the credits she received.
+Ive considered carefully whether Mrs B should hold some responsibility for her loss by way
+of contributory negligence. I think a reasonable person, having spoken to who she thought
+was a broker and an experienced cryptocurrency investor, might be persuaded that the
+investment was legitimate. Particularly bearing in mind the social engineering and
+persuasion tactics used by the scammer (supporting her through the process, showing her
+the tracking tools for her investment and speaking to her in her native language). All of which
+would make it hard for Mrs B to identify and reflect on any warning signs or carry out more
+checks before deciding to invest. I dont think Mrs B acted unreasonably here.
+Mrs B continued to make payments over a period of time  but she was unaware her money
+was at risk. She was in constant contact with the scammer, who messaged her regularly
+about her investment, advising her on what to do and reassuring her of the gains she could
+make. He showed Mrs B how to withdraw funds from her crypto account and return them to
+her Nationwide account and paid her a bonus for recommendations. And the scammer used
+a particular type of software that allowed Mrs B to physically see her investment and the
+gains she was making. She was completely caught up in the scam, and I dont think she
+ought to have reasonably known she was being scammed or alerted to anything that would 
+have prompted her to carry out any due diligence checks whilst the payments were being
+made. It was only at the point she wanted access to her gains, and was asked for more
+money to facilitate this, that she became suspicious.
+In all the circumstances, I dont think there was contributory negligence here. Mrs B was
+sadly the victim of a sophisticated cryptocurrency investment scam and wasnt partly to
+blame for what happened.
+I note Nationwide has already paid Mrs B £50 to acknowledge the distress and
+inconvenience she suffered as a result of the delay in its fraud investigation. However, in
+light of my findings I think there is other distress and inconvenience to recognise. So the
+compensation should be increased by a further £250. I say this as I have found that it was
+Nationwides failure to act on 23 May 2022 that has put Mrs B in the position where for some
+time now she has been facing the possibility of a significant financial loss  and one that
+could have been prevented by Nationwide. She has understandably suffered accordingly.
+I then set out all the actions Nationwide would need to take to put things right.Nationwide accepted my provisional decision and proposed redress. It confirmed it would 
+refund £20,006.47 (and pay £250 additional compensation) to Mrs Bs account and contact 
+her directly once it had calculated the interest owed to her. It highlighted that it would be 
+entitled to re-debit any part of the refund if it transpires that Mrs B has been able to recover 
+any of her losses from the other parties involved.
+Mrs B did not respond.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+To reach my decision I have taken into account the law, regulators rules and guidance,
+relevant codes of practice and what was good industry practice at the time. To note, as the
+payments were to an account in Mrs Bs name the principles of the Contingent
+Reimbursement Model (CRM) code do not apply in this case.
+As neither party submitted any new evidence it follows I have no reason to change the 
+findings or outcome I set out my provisional decision.
+For the reasons set out above Nationwide must refund payments 3 to 8 to Mrs B, minus the 
+credits she received.
+Putting things right
+Nationwide must:
+refund transactions made from and including the transfer of £5,200 on 23 May 2022;
+deduct the credits Mrs B received from Payward Ltd (£198.05 on 2 June 2022,
+£1,598 on 6 June 2022 and £97.48 on 11 July 2022);
+add 8% simple interest from the date of payment to the date of settlement (if
+Nationwide deducts tax from this interest, it should provide Mrs B with the
+appropriate tax deduction certificate); and
+pay Mrs B an additional £250 compensation for the distress and inconvenience she
+suffered.
+Nationwide is, as it said in response to the provisional decision, entitled to also deduct any 
+amount(s) Mrs B has recovered from the other parties involved. It is my understanding that 
+she has been unable to recover any of her losses, but I would ask that she confirms this 
+when she accepts or rejects this decision. 
+My final decision
+Under the rules of the Financial Ombudsman Service, Im required to ask Mrs B to accept or 
+reject my decision before 18 August 2023.
+ 
+Rebecca Connelley
+Ombudsman

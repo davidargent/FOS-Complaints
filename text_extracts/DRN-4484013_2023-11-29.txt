@@ -1,0 +1,112 @@
+DRN-4484013
+The complaint
+T complains that TIDE PLATFORM LTD trading as TIDE wont refund a £515.73 payment 
+debited from its account which it says it didnt authorise. T is also unhappy with how TIDE 
+dealt with the matter, even after, it says, it upgraded its account so it could use TIDEs phone 
+service. 
+What happened
+The background to this complaint is well known to both parties, so I wont repeat everything 
+here. In brief summary, T has explained that in July 2022 a payment of £515.73 was debited 
+from its TIDE account which it says it didnt authorise. T reported this to TIDE. But ultimately, 
+whilst TIDE offered T £25 compensation for service issues, it didnt refund T the £515.73 
+payment. T remained dissatisfied and referred its complaint about TIDE to us. As our 
+Investigator here couldnt resolve the matter informally, the case has been passed to me for 
+a decision. 
+I sent T and TIDE my provisional decision earlier this month explaining what I was minded to 
+conclude and why. T replied to say it would be happy to accept my provisional decision. 
+TIDE replied with no further comments or information.   
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, Ive decided to uphold this complaint for the same reasons as explained in 
+my provisional decision. Ive explained why again below.
+The Payment Services Regulations 2017 are relevant to this case. In short, banks will 
+generally be liable for unauthorised payments; and a payment out of someones account can 
+only be authorised if the payer has consented to it. So, its not enough for TIDE to show how 
+the disputed payment was authenticated. To decide that T authorised the payment, Id also 
+need to be persuaded that T most likely consented to the payment.
+Information provided by TIDE suggests the disputed payment was made to a merchant Ill 
+call P. It appears the payment was made to Ps PayPal account. T has explained that P is 
+one of its regular wholesalers, so its made lots of payments to P both before and after the 
+disputed transaction. But T says it didnt authorise this particular payment to P; and when it 
+noticed it, it questioned P which said it hadnt received it; and T has provided screenshots of 
+messages it says are between it and P at the time which show this. In summary then: TIDE 
+says the payment was to P; T says P said it didnt receive it; and T says it didnt authorise it.
+In terms of authentication, TIDE says: it was an e-commerce offline transaction; neither 
+cardholder nor card were present; this indicates the payment was either made by phone or 
+via the merchants website; and that no additional verification was triggered such as 3DS or 
+OTP as the transaction was made offline. In other words, the only information needed to 
+authenticate the payment were the card details, which are commonly given out to make 
+everyday payments online for example, and presumably these would be details P already 
+held. 
+So, turning to consider consent, TIDE says there were no failed transactions or 
+unrecognised payment attempts so the payment isnt indicative of fraud from what its seeing 
+when it comes to fraud or compromised cards. But I think TIDE has overlooked the point that 
+third-party fraud isnt the only way this payment could have been made without Ts consent. 
+For example, someone acting as P could have mistakenly taken the payment. Its possible 
+the payment might be held in a holding account somewhere, which would explain why P 
+appears to have claimed to have not received the payment. Im not saying this is definitely 
+what happened; unfortunately TIDE didnt look into this. But this illustrates why the question 
+of whether or not T most likely consented to the payment does not depend on third-party 
+fraud. 
+I also dont find what TIDE says about T not following its advice to cancel its card promptly 
+persuasive. I understand TIDE is suggesting that given by then it had told T the payment it 
+claims was unauthorised was taken by P, youd think T would have followed the advice to 
+cancel its card promptly unless it thought it was actually, after all, most likely its own mistake 
+or oversight (and that, actually, P probably had taken the payment with Ts consent). Again, 
+though, I think TIDE has overlooked the point that P was one of Ts regular wholesalers 
+which it had dealt with previously many times without issue; and given P appeared to be 
+saying it hadnt received the payment, it probably would have looked more like some sort of 
+banking error rather than fraud, so I think it would be understandable if T didnt feel the 
+immediate need to cancel its card and incur unnecessary inconvenience in this way; at a 
+time when T, quite reasonably, would have expected TIDE to be able to work out the 
+banking error and get its money back. 
+Unfortunately TIDE hasnt then, in my view, lived up to what I think were reasonable 
+expectations. Instead, it seems to me, that TIDE has, in essence, simply pointed to T having 
+paid P before, and its made other unwarranted assumptions not in Ts favour (for example, 
+by questioning, without persuasive grounds in my view  especially in light of TIDE not 
+investigating matters essentially at all  the reliability of its evidence including the 
+screenshots it says are messages with P); and ultimately its then failed to refund the 
+transaction, either as unauthorised or through means of chargeback, in circumstances 
+where, in my view, there isnt sufficiently persuasive evidence that T consented to the 
+payment. I do not think it was reasonable for TIDE to assume T authorised the payment just 
+because it had paid P before and to therefore not look into things further. Neither would this 
+particular payment have looked, realistically, like something T and P would be able to 
+resolve between themselves, given it appeared theyd already tried but neither of them 
+seemed to have recognised the payment. 
+Now I understand TIDE says its not obliged to proceed with chargeback and its current 
+process is that, if it raises a dispute, its finance partner decides whether or not to raise a 
+chargeback  so, it says, the decision to raise a chargeback doesnt directly lie with TIDE. 
+However, TIDE has a responsibility to its customer, and how it decides operationally to fulfil 
+that is a matter for TIDE. But I dont think it can sidestep its responsibilities by simply 
+appearing to outsource certain decisions. And whilst there is no right to a chargeback, I 
+generally consider it to be good practice that a chargeback be raised if there is a reasonable 
+chance of it succeeding. 
+Bearing in mind T was telling TIDE it didnt authorise the transaction and that P was claiming 
+not to have received the payment (but TIDE was apparently sure P had received it), I cant 
+see how pursuing a chargeback wouldnt have been eminently reasonable. Weve seen no 
+evidence P was entitled to the payment or that T received anything in return for it, so it seems most likely that had TIDE pursued a chargeback the payment would have been 
+recovered. 
+But, in any event, my decision here doesnt turn on chargeback. TIDE is not entitled to debit 
+this transaction from Ts account unless it was authorised. To decide that T authorised the 
+payment, I need to be persuaded that T most likely consented to the payment. And in this 
+case, for the reasons Ive explained, Im not persuaded T did consent to it. This means I 
+think TIDE should refund to T the disputed payment of £515.73. TIDE should also pay T 
+interest on this amount calculated at 8% simple per year from 13 July 2022 to the date of 
+settlement.
+It's common ground that the service provided by TIDE here has not been the best. TIDE 
+offered T £25 compensation for this, but I think this is too low and that TIDE should instead 
+pay T £100 compensation for this.
+My final decision
+For the reasons explained, I uphold this complaint and I direct TIDE PLATFORM LTD 
+trading as TIDE to pay T:
+£515.73; plus
+interest on this amount from 13 July 2022 to the date of settlement calculated at 8% 
+simple per year (if TIDE deducts tax from this interest, it should provide T with the 
+appropriate tax deduction certificate); plus
+£100.
+Under the rules of the Financial Ombudsman Service, Im required to ask T to accept or 
+reject my decision before 27 December 2023.
+ 
+Neil Bridge
+Ombudsman

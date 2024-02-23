@@ -1,0 +1,87 @@
+DRN-4260398
+The complaint
+Mr D has complained that he was able to make gambling transactions through his Starling 
+Bank Limited (Starling) account despite having a gambling block in place. 
+What happened
+In November 2022, Mr D contacted Starling to say that despite having applied its gambling 
+block to his account, he was still able to gamble by transferring funds through a third-party 
+payment provider. 
+Starling responded to Mr Ds complaint and explained that while the block could be useful 
+unfortunately it wasnt guaranteed to work especially when transferring funds to a third party 
+before transferring funds on to a gambling website. 
+Following this, in December 2022 Mr D contacted Starling again to say that he was still 
+gambling and he asked for a specific third party payment provider to be blocked on his 
+account. He explained that he had mental health issues and had issues with gambling and 
+would like Starling to refund the money he had lost to gambling websites. He also asked for 
+further support from Starling. Starling explained that it could not block the website in 
+question and as it was not a gambling website the block would not work for that website. It 
+also referred him to a specialist team who contacted him in January 2023 and provided 
+contact details for places where Mr D could seek further help.
+Unhappy with Starlings response, Mr D brought his complaint to our service. One of our 
+investigators looked into the complaint for him. She found that Starling had applied the block 
+properly and she didnt think Starling was responsible for the losses Mr D incurred, so she 
+didnt uphold his complaint. 
+Mr D remained dissatisfied and asked for an ombudsman to review his complaint again and 
+so it has been passed to me to consider.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so I agree with the outcome reached by our investigator and for much the same 
+reasons. 
+I appreciate that this is a very difficult situation for Mr D and I want to thank him for being so 
+honest in his submissions. When a consumer discloses a vulnerability to a business, as 
+Mr D has done, we expect that business to treat them fairly and provide them with tailored 
+support.
+Mr D was able to use his Starling account to gamble despite the block being added to the 
+account. Starling has explained why this has happened, but I will repeat the explanation here 
+as I agree it is correct.
+Gambling blocks work by identifying the merchant category code (MCC) the retailer has 
+applied to it. Different types of retailers have different codes, and there is a specific one that 
+gambling websites are supposed to use. If a gambling merchant doesnt apply the correct 
+code, things like gambling blocks wont work. This is because the algorithm that the block 
+relies on is designed to identify the gambling MCC and not any others. So, if a different code 
+is used, the algorithm wont pick up on it and the transaction will complete as normal. 
+In this instance the merchant in question was not a gambling website and therefore the 
+gambling block would not work as the MCC would not be one that related to gambling. Also 
+as the transactions in question were not card payments the block would not work.
+Unfortunately, this is an issue that impacts gambling blocks, across the financial institutions 
+that offer them, and is not unique to Starling. 
+So, I cant safely say that its Starlings fault that Mr D was able gamble through his account. 
+This is because Mr D has confirmed that he used a third-party payment provider. I 
+appreciate that Mr D has issues with gambling. Im not satisfied that there was a failing on 
+the part of Starling, I dont think it would be reasonable to direct them to refund the money 
+spent to the third-party provider.
+I note that Mr D has explained that it was not clear what would and wouldnt be blocked. But 
+from what I can see Starling made it clear in its banking app that the block would only block 
+card payments to gambling websites and would not work in all situations.  
+The next thing I want to address is how Starling responded once it became aware of Mr Ds 
+situation. As mentioned above businesses are obliged to offer useful and tailored support to 
+vulnerable consumers when they become aware of their vulnerability. When Mr D contacted 
+Starling to explain he had issues with gambling and he had mental health issues, and had 
+been gambling despite the block being on his account, Starling replied by explaining why the 
+block hadnt worked and it asked Mr D if he wanted to speak to someone from its vulnerable 
+customer team so he could let it know specifically what sort of help and support he would 
+find useful going forward, which I see that Mr D was in contact with in January 2023. I can 
+see from the conversation notes that during this contact Mr D was made aware of 
+companies that could help with his financial situation and also how he could self-exclude 
+directly with gambling companies. I dont think that this was an unreasonable response.
+I note that Mr D is unhappy that Starling were unable to specifically block the website he 
+asked Starling to, but Starling have confirmed that they are unable to do this and all they can 
+do is block all faster payments from the account. My understanding is that this was tried in 
+May 2023 and Mr D removed this block himself as he needed some payments to go through. 
+So, I dont think that Starling could have come up with an acceptable solution to prevent Mr 
+D from gambling.
+While Mr D is understandably frustrated and unhappy that the gambling block didnt work in 
+his specific circumstance, Im satisfied that Starling did all it could to explain the limitations of 
+the block and offer genuine and tailored support to him when it became aware of his issues 
+with gambling. And for those reasons Im not upholding Mr Ds complaint.
+I know this will come as a disappointment for Mr D, but I hope he understands the reasoning 
+behind my decision. I should add that this decision represents the final stage in our process 
+and there is no further recourse to appeal or discuss the merits further. That said Mr D may 
+be able to pursue this matter elsewhere such as court if he wishes to do so.My final decision
+For the reasons set out above I dont uphold Mr Ds complaint against Starling Bank Ltd.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr D to accept or 
+reject my decision before 29 September 2023.
+ 
+Charlie Newton
+Ombudsman

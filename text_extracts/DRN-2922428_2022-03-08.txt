@@ -1,0 +1,209 @@
+DRN-2922428
+The complaint
+Mr M complains that Advance Payment Solutions Limited (trading as Cashplus) hasnt 
+refunded £5,449.18 that he says was made without his authority.
+What happened
+Mr M had an account with Cashplus.
+In 2020, Mr M had a night out with one of his clients. After an evening meal, they visited an 
+adult entertainment bar. Mr M used his card to pay for two services  one for him and one for 
+a client costing £420 each. Later, Mr M purchased a further service for his client of £500. 
+Later in the evening, while Mr M was on his way home, he noticed a further transaction for 
+£5,449.18 made to a company based on Spain. The next morning Mr M alerted Cashplus 
+about the disputed transaction.
+Cashplus investigated this. It said that it couldnt refund the transaction. It says that the card 
+was present, and the correct PIN was used  and it didnt think there was a point when the 
+card or PIN was compromised. So it thought the transaction was genuine. Cashplus also 
+explored the possibility of a chargeback under the relevant card scheme rules. However, it 
+said that to prove that the merchant had debited the wrong amount, it would need to see a 
+receipt.
+Mr M says he was drugged, and that the workers at the establishment kept trying to distract 
+him.
+I issued a provisional decision on 16 November 2021. In my provisional decision I said Id 
+considered all the available evidence and arguments to decide whats fair and reasonable in 
+the circumstances of this complaint.
+In this case, the relevant regulations were the Payment Services Regulations 2017 (PSR 
+2017). These say that a payment transaction is regarded as authorised by the payer only if 
+the payer has given consent to the execution of the payment transaction.
+And where a payment service user denies having authorised an executed payment 
+transaction, it is for the payment service provider  in this case, Cashplus  to prove that the 
+payment transaction was authenticated and accurately recorded. And the use of a payment 
+instrument such as a card is not in itself necessarily sufficient to provide that the payment 
+transaction was authorised by the payer.
+If a payment transaction was not authorised, then the payment service provider must refund 
+the unauthorised payment transaction to the payer.
+But the payer will be liable for losses in respect of the unauthorised transaction where the 
+payer has with intent or gross negligence failed to comply with their obligations in relation to 
+any payment instrument or personalised security credentials. 
+This includes using the payment instrument in accordance with the terms and conditions 
+governing its issue and use; notifying the payment service provider following the loss of the 
+card; and taking reasonable steps to keep any personalised security credentials safe. Ive 
+thought about this when looking at Mr Ms complaint.
+Mr M accepts he was in the venue at the relevant time, and that he had his card with him. He 
+also agrees that he made three transactions of £420, £420 and £500. So, based on what Id 
+seen, the main questions for me to consider were:
+Whether Mr M authorised the transaction of £5,449.18  and,
+If not, whether it is nevertheless fair to hold Mr M liable for them.
+As Mr M disputed this transaction, I first looked at whether Cashpluss records show it 
+authenticated the transaction. Based on the records Ive seen, the disputed transaction took 
+place at 2am on the day in question. The records show a transaction of £5,449.18 which was 
+made with the card and authenticated using the PIN. So Im satisfied that the transaction 
+was authenticated by Mr Ms PIN being entered.
+But this doesnt mean, on its own, that Mr M authorised the transaction. Ive gone on to 
+consider whether Mr M in fact authorised the transaction, given what both Mr M and 
+Cashplus have said.
+I note that initially, when Mr M reported the transaction to Cashplus, he thought hed 
+authorised the transaction  but for a different amount. He told Cashplus that he thought 
+hed needed to pay £420  but was charged £5,449.18  so asked to charge back 
+£5,029.18.
+I see Mr M also wrote to the merchant listed on the statement, a company based in the 
+Canary Islands, to explain that the bank card had been debited for £5,449.18 when Mr M 
+had only agreed to pay £420. He said I entered my PIN number but do not recall being 
+shown the amount I was paying for. Neither was I given a receipt for the transaction.
+Mr M now thinks he may not have approved the transaction at all. He thinks he was drugged 
+and believes he may have been observed entering his PIN by the workers at the venue. He 
+recalls beginning to feel very dazed and confused, and that people kept moving his jacket 
+and having to move it back. He suggests someone else must have seen him enter his PIN 
+and then carried out the transaction without his knowledge.
+I thought it was understandable that Mr M didnt have a clear recollection of what happened. 
+The transaction took place in the early hours of the morning, and Mr M had been out 
+entertaining a client most of the evening. I also took into account what Mr M had said about 
+possibly being drugged. Mr M remembered authorising some transactions  so I didnt find it 
+surprising that he initially concluded the wrong amount might have been taken by mistake.
+I therefore went on to consider whats most likely to have happened, based on the other 
+information that was available.
+I first considered the possibility that Mr M authorised these transactions. I noted that the 
+transaction did take place with the card present, and using the PIN. Mr M had authorised the 
+earlier transactions at the establishment. So I could see how it was possible that that Mr M 
+made the later one. 
+But given what Mr M had said, I thought it was also possible that he was observed entering 
+his PIN. Mr M said he made three payments during the evening. He also says that at points 
+he was surrounded by workers at the venue who kept bringing him shots. He also says that he discovered later on that someone had deleted his Cashplus app from his mobile phone  
+and this was supported by Cashpluss records, which show a new device ID and user agent 
+string when Mr M logged in later that morning. This suggested someone was trying to hide 
+what had happened to Mr M and taking advantage of him not being fully alert at the time.
+It also seemed unlikely, on the face of it, and given the nature of where Mr M said he was, 
+that Mr M intended to spend £5,449.18. This was far greater than any of the other 
+transactions that evening  indeed, it was one of the largest transactions ever made to the 
+account. And the transaction was followed just three minutes later by an attempted 
+transaction of £1,022.23, which failed as his account had just £1,003.49 remaining. This 
+suggests someone was attempting to quickly withdraw all the funds from Mr Ms account 
+without knowing the full balance.
+I thought this was a finely balanced case. But on the balance of probabilities I accept that Mr 
+M didnt authorise those final two transactions. I found it more plausible that someone at the 
+venue saw him entering his PIN during one of the three authorised transactions  and then 
+used the card while Mr M was otherwise distracted.
+In any case, good industry practice meant Cashplus needed to have measures in place to 
+look out for suspicious transactions, and to make additional checks before processing 
+payments to help protect customers from fraud.
+Id thought about what Cashplus had said about that. It says the card machine Mr M used 
+was registered to a hotel and therefore it thought the transaction was low risk.
+But I didnt think Cashplus did enough to protect Mr M here. I thought all five transactions 
+that took place that night were unusual. The first payment, for £420, took place at 11:45pm, 
+with further transactions at 00:42am, 1:26am and then, finally, for the disputed transaction, 
+at 2:00am. These were face-to-face transactions but for a range of merchants, including a 
+maintenance company, a recoveries business and an events catering company. The final 
+transaction was apparently face-to-face, but with an accommodation provider based in 
+Spain. In the circumstances, I thought it reasonable that Cashplus should have highlighted 
+this transaction as unusual.
+In the circumstances, I think a block of the account would have been reasonable. Or 
+Cashplus could have called Mr M to check if hed made the transaction. I appreciate that had 
+these transactions been genuine this might have inconvenienced Mr M. But I thought there 
+was enough evidence to suggest something had gone wrong, and Id expect Cashplus to 
+ensure its customer was protected.
+The disputed transaction seemed unlike any of the other transactions previously charged to 
+the account. Mr M reported the incident to Cashplus later that morning. And while I carefully 
+considered the points Cashplus had made, I thought it more likely than not that Mr M didnt 
+authorise the payment of £5,449.18. And so I thought Cashplus should reimburse Mr M for 
+this amount.
+I didnt consider Cashplus were entitled to make any deductions for contributory negligence. 
+This carried a high bar, and I didnt think Mr M was at fault for the circumstances of this 
+complaint.
+I said Cashplus should also calculate interest at 8% simple per year on the amount they 
+refund. They should calculate this from the date the money was taken to the date they 
+refund it. If HM Revenue & Customs requires Cashplus to deduct income tax from this 
+interest, it should give Mr M a certificate showing how much is taken off if he asks for one.Finally, I said Cashplus should pay Mr M £150 for the distress and inconvenience caused. I 
+say this because, although I appreciate a large part of the distress Mr M suffered was 
+caused by the fraudsters, I think Cashplus should have been more proactive when 
+recognising the unusual activity on Mr Ms account and should have done more to prevent 
+the transactions going through  and therefore significantly reduced the impact on Mr M.
+I said Id consider any further information I received by 14 December 2021.
+Mr M confirms hes received my provisional findings and agrees with them.
+Cashplus has confirmed that it received my provisional findings. It responded shortly after 
+the deadline to say that it was being reviewed and that they hoped to provide a response as 
+soon as possible. It has now responded to say it disagrees with my provisional findings for a 
+number of reasons:
+It says I didnt address the points it raised in response to the investigator.
+It thinks it is unreasonable to expect a card services provider to call a customer at 
+2am on a Saturday morning. It says the transaction in question was flagged on its 
+internal report for authorisations in another country, which was worked early the next 
+day, by which time Mr M had already reported the transaction as fraudulent.
+It feels that Mr M should take some responsibility for his actions.
+It says these transactions took place at a time when Covid restrictions required bars 
+to close at 10pm and obey social distancing rules; it says Mr M was in breach of the  
+law and government guidelines  which it suggests constitutes gross negligence.
+It thinks its unlikely that Mr M could have been lucid enough to authorise the 
+transactions he did authorise yet not be lucid enough to protect his PIN.
+Ive therefore considered the case afresh.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Ive carefully considered the points Cashplus has raised.
+In my provisional decision, I concluded that all four transactions that took place that evening 
+were unusual. These took place between 23:45pm and 2:00am, and were described as 
+being for maintenance, to an event catering company, to a recovery service, and then, 
+finally, to an accommodation provider based on Spain. As such, I thought that Cashplus 
+should reasonably have taken steps to block them  or to contact Mr M to check if hed 
+made these transactions. And as Id concluded Mr M most likely didnt authorise the final 
+transaction, for £5,449.18, I thought Cashplus should reimburse Mr M for this transaction.
+Ive considered the points Cashplus raised in response to this. First, I note it thinks it is 
+unreasonable for me to expect it to contact its customer at 2am. I think its generally 
+considered good industry practice to be able to have fraud monitoring 24 hours a day. And I 
+dont think Cashplus necessarily would have needed to contact Mr M by phone  it could for 
+instance have sent him a message asking him to contact it. Or it could have blocked the 
+transactions entirely and waited for Mr M to get in touch. Im not persuaded that the early 
+time of the transaction meant that Cashplus could reasonably have just allowed the transaction to be paid anyway.
+Ive also thought about what Cashplus has said about Mr M being grossly negligent. I 
+thought that given Mr M had entered three genuine transactions, it was possible he was 
+observed entering his PIN. Cashplus points out that, if what Mr M has said is correct, then 
+the establishment he visited was operating in breach of the Governments COVID-19 
+restrictions. It says that this, together with allowing people to get close enough to shoulder-
+surf for his PIN, showed serious disregard to an obvious risk. But I dont think this changes 
+my conclusions. The obligations under the payment services regulations relate to whether 
+Mr M failed in his obligations to keep his personal security credentials safe  not to whether 
+he was being careless more generally. And the bar for gross negligence is a high one  Im 
+not persuaded that just because someone was able to overlook Mr M entering his PIN that 
+this amounted to extraordinary carelessness. And given what Cashplus has said about the 
+COVID-19 restrictions in place at the time, I think this meant there was all the more reason 
+to think these transactions were suspicious.
+I note Cashpluss comments about its response to the investigators assessment. To be 
+clear, I considered this information before I reached my provisional findings. I noted that 
+Cashplus thought the disputed transaction was low risk because it was processed with the 
+chip used. I also commented on the possible compromise of the PIN. And though Cashplus 
+thought there were inconsistencies in what Mr M had said, I thought it was understandable 
+that Mr M didnt have a clear recollection of what happened.
+Cashplus has also directed me to some published decisions on our website. But Im satisfied 
+that I must decide whats fair and reasonable in the circumstances of Mr Ms complaint  just 
+as those other decisions will have been based on the circumstances of those complaints. I 
+accept that the outcome is finely balanced and we may not ever know for certain exactly 
+what happened. But for the reasons Ive explained, based on what I think most likely 
+happened in Mr Ms case, I still think its fair to require Cashplus to reimburse the disputed 
+transaction.
+But in any case, I still conclude that, in line with good industry practice, Cashplus should 
+reasonably have identified that these transactions were suspicious and taken steps to check 
+Mr M had in fact made them. The final transaction, which Mr M has disputed, was ostensibly 
+a face-to-face transaction with an overseas accommodation provider at 2am, and was high 
+value. Cashplus has itself confirmed that it was flagged on an internal report for 
+authorisations in another country. I think it most likely that if it had taken steps to block or 
+verify this transaction, the transaction would have been prevented.
+Putting things right
+Cashplus should reimburse the payment of £5,449.18,
+It should add simple interest (the rate is 8%) from the time the payment was made until Mr M 
+gets it back.
+Cashplus should also pay Mr M £150 for the distress and inconvenience caused.
+My final decision
+For the reasons above and in my provisional decision I uphold Mr Ms complaint. Advance 
+Payment Solutions Limited should put things right by doing what Ive said above.Under the rules of the Financial Ombudsman Service, Im required to ask Mr M to accept or 
+reject my decision before 5 April 2022.
+ 
+Rebecca Hardman
+Ombudsman

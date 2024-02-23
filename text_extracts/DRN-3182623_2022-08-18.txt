@@ -1,0 +1,189 @@
+DRN-3182623
+The complaint
+Mr S complains that Marks & Spencer Financial Services Plc (M&S) didnt do enough to 
+protect him from losing money to an investment scam.
+What happened
+Mr S has explained that he was looking to invest and a merchant by the name of Kruger 
+Exchange was the first to get back to him  and he was persuaded to make payments to 
+Kruger Exchange towards an investment with Kruger Exchange. He made the following 
+payments using his M&S Mastercard credit card.
+Transactio
+n no. DateMercha
+ntAmount 
+(£)Fee 
+(£) Total (£)
+1 26 February 2019 Wall-it 1,740.87 52.05 1,792.92
+2 26 February 2019 Wall-it 191.50 5.73 197.23
+3 07 March 2019 Wall-it 1,550.21 46.35 1,596.56
+4 07 March 2019 Wall-it 3,444.90 103.00 3,547.90
+5 07 March 2019 Wall-it 2,153.35 64.39 2,217.74
+6 12 March 2019 Wall-it 2,643.90 79.05 2,722.95
+7 30 March 2019 Wall-it 2,508.56 75.01 2,583.57
+Total 14,233.29 425.58 14,658.87
+Mr S has said he also made a further payment of £2,500 via Transferwise on 26 March 2019 
+but I can see this payment was returned to his account the following day, so Ive not included 
+this payment (and its return) in the list above for the sake of simplicity.
+Mr S subsequently reported to M&S that hed been scammed. M&S didnt reimburse Mr S. 
+And Mr S remained unhappy. So he referred his complaint about M&S to us. As our 
+investigator (who recommended that the complaint be upheld) was unable to resolve matters 
+informally, the case has been passed to me for a decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Section 75 of the Consumer Credit Act 1974 (s.75)
+Ive considered whether it would be fair and reasonable to uphold this complaint about all of 
+the payments (which were all credit card payments) on the basis that M&S is liable under 
+s.75. As a starting point, its useful to set out what s.75 actually says:
+(1) If the debtor under a debtor-creditor-supplier agreement falling within section 
+12(b) or (c) has, in relation to a transaction financed by the agreement, any 
+claim against the supplier in respect of a misrepresentation or breach of 
+contract, he shall have a like claim against the creditor, who, with the supplier, 
+shall accordingly be jointly and severally liable to the debtor.
+
+(3) Subsection (1) does not apply to a claim  
+a) under a non-commercial agreement,
+b) so far as the claim relates to any single item which the supplier has 
+attached a cash price not exceeding £100 or more than £30,000
+To summarise, there must therefore be:
+1. a debtor-creditor-supplier agreement falling under section 12(b) or 12(c); and
+2. a transaction financed by the agreement; and
+3. a claim for misrepresentation or breach of contract related to the transaction;
+4. but not a claim which relates to any single item to which the supplier attached a cash 
+price not exceeding £100 or more than £30,000.
+Ill deal with each of these requirements in turn. 
+First, Im satisfied here there is nothing that breaks the debtor-creditor-supplier chain of Mr 
+S (the debtor), M&S (the creditor), and Kruger Exchange (the supplier). 
+Ive noted that Mr S paid Wall-it using his credit card, which corresponds with other 
+information this service has seen where Kruger Exchange is listed as the supplier in dispute. 
+Mr S has also provided screenshots of the payments, which correspond with the dates and 
+amounts paid, on which the merchant is named as Kruger Exchange. This suggests to me 
+that Wall-it was doing no more than processing the payments on behalf of Kruger Exchange.
+But where a payment processor is used in a credit card transaction, it doesnt break the DCS 
+chain, it just creates a four-party agreement. Weve published final decisions on this issue.
+Here Wall-it (and any Merchant Acquirer present) appears to be in the business of providing 
+financial transactional services for Kruger Exchange. The transactional services provided 
+here by these parties are in effect those that have been outsourced to them by the parties. 
+And clearly the network in this case had arrangements with Wall-it (and any Merchant 
+Acquirer) and M&S would be able to know of the parties within the arrangement here and the 
+respective offerings provided prior to the transaction in this case by dint of Wall-it and any 
+Merchant Acquirer being users of the network used here. In absence of any evidence M&S 
+holds to demonstrate that M&S was doing more than just processing payments in this 
+agreement, Im satisfied that there is no break in the DCS chain.  
+The second consideration is whether the transaction is financed by the agreement. 
+Transaction isnt defined by the Act, but it has generally been given a wide interpretation by 
+the courts  to include whatever bilateral exchanges may be part of the deal. Here, Mr S 
+deposited funds for use on an investment platform and to be able to withdraw them as and 
+when he wished. Given the exchange of money in return for certain contractual promises  
+Im satisfied there was a transaction for this deposit (which Ill call the deposit-transaction) 
+as defined by the Act. 
+To finance (or financed by the agreement) is also not defined under the Act. An ordinary 
+definition would be to provide funds to do something. In Office of Fair Trading v Lloyds TSB 
+Bank plc [2004] Miss Justice Gloster said in a passage with which the Court of Appeal 
+agreed, The phrase to finance Approaching the matter in a common sense way, the 
+phrase must mean provide financial accommodation in respect of A credit card issuer 
+clearly provides financial accommodation to its cardholder, in relation to his purchases from suppliers, because he is given time to pay for his purchases under the terms of the credit 
+card agreement.  
+Applying this ordinary definition here, if Mr S had not used his credit card he would have had 
+to find the cash from his own resources to fund the deposit-transaction. So, its clear that the 
+deposit-transaction was financed by the agreement. 
+Third, the claim for misrepresentation or breach of contract must relate to the transaction. Its 
+important to consider what Mr Ss claim is here. Its evident from his testimony and 
+correspondence that he feels he was tricked into depositing the payments with Kruger 
+Exchange which had the dual purpose of:
+a) stealing the deposit money; and
+b) encouraging Mr S to deposit further amounts. 
+Mr S does not believe that Kruger Exchange was operating legitimately and believes he was 
+misled into thinking it was.
+This claim, that Mr S was misled into depositing funds, is clearly a claim in relation to the 
+deposit-transaction. The claim must also be one for misrepresentation or breach of contract. 
+In this case, if Mr S was told by Kruger Exchange matters that were factually untrue to trick 
+him into the deposit-transaction, his claim would be for misrepresentation. Or, if Kruger 
+Exchange made binding promises to him as part of the transaction and went on to breach 
+these, that would make his claim one for breach of contract.  
+Finally, the claim mustnt relate to a single item to which the seller has attached a cash price 
+not exceeding £100 or more than £30,000. Here, the cash price of the deposit-transaction is 
+the value of that deposit-transaction. It is both the consideration and subject matter of the 
+contract. 
+M&S seems to take the position that the deposit was nothing more than transferring money 
+onto another account, opened for the purpose of speculating with the money, rather than 
+being payments for the purchase of goods or services. However, when funds are deposited 
+onto a trading account this isnt necessarily just a transfer of money between accounts; the 
+deposit may also have been made in return for something. And in this case, I am satisfied 
+Kruger Exchange made contractual promises in exchange for the deposit-transaction. Its 
+important to note that s.75 doesnt use the term purchase of goods or services nor is there 
+anything within the Act that would exclude the present type of transactions.  
+For the reasons set out above, Im satisfied that s.75 does apply to these credit card deposit-
+transactions. Ill therefore go on to consider whether Mr S has a valid claim for 
+misrepresentation or breach of contract.
+Misrepresentation
+I consider Mr S has made a claim of misrepresentation by Kruger Exchange  that claim 
+being that it represented to him that it was a legitimate enterprise when this was not the 
+case.
+For a claim of misrepresentation to be successful its necessary to show a false statement of 
+fact and that this induced Mr S into entering into an agreement. 
+A false statement of factIf Im satisfied that the merchant was not likely to be operating a legitimate enterprise  one 
+through which Mr S could have ever received back more money than he deposited  then it 
+follows that any statements made by Kruger Exchange to the contrary are likely to be a 
+misrepresentation.
+So, the mere suggestion that Mr S could make money from the platform is likely to suffice as 
+entailing, by necessary implication, a statement of fact by the merchant that it operated a 
+legitimate business, i.e. a legitimate trading platform on which investors could profitably 
+trade. And, Im satisfied, based on Mr Ss account of events and the overall circumstances, 
+that Kruger Exchange did state that Mr S could make money from the trading platform. 
+that induced Mr S into entering the agreement
+Again, if Kruger Exchange was essentially a scam designed to relieve investors of their 
+money, rather than a legitimate service  and if Mr S had known this  theres really little 
+question: he would not have invested with Kruger Exchange. Consequently, should I be 
+satisfied that Kruger Exchange wasnt a legitimate enterprise then inducement will also be 
+demonstrated.
+Was the merchant operating a legitimate enterprise?
+Ive found Mr Ss account of events persuasive.  
+On 13 March 2019 (so after transaction 6 but before transaction 7), the Financial Conduct 
+Authority (FCA) published an alert about Marketing Essentials trading as Kruger Exchange 
+Ltd, warning that it was offering financial services in its jurisdiction without authorisation.
+I understand M&S has said this FCA warning isnt evidence that Kruger Exchange was 
+operating a scam, but merely that it wasnt regulated and customers should proceed with 
+caution. However, binary options/forex traders offering services in the UK were required to 
+be regulated by the FCA at the time of Mr Ss payment, and Kruger Exchange wasnt. Nor 
+was Kruger Exchange licensed or regulated abroad as far as Im reasonably aware. There 
+are also many online reviews from victims that share similar experiences to that of Mr S.
+Taking everything together, I think its most likely that Kruger Exchange was not operating a 
+legitimate enterprise. This means that I think it made misrepresentations to Mr S  
+specifically that it was a genuine enterprise through which he could have got back more than 
+his deposits from the platform. Im also satisfied that if Mr S had known this, he wouldnt 
+have deposited any money, so he was induced into the contract on the basis of these 
+misrepresentations.
+What damage was caused by the misrepresentation 
+The legal test for consequential loss in misrepresentation, where a person has been 
+fraudulently induced to enter into a transaction, is that they are entitled to recover from the 
+wrongdoer all the damage directly flowing from the transaction: Smith New Court Securities 
+v Scrimgeour Vickers (Asset Management) [1997] AC 254. This implies two hurdles that 
+must be surmounted before any item of loss becomes recoverable from the wrongdoer:
+a) The loss would not have been suffered if the relevant transaction had not been 
+entered into between the parties. This is the factual but for test for causation; and
+b) The loss must be the direct consequence of that transaction (whether or not it was 
+foreseeable) or be the foreseeable consequence of the transaction. 
+Transaction feesThe transaction fees linked to each credit card deposit-transaction are somewhat straight 
+forward to cover off. Had the deposit-transactions not have occurred, the transaction fees 
+couldnt have occurred. The transaction fees were a direct consequence of the deposit-
+transactions. So, Im satisfied Mr Ss payment of the transaction fees was consequential loss 
+in misrepresentation. 
+Breach of contract 
+Ive not considered breach of contract because Im satisfied Mr S can claim back the full 
+amount taken from his credit card through a claim under misrepresentation.
+Putting things right
+Ive explained, in relation to these credit card payments, why Im satisfied Mr S has a claim 
+for misrepresentation, on the basis that Kruger Exchange misrepresented matters, namely 
+that it was operating a legitimate enterprise and he could earn a profit from his deposit-
+transactions. M&S should pay Mr S £14,658.87 (the payments plus the fees), plus interest 
+from the date of the payments to the date of settlement calculated at 8% simple per year. 
+My final decision
+For the reasons Ive explained, I uphold this complaint and I direct Marks & Spencer 
+Financial Services Plc to pay Mr S £14,658.87, plus interest calculated at 8% simple per 
+year from the date of the payments to the date of settlement. If M&S deducts tax from this 
+interest, it should provide Mr S with the appropriate tax deduction certificate.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr S to accept or 
+reject my decision before 15 September 2022.
+ 
+Neil Bridge
+Ombudsman

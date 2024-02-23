@@ -1,0 +1,124 @@
+DRN-3996553
+Complaint
+Mrs S is unhappy that Revolut Ltd didnt reimburse her after she fell victim to a scam.
+Background
+In May 2022, Mrs S fell victim to a scam. She received a phone call from someone who 
+claimed to work for HM Courts & Tribunals Service. Unfortunately, that individual was a 
+fraudster. 
+He told Mrs S that there were several criminal charges against her regarding her tax affairs. 
+She was told that she could be arrested if she didnt pay what she owed. If arrested, she 
+could lose her British citizenship. She was sceptical about the call and so terminated it. 
+However, this individual called her persistently and stressed that the consequences of not 
+paying could be severe.
+He persuaded Mrs S that he was a legitimate employee of the court by asking her to search 
+online for the number he was calling from. This showed that the number was for the Crown 
+Court in Birmingham. Unfortunately, Mrs S wasnt aware that it was possible for phone 
+numbers to be spoofed in this way. The scammer sent her scans of seemingly official 
+looking documents to back up what hed said. 
+She was asked to download the Revolut app and open a new account. She was then told to 
+make a payment of £1,299 to a specific payee. She was told this person was her court 
+appointed solicitor. She was then asked to make a second payment to another payee of 
+£2,499. Once again, she was told that this person was connected to her legal case. She 
+attempted to make the transfer. I understand that she notified Revolut that the purpose of the 
+payment was to move her money to a safe account.
+This attempted payment was stopped. Mrs S was contacted via the Revolut app and told by 
+an agent:
+ I can see that our security system has held your transaction of 2,499.00 GBP to 
+[the recipient] in pending because we think it may be part of a scam or fraud. Were 
+trying to keep your money protected, please bear with us while we check some 
+details to make sure you really want to make this payment.
+She was asked if shed installed any remote access software to her device and responded 
+that she hadnt. She was finally asked whether she wanted to go ahead with the payment or 
+not. She chose to cancel it. Shortly afterwards, she authorised a transfer of £2,500 to the 
+same payee and for the same reason. This payment was processed without further 
+questioning.
+She was then asked to make a final payment which wasnt successful. At the scammers 
+request, she authorised a payment of £1,000 to a cryptocurrency wallet with a third-party 
+business in her own name. These funds were then converted into Bitcoin and transferred on 
+to the fraudster.
+To make these payments, Mrs S borrowed money from her son. Once she realised that 
+shed fallen victim to a scam, she notified Revolut. It investigated her complaint but didnt 
+agree to reimburse her. It said that it had provided her with clear warnings during the 
+payment process. It also blocked the second payment of £2,499 because it thought that 
+there were clear indications of a fraud risk. It didnt think it was required to do anything 
+further when Mrs S reattempted the payment. She had already received the information 
+about the fraud risk and proceeded on her own.
+Mrs S was unhappy with that response and so she referred her complaint to this service. It 
+was looked at by an Investigator who upheld it. The Investigator said that Revolut ought to 
+have been on the lookout for payments that were out of character and might have been 
+indicative of an increased fraud risk.
+The Investigator concluded that it ought to have intervened when Mrs S made the second 
+payment in connection with the scam. It had intervened and prompted her to cancel an 
+almost identical payment. But she didnt think it was adequate for Revolut to then have 
+allowed a separate payment to the same payee to be processed without further questioning.
+Since Revolut disagreed with the Investigators opinion, the complaint has been passed to 
+me to consider and come to a final decision.
+Findings
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+It is common ground that Mrs S authorised the payment. Under the Payment Services 
+Regulations 2017, she is presumed liable for the loss at first instance. However, this is not 
+the end of the story. Revolut is an electronic money issuer. The regulator, the Financial 
+Conduct Authority (FCA), has confirmed that all e-money issuers must comply with legal 
+requirements to deter and detect financial crime, which includes money laundering and 
+terrorist financing.  
+Broadly summarised, the obligations on Revolut at the material time were to:
+monitor accounts and any payments made or received to counter various risks, 
+including anti-money laundering, countering the financing of terrorism, and 
+preventing fraud and scams. 
+have systems in place to look out for unusual transactions or other signs that might 
+indicate that its customers were at risk of fraud (among other things). This is 
+particularly so given the increase in sophisticated fraud and scams in recent years, 
+with which banks are generally more familiar than the average customer. 
+in some circumstances, irrespective of the payment channel used, take additional 
+steps, or make additional checks, before processing a payment, or in some cases 
+decline to make a payment altogether, to help protect customers from the possibility 
+of financial harm from fraud.
+I agree with the Investigators conclusion that Revolut ought to have been concerned at the 
+point Mrs S made the payment of £2,500. Shed told Revolut that the purpose of the 
+payment was to move her funds to a safe account and this payment left a balance in her 
+account of only £1. These were clear indicators of a potential scam risk and so Revolut 
+shouldnt have processed this payment until it contacted Mrs S to satisfy itself that she 
+wasnt at risk of financial harm due to fraud. Revolut has argued that, by warning her about the potential scam risk when she attempted 
+to make the payment of £2,499, it had discharged its obligations to her and so it didnt do 
+anything wrong in allowing the later payment to go through.
+Ive considered that argument carefully, but Im not persuaded by it. There is an asymmetry 
+of knowledge between the parties here. Revolut ought to have known that there is no valid 
+process for a customer to transfer their money to a safe account  so when Mrs S told it 
+she was attempting to do so, it was on notice of the strong likelihood that she was falling 
+victim to a scam.  
+I also found that the intervention that did take place on the earlier payment was quite 
+superficial, particularly in view of the clear risk. She was asked whether shed downloaded 
+remote access software to her device. It doesnt appear that any further information was 
+gathered. I think good practice required Revolut to ask her one or two additional open 
+questions. On balance, I think its likely shed have explained the basis on which she was 
+making the payment and Revolut couldve warned her that it could only be a scam.
+Revolut has said that it cant be taken for granted that Mrs S wouldve been candid with it 
+about the reasons for the payment. It says that she lied about the payments to a friend and 
+her son. Ive not seen any evidence to suggest that she lied, although I recognise that she 
+appears to not have told her son the reason why she needed to borrow money from him. 
+However, I dont think it necessarily follows that Revolut wouldnt have been able to break 
+the spell shed been placed under by the scammers, particularly since the evidence 
+suggests she hadnt been given a false cover story to explain the reasons for the payment if 
+she was challenged.
+Ive also considered whether Mrs S can be considered partially responsible for her own 
+losses here. In doing so, Ive considered what the law says about contributory negligence 
+but also kept in mind that I must decide this case based on what I consider to be fair and 
+reasonable in all the circumstances. Having done so, Im satisfied that she shouldnt be 
+considered responsible. The scammers were able to persuade her of their legitimacy by 
+spoofing the number of a genuine court and also sent her fake documentation to 
+demonstrate the existence of the charges.
+With the benefit of hindsight, its possible to spot problems or discrepancies and some 
+consumers wouldnt have been fooled by the scam. Nonetheless, I dont think she was 
+credulous  for example, she initially refused to speak to the scammer at the point of the first 
+phone call. It was only his relentless persistence that made her listen to what he had to say. 
+Overall, Im not persuaded that her actions here demonstrate contributory negligence. I think 
+she was simply the unwitting and blameless victim of a cruel and manipulative fraudster.
+Final decision
+For the reasons Ive set out above, I uphold this complaint.
+If Mrs S accepts my final decision, Revolut Ltd should pay her £3,500 without delay. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mrs S to accept or 
+reject my decision before 16 June 2023.
+ 
+James Kimmitt
+Ombudsman

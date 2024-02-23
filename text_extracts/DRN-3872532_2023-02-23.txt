@@ -1,0 +1,93 @@
+DRN-3872532
+The complaint
+Mr S and Mr H are business partners for C. They complain that PayrNet Limited wont refund 
+a transaction they didnt make. 
+ANNA Money, who Mr S and Mr Hs account is with, is an agent for PayrNet. For ease, Ill 
+mainly refer to ANNA throughout the decision.
+ 
+What happened
+Mr S was called by someone claiming to be from ANNA about some unusual transactions on 
+Cs account. They asked him for a code sent by text message to prove who he was, which 
+he shared with the caller. 
+Afterwards Mr S realised it was for a card payment for £1500.00 and contacted ANNA to 
+stop it. It couldnt do this and declined Cs claim for a refund and subsequent complaint. 
+Unhappy, C brought its concerns to our service to investigate.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, Ive reached the same outcome as our investigator for these reasons:
+ 
+In line with the Payment Services Regulations 2017 (PSRs), C isnt liable for 
+payments Mr S didnt authorise, unless he failed with gross negligence or intent to 
+comply with the terms of the account or keep Cs personalised security details safe.
+Ive firstly considered whether Mr S authorised the payment in dispute. The PSRs 
+explain a payment is to be regarded as authorised if he consented to it  and that 
+consent must have been given in the form, and in accordance with the procedure, 
+agreed between ANNA and C.
+ANNA has highlighted the following terms from its agreement that explain the form 
+and procedure: Each transaction will need to be authorised by the Cardholder. We 
+will treat the transactions as authorised and genuine if the Card PIN or other security 
+code personal to the Cardholder is used and, where prompted by ANNA, 
+authenticated by the Cardholder through 3DS.
+ANNAs submitted that the steps were followed in this case and the one time 
+passcode (OTP) sent by text message is a form of consent. But the terms are clear 
+that the transactions needs to be authorised by the Cardholder. Here its accepted 
+Mr S shared the OTP with the caller under the guise of proving who he was. But Ive 
+not been persuaded that he entered the code and therefore authenticated the 
+transaction by 3DS on the merchants website. Nor do think its likely that he entered 
+his card details. Instead, I think these steps were completed by the fraudster, without 
+Mr Ss knowledge. 
+It follows Im not persuaded Mr S consented to this payment in accordance with the 
+agreed form or procedure. So I consider it to be unauthorised. 
+Ive gone on to consider whether Mr S failed with gross negligence to comply with the 
+terms of the account and to keep Cs personalised security details safe. ANNA has 
+submitted a definition for gross negligence but its not said where its from. And the 
+concept isnt defined in the PSRs. Saying that, there are sources that help to guide 
+our understanding and application.
+ 
+The FCA, in its document setting out its role under the PSRs, says:  we interpret 
+gross negligence to be a higher standard than the standard of negligence under 
+common law. The customer needs to have shown a very significant degree of 
+carelessness. A similar test existed historically through the Banking Code. Case law 
+is helpful here too. In a commercial contract context, Tankers Ltd v 
+Papachristidis says that conduct undertaken with actual appreciation of the risks 
+involved, or serious disregard of or indifference to an obvious risk can amount to 
+gross negligence.
+Taking this all into account, and having reviewed the circumstances of the case 
+carefully, I'm not convinced Mr S failed with gross negligence. Ill explain why. 
+I think its likely the caller already had Mr Ss card details. Its not been suggested he 
+shared these during the call, and we know there are lots of way fraudsters manage to 
+get hold of these details. Indeed, Ive noted C had recently had trouble with a new 
+merchant it had paid but hadnt goods from, which might have been connected. 
+As is typical in these sorts of scams, I think its likely the fraudster wouldve used their 
+knowledge of the card details to convince Mr S they were genuinely calling from 
+ANNA. With that in mind, I can why Mr S trusted the caller and how he wouldve been 
+worried when they told him there were unusual transactions on Cs account. 
+They asked him for a code they sent by text message to confirm who he was so they 
+could protect the account. The message said: "<code> is the code to complete your 
+1,500.00 GBP [merchant] purchase made with the card ending in ****. Don't share 
+this code with anyone"
+Mr S said he it was only afterwards that he realised the OTP was for a payment. And 
+I can understand how that happened. Mr S was acting in the heat of the moment, 
+having been convinced he needed to protect Cs account. And hed been primed to 
+expect the code from someone he genuinely believed was from ANNA  and the 
+code subsequently came from them. In these circumstances, I can see how Mr S 
+focussed on the code and simple shared this, particularly when it appeared first in the 
+message. I dont think it means he acted with very significant carelessness to 
+conclude that he failed with gross negligence. 
+It follows that Im not persuaded C is liable for this transaction and ANNA needs to 
+put things right  by refunding Cs losses from this unauthorised transaction. 
+ANNA submit that itd be punitive to award interest on top of this. But its obligations 
+are clear in the PSRs, which says it shouldve restored Cs account by the end of the 
+next working day at the latest. So Im satisfied its fair to also award 8% simple 
+interest per year on the amount to compensate C for the time its been out of pocket.My final decision
+For the reasons Ive explained, I uphold Cs complaint. PayrNet Limited must:
+Pay C the total of the unauthorised transaction, less any amount recovered or 
+already refunded  I understand this to be £1,500.00.
+Pay 8% simple interest per year on this amount, from the date of the unauthorised 
+transactions to the date of settlement (less any tax lawfully deductible).
+Under the rules of the Financial Ombudsman Service, Im required to ask C to accept or 
+reject my decision before 23 March 2023.
+ 
+Emma Szkolar
+Ombudsman

@@ -1,0 +1,102 @@
+DRN-3052952
+The complaint
+Mr H complains that Bank of Scotland plc trading as Halifax wont refund payments he didnt 
+authorise.
+What happened
+Mr H contacted Halifax when he noticed a payment of £499 had debited his account on 2 
+October 2020 and that there was also a pending one for £549 on 3 October 2020. He says 
+he didnt recognise either. These payments were made through his account with an 
+electronic money payment provider Ill anonymise here as X. He is unhappy that Halifax 
+didnt agree to refund the money and that he has been passed between it and X about his 
+complaint.
+Halifax said that it had applied a temporary refund while it had raised a chargeback dispute 
+through the card scheme. But X had provided information to show that the payments were 
+made using Mr Hs details. The IP address it provided was one that Mr H had used to log in 
+to his online banking account. It said that Mr H told it he had his debit card and hadnt 
+allowed anyone to borrow it. And that he hadnt given anybody his details for X or responded 
+to any suspicious calls or emails. It suggested he contact X directly if he was looking to 
+pursue this further.
+Our investigator didnt recommend that the complaint be upheld. He said that Mr H had 
+accessed his online banking account with Halifax 40 minutes before a log in to his X account 
+on 2 October 2020. The IP address used was the same. He also didnt think it likely that 
+someone hacking into his account, as Mr H said happened, would have waited 24 hours 
+between making payments. There was no other evidence to support this is what happened. 
+Mr H had regularly made payments using X and so he didnt think Halifax ought to have 
+identified these two as suspicious. And the pending payment couldnt be reversed as Mr H 
+had wanted.
+Mr H said that he didnt agree that the payments were authorised. He is pursuing a 
+complaint against X who he didnt think had kept his account safe. He still didnt think that 
+Halifax should have allowed the pending payment as he had told it that it wasnt authorised. 
+This made it the opposite of being pending. He said that Halifax had all the information about 
+the payments, and he didnt think that a sufficient investigation had been undertaken.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+I need to take into account the Payment Services Regulations 2017 in considering this 
+complaint. These state that a payment can only be authorised if it was consented to. So, its 
+not enough for it to be authenticated, say with the card details. And if they werent authorised 
+Mr H wouldnt generally be responsible for them.
+Mr H has raised complaints with both Halifax and X, and I am issuing separate decisions 
+about each. But these payments essentially arise from one authorisation event each time: 
+that is the origination of a payment from Mr Hs X account funded by his Halifax debit card. 
+So, Ill be making my decision here about whether these payments were authorised based 
+on all the information and I will also be taking into account here specifically what Halifax did. 
+The payments were made each time after a log in to Mr Hs X account. His Halifax debit card 
+details were stored as a payment mechanism. Each of these payments were personal 
+payments: that is to another individual rather than say to a merchant. The first was originated 
+at 13:14 on 2 October 2020 and the second at 12:04 on 3 October 2020. Halifax raised 
+chargeback requests and Ive seen the response from X. This included Mr Hs name and 
+address and card details, and the IP address used to make the payments. So, Im satisfied 
+that the payments were authenticated.
+The issue I need to decide on is whether these were authorised. 
+Halifax has noted that it discussed the payments with Mr H. And that he told it that he hadnt 
+received suspicious calls, text or email relating to them. He told Halifax that he had an IT 
+expert look at his computer and who said that there was malware. But Halifax concluded that 
+as the IP address matched and there was no point of compromise for his security 
+information it wouldnt be upholding the complaint.
+Mr H referred his complaint to this service, and he said in a letter in January 2021 that he 
+thought he may have been the victim of a phishing attempt and that he had evidence from 
+a credit reference agency that his phone number was being published and sold online. He 
+said that a computer expert had found malware on his computer and explained how 
+passwords could be guessed and a computer taken over. His hard disc had now been wiped 
+and he had new virus protection installed and had taken out identity protection insurance. 
+Mr H also sent further comments in September 2021 after our investigator had issued a view 
+on his complaint. He then stated that he had inadvertently allowed a fraudster to access his 
+computer on two occasions believing this to be an official from a well-known operating 
+software company.
+When our investigator contacted X about the complaint it had additionally explained that it 
+had sent a code to the phone number it had registered for Mr H and that this had been 
+entered to enable payments to be made. Mr H said that he didnt receive or enter any code.
+I wont be able to say exactly what happened and Im thinking about what is most likely. I 
+appreciate that fraudsters are sophisticated and can take over accounts. But here in light of 
+what Halifax has said Im looking for some evidence to support that  and that is now 
+something that is also fairly the responsibility of Mr H to provide.  The position is that Mr H 
+logged onto his Halifax account about 40 minutes before the first log in to his X account on 2 
+October 2020. There is no suspicious activity as a result of his access to online banking. X 
+has shown that it sent a code to authorise the payment at just before 13:13 and received this 
+code entered back within a minute. As a result, the payment was sent. The further disputed 
+payment wasnt made until the next day. Mr H didnt log back into his Halifax account until 4 
+October 2020.
+Ive set out above what Halifax has recorded about what Mr H said and what hes said to this 
+service. Even if I was to accept as he now says that he allowed a third party to access his 
+computer on two separate days that doesnt explain how his details for X were 
+compromised.  He is clear he didnt provide them. There was no attempt to access his bank 
+account directly. And no other attempts to take more money from his X account for nearly 24 
+hours despite there being sufficient funds available through his debit card. He has no other evidence to support what he now says happened or an explanation of how the code from X 
+was discovered by a third party. In any event he was reasonably expected to keep such 
+security information safe.  And so, I dont find it most likely that these payments were 
+unauthorised.
+Im afraid that a payment is described as pending when it has been authenticated and is 
+due to be collected and credited to the recipient. That doesnt mean as Mr H believes that it 
+can be cancelled. And as I havent found either payment to be unauthorised I dont have a 
+basis to find that Halifax should refund them. I also dont think that there was anything that 
+ought to have meant that Halifax questioned these payments at the time they were 
+processed. It suggested he speak to X to see if it could help regarding the payments and the 
+specific payees and I think that was reasonable giving my findings here. 
+My final decision
+My decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr H to accept or 
+reject my decision before 22 November 2021.
+ 
+Michael Crewe
+Ombudsman

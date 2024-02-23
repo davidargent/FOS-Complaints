@@ -1,0 +1,314 @@
+DRN-3299585
+The complaint
+Mr B complains that National Westminster Bank Plc restricted his access to online banking 
+when they implemented Strong Customer Authentication (SCA) regulations, because their 
+system for completing SCA is "mobile-dependant", and he doesnt have reliable mobile 
+phone reception.
+What happened
+Mr B wanted to make sure he was opted in to receive paper statements having received 
+notification from NatWest that he was going to be opted out of this service (or moved to a 
+default position of online statements) for a second time. He tried to log in to online banking in 
+October 2019 and November 2019 to, amongst other things, set or re-set his preference for 
+paper statements, but he found he only had restricted access to NatWests online banking 
+service.
+The reason for this was that NatWest had recently, at that time, implemented Strong 
+Customer Authentication (SCA) in response to an EU regulation commonly referred to as the 
+second payment services directive or PSD2.
+To regain full access to the online banking service Mr B needed to complete two-factor 
+authentication by either receiving a one-time passcode (OTP) to his mobile phone or 
+generating a one-time passcode with a card reader. But this proved problematic for Mr B. 
+Firstly, because he didnt have a mobile phone number registered on his account (Mr B has 
+explained that although he possesses a mobile phone for occasional use, he lives in an area 
+of unreliable mobile phone connectivity and didnt wish to rely on it for banking activity). And 
+secondly, because NatWest didnt send him a card reader (despite the website repeatedly 
+telling him one had been ordered). Mr B was therefore left without full online banking access, 
+and without being able to opt in for paper statements as he wanted.
+After some attempts to resolve the situation with both his online banking access and 
+statements through visits to branch, Mr B says he called NatWest on 20 December 2019 to 
+complain. Hes told us he spoke with a member of staff who advised him there was nothing 
+they could do; the upshot was he was told to await delivery of the card reader.
+Mr B still didnt receive a card reader and heard nothing further from NatWest about it.
+In March 2020 Mr B raised his complaint with this service but was advised that it would take 
+us longer than usual to get back to him due to the pandemic. When no progress had been 
+made by March 2021, he says his patience wore out and he regained access to online 
+banking via a convoluted process of chat box help and rather reluctantly giving [his] mobile 
+number. Only then was he able to access online banking, re-set his preferences and 
+resume receiving paper statements.
+In May 2021 Mr Bs complaint was forwarded to NatWest for a response by one of our 
+investigators. NatWest have said that theyve not been able to find any evidence that Mr B 
+raised a complaint with them before that date.
+NatWests investigation of Mr Bs complaint uncovered that Mr Bs personal account and 
+online banking profile were linked to a closed business account, and that this was preventing 
+the card reader from being sent to him. NatWests technical support team confirmed that 
+each time hed requested a card reader via the website, the system had rejected it. NatWest 
+apologised that the problem was not identified sooner, explained what needed to be done to 
+resolve it and arranged for a card reader to be sent. Mr B has confirmed that he finally 
+received a card reader in June 2021.
+Acknowledging that the situation had caused Mr B some inconvenience and gone on for 
+longer than it should have NatWest paid Mr B £125 compensation.
+Mr B wasnt satisfied with this outcome. He said he wanted our service to look into his 
+complaint because the system should have told him his card reader requests were being 
+rejected and why, and NatWests implementation of SCA required users to have a mobile 
+phone. He said:
+The online system does not provide a way of logging in using a card reader but 
+insists on sending a one-time pass code to a mobile phone. Further, the system 
+requires a mobile phone to enable a card reader in the first place  It seems obvious 
+to me that NatWest is not complying with SCA guidance 
+Our investigators view
+Our investigator didnt think NatWest needed to do more to resolve Mr Bs complaint. She 
+said that the SCA measures were a regulatory obligation designed to keep customers safe 
+and secure, and that NatWest provided the option to use a card reader for customers that 
+dont have mobile phones to complete SCA, but that hadnt been successful in Mr Bs case 
+for the reasons already identified. She said NatWest had recognised their failings in this and 
+apologised, and that the £125 theyd already paid Mr B was fair.
+Responses to the view
+Mr B didnt agree. He said despite enabling the card reader in June 2021 he still needs a 
+mobile phone to operate his account; hed even needed to receive an OTP to his mobile 
+phone to enable the card reader in the first place. He wants to complete two-factor 
+authentication or SCA using a method that doesnt rely on him having a mobile phone.
+He explained that he doesnt think NatWest have implemented SCA as they should have 
+and highlighted the Financial Conduct Authority's guidance on the implementation of SCA 
+which says:
+"We expect firms to develop strong customer authentication solutions that work for all 
+groups of consumers and we encourage firms to consider the impact of strong 
+customer authentication solutions on different groups of customers, in particular 
+those with protected characteristics, as part of the design process. It may be 
+necessary for a [Payment Service Provider] to provide different methods of 
+authentication, to comply with their obligation to apply strong customer authentication 
+in line with regulation 100 of the PSRs 2017. For example, not all customers will 
+possess a mobile phone or smart phone and payments may be made in areas 
+without mobile phone reception. PSPs must provide a viable means to strongly 
+authenticate customers in these situations." (my emphasis)
+As no agreement could be reached, the complaint was passed to me to decide.
+My Provisional DecisionI issued a provisional decision on 19 January 2022 because I wanted to provide a bit more 
+detail than the investigator had and give both parties a further opportunity to comment, but 
+before doing so I asked both parties for some further information.
+To begin with I let NatWest know that Mr B wants to complete two-factor authentication or 
+SCA using a method that does not rely on him having a mobile phone (i.e. he wants to use 
+the card reader for SCA). I asked NatWest whether access to their online banking and 
+payment services is, in fact, dependant on mobile device/phone ownership.
+NatWest confirmed that if a customer needs to receive an OTP for online banking login but 
+they have poor mobile signal or no mobile number they can use the card reader with their 
+debit card (or online banking card if they dont have a debit card).
+They went on to explain that if a customer needs to authenticate an online payment 
+(eCommerce/online shopping) but doesnt have a mobile number or has poor mobile signal 
+they can still receive OTPs to their landline. And where thats not possible, they will be able 
+to receive an email OTP to a valid email address registered with the bank.
+NatWest also confirmed that if Mr B had not had a mobile phone number when he received 
+his card reader, alternatives would have been offered to enable it; and once enabled the 
+card reader can be used for SCA.
+I also asked Mr B if he was still completing two factor authentication with his mobile phone 
+and, if so, whether hed tried to remove his mobile phone number from his account. Mr B 
+said hed been unable to log in to online banking using the card reader because the 
+interface does not present this option. He hadnt used the card reader since enabling it. He 
+said hed explored the possibility of removing his mobile phone number from his NatWest 
+account, but it wouldnt allow him to. Mr B was still of the view that NatWests services are 
+limited for customers without mobile devices.
+I began my provisional decision by setting out the considerations I thought relevant. I wrote:
+Im required to determine this complaint by reference to what I consider to be fair 
+and reasonable in all the circumstances of the case. When considering what is fair 
+and reasonable, I am required to take into account: relevant law and regulations; 
+regulators' rules, guidance and standards; codes of practice; and, where appropriate, 
+what I consider to have been good industry practice at the relevant time.
+So, Ill start by setting out what I have identified as the relevant considerations to 
+deciding what is fair and reasonable in this case.
+The Payment Services Regulations 2017 (PSRs) Reg. 100, which came into force on 
+14 September 2019, says that a payment service provider (PSP) must apply strong 
+customer authentication where a payment service user accesses its payment 
+account online, initiates an electronic payment transaction; or carries out any action 
+through a remote channel which may imply a risk of payment fraud or other abuses. 
+SCA is defined in the PSRs. It means:
+authentication based on the use of two or more elements that are 
+independent, in that the breach of one element does not compromise the 
+reliability of any other element, and designed in such a way as to protect the 
+confidentiality of the authentication data, with the elements falling into two or 
+more of the following categories
+(a) something known only by the payment service user (knowledge);(b) something held only by the payment service user (possession);
+(c) something inherent to the payment service user (inherence);
+Another relevant consideration is the SCA implementation guidance issued by the 
+Financial Conduct Authority (FCA) in its document Payment Service and Electronic 
+Money  Our Approach (June 2019). Ive quoted Mr Bs own reference to this 
+document above, so I wont repeat it here.
+What Ive provisionally decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, Ive reached the same outcome as our investigator, I dont currently 
+think NatWest need to do more to resolve Mr Bs complaint.
+It is of course regrettable that when NatWest implemented SCA things didnt go more 
+smoothly and they didnt provide Mr B with a card reader at the first time of asking, in 
+or around October 2019. Had that happened, Mr B would have been spared the 
+inconvenience of having limited access to the online banking service, and hed have 
+been able to set his statement preferences as he wished.
+As it was, there was a technical problem which prevented a card reader being sent to 
+him successfully; a technical reason which NatWest have told me would not have 
+been obvious to frontline staff. I agree its unfortunate that the system didnt make the 
+problem obvious to either frontline staff or Mr B. If either had been furnished with the 
+knowledge that his card reader requests were being rejected and the reason, thered 
+have been an earlier chance to resolve things.
+NatWest have told me that they have no record of receiving a complaint about this 
+from Mr B until May 2021. So, it wasnt until then that they investigated, involved their 
+technical support team and isolated the problem so that it could be resolved. In my 
+view this investigation ought to have happened much earlier because, despite the 
+lack of records on NatWests part, I have no doubt that Mr B was expressing his 
+dissatisfaction with the situation at branch level in December 2019 and, as the root 
+cause of the problem wasnt obvious, I think branch staff should have escalated his 
+concerns for investigation then. However, I think NatWest have already recognised 
+that the situation went unresolved for too long and thats why theyve paid Mr B £125 
+compensation.
+Mr B remains unhappy with that, but I dont think what NatWest have done to resolve 
+Mr Bs complaint is unfair. Whilst I recognise that Mr B lived with limited online 
+banking access from October 2019 to around March 2021 (when he reluctantly 
+added his mobile phone number to his account), Im mindful that throughout that time 
+he was still able to use his debit card, able to use telephone banking and able to 
+receive mini statements through the ATM network. He could also have mitigated the 
+situation with his online banking access by choosing to add his mobile phone number 
+before he did in March 2021. Thats not to say I dont understand why Mr B was 
+reluctant to add his mobile phone number; I do. And I agree that he shouldnt have 
+had to. But because he did have this option available to him, I dont think NatWests 
+failure to send him a card reader prevented him from accessing online banking for 
+this period.
+I also note that Mr B doesnt appear to have tried to escalate his concerns with 
+NatWest beyond the branch after December 2019. As Ive said, I think branch staff should have done that and, had they done so, the situation could have been resolved 
+much earlier. But when Mr B received no further contact from NatWest and continued 
+not to receive a card reader, I think he could have taken further steps  for example, 
+NatWests website does have an online form for complaints. I do know that Mr B 
+approached this service during that time and was advised that wed likely take a 
+while to get back to him due to the pandemic, but I dont think that means he couldnt 
+have continued to pursue things with NatWest.
+So, taking everything into account, I think the £125 compensation NatWest have paid 
+is fair. Aside from the level of compensation Mr Bs been paid by NatWest, hes also 
+let us know that he remains unhappy since receiving a card reader because he wants 
+to complete two-factor authentication or SCA using a method that doesnt rely on him 
+having a mobile phone and, in his experience, alternative options for SCA arent 
+available.
+Having looked at the information NatWest have sent me and going by this services 
+experience of other NatWest complaints, I do think that NatWest offer alternative 
+ways to strongly authenticate customers who dont possess a mobile phone or smart 
+phone or who live in areas without mobile phone reception. I can see that this hasnt 
+been Mr Bs experience, but I dont think thats because non-mobile alternatives 
+arent offered by NatWest.
+I think Mr Bs experience has been shaped by the fact that he wasnt sent a card 
+reader until June 2021 and in the interim he added a mobile phone number to his 
+account. As the mobile number is present, and its NatWests primary option for 
+completing SCA, the system expects Mr B to receive OTPs to his mobile phone. 
+Thats why the mobile phone formed part of the process for enabling the card reader. 
+But if thered been no mobile phone number, Im satisfied the card reader could have 
+been enabled another way.
+Mr B has told me that he hasnt yet been able to switch to using the card reader as 
+his primary SCA method. So, I invite NatWest, in response to this provisional 
+decision, to set out clearly what steps he now needs to take to do that. But, overall, I 
+do find that NatWest have now provided Mr B with a viable means to strongly 
+authenticate without a mobile phone.
+Throughout my consideration of this case Ive been acutely aware that Mr B is, more 
+broadly, concerned about NatWest complying with the FCAs guidance on SCA. Hes 
+clearly concerned for other consumers who either dont own a mobile phone or live in 
+an area of poor mobile phone reception. I dont disagree with him that its important 
+the implementation of SCA doesnt have the effect of excluding non-mobile users 
+from online banking and payment services. But my determination of Mr Bs complaint 
+must be specific to the facts and circumstances of his case, and I think what NatWest 
+have done to resolve Mr Bs complaint already  supplying him with a card reader 
+and paying him compensation  results in a fair outcome for Mr B.
+For the reasons Ive explained I dont intend to ask National Westminster Bank Plc to 
+do more to resolve Mr Bs complaint.
+Responses to my provisional decision
+In response to my provisional decision NatWest confirmed that Mr Bs card reader is enabled 
+and ready for use. They reiterated that whilst a mobile number is held this will be the default 
+primary route for the OTP process to be attempted, but also provided instructions for how Mr B can use his card reader to generate an OTP instead. Ive passed these instructions on 
+to Mr B.
+Mr B didnt accept my provisional conclusion that NatWest dont need to do more to resolve 
+his complaint. In summary, he said:
+He had not asked for a review of his complaint by an Ombudsman because he was 
+unhappy with the level of compensation NatWest had paid him. Hed been quite 
+happy to accept £125 if this fell within the ombudsmans guidelines; the central 
+issue for him was always NatWests compliance with SCA requirements and any 
+suggestion that he was unhappy with the level of compensation should be struck 
+out;
+Hed followed the advice from branch staff in December 2019 about how to register a 
+complaint by calling the number on a business card he was given for a Senior 
+Personal Banker at the branch, and The outcome of the conversation was that I was 
+told to wait for a card reader as they could only be issued via the NatWest website, 
+and there was nothing else they could do to expedite matters.  any statement in the 
+provisional decision that suggests he didnt raise his complaint at that time seeks to 
+undermine his credibility;
+He hadnt taken further steps to pursue his complaint directly with NatWest after 
+December 2019 because he thought his case was being looked at by this service 
+after March 2020, and he couldnt have readily visited the branch again due to 
+restrictions put in place to manage the Covid-19 pandemic; and
+He couldnt agree that NatWest can do no more to resolve the complaint  he said 
+NatWest at least need to follow the invitation Id made in the provisional decision to 
+set out clearly how he can use his card reader rather than mobile phone to access 
+online banking.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, although I appreciate Mr B might find this disappointing, Ive found no 
+reason to depart from the provisional outcome I reached  which is that NatWest have 
+already done enough to resolve Mr Bs complaint. Ill explain why.
+Mr Bs complaint was that NatWest had restricted his access to online banking by failing to 
+provide an SCA method that was viable for him. I agree with him that NatWest were under 
+an obligation to provide customers who dont possess a mobile phone, or who live and make 
+payments in areas without reliable mobile phone reception, with a viable means to strongly 
+authenticate when they implemented SCA. Broadly speaking, I find that NatWest did do that; 
+they provided a card reader as an alternative. But in Mr Bs case, and for reasons which are 
+very specific to his case, that alternative wasnt made available to him as it should have 
+been in or around October 2019.
+NatWest have now put that right in my view. They provided Mr B with a card reader in June 
+2021 and paid him £125 compensation to acknowledge that hed been without a card reader 
+for so long, and that the situation had caused him some inconvenience.
+Mr B didnt think this outcome resolved his complaint because he thought the problem with 
+the card reader should have been identified earlier and that, contrary to SCA guidance, 
+NatWests implementation of SCA required users to have a mobile phone.
+I accept that Mr Bs main concern has always been NatWests SCA compliance, not the level of compensation offered by NatWest to resolve his complaint. But he made it clear in 
+conversation with our investigator that hed been inconvenienced, that the figure offered 
+didnt seem to reflect this inconvenience and that he wanted our guidance on whether £125 
+was an amount this service would say is fair (within the ombudsman's guidelines). So, I 
+think it was important for me to set out in my provisional decision why I think £125 is fair 
+even if Mr B isnt principally concerned with monetary compensation.
+I remain of the view that the £125 NatWest have already paid is fair compensation. I say that 
+because whilst its accepted that Mr B was left without a card reader between October 2019 
+and June 2021 when he shouldnt have been, I think the length of time that situation 
+continued is due to more factors than simply NatWests failure to identify the problem earlier. 
+Also, during the period that Mr B didnt have a card reader, I think Mr B had other options 
+which meant he wasnt, in fact, left without access to his account or statement information.
+I dont doubt that Mr B did raise his complaint with NatWest in December 2019. As I said in 
+my provisional decision, although NatWest have told me that they have no record of 
+receiving a complaint about this issue from Mr B until May 2021, I think thats because 
+branch staff didnt escalate his concerns for investigation in December 2019, not because he 
+didnt raise them as hes always said he did.
+So, part of the reason Mr Bs wasnt given a card reader sooner than June 2021 is clearly 
+because branch staff didnt take appropriate action and investigate the problem in December 
+2019. But when thinking about what NatWest should now do to remedy that, I have to be 
+mindful that Mr B himself could have taken further steps to escalate matters beyond the 
+branch before May 2021 and that, had he done so, its likely the length of time he was 
+without a card reader would have been reduced.
+I am aware, as I noted in the provisional decision (and as Ive now added to the what 
+happened section above), that Mr B contacted this service in March 2020, and that it wasnt 
+until more than a year later that an investigator passed on his concerns to NatWest for a 
+response. Hes said he assumed that his concerns were being looked into by our service, 
+and this, along with subsequent Covid-19 related restrictions, explains why he didnt take 
+further action to pursue the matter directly with NatWest.
+Ive considered this, but while he was waiting to hear from us, I still think Mr B could have 
+mitigated the inconvenience that being without a card reader was causing him by both 
+pursuing his complaint directly with NatWest and by adding his mobile phone number to his 
+account earlier than he did. Its for these reasons that I dont think more compensation from 
+NatWest for the time it took to provide him with a card reader is warranted.
+Moving on to Mr Bs main complaint that NatWests implementation of SCA is mobile-
+dependant and therefore not compliant with the FCAs expectations, as I said in my 
+provisional decision, I dont agree thats the case. I think NatWest do offer a range of options 
+for customers like Mr B who doesnt want to rely on his mobile phone for banking and 
+payment activities because of reception issues. The fact that he wasnt issued with a card 
+reader in or around October 2019 is obviously a failing on NatWests part, but one I still think 
+theyve now fairly remedied.
+Overall, I dont think NatWest need to do more to resolve Mr Bs complaint. Theyve provided 
+him with an alternative to using a mobile phone to strongly authenticate and paid him £125 
+compensation for the delay in doing so. I appreciate Mr B didnt find it straightforward to 
+switch from using a mobile phone to the card reader for authenticating because hed already 
+added a mobile phone number by that point, and the system gives that primacy. But with the 
+recent guidance hes had he should now be able to do that.My final decision
+For the reasons Ive explained here and in my provisional decision, my final decision is that 
+National Westminster Bank Plc dont need to do any more to resolve Mr Bs complaint.
+ Under the rules of the Financial Ombudsman Service, Im required to ask Mr B to accept or 
+reject my decision before 9 March 2022.
+ 
+Beth Wilcox
+Ombudsman

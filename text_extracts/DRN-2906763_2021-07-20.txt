@@ -1,0 +1,108 @@
+DRN-2906763
+The complaint
+Miss K complains Monzo Bank Ltd (Monzo) wont refund her a transaction she disputes to 
+having made. 
+What happened
+In October 2020, a payment of £5 was debited from Miss Ks Monzo account. This 
+transaction was made to a charity organisation. Later, that same day, Miss K contacted 
+Monzo using its chat service to say she hadnt made this payment. 
+Miss K told Monzo she hadnt left her house the entire day, and she was in possession of 
+her debit card. Miss K explained she had made a payment to the charity two days ago when 
+she was in London. Miss K doesnt live in London but often travels there.  
+Monzo said it wouldnt refund the transaction based on the timeline of events and the 
+evidence it has available. Monzo added it could not understand how somebody other than 
+Miss K made this transaction.  
+Unhappy with what Monzo said, Miss K complained. In its final response, Monzo said it was 
+unable to overturn the original outcome. It had reason to believe the transaction wasnt 
+fraudulent and so it didnt have to refund it. Monzo reiterated that based on the timeline, and 
+evidence available, it wasnt possible for anybody other than Miss K to have authorised the 
+transaction.  
+Miss K then referred her complaint to this service. One of our investigators looked into the 
+matter. In summary they found: 
+Monzo had shown the transaction was authorised as the card was physically 
+presented for a contactless payment 
+Theres no objective evidence to show the transaction was fraudulent and carried out 
+by somebody else
+ 
+If someone else had taken the card without Miss Ks permission, then our 
+investigator would have expected more attempts to spend money. As there were no 
+further attempts to use the card, this isnt usual fraudulent behaviour
+There was no accounting for why, or how, someone would take and then return the 
+card to Miss K without her realising
+Amongst other things, Miss K and her partner were dissatisfied with not having seen the 
+evidence our investigator relied on. They maintained they were not in London on the day of 
+the disputed transaction, and they didnt leave their home. 
+It follows I must now decide this matter.  
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done that, Ive decided to not uphold this complaint. I know this will disappoint 
+Miss K, so Ill explain why. 
+Generally, Monzo can hold Miss K liable for the disputed transaction if the evidence 
+suggests its more likely than not, she made or authorised it herself.  
+Im satisfied from the banks technical evidence Miss Ks genuine card was used to make the 
+disputed transaction. I say that because Monzo has given me records which show the card 
+number used, that it was a contactless transaction, and a chip was present. 
+Monzo have also given me a screenshot of its internal systems which is headed 
+Authorization Request. Against where its says Auth Decision Type it says 
+purchase.contactless_mchip. 
+But the regulations relevant to this case say that is not, on its own, enough to enable Monzo 
+to hold Miss K liable. So I also need to think about whether the evidence suggests its more 
+likely than not Miss K consented to the £5 contactless payment being made.
+Miss K says she never left her house on the day the disputed transaction was debited from 
+her account - so she could not have carried it out. Miss K made a £10 donation to the same 
+charity cause two days prior. She says she did so in her local town. I note Miss K uses her 
+Monzo account quite a bit, and relatively speaking £5 is a nominal amount. Miss K adds that 
+this complaint isnt about the money  but the principle of Monzo safeguarding her money 
+and making payments only with her authorisation. 
+Where matters arent clear or there isnt conclusive evidence, I can make my decision on the 
+balance of probabilities. That is, what I think is most likely to have happened. 
+Ive already said that Im satisfied from the evidence Ive seen the genuine card was used. 
+Ive also seen a screenshot of Monzos system which shows the time and date the 
+transaction was presented to Monzo for authorisation. They were on the same day as when 
+the payment was debited from Miss Ks account. 
+So, for this transaction to have taken place without Miss Ks knowledge someone would 
+have taken the card without her realising, carried out the transaction, and then returned it to 
+Miss K within a few minutes. I say that because Monzos records show the payment was 
+presented to it at 16:45 for authorisation and its chat records with Miss K, when she reported 
+the issue, starts at 16:49. 
+If someone was attempting to defraud Miss K, then its most likely they would have 
+maximised any spending opportunity and not just pay a charity and then return the card. So I 
+think its most likely either Miss K carried out the transaction, or someone she authorised did. 
+I note Miss K argues this payment was carried out in London  and she wasnt in London 
+that day, so it could not have been her. But I dont think I can place much weight on that as 
+the payment two days earlier which Miss K says she did make to the same charity cause 
+also shows as London on the statement. But Miss K says she carried that out in her local 
+town. 
+I think both payments likely show on the statement, and on Monzos records, to a charity 
+based in London because thats the main registered address for it - regardless of what town 
+the payment was made in physically. Its possible, given the nominal amount and it showing us having taken place in London, 
+caused some confusion. But from all the information, which Ive carefully reviewed, I think its 
+more likely than not Miss K, or someone she authorised, carried out the transaction.  
+In reaching this conclusion, and against the backdrop of her banking activity, I have found it 
+difficult to understand why Miss K would dispute such a relatively small payment and do so 
+within a few minutes of it being debited. So I have very little reason to question Miss Ks 
+version of events. But I must place appropriate weight on all the evidence that is available to 
+me. 
+Having done that, the evidence shows the genuine card was present and its chip read. And 
+as the payment could equally have taken place more locally, I find Monzo have acted fairly 
+and reasonably by holding Miss K liable for it.
+Lastly, and for the sake of completeness, Ive considered whether this payment may have 
+been made a few days before it was presented, and then debited, Miss Ks account. That 
+can sometimes happen based on any inherent delays in the banking systems and 
+processes. Monzo say nothing like this happened. 
+But even if there was a delay of this type, that would still mean the card was present given 
+what Monzos internal records show. It could mean though that Miss K may have authorised 
+a second payment on top of the £10 she says she did pay the charity. 
+Monzo suggested Miss K speak to the charitable organisation and ask them what could have 
+happened. Miss K didnt choose to do this, and that of course is her choice. But if theres 
+been some error or misunderstanding on that organisations part, they would be best placed 
+to resolve it for her.  
+ 
+My final decision
+For the reasons Ive given above, I dont uphold this complaint. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Miss K to accept 
+or reject my decision before 17 August 2021.
+ 
+Ketan Nagla
+Ombudsman

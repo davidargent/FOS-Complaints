@@ -1,0 +1,143 @@
+DRN-3104092
+The complaint
+Mr K says the trading platform for his Interactive Brokers (UK) Ltd (IB) account submitted 
+and executed a Limit Order Options trade (the trade) on 18 August 2020 without his 
+involvement or consent, and that it thereafter prevented him from cancelling the trade when 
+he became aware of it. He seeks compensation for financial loss resulting from the trade.
+What happened
+One of our investigators looked into the matter and concluded that the complaint should not 
+be upheld. He mainly found as follows:
+The trade was based on five Options contacts (KODK 21AUG20 at $1.75 limit price). 
+Account log-on evidence shows that Mr K logged into the account at 12:28:44 
+Eastern Time (ET) on 18 August 2020 and submitted the trade at 12:30:53 ET.
+Transaction audit records confirm that the trades execution was reported to Mr Ks 
+account at 12:31:03.545 ET, then at 12:31:03.546 ET he made an attempt to cancel 
+it. That attempt failed because it had already been executed a second previously. 
+There is telephone recording evidence which suggests Mr K initially made the trade 
+in error and then tried to cancel it, and there is a lack of evidence to support his claim 
+that a technical fault in the platform was what led to an erroneous submission of the 
+trade.
+An error that did occur was a price cap notification for the trade, sent after its 
+execution, which could have caused some confusion. IB accepts this notification was 
+sent in error. For the inconvenience this could have caused Mr K IB should pay him 
+£50, but nothing from this error caused him a financial loss.
+Mr K disagreed with this outcome. He said  
+I do not agree that a limit order was placed in the system  in order to place an order you 
+set a limit price and the IB system then provides you with a live quote and price warning. If 
+you wish to proceed beyond that point, you either click cancel order or submit order. 
+The logs you were provided do not prove conclusively that I actually actioned a trade or 
+even attempted to cancel it. It proves their system actioned a trade and then simultaneously 
+attempted to cancel it  there simply is no function to 'cancel' any trade of any kind except 
+that which has Not been submitted yet.
+He then said  
+I contacted IB after I noticed the trade had gone through. To be clear, this is the time line of 
+events:
+* place limit order for kodk options
+* system notified me of price warning
+* decided not to place order and walked away from system to make some coffee
+* get notification on mobile that the trade had gone through
+* got back to system to see trade execution confirmation screen still up (proceed or cancel
+prompt). Took screenshot to prove trade had not executed on user side and then contacted 
+IB to inform them
+*clicked 'cancel' trade on the trade confirmation prompt and it didn't work
+The investigator was not persuaded to change his views and the matter was referred to an 
+Ombudsman.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+The log-on and transaction audit evidence that has been made available to us is as the 
+investigator described in his views, and is as I have summarised above. The information 
+about the trade and its execution, within that evidence, is not disputed. It is clear from Mr Ks 
+submissions, as quoted above, that there is also no dispute that he was logged into the 
+account at the relevant time and that, at the very least, he accepts setting up the limit order 
+for the trade. 
+The main matters in dispute are his claim that he did not place/submit the order/trade 
+(instead, he says a platform error did that) and that, contrary to what IB says and what the 
+investigator found, his attempt to cancel the limit order that he had set up happened before it 
+was submitted (because it was never submitted) and not after. It is on this basis that he 
+holds IB responsible for submission and execution of the trade and for the financial loss (and 
+lost opportunity to trade on the loss amount) he says he incurred from it.
+In this respect, I consider the available telephone recording evidence to be important. Three 
+such recordings between Mr K and IB, from 18 August 2020, have been shared with us. In 
+the first recording (which was relatively brief) Mr K can be heard reporting the issue. He did 
+so as follows  
+I set an order on the platform and I set it by accident, and I cancelled it, but its still gone 
+ahead and executed like 10 15 minutes later
+In the second recording, Mr K reported the issue as follows  
+There seems to be an issue, um, I placed an order and then I cancelled it immediately after 
+and it still executed the order like 10 20 minutes later, whenever I came back to the 
+computer Ive seen that its actually executed  its an order that shouldnt have executed, 
+its been cancelled
+Later in the call he proceeded to say he had not submitted the order yet so it should not 
+have been executed. IB put him on hold to check the audit trail for the trade and returned to 
+say the trade was submitted by him, was executed 10 seconds thereafter and that there is 
+no record of an attempt to cancel it before execution. Mr Ks response was that such an 
+account is impossible, that there must be a problem with IBs system and that he cancelled 
+it immediately after [he] placed it. IB maintained that the audit trail showed what had been 
+summarised. He then asked to make a complaint and as he was being guided to the section 
+in the website relevant to doing so, he reported seeing the price cap notification pop-up. IB 
+then offered to refer that to its technical team, but repeated that the audit trail showed what it 
+showed.In the third call, Mr K mainly said the order was never submitted, that it should not have been 
+executed, that the price cap notification pop-up during the previous conversation added 
+support to his claim that the platform was faulty and that he wanted to proceed with a 
+complaint. IB then guided him through the submission of his complaint.
+Mr Ks position appears to have shifted  between the first and second calls, and certainly by 
+the third  from one in which he confirmed placing the trade accidentally and then trying to 
+cancel it, to one in which he denied placing the trade at all. His transition is evident in the 
+second call, which he started by referring to his accidental placement of the order, but in 
+which he then proceeded to say he had not submitted the order  only to follow that, as I 
+have quoted above, by repeating that he cancelled the order immediately after placing it. 
+Notably, at no point in the three calls does he appear to have raised what seems to be one 
+of his core arguments at present  that it was not possible to cancel a trade once it had been 
+placed and that cancellation could only be done before it was placed. It is reasonable to 
+expect that such an argument would have been the simplest and most obvious for him to 
+refer to during the calls, but he does not appear to have done so  seemingly because he 
+already affirmed, in the second call, that he had placed the trade but subsequently tried to 
+cancel it.
+I have considered two questions relevant to the above. Before the third call, Mr K first said 
+he had set the trade and then that he had placed the trade, did he mean, in both terms, no 
+more than he had set up the trade (and then cancelled it before it was placed)? Was it 
+possible, on 18 August 2020, to cancel a trade on IBs platform either before or after 
+placement, or only before placement?
+On balance, and in the context of the evidence available to me, I consider it more likely (than 
+not) that Mr K was probably referring to placement of the order. I cannot reasonably 
+speculate that the platform independently and erroneously placed the order, and there is no 
+evidence to say that was the case. The log-on and transaction audit evidence is undisputed 
+up to the point of him, having logged on for around two minutes, setting up the order; the 
+evidence then says he placed/submitted it; he says he did not, but there is no evidence of an 
+alternative occurrence and at least one of the three recorded calls confirms him saying (and 
+repeating) that he placed it; his submissions to us include reference to a number of years 
+experience in trading, so I do not consider it likely that he would have misused the word 
+placed if he had not placed the trade. 
+The above finding is not a precise one, it is one reached on the balance of probabilities. I 
+cannot determine, with complete certainty, what Mr K did in the trade or what he meant to 
+express in the telephone calls, but my remit allows me to make findings on the balance of 
+probabilities and on the balance of available evidence, and I have done so above. 
+I do not have evidence of precisely how the platform operated two years ago in August 2020, 
+so a similar approach applies to the second question I posed above. I cannot determine, with 
+complete certainty, whether (or not) the platform at the time permitted cancellation of a trade 
+before or after placement, or only before placement. How the platform operates at present  
+which I believe Mr K has referred us to  does not automatically indicate how it operated two 
+years ago, especially given the tendency for firms to evolve and improve their trading 
+platforms over time. However, as I noted above, available evidence is that Mr K does not 
+appear to have raised this argument during the calls at the time. This suggests that either 
+cancellation before or after placement of a trade was possible or, if it was not and if 
+cancellation was only possible before placement, Mr K was unaware of that. Either 
+potentially explains why the argument was not raised at the time, but in neither case (and for 
+neither reason) can it be fairly and directly concluded that Mr K did not place the trade and/or 
+that a platform error did. As I have said, I consider that Mr K probably placed the trade and I 
+do not have evidence that a platform error did.For all the above reasons, and on balance, I am not persuaded that IB is responsible for the 
+trade or for any financial loss resulting from it. I acknowledge the same point noted by the 
+investigator about the confusion the subsequent price cap notification could have caused, 
+but this appears to have been an after the event matter and I have not seen evidence that 
+says it defeats the log-on and audit records of the trade being placed by Mr K. However, for 
+the inconvenience it could have caused him, I invite IB to pay him the £50 recommended by 
+the investigator. For the sake of clarity, Mr Ks claim is for financial loss (and lost opportunity) 
+from the trade, and for the reasons given in this decision I do not uphold it.
+My final decision
+For the reasons given above, I do not uphold Mr Ks complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr K to accept or 
+reject my decision before 15 September 2022.
+ 
+Roy Kuku
+Ombudsman

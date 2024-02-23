@@ -1,0 +1,213 @@
+DRN-3064223
+The complaint
+Mrs M complains  that Integrated  Financial  Arrangements  Ltd (trading  as Transact)  didn't  
+assess  the appropriateness  of an investment  she made  through  its platform.  She says  had 
+it done  so, and alerted  her to the complex  nature  of the investment,  she wouldn't  have  held 
+the investment  as long as she has. And would  have  avoided  the losses  she has since  
+suffered.  Mrs M is represented  in bringing  her complaint  by her husband,  Mr M. But for ease  
+I shall  refer  to Mrs M throughout.
+What happened
+Mrs M opened an account with Transact in 2011. She proceeded to make a number of
+transactions on her portfolio, instructed through her firm of advisers which Ill call A. These
+included buying units in a particular fund, X, which was an unregulated collective investment
+scheme based in the Marshall Islands.
+In 2012 Mrs M moved her investments away from Transact to another provider. Around the
+same time, the holdings Mrs M had in X were converted from shares, into a holding in a 5-
+year bond.
+In 2017, Mrs M received communication in relation to her bond holding which said it wouldnt
+be paying her money back at the anticipated end of the term. Mrs M complained to Transact.
+She said that she now realised the complex, offshore nature of her investment in X. She said
+had she understood it at the time, and the links between the firm operating the investment
+and her firm of advisers, she would have changed advisers and exited the investment much
+sooner. She said Transact had an obligation under the regulators rules at the time to notify
+her of investments she made into complex investments and assess whether they were
+appropriate for her. She argued that by failing to carry out this assessment. Transact
+prevented her realising the nature of her investment sooner. She said the investment was
+now effectively worthless and Transact should compensate her for her losses.
+Transact didnt uphold Mrs Ms complaint. It explained that it was only required to assess
+appropriateness for complex products, and the units Mrs M bought in X werent complex,
+as defined by the regulator. It noted that the instruction to invest in X had come through an 
+FCA authorised adviser, and it was that firm - not Transact - that was responsibie for
+assessing the suitability of the investment for Mrs M.
+One of our adjudicators looked into the matter, and didnt think Transact had treated Mrs M
+unfairly. He also concluded the holding in X wasnt complex and said Transact therefore
+wasnt obliged to assess its appropriateness for Mrs M. He said:
+ Transact only had to assess appropriateness if the investment was in a non-readily
+realisable security, derivative or a warrant".
+ The units in X werent derivatives or warrants.
+ The regulators handbook defined a non-readily realisable security as any security
+that didnt meet certain criteria. One of those criteria was that it was a non-mainstream
+pooled investment.
+ The units in X were units in a non-mainstream pooled investment, and therefore
+wouldnt be classified as a non-readily realisable security.
+Mrs M didnt agree. She said that Transact and our adjudicator were using the wrong
+definition of complex investments, and that in fact her shares in X ought to have triggered
+an appropriateness assessment by Transact. She also said too much weight had been given
+to the fact shed been advised by A to enter into the investment in X. She said the rules were
+there to give a safety net" in the event the adviser didnt fully explain the implications of
+investing in this type of scheme. And that despite the presence of her financial adviser.
+Transact ought to have done more to alert her to the nature of her investment and establish
+whether it was appropriate for her.
+I issued a provisional decision on the matter, in which I said:
+Mrs Ms complaint is that Transact ought to have assessed the appropriateness of the
+investment in X for her, and warned her it was a complex investment. The relevant rules on
+the assessment of appropriateness were at the time found in COBS 10 within the regulators
+handbook.
+COBS 10.1.1R says that those rules apply to a firm providing investment services in the
+course of MiFID or equivalent third country business other than making a personal
+recommendation and managing investments".
+Investment services in the course of MiFID business includes the reception and transmission
+of orders in relation to one or more financial instruments, and the execution of orders on
+behalf of clients. Financial instruments" includes units in collective investment undertakings.
+Here, Transact received and executed orders on behalf of Mrs M to buy units in X, a
+collective investment undertaking. So Im satisfied these rules applied.
+COBS 10 goes on to say that in these circumstances the firm (Transact) has an obligation to
+assess whether the product or service is appropriate for the client. However, it also goes on
+to give situations where an appropriateness assessment need not be done.
+The nature of the investment
+COBS 10.4.1 R explains that there need not be an appropriateness assessment if, amongst
+other things, the investment meets certain criteria. It says:
+(1) A firm is not required to ask its ciient to provide information or assess
+appropriateness if:
+(a) the service only consists of execution and/or the reception and transmission
+of client orders, with or without ancillary services, it relates to
+particular financial Instruments and Is provided at the Initiative of the client:
+(b) the client has been clearly Informed (whether the warning Is given In a
+standardised format or not) that In the provision of this service the firm is not
+required to assess the suitability of the instrument or service provided or
+offered and that therefore he does not benefit from the protection of
+the rules on assessing suitability: and
+(c) the firm compiles with Its obligations In relation to conflicts of Interest.
+(2) The financial instruments are:
+(a) shares admitted to trading on a reguiated market or an equivalent third
+country market (that Is, one which Is Included In the list which Is published by
+the European Commission and updated periodically): or
+(b) money market Instruments, bonds or other forms of securitised debt(excluding those bonds or securitised debt that embed a derivative): or
+(c) units In a scheme authorised under the UCITS directive: or
+(d) other non-complex financiai instruments.
+(3) A financial instrument is non-complex If It satisfies the following criteria:
+(a) It Is not a derivative or other security giving the right to acquire or sell
+a transferable security or giving n'se to a cash settlement determined by
+reference to transferable securities, currencies, Interest rates or yields,
+commodities or other Indices or measures:
+(b) there are frequent opportunities to dispose of, redeem, or otherwise realise
+the Instrument at prices that are publicly available to the market participants
+and that are either market prices or prices made available, or validated, by
+valuation systems Independent of the Issuer:
+(c) It does not Involve any actual or potential liability for the client that exceeds
+the cost of acquln'ng the Instrument: and
+(d) adequately comprehensive Information on Its characteristics Is publicly
+available and Is likely to be readily understood so as to enable the
+average retail client to make an informed judgment as to whether to enter into
+a transaction in that instrument.
+Mrs Ms holding in X took the form of shares in a limited company, which was registered in
+the Marshall Islands. These shares werent admitted to trading on a regulated market or an
+equivalent third country market. To the extent these shares were units in a collective 
+investment scheme, that scheme wasnt authorised under the UCITS directive. They also
+clearly werent money market instruments, bonds, or other forms of securitised debt. So
+were Mrs Ms shares other non-complex financial instruments"?
+My understanding of the X shares is that they could be redeemed solely through the fund
+operator, and at prices set by the fund operator. Im not currently persuaded that there were
+frequent opportunities for Mrs M to redeem her shares at prices that were publicly available
+to her or other market participants. Nor that the prices were made available or validated by
+valuation systems independent of the issuer. So Im not persuaded the criteria in COBS
+10.4.1R (3)(b) were met.
+Ive not been provided with any of the literature relating to X or what was publicly available
+regarding it. But its not in dispute that this was an unregulated collective investment
+scheme, based abroad and specialising in real estate investment. Transact itself
+acknowledges that there were restrictions on the promotion of this type of investment to the
+public and said that the companies selling units in X required investors to be certified as
+sophisticated investors'.
+I find it more likely than not that this investment was sold through advisers who only
+promoted it to investors with an existing reasonable level of understanding of investments
+and the type of risk theyd be exposed to. On balance, therefore. Im not persuaded that
+adequately comprehensive information on the characteristics of X was publicly available,
+and likely to be readily understood so as to enable the average retail client to make an
+informed judgment as to whether to enter into a transaction in X. It follows that I dont find
+the criteria in COBS 10.4.1R (3)(d) were met.
+All this means that I dont think shares in X were the sort of financial instrument that
+alleviated Transacts responsibility to assess its appropriateness for Mrs M.
+Reliance on others
+It's of significance that Mrs M's investment was made through a regulated financial adviser. 
+Mrs M has argued that this makes no difference to Transact's obligations, and that the rules were there to provide a safety net in the event her adviser fell short of what was required of 
+it. I'm afraid I don't agree.
+The FCA's handbook and COBS rules provide for situations where a client may enter into 
+transactions with the involvement of more than one regulated firm. And it is specifically 
+provided that, in certain circumstances, firms can rely on information and compliance with 
+other rules that has been carried out by someone else, where that someone is themselves a 
+regulated firm.
+Specifically, COBS 2.4.4R says that:
+(1) This rule applies if a firm (FI), in the course of performing MiFID or equivalent
+third country business, receives an instruction to perform an investment or ancillary
+service on behalf of a client (C) through another firm (F2), if F2 is:
+(a) a MiFID investment firm or a third country investment firm: or
+(b) an investment firm that is:
+(i) a firm or authorised in another EEA State: and
+(ii) subject to equivalent relevant requirements.
+(2) F1 may rely upon:
+(a) any information about C transmitted to it by F2; and
+(b) any recommendations in respect of the service or transaction that have
+been provided to C by F2.
+(3) F2 will remain responsible for:
+(a) the completeness and accuracy of any information about C transmitted by
+it to F1: and
+(b) the appropriateness for C of any advice or recommendations provided to
+C.
+(4) F1 will remain responsible for concluding the services or transaction based on
+any such information or recommendations in accordance with the applicable
+requirements under the regulatory system.
+Im satisfied this applied here. F1 (Transact) received an instruction on behalf of C (Mrs M)
+through another firm F2 (A). And A was a MiFID investment firm.
+So Transact could rely on the recommendation in respect of the transaction in X that A
+provided to Mrs M.
+Further, the guidance at COBS 2.4.5G says:
+If F1 is required to perform a suitability assessment or an appropriateness assessment
+under COBS 9 or COBS 10, it may rely upon a suitability assessment performed by F2, if F2
+was subject to the requirements for assessing suitability in COBS 9 (excluding the basic
+advice rules) or equivalent requirements in another EEA State in performing that
+assessment.
+A was an FCA authorised firm of advisers. And in recommending Mrs M invest in X, it was
+subject to the requirements for assessing suitability in COBS 9. So under this guidance Im
+satisfied Transact could rely on As suitability assessment when considering its requirement
+to assess appropriateness.
+This is further endorsed by guidance within the section of COBS concerning
+appropriateness. COBS 10.6.2G says:A firm may not need to assess appropriateness if it is able to rely on a recommendation
+made by an investment firm (see COBS 2.4.5 G (Reliance on other investment firms: MiFID
+and equivalent business).
+Its important to note that the obligations when giving a recommendation (suitability) are
+more rigorous and detailed than the appropriateness assessment. When assessing
+appropriateness, a firm is required to establish whether the client has the necessary
+experience and knowledge in order to understand the risks of the transaction he or she has
+asked to be carried out.
+While this is the extent of the appropriateness assessment, it forms merely one part of the
+process a firm is required to go through when assessing suitability. But as it forms part of the
+suitability assessment, it follows that if an investment is suitable for someone, it must also be
+appropriate. Whereas the converse does not necessarily hold.
+Here Transact was presented with an investor who had a regulated financial adviser, subject
+to approval by the regulator and subject to the regulators rules. That adviser had
+recommended investing in X as being suitable for Mrs M. I think it was reasonable, and
+consistent with the regulatory rules and guidance in place at the time, for Transact to rely on
+those facts and not assess the appropriateness of this transaction for Mrs M itself.
+It follows that I dont find Transact responsible for any losses Mrs M has suffered as a result
+of holding this investment, and I therefore dont intend to uphold this complaint.
+Transact said they didnt have anything further to add after receiving my provisional 
+decisions Mrs M reiterated that Transact ought to have known this was a complex 
+investment and told her about it. She said she wasnt aware of the rulebook saying it didnt 
+have to do anything.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, Ive reached the same conclusions as in my provisional decision, for the 
+same reasons. I appreciate Mrs Ms frustration at the losses shes suffered. But whether or 
+not she knew the relevant rules, for the reasons given in my provisional decision I remain 
+satisfied that Transact had no regulatory obligation to inform Mrs M the investment in X was 
+a complex investment, nor to carry out an appropriateness assessment. 
+I find no basis to fairly and reasonably hold Transact responsible for the losses Mrs M has 
+sadly suffered by virtue of making this investment.
+My final decision
+My final decision is that I dont uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mrs M to accept or 
+reject my decision before 2 June 2022.
+ 
+Luke Gordon
+Ombudsman

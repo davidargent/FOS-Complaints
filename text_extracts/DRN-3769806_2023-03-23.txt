@@ -1,0 +1,154 @@
+DRN-3769806
+The complaint
+Mr A complains that Clydesdale Bank Plc (trading as Virgin Money) declined to refund him 
+for his rent of holiday accommodation.
+What happened
+In March 2020, Mr A booked holiday accommodation for 32 people in October of that year. 
+He paid by making two payments, in March and August, with his Virgin Money credit card.
+In September, Mr A asked to reschedule that booking because of covid regulations, as 
+gatherings of more than six people were prohibited, unless they were all from the same 
+household (the rule of six). Mr A said this would prevent the booking from going ahead, as 
+he had booked for 32 guests. The accommodation provider (the merchant) did not agree to 
+reschedule the booking, and so Mr A cancelled it, but the merchant refused to refund him, as 
+its terms and conditions said the booking fee was non-refundable. Mr A then asked Virgin 
+Money to refund him. He claimed that his contract had been frustrated, and so he was 
+entitled to a full refund under the Law Reform (Frustrated Contracts) Act 1943; alternatively, 
+the merchant was in breach of contract, and had misrepresented to him that the 
+accommodation would be available to him when it wasnt.
+Virgin Money raised a chargeback claim, but this was unsuccessful because the merchant 
+defended it, saying that the covid rules had not actually prevented the booking from going 
+ahead. Next, Virgin Money considered its liability under section 75 of the Consumer Credit 
+Act 1974, but it decided it did not have to pay Mr A anything. It said that section 75 does not 
+apply to frustration of contract, only to breach of contract and misrepresentation. And it said 
+that the merchant had not breached its contract, as it had still been able and willing to 
+honour the booking.
+Mr A brought this complaint to our service, but our investigator did not uphold it. She said 
+that Virgin Money had taken the chargeback as far as it could. She noted that the merchants 
+terms and conditions said that in the event of cancellation for any reason, no refund would 
+be given, and it was the customers responsibility to obtain travel insurance. She agreed with 
+Virgin Money that section 75 does not apply to claims for frustration of contract, and that 
+there was no evidence of a breach of contract by the merchant, because the merchant had 
+not cancelled the booking or said that the accommodation would no longer be available. She 
+said it had still been possible for the booking to go ahead without contravening covid 
+regulations, as several properties had been booked and so each could have taken one 
+household. Consequently, she agreed that Virgin Money had not been obliged to offer a 
+refund under section 75.
+Mr A did not accept that opinion. He insisted that there had been a breach of contract, 
+because the rule of six would have prevented a group of 32 from going on holiday together. 
+He said that the merchants website contains a clause which says:
+If legislation is introduced due to COVID that requires us to be closed we will 
+provide a full credit, either as a refund or preferably a booking transfer to another 
+date.
+Mr A said this undertaking applied to his booking, as it would have been illegal for he or the 
+merchant to proceed with it. He argued that the merchant had admitted that it was 
+impossible for the original booking to go ahead, because in an email it had advised him to 
+reduce the number of guests. He asked for an ombudsmans decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I do not uphold it. I will explain why.
+Section 75 makes Virgin Money jointly liable for any breach of contract or misrepresentation 
+by the merchant, but not for frustration of a contract. Virgin Money was therefore not 
+responsible for paying Mr A any refund to which he might have been entitled if his contract 
+was frustrated.
+However, it is still necessary for me to decide whether the contract was frustrated, because if 
+it was, then there can have been no breach of contract by the merchant.
+A contract can be frustrated by a change in the law, if the change makes the contract 
+impossible (not merely inconvenient or challenging) to perform. I will come back later to 
+whether the covid regulations did that; for present purposes I will assume that they did. 
+Chitty on Contracts (34th edition, paragraph 26-003) says:
+where express provision has been made in the contract itself for the event which 
+has actually occurred, then the contract is not frustrated.
+The merchants terms and conditions include these clauses:
+A reservation, once confirmed in writing, renders the person booking liable for the 
+full payment of the quoted price.
+Payments are non-refundable so it is recommended that appropriate travel 
+insurance is taken out to cover recovery of all non-refundable costs
+It is the responsibility of the individual(s) or business(es) letting the property to 
+ensure they and all guests and visitors during their short term tenancy have suitable 
+and adequate insurances in place, including  travel
+Tenant and Guest insurance cover is expected to include, but is not limited to: [a list 
+then follows, which includes this entry:]
+- Restrictions to travel imposed by government or any authority
+[The merchant] will not be held liable for any guest or tenant cancellations due to 
+adverse weather conditions, illness, any change in personal circumstance or health, 
+travel complications or any other reason whatsoever, including those listed above, 
+expected to be covered by your own insurance. [Emphasis added.]
+Since the terms and conditions make express provision for a booking being cancelled due to 
+any reason whatsoever, then I think the doctrine of frustration does not apply here. I am 
+reinforced in that opinion by paragraph 26-123 of Chitty on Contracts, which says:
+a clause which provides that one contracting party is under an obligation to 
+maintain insurance against the consequences of the frustrating event would appear 
+to be effective to exclude the operation of the Act so that the party upon whom the 
+obligation to insure is imposed cannot bring a claim under the Act.It follows that if the merchant had not allowed the booking to go ahead (instead of Mr A 
+cancelling it), then that would have been a breach of contract, rather than frustration, and so 
+section 75 would apply. (But I dont think it would be proof of a misrepresentation having 
+been made, because misrepresentation means a statement which was untrue when it was 
+made, not one which becomes untrue later on, which is what Mr A alleges.)
+However, it appears that the merchant was still prepared to let the booking go ahead. The 
+email Mr A referred to in his response to the investigators opinion only says that the 
+merchant was offering discounts to customers who reduced a large booking to 25 guests or 
+fewer. It did not say that 32 guests could not stay:
+As it stands, with current rules, its workable, although were very much encouraging 
+lower occupancy across the whole site by offering discounts for having 25 guests or 
+less. If this suits please do let me know.  Unless were in full lockdown and 
+legislation requires us to close again, well remain open
+The same email went on to say:
+In the event of a full lockdown well look to transfer a booking or reimburse but for 
+anything else that may prevent the tenant or their guests from travelling to or staying 
+at the property, the risk remains theirs protected by their own insurance (if they have 
+it)
+So for anything less than a full lockdown, Mr As sole remedy under the contract was his 
+travel insurance. (He has told us that his travel insurance had lapsed in June 2020.)
+Mr A has not suggested that there was a full lockdown at the time of the booking, which was 
+in late October 2020. Rather, his argument is that the rule of six operated to prevent 32 
+people from sharing accommodation. The merchant never accepted that, either during its 
+correspondence with Mr A in the weeks leading up to the booking, or when it defended the 
+chargeback afterwards. This defence was accepted by the credit card scheme operator 
+when the chargeback claim was raised.
+The covid rules changed frequently. They are summarised on the website of the House of 
+Commons Library at https://commonslibrary.parliament.uk/research-briefings/cbp-9068/. The 
+rule of six was imposed nationally on 14 September, and then continued until the second 
+national lockdown on 4 November; this period encompasses Mr As booking.1
+It is not clear from the evidence before me how many buildings had been booked, except 
+that it was at least three; nor do I know how many households the guests all came from 
+(Mr A told the merchant it was over 1 and up to 5 different families); nor is it clear precisely 
+how many people would have attended if the booking had gone ahead, because in an email 
+dated 2 August 2020 Mr A told the merchant that one family had dropped out but didnt say 
+how many people that was. However, if I assume that 28 people would still have attended, 
+from four different households, occupying three buildings, then it would certainly not have 
+been possible for everyone to comply with the rule of six (unless more people dropped out, 
+which Mr A was adamant would make the entire holiday pointless). So I accept that the 
+booking could not have gone ahead precisely as envisaged at the time the booking was 
+made, or as re-envisaged on 2 August.
+Nevertheless, I think it would still have been possible for the booking to have gone ahead in 
+some form, with some changes, in such a way that the covid restrictions in force at the time 
+could have been complied with. For that reason, I am not persuaded that the merchants 
+offer to pay a full refund in the event that covid legislation required the venue to be closed 
+1 See also https://researchbriefings.files.parliament.uk/documents/CBP-9068/CBP-9068.pdfwas applicable; it was still open. And it was Mr As choice, not the merchants, to cancel the 
+whole booking in light of the implications of the rule of six.
+I am reinforced in that view by the merchants email dated 30 September 2022, in which it 
+said:
+We are open and weve been operating very well since 4th July, with stricter 
+guidance before now. We have ten separate properties across the site and so in 
+your case, it would simply be a case of re-booking with ten separate bookings and 
+making sure you follow our protocol in communal spaces  to ensure you remain 
+within the law.
+That would have solved the legal problem, although I appreciate that it would have involved 
+the guests having to adapt somewhat, in following the rules. But it would not have required 
+anyone else to drop out.
+Mr A cancelled the booking the next day. I can understand his reasons for doing so, because 
+if the holiday had gone ahead it would have required some undesirable restrictions, but I do 
+not think that this situation amounts to a breach of contract by the merchant. It was just the 
+unavoidable result of the covid laws, which inconvenienced everybody to some degree at the 
+time.
+For these reasons, I am satisfied that Virgin Money was not obliged to refund Mr A under 
+section 75, nor was it obliged to appeal against the chargeback decision declining his claim. 
+I think that pursuing the chargeback claim further would not have met with success.
+My final decision
+My decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr A to accept or 
+reject my decision before 20 April 2023.
+ 
+Richard Wood
+Ombudsman

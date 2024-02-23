@@ -1,0 +1,70 @@
+DRN-3534900
+The complaint
+T, a limited company, complains that it has been charged fees for not being PCI-DSS 
+compliant by First Data Europe Limited trading as Clover, despite trying to send proof of 
+compliance. Miss V, a company secretary of T, brings the complaint on its behalf.
+What happened
+In September 2020, T was charged a fee for PCI-DSS non-compliance. Miss V didnt think 
+this was right, as she couldnt upload the documents she needed to prove compliance to 
+First Datas online portal. Her understanding was also that T wasnt required to fill out a 
+questionnaire that First Data said was necessary, because of the nature of the business. 
+Miss V raised a complaint about this on Ts behalf in October 2020. In January 2021, 
+First Data responded and said that its online portal did have the ability to accept the 
+documents Miss V needed to upload. But it accepted that its service had fallen short and that 
+it could have contacted T about this sooner, so it agreed to refund £225 of the fees it had 
+applied as a gesture of goodwill and to contact T to help with the issues it was facing.
+Miss V wasnt happy about this though and brought her complaint to us. Our investigator 
+looked into this and didnt think it was fair that First Data had applied the fees between 
+September 2020 and January 2021. They said that while the relevant documentation hadnt 
+been uploaded to First Datas portal, T had repeatedly tried to provide this and hadnt been 
+given any alternative method to do so, or support around this. So they felt that First Data 
+should refund all the associated charges (minus the refund already given) from September 
+2020 until January 2021 and pay 8% interest on this amount.
+Initially Miss V didnt accept this on behalf of T as she expected all the charges to be 
+refunded and was unhappy that First Data was now threatening to close Ts account. Our 
+investigator clarified that we could only consider the complaint about charges up to 
+January 2021 that First Data had already responded to. Any complaint about further 
+charges, or the possible account closure would need to be dealt with separately.
+First Data eventually responded to say that T was (and remained) PCI-DSS non-compliant 
+and could have submitted the relevant documentation in a number of ways. It restated that T 
+had been awarded a gesture of goodwill. So the complaint was passed to an ombudsman to 
+decide.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Ill start by clarifying that this decision here only covers Ts complaint about the charges 
+applied between September 2020 and January 2021, as its these charges that First Datas 
+final response letter of January 2021 covered. Our investigator has explained that First Data 
+will need an opportunity to respond to any further complaint about charges applied since 
+then and about the potential closure of Ts account.
+Having looked at what happened here, I think that itd be fair and reasonable for First Data to 
+refund all the charges applied during this time. I realise that Miss V hasnt submitted the 
+relevant documentation about her PCI-DSS compliance using First Datas online portal in the 
+way it would like, but shes clearly experienced some problems in doing so. Shes also 
+clearly tried to prove Ts compliance a number of times and also asked First Data for its help 
+with this matter. But that help wasnt forthcoming until January 2021 when it responded to 
+her complaint.
+Miss V has provided this service a certificate of compliance and a completed self-
+assessment questionnaire from September 2020 which would seem to show that T was PCI-
+DSS compliant during the relevant times here. So Im satisfied that her attempts to provide 
+this to First Data were genuine. She may not have done this in exactly the way First Data 
+wanted her to, but she told it why she couldnt do this and asked for its help. It was only in 
+January 2021 that First Data offered to help with this. The fact it didnt do so until then 
+means I dont think its fair that the charges were applied during this time.
+So I think First Data should refund the charges applied between September 2020 and 
+January 2021 along with adding 8% interest on top of this, for the period of time T has been 
+without this money. But I make no findings on what has happened since then and nor does 
+this decision automatically mean that T will be entitled to any future refund. First Data has 
+the right to look at these issues before this service gets involved. Should we need to get 
+involved, we then have to look at each case individually, on its own merits.
+Putting things right
+First Data Europe Limited trading as Clover should refund T the total of all PCI-DSS non-
+compliance fees minus any amounts already refunded. It should also add 8% interest on top 
+of this amount, payable from the date of the first charge, to the date the refund is made.
+My final decision
+My final decision is that I uphold this complaint in the way Ive described above.
+Under the rules of the Financial Ombudsman Service, Im required to ask T to accept or 
+reject my decision before 22 September 2022.
+ 
+James Staples
+Ombudsman

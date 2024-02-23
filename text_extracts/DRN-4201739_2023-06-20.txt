@@ -1,0 +1,163 @@
+DRN-4201739
+The complaint
+Miss S has complained that Monzo Bank Ltd wont refund transactions she says she didnt 
+make or otherwise authorise.
+What happened
+In early 2022, Miss Ss Monzo mobile banking was used to receive a number of payments 
+from her savings, then send two payments to a new payee, totalling about £10,000.
+Miss S reported this to Monzo later that day. Shes explained her mother received a call 
+which Miss S took for her. The caller said they were from the internet company and had 
+noticed that the internet connection had been compromised. They knew Miss Ss mothers 
+name, knew an engineer had visited the other day, used a technical trick to support what 
+they were saying, and offered their employer ID numbers for verification. Miss S believed 
+they were who they said they were. She explained she was ill at the time, shed been sorting 
+out her fathers funeral, and it was a very long conversation.
+Miss S explained they asked her to download an app to check her online accounts were 
+safe, since shed been using her mothers internet connection. Miss S downloaded an 
+established remote access technical support app. She logged into her Monzo app using her 
+PIN, to check it was safe. The callers never asked for her details and even told her to never 
+give out her details, and Miss S says she didnt give them her PIN. She said she didnt see 
+them do anything wrong while she could see her phone screen. Miss S became suspicious 
+at the end of the call, when the caller told her not to check her online banking for a couple of 
+days while they made things secure.
+Monzo recovered £4.39 from the receiving bank, but otherwise held Miss S liable for the 
+payments in dispute. It couldnt see how the scammers learned Miss Ss PIN without her 
+telling it to them, and it felt shed been grossly negligent.
+Our investigator looked into things independently and upheld the complaint. They explained 
+that Monzo had to refund unauthorised payments. And they thought Miss S had grounds to 
+trust the callers, so they didnt think shed been grossly negligent.
+Monzo didnt agree, so the complaints been passed to me to decide.
+I sent Miss S and Monzo a provisional decision on 5 June 2023, to explain why I thought 
+the complaint should be upheld. In that decision, I said:
+Monzos technical evidence shows that the payments in dispute used Miss Ss mobile app, 
+and her PIN. But this is not enough, on its own, for Monzo to hold Miss S liable  it also 
+needs to be able to evidence that Miss S consented to the transactions, or that she failed to 
+keep her account safe either intentionally or through acting with gross negligence. 
+Otherwise, Monzo has to refund the transactions.
+It doesnt seem to be in dispute that Miss S was the unfortunate victim of a complex scam. 
+But Monzo has raised some queries about how the scammers could have made the 
+payments without Miss S giving them some form of authority.
+Monzo argued that the remote access app doesnt give control of the device. But it is 
+mistaken. Remote control is one of the main features of that app. Monzo also argued that 
+the scammers would not have been able to learn Miss Ss PIN without her telling it to them. 
+But again, the remote access app allows users to see what is being entered on the 
+keyboard. So when Miss S logged into her Monzo app with her PIN, the scammers would 
+have been able to see which numbers she was entering via the remote access app.
+So there is a clear point of compromise for Miss Ss device and PIN. Monzo did not require 
+any two-factor authentication to make these payments, so it was very much possible for a 
+scammer to make them using just the remote access app and the PIN theyd seen Miss S 
+enter. Miss Ss testimony has been clear and consistent, fits with known scam methods, and 
+is supported by the order and timing of the payments. And the way the payments were made 
+ such as draining Miss Ss funds to a new payee at speed  fit with what Id expect from a 
+fraudster. Lastly, Ive not seen anything which reasonably shows that Miss S authorised 
+these payments, or which makes it seem implausible that they could have been made 
+without her consent.
+So based on what Ive seen so far, Im not persuaded that Miss S consented to the disputed 
+transactions  meaning Monzo cannot hold her liable for them on the basis of authorisation.
+Ive then thought carefully about whether Monzo can hold Miss S liable on the basis of gross 
+negligence. Its reasonable to say that Miss S acted negligently here in allowing remote 
+access of her phone based on a call. But gross negligence is a much higher standard than 
+normal negligence. It involves a very serious disregard to an obvious risk.
+Here, Miss S had reasons to believe that the scam call was genuine. The callers knew her 
+mothers name, they seemed to know shed had an engineer round the other day whod 
+tended to the internet connection, they used a technical trick to evidence they were telling 
+the truth about the internet connection being insecure, they offered employee IDs to check 
+who they were on any calls, they made it clear theyd never ask Miss S for any security 
+details and told her not to give them any, and the app they asked her to download was an 
+established app that really is used for remote technical support. Further, given Miss Ss 
+personal situation  such as her illness and recent bereavement, given the length of time 
+she was speaking to the scammers, and given the convincing and pressured nature of these 
+scams, I can understand how they could have worn her down.
+Monzo questioned why Miss S would think that the recent engineer visit was relevant, given 
+that the engineer was from the television company rather than the internet company. But as 
+Miss S explained, the television service was digital, so in order to set up the television 
+service, the engineer had physically interacted with the internet connection. The callers said 
+that this caused the connection to become insecure. I can see why that wouldve made 
+sense to Miss S at the time.
+Monzo also questioned why Miss S would need to check her own apps if it was her mothers 
+internet that was compromised. But given that Miss Ss phone had been connected to her 
+mothers internet, and shed been convinced that her mothers internet had had its security 
+compromised, it makes sense that shed think her own phone was at risk, including its apps.Lastly, Monzo suggested that Miss S should have read the literature for the remote access 
+app, which contained a warning. As our investigator said, it would not be reasonable to 
+expect Miss S to read the literature for the app, while speaking on the phone, to someone 
+she had grounds to trust. It looks like Monzo now accept this point was not relevant.
+Ultimately, Miss S was trying to protect her account by doing what she did. I can see why 
+shed allow someone remote access to her phone when she had grounds to believe they 
+were really offering technical support, using a genuine technical support app. So while 
+I agree that Miss S was negligent, I do not agree that her actions met the much higher bar of 
+gross negligence.
+Ive also considered whether Miss S intentionally failed to keep her account safe. But as 
+above, I dont think Miss S gave her PIN to the scammers. I think they learned it using the 
+remote access app, which Miss S wouldnt have known at the time. I cant see that Miss Ss 
+actions would constitute an intentional failure to keep the account safe  ultimately, she 
+actually took these actions to try to keep her account safe.
+So while I can understand Monzos point of view, based on what Ive seen so far, Im not 
+persuaded that they can hold Miss S liable on the basis of gross negligence or an intentional 
+failure to keep her account safe.
+Further, taking into account the law, regulators rules and guidance, relevant codes of 
+practice, and what I consider to have been good industry practice at the time, I consider that 
+Monzo should have fairly and reasonably:
+Monitored accounts and payments to counter risks such as fraud and scams;
+Had systems in place to look out for particularly unusual transactions or other signs 
+its customers were at risk of fraud;
+In some circumstances, taken further steps or made further checks before a payment 
+went out, or even blocked it, to help protect customers  irrespective of the type of 
+payment involved.
+Here, the disputed payments were very large  so large that Id expect them to have been of 
+concern to Monzo. There were multiple payments involved, made rapidly, ultimately going to 
+a new third-party payee who Miss S had had no dealings with before. These payments 
+drained her account, and were very much out of character with her usual activity. Ive 
+reviewed Miss Ss account usage in the months leading up to the scam, and I cant see any 
+comparable activity. I think the payments involved stand out as being remarkable for a 
+number of reasons, so I think they should have prompted Monzo to intervene. For example, 
+Monzo should have not allowed the payments to go through without speaking to Miss S 
+directly and questioning her about the payments and the possibility of a scam.Had Monzo intervened and spoken to Miss S, I think it would have become clear that she did 
+not consent to these payments and did not want them to go out. From what I can see, she 
+didnt know the scammer was making these payments, and Ive seen nothing to suggest she 
+would not have been honest about things if questioned. The scammer hadnt told Miss S to 
+lie if questioned  indeed, they hadnt told her theyd make any payments at all. And Miss S 
+was open about what happened when she spoke to Monzo later that day. Im also conscious 
+that this is a relatively prominent type of scam, so I think Monzo would have been able to 
+quickly identify what was happening and prevent it.
+So Im not currently persuaded that Monzo took sufficient steps to assure that fraud likely 
+wasnt taking place, and that Miss S wasnt at risk of financial harm. And Monzo has an 
+overarching obligation to not further financial crime. Had Monzo intervened, its most likely it 
+wouldve become clear that Miss S was falling victim to a scam, and so the loss could have 
+been prevented. So I find that Monzo bears responsibility for Miss Ss loss on this basis, as 
+well as on the basis of the payments being unauthorised.
+In terms of putting things right, Monzo of course will need to refund the unauthorised 
+payments, less the £4.39 it has recovered. I also think Monzo should pay Miss S 8% simple 
+interest on her loss. This is to compensate her for the time shes been without her money, 
+and is the same rate the courts use for these sorts of situations. Lastly, while it was of 
+course the scammer who caused Miss S the majority of her distress, I also think Monzo 
+caused her some real stress and upset by not handling this matter appropriately. So I agree 
+with our investigator that they should pay her £250 additional compensation for that. 
+I said Id consider anything else anyone wanted to give me  so long as I received it before 
+19 June 2023.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+In response to the provisional decision, Miss S let us know that she was happy with what 
+was said and had nothing further to add. Monzo reiterated that it didnt think Miss S had a 
+plausible reason to download the technical support app, but accepted that this was not a 
+new point. It didnt add anything further.
+So neither side have sent me any new evidence or arguments. And so having reconsidered 
+the case, Ive come to the same conclusion as before, and for the same reasons as set out 
+in my provisional decision above.
+Putting things right
+I direct Monzo Bank Ltd to:
+refund the disputed transactions, less the money already recovered;
+pay simple interest to Miss S on those transactions, at the rate of 8% simple a year, 
+payable from the date they were debited until the date theyre returned. This is to 
+compensate Miss S for the time she didnt have her money; and-pay Miss S £250 compensation for the trouble and upset it caused.
+ HM Revenue & Customs requires Monzo to take off tax from this simple interest. Monzo must give 
+Miss S a certificate showing how much tax its taken off if she asks for one. Miss S may be able to 
+claim the tax back from HMRC if she doesnt normally pay tax.
+My final decision
+For the reasons Ive explained, I uphold Miss Ss complaint, and direct Monzo Bank Ltd to 
+put things right in the way I set out above.
+Under the rules of the Financial Ombudsman Service, Im required to ask Miss S to accept 
+or reject my decision before 18 July 2023.
+ 
+Adam Charles
+Ombudsman

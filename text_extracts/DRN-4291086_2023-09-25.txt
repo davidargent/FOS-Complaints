@@ -1,0 +1,104 @@
+DRN-4291086
+The complaint
+Mrs A complains that Monzo Bank Ltd (Monzo) wont refund the money she lost as part of 
+a scam.
+What happened
+The background to this complaint is well known to both parties, so Ill only refer to some key 
+events here.
+In August 2021 Mrs A was contacted by someone purporting to be from a legitimate crypto 
+exchange platform offering to help her recover funds shed lost previously as part of a crypto 
+investment scam. This unfortunately also turned out to be a scam.
+The following payments were made to a crypto exchange (Kraken) and my understanding is 
+that the funds were then transferred on to the scammer that I will call B.
+Transaction 
+Number Date Amount Merchant Running Total
+1 17/08/2021 £1,455 Payward £1,455
+2 18/08/2021 £4,098 Payward £5,553
+3 19/08/2021 £4,680 Payward £10,233
+4 19/08/2021 £4,640 Payward £14,873
+5 20/08/2021 £4,600 Payward £19,473
+6 20/08/2021 £4,589 Payward £24,062
+7 27/08/2021 £19.99 Amazon £24,082
+Mrs A made a complaint via a representative to Monzo and requested that the above 
+transactions be refunded. Monzo declined to do this.
+One of investigators looked into this matter he initially did not uphold this complaint. But after 
+more information was provided by both parties, he decided that Monzo should have 
+intervened at transaction 4 and had it done so Mrs A would have explained that she was 
+making a payment to B to help her recover funds she had previously lost as part of a scam. 
+She therefore recommended that transaction 4,5,6 should be refunded. He did not think that 
+transaction 7 was likely part of the scam.
+Monzo said in summary, the payments were not out of character as Mrs A had a short 
+history of trading in cryptocurrency over a few weeks and it does not believe that Mrs A 
+would have been forthcoming about how the account was opened and exactly who made the 
+transactions. 
+So, this complaint has been passed to me to issue a final decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Firstly, from what I can see I dont think payment 7 was likely part of a scam as it seems to 
+have been a Mastercard payment to Amazon. So, I am not going to recommend that this 
+payment be refunded,
+There is some debate over whether Mrs A authorised the other payments in question, but 
+given the information provided by both parties I think on balance that she probably did make 
+the payments, but it was done using the instructions of B telling her what to do.
+At the time Mrs A made her payments, banks were expected to process payments a 
+customer authorised it to make; but as a matter of good industry practice, a bank should 
+have taken proactive steps to identify and help prevent transactions  particularly unusual or 
+uncharacteristic transactions  that could involve fraud or be the result of a scam.
+There is a balance to be struck: banks had (and have) obligations to be alert to fraud and 
+scams and to act in their customers best interests, but they cant be involved in every 
+transaction.
+This was a very sophisticated scam and Mrs A had been introduced to what appeared to be 
+a way for her to recover funds she had previously lost as part of a scam. The documents she 
+was sent looked professional. 
+All of the payments in dispute (bar 7 which I am not satisfied was part of the scam) were 
+Faster Payments sent to a well-known crypto exchange. So, its reasonable for me to 
+conclude that Monzo ought to have known that Mrs A was likely purchasing crypto at the 
+time she sent these payments. Ive also thought about whether there was anything else 
+about the payments which ought to have concerned Monzo. 
+The first three payments
+I agree with our investigator, and I dont think I can fairly say that the first three payments 
+were off a sufficient size for Monzo to have intervened. Also the account was a new account 
+so Monzo could not compare these transaction with Mrs As usual spending habits.  
+Payment four
+I do however think payment four, when taken cumulatively with payment three ought to have 
+warranted an intervention from Monzo. Payment four represented a total of £9,320 on the 
+same day to a relatively new payee for Mrs A. 
+Monzo has said Mrs A would have seen a new payee warning when she sent her first Faster 
+Payment. Ive read the contents of the warning Mrs A would have seen and I dont think it 
+was relevant to the investment scam shed fallen victim to.Monzo confirmed it didnt intervene and I think it was a missed opportunity to do so. If Monzo 
+had intervened (as I think it ought reasonably to), Id have expected it to query with Mrs A 
+what the purpose of the payment was. I think shed have likely explained she was 
+purchasing crypto in order to recover funds that she lost due to a scam. Id also have 
+expected Monzo to query whether she was doing this upon the advice of a third party. I think 
+this would have prompted Monzo to highlight that it was likely that she was being scammed 
+as I am unaware of any situation whereby a consumer has to send crypto to a third party to 
+recover funds from a previous scam.
+So, before payment four was actually processed, Mrs A would probably have stopped in her 
+tracks. But for Monzos failure to act on clear triggers of potential fraud or financial harm, Mrs 
+A would probably have not lost this and the subsequent payments.
+Ive also thought about whether Mrs As actions contributed to her losses. Despite regulatory 
+safeguards, there is a general principle that consumers must still take responsibility for their 
+decisions.
+In the circumstances, I do not think it would be fair to reduce compensation on the basis that 
+Mrs A should share blame for what happened. As I explained, this was a sophisticated scam 
+and I think Mrs A believed it was legitimate. The documents provided by B looked real and 
+their communication was convincing. So, I dont think that Mrs A should share blame for 
+what happened.
+Ive considered whether Monzo could have recovered any of Mrs As payments. But given 
+that the payments were sent to a crypto exchange and were then forwarded on to B I dont 
+think that any recovery could have been made or that the Contingent Reimbursement Model 
+applies in this instance.
+Putting things right
+1) Refund transactions 4,5,6 
+2) Add 8% simple interest, per year, on this amount, from the date of the payments, to 
+the date of settlement (less any lawfully deductible tax)
+My final decision
+Monzo Bank Ltd should refund payments 4,5,6 It should also pay 8% simple interest, per 
+year, on this amount, from the date of the payment, to the date of settlement (less any 
+lawfully deductible tax).
+Under the rules of the Financial Ombudsman Service, Im required to ask Mrs A to accept or 
+reject my decision before 23 October 2023.
+ 
+Charlie Newton
+Ombudsman

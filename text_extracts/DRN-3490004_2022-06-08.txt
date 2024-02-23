@@ -1,0 +1,266 @@
+DRN-3490004
+The complaint
+Mr L complains that when PayPal (Europe) Sarl et Cie SCA implemented new rules on 
+authenticating customers, he had trouble accessing his PayPal account and was excluded 
+because he didnt have a mobile phone to receive codes to.
+What happened
+Mr L says that when PayPal made changes to the way a customer accesses their account, 
+he experienced difficulties and often couldnt login. The changes meant he could no longer 
+access his account by simply using his email address and entering his password; he was 
+required to also confirm a phone number linked to his account by receiving a code via SMS 
+text message.
+When he contacted PayPal in March 2020 he was told theyd made changes to the way 
+customers access their accounts in response to the Payment Services Directive (PSD2) 
+which brought in a requirement for payment service providers to implement two-factor or 
+strong customer authentication (SCA), and that hed need to keep his phone details up to 
+date in his account profile. They said:
+In most instances youll continue to login or pay with PayPal by entering your email 
+address and your PayPal password, as usual. However, we may sometimes ask you 
+to enter a one-time passcode which well send by SMS to the phone number youve 
+registered with us.
+PayPal also told Mr L:
+At the moment the only method of PSD2 available is receiving a text. In the future 
+more methods of security may be explored but for the moment receiving a text is the 
+only method.
+As Mr L doesnt have a reliable mobile phone signal where he lives, he wasnt happy with 
+this response.
+Later in 2020 Mr L was given the option to use his registered landline to complete SCA. But 
+he found the system didnt work. When Mr L raised the issue with PayPal again, he says he 
+was told that the issue with using his landline to complete SCA might resolve if he closed his 
+existing account and opened a new one. But he says that didnt work either. On or around 
+17 November 2020, however, Mr L was able to login and request to withdraw his PayPal 
+funds (£114.76) to his bank account.
+By March 2021 Mr L told us he still couldnt access his account because the only SCA 
+method offered by PayPal was mobile phone dependent. Although he didnt have a 
+significant balance of funds in the account, he told us he was prevented from selling items 
+on an auction and shopping website. He also told us that hed found getting in contact with 
+PayPal very frustrating because when he raised written concerns, PayPals replies were 
+often sent to his account Message Centre, which he couldnt access as he couldnt login.
+In June 2021 Mr L let us know the lockout was a continuing problem for him.
+What PayPal told us
+PayPal told us they had to make changes to follow the regulations, and that theyd sent an 
+update to customers in March 2020 about that. They said Mr L had responded explaining 
+that he didnt have a mobile phone, but theyd addressed Mr Ls concerns and tried to 
+explain the changes to him. They didnt think he should have had a problem using his 
+landline to authenticate.
+They also provided a summary of account activity which they said showed Mr L had been 
+successfully accessing his PayPal account. That summary covered the period 3 March 2020 
+ 21 September 2020.
+Our investigators view
+Our investigator upheld Mr Ls complaint. He said PayPal hadnt acted unfairly by introducing 
+SCA but as they hadnt come up with any viable alternatives for Mr L  someone who lives in 
+a rural area without reliable mobile phone coverage  they hadnt treated him fairly.
+So, given the length of time the matter had been outstanding and the impact of the situation 
+on his ability to buy and sell items as he used to, the investigator recommended that PayPal 
+compensate Mr L with £250 and offer Mr L a solution so that he can complete SCA 
+successfully without reliance on a mobile phone.
+Responses to the view
+PayPal didnt accept what the investigator had said. They said they didnt think they should 
+be held responsible for bad phone service. They added that Mr L had been successfully 
+logging into the account hed opened in September 2020. PayPal provided a summary of 
+account activity. This suggested that Mr L experienced failed login attempts in October 2020, 
+November 2020 and June 2021 but that at other times between September 2020 and 
+November 2021 he achieved web login.
+PayPal said Mr L had been successfully logging in using just his password and it does not 
+appear that he has been prompted to complete additional security check when logging in.
+They said any failed logins were due to Mr L entering his password incorrectly, not because 
+he couldnt complete SCA.
+Our investigator shared PayPals response with Mr L for his comments.
+Mr L explained that he had sometimes been able to use what appeared to be an electronic 
+loophole to bypass the SCA process, but that this was not always successful and he was 
+often unable to pay for services using PayPal because he couldnt receive the passcodes by 
+SMS text message or use his landline for SCA. He said that PayPal had implemented SCA 
+incrementally and that once two-factor authentication became a requirement at every login, 
+he hadnt been able to access his account. He strongly disputed PayPals claim that hed 
+been doing so. He said hed been getting to a certain point in the login process and was then 
+faced with a wall asking for an authentication code.
+Mr L acknowledged that hed been able to continue to buy things via a website to which hed 
+previously linked his PayPal account. But he said the major problem he was facing was that 
+he couldnt sell items because he couldnt retrieve any monies paid to him via PayPal for 
+these items. Mr L said that regardless of PayPals evidence that he had logged in successfully on occasion, the fact remained that hed been unable to complete two-factor 
+authentication when it was asked for.
+Finally, Mr L let us know he now had an authenticator app installed on his computer and said 
+hed be happy to use this to complete two-factor authentication. Our investigator let PayPal 
+know this, and after making some adjustments to Mr Ls account in December 2021 which 
+allowed him to login without two-factor authentication for a short period, PayPal guided Mr L 
+through the process to link the authenticator app. He was then able to complete SCA and 
+confirmed to us that he was able to access his account.
+Our investigator asked PayPal to reconsider their position regarding paying Mr L 
+compensation for what had happened. PayPal declined to pay Mr L any compensation. They 
+said it wouldnt be fair for them to pay compensation for Mr Ls poor signal.
+Further information
+In February 2022 PayPal told our service that there is an issue with customers 
+authenticating using a landline phone number, and they dont have a clear timeframe for 
+when that will be resolved.
+As no agreement could be reached, the complaint was passed to me to decide.
+My provisional decision
+I issued a provisional decision on 4 May 2022. I began by setting out the considerations I 
+thought relevant to my decision. I wrote:
+Im required to determine this complaint by reference to what I consider to be fair 
+and reasonable in all the circumstances of the case. When considering what is fair 
+and reasonable, I am required to take into account: relevant law and regulations; 
+regulators' rules, guidance and standards; codes of practice; and, where appropriate, 
+what I consider to have been good industry practice at the relevant time.
+So, Ill start by setting out what I have identified as the relevant considerations to 
+deciding what is fair and reasonable in this case.
+The Payment Services Regulations 2017 (PSRs) Reg. 100, which came into force on 
+14 September 2019, says that a payment service provider (PSP) must apply strong 
+customer authentication where a payment service user accesses its payment 
+account online, initiates an electronic payment transaction; or carries out any action 
+through a remote channel which may imply a risk of payment fraud or other abuses.
+SCA is defined in the PSRs. It means:
+authentication based on the use of two or more elements that are 
+independent, in that the breach of one element does not compromise the 
+reliability of any other element, and designed in such a way as to protect the 
+confidentiality of the authentication data, with the elements falling into two or 
+more of the following categories
+(a) something known only by the payment service user (knowledge);
+(b) something held only by the payment service user (possession);
+(c) something inherent to the payment service user (inherence);Another relevant consideration is the SCA implementation guidance issued by the 
+Financial Conduct Authority (FCA) in its document Payment Service and Electronic 
+Money  Our Approach (June 2019) and related statements.
+The FCAs guidance document says:
+ it may be necessary for a PSP to provide different methods of 
+authentication, to comply with their obligation to apply strong customer 
+authentication in line with [PSD2]. For example, not all payment service users 
+will possess a mobile phone or smart phone and payments may be made in 
+areas without mobile phone reception. PSPs must provide a viable means to 
+strongly authenticate customers in these situations. (my emphasis)
+In its statement of expectations published in September 2019, the FCA also said:
+We expect firms to develop SCA solutions that work for all groups of 
+consumers. This means that you may need to provide several different 
+methods of authentication for your customers. This includes methods that 
+dont rely on mobile phones, to cater for consumers who dont have, or wont 
+want to use, a mobile phone.
+What Ive provisionally decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so Ive reached the same outcome as the investigator did and for 
+broadly the same reasons; I intend to uphold Mr Ls complaint.
+Its difficult to reconcile what Mr L has said about how PayPals implementation of 
+SCA impacted his access to, and use of, his PayPal account with what PayPal have 
+presented in evidence which would suggest his access has been largely unfettered 
+by their SCA process. PayPals summaries of account activity are in a spreadsheet 
+format and include a column titled Action. In that column against many dates are the 
+words web login, and on other dates it says, web login failed or refers to other 
+actions associated with resetting passwords. There is also a column titled Visitor ID 
+and I note that for the majority of the web login entries there is no corresponding 
+data in the Visitor ID column. PayPal havent provided any information about how to 
+interpret this spreadsheet, but I think its possible the absence of Visitor ID data 
+means that the user couldnt be established on those occasions. I invite PayPal to 
+explain more about what they think this spreadsheet shows in response to this 
+provisional decision. But I dont currently think this is clear evidence that Mr L has 
+been able to login and gain full account access since SCA was introduced. If he had, 
+I dont think hed have gone to the lengths he has to make this complaint.
+In any event, I have to balance what PayPal say their spreadsheet proves against 
+what Mr L has told us, and I find that Mr L has been nothing but consistent in saying 
+that hes often been unable to access his PayPal account because hes been unable 
+to complete SCA. He ardently maintained this position even when our investigator 
+put PayPals evidence of successful web logins to him. He clearly explained that, 
+although hed been able to login on occasion, whenever SCA was required he was 
+unable to use his account. He described getting so far in the login process and then 
+hitting a wall.
+Indeed, PayPals own actions support this being the case. PayPal told us they had to make adjustments to Mr Ls account in December 2021 to allow him to login without 
+two-factor authentication for a short period (48 hours) so that he could link his 
+authenticator app in his accounts security settings. If hed had full access to his 
+account, I dont think theyd have needed to make any adjustments so that he could 
+do this. PayPal also appear to accept that Mr L has been unable to complete SCA by 
+SMS text or landline; theyve told us that when he has been successful logging in its 
+not because hes been completing SCA, its been because he wasnt asked to 
+complete an additional security check.
+Whilst I think PayPal have provided some evidence that Mr L wasnt completely 
+excluded from accessing his account between March 2020 and late 2021, Im not 
+persuaded that PayPal enabled Mr L to complete SCA during this time and I think 
+thats the main point here. Without the adjustment they made in December 2021 
+temporarily removing the requirement for two-factor authentication I dont think hed 
+have been able to gain full access to his account. The fact that this adjustment was 
+necessary does, I think, contradict PayPals position that Mr L was already able to 
+access his account fully before December 2021.
+So, Im satisfied that, although he may not have been completely excluded from his 
+account since March 2020, its more likely than not his use of the account became 
+incrementally restricted as hes said it did until December 2021 when PayPal finally 
+responded to Mr Ls predicament and assisted him with linking the authenticator app. 
+I think this is something PayPal should have done much sooner.
+Overall, I dont currently think PayPal acted fairly towards Mr L because they failed to 
+offer him a viable alternative to authenticating with a mobile phone, failed to look into 
+and resolve the issues Mr L was having with using his landline to authenticate, and 
+didnt assist him to set up his account for the authenticator app until we got involved 
+and asked them to reach out. Given what the guidance says about businesses 
+offering different, viable methods of authentication so that customers who cant rely 
+on a mobile phone can authenticate, I think PayPal should have done more for Mr L, 
+and earlier. I dont think it was fair of PayPal to adopt the position that as Mr L could 
+access his account to some extent they didnt need to do more about his SCA 
+concerns or what he was telling them about not being able to receive SMS text 
+messages.
+Mr L has described how the difficulties hes had accessing his account have 
+impacted him. He told us, no login assistance was given to me on the dozens of 
+occasions when I contacted the company, and I can see that hes had to make 
+multiple attempts to contact PayPal to sort this out. Hes also found himself unable to 
+use his PayPal account to make purchases at times, and the unreliability of his 
+account access has prevented him from selling items that he wanted to sell on an 
+auction and shopping website. As PayPal could, I think, have resolved this for him 
+much earlier I agree with the investigator that PayPal should pay Mr L £250 
+compensation to reflect the distress and inconvenience hes experienced.
+Responses to the provisional decision
+Mr L accepted my provisional decision. He commented that PayPal had not catered for 
+people without mobile phones and said that was a major part of his complaint.
+PayPal didnt agree with what Id said. They said the information theyd made available to 
+customers explained that if a customer didnt have a mobile or landline telephone number, 
+they could continue to access their account by enabling the 2-step verification setting from 
+their profile page. This would allow use of the authenticator app. PayPal said, At no time has PayPal not provided this information. They added that Mr L could have linked the 
+authenticator app to his account during any of his previous successful logins.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so I see no reason to depart from what I said in my provisional decision. I dont 
+think the evidence supports PayPals assertion that they gave Mr L viable alternatives to 
+authentication by mobile phone long before December 2021. If they had done, then I think 
+Mr L would have linked the authenticator app much earlier so that he could enjoy full access 
+to his account. When Mr L brought his complaint to us in November 2020, he expressed 
+great frustration at being excluded from his account despite multiple attempts at raising his 
+troubles with completing SCA directly with PayPal. If hed been able to solve the problem by 
+simply linking an authenticator app to his account at that point, I see no reason why he 
+wouldnt have done so. He described the situation by March 2021 like so:
+the current, absurd position is that, under a bizarre Catch 22, you can only resolve 
+the problem of not being able to login by logging in
+Indeed, when PayPal responded in July 2021 to our request for information, they 
+acknowledged that Mr L had let them know in March 2020 that he wouldnt be able to rely on 
+a mobile phone to complete authentication, and they confirmed that their response to him at 
+that time was At the moment the only method of PSD2 available is receiving a text. So, I 
+dont agree with PayPal that Mr Ls always had a viable alternative for completing SCA.
+In that response to us there was no mention that the options for completing SCA had moved 
+on since March 2020, and now included an authenticator app. PayPals position was that 
+Mr L was still having some success accessing his account, and that they shouldnt be held 
+responsible for bad phone service. So I dont think they really addressed the core issue 
+which was that Mr L needed an alternative to SMS OTPs because whenever he was 
+challenged to complete SCA (even if that wasnt every time he tried to login) he couldnt do 
+so.
+I remain of the view that PayPal didnt engage with and address the problem Mr L was 
+experiencing with SCA until December 2021. And Ill repeat what I said in my provisional 
+decision; Im not persuaded that Mr L could have linked the authenticator app to his account 
+without PayPals intervention. On 6 December 2021 PayPal told us:
+We have made an adjustment to Mr. Ls account which will allow him to log in 
+without 2 factor authentication for 48 hours to set up his authenticator app. We have 
+reached out to him to advise what steps he needs to complete.
+PayPal also told Mr L on that same date:
+We have made an adjustment to your account to allow you to add the authenticator 
+app 
+I think it was this adjustment which resolved Mr Ls situation of not being able to get passed 
+the problem of logging on without first logging on, and its a step I think PayPal should have 
+taken much earlier.Putting things right
+As I explained in my provisional decision Mr L has had unreliable access to his PayPal 
+account since March 2020 because when hes been challenged to complete SCA hes been 
+unable to do so. Hes been unable to do so because he wasnt helped by PayPal to access a 
+viable alternative to SMS OTPs until December 2021. Hes found himself unable to use his 
+PayPal account at times and thats caused him inconvenience and distress. As PayPal 
+could, I think, have resolved this for him much earlier PayPal should pay Mr L £250 
+compensation.
+My final decision
+For all the reasons set out here, and in my provisional decision, my final decision is that I 
+uphold Mr Ls complaint. PayPal (Europe) Sarl et Cie SCA should put things right in the way 
+Ive set out in the Putting things right  what PayPal needs to do section of this decision.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr L to accept or 
+reject my decision before 6 July 2022.
+ 
+Beth Wilcox
+Ombudsman

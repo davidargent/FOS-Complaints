@@ -1,0 +1,124 @@
+DRN-4082953
+The complaint
+Mr S is unhappy that Revolut Ltd refused to refund the money he lost after falling victim to a 
+scam.
+What happened
+In June 2021 Mr S received a text from, what appeared to be, the NHS about covid-19 
+contact tracing which asked him to get tested. He clicked a link to buy a test and, as part of 
+that process, provided various personal details as well as some payment card details. Soon 
+after, Mr S received a phone call from someone who said they worked for a foreign 
+exchange fintech company with which Mr S held an account. 
+This individual, who turned out to be a scammer, persuaded Mr S that the NHS link hed 
+clicked on was fake and this had enabled hackers to get access to his mobile phone and all 
+of the banking apps on it. Mr S disclosed which banking apps he held and the individual said 
+he would liaise with all of the other account providers. Several phones calls then took place 
+with both this individual and another who claimed to work for one of the other banks with 
+which Mr S held an account. 
+The scammers persuaded Mr S to move money between the various accounts he held and 
+he ended up losing a total of £38,000 in two payments made from his Revolut account to the 
+scammer. Mr S realised hes been scammed when the transfers hed made failed to turn up 
+in his bank account in the way that the scammer had described. So he reported the matter to 
+Revolut.
+Revolut refused to reimburse any of Mr Ss losses. It says it took steps to block the two 
+payments and gave scam warnings to Mr S, but he ignored them. It contacted the receiving 
+bank but was only able to recover £293.83, which was returned to Mr Ss account.
+I issued a provisional decision earlier this month setting out why I thought Revolut should 
+refund all the money Mr S had lost to the scam. I have reproduced my provisional findings 
+below:
+Revolut has referred to the Lending Standards Board Contingent Reimbursement Model 
+Code in some of its correspondence. But the Code doesnt apply in this case as Revolut isnt 
+signed up to it.
+Its not in dispute that Mr S instigated the transfers in and out of his Revolut account. So, 
+although he didnt intend the money to go to the scammers, under the Payment Services 
+Regulations 2017 and the terms and conditions of his account, Mr S is presumed liable for 
+his loss in the first instance. 
+But, taking into account the law, regulatory rules and guidance, relevant codes of practice 
+and good industry practice, there are circumstances where it might be appropriate for an 
+electronic money institution like Revolut to take additional steps or make additional checks 
+before processing a payment in order to help protect its customer from the possibility of 
+financial harm from fraud. An example of this would be if a payment instruction is sufficiently 
+unusual or uncharacteristic given the usual use of the account. In such circumstances Id 
+expect Revolut to intervene and ask more questions about the intended transaction before 
+processing it. Id also expect Revolut to provide suitable warnings about common scams to 
+help its customers make an informed decision about whether they want to continue with the 
+payment. 
+Following the investigators intervention, Revolut has accepted it should have done more 
+than it did when Mr S made these two payments and that better intervention would have 
+prevented Mr Ss losses. I agree, so all that remains is for me to consider whether its fair to 
+make a deduction from the refund in the way the investigator proposed.
+This has been a somewhat difficult case to decide because I do think there were some 
+warnings signs that Mr S could have spotted. This includes one of the warnings Revolut 
+displayed as part of the payment journey which mirrored the situation Mr S found himself in. 
+It said there was a high probability he could be falling victim to a scam and that Revolut and 
+other banks will NEVER tell you to move your money into a new safe account. But, given 
+everything that was going on I can understand, in this particular case, why Mr S moved past 
+this warning and complied with the scammers instructions. I note, in particular, that:
+Mr S was called by two different scammers who claimed they were from two different 
+financial businesses. Both of whom managed to spoof the genuine businesses phone 
+numbers. I can see how this helped convince Mr S that the scammers were genuinely 
+trying to help protect his money. The scammers confidence, reassurance and familiarity 
+with the payment processes for each of Mr Ss banks, along with the provision of an FCA 
+investigation reference further helped to build Mr Ss trust.
+The scammers persuaded Mr S to send the money using Revoluts payment link facility. 
+Using this function meant he didnt have to enter any receiving bank account details, so 
+he didnt go through the confirmation of payee process. The scammers used those 
+payment links to draw the money to accounts that were, presumably, under its control 
+and which were not held in Mr Ss name. But the confirmation emails Mr S received from 
+Revolut suggested the money had been sent to himself  his name was showing in the 
+to field. I can understand why receiving such a confirmation would have reinforced his 
+belief in the lie the scammers were telling him  that the money was being sent to a 
+safe account in his name. I also note that Mr S tells us hed never previously used this 
+facility so wasnt familiar with the process. Nor did the scammers seemingly give him 
+time to review any of Revoluts guidance about the process and/or the relative risks of 
+using this payment method.
+The scammers persuaded Mr S to send the payment link details to 
+Revolut@yopmail.com and, as Ive already noted, some warnings were shown to Mr S. I 
+can see why the investigator thought that these things should have raised some alarm 
+bells. But the scammers seems to have been encouraging Mr S to act quickly to protect 
+this money and the urgency of prompt action was accompanied by warnings that hackers 
+were constantly trying to get to his funds. This, undoubtedly caused, Mr S some degree 
+of distress and that may well have affected his ability to think as clearly in the moment as 
+he would have in other, less stressful situations. And he explains this is also why he 
+didnt read or take heed of the warnings Revolut presented. He thought he was speaking 
+with two genuine, experienced bank employees who were coordinating with all of his 
+other banks and so was being entirely guided by them. Overall, in this particular case, I 
+can see why Mr S didnt pause or insist on trying to verify anything the scammers were 
+telling him. 
+With all of the above in mind, I currently think Revolut should cover all of Mr Ss remaining 
+losses.Both parties accepted my provisional findings and made no additional submissions.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, and as neither party has sent any new evidence or arguments for me to
+consider, I see no reason to depart from the conclusions set out in my provisional decision
+and reproduced above.
+Putting things right
+Mr S paid away a total of £38,000 and Revolut was only able to recover £293.83 from the 
+receiving bank, which I understand has already been returned to Mr S. 
+The money Mr S lost originated in accounts held with other banks and Im satisfied, if Mr S 
+hadnt fallen victim to those scams, that the money would have remained in those accounts. 
+Ive seen nothing to suggest the money would otherwise have been spent and/or that Mr S 
+has, personally been deprived of the use of it. I say the latter with the understanding that at 
+least some of the money came from a business account for a limited company (of which 
+Mr S is one of the two directors). 
+So I think Revolut Ltd should:
+Refund the remaining £37,706.17.
+Pay interest on the above sum calculated at the interest rate applicable to the accounts 
+where the money originated. This should be paid from the date the money left Mr Ss 
+Revolut account to the date settlement is made. Mr S will likely need to provide evidence 
+to show what interest rate, if any, was paid on those accounts. However, if those 
+accounts were not interest-bearing, then no interest will need to be paid. 
+If Revolut considers that its required by HM Revenue & Customs to deduct income tax from 
+any interest award, it should tell Mr S how much its taken off. It should also give him a tax 
+deduction certificate if he asks for one, so he can reclaim the tax from HM Revenue & 
+Customs, if appropriate.
+My final decision
+My final decision is that I uphold this complaint and I instruct Revolut Ltd to settle the matter 
+as set out above.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr S to accept or 
+reject my decision before 16 May 2023.
+If Mr S accepts this decision then Revolut should settle the matter within 28 days of receiving 
+notification of Mr Ss acceptance.
+ 
+Ruth Hersey
+Ombudsman

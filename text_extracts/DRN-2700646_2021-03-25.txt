@@ -1,0 +1,101 @@
+DRN-2700646
+The complaint
+ Mr G complains that Virgin Money plc failed to provide him with an alternative means of 
+strong customer authentication (SCA) which he could conveniently use.
+ 
+What happened
+ In 2019 Mr G opened an online banking account with Virgin Money. At first he was able to 
+use this account without difficulty, but he became concerned that this would no longer be 
+possible once Virgin Money implemented its new SCA procedures. These included sending 
+a one-time passcode (OTP) by text message to a mobile phone number.
+Mr G did not have a mobile phone, and had no intention of getting one, for three reasons. He 
+is disabled and mostly housebound, and so he has no need for a mobile phone as he rarely 
+ventures outside. He has poor mobile coverage in his area, so a mobile phone would be 
+unlikely to have a strong enough signal when indoors. And he is hard of hearing, to the 
+extent that his landline phone is set up with equipment which, instead of answering calls, 
+saves them as voicemails which can then be converted into text.
+Mr G asked Virgin Money to accommodate him by sending his OTPs to his landline or by 
+email. But Virgin Money said it was unable to do this. Mr G complained that this was a failure 
+to make a reasonable adjustment for him under the Equality Act 2010. When Virgin Money 
+said there was nothing else it could do, Mr G brought this complaint to our Service. After 
+that, Virgin Money offered Mr G a voucher with which to buy a mobile phone, so that he 
+could receive OTPs on it, but Mr G rejected that offer due to the weak phone reception in his 
+area. Later, in early 2020, Virgin Money began sending OTPs to landline numbers, which 
+Mr G was able to use, but only with difficulty. This deterred him from logging on except once 
+every couple of months.
+Some time later, our investigator upheld this complaint. She said that the FCA guidelines 
+said that firms should use more than one SCA procedure, which should include a suitable 
+alternative to mobile phones for customers who cannot use them. She recognised that Virgin 
+Money had eventually done this, but she also accepted that Mr G had still been struggling 
+with this solution. Nor had that solution been implemented until a few months after telling 
+Mr G that a mobile phone was essential. She recommended that Virgin Money pay him £300 
+compensation, and also that it improve its SCA procedures for people in Mr Gs position; she 
+pointed out that UK Finance had recommended that OTPs be emailed to customers who 
+dont have mobile phones or who live in areas with poor coverage.
+Virgin Money denied discriminating against Mr G. It said it had suggested existing alternative 
+ways which Mr G could use to pass its SCA security checks, although it acknowledged that 
+these might not be suitable for him due to his circumstances. It said it could also email the 
+OTP to him, but currently this would only be possible if he phoned its call centre first. It was 
+exploring the possibility of an OTP being requested by email, but that was not yet available. 
+It accepted the recommendation to pay Mr G £300.
+Because the investigator did not consider that response to be an unequivocal acceptance of 
+her opinion, she referred this complaint for an ombudsmans decision.
+ 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+ Since both parties have accepted that £300 is fair compensation, I will endorse this award 
+without saying any more about it, and I will confine the rest of this decision to considering 
+what else (if anything) Virgin Money should have to do to resolve this complaint.
+I appreciate that Virgin Money has already suggested some alternative procedures which 
+are already available. But it is clear that these are not really suited to Mr Gs circumstances 
+(and Virgin Money has already acknowledged that). His hearing is too poor for him to phone 
+a call centre from his landline; his local area has inadequate mobile phone coverage; he 
+cannot go to a local branch or to the post office. I daresay that Mr G could ask a trusted 
+friend to help him, but that solution also has some obvious shortcomings: a friend might not 
+always be available to help him at any given time, and Mr G may well resent the loss of 
+independence this would involve. I would still encourage him to consider it, but I dont think 
+that option is good enough to discharge Virgin Money of its obligation to find a satisfactory 
+SCA procedure which Mr G can operate on his own.
+Since the investigators opinion, UK Finance has issued some more guidance about SCA: 
+UK Finance Industry Guidance on Strong Customer Authentication under PSD2 (in 
+December 2020, although this may just be an update of the guidance it issued earlier). In 
+paragraph 5.9, it said the following:1
+In the context of payment service users who are not corporates, email OTP 
+solutions may be particularly useful for issuers as a fall-back for customers for whom 
+receipt of an SMS OTP is not possible, for example, because such customers do not 
+have access to a mobile phone or sufficiently reliable mobile network coverage or 
+because they are considered actual or potential 'vulnerable customers' 
+So I dont think it is unreasonable to expect Virgin Money to offer an SCA procedure in which 
+OTPs can be requested and provided by email, without needing to make a phone call or 
+needing to rely on a mobile phone. I note that Virgin Money is already looking into doing this, 
+but I dont know what the outcome will be or how long it will take. Also, I dont think it is 
+within my remit to order Virgin Money to adapt its systems in such a specific way, or to do so 
+by a particular date. That would be going beyond mere complaint resolution, and trespassing 
+into the role of a regulator. Compelling Virgin Money to adopt a particular solution is really a 
+matter for the FCA. (I can recommend it instead, but a recommendation is not binding.)
+My final decision will, if Mr G accepts it, be legally binding on both parties, but if I order Virgin 
+Money to offer Mr G the service I have just described by a particular deadline, that does not 
+necessarily mean that a court would enforce that part of my decision by ordering specific 
+performance. Instead, I can order Virgin Money to use its best endeavours to offer Mr G a 
+new solution (whether that is the one I have just described or something else). That might be 
+too vague for a court to enforce, but the FCA can also take its own enforcement action (if 
+necessary), and might be better placed to decide what to do in the event that a satisfactory 
+1 See 
+https://www.ukfinance.org.uk/sites/default/files/uploads/pdf/UK%20Finance%20SCA%20Guidance%2
+0Document%20-%20December%202020.pdfsolution has not been reached within a reasonable time. So I will make an order in those 
+terms.
+ My final decision
+ My decision is that I uphold this complaint.
+I order Virgin Money plc to pay Mr G £300 (and to do so within 28 days of the day on which 
+we tell it that Mr G has accepted this decision), and to use its best endeavours to provide 
+Mr G with an alternative SCA procedure other than those which it has already offered him.
+I recommend that Virgin Money plc provides to Mr G a new SCA procedure under which he 
+can request a one-time passcode by email, and receive it by email, and that it does so as 
+soon as it can.
+ 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr G to accept or 
+reject my decision before 22 April 2021.
+ 
+Richard Wood
+Ombudsman

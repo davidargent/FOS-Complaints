@@ -1,0 +1,315 @@
+DRN-3770173
+The complaint
+Mr W complains that system failings of Trading 212 UK Limited (Trading 212) delayed the 
+execution and cancellation of orders and that Trading 212 caused him losses by executing a 
+market-sell order for shares he didnt own and then executing a buy order to reverse this 
+short-selling at a price he says caused significant loss. He seeks redress for this loss.
+What happened
+Trading 212 has said that on a day in June 2021 there was a delay in the reporting and 
+execution of sell orders. It says this was due to a service disruption experienced at the 
+intermediary that executes Trading 212s orders.
+Trading 212 says this issue affected a stop-loss order Mr W had in place for 3120 shares set 
+at $17 a share. Trading 212s app didnt show Mr Ws stop-loss as having been executed 
+and his shares sold when the share price fell below the stop loss level. Instead it continued 
+to show the shares as being held by Mr W and his account as continuing to fall or rise in 
+value in line with falls or rises in the share price.
+During that time, Mr W submitted a request to cancel his stop-loss order. He also entered a 
+market-sell order for the 3120 shares. But Trading 212s system continued to show the 
+shares as being held by Mr W and his account as continuing to fluctuate in value in line with 
+changes in the share price.
+During this time Trading 212 says it placed an alert on its platform as soon as it established 
+there was an issue with its intermediary. Mr W also contacted Trading 212 on its online chat 
+facility. Mr W said his order wasnt processing and Trading 212 told him it was aware of the 
+delay in order cancellation. Around ten minutes later Trading 212 told him: The orders will 
+be cancelled and you will be able to place a new one. Around 30 minutes later, according to 
+the chat record, Mr W saw his account update to show the transactions that had taken place. 
+Mr W says this was an hour after the shares fell below his stop-loss and he had been unable 
+to do anything during that time. Shortly afterwards Mr W asked Trading 212 to look into the 
+result and compensate him.
+That result was that 3120 shares had been sold for Mr W as a result of his stop-loss order,  
+which Mr W says sold for $16.99 per share, and a sale for 3120 shares was made for him, 
+which Mr W says was for $16.61 per share, as a result of his market- sell order. Mr W didnt 
+own the shares needed for his market-sell order because his stop-loss order had already 
+sold the 3120 shares he owned, so Trading 212 also created and executed for Mr W an 
+order to buy 3120 shares. Mr W says this buy order was executed at $21.87 per share.
+The trades Mr W says Trading 212 shouldnt have carried out were the sale of 3120 shares 
+he no longer owned at $16.61 per share and then the purchase at $21.87 per share of 3120 
+shares to make up the 3120 shares Trading 212 had sold that Mr W didnt own. The result of 
+those trades on the day itself was a loss of £11536 plus currency conversion costs of £127.
+Mr Ws view is Trading 212 shouldnt have accepted his market-sell order when its effect 
+would be to sell shares he didnt own, given he wasnt permitted to do this. So he thinks it 
+isnt fair for him to have to bear the losses resulting from such an order. Those losses 
+crystallised when the buy order Trading 212 initiated was executed to correct the position.
+Mr W has said that, prior to the incident here, his experience was that it wasnt possible to 
+sell more shares than he owned. His position is that the risks he agreed to take when 
+accepting Trading 212's terms and its provisions - including its exclusion clauses relating to 
+the fact that it wouldnt be able to provide a service that would always be working or without 
+error - didn't in his view include a risk of Trading 212 selling shares he didnt own. 
+Our investigators agreed this wasn't a risk of the kind Mr W was aware he was running when 
+using Trading 212's service. They didn't think that when Mr W agreed to Trading 212s 
+terms, it was in his reasonable contemplation that Trading 212s disclaimers relating to 
+technical errors could cover a situation in which Trading 212 accepted an order from him to 
+sell shares he didnt own. They didnt think the disclaimers in Trading 212s terms covered 
+this situation adequately enough for it to be fair for Mr W to bear the liability rather than 
+Trading 212. They thought Trading 212 should've had measures in place to protect Mr W 
+from this sort of thing happening and they didnt think it fair that he should bear the losses.
+Our investigators thought it noteworthy that when Mr W placed his market-sell order, he had 
+tried to cancel his stop loss order and it wasnt clear - to him or Trading 212 at the time - 
+whether the technical error being experienced would mean his pending orders would be 
+executed but reported with a delay or executed but after a delay or not executed at all. 
+Trading 212 didnt agree with our investigators proposed outcome. It has said, in brief 
+summary: 
+When accepting Trading 212's terms, Mr W might not have reasonably contemplated 
+that the technical error clause could cover a scenario where he was able to sell shares 
+he didn't own. But that logic if extended would undermine the whole basis of the contract 
+as other terms could be countered because a client might have misunderstood or simply 
+not contemplated a particular scenario arising, which would clearly be unreasonable. 
+Mr W accepted Trading 212s terms, including the "technical error" clause. If that clause 
+intended to exclude only particular errors or scenarios, it wouldve listed them. It didnt 
+have a list which clearly means it applies to any technical error.  A view that the clause 
+doesnt cover the situation here because it was not the kind of risk Mr W was aware he 
+was running, undermines the clause and is like expecting every client to foresee every 
+potential technical error which might occur, which clearly is an unreasonable assumption.
+Mr Ws previous experience was the system wouldnt allow him to sell shares he didnt 
+own, which is correct, but the present scenario was entirely different because Mr W's 
+orders had not been filled, were pending and not confirmed as completed. 
+Trading 212 fully agrees it should have measures in place to prevent the sort of thing 
+that happened in this case  and ordinarily it wasnt possible to short-sell, as Mr Ws 
+experience confirms. But there was a technical error and the status of Mr Ws attempted 
+trades was unclear, so the prudent stance for Mr W to have taken wouldve been to await 
+confirmation of the position and completion of the orders/instructions.
+Mr Ws attempt to cancel his stop loss order meant it wasn't clear whether that order 
+would be executed but reported with a delay, executed after a delay or not executed at 
+all. While the technical issue was being investigated it was too uncertain for Mr W to 
+assume his trade had not been filled (or cancelled). In those circumstances, attempting 
+to duplicate the trade carried the potential for short-selling to occur. Term 10.16 explicitly says short-selling is not permitted, even if it doesnt explain what 
+will happen if an instruction for short-selling can be given and is then carried out.
+Term 10.15 says "Market conditions can cause temporary delays to the execution of 
+Orders". Trading 212 knows the situation here wasnt caused by "Market conditions", but 
+it didnt know this at the time and, more importantly, neither did Mr W. Market conditions 
+are stated as a possible cause for a temporary delay, but the intention is clear and it is 
+not unreasonable to expect a client to take note of the wording which follows as it makes 
+it abundantly clear that "It is the client's obligation to make sure that any earlier pending 
+Order/s is/are cancelled before placing a new Order in the same Investment." The term 
+clearly places the responsibility on clients to ensure any pending orders are cancelled 
+before placing a new order.
+The ombudsman acknowledged that term 10.15 appears intended to hold a customer to 
+an order which, in its full reading, has similarities with the events relating to Mr W - 
+although not being entirely the same. 
+The terms and conditions explain the situations in which Trading 212 doesnt accept 
+responsibility for client losses. They set out the basis of the contract, are explicit, are not 
+flawed or unclear and where wider explanation is not provided it follows that they are 
+intended to apply literally. The more detailed terms are, the less likely people are to read 
+them all. It is unreasonable to not to be persuaded that the terms relating to third party 
+errors and technical faults make it fair for Mr W to bear the losses that arose.
+In summary, Mr W accepted that there could be technical errors with the system and that 
+Trading 212 said it would not be held liable in such situations, whether due solely or 
+partly to a third party. He accepted there was an obligation to make sure earlier pending 
+orders were cancelled before new ones were placed and that short-selling was not 
+permitted. A technical error occurred, so to determine that Trading 212 cannot seek to 
+rely on these clauses in this particular instance because Mr W might not have foreseen 
+this exact technical error or the risk posed by it, would be unreasonable.
+For reference, terms in the agreement Trading 212 has referred to include the following (but 
+I have considered all of the terms):
+6.4: in the event of downtime of the Trading Platform You shall waive any claims 
+against Trading 212 of missed profits and/or claims that You would have executed an 
+order on a specific price during the downtime. You acknowledge that sometimes there 
+may be technical issues or faults with the Trading Platform.
+10.15: Market conditions can cause temporary delays to the execution of Orders. It is 
+the clients obligation to make sure that any earlier pending Order(s) is/are cancelled 
+before placing a new Order in the same Investment. We do not accept any liability for 
+any actual or potential loss you may suffer if this occurs.
+10.16: You are not permitted to Short Sell. This means that you cannot give us an 
+Instruction to sell an Investment that you do not own at the time of the sale and that is 
+not held on your account, whether settled or unsettled at the time of sale.
+25: 25.1. we shall incur no liability whatsoever for any partial or full default of our 
+obligations by reason of any cause or event beyond our reasonable control, including but 
+not limited to any communications, systems or computer failure and we shall not be 
+held liable for any loss you may incur as a result. In addition the above shall 
+include any material change in economic conditions or any other event, that is beyond 
+the reasonable control and whose effects could not be avoided by reasonable measure. 25.2. [this] shall include the failure of any of our suppliers, and if applicable our 
+intermediate broker, agent or principal, dealer for any reason, to perform its 
+obligations
+Despite all this, Trading 212 said it would pay Mr W £1111 - which it said was the exact 
+amount of the negative result of the short position itself. In essence I understand this is the 
+extra Mr W wouldve got if his market-sell order is adjusted to the prices his stop-loss order 
+got. Trading 212 has explained that it made this offer because it couldnt locate relevant 
+evidence for one of the pending orders involved and so it wasnt sure whether issues with 
+that order were due to the issue experienced at the time with its broker or if it is something 
+else. It also told us it thought £300 for distress, suggested by the investigators, was too high 
+but it agreed to pay it anyway. Trading 212 has already paid these sums to Mr W.
+Mr W wasnt satisfied with Trading 212s redress payment. As the complaint couldnt be 
+resolved informally, it is one on which I must make a final decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, Ive arrived at the same outcome as our investigators for broadly the same 
+reasons. 
+In brief, I think it fair and reasonable that Trading 212 compensates Mr W for the loss that 
+arose when it facilitated on his account the sale of shares he didnt own and then corrected 
+this by buying shares on his account. Ive explained my reasons briefly below.
+Ive carefully considered whether Trading 212 ought to have accepted Mr Ws market-sell 
+order which resulted, due to the execution of the earlier stop-loss order, in the sale of shares 
+Mr W didnt own. It isnt disputed that such a sale of such shares (and without Mr W having 
+borrowed them or taken any steps to do so) was a sale that wasnt permitted. The account 
+terms didnt permit short-selling, and so wouldnt have permitted the sale even if Mr W had 
+borrowed the shares being sold. I also note Mr Ws past experience was that Trading 212 
+didnt accept orders whose effect would be to sell shares he didnt own. Trading 212 agrees 
+this was the position. So Trading 212 wouldnt usually have accepted or otherwise facilitated 
+Mr Ws market-sell order. My view is Trading 212 shouldnt have done so here either.
+The market-sell order led to the buy order that corrected the share shortfall and to the loss 
+Mr W now complains of. In deciding whether it is fair and reasonable for Trading 212 to 
+compensate him for that loss, Ive considered Trading 212s terms and in particular those 
+explaining how Trading 212 wouldnt be liable to Mr W for losses arising from failings in its 
+service to him, including failures to provide that service and technical errors.
+There are terms in Mr Ws agreement with Trading 212 that make clear that once an order is 
+accepted by Trading 212 the scope to change it will be very limited indeed. For present 
+purposes I accept this was the case, so Ive not detailed those terms above. Also Ive not 
+detailed the terms in the agreement that limit or exclude liability where Trading 212 decides 
+not to accept an order - because Trading 212 did accept the order complained of here. 
+Further above I detailed terms that did explicitly seek to exempt Trading 212 from liability for 
+losses. I note that these refer to losses suffered if market conditions cause delays and to a 
+waiver of claims where particular transactions cant be made due to the system being down 
+and, lastly, to losses arising from matters outside of Trading 212s reasonable control. In 
+Mr Ws case there were delays - to either the execution of orders or the reporting of them or both - but this wasnt due to market conditions. Also in Mr Ws case there was a technical 
+issue that affected the availability, or at least the proper functioning, of Trading 212s system 
+for a time, but Mr Ws claim isnt about transactions this prevented him from being able to 
+carry out  it is about transactions that were carried out that he doesnt think shouldve been. 
+Trading 212 suggests terms about delays caused by market conditions, given what they also 
+say about Mr Ws responsibility for cancelling and so not duplicating orders, ought to apply to 
+Mr Ws situation even though it wasnt one caused by market conditions - and that this was 
+the clear intention of those terms. 
+I agree Mr W didnt follow the stipulation in those terms to ensure his stop-loss order was 
+cancelled before placing his market-sell order. But it still seems to me that Trading 212s 
+suggestion, that those terms be extended to cover Mr Ws situation, is an invitation to extend 
+those terms rather than to apply them strictly. I dont believe that would be the right approach 
+to these sorts of terms, bearing in mind their nature. Im not persuaded this would be fair and 
+reasonable either - bearing in mind the transaction that caused loss wasnt, at least 
+according to Mr Ws experience or what Trading 212 has said should and usually wouldve 
+taken place or what was permitted, a possible outcome of the failing detailed in those terms. 
+Also, a distinction can of course be drawn between market conditions, which are part and 
+parcel of any market transaction, and system errors, which are not.
+It is apparent that the delay to the execution or reporting of Mr Ws orders did deny him the 
+chance to reinvest the sale proceeds for a time  but I note Mr W hasnt asked for redress 
+for that. In my view such a claim would be covered by the terms above that exclude liability 
+where particular transactions cant be carried out during a period when the system is down, 
+so Mr W was in my view right not to seek to claim for this. 
+Turning to whether the losses were outside Trading 212s reasonable control, I do accept 
+Trading 212 couldnt reasonably control the problems at its intermediary. Also its clear Mr W 
+wouldnt have placed a request to cancel his stop-loss order or placed his market-sell order if 
+it hadnt been for the problem at the intermediary that delayed the execution and/or reporting 
+of his stop-loss order. If his stop-loss order had been executed and reported in the usual 
+way, hed have had no reason to try to cancel it or to try to sell his shares in a different way. 
+To that extent Mr Ws losses are linked to the problems at Trading 212s intermediary. But 
+these problems werent bound to lead to the loss Mr W complains of. The loss still wouldnt 
+have happened if Trading 212 hadnt accepted and facilitated Mr Ws market-sell order. Our 
+investigator made this point and we have invited Trading 212 to respond a number of times 
+since. On balance what Trading 212 has sent us doesnt make me think its acceptance and 
+facilitation of Mr Ws market-sell order and its failure to prevent the sale of more shares than 
+he owned, was a direct and inevitable result of the technical fault at its intermediary. Indeed 
+to my mind what Trading 212 has sent us doesnt say or show that the technical problems at 
+its intermediary directly or inevitably left Trading 212 unable to stop Mr Ws market-sell order 
+or the sale for him of more shares than he owned. 
+I note also the uncertainty expressed by Trading 212 as to whether one of the orders at the 
+time was actually impacted by the issue experienced at the time at its intermediary or if it 
+is something else. This uncertainty doesnt lend itself to the conclusion that what occurred 
+was a direct result of or purely because of the problems at Trading 212s intermediary. 
+I note what Trading 212 has said about missing records. I dont overlook that it might usually 
+have been able to send us more about a situation like this. But I must decide the complaint 
+based on the information that has been made available and presented by the parties.I note also that Trading 212 has said the situation here was totally different to those in 
+Mr Ws past, because his orders here had not been filled, were pending and not confirmed 
+as completed. I accept the situation may have been different and its intermediarys problems 
+may have been an important part of that difference. But I dont see that this shows that these 
+problems were bound to lead directly to Trading 212 accepting and allowing an order to sell 
+more shares than Mr W owned or the failure of its usual approach to stopping such orders.
+Even if the third-party error contributed in some way to Trading 212s acceptance of Mr Ws 
+market sell order, it doesnt follow that it contributed in a way that makes it fair to regard the 
+result, and the sale of shares Mr W didnt own, as outside Trading 212s reasonable control. 
+Or that Trading 212 shouldnt still have been able to stop the acceptance and execution of 
+the order like it normally would have. In short it doesnt follow that this wouldnt be more 
+properly viewed as a fault on Trading 212s part rather than the result of third-party error. On 
+balance, in light of all Ive said above, I find the loss wasnt caused by the third-party error 
+and didnt arise from a matter outside Trading 212s reasonable control.
+That said, Ive considered what Trading 212 has said about Mr Ws actions and whether, in 
+light of what is said in the terms and the warnings contained there, these mean it wouldnt be 
+fair and reasonable for Trading 212 to compensate him for his loss in all the circumstances. 
+Mr Ws order led to the sale of shares he didnt own, but he didnt intend this or realise this 
+was a possible outcome of the orders he had placed (and ordinarily it wouldnt have been). 
+There is clear evidence of this in the online chat records available from before the outcome 
+of the orders was known. This isnt why Ive found Trading 212 at fault or why Ive reached 
+the other conclusions Ive reached above, but it is a reason why I havent come to a different 
+outcome in the face of those findings. If Mr W had been aware his actions might lead to the 
+sale of shares he didnt own, then my view on his complaint might well have been different.
+The terms of Mr Ws agreement with Trading 212 made clear it was for him to cancel the 
+existing order if a new order were taking its place. Mr W didnt do this. If he had held enough 
+shares to satisfy both orders and both had been executed, it seems to me Mr W would have 
+had no grounds to object and this wouldve been covered by the terms Ive outlined above. 
+That Mr W was running a risk of both orders being executed even though he didnt own 
+enough shares for both, is apparent from the fact that this did happen. But he didnt foresee 
+this and I dont think he is at fault for not doing so or that he ought reasonably to have 
+anticipated he would be running this risk  given short selling wasnt permitted and all Ive 
+said above about his previous experiences of this and Trading 212s normal practice.
+I bear in mind that if Mr Ws stop-loss order had failed due to a system error, not placing his 
+market-sell order when he did wouldve left him exposed for longer to potentially negative 
+price movements from which he might otherwise have been protected  and the terms would 
+not have given him any recourse against Trading 212 for this. So I dont agree that this was 
+obviously a more prudent course for Mr W to have taken. So even with the account terms in 
+mind, I dont see that Mr W ought to have known that the best course was to rely on an order 
+that appeared to have failed, rather than placing a new one. The fact Trading 212 speculated 
+at the time - in its chat exchanges  incorrectly that Mr W might be able to cancel and place 
+a new order once the issue was resolved, in my view reinforces that it was not at all obvious 
+what had happened or what Mr W should have been doing about it at the time. So I accept 
+the status of Mr Ws attempted trades was unclear, like Trading 212 says. But I dont agree 
+that in the circumstances the only prudent course was to await confirmation of the position 
+and completion of the orders or instructions.
+I agree that had Mr W taken a course of action that was plainly unreasonable in all the 
+circumstances, that would be a relevant consideration and might affect the outcome here - 
+but Im not persuaded Mr W did act unreasonably.In conclusion Mr Ws loss arose after Trading 212 allowed and enabled a transaction it 
+shouldnt have accepted. Also, there was no good reason to accept or facilitate an order 
+whose result would be the sale of shares Mr W didnt own  particularly given he wasnt 
+borrowing the shares either. The terms of Mr Ws agreement with Trading 212 dont in my 
+view exempt Trading 212 from liability for the losses Mr W suffered as a result  nor would it 
+be fair and reasonable in my view to exempt Trading 212 in the way it has suggested. 
+So for the reasons Ive given and to the extent Ive explained, I uphold Mr Ws complaint. Ive 
+told the parties that records Ive seen show a £11663 loss on the day of the trades (£11536 
+being the difference between the market-sell and the buy trades plus currency conversion 
+costs of £127). Neither party has sent anything to dispute this or to suggest a different figure.
+Id add that I dont agree that if a particular exclusion clause doesnt validly cover a particular 
+situation  whether contemplated by the parties at the time the contract was made or not - 
+this undermines the whole basis of the contractual relationship. But Id add that looking at 
+the contractual relationship as a whole, and in the context of what Ive said above about the 
+terms Ive discussed, I dont agree that it would be fair to construe and apply the exclusions 
+and exemptions to the present situation in the way Trading 212 has suggested. And I do 
+think that the fact such a construction was not in my view contemplated by the parties at the 
+outset is a consideration relevant to that conclusion but, as Ive discussed above, it isnt the 
+only consideration or reason for it. 
+The live chat records Trading 212 has sent show Mr W suffered distress. My award here 
+takes no account of the distress suffered by Mr W during the delay to his orders, as this was 
+due to a technical problem for which Trading 212 wasnt at fault. Problems of that kind were 
+ones Mr W had to be willing to tolerate, given what the terms said about technical problems 
+outside Trading 212s control. In its chat exchanges Trading 212 tried to provide Mr W with 
+as much support as it could during the delay, as noted by at least one of our investigators. 
+But I share our investigators view that Mr W did suffer distress due to Trading 212s error 
+once he became aware of the result of his orders. The financial result was no doubt more 
+distressing because it arose from an outcome Mr W hadnt thought possible until it occurred. 
+So I share the view that an award for distress and inconvenience is appropriate and in all the 
+circumstances I reach the view on balance that £300 is fair and reasonable redress for this. 
+So, in light of all Ive said above, I uphold Mr Ws complaint.
+Putting things right
+Trading 212 UK Limited should pay Mr W £11663 plus simple interest on this sum at the rate 
+of 8% per year from the date this loss first arose in June 2021 until the date of this decision. 
+Any amount already paid by Trading 212 UK Limited as redress for this complaint may be 
+deducted by Trading 212 UK Limited from the total due as and when that amount was paid.
+Trading 212 UK Limited should also pay Mr W £300 for distress caused to him by the failings 
+Ive outlined. Trading 212 has already paid Mr W this, so it doesnt need to do more for this.
+If Trading 212 UK Limited pays my award to Mr W later than one month after it receives from 
+us notice of Mr Ws acceptance of my award, Trading 212 UK Limited should also pay Mr W 
+simple interest at the rate of 8% per year on my award from the date of my decision until the 
+date Trading 212 UK Limited pays my award. 
+My final decision
+For the reasons Ive given and in light of all Ive said above, I uphold Mr Ws complaint. Trading 212 UK Limited must put things right by doing what Ive said above.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr W to accept or 
+reject my decision before 21 August 2023.
+ 
+Richard Sheridan
+Ombudsman

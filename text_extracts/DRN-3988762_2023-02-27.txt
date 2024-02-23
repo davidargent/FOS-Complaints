@@ -1,0 +1,126 @@
+DRN-3988762
+The complaint
+Mr M is unhappy TSB Bank plc wont confirm that three payments that left his account were 
+not made or authorised by him. 
+What happened
+Mr M is disputing three payments totalling £10,000 that were made from his account via 
+mobile banking on 11 November 2021. These payments were facilitated by a £10,000 credit 
+to his account the day before from a third-party loan provider, who I shall refer to as R. Hes 
+explained he didnt apply for this loan and is being held responsible for it by R because TSB 
+wont agree that he didnt make the transfers from his TSB account. 
+Mr M says he didnt know about the loan or transfers from his TSB account until, upon 
+checking his online banking on 9 December 2021, he noticed a direct debit to R had been 
+returned unpaid due to lack of funds in his account. At this point he contacted TSB and R to 
+report what had happened. 
+He tried to obtain a copy of his credit report and found out someone else had registered in 
+his name. Once he was able to access his report, he could see that several searches had 
+been carried out for loans with different providers, not just R. 
+TSB held Mr M liable for the transactions for the following reasons:
+Shortly after the £10,000 credit was received from R, it says Mr M logged onto his 
+mobile banking and set up a new payee, sending £5 to them. He then logged back in 
+the next day and sent the £10,000 to this new payee. 
+TSB says a One Time Password (OTP) was sent to Mr Ms mobile number when he 
+set up the payee and this had to be entered to confirm the payee and the initial 
+payment of £5. 
+TSBs records show that the IP address and device ID used to log into mobile 
+banking when the payments were made match previous undisputed logins by Mr M. 
+The records also show that biometrics were used when logging into the mobile app to 
+make the disputed payments, meaning Mr M used fingerprint or face ID to access the 
+app. 
+Mr M told this service he has no idea how anyone would have been able to obtain his mobile 
+banking login details as he hasnt shared these with anyone or stored them anywhere. His 
+phone is secured by touch ID and PIN. He says he rarely checks his mobile or online 
+banking as the balance on his account is always between £100-£200. When he does check 
+his balance, he does so at an ATM when making a withdrawal. He said he made a 
+withdrawal from an ATM on 9 November 2021 and 12 November 2021 and if he did check 
+his balance on this day, he wouldnt have known about the credit and debits that happened 
+on 10 and 11 November 2021. 
+Mr M says he lives with his parents and two younger siblings and there were no issues with 
+missing post or anything unusual within his family at the time, nor was his ID lost or stolen. 
+And he also confirmed he hadnt been contacted by anyone asking him to transfer money or 
+take out a loan for them. 
+Mr M has queried why TSB never contacted him about the three large payments from his 
+account, especially as this was unusual activity compared to his normal account usage. 
+Having referred his complaint to our service, our investigator didnt uphold it. She concluded 
+that Mr M most likely authorised the payments himself. She was satisfied Mr Ms phone was 
+used to make the payments and there was no evidence to show this device had been taken 
+over or used by anyone other than Mr M. An OTP was used to set up the payee and this was 
+sent to Mr Ms registered phone number. Mr Ms mobile banking was accessed via his 
+device several times after the £10,000 had been received and transferred out, but Mr M 
+didnt report anything until much later. 
+Mr M didnt agree. He reiterated that he rarely checks his balance on his online/mobile 
+banking as he makes such a small number of transactions from his account, so he says he 
+wouldnt have noticed the £10,000 coming in and going out. He disputes that an OTP was 
+sent to his phone. He sent us a video showing him setting up a new payee and no OTP 
+being needed for this. He also explained that TSB never queried the large transactions 
+leaving his account, despite having done so with smaller transactions. Had it done so, the 
+transactions could have been prevented. 
+Because Mr M disagreed, the complaint has been passed to me to decide.
+What I provisionally decided - and why
+After considering all the evidence, I issued a provisional decision on this complaint on 25 
+January 2023. I provide a copy of my findings from that decision below:
+The Payment Services Regulations 2017 say, in summary, that a bank should generally
+refund a consumer if a payment comes out of their account that they didnt authorise. Ive
+seen from the technical evidence provided that the payments in dispute were made via
+Mr Ms mobile banking, so Im satisfied they were correctly authenticated.
+So, the key consideration for me is whether its more likely than not Mr M or someone on his
+behalf made the transactions. If so, then they would be considered authorised and it would
+be reasonable for TSB to hold him liable.
+I will start by explaining that I am not placing any weight at this stage on the fact TSB says
+an OTP was sent to Mr Ms phone. I say this because it cant provide any evidence of this,
+only explaining that this is its usual process. However, Mr M has provided evidence to show
+an OTP isnt always needed. So, there is conflicting information here.
+Ive also considered that whilst Mr M has said he doesnt check his online banking very
+often, this isnt what the technical evidence supplied by TSB suggests. This shows him
+logging in once or twice a week consistently in the months before the disputed transactions
+and indeed after the disputed transactions. In fact, there are numerous logins between the
+disputed transactions and when Mr M reported them to TSB as our investigator has pointed
+out. What isnt clear though is whether Mr M would have seen the activity history on his
+account (including the disputed transactions) when logging in, or just his balance. So again,
+whilst I dont think Mr M has been entirely transparent about how often he checks his mobile
+or online banking, Ive not placed too much weight on this at this time.But regardless of the above, in Mr Ms case Ive still concluded that it is more likely than not
+the payment was consented to by him. I appreciate hell find this disappointing, but I have
+reached this conclusion for the following reasons:
+The disputed transactions, including the £5 test payment, were carried out on mobile
+banking. From the evidence provided by TSB I can see that they were all carried out
+using Mr Ms usual device. I say this is Mr Ms device as it is one that has been used
+consistently to access his mobile banking and make payments for at least the 11
+months prior to the disputed activity. So, for me to conclude it wasnt Mr M who
+carried out the disputed transactions I would have to be satisfied someone else had
+access to his mobile phone. Whilst certainly not impossible, based on what Mr M has
+told us about it being secured by PIN and touch ID, and the fact the phone would
+have needed to have been accessed at least twice without Mr M noticing, I dont find
+this entirely likely.
+But importantly and in addition to the above, TSBs records show that biometrics
+were used to access the mobile banking app to make the disputed payments. This
+means Mr Ms fingerprint or face ID was used to log in. So, even if I was to conclude
+someone had gained access to Mr Ms phone, Im unable to conclude anyone but Mr
+M could have accessed the mobile banking app.
+So, for me to conclude Mr M didnt authorise the disputed transactions, it would mean
+Id have to be satisfied he could have logged into his mobile banking using his
+fingerprint or face ID. Then, had his device taken without his knowledge, and almost
+immediately so the app didnt close or time out. Plus, this would have needed to
+happen on two different occasions - one for the test payment and one for the three
+transfers. Im afraid this doesnt seem plausible to me.
+Given this, despite the other evidence being inconclusive, I think its more likely than not Mr
+M authorised the transactions.
+Lastly, I can see that Mr M has said TSB should have spotted the transactions and stopped
+them from going through. Especially as the transactions were out of character from the usual
+activity on Mr Ms account. Whilst I acknowledge this, because Im satisfied that its more
+likely than not that Mr M authorised these transactions, I dont think any intervention on its
+part would have made a difference here.
+Neither Mr M or TSB responded to the provisional decision. 
+ 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Because neither party responded to the provisional decision, I see no reason to depart from 
+my findings and it therefore remains that I dont uphold Mr Ms complaint. 
+ 
+My final decision
+My final decision is that I dont uphold Mr Ms complaint against TSB Bank plc.
+ 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr M to accept or 
+reject my decision before 27 March 2023.
+ Sarah Brimacombe
+Ombudsman

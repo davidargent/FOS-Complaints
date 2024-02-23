@@ -1,0 +1,85 @@
+DRN-3260001
+The complaint
+Mr S is unhappy that Starling Bank Limited (Starling) wont refund a transaction which he 
+says he didnt authorise. 
+What happened
+In April 2021, Mr S received a call from someone claiming to be from Amazon, offering a 
+refund for his Prime subscription. He says this seemed credible as had a Prime subscription 
+which hed been trying to cancel. He was sent a link to a form and told to fill it in to get the 
+refund. It seems, that in the process, this gave the caller remote access to his phone. 
+The caller directed Mr S to check his accounts to get the refund and help rectify the issue 
+hed been having with his subscription. He recalls mention of needing to link his accounts. I 
+can see open banking was approved on his Starling app, then around one minute later a 
+payment of £400 was made  seemingly to account in his name, held with another firm (R). 
+Mr S says he didnt authorise this and hes never held an account with R. 
+Starling has refused to refund Mr S. It says he breached the terms by giving access to his 
+phone and log-in details. But our investigator didnt think the payment wasnt authorised by 
+Mr S. Nor did they think hed failed intentionally, or through gross negligence, to keep his 
+account safe. So they thought Starling should refund the payment  which they were 
+satisfied hadnt been paid into an account actually held by Mr S  with interest, and that it 
+should pay £100 for poor service. 
+Mr S also thought Starling had blocked his account following the dispute, but the investigator 
+found no evidence of this. 
+Mr S agreed with the investigators outcome  but Starling didnt. It said the recipient account 
+couldnt have been opened without his knowledge, so it has no way of knowing whether he 
+benefitted from the payment. And it questions Rs liability if he didnt open the account.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I agree with the conclusions reached by the investigator for these reasons:
+In line with the Payment Services Regulations 2017 (PSRs), Mr S isnt liable for payments 
+he didnt authorise  unless he failed with intent or gross negligence to comply with the 
+terms of the account or keep his personalised security credentials safe. 
+Its clear the payment was properly authenticated via online banking. But to be authorised, 
+the PSRs also require him to have consented to the payment. They also set out how consent 
+is given; this isnt open to interpretation. It must be given in the form, and accordance with 
+the procedure, agreed between Mr S and Starling. Essentially that means Mr S would have 
+consented to the payment if he, or someone acting on his behalf, completed the agreed 
+steps for making a transaction. 
+ On balance, considering the PSRs, Im persuaded he didnt authorise this payment. To do 
+so, he would have needed to log into his online banking; give consent to Starling to 
+participate in open banking; then enter his password to create the destination payee and 
+allow the payment to go through. Mr S says he did enter his password to log onto his online 
+banking. But its unclear if he gave consent for open banking. And Im satisfied it wasnt him 
+who entered the password to allow this particular payment to go through. Hes given a 
+consistent and plausible account for how a scammer got unauthorised control of his device, 
+allowing them to see the details he entered to log into the app and use those to make the 
+payment. The steps he took (such as logging into the app) were done to receive a payment, 
+not to allow anyone else to make payments. 
+I appreciate Starlings point about the loss, given that the recipient account appeared to be in 
+Mr Ss name. But weve seen records from R showing the funds were transferred in and out 
+of the account very quickly  fitting a known pattern of fraud. R has told us the account 
+doesnt seem to have been opened by Mr S, and could have been opened by an 
+unauthorised fraudster using stolen personal data. Starling hasnt provided comparable 
+evidence to refute this. Id also point out that Im not considering Rs role here. What I am 
+considering is Starlings liability under the PSRs. Overall, Im persuaded neither Mr S, nor 
+someone with his permission, completed all the steps required to have consented to the 
+payment  meaning it was unauthorised. And this unauthorised payment caused him a loss. 
+That means Starling is liable for the payment unless Mr S failed with intent or gross 
+negligence. I consider it clear that he didnt intentionally fail to keep his account details 
+secure. Its clear he didnt think that the steps he followed (such as using the scammers link 
+and opening his online banking to check for the refund) would affect his account security. 
+Nor am I persuaded his actions showed such a significant degree of carelessness to 
+constitute gross negligence. He reasonably thought he was acting on the instructions of a 
+legitimate, established company, with whom he holds a customer relationship, and which 
+appeared to have correct information about his subscription. In the circumstances, I can see 
+why he therefore trusted their instructions  and didnt foresee the risk. 
+For these reasons, Im satisfied Starling should fairly and reasonably refund Mr S for the 
+£400 payment. And that it should also pay 8% simple interest per year on this amount to 
+compensate him for the loss of use of those funds.
+Our investigator also suggested £100 compensation for Mr Ss distress and inconvenience. 
+The loss itself was ultimately caused by the cruel actions of the scammer, as the investigator 
+pointed out. But Starling added to his stress and frustration by failing to refund him promptly 
+in line with its obligations under the PSRs. So Im satisfied this compensation is fair.  
+Although Mr S hasnt disputed this point  for completeness, Ive checked the available 
+information and havent found anything to suggest Starling blocked his account. And so I 
+dont think it needs to take action to put this right. 
+My final decision
+For the reasons given above, my final decision is that I uphold this complaint and direct 
+Starling Bank Limited to refund Mr S £400 for the disputed transaction. It should pay 8% 
+simple interest per year on this amount from the date of payment to the date of settlement. 
+And it should pay him £100 compensation for his distress and inconvenience.  Under the rules of the Financial Ombudsman Service, Im required to ask Mr S to accept or 
+reject my decision before 15 November 2022.
+ 
+Rachel Loughlin
+Ombudsman

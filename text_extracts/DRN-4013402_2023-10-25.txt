@@ -1,0 +1,106 @@
+DRN-4013402
+The complaint
+Mr H complains about the actions of SumUp Payments Limited. He said it sent him a 
+message suggesting that somebody had logged in to his SumUp account from Stroud, but 
+he later discovered that may not have been true.
+Mr H went on to complain that the gross incompetence and nonchalance of SumUps 
+employees had wasted his time and energy. He told us that he suffers ongoing unease 
+because he is still not satisfied that no fraudulent activity occurred on his account.
+What happened
+In January 2023, Mr H had a SumUp account which allowed him to take payments from 
+plastic cards.
+On 2 January 2023 SumUp sent Mr H a message with the title Did you log in with a new 
+device?. The body of the message said:
+Weve noticed that a new device was used to log into the account [details of Mr Hs 
+account] with your Profile.
+When: 1/2/23 9:38 am
+Location: Stroud, GB [IP address]
+Device type: Windows, Chrome
+If this was you, you can ignore this email. However, if you dont recognise this device, 
+we strongly recommend that you reset your SumUp password now [link to password 
+reset].
+If you ever have any concerns or notice something unusual about your SumUp 
+Profile, please contact our support team [link to contact details].
+Mr H was very concerned by this message, and immediately changed his password. Shortly 
+afterwards, he complained to SumUp and explained that he was not in Stroud on 2 January 
+2023, or indeed at any other time. Mr H was not satisfied with SumUps response to his 
+complaint, and referred the matter to our service.
+One of our investigators looked at this complaint, but didnt uphold it. He thought the 
+reference to Stroud might be because Mr H was using a virtual private network (VPN). He 
+was satisfied that SumUp had looked into the matter and found no fraudulent activity, so 
+Mr Hs account was not compromised. He also thought SumUp had investigated the matter 
+quickly and sufficiently, then explained its findings to Mr H  so he didnt ask SumUp to do 
+anything further.
+Mr H did not accept our investigators findings. Briefly, he thought that both our investigator 
+and SumUp had glossed over the issue. He said that SumUp did not investigate the matter 
+quickly; on the contrary he waited at least two weeks for an outcome. It refused to let him 
+speak to a manager, and provided factually incorrect information about his own logins, in 
+that it said he only ever accessed his account from one device whereas in fact he has 
+accessed it from both his phone and his laptop.
+Mr H was also concerned about our investigators mention of a VPN, which he said was 
+speculative. Mr H made clear that he doesnt believe anybody should speculate when 
+dealing with fraud.
+Overall, he considers that either somebody in Stroud logged into his account, or SumUp 
+made an error in sending the notification  and in either case he should receive 
+compensation.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Mr H is right to say that is possible somebody else attempted to log into his SumUp account 
+on 2 January 2023. I think that is exceptionally unlikely, for reasons that I will go on to 
+explain, but I cannot entirely exclude the possibility. However, even if an unknown third party 
+did attempt to gain unauthorised access to Mr Hs SumUp account, Ive seen no evidence to 
+suggest that SumUp was at fault. So I wouldnt award compensation in that case.
+The login referred to in SumUps warning message happened at exactly the same time that 
+Mr H logged on himself. Neither party has provided any evidence to suggest that anybody 
+tried to make unauthorised changes to Mr Hs account. It therefore seems extremely unlikely 
+that the attempt was made by a fraudster. It seems much more likely that the login attempt 
+was made by Mr H himself. But that leaves the question of why SumUps message 
+mentioned Stroud when Mr H was not in Stroud at the time.
+SumUp and our investigator both raised the possibility that Mr H was using a VPN, which 
+can disguise the location from which a computer is connecting to the internet. I know Mr H 
+was not persuaded by that explanation, but I do think it is possible. Another possibility is that 
+the reference to Stroud was simply a mistake. I am aware that IP geolocation  the mapping 
+of a computers IP address to its real world geographic location  is not precise. IP 
+geolocation is generally (but not always) accurate at country level, but it is often less 
+accurate for towns/cities within countries.
+I dont know whether SumUps message mentioned Stroud because of a VPN, an IP 
+geolocation error, or for some other reason. But I am satisfied that I do not need to know that 
+in order to reach a fair and reasonable outcome to this complaint, because I would not award 
+compensation in either case.
+Like many providers, SumUp sends messages to its customers when it detects anything 
+unusual about a login. Those messages are a fraud prevention measure, but they are not 
+guaranteed to detect fraud. Sometimes, as appears to have been the case here, there are 
+false positives where SumUps systems detect something unusual even though the login 
+attempt is genuinely from SumUps customer. But regardless of whether the reference to 
+Stroud here was an error, all SumUps message did was alert Mr H to the possibility of fraud.
+Mr H has suggested that if Stroud was not involved, then SumUp has made a mistake and 
+he should be awarded compensation. I cannot be sure that SumUp did make a mistake, but 
+even if it did I dont think it would be fair for me to award compensation. I say that because:
+Mr H changed his password because of SumUps message, but it is sensible to do 
+that on a regular basis anyway. I dont think the inconvenience of changing a password should automatically lead to a compensation payment.
+Mr H was clearly distressed by the possibility that a third party had accessed his 
+account. But at no stage was there any suggestion that Mr H had lost money. In 
+addition, any use of a service like SumUps comes along with a risk of fraud, and 
+there is nothing that either Mr H or SumUp can do to completely remove that risk. But 
+they can take actions to reduce that risk  and one of the actions SumUp can take is 
+to implement a system to send messages to customers whenever it detects unusual 
+activity. I dont expect such systems to be perfect, and so I dont think it would be fair 
+for me to make a financial award in the event of a false positive or a mistake over 
+geographic location.
+More generally, Mr H is clearly deeply unhappy with SumUps customer service, and with the 
+speed and accuracy of its responses in relation to this issue. But I consider that SumUp did 
+act appropriately. I do not criticise it for its speculation over the VPN issue; I consider that it 
+was simply trying to explain what might have happened. In any event, Ive seen nothing to 
+suggest that Mr H has suffered a financial loss as a result of the issues he complains about.
+I also accept that Mr H is suffering ongoing distress because he cannot be certain that no 
+fraudulent activity occurred on his account, and I am very sorry to hear that he has found this 
+episode so difficult. However, my view is that overall SumUp treated him fairly, and so I 
+make no award.
+My final decision
+My final decision is that I do not uphold this complaint about SumUp Payments Limited.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr H to accept or 
+reject my decision before 22 November 2023.
+ 
+Laura Colman
+Ombudsman

@@ -1,0 +1,118 @@
+K820x#14complaint
+Mr P complains that AFX Markets Limited  unfairly  voided a number of Contracts for 
+Differences (CFDs) he had made money  on and deprived him of the profits.
+background
+Mr P had a CFD trading account with AFX Markets  Limited. On 23 May 2018 he opened  9 
+short CFDs on the EUR/TRY (Euro   Turkish Lira) currency pair. These trades  were  all 
+opened between  19:07:14 and 19:07:21. They were  all for 0.15 lots and were  all opened  at 
+the same  price of 5.60566. 
+Mr P kept these trades  open  until 19:23, at which point he proceeded to close  each trade 
+individually between  19:23:21 and 19:23:29. In total,  Mr P made over £3,900 from these 9 
+trades. 
+AFX explained that at the time Mr P opened  his trades, it was experiencing a problem with 
+the prices it was streaming on EUR/TRY. In short, the prices werent updating for a period of 
+time, and this meant that Mr Ps winnings werent  based on legitimate prices   in other 
+words, not based  on a fair reflection of the price of the underlying currency pair. So it voided 
+the trades and cancelled  the profits. 
+Mr P complained. He considered that AFXs  decision was unfair.  He said that he had been  
+trading with another broker who honoured the prices it offered him. So he thought AFX 
+should reprice his voided trades, and pay him the profit he wouldve made.  
+AFX declined to adjust  Mr Ps trades.  It said:
+On 23 May 2018, the Turkish Central Banks announcement that it was raising its 
+lending rates had a significant impact on the value of the Turkish lira. 
+Its terms explained that during market conditions which it considered to amount to a 
+Force Majeure, the execution of trades might be affected.  
+It also said that clause  22.5 of its terms explained that it didnt permit  customers  
+taking advantage of low liquidity conditions and that this was considered to be 
+abuse or manipulation of [its] trading platform.
+It accepted that there had been an error  on its platform which  meant that it 
+experienced a price  freeze. Given the prices in the rest of the market,  this was a 
+clear technical issue.  AFX explained that clause  5.13 said:
+The parties acknowledge that errors  may occur in the Prices quoted by AFX Capital 
+Markets Ltd to AFX UK due to internet connectivity  failures or delays, price  feed 
+mistakes or otherwise resulting in quoted Prices materially deviating from market 
+rates. In such circumstances, without  prejudice  to any rights  either  AFX Capital  
+Markets Ltd or the Client may have under common law, neither the Client nor AFX 
+Capital Markets Ltd will be bound  by any Contract  which purports to have been made 
+(whether or not confirmed  by AFX Capital Markets Ltd) at a Price which was, or 
+ought reasonably  to have been,  known to the client or AFX Capital Markets  Ltd to be 
+materially incorrect at the time the Contract was entered into.
+AFX therefore explained as a result of the error, clause 5.17 of its terms applied:
+Ref: DRN05692682AFX UK also reserves the right at its sole and absolute  discretion, to take all 
+necessary steps  including making corrections or adjustments on the Clients  account  
+without prior notice, for example, any Transaction placed through the System  which  
+relies on price latency or an arbitrage opportunity may be modified, adjusted, 
+corrected, rejected, terminated or voided  at any time. In addition, where such  
+circumstances exist,  the Client understands and agrees  that AFX shall not remit 
+payments to or process withdrawal requests  from the Client, until the appropriate 
+corrections are made to the satisfaction  of AFX UK. When determining  whether a 
+situation amounts  to an Abusive Trading  Strategy, AFX UK may take into 
+consideration all information in its possession  including information concerning 
+relevant market conditions and errors in the System. 
+And it said that where a client took advantage of such errors those actions amounted 
+to arbitrage. Its terms allowed AFX to void, close or adjust  trades entered into in such  
+circumstances. 
+It also said that the prices which it quoted at the time amounted to a Manifest  Error 
+as defined in its terms, and this meant that it had the right to void or cancel the 
+trades. 
+Mr P didnt agree with AFX, and brought his complaint to this service. He said that at the 
+time he was trading to take advantage  of the announcement by the Turkish Central Bank, 
+and he was trading  with other brokers who honoured the prices they gave him.
+I issued a provisional decision in February  2019. In short, I thought  that the prices which 
+AFX provided on its platform were, on balance,  manifestly wrong. I said that it would be 
+unusual for a currency pair to have the same  bid or ask price  for such  a period of time, and 
+the evidence Id seen in the underlying market suggested that the prices were significantly 
+lower than those quoted  by AFX at the time anyway. So, bearing in mind the Turkish liras 
+volatility at the time, I was provisionally  satisfied that it was more  likely than not that the 
+prices remained the same  as a result of a technical  error on AFXs platform. 
+I considered whether AFX acted  fairly  when it decided to void Mr Ps trades and cancel his 
+profits, bearing in mind that the terms gave it discretion as to what actions to take. In looking  
+at the trades Mr P placed, I provisionally concluded that it was more likely  than not that Mr P 
+knew there was something wrong  with AFXs platform. And I thought that as a result,  he not 
+only knew that AFXs platform wasnt updating its prices, but he could also see that the price 
+AFX was offering was not reflective of the underlying market.  This meant  that Mr P had 
+made an instantaneous profit of over 370 pips without taking any risk at all. I provisionally 
+concluded that in opening trades  on what was clearly an incorrect  price, Mr P wasnt  taking 
+any risk with these trades. I thought this meant  he probably gained an unfair  advantage 
+which significantly altered  the risk-reward balance in his favour.  So I didnt think AFX had 
+done anything  wrong in voiding the relevant trades.  
+Mr P didnt agree with my provisional conclusions. He acknowledged that it was unusual  for 
+prices not to update. But he said it is possible, and can happen in particular during chaotic 
+market moments. He said that where there  was a lack of liquidity, spreads increase and the 
+price could stay the same  for longer periods. 
+And he said that the trading pattern of opening  a small trade followed by larger  trades was 
+something that he had done previously, and wasnt specific  to this incident.  He said that this 
+wasnt the first time he had done this, and shows that this type of trading pattern wasnt in 
+response to the any issue the broker may or may not have been having. He said that the 
+Ref: DRN05692683reason he had done this was to test trade  execution as the quoted prices can be totally  
+different from execution pricing. 
+my findings
+Ive reconsidered  all the available evidence and arguments to decide  whats  fair and 
+reasonable in the circumstances of this complaint.  Having done so, I see no reason to depart 
+from my provisional conclusions. 
+I appreciate the points  Mr P has made, and I agree there may be occasions where volatility 
+in the underlying market might cause spreads to widen in unusual ways.  Ive also considered  
+the statement  he has provided which shows that he has on other occasions opened a small 
+trade shortly before opening a much  larger one. But I dont  consider  either of these  points 
+makes a material difference  to the reasonableness of AFXs decision to void Mr Ps trades.  
+In the particular circumstances of Mr Ps complaint, Im satisfied that AFXs platform  was 
+experiencing a problem  which not only caused  the bid/offer prices it was offering for 
+EUR/TRY not to update, but also froze them  at levels which were clearly not reflective of the 
+underlying market. Clause 5.13 of its terms provide for this situation, and allows  it to take a 
+number of actions,  of which voiding the trades was one. So Im satisfied it didnt act outside  
+the terms of its agreement. 
+But Im also satisfied that it applied this particular  term fairly and reasonably in Mr Ps case. I 
+say this because  Im satisfied that Mr P was most  likely aware that AFXs website was 
+experiencing an issue, either by virtue of the significant difference in prices being offered, or 
+as a result  of the prices not moving at all. This means that in trading on prices  which  were 
+clearly much  higher  than the underlying market, and werent moving, Mr P had virtually  
+immediately secured a very significant profit with little to no risk. 
+So for these reasons and those in my provisional decision, Im persuaded it was fair and 
+reasonable for AFX to void the trades as if they had never been  placed.
+my final decision
+My final decision is that I dont uphold Mr Ps complaint. 
+Under the rules  of the Financial Ombudsman Service,  Im required to ask Mr P to accept or 
+reject my decision  before 27 April 2019
+Alessandro Pulzone
+ombudsman
+Ref: DRN0569268

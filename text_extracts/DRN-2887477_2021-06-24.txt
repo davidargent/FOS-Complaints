@@ -1,0 +1,77 @@
+DRN-2887477
+The complaint
+Mr C complains as a director of E, a limited company, that Hiscox Insurance Company 
+Limited rejected a claim on Es business protection insurance policy.
+What happened
+In July 2020 Es web application went offline on a Friday evening. E contacted its provider 
+but says it received no support from them over the weekend. 
+E notified Hiscox, who referred E to a firm of solicitors to manage the response to the 
+incident. Es IT provider informed E that a failure with its systems caused the latest renewal 
+of its server to fail, and as a result Es database and server was deleted along with the 
+backups. 
+E set up a new server with a new provider and used its own a local backups to get its service 
+up and running again, while also dealing with the consequences of the loss of service for five 
+days. As a result of the incident, E lost data relating to a number of its customers and 
+employees. E notified the Information Commissioners Officer of the data loss.
+E obtained a report which set out measures it needed to put in place and then made a claim 
+on the policy. E said the claim was in relation to repeat event mitigation' as it wanted to put 
+in place measures to mitigate the risk of the same problem happening again.
+Hiscox said the claim wasnt covered. E complained about the decision but received a final 
+response from Hiscox confirming its decision. So E brought the complaint to this service. E 
+told Hiscox it would proceed with some of the actions and then seek to recover any costs.
+Our investigator said Hiscox decision was fair and in line with the policy terms; he thought 
+the actions E had taken would help to minimise any losses should the same event happen 
+again, but they wouldnt stop or minimise the chance of the event happening.
+E disagrees and has requested an ombudsmans decision. On behalf of E, Mr C says it now 
+has a new provider, and their arrangements include measures such as a disaster recovery 
+service and 24 hour support which means E would be back up and running in minutes 
+should an incident occur. 
+Mr C also says the new infrastructure includes advanced server configuration and protection, 
+with a further back up if required. Mr C says this all means E has taken steps to mitigate the 
+risk of a recurrence and so the repeat event mitigation section of the policy has been 
+triggered.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+The policy provides a range of cover for E. In relation to this claim the relevant section of 
+cover is set out in the cyber and data part of the policy as follows:
+we will pay the reasonable and necessary costs and expenses incurred by you with our 
+prior agreement to:
+1. upgrade existing hardware or software forming part of your computer system; and
+2. obtain risk management advice, 
+which is necessary to prevent or minimise the chance of a reoccurrence of the event that 
+gave rise to the payment under this section.
+Mr C has agreed that the crux of the matter is whether the steps it took (and the costs 
+incurred) were needed to prevent or minimise the chance of a recurrence of the event that 
+happened here. So thats what I have focused on.
+The steps E has taken include switching to a new provider with a new infrastructure with 
+advanced server configuration and protection, and a further back up if required. It also has 
+measures such as a disaster recovery service and 24 hour support which means E would be 
+back up and running quickly if something like this happens again. 
+Having thought about this carefully, I agree the measures in place would provide better 
+support and a quicker response should a further incident happen. But this relates to 
+mitigating the effects of a further incident rather than preventing it from happening in the first 
+place. 
+The event in this case was a problem with the providers system which led to data being 
+deleted. It doesnt seem to me that the steps E has taken would prevent that happening; 
+rather they would reduce the impact on E if it did happen.
+I also note that the policy term refers to the costs of hardware or software forming part of Es 
+computer system. So this wouldnt include any charges E pays to its new provider for the 
+systems they have in place. And the other steps include measures relating to data 
+compliance and staff training, which again wouldnt be things that prevent an issue with the 
+providers systems. 
+Ive also thought about whether the cost of obtaining the report which recommended the 
+measures should be covered. But again, E would need to show the advice was necessary 
+to prevent or minimise the chance of a reoccurrence of the event. Since the advice relates 
+to measures that would reduce the impact of a further event, rather than preventing it 
+happening, my view is that this cost wouldnt be covered either. 
+I appreciate that the event was very serious for E and dont doubt the impact it had. But 
+cover is only available of the requirements set out in the policy terms are met and, for the 
+reasons Ive given, I dont think they were. On that basis, Im satisfied Hiscox decision was 
+fair and in line with the policy terms.
+My final decision
+My final decision is that I dont uphold the complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask E to accept or 
+reject my decision before 22 July 2021.
+ Peter Whiteley
+Ombudsman

@@ -1,0 +1,191 @@
+DRN-2206990
+The complaint
+Mr and Mrs L are unhappy that TSB Bank plc (TSB) didnt do more to help them after they 
+were victims of a scam.
+What happened
+Mr and Mrs L hold a joint account with TSB. In late January and throughout February 2019 
+they made seven transfers of £25,000 and one transfer of around £17,500 to their children 
+from their TSB bank account. The first transfer of £25,000 at the end of January was blocked 
+by TSB. Mr L contacted it and confirmed the payment was genuine so TSB processed it.
+On 18 February 2019 Mr L was contacted by a party he thought was TSB but turned out to 
+be a scammer. Hes said he was told the monthly transfer limit for the account had been 
+reached and he couldnt send any further payments. In order to continue making transfers, 
+the money needed to be sent to a separate account from where it would be forwarded to the 
+intended recipient.
+Mr L said the scammer gave him the account details to make the payment to. Hes also said 
+he didnt carry out the final transfer of £25,000. Hes said the scammer mustve done this 
+somehow using his and Mrs Ls online banking account.
+Around four days after the payment was made to the scammer Mr and Mrs L realised the 
+money hadnt been forwarded to the intended recipient and they contacted TSB to let it know 
+theyd been the victim of a scam. TSB contacted the receiving bank a few days later to try 
+and recall the funds. It received conflicting information but the receiving bank has ultimately 
+confirmed that by the time the fraud was reported the money had been removed from the 
+beneficiarys account and couldnt be returned.
+Mr and Mrs L made a complaint to TSB. They said Mr L hadnt authorised the payment 
+made to the scammer. They felt TSB shouldve blocked all the transfers due to their high 
+value and checked them directly with Mr and Mrs L before processing them. They were also 
+unhappy with the way TSB had investigated their fraud claim, its security procedures and 
+verification processes.
+TSB responded and said general warnings about this kind of social engineering scam 
+wouldve been displayed on Mr and Mrs Ls online banking account before Mr L made each 
+payment. It felt the payments had all been made using Mr and Mrs Ls trusted device and 
+using their personalised security credentials, so it didnt accept that they hadnt authorised 
+the final £25,000 payment. 
+Mr and Mrs L were unhappy with TSBs response and brought the complaint to our service. 
+Our investigator didnt uphold the complaint. They said that:
+They felt the evidence theyd seen meant it was more likely than not Mr and Mrs L 
+had made the final transfer themselves. And although they were victims of a scam, 
+they had authorised the payment and were therefore liable for it.
+They didnt think the payment made to the scammer was significantly unusual 
+enough that TSB shouldve intervened or blocked the payment as it was the last 
+payment in a sequence of high value payments Mr and Mrs L were making, so 
+followed a genuine pattern of spending.
+They felt TSB had done what theyd expected in contacting the receiving bank to try 
+to retrieve the funds and wasnt at fault for the fact this hadnt been possible.
+Mr and Mrs L didnt accept the investigators findings. They said that:
+TSB shouldve checked every payment that was made to a new payee and because 
+the payment that was made to the scammer was to a new payee, it didnt follow any 
+existing pattern and shouldve been subject to additional checks.
+They maintained they didnt make the payment to the scammer themselves and that 
+although they received a one time passcode OTP to the mobile number linked to 
+their account, this was received hours after the transfer took place and they didnt 
+use it to verify any payment.
+They felt the investigator had failed to take into account the relevant wider 
+circumstances such as TSBs previous data breaches and general weaknesses in its 
+security.
+They felt TSB could only fairly refuse to reimburse them for the money if it could 
+prove theyd been grossly negligent.
+As Mr and Mrs L didnt accept the investigators findings the complaint has been passed to 
+me to make a decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Did Mr and Mrs L authorise the payment?
+Mr L, who has authority to transact on the joint account on behalf of both account holders, 
+has said he didnt make the transfer to the scammer himself. Hes said the scammer told him 
+they would move the money to a third party account before forwarding the money to his son 
+in order to circumnavigate the monthly transfer limit.
+Because he says he didnt carry out the transfer himself, he says they didnt authorise it. But 
+having considered all the available evidence very carefully, I think its more likely than not 
+Mr L did make the transfer himself. And although I think he likely did this as the result of a 
+sophisticated scam, this means he authorised it and is liable for it in the first instance. In 
+reaching this conclusion Ive taken the following into account:
+TSBs records show Mr and Mrs Ls online banking was accessed from the same IP 
+address that had previously accessed the account on numerous occasions. So the 
+transaction was likely made from wherever Mr and Mrs L usually access their online 
+banking. And whilst theyve suggested the scammer may have somehow tampered 
+with the IP address, I dont think this is likely. It isnt a requirement to always access 
+online banking from the same IP address. And as the scammer wouldnt have 
+needed to do this in order to gain access to the account, its unclear why they would 
+have tampered with the IP address. 
+TSBs records set out that the online banking session during which the transfer was 
+made was accessed using a trusted device, which is a device that has been used 
+previously to access Mr and Mrs Ls online banking. Ive not seen a plausible explanation as to how a scammer wouldve accessed and utilised Mr and Mrs Ls 
+previously used devices when theyve said the scammer contacted them over the 
+phone. 
+TSBs records show a one time passcode (OTP) was sent to the mobile number 
+linked to Mr and Mrs Ls account around the time theyve said the scammer moved 
+the money from their account. Theyve said they didnt receive this code until hours 
+after the payment was made, although I havent seen evidence of this. Theyve also 
+said the OTP wasnt used and so TSB hasnt followed its own processes. But 
+according to TSBs records, the OTP was sent out and the correct response was 
+received minutes later. So based on the evidence Ive seen I think it likely was 
+received and responded to. And Ive not seen any plausible explanation as to how 
+the scammer wouldve accessed a phone (and the OTP) linked to Mr and Mrs Ls 
+account as they said the scammer contacted Mr L over the phone. 
+Although Mr and Mrs L have said the scammer carried out the transfer and this is 
+what theyd understood was going to happen, at a different point during our 
+investigation theyve said Mr L was given the account details to send the payment to 
+during his call with the scammer. Theyve said Mr L challenged them because he 
+recognised from the sort code the account wasnt a TSB account. But its not clear 
+why the scammer wouldve given him the account details if it had been agreed 
+between them that the scammer would be making the transfer for him.
+Mr L has said he didnt give any information to the scammer relating to his and 
+Mrs Ls online banking or other security credentials. So its not clear how the 
+scammer wouldve been able to access their online banking in order to make the 
+transfer. And whilst they may be suggesting the scammer had somehow accessed 
+their online banking logins and hacked into their account remotely, I think this is 
+unlikely. I say this because what Mr and Mrs L have described is a social engineering 
+scam, where the scammer uses a cover story to persuade someone to carry out a 
+banking transaction under false pretenses. Its unclear why a scammer wouldve 
+called Mr and Mrs L with a cover story, and risked the scam coming undone, if they 
+also had the ability to access the account and move money without Mr and Mrs Ls 
+knowledge. And, its not clear why, if they had full access to Mr and Mrs Ls account 
+they only wouldve made the one transfer they did.
+On balance, and based on the evidence Ive seen I think Mr L more likely than not carried 
+out the transfer himself.
+Mr and Mrs L have said that TSB must reimburse them for their loss unless it can prove 
+theyve been grossly negligent but this isnt the case. Whilst I mightve considered whether 
+or not Mr and Mrs L had been grossly negligent if I thought the scammer had accessed their 
+details and used their account without their knowledge or consent, as Ive explained above, I 
+think Mr L likely authorised the payment himself. So I dont think TSBs liability depends on 
+whether or not theyve been grossly negligent in this case.
+Should TSB have done more to block the payments?
+Whilst I think Mr and Mrs L are liable for the transaction in the first instance, I also need to 
+take into account the law, regulators rules and guidance, relevant codes of practice and what 
+I consider to have been good industry practice at the time. Having done so I think TSB 
+should fairly and reasonably:Have been monitoring accounts and any payments made or received to counter 
+various risks, including anti-money laundering, countering the financing of terrorism, 
+and preventing fraud and scams.
+Have had systems in place to look out for unusual transactions or other signs that 
+might indicate that its customers were at risk of fraud (among other things). This is 
+particularly so given the increase in sophisticated fraud and scams in recent years, 
+which banks are generally more familiar with than the average customer.  
+In some circumstances, irrespective of the payment channel used, have taken 
+additional steps, or make additional checks, before processing a payment, or in some 
+cases declined to make a payment altogether, to help protect customers from the 
+possibility of financial harm from fraud. 
+Mr Ls first transfer of £25,000 attempted at the end of January was blocked. TSB has said 
+this is because the transfer of £25,000 hed attempted took him over the daily transfer limit 
+due to a transaction hed already made that day. But its records also suggest the payment 
+was released when Mr L contacted TSB to confirm the payment was genuine. 
+Its unclear exactly why the payment was originally blocked by TSB, but either way I think the 
+payment ought reasonably to have been blocked. The transfer was considerably larger than 
+the other transactions on Mr and Mrs Ls account in the months leading up to it so I think it 
+was significantly unusual enough it shouldve prompted an intervention from TSB. 
+And whilst TSB has shown us it did intervene to an extent, and it appears to have checked 
+the payment was being made by Mr and Mrs L, I dont think it went far enough in questioning 
+them about the payment they were making. I think TSB ought to have asked probing 
+questions about the payment to get to the bottom of what it was for and who it was to and I 
+think it ought to have sufficiently tested their story to satisfy itself it was plausible. 
+That said, had it done so, I dont think it wouldve prevented the fraud that later occurred. I 
+say this because the first transfer Mr L made was genuine. So had he been asked about it I 
+think its likely he wouldve given persuasive answers to any questions. 
+I wouldve expected TSB to be on the look out for any potential risk of fraud and scams and 
+if identified, I wouldve expected it to have provided Mr and Mrs L with targeted warnings and 
+information around how to protect themselves. But the payment it ought to have discussed 
+further with Mr and Mrs L was a genuine payment to a trusted family member. So I dont 
+think its likely TSB reasonably wouldve identified any potential fraud or scam related to this 
+payment or given them any information that mightve prevented the scam that later occurred.
+Mr and Mrs L have said TSB shouldve intervened every time Mr L made a payment to a 
+new payee but I dont agree. When TSB is looking for unusual activity, its taking a number 
+of different factors into account and comparing the transaction to a general pattern of 
+behaviour. So I wouldnt reasonably expect it to block every transaction because of one 
+factor, such as a new payee, if the other aspects of the transaction didnt seem unusual. 
+In this case, Mr and Mrs L had made a number of transfers for similar amounts by the time 
+they transferred the £25,000 to the scammer and theyd spoken to the bank and confirmed 
+the first in the series of payments was a genuine payment, as were the subsequent seven 
+transfers. So I dont think the transfer to the scammer was significant unusual as it was in 
+line with Mr and Mrs Ls spending in the days leading up to it.
+Ive also carefully considered Mr and Mrs Ls additional points around the wider 
+circumstances they feel should be taken into account in this case. But having considered 
+what theyve said carefully it hasnt changed my decision which has been made focussing on 
+the individual circumstances of this complaint. Based on the evidence Ive seen, on balance, I think TSB reasonably ought to have 
+questioned Mr and Mrs L more when it blocked the first payment. But, had it done so, I dont 
+think this wouldve likely prevented the scam Mr and Mrs L later fell victim to. So whilst I am 
+sorry to hear about what theyve been through, I cant fairly tell TSB to reimburse the money 
+they sent to the scammer.
+Should TSB have done more to retrieve the funds?
+When TSB was alerted to the fraud that had taken place, according to its records, it 
+contacted the receiving bank right away to try and recall the funds which is what I would 
+expect it to do in the circumstances. 
+After some initial confusion in its responses to TSB, the receiving bank has confirmed to our 
+service directly that by the day Mr L reported the fraud to TSB the money had already been 
+removed and so couldnt be returned to Mr and Mrs L. 
+My final decision
+My final decision is that I dont uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr L and Mrs L to 
+accept or reject my decision before 18 June 2021.
+ 
+Faye Brownhill
+Ombudsman

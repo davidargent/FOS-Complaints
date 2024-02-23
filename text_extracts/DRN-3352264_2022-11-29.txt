@@ -1,0 +1,214 @@
+DRN-3352264
+The complaint
+Miss K has complained that Trading 212 UK Limiteds (Trading 212) trading app crashed, 
+and her account was frozen. As a result, she suffered a financial loss which she wants put 
+right.
+What happened
+Miss K had an investment pie with Trading 212 which contained several instruments. On 28 
+January 2021 Trading 212s trading app crashed, and her account was frozen. The app just 
+said calculating for her pie and Miss K wasnt able to take any action with her investments. 
+Miss K said that usually when she moved her investments around on the pie it on took a few 
+minutes to rebalance. She referred to a particular shareholding  GameStop (GME)  which 
+had skyrocketed on the day and that she was aware other customers werent able to use 
+their app either. Miss K thought Trading 212 had frozen the app on purpose to stop people 
+making a profit. She said this sounded like market manipulation by Trading 212. 
+Miss K didnt receive any response from Trading 212 when she made contact. The money 
+she held was very important to her and the situation was very stressful, for which she 
+wanted compensation for both.
+In response to her complaint, Trading 212 said the following;
+When trading in stocks which were imported into her investment pie, the pie would 
+need to be rebalanced  a process which submitted market orders to be executed. 
+Those orders were executed according to market conditions which determined the 
+time and order they would be executed if there was going to be a delay as well as the 
+possibility that an order may be cancelled.
+It referred to clause 10.4 of its client agreement which referred to market conditions 
+affecting the time it takes for orders to be executed.
+And it also referred to clause 10.9 where Miss K had acknowledged and accepted 
+there may be a delay in order execution. 
+Clause 10.15 explained that market conditions could cause temporary delays to the 
+execution of orders. And that it would not accept any liability for potential or actual 
+losses that could be suffered. 
+When cancelling a rebalancing process of the pie Miss K had automatically submitted 
+a request for all her filled orders to be cancelled. It referred to Clause 10.13 of its 
+terms about cancelling the execution of an order. 
+Miss K had agreed that Trading 212 wouldnt be liable for technical issues on its 
+platform and referenced clause 25.1 for events beyond its reasonable control. 
+The technical difficulties the app faced on the day didnt have any influence over the 
+execution or cancellation of her orders. Her order had been filled and executed in 
+accordance with market conditions and its legal obligations. 
+Our investigator who considered Miss Ks complaint didnt think it should be upheld. She 
+said;
+In January 2021 the stock market was extremely volatile in part caused by social 
+media platforms citing interest in certain shares. This caused an extreme strain on 
+the entire trade execution ecosystem worldwide and affected almost all trading 
+platforms.
+Miss K had been trying to sell Naked Brand Group (NAKD) shares but was 
+prevented from doing so, and as evidenced by forum groups, so were many other 
+investors. 
+Trading 212 used an execution intermediary to trade and any orders Miss K placed 
+were simultaneously passed to the broker and were executed in accordance with 
+market conditions. 
+When rebalancing her investment pie Miss K was placing trade orders in the 
+underlying instruments and which was ongoing until all orders had been executed. 
+Any cancellation/further rebalance would cause further delays.
+Miss K had tried to rebalance her investment pie on several occasions between      
+27 January and 2 February 2021 and her holdings were eventually sold on                
+2 February. 
+The share price of NAKD on 26/27 January 2021 increased over 250% and the 
+volume of trades was significant. These shares were very volatile at the time. And the 
+overall volatility of the stock market would have impacted the trades being executed 
+each time a rebalance/cancellation request was made. She didnt think Trade 212 
+had acted unfairly. 
+Trading 212 had delayed in responding to Miss K. it explained that it had received 
+over 20,000 similar queries over the two days which would have impacted on its 
+normal service standard. In a conversation with Miss K Trading 212 had advised 
+there was a risk of execution disruptions. 
+Trading 212s execution intermediary was unable to process orders due to the 
+increased volatility and which wasnt allowing Trading 212 to trade. This was outside 
+of Trading 212s control.
+The investigator had checked Trading 212s terms and the regulators statement and 
+concluded that it had not breached its regulatory obligations and its own terms, and it 
+did all it could for its clients. 
+Miss K didnt agree with the investigator. She thought that what Trading 212 had done was 
+in its own interests and not in the interests of its customers. It was market manipulation and 
+not free and fair trading. Its platform wasnt fit for purpose when the market was volatile, and 
+it had clearly taken advantage of the situation. 
+Miss Ks comments didnt cause the investigator to change her opinion. As the complaint 
+couldnt be resolved it has been passed to me for a decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+In deciding whats fair and reasonable, I must consider the relevant law, regulation and best 
+industry practice, but its for me to decide, based on the information and evidence that I have 
+been given, whats more likely than not to have happened. Having done so, I agree with the investigators conclusion for broadly the same reasons. 
+Based on the evidence Im unable to agree with Miss K that Trading 212 acted 
+unreasonably. Im satisfied that it behaved fairly and in accordance with its own terms and 
+conditions and in line with the regulators statement issued at the time. 
+And after consideration, I dont find that Trading 212 acted in a way that was more 
+convenient for its own rather than its clients interests, or to its own advantage. Trading 212s 
+obligation to act in its clients interest is something Ive taken account of, but my findings are 
+going to be about whether Trading 212 treated Miss K fairly in the context of the particular 
+orders she is complaining about. Ill explain why.
+As a background to the events, during January 2021, and 27/28 January in particular, the 
+stock market was extremely volatile in certain stocks including NAKD. The NYSE halted 
+trading in NAKD six times on 27/28 January 2021 on the limit up limit down basis in order to 
+prevent share price volatility from reaching extreme levels. There had been considerable and 
+unprecedented interest generated in several instruments caused by social media platforms 
+and, as I understand it, as share prices increased, short sellers had to close their positions in 
+order to prevent bigger losses  a so-called short squeeze. Overall, Im satisfied that these 
+were volumes and market conditions that were outside of Trading 212s control. 
+As such, Ive reviewed Trading 212s share dealing service  terms of business to consider 
+how Trading 212 can act when matters are outside of its control and which potentially 
+caused system failures. Below are what I consider to be relevant to this complaint, but not 
+limited to;
+Clause 5.4. We shall not accept Instruction to Deal when: the relevant market is 
+closed for trading; or you do not have enough money in your account to execute the 
+Transaction; or there are events described as Force Majeure in Clause 25.
+Clause 5.12. We shall have the right to introduce new Financial instruments and 
+Market Hours for trading at the Trading Platform and to suspend and/ or remove from 
+the Trading Platform any Financial instrument and Market Hours at our sole 
+discretion.
+Clause 10.4. Market conditions can affect the time it takes to execute Limit Orders, 
+Stop Orders and Market Best Orders and all orders are executed in due turn. We 
+cannot guarantee that a Limit Order or a Stop Order will be executed even if the limit 
+or stop price is reached. We do not accept any liability for any actual or potential loss 
+you may suffer if there is a delay in execution. Market conditions may result in the 
+execution of a Stop Order being at a price above or below the stop price. We may 
+also introduce restrictions on a temporary basis regarding a certain type of Order 
+(e.g. Limit Order, Stop order and/or Market Best Order) in certain or all Investments.
+Clause 10.9. You acknowledge and accept that there may be a delay in the 
+execution of an order because all orders are executed strictly by reference to time of 
+receipt. In particular, an order received when the relevant exchange is closed or not 
+on a Business Day will not be executed until after it next re-opens. We will present 
+that Order for execution when the exchange next reopens or, if a large number of 
+orders have been received while the market is closed, as soon as reasonably 
+practicable after the exchange next re-opens.
+Clause 10.13. Neither of us can cancel the execution of an Order if the Order is 
+executed at a valid quote price and you have confirmed that you want to buy or 
+sell the desired quantity of the relevant Investment.
+Clause 10.15. Market conditions can cause temporary delays to the execution of Orders. It is the clients obligation to make sure that any earlier pending Order(s) 
+is/are cancelled before placing a new Order in the same Investment. We do not 
+accept any liability for any actual or potential loss you may suffer if this occurs.
+Clause 25.1. Whilst we endeavour to comply with our obligations in a timely manner, 
+we shall incur no liability whatsoever for any partial or full default of our obligations by 
+reason of any cause or event beyond our reasonable control, including but not limited 
+to any communications, systems or computer failure, market default, suspension, 
+failure or closure, or the imposition or change (including a change of interpretation) of 
+any law or governmental or regulatory requirement and we shall not be held liable for 
+any loss you may incur as a result..
+Having reviewed those terms, I dont find that the problems and delays Miss K experienced 
+were outside of those terms and conditions. And Miss K agreed to those terms at the outset 
+of her relationship with Trading 212. The terms, clause 10.4, makes clear that the execution 
+of orders can be subject to delays caused by market conditions. And those market 
+conditions were undoubtedly very volatile at the time. When cancelling an order  in this 
+case a rebalancing process of the pie  Miss K automatically submitted a request for all her 
+filled orders to be cancelled. And it referred to Clause 10.13 of its terms about cancelling the 
+execution of an order if that order has already been executed. This suggests to me that if 
+Miss K was rebalancing the pie, and not all of the underlying instruments orders had been 
+completed, if she then cancelled that rebalancing request any underlying orders that had 
+been executed would need to be unwound by further trades. And overall, I think the 
+circumstances at the time gave risk to clause 25.1 and the events were beyond Trading 
+212s reasonable control. 
+I also note that in response to stock market turbulence, on 29 January 2021 the regulator, 
+the Financial Conduct Authority (FCA) issued a statement which said;
+Broking firms are not obliged to offer trading facilities to clients. They might withdraw 
+their services, in line with customer terms and conditions if, for instance, they 
+consider it necessary or prudent to do so. Firms are exposed to greater risk and 
+therefore more likely to need to take such actions during the periods of abnormally 
+high transaction volumes and price volatility.
+We will of course take appropriate action wherever we see evidence of firms or 
+individuals causing harm to consumers or markets.
+Miss K experienced delays and restrictions in her ability to rebalance and trade on her 
+account. This must have been frustrating and upsetting for her when not being able to take 
+the action she wanted. But I think in reality the main cause was because of the stock market 
+turbulence, unprecedented trading volumes and to some extent Trading 212s execution 
+intermediarys own ability to trade and in certain cases its execution intermediary restricting 
+its access to particular instruments. 
+At the time there was unique, unprecedented interest and market activity in certain 
+instruments  including NAKD  which caused an extreme strain on the entire trade 
+execution ecosystem worldwide and affected almost every trading platform.                  
+27/28 January 2021 saw record trading volumes in the stock market, so overall, I dont think 
+its unreasonable to conclude that these were not normal market conditions, and which 
+would impact on a firms ability  including its app facility  to provide its usual services. 
+Bearing this in mind, Trading 212 used the services of an execution intermediary and was 
+reliant on that service in order for it to trade. It didnt have direct access to the market. And it 
+was the execution intermediary that wouldnt allow trading in certain stocks that had been 
+subject to extreme volatility until its own capital adequacy and other issues were resolved. Additional collateral was required by the US clearing houses in order to ensure firms had 
+sufficient liquidity to settle trades which took place two days after the actual trade date. This 
+along with high market volume inevitability impacted on its timing and ability to process 
+trades in all areas it traded.
+This requirement tallies with Trading 212s comment that the outsized trading volumes in the 
+shares generated substantial risk exposures at firms that clear these trades. Trading 212 
+has given us a copy of its conversation trail with its execution intermediary which makes 
+clear it repeatedly made contact to try and resolve the issues after it was made aware there 
+was a problem. And I am satisfied this is an example of Trading 212 taking reasonable steps 
+to execute trades and in my opinion, is consistent with its contractual obligations. Trading 
+212 was simply unable to trade in certain instruments on its platform and the overall market 
+conditions impacted on the timing and execution of trades. 
+Miss K has said that Trading 212s platform wasnt fit for purpose during the volatility of the 
+stock market. But it was unprecedented, and I think evidenced by the over 20,000 customer 
+enquiries Trading 212 said it received as a result. And we know that several of the more 
+volatile stocks trading was interrupted on several occasions which would have impacted on 
+trading in those instruments. In the particular circumstances here, Im satisfied that the terms 
+provided for a situation where Miss K wouldnt always be able to trade or complete orders as 
+and when she chose. Given the wider circumstances and the restrictions, on and put in 
+place, by Trading 212s execution intermediary and in some instances the NYSE, I dont 
+think it would fair and reasonable to say it ought to have executed every trade Miss K 
+wanted immediately. Im satisfied it was that volatility that caused the delays and failures and 
+not any particular shortcomings with the platform.
+And while I accept that Miss K wont be happy with the outcome. I am satisfied that her 
+inability to trade as she wanted and the delays she experienced, were outside of the control 
+of Trading 212. The unprecedented volatility in the instruments and the impact of that on 
+trading was, in my view, one of the vagaries of stock market investment and is one of the 
+risks that an investor takes when investing in the stock market. 
+On balance, I am satisfied that Trading 212 did all that it reasonably could to mitigate the 
+position but the situation was outside of its control, and it probably had very little practical 
+choice in and control over the matter, so I dont find that it is responsible for any losses   
+Miss K says she incurred. 
+My final decision
+For the reasons give, I dont uphold Miss Ks complaint. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Miss K to accept 
+or reject my decision before 27 December 2022.
+ 
+Catherine Langley
+Ombudsman

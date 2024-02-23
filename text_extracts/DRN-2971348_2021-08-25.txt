@@ -1,0 +1,134 @@
+DRN-2971348
+The complaint
+Mr J complained about Barclays Bank UK PLC, trading as Barclaycard. 
+Two payments went from his bank account with another bank, and credited his Barclaycard, 
+in September 2020. Mr J said he only made one of them, and he believes Barclays illegally 
+took the other one from his bank account.
+What happened
+Mr J said hes had a Barclaycard account for many years without a problem. He explained 
+that he usually settled his account in full at the end of each month. To do this, he transferred 
+money from various accounts into his bank account elsewhere, ready to make the payment 
+to Barclays. Mr J said hed sometimes paid his Barclaycard bill by Barclaycards automated 
+phone payment system, and sometimes by bank transfer.
+Mr Js August 2020 statement showed that the amount to be paid was £1,712.70.  At 3.35pm 
+on 4 September, Mr J obtained a mini-statement from his bank, to check he had enough to 
+pay his bill. He had just under £3,000.
+Later that day, Mr J went online to make his payment  but he found that his bank account 
+only showed a balance of £1,258.49. Mr J thought his bank account had been hacked. He 
+made an online payment of £1,258 to Barclays, to avoid late payment charges and reduce 
+the interest he expected to be charged. He then rang his bank straightaway. It told him that 
+the missing funds had been taken by Barclaycard.  
+Mr J rang Barclays to complain. He was told that because of the Covid pandemic, the 
+complaints team couldnt deal with his complaint, and asked him to go to a branch, which Mr 
+J did.
+Mr Js Barclaycard statement showed two credits for 4 September: one for £1,712.70, and 
+the other for £1,258. Barclays returned £1,258 from Mr Js Barclaycard. This left Barclays on 
+12 September, and reached Mr Js bank account on 15 September. 
+Mr J was unhappy that he didnt hear promptly from Barclays about his complaint, and 
+contacted this service. At about the same time, Barclays sent Mr J its final response. This 
+confirmed that two payments had credited Mr Js Barclaycard on 4 September, but it said 
+that Mr J should contact his bank, because Barclays hadnt taken the additional payment. 
+Mr J wasnt satisfied and asked this service to look into his complaint. He said that he 
+wanted his complaint to be upheld, and an acknowledgement that Barclays had acted 
+illegally and even fraudulently. He also believed he should receive some compensation for 
+the stress and aggravation the complaint had caused him.
+Our investigator didnt uphold Mr Js complaint. She looked into the disputed £1,712.70 
+payment, and found that it had been made by the automated phone payment service. 
+Barclays couldnt trace the number from which the call had been made, but it said that 
+whoever made the call would have had to provide personal information, including the card 
+number, and a PIN. It provided an extract from its computer system which showed the 
+incoming call making the £1,712.70 payment had been made at 16:02 on 4 September.
+Mr J offered to obtain his phone records, saying there would be a charge which he would 
+expect Barclays to pay. The investigator said this wouldnt make a difference, because she 
+hadnt been able to find any fault by Barclays. The computer records had shown that a call 
+came in through the automated system, to credit Mr Js account. That wouldnt benefit 
+anyone except Mr J. The investigator also thought Barclays had refunded Mr J in a timely 
+manner, refunding him within five days.
+Mr J wasnt satisfied. He said the refund hadnt reached his bank account until 15 
+September, not 12 September, which had been seven working days not five. He said that 
+Barclays evidence of a call at 16:02 wasnt evidence. He said that if this complaint ends up 
+in a court action, Barclays will also have to provide the date and the phone number which 
+rang in. He said Barclays had used the extra £1,258 to offset against transactions not yet 
+due to be paid, and he believed Barclays had only refunded hm because he had threatened 
+to sue.
+Mr J asked for an ombudsman decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Im sorry that Mr J has been so distressed by what happened. I can see hes spent a lot of 
+time on his complaint, and that he firmly believes hes been the victim of illegality and fraud. 
+My job is to look at the evidence provided by both sides, and to reach a decision about 
+whats most likely to have happened, in all the circumstances of the case.
+Mr J has helpfully provided a copy of his bank statement. This shows the two outgoing 
+transactions to Barclays.
+The disputed one for £1,712.79 is labelled Bcard Bill P/ment CD 9550 under the 
+Description heading. Under Type it has the code DEB.  
+Bill payments are an electronic payment mechanism initiated by the account owner, to 
+transfer money either by phone, online or mobile banking. 
+The type DEB on Mr Js statement indicates that the payment was a debit card payment, 
+made either online or directly with Mr Js bank card.
+A bill payment would be initiated by the account holder, not by the recipient. So the codes on 
+Mr Js bank statement indicate that Barclays didnt take the money, but the money was sent 
+to Barclays by the account holder. 
+This can be seen by the contrast with one of the other transactions on Mr Js bank statement 
+that month. A payment to a utility has a type code DD. This indicates a direct debits. Direct 
+debits are initiated by the receiving organisation, and theyre the only way a recipient can 
+take money out of a payers account  theyre subject to strict rules and can only be taken in 
+line with a payers previously-agreed authority. But the £1,712.79 disputed payment isnt 
+coded as a direct debit. The code DEB shows it was a debit card payment made directly 
+using Mr Js card.
+For completeness, the undisputed £1,258 transaction to Barclays, which Mr J authorised 
+online, is coded BARCLAYCARD VISA followed by Mr Js account number. The Type  code for that is FPO. This stands for Faster Payment Outwards  which is what Mr J 
+agrees.
+So the codes on Mr Js bank statement show that the disputed £1,712.70 transaction was a 
+debit card payment initiated by the account holder. It wasnt a direct debit which is the only 
+way a recipient can claim money.
+I recognise that Mr J is sceptical about the records which Barclays provided about the 
+telephone banking payment. Ive looked at what Barclays has sent. Its a screen print from a 
+computer record, not just an email telling us that the payment was made at 16:02. The 
+screen print shows Mr Js account number, name, date in full, time 16:02, and a number of 
+other bank codes. Viewed impartially  I  accept that this is an accurate computer record of 
+the incoming transaction, and that it reflects that a telephone payment was made to Mr Js 
+account at 16:02 on 4 September 2020.
+There is a standard process when completing a telephone banking payment, involving 
+entering the card number and a four to six digit PIN, and the customer then chooses how 
+much to pay and gives payment details. Its hard to see how the disputed transaction could 
+have been carried out by any third party, because Mr J hadnt reported his card lost, stolen 
+or compromised. Equally importantly, theres also no reason why a third party fraudster 
+would use Mr Js card to make a payment from Mr Js bank to Mr Js Barclaycard.
+I dont consider that its necessary for Barclays to prove what phone number was used to 
+make the payment. Nor would it change the outcome if Mr J were to provide his phone 
+records. The reason is that the phone number isnt something that was used when making 
+the payment. What matters is that an incoming payment was made using the standard 
+telephone banking process, which required knowledge of some of Mr Js personal security 
+information. The phone number isnt relevant to that.
+I also note that the time of 16:02 isnt very long after the timing of Mr Js 15:35 mini-
+statement from his bank, which he obtained in order to check he had enough money in his 
+account to pay that months Barclaycard bill. I also see that Mr J has told us that he has 
+sometimes paid his bill by Barclays automated telephone payment system, and sometimes 
+by bank transfer. So it was a payment method he did use.
+As Ive said above, its clear that Mr J is very distressed about the disputed payment. All the 
+evidence, however, indicates that its more likely than not that Mr J authorised the disputed 
+payment himself. As Ive set out, the two main reasons are:
+- Mr Js own bank statement shows the coding for a debit card payment authorised by 
+the account holder. Its not a direct debit, which is the only way Barclays could have 
+taken the money; and 
+- Barclays computer records show that it was an incoming telephone banking 
+payment, which would have been completed using relevant security codes which 
+only Mr J could have known.
+I recognise that this will be unwelcome to Mr J, who has told us that hes very organised 
+about making sure his accounts are in order and that he pays the correct amount promptly 
+each month. It is, however, easy for anyone to make a mistake, and I hope the explanations 
+here will help Mr J to understand why Ive decided this is whats more likely than not to have 
+happened here. In turn, that means I cant tell Barclays that it has to refund the payment 
+here.
+Finally, Ive looked at the timescales within which Barclays refunded Mr J with the extra 
+payment. The payment credited Mr Js Barclaycard on 4 September, and the refund left Barclays on 12 September, which Mr J said arrived back in his bank on 15 September. I 
+consider this is a fair and reasonable timescale for the refund. 
+My final decision
+My final decision is that I do not uphold this complaint. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr J to accept or 
+reject my decision before 22 September 2021.
+ 
+Belinda Knight
+Ombudsman

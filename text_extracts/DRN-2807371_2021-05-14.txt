@@ -1,0 +1,199 @@
+DRN-2807371
+The complaint
+Mr B placed an order to buy shares on-line with Halifax Share Dealing Limited trading as 
+Lloyds Bank Direct Investments (HSDL) but the order didnt complete, and the shares 
+werent purchased. Mr B complains that this caused him a financial loss.
+What happened
+On 23 July 2020, Mr B placed an on-line order for shares using his HSDL Trade Plan. The 
+order was for a limit price of 30p for shares in a company I will refer to as S. The trade was 
+deleted by HSDL shortly after it had been placed, before HSDL re-instated it several minutes 
+later. The trade was deleted again later the same morning by Mr B and no trade was 
+completed on the day. 
+Mr B says he contacted HSDL through their webchat page on the morning of the proposed 
+trade as he could see that the trade had timed-out. During the webchat, HSDL confirmed 
+the trade hadnt completed and told Mr B theyd deleted the trade in error but re-instated it. 
+Mr B complained to HSDL that because they hadnt completed the trade hed suffered a 
+financial loss of about £2,500. He also complained that after HSDL had cancelled the trade 
+in error, they acted fraudulently in re-instating the trade without his instruction. Mr B brought 
+his complaint to our service on 23 July. 
+HSDL provided a final response to the complaint on 26 September. They said the buy-limit 
+trade wouldnt have completed because the limit price hadnt been met. HSDL accepted they 
+had deleted the instruction from Mr B in error, but said it was re-instated within minutes. 
+They said there was no financial loss suffered by Mr B as they hadnt been able to trade at 
+the buy-limit price. HSDL accepted their service hadnt met Mr Bs expectations when they 
+deleted the trade and failed to acknowledge this when Mr B first made his complaint. HSDL 
+proposed to pay Mr B the sum of £75.00 for the distress and inconvenience caused to him 
+when they deleted the trade in error. 
+Mr B didnt agree with HSDLs final response and one of our investigators looked into things 
+for him. Our investigator thought that HSDL hadnt done anything wrong in respect of the 
+buy-limit trade because the share price didnt remain at the limit price long enough for HSDL 
+to trade. 
+Mr B didnt agree with our investigator. He asked for an ombudsman to decide his complaint 
+and the case was passed to me for consideration. Mr B believes the trade was placed earlier 
+than the HSDL records show and it was executed. He says he has suffered a financial loss 
+and that HSDL acted fraudulently when they re-instated the trade after realising theyd 
+cancelled it in error.
+As I reached a different conclusion to our investigator, I issued a provisional decision and 
+asked both Mr C and Aviva for any further evidence or comments. In my provisional decision 
+I said:
+I understand from Mr Bs comments that he wanted me to confirm I had seen all the 
+correspondence he has sent to our service, together with all the correspondence 
+HSDL have provided. So, I can confirm Ive independently reviewed all the 
+correspondence received and I will make my decision based on the evidence and the 
+comments sent by both Mr B and HSDL. 
+I understand that HSDL will be disappointed with my provisional decision, but I 
+consider they couldve dealt with the trade better than they did. Im satisfied that the 
+way HSDL re-instated the trade several minutes after realising they had deleted it in 
+error wouldve caused Mr B some distress and inconvenience, but their offer of a 
+payment of £75.00 as a remedy was reasonable. However, I do consider it would be 
+too speculative for me to conclude Mr B suffered a financial loss because of the way 
+HSDL dealt with the trade. I will now explain why I have reached this conclusion.
+ Initial Trade 
+It may be useful at this time to deal with the time-line of events on the morning of 23 
+July, as I think this will allow me to explain my provisional decision. 
+Mr B says he set-up the buy-limit trade on-line at 08.00. A buy-limit trade can only be 
+executed at the limit price, in this case 30p, or lower. Mr B says that when he entered 
+the instruction on-line he received a message that it was executing. But after five 
+minutes this message vanished, and he was later told by HSDL theyd deleted it in 
+error. HSDL have provided a screen-shot of the instruction placed by Mr B timed at 
+08:09:59. HSDL have also provided an audit review from their IT Service Desk that 
+confirms the deal time was 8:09:59. So, having carefully checked all the evidence 
+and comments provided I havent seen anything that persuades me the trade was 
+made any earlier than 8:09:59. There is also no evidence to show the trade was 
+executed. 
+Mr B says he contacted HSDL through their webchat at about 08:10 and has 
+provided several screenshots of the chat. HSDL have provided a transcript of the 
+whole webchat showing it started at 08:21. Ive compared the webchat transcript 
+provided by HSDL against the extracts of the screenshots from Mr Bs mobile device. 
+In his screenshot, at 8:35, HSDL confirm they deleted the initial trade. In HSDLs 
+transcript there is the same entry also timed at 8:35. So, because the entry Mr B sent 
+has the same time as the HSDL entry, I consider its more likely the webchat started 
+at 08:21 and its an accurate timeline of the events after this time. 
+Having decided that the trade was likely placed at 8:09.59 but wasnt executed, I will 
+consider what is likely to have happened next. 
+The order was live from 08:09:59 until HSDL deleted it at 08:18:23. HSDLs 
+screenshot records it was cancelled because the limit price exceeded the limit 
+tolerance. HSDL have provided evidence that supports the market offer price for a 
+share in S at 08:09:58 was trading below 30p, but by 08:14:06 it was trading above 
+30p and didnt fall back to 30p for over an hour or so. I can understand why Mr B 
+feels the trade shouldve completed between 08:09:59 and 08:14:06. Indeed, HSDL 
+accept the limit price couldve triggered the purchase at 8:09:59 but say the order 
+didnt complete automatically because their system couldnt find a seller for the 
+number of shares Mr B wanted to purchase. HSDL say they were unable to manually 
+trade in such a short space of time before the price exceeded the 30p limit. 
+I asked HSDL to provide me with evidence they attempted to complete the trade, or 
+that they had taken steps to manually compete the trade. However, HSDL said they 
+couldnt fulfil a trade for the amount of shares Mr B wanted to buy and they didnt 
+provide any evidence to show a manual trade was attempted. Ive seen that between 08:09:56 and 08:14:06 some 546,000 shares were purchased on the market below 
+30p, and I consider it unreasonable that HSDL cant show they attempted to 
+complete the order, or part of it. Instead, HSDL cancelled the order at 08:18:23 and 
+re-instated it at 08:21:59, by which time the share price was over the 30p limit. 
+I appreciate there was a short window of opportunity for the trade to be completed, 
+but I wouldve have expected HSDL and their automated system to have sourced 
+enough shares at 30p or below to fulfil Mr Bs trade at a time when the market was 
+trading 546,000 at that price or below. And if this deal couldnt be made automatically 
+because of internal limits, I wouldve expected HSDL to make reasonable attempts to 
+make the trade manually. Neither of these happened and HSDL closed the deal 
+without further instruction from Mr B. 
+Mr B says he intended buying the shares at 30p and selling them for a profit. 
+However, I do consider its too speculative for me to decide Mr B wouldve done this. 
+I say this because I havent seen any evidence from Mr B to show he regularly 
+bought shares and sold them quickly within a very short space of time. And of 
+course, I cant say at what price Mr B wouldve sold his shares, how many he 
+wouldve sold and whether his intention was to hold the shares for longer than a few 
+hours. I consider its relevant to take into account that the share price rose 
+significantly within the first hour of trading on 23 July, but quickly fell back to below 
+the level of 30p by mid-morning, so it is difficult for me to conclude what Mr B 
+wouldve done during the day. And whether any share dealing wouldve caused a 
+loss or a profit. 
+However, I do understand Mr B feels he missed out on an investment opportunity 
+and I consider HSDL should make a moderate payment of £250.00 to reflect the 
+disappointment this wouldve caused him. 
+Re-instatement of the trade by HSDL
+Ive seen that HSDL cancelled the initial trade and re-instated it. Mr B says that 
+HSDL acted fraudulently when they re-instated the trade. HSDL said theyd cancelled 
+the trade in error, so I dont consider they did anything wrong by re-instating it when 
+they realised what they had done. They were putting Mr B back in the position he 
+wouldve been in if they hadnt cancelled the trade. 
+Ive seen that during the period the trade was cancelled the share price didnt fall 
+below 30p, so I dont consider the actions of HSDL in this regard caused any 
+financial loss to Mr B. Im satisfied that finding out about the cancellation and re-
+instatement added to Mr Bs distress and inconvenience on the day of the trade, but I 
+consider HSDLs offer to pay Mr B £75.00 to recognise the impact on him was 
+reasonable.
+Mr B accepted my provisional decision without further comment.
+HSDL responded and explained Mr B had placed a buy order earlier in the day at 8:08 that 
+couldnt be traded. HSDL say there was no live price available for the quantity of shares Mr 
+B wanted to trade and this prompted an on-line message to Mr B the trade had been routed 
+to a dealer.
+HSDL say Mr Bs subsequent trade, the buy-limit order at 08:09:59, failed because the price 
+exceeded the tolerance. This was sent to a dealer who manually reviewed it at 08:18, by 
+which time the price of the shares was above the limit price Mr B had set. HSDL confirmed 
+this trade was cancelled in error by them and re-instated at 08:21.HSDL say that although my provisional decision stated 546,000 shares were purchased, 
+they dont think this reflects this was the number of shares traded, not the number of shares 
+purchased. They say that typically, when a stock rises strongly, buy orders are difficult to 
+execute electronically due to an increase in buyers with limited stock availability. HSDL say 
+this is evidenced when Mr B tried to buy shares at 08:08 but the order was unable to be 
+traded electronically.
+HSDL say Mr Bs order was handled in accordance with their agreed Order Execution Policy. 
+The order was reviewed in fair and due turn by their dealing team and theyd fulfilled the 
+obligations set out in the customer agreement. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Ive noted the comment from HSDL that my provisional decision quoted 546,000 shares had 
+been purchased. The documents provided by HSDL didnt explain that these were share 
+trades, only that they were the prices for the shares. In view of the representations from 
+HSDL in this regard Im persuaded that there were 546,000 shares traded, rather than 
+purchased, between 08:08 to 08:18:23 on the day. However, Im satisfied this has no 
+material impact on my decision.
+The other comments from HSDL dont change my opinion and Ill now explain why.
+Ive noted the 8:08 trade that HSDL have now provided, but its clear that the on-line prompt 
+told Mr B the trade was being re-routed to a dealer. Mr B then, almost immediately, placed a 
+buy-limit order at 08:09:59. So, it seems reasonable for me to conclude Mr B wasnt 
+proceeding with the 08:08 trade and that his complaint is more about the 08:09:59 trade and 
+what happened to it.
+HSDL point out that the buy-limit trade failed because the limit price was exceeded. I 
+understood this to be the case and referred to it on my provisional decision. HSDL say this 
+trade was manually routed to a dealer. It was reviewed at 08:18:23, and when the dealer 
+couldnt make a trade, it was deleted. I addressed this matter in my provisional decision too.
+The crux of this complaint is that Mr B placed a buy-limit trade but HSDL, or the dealer they 
+routed it to, didnt review it for almost eight and a half minutes. During this time Mr B 
+wouldve been left wondering what was happening to his trade, whilst at the same time 
+watching the market move against him.
+HSDL pointed me to their terms and conditions and Ive seen these explain what can happen 
+in extreme market conditions. They say that where HSDL cant make the deal electronically 
+they will route the trade to a dealer to compete it manually. In the Trading Fairly section of 
+their Direct Investments order execution policy, HSDL say, We will always try to put trades 
+through in the order we received them, but there may be some exceptions. For example, if 
+markets are very busy, we may need to take other steps to better manage the queue of 
+orders to make sure we get you the best price promptly. Well let you know if we have any 
+problems in carrying out your order.
+I asked HSDL to provide evidence of when and where Mr Bs deal was placed in their queue, 
+but they didnt provide anything that would help me. So, it doesnt seem unreasonable for me 
+to conclude that the trade wasnt reviewed for eight and a half minutes. During that time 
+HSDL didnt keep Mr B informed about what was happening. I dont consider the on-line 
+prompt, Place Order failed  Error: 100 3434: Limit Price exceeds the Limit Tolerance, is a clear explanation to Mr B that HSDL had decided to route this trade to a dealer. Trading is 
+now electronic, so Im persuaded that eight and a half minutes to review a trade isnt what Mr 
+B wouldve been expecting, and HSDL failed to provide any meaningful update on the trade 
+to him during this time. I can understand why Mr B believed the trade had timed-out. 
+When HSDL told Mr B the 08:08 trade was being routed to a dealer he quickly replaced it 
+with a buy-limit order. This persuades Mr B was looking to trade quickly as the market was 
+moving against him. The delay in HSDL reviewing the trade meant Mr B was unable to 
+consider amending his trade, either the number of shares to buy, or the limit price he was 
+prepared to buy at.
+I remain satisfied Mr B missed an opportunity to invest because of the delay and lack of 
+information from HSDL, and that HSDL caused Mr B some distress and inconvenience when 
+he found out they had cancelled his buy-limit order at 08:18:23.   
+My final decision
+My final decision is that I uphold this complaint. To put things right Halifax Share Dealing 
+Limited, trading as Lloyds Bank Direct Investments should do the following:
+Pay Mr B £250.00 to reflect the missed investment opportunity he suffered on 23 July
+2020; and
+Pay Mr B the sum of £75.00 to reflect the distress and inconvenience caused when
+he found out the trade had been cancelled and re-instated the same day.
+ Under the rules of the Financial Ombudsman Service, Im required to ask Mr B to accept or 
+reject my decision before 11 June 2021.
+ 
+Paul Lawton
+Ombudsman

@@ -1,0 +1,124 @@
+DRN-4193591
+The complaint
+Ms K has complained that Lloyds Bank PLC (Lloyds) has refused to refund her money she 
+lost as the result of a scam.
+What happened
+Ms K was looking to invest money and found an advertisement online for investing. Ms K 
+signed up online with her contact details. She was subsequently contacted by a scammer 
+who claimed to be a specialist in trading. As this was of interest to Ms K, the scammer 
+proceeded to ask Ms K to download remote access software so they could help Ms K 
+trade.
+Ms K was convinced to make debit card payments to Plus Options which were as follows
+Transaction 
+NumberDate Merchant Amount Running Total
+1 13/07/2017 Plus Option £250 £250
+2 14/07/2017 Plus Option £500 £750
+3 17/07/2017 Plus Option £2,500 £3,250
+4 17/07/2017 Plus Option £2,500 £5,750
+5 17/07/2017 Plus Option £5,000 £10,750
+Ms K later attempted to withdraw her funds from Plus Options but she was unable to do so. 
+Some years later Ms K realised that she had been scammed. Our Investigator considered 
+Ms Ks complaint and thought it should be upheld. She thought that as there was an 
+International Organization of Securities Commissions (IOSCO) warning over a month prior 
+to the first transaction and as such it should have triggered Lloydss fraud prevention 
+measures, and it should have stepped in at this stage to ask probing questions about the 
+payments.
+I issued a provisional decision on 30 August 2023 in which I said the following;
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+The circumstances of this complaint are not in dispute and the evidence provided by both Ms 
+K and Lloyds set out what happened. What is in dispute is whether Lloyds should refund any 
+of the money Ms K lost because of the scam.
+Ms K has accepted she authorised the payments she made to Plus Option, so the starting 
+point here is that Ms K is responsible for making the payments. However, banks and other 
+Payment Services Providers (PSPs) do have a duty to protect against the risk of financial 
+loss due to fraud and/or to undertake due diligence on large transactions to guard against 
+money laundering.
+I note that there was an FCA warning about Plus Option although the FCAs announcements 
+came after Ms K made her payments, there were though warnings about the company on 
+the International Organization of Securities Commissions (IOSCO) website which pre-dated 
+her payments. I note Lloyds comments on this point as it says it does not use IOSCO but 
+Lloyds should be aware of our approach that it is good industry practice for firms to have up- 
+to-date watch-lists which cover the common types of scams and potential fraudsters and for 
+those watch-lists to be communicated internally with staff within one month of an alert being 
+posted by the FCA or IOSCO. Such an alert should automatically trigger its systems and 
+lead to payments being paused, pending further intervention  such as making enquiries 
+and/or giving a scam warning. Given the existing IOSCO warning I think Lloyds ought to 
+have intervened when Ms K tried to make the first debit card payment.
+So I believe at this stage, Lloyds should have stepped in and asked Ms K in depth questions 
+to find out what the payments related to. Had Lloyds stepped in at this point, I think its likely 
+Ms K would have explained the reason she was suddenly making payments from her card to 
+Plus Option.
+Lloyds would likely have discovered that Ms K was allowing a third-party access to her 
+computer and that the funds sent to Plus Option were intended to be traded on her behalf by 
+a third party. This has all the hallmarks of a scam. Im satisfied that a warning to Ms K from 
+her trusted bank would have probably alerted her to the common issues arising in relation to 
+scams, which in turn would have revealed the truth behind the scammers representations. 
+This would have probably stopped Ms K in her tracks. So, but for Lloydss failure to act on 
+clear triggers of potential fraud or financial harm, Ms K probably wouldnt have continued to 
+make the additional payments.
+Despite regulatory safeguards, there is a general principle that consumers must still take 
+responsibility for their actions. In this case, Ms K has confirmed that she did not do any 
+research on Plus Option - which I would have expected someone to have done when making 
+an investment with a company.
+I can also see from the documents provided that Ms K was promised potential returns of 
+over 100% in 30 Days, which is more than a little unrealistic. I can also see that Ms K was 
+promised unrealistic cash bonuses that would make no sense for a professional company to 
+offer, such as if Ms K invested £10,000 Plus Option would credit her a bonus of £5,000 and 
+this would give her a potential pay out of £26,250. All of this sounds too good to be true. 
+Even for an inexperienced investor, I think this ought to have prompted concerns and led Ms 
+K to question what she was being offered, but it doesnt appear that any of these warning 
+signs were acted upon. As a result, I intend to say that a deduction in compensation of 50% 
+in recognition of Ms Ks share of responsibility is warranted, which I consider to be fair and 
+reasonable in the circumstances.
+Putting things right
+I currently intend to tell Lloyds Bank PLC, trading as Lloyds Bank, to do the following:
+1) Refund 50% of the disputed transactions;2) Pay simple interest on the above amounts at 8% per year, calculated from the date each 
+payment was made, until the date of settlement (less any tax properly deductible).
+In response to my decision Ms K did not disagree, Lloyds responded and raised a number of 
+points, these included:
+The IOSCO warning is not sufficiently detailed and different variations of the 
+company name do not bring up the same warning and it would not be fair or 
+reasonable to draw a conclusion that a UK based bank would be able to act with 
+such limited context and without comprehensive evidence
+They have limited ability to prevent debit card payments
+There was no FCA warning until after the transactions.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+I would like to stress that I have considered all of the points that both parties raised but I will 
+focus on what I think is most relevant to the outcome of this complaint.
+Lloyds has argued that IOSCO warning was not sufficiently detailed as the name featured on 
+Ms Ks statement wasnt an exact match for the name featured in the IOSCO warning. I 
+accept the company name is shown differently on the statement, but I dont think that a 
+hyphen in the name is enough of a difference to have made Lloyds think that the warning 
+related to a different company. I think Lloyds systems should reasonably have detected that 
+the name was practically identical to one with an IOSCO warning and should have, at the 
+very least, prompted a conversation with the consumer prior to the transactions being 
+approved.
+Lloyds has said that it has limited ability to prevent debit card payments, but it can stop them 
+if it believes that there is a possibility of fraud or a scam.
+I accept that there was no FCA warning at the time, but for the reasons given above, I think 
+that an IOSCO warning was sufficient to prompt a conversation with Ms K. 
+I also remain of the opinion that had a conversation occurred Ms K would have explained 
+what she was doing and Lloyds would have been able to highlight that it was likely that she 
+was being scammed. I say this because a probing and detailed conversation would have 
+uncovered that Ms K was buying crypto that she was forwarding on to a trading platform 
+and that she had allowed third party access to her computer. All of this points towards a 
+scam. So whilst I note that the IOSCO warning relates to Australia I think it was enough to at 
+the very least prompt a discussion with Ms K and I think a warning at this point from her 
+trusted bank would have stopped Ms K from investing.
+So for the reasons above and in my provisional decision I think that this complaint should be 
+upheld in part.
+Putting things right 
+Lloyds Bank PLC, trading as Lloyds Bank should do the following:
+1) Refund 50% of the disputed transactions;2) Pay simple interest on the above amounts at 8% per year, calculated from the date each 
+payment was made, until the date of settlement (less any tax properly deductible).
+My final decision
+For the reasons given above, my decision is that I uphold this complaint in part and require 
+Lloyds Bank PLC, to put matters right as set out above.
+Under the rules of the Financial Ombudsman Service, Im required to ask Ms K to accept or 
+reject my decision before 26 October 2023.
+ 
+Charlie Newton
+Ombudsman

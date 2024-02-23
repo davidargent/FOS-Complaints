@@ -1,0 +1,149 @@
+DRN-3299556
+The complaint
+Mr G complains that technical issues with IG Markets Limiteds mobile application 
+prevented him from trading, causing him financial losses. He also complains about their 
+approach to margin calls.
+What happened
+Mr Ms position
+Mr M held a Contracts for Difference (CFD) account with IG Markets Limited (IG). On 8 
+December 2021, he says he tried to access his account via the application on his mobile 
+phone with the intention of trading but kept getting error messages so was unable to do this. 
+He says the mobile application failed to connect to IG servers despite there being no issues 
+with his network coverage. He says when he was able to login in, he attempted to open 
+positions in SFE, but the application closed his already open positions. He says this left him 
+with a loss of around £1530.
+He was unhappy IGs approach to the margin call closure of his position on 9 December 
+2021 at 18:27. He says he was given 15 minutes between receiving IGs shortfall of funds 
+notification and when the positions were closed out. He received an earlier margin call on 30 
+November 2021 where he says he was given over 3 hours. He says the disparity in IGs 
+treatment of margin calls between the two positions has cost him around £3500.
+On 10 January 2022, he attempted to open a single bitcoin position but says he received an 
+error message. He therefore attempted to trade three more times and then found all four 
+were successful. When he complained to IG, they made him good will payment of £243.09.
+On 11 January 2022, he attempted to close a further position which he says was opened 
+with the intention of it being a quick trade, but the mobile application wouldnt connect 
+despite having full signal. He says this left him around £500 out of pocket.
+He also says IG service high risk products but have systems in place to make sure its an 
+uneven playing field and the client is the one who suffers.
+To resolve his complaint, he would either like his positions to be voided and losses 
+reinstated or for IG to re-open the positions at the original prices so he can close them of his 
+own accord. 
+IGs position 
+They issued their final response in February 2021. In relation to the SFE positions, that Mr G 
+already had an order to sell his positions and wouldnt have been able to close the same 
+positions on the mobile application at the same time. SFE stock was unborrowable stock in 
+the market at that time and so he could not take any short positions online. They say the 
+orders were not rejected because of any fault of IG and were correctly rejected.
+They say Mr G failed to understand IGs margin policy, that he had to maintain the account 
+equity above 50% of his total margin. They say his margin fell to 48.1% in November 2021 
+and 45.4% in December 2021 and so his positions had correctly closed as a result of margin 
+call. 
+They also considered his complaint in relation to the Bitcoin positions on 10 and 11 January 
+2022. IG say there was no technical issue with the mobile application and any issues Mr G 
+incurred are more likely to be localised issues on his end. They also say, he could have re-
+entered the market straight away to make up for all the affected positions, as he had become 
+aware of the closure of his positions almost immediately, but he chose not to do this. 
+IG accept online trading was restricted for short positions for a period of seven minutes 
+between 8:29pm and 8:36pm at which point Bitcoin status changed to phone dealing only. 
+They say this was done because a potential pricing issue had been flagged and so was not 
+done in error. 
+Unhappy with this outcome, Mr G brought his complaint to this service.
+Investigators view
+The investigator here didnt uphold his complaint. He concluded the following:-
+1. There was no issue with the businesses systems and Mr Gs attempts to trade in 
+SFE stock were rejected correctly due the short sell stock being unborrowable on the 
+market.
+2. The margin equity requirements are that the account needs to be maintained at a 
+minimum of 50%. How quickly the margin moves from 50% to below this is entirely 
+dependent on how quick the markets move. When the margin falls below 50%, IG 
+can close his positions, which is what they did here.
+3. He didnt think the issues with Bitcoin were because of any mobile application 
+failings. He said Mr G had failed to enable the force open function which meant he 
+wasnt able to open the new positions and it closed his already open positions. He 
+didnt think IG were responsible for any of his losses. The investigator acknowledged 
+that £243.09 and already been paid to Mr G and confirmed, IGs offer of £252.93 to 
+refund losses incurred in the first position was still open for acceptance.
+Mr G didnt accept the investigators view, so this has come to me for a decision. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+In deciding what is fair and reasonable, I must consider the relevant regulation and best 
+industry practice, but its for me to decide, based on the information and evidence that I have 
+been given, whats more likely than not to have happened. Having done so, I am not 
+upholding this complaint and for broadly the same reasons as the investigator. I will explain 
+further.
+Trading in SFE 
+Mr G says there were issues with the IGs mobile application, when he tried to open SFE 
+positions, it closed his previously opened positions. Ive looked at his account summary to 
+see the different positions he mentions. I could see he had an existing long position at 
+10:42:04 of £300 per point and he had placed an order to sell it - this was in addition to his 
+later attempts to close SFE positions. While there is an order to sell being worked already, Mr G wouldnt have been able to sell the same positions online on the platform or mobile 
+application. 
+Mr Gs additional attempts to sell were considered short trades but because SFE stock was 
+restricted for a period and unborrowable in the market, customers were not able to short 
+positions online. This would explain why his attempts to trade were rejected and so I am 
+satisfied there was no IT issue with the mobile application which was preventing him from 
+trading. 
+Margin Call
+I think it is important to outline what the obligations are on Mr G and IG with regards to 
+margins. The terms and conditions of the Customer Agreement confirms that he is 
+responsible for maintaining his account margin, and that this should be maintained above 
+the required minimum of 50%. As professional client with an execution only account, this 
+remains his responsibility and is not for IG to manage this. 
+IG are not obliged to send customers a notice of margin call, but I have seen copies of an 
+automatically generated notice which was sent to Mr G by email when his account margin 
+fell below 100% and then at 75%. Where the margin hasnt been maintained above 50%, IG 
+are within their rights to close any open positions.
+This is what happened in Mr Gs situation. His account margin fell below 50%, so he had to 
+ensure he added sufficient funds to increase the margin to the required amount and 
+safeguard any open positions. On 30 November his positions were closed after his account 
+margin dropped to 48.1%, and again on 9 December when his account margin fell to 45.4% 
+and IG closed his positions in order to bring his account within the margin, so Im satisfied 
+his positions had correctly closed as a result of margin call.
+To address Mr Gs concerns around the lack of consistency between the way both margin 
+calls were managed and not having enough time in December to manage the margin. There 
+is no particular time frame or requirement to allow sufficient time between notifications. The 
+movement in the market dictates the prices and how quickly the margin drops below the 
+required levels. It is not possible for IG to ensure any consistency in these areas, and this is 
+something entirely outside of IGs control, so I dont think it is fair or reasonable to use a 
+situation outside of their reasonable control to determine there was a lack of consistency on 
+IGs part. 
+Trading in Bitcoin
+Mr G complained about Bitcoin positions on the 10 and 11 January 2021, that he tried to 
+open positions but kept receiving error messages and later found all the positions had 
+opened and when trying to open positions these closed his existing open positions. 
+Ive looked at the positions Mr G complains of. IG has sent us his account ledger of the day 
+he complains of, which show the Bitcoins positions were closed due to force open error. 
+Both IG and the investigator have discussed the force open option on the mobile 
+application; the issue around this is whether Mr G had opted into this or not. Hes provided 
+evidence showing he had opted in, but I can see this only shows the day after the event he 
+is complaining of. On the other hand, the records of activity on the mobile application clearly 
+shows his account is set as N for not activated because he hadnt already opted into force 
+open when he tried to open the Bitcoin positions. 
+When the consumer hasnt opted into this, they are not able to long and short on the same 
+instrument. As a result, the default position applied to his trading on that day and the mobile application would net off by closing an already open position where he tried to sell on the 
+same instrument. I am satisfied with IGs explanation that this is why his positions were 
+closed instead of opening a new short position.
+IG confirmed that restrictions were placed on Bitcoin online trading for a period of seven 
+minutes which may explain some of the issues Mr G was having. However, IG were within 
+their rights to suspend access to the online trading and in signing the Customer Agreement 
+when his account was opened, he agreed to the terms outlined.
+It is also important to note that these restrictions were limited to the online platform only; 
+customers were still able to call IG to place orders via a broker. I take on board Mr Gs point 
+that phoning brokers may be an outdated system, but in the event where an issue is 
+identified with online trading, phoning brokers to trade, offers an alternative to limit the 
+potential impact of any restrictions. In these circumstances, it would also mean there could 
+have been an increased demand on their phone lines so speaking to a broker may take 
+longer than usual. Having considered everything, I havent seen any evidence that IG had 
+done something wrong. 
+I appreciate Mr G will be disappointed with my decision, particularly as he raises concerns 
+around IG having systems in place to make sure its an uneven playing field. If he does 
+continue to have any concerns in relation to the way in which IG operates, he could refer his 
+complaint to the regulators, the Financial Conduct Authority.
+My final decision
+My final decision is that I am not upholding this complaint against IG Markets Limited.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr G to accept or 
+reject my decision before 10 April 2023.
+ 
+Naima Abdul-Rasool
+Ombudsman

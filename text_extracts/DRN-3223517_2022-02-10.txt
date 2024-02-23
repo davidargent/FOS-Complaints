@@ -1,0 +1,161 @@
+DRN-3223517
+The complaint
+Mr B says IG Markets Limited (IG) is responsible for his financial loss and loss of 
+opportunity resulting from margin call close-outs, on 9 March 2020, of open Glencore, 
+Barclays and BP positions in his IG trading account. He mainly says:
+IG failed to give him prior notice of margin breach/close-outs as he was entitled to. 
+[issue 1]
+There was an error in IGs payments/funding system that made it unfit for purpose at 
+the time and that prevented him from funding his account in the morning of 9 March 
+2020 to stop/mitigate the close-outs. This unfairly defeated the responsibility IG 
+placed upon account holders like him to manage margin in the account. IG concedes 
+this system fault; operation of the system was completely under its control and 
+responsibility (not a third partys); none of its terms of business disclaim liability in this 
+respect; and it is obliged to make good the losses he has incurred because the 
+system fault prevented him from mitigating the close-outs. In addition, he tried to get 
+through to IG by telephone at the time but that too was impossible. [issue 2]
+The close-outs were badly applied to his position, in a way that failed to minimise his 
+losses  minimal losses could have been achieved by closing positions that would 
+have liberated more margin to keep others open. [issue 3]
+IG disputes the complaint. It has offered Mr B £500 in compensation for the system error 
+matter in issue 2, but it says his claim for hypothetical financial loss in the issue is baseless.
+What happened
+One of our investigators looked into the complaint. She issued an initial view and then 
+considered both parties responses to her view  and to additional queries she put to them. 
+Thereafter, she issued a second view. In both views, she concluded that the complaint 
+should not be upheld. Overall, she said:
+There is no merit in disputing the margin call and none in issue 1. The terms for the 
+account and the margin related requirements (for retail clients, like Mr B, trading 
+Contracts for Differences) set by the European Securities and Markets Authority 
+(ESMA) provided that he had to maintain over 50% of Required Margin (RM) in the 
+account, otherwise close-outs can/will be applied to open positions in the account. 
+The close-outs happened when equity in his account dropped to 49% of RM, so they 
+were legitimately triggered and applied. IGs terms and website gave no undertaking 
+that prior notice of close-outs would be given to account holders, they referred to IG 
+endeavouring to give such notice but they also stated that this was not guaranteed 
+and that this would be unlikely where the margin breach happens swiftly  and in Mr 
+Bs case the breach happened in a matter of seconds.
+There is also no merit in issue 3. IG had no obligation to analyse Mr Bs open 
+positions in order to determine a cost-effective approach to the close-outs. Instead, it 
+had to act quickly with the close-outs, in response to the margin breach and to fast 
+moving/time sensitive market conditions, so the approach that Mr B would have 
+preferred would not have been viable or reasonable in the circumstances. IG 
+operated a first in first out approach to the close-outs, which is not uncommon in the 
+sector. Furthermore, the notion of IG taking a methodical approach to the close-outs 
+could have undermined its execution only service.
+IG concedes its responsibility for the system error in issue 2 and it has offered 
+reasonable compensation of £500 to Mr B in this respect. He claims financial 
+loss/lost opportunity with regards to the positions he could have kept open, for the 
+long term (and on more favourable financing terms than he would get if he reopened 
+them after the close-outs), but for the system error preventing him from funding his 
+account (after the close-outs began). However, his positions were already running 
+losses; he says he would have kept them open for as long as necessary until they 
+showed profits and that his trading strategy was to hold positions long term; but 
+evidence of his past trading shows his use of a mixed strategy (long and short term 
+trades) so this does not support his assertion as he has presented it; IG has referred 
+to evidence that, since the close-outs, he has not re-opened any of the positions that 
+were closed; evidence of what he would have done can be found in evidence of what 
+he actually did, so the fact that he has not re-opened the positions (and despite his 
+explanation that he did not do so because he sought to avoid higher financing costs) 
+does not support his claim that he had a long term plan for them; and evidence about 
+the potential financing costs to maintain the positions up to around late 2021  based 
+on the prices of the positions around that time and because, in the main, those prices 
+had yet to recover past the opening prices for his positions  suggests his claim 
+was/is not viable.
+Mr B disagreed with this outcome. He maintained his claims in the complaint issues, as 
+summarised above, and he stressed that IG had failed to uphold a duty of care to ensure the 
+payment system was fit for purpose  with regards to which he noted that IG had 
+experienced similar system outages in the 12 months prior to March 2020 but had 
+nevertheless neglected to upgrade its system. IG agreed with the investigators conclusions, 
+which broadly upheld its main submissions in the matter. A referral was then made to an 
+ombudsman.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I am satisfied that the investigator gave Mr Bs case thorough treatment and 
+a fair assessment. I have reached the same conclusion that she reached and I share the 
+same reasons that she gave  I endorse both and incorporate them into this decision.
+It would appear that the thrust of Mr Bs arguments and submissions, after the investigators 
+views, focused on issue 2. I consider that a sensible approach on his part because the facts 
+of his case simply do not lend themselves to the notion of upholding issues 1 and 3. 
+As the investigator said, the terms for his account and the relevant ESMA requirements 
+meant that upon equity in his account dropping to 49% of RM, as it did, a margin breach 
+happened and margin call close-outs of his positions  triggered by that breach  could and 
+were to be applied. I consider that his reference to expecting prior notice of the close-outs is 
+sincere. However the provisions for such notice, as set out across IGs website and its terms 
+for the account, made it clear that IG was not obliged to give such notice, that it would 
+endeavour to give such notice where it can, that there was no guarantee in this respect and 
+that such notice would be unlikely particularly where the margin breach happens swiftly. Available evidence is that the margin breach in Mr Bs account happened within a few 
+seconds  as can often be the case in leveraged trading. Overall, there are no grounds to 
+uphold issue 1.
+The same applies to issue 3  there are no grounds to uphold it. Primarily, the management 
+of Mr Bs open positions was his sole responsibility, as was the monitoring of his trading 
+account (including the open positions and the state of margin in the account). IG did not 
+share that responsibility and there was nothing in its terms for the account that said it would 
+conduct margin close-outs in a manner suitable for him. A margin call close-out is not the 
+same as closing a position as part of trading management. Its purpose is to address the risk 
+(for the firm and the accountholder) of trading losses going beyond a particular/set margin 
+allowance, potentially going beyond the accountholders financial means and potentially 
+getting out of control. The management of open positions, in terms of analysing and 
+selecting which to close in order to create or maximise opportunity for others to progress, 
+does not feature in this context. As the investigator said, the first in first out approach to 
+close-outs is not uncommon in the sector. Other approaches (such as last in first out) are 
+also used. These approaches usually share the characteristic of seeking to apply an 
+objective basis on which close-outs can happen. To analyse Mr Bs position to the extent of 
+selecting a particular one to close in order to create margin capacity for the others to 
+progress would arguably have been tantamount to trading management by IG, which was 
+beyond the execution only service it delivered for his account.
+IG has conceded that it had a payment/funding system problem on 9 March 2020 and it does 
+not appear to deny responsibility for that. In these respects, Mr Bs submissions are correct 
+and they are also not in dispute. What is in dispute is the nature of redress for the problems 
+effect on Mr B on that date (and/or thereafter). 
+IG essentially says the problem caused him no more than trouble and upset  for which it 
+offered £500 compensation  and that it did not cause him a financial loss because the 
+relevant positions were already making losses at the time of the close-outs; and because, 
+even if hindsight is applied to the matter, up to late 2021 and despite the passage of time 
+since the positions were closed (in March 2020) the market prices for them had never 
+recovered past their opening prices; in some cases prices dropped further; so no future 
+profits were lost in his case; and it could be said that the close-outs saved Mr B future 
+greater losses. In contrast, Mr B says he mainly had a long-term holding strategy for his 
+trading; he would have treated the relevant positions no differently; he would have held unto 
+them until they went into profit; and this was feasible because they were opened on more 
+favourable financing terms that made the costs of keeping them open (for as long as 
+needed) affordable.
+The facts relevant to this dispute lean favourably towards IGs position more than they do 
+towards Mr Bs. It is fair to say his position rests mainly on a hypothesis  one that, as the 
+investigator noted, faces legitimate doubting questions posed by evidence of him having 
+used a mixture of short term and long term holding strategies in the past (not the consistent 
+long term strategy he has claimed/suggested) and by evidence of him not reopening the 
+positions despite his claim that he would have continued to speculate on them and planned 
+to keep them open for as long as necessary, but for the close-outs and the payment system 
+problem. I too consider that his hypothesis arguably falls in the face of these facts.
+Furthermore, the fact is that the positions were closed in March 2020; their prices do not 
+appear to have recovered past their opening or closing levels for the rest of 2020, so no loss 
+of opportunity for profit was incurred in this respect; in the main, their prices also do not 
+appear to have recovered past their opening levels for much of 2021 (until, it seems, around 
+October 2021); so from March 2020 and at least until around October 2021 no loss of 
+opportunity for profit was incurred. I have not seen evidence on which to conclude that it was more likely (than not) that Mr B would have maintained the same positions for 19 months (or 
+more) after March 2020. 
+Mr Bs claim invites me to assume that he would have kept the positions open for however 
+long he needed to in order to make profits on them, but for the reasons given above I do not 
+consider such an assumption to be safe and I do not consider that, based on the balance of 
+facts and available evidence, this was a likely (or a more likely than not) scenario.
+Mr B is correct that IG should make good for the system problem and, in the context of his 
+case, the two main heads of such reparation are compensation for financial loss and 
+compensation for the trouble and upset he was caused by the problem. There is no basis to 
+award him compensation for financial loss  for the reasons given above (and for the 
+additional reason that quantum for his claim in this respect appears to be just as hypothetical 
+as the claim itself)  and I am not persuaded that IG should give him more than the £500 it 
+has offered him for trouble and upset. It is not an unreasonable offer in the circumstances, 
+given that the system problem was remote to the close-outs and that the close-outs and his 
+inability to fund the account (and maintain some of the positions) appear to have 
+inadvertently saved Mr B from greater losses in the positions. I am also satisfied that the 
+offer reasonably extends to covering the trouble and upset caused to him by being unable to 
+reach IG on the telephone on 9 March 2020.
+My final decision
+For the reasons given above, I do not uphold Mr Bs complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr B to accept or 
+reject my decision before 10 March 2022.
+ 
+Roy Kuku
+Ombudsman

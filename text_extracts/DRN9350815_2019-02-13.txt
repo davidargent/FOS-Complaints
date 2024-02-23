@@ -1,0 +1,113 @@
+K821x#15complaint
+Mr H complains that due to errors on IG Markets Limiteds system, his Contract  for 
+Differences (CFD) was closed later than it shouldve been  and he missed out on additional  
+profit. 
+background
+Mr H had a CFD account. On 5 February  2018,  he had open short positions on IGs 
+Germany 30 product which is based on the German stock market. Between 8pm and 
+8.13pm Mr H tried to close these positions. IGs trade history shows:
+8:13:40 an attempt to part close his position at 12286.2 (0.04 contracts) rejected due 
+to an error that said instrument price not found.
+8:13:41 an attempt to part close his position at 12299.7 (0.04 contracts) rejected due 
+to an error that said instrument price not found.
+8:13:51 an attempt to fully close his position at 12304.2 (1 contract) rejected due to 
+the price changing  between  the moment the order was placed and execution. 
+8:14:20 a final attempt to fully close the position  at 12287.7 (1 contract) accepted  by 
+IGs platform and executed. 
+Mr H explains  that the above record on IGs system isnt complete. He says that he tried to 
+close the positions at 8.11pm, when Germany 30 was around 12200. He this wouldve given 
+him a €7,000 profit. Although he says he did place the order to close, this order didnt show  
+up on IGs system.  Shortly  after this, the price  changed and his possible profit  reduced  to 
+€6,000. He tried to close his open trades again, but this time IGs system rejected the order.  
+In addition, IGs system recorded Mr Hs failed  trades to be for 0.04 contracts, not 1 contract. 
+Finally, Mr H managed to close his position at around 8.14pm, when the Germany 30 price  
+was 12287.7.  Mr H eventually made  a profit of just over €4,000.  
+Mr H complained. IG considered his complaint,  but didnt uphold it. It said that the only error 
+he experienced were  for the two attempts at closing 0.04 contracts. It acknowledged that it 
+was experiencing a system error very briefly  during that time which  caused it to reject some 
+trades. It said that it was happy to credit  him with the price he wouldve received  had he 
+been able to close 0.04 contracts  at the time.  However, it didnt  consider  it was responsible 
+for compensating him for the full amount of lost profit for which Mr H was claiming.  
+Mr H didnt agree. One of our investigators looked  into his complaint, and didnt think  IG did 
+anything wrong. In summary,  she considered  there was insufficient evidence  to say that Mr 
+H had previously attempted to close his contract at around 8.11pm. And she thought that IG 
+had provided persuasive evidence  that Mr H had tried to close 0.04 contracts, not a full 
+contract, at 8.13pm.  As agreement couldnt be reached the case  was passed to me to 
+consider. 
+I wrote  to both parties and explained my provisional conclusions. I considered that there  was 
+insufficient evidence  to ask IG to pay out on a trade it had no record  of. So I didnt consider I 
+could look at a loss of profit from the Germany 30 price  at 8.11pm, because there was 
+insufficient evidence  to show that Mr H had tried to place an order  at that time. 
+However, I thought  that the two attempts at part closing his trade at 8.13pm were  
+inconsistent with Mr Hs overall trading pattern  throughout  the day. I thought  that given the 
+issues IG had been experiencing  at the time,  and Mr Hs persuasive  testimony  around  these  
+Ref: DRN93508152two trades, it was more  likely than not that an issue outside Mr Hs control had caused the 
+trades to be placed  incorrectly   or be incorrectly received by IGs platform. So I thought  that 
+where IGs platform recorded two attempts to close 0.04 contracts,  that was in fact Mr H 
+attempting to close 1 contract. I therefore considered  that Mr H should be compensated for 
+the difference in price between he price  he wouldve received at 8:13:40pm and the price  he 
+eventually received. 
+IG disagreed. It said that while it was experiencing technical issues,  these were  purely  due 
+to trade  attempts being rejected. It said that IG didnt experience any issues  with trade sizes  
+simply changing, and it had no evidence that this happened to any other  user. So it 
+confirmed the orders that were  received  were  for 0.04 contracts, not 1.
+It said there was a one second period between the two attempts of 0.04 contracts, and then 
+a 10 second period until the final attempt to close one contract. This suggested Mr H had 
+plenty of time to edit the instruction.
+Mr H didnt agree. He said that given that I had accepted the error on IGs platform, I should  
+also accept his evidence  that he tried to place an order at 8.11pm but this wasnt showing on 
+IGs record of trades. He said it was unfair that he should be penalised  for this, and he 
+claimed that the compensation should  be calculated based on the difference  in price from 
+8.11pm. 
+my findings
+Ive reconsidered  all the available evidence and arguments to decide  whats  fair and 
+reasonable in the circumstances of this complaint.  Having done so, Ive not been  persuaded 
+to change my provisional findings. 
+As I explained to both parties, I think this case is finely balanced. But when considering the 
+evidence as a whole, including Mr Hs testimony, Im persuaded that Mr Hs complaint 
+should be upheld.  
+I accept that IG hasnt found  evidence of other users experiencing an issue  with the size of 
+the orders they placed, but I dont think that necessarily means Mr H didnt experience such 
+an issue. Im satisfied,  on balance, that Mr Hs intended to fully close  his contract when the 
+first of his 0.04 trades  failed to go through. And Im satisfied on balance  that he was 
+prevented from doing so by something outside his control, most likely an error on the 
+platform itself. In those circumstances, I dont think its fair that he should have to financially 
+bear the cost of that. 
+In reaching this conclusion, Ive taken into account  Mr Hs testimony (as well as evidence  
+provided by the software developer) that the software he uses doesnt allow  part closure of 
+trades. Ive also taken into account his pattern of trading throughout the day, as well as the 
+trades Mr H eventually placed. 
+IG has pointed out, fairly I think,  that it isnt uncommon for traders to attempt to part close 
+positions at time of significant volatility. I dont dispute this. But in Mr Hs case, Im not 
+persuaded thats a likely explanation for those two orders. I say this because the price  Mr H 
+was trying to achieve was very profitable for him. If he was trying  to benefit from this price 
+without fully closing  his position, in the expectation  that the price  might  increase further, then 
+attempting to close 0.04 contracts appears to me to be far too small a trade  to be of any 
+financial benefit to him. 
+Ref: DRN93508153I say this bearing in mind  that he attempted to close the trade twice, then a third time for one 
+contract (when this was also rejected  by IGs system) and a fourth time when the trade was 
+accepted. 
+Ive considered Mr Hs comments  I appreciate he feels very strongly that he should  be 
+given the benefit of the doubt. I should  accept his evidence that he tried to close his trade 
+earlier than 8:13pm, when the Germany 30 price was around 12200. 
+Im sorry  to disappoint Mr H, but having  given his comments  further thought, Im not 
+persuaded that this would be a fair and reasonable way to resolve  his complaint. Theres  no 
+record of a trade placed around the time he suggests. And without such a record,  Im not 
+satisfied I it would be fair and reasonable to make a finding of fact that he attempted  to place 
+a trade  but IG made a mistake in not registering it. It would also be very difficult to put things 
+right for him in a way which wouldnt unfairly penalise  IG. 
+putting things  right
+ 
+IG should compare  the price  it eventually gave Mr H when it closed his position  at 8:14:20 
+with the price he wouldve received if it had closed his position  at 8:13:40. If Mr H wouldve 
+made a higher profit by closing his trade earlier, IG should pay this to Mr H and 8% simple 
+interest on that amount from the moment  the profit wouldve been paid to him until the date 
+of settlement. 
+my final decision
+My final decision is that I uphold this complaint. IG Markets Limited must pay the 
+compensation Ive outlined  above. 
+Under the rules  of the Financial Ombudsman Service,  Im required to ask Mr H to accept or 
+reject my decision  before 13 March  2019.
+Alessandro Pulzone
+ombudsman
+Ref: DRN9350815

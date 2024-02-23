@@ -1,0 +1,105 @@
+DRN-3021193
+The complaint
+Mr C complains about his derivative trading account with Interactive Brokers (UK) Ltd (IB). 
+He says that IB didnt correctly manage the closure of his positions during a margin call on 
+his account and didnt allow him to manage the positions himself. Mr C says this caused him 
+increased losses.
+What happened
+Mr C opened a number of E-Mini S&P 500 option positions. He had sold 20 put options with 
+a 2,700 strike price and bought 40 put options at a 2,590 strike price  which Mr C calls the 
+put spread. As well as this he had sold four call options at a strike price of 3,080 and bought 
+four call options with a strike price of 3,100  which Mr C calls the call spread.
+In order to open these positions, Mr C needed to provide an initial margin of just under 
+$29,000 and in order to keep them open, he needed his account equity to be above the 
+maintenance margin of $23,124.55.
+As Mr Cs account fell below the maintenance margin, IB issued a margin call on his 
+account. In carrying out this margin call, IB closed the short call and put positions and later 
+closed the long positions.
+Mr C doesnt think IB fairly executed this margin call as he says these options were paired 
+into a spread trading strategy and ought to have been closed as pairs, rather than the short 
+positions being closed first. Mr C says that by the time the long positions were closed the 
+option prices had moved against him causing him a higher loss than had the options been 
+closed as a pair. During this time Mr C says that he tried to place some orders to manage 
+these positions, but these were rejected by IB. Due to this, he said he also tried to call the 
+trading desk but this call went unanswered after 30 minutes and so wasnt able to trade.
+IB looked into the concerns raised by Mr C but didnt agree that it treated him unfairly in how 
+it closed his positions. In its response, IB said that as the account fell into a margin call it had 
+discretion in how it closed positions to bring the account back within the margin 
+requirements. As Mr C didnt agree with IBs response to his complaint, he asked our service 
+to investigate further.
+One of our investigators looked into what had happened but didnt think that IB had treated 
+Mr C unfairly. He explained that IB didnt have any obligations to take into account any 
+particular strategies when closing positions during a margin call. Mr C didnt agree and said, 
+in summary, that IB had stopped him from being able to manage his account so he couldnt 
+trade or close positions. Had IB have let him trade, hed have closed the positions himself in 
+a better way than IB did  there wasnt anything in the agreements that allowed IB to freeze 
+his account or prevent him from taking action during a margin call.
+Mr C also said he didnt agree with IBs methodology of closing his positions and asked why 
+it waited hours between closing the short and long positions  this meant around $10,000 of 
+profit fell to around $500, he thought this was negligent. And he pointed out that IBs platform 
+hadnt been functional for nearly two hours so hed tried to contact the trading desk for help. 
+ 
+Our investigator didnt think that Mr Cs account had been frozen, it was just that his trades 
+were rejected because the account equity was too low and he reiterated that he thought it 
+was for IB to decide how to execute the margin call. He also noted that IBs 
+acknowledgement of technical issues with the platform had been four days prior to the day 
+Mr C was closed out, so that hadnt had any effect on what happened here. 
+As Mr C remained unhappy, the matter was passed to me to decide.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+I appreciate how strongly Mr C feels about his complaint. Hes provided a detailed 
+explanation why he feels that IB hasnt closed the positions in the way he feels it should 
+have. I appreciate what happened has incurred him a significant loss. But taking everything 
+into account, Im afraid Ive not found that it would be fair to hold IB responsible for the 
+losses Mr C has told us about. I know that will be disappointing for Mr C so Ill explain why. 
+The terms of Mr Cs agreement with IB in trading on its platform say that Mr Cs account is 
+execution-only. As Mr C understands, this means that he would be responsible for the trades 
+he opens and monitoring those to ensure sufficient margin is to maintain these positions. 
+On 9 March 2020, during significant market volatility as markets opened, Mr Cs account fell 
+into a margin deficit. This is where the account balance along with the open profit and losses 
+on his positions is less than the amount needed to keep those positions open. Part 9 of the 
+customer agreement sets out these requirements as well as setting out that IB can liquidate 
+positions to bring the account back within the margin requirements.
+IB provides further detail of what the liquidation process entails under Part 27 (as well as 
+Part 25B(2)) of the terms. This states that when Mr Cs account falls under the margin 
+requirements, IB can:
+liquidate, sell, or close-out any or any part of Customer's Transactions or open 
+positions or the cash, security or other property in any of Customer's accounts, 
+whether carried individually or jointly with others, at any time, in any such manner 
+(including by the entry of offsetting transactions)
+I appreciate Mr C acknowledges these points though  he recognises his account fell below 
+the margin maintenance requirement, and the crux of his concerns is instead around how IB 
+handled the close out. He says IB ought to have closed the option pairs as pairs and this 
+wouldve limited the losses he incurred. But the risks disclosure document did make it clear 
+that IB wasnt obligated to close these positions in any particular way. The document said:
+You are not entitled to choose which securities or futures contracts or other assets in 
+your account(s) are liquidated or sold to meet a margin call. IB has the right to decide 
+which positions to sell in order to protect its interests.
+I see why Mr C thinks it wouldve been in his best interests to close the pairs rather than in 
+the order and timeframe that IB did. However, IB doesnt say that it will take into 
+consideration trading strategies when closing positions under a margin call and is clear that 
+it will close positions as it sees fit. Mr C says he wasnt able to decide which positions to close, IBs platform rejected orders he 
+tried to place and that his calls to the trading desk went unanswered. But IB has explained 
+these orders were rejected due to the margin call. At this time, the only way Mr C could 
+place any trade would be to add further funds to the account. Mr C says he didnt want to 
+add further funds and so, once the account fell into the margin deficit it was within IBs 
+discretion on how to resolve that. While I appreciate the frustrations in not having his call to 
+the trading desk answered, even if Mr Cs call was answered, he wouldnt have been able to 
+trade this way either. This wouldve been because he would only have been able to place 
+such trades if hed added further funds to his account  which he says he didnt want to do. 
+I appreciate Mr C may have wanted to be able to make trading decisions to resolve the 
+margin deficit himself. But once the account fell into this deficit, without making further 
+payments into the account, IB was able to decide how to manage the positions Mr C had 
+open at the time. 
+I do sympathise with Mr Cs position as I can see hes lost a lot of money, but from 
+everything Ive seen and for the reasons explained above, I dont think the way IB handled 
+Mr Cs margin call was unfair or unreasonable. So, it follows that Mr Cs losses are not 
+something for which IB can be held responsible for.
+My final decision
+For the reasons given above, I dont uphold Mr Cs complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr C to accept or 
+reject my decision before 22 April 2022.
+ 
+Aimee Stanton
+Ombudsman

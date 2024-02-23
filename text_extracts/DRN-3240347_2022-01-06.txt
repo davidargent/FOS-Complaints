@@ -1,0 +1,157 @@
+DRN-3240347
+The complaint
+Mr Y has complained that N26 Bank GmbH registered a marker against him at CIFAS, the 
+national fraud database.
+What happened
+In May 2019, Mr Y opened an account with N26. He paired his mobile phone with it, and 
+activated his card. Then over the following weeks, Mr Ys account was used to receive 
+fraudulent funds and spend them through cash withdrawals and point of sale payments.
+Mr Y says this wasnt him. He said his wallet was stolen when hed left it in an unlocked gym 
+locker, and it had contained his card and a record of his PIN. It also contained another bank 
+card, money, his drivers licence, and a bus pass. He said he opened the account for a 
+holiday, but didnt notice his card was missing because he then went on holiday, had left his 
+wallet at home, and wasnt checking the account. He said he noticed things were wrong 
+when he checked his account while on holiday, but wasnt too concerned about this card and 
+didnt want to run up phone costs by calling N26. Alternatively, he said he didnt notice things 
+were wrong until he got back from holiday and saw his wallet was missing.  Either way, Mr Y 
+did not report anything was wrong to N26.
+N26 registered a CIFAS marker against Mr Y.
+Our investigator looked into things independently and didnt uphold the complaint. In 
+summary, they found the following:
+Mr Ys account details were not on his card, so if someone stole it they would not 
+have had the necessary details to pay money into his account
+It was unlikely Mr Y wouldnt have noticed his wallet was missing until he returned 
+from holiday, and hed not reported it as stolen
+Mr Ys account had been accessed online throughout the period of the fraud, and 
+that could not have been done using the card and PIN. So it seemed Mr Y was aware 
+of what was happening or even had an active role, but didnt report it. And he didnt 
+have to phone N26 from abroad, he couldve just emailed  or at least reported 
+things on his return
+Mr Y appeared to have started live chats with N26 where he didnt dispute the 
+account activity and instead tried to make sure his card was not blocked
+The fraud happened over a relatively long period, and the person using the account 
+did not seem concerned that Mr Y would get the account blocked
+Mr Y didnt agree, so the complaint was passed to me to decide.
+I sent Mr Y and N26 a provisional decision on 8 December 2021, to explain why I didnt think 
+the complaint should be upheld. In that decision, I said:
+In order to register this marker, N26 were not required to prove beyond all reasonable doubt 
+that Mr Y had done something wrong. They did need to have reasonable grounds to believe 
+that hed misused his account, which went beyond a suspicion or concern, and which had 
+appropriate supporting evidence. Having carefully considered everything that both sides 
+have said and provided, I currently think N26 did have sufficient grounds to register this 
+marker. Ill explain why.
+First, Ive considered the possibility that an unknown party (i.e. someone who Mr Y didnt 
+know himself) stole his card, paid fraudulent money into his account, checked his online and 
+mobile banking, and withdrew or paid out the funds.
+In order to pay the fraudulent funds into Mr Ys account, the person arranging the payments 
+needed his account details. But Ive looked at a template of the card for Mr Ys account type. 
+And it doesnt have any details on it that would allow someone to transfer money into his 
+account  such as the account number or sort code. So it would not have been possible for 
+an unknown party to have paid Mr Y this money even if they stole his card and PIN.
+Mr Ys mobile banking app and online banking were used throughout the period of the fraud. 
+Looking at the series of events, it appears that they were used to check when certain 
+fraudulent funds had come in.
+The mobile app was paired to Mr Ys phone  and according to the technical records, that 
+was the only device paired to this account. But Mr Y never mentioned losing his phone, and 
+did not respond when we asked him if anything had happened to it. He gave our service the 
+same mobile number he used for N26, so it doesnt seem like his phone went missing. 
+Further, given how important a smartphone is, I think Mr Y would have noticed if his got 
+stolen, and would have mentioned it in his testimony. And its unclear how an unknown party 
+could have accessed Mr Ys phone, as it would usually be protected by a passcode or 
+fingerprint and so on. Again, Mr Y did not answer our questions about this.
+Then in order to access Mr Ys online or mobile banking, one needed either the login details 
+ which were wholly different from the card details and PIN, so the unknown party would not 
+have known them; or biometric data such as Mr Ys fingerprint  which could only reasonably 
+have been done by Mr Y himself.
+So I dont see a likely or plausible way that an unknown party did this.
+It is possible that someone known to Mr Y may have used his account without his 
+permission, such as a friend or family member. But I dont think thats likely either. No one 
+had made any payments into Mr Ys N26 account before this, so its not clear how theyd 
+have known his account details without discussing it with him. It would not have been 
+realistically possible for someone to have used Mr Ys phone so frequently over the weeks 
+without him noticing what they were doing. As far as Mr Y has told us, he didnt share his 
+online banking details or keep a record of them, so I cant see how a known party would 
+have learned them. And they would not have been able to access Mr Ys account using his 
+biometric data without his knowledge or consent. Lastly, Mr Y has not told us about anyone 
+he knows who he shared his security details with or who he thinks could have done this.
+Finally, Ive considered the possibility that the fraudulent activity was carried out by either 
+Mr Y himself, or by someone who hed given his permission to.As I explained above, it looks like only Mr Y himself  or someone hed given his login details 
+to  could have been accessing his online and mobile banking during the fraud. Mr Y would 
+have also received push notifications from the mobile app for each transaction on his 
+account. And while the fraud was going on, Mr Ys account was being logged into from some 
+of the same IP addresses that Mr Y used when he first set it up. This strongly suggests that 
+Mr Y was aware of how his account was being used during the period of fraudulent activity. 
+And given that Mr Y never made any payments in or out of the account outside of the fraud, 
+any activity should have rung alarm bells for him. But he never reported anything was wrong 
+to N26. Even if he was abroad, he could have used email or live chat  he didnt have to 
+phone. And he didnt report it when he came back, either.
+According to the contact records, it looks like Mr Ys account had three live chats with N26 in 
+2019. One was after the fraud had finished, where he asked for his account to be closed. But 
+he did not report anything was wrong there. The other two live chats were during the period 
+of the fraud, after some incoming fraudulent funds had got blocked. During those chats, its 
+recorded that Mr Y checked his account was not blocked and could still be used. This 
+suggests he was actively trying to make sure the fraudulent funds could arrive. 
+Mr Y did not report his wallet as stolen and has not given us any correspondence to show he 
+reported any of the items as stolen  even his other bank card. In fairness, Mr Y did send us 
+a picture of a new bus pass and a copy of an email following a driving licence application. 
+But theres nothing in that evidence to indicate those are replacements, as opposed to just 
+applying for new cards as normal. Indeed, the bus pass he sent was one for an academic 
+year, and was dated for the upcoming year after the fraud  it is not a replacement of a pass 
+that wouldve been in use in May 2019. So its not clear if he really did lose his N26 card.
+Mr Y was also unable to provide any substantial evidence that he was on holiday at the time, 
+such as flight records or the stamps in his passport. And things like that should have been 
+really quite straightforward to find. He only provided some holiday photos, which could have 
+had the dates added after the fact. Further, according to the technical records, Mr Y was 
+accessing his mobile app from UK IP addresses, and not from abroad. Of course, this is a 
+more minor point  as even if Mr Y was on holiday, he could have still given someone else 
+access to his account before he left. But it does call his testimony into question.
+Indeed, Mr Ys testimony has been rather inconsistent or implausible at points. For example, 
+he said he opened this account for use on holidays, but also said he didnt notice the card 
+was missing because he was on holiday. That seems contradictory. Mr Y has also not 
+answered what he was doing for money while his holiday card, normal bank card, and the 
+cash in his wallet were all missing. And it doesnt seem plausible that he wouldnt notice his 
+wallet was missing for weeks on end  its contents were both varied and important. Mr Y 
+also gave contradictory testimony about when he noticed things were wrong. This makes it 
+very difficult for me to accept any of his versions of events.
+Its also worth noting that this account was not used for anything other than receiving and 
+passing on fraudulent money. As far as I can see, Mr Y opened the account, got everything 
+activated, and then it was used for fraud almost straight away. And the fraud took place over 
+quite a few days, so the person using Mr Ys account does not appear to have been 
+particularly worried that he would discover what was going on and get the fraudulent money 
+frozen. These are more minor points, but they do not support Mr Ys claim that this was a 
+genuine account intended for genuine use. However, it fits well with the possibility that Mr Y 
+opened the account in order to help pass on fraudulent money. Lastly, I appreciate why Mr Y would like us to get CCTV footage of his card being used. But 
+even if the footage were still available after all this time, it wouldve only shown what the 
+person making the transactions looked like. It would not have shown whether they had 
+Mr Ys permission or not. And as I explained above, there wasnt a plausible or likely way 
+that someone could have carried out the fraudulent activity without Mr Ys knowledge or 
+consent. So even if it wasnt Mr Y making the transactions himself, it would have been 
+someone who had his permission.
+In summary: based on the evidence, there isnt a likely or plausible way that someone would 
+have been able to learn Mr Ys account details and security details, access his mobile and 
+online banking, and gradually spend fraudulent funds, all without Mr Ys knowledge or 
+consent. Mr Y would have been aware of the activity at the time, but did not report it to N26, 
+and appears to have even made sure his account was not blocked so the fraudulent activity 
+could continue. Mr Ys testimony has not been consistent with itself or some of the wider 
+evidence. And Ive not seen any evidence that makes it seem implausible or unlikely that 
+Mr Y couldve authorised the fraudulent activity or given someone else permission to use his 
+account. That leaves only one likely possibility  that Mr Y knowingly and willingly helped 
+pass on fraudulent funds. In which case, I think its fair that N26 registered the appropriate 
+marker with CIFAS. This is a difficult message for me to give, and I know its a difficult 
+message for Mr Y to receive. But given the evidence I have, and the balance of probabilities, 
+Im currently unable to reasonably reach any other conclusion.
+I said Id consider anything else anyone wanted to give me  so long as I received it by 
+5 January 2022. But neither Mr Y nor N26 sent me anything new to consider.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Neither side have sent me any new evidence or arguments. So having reconsidered the 
+case, Ive come to the same conclusion as before, and for the same reasons set out in my 
+provisional decision above.
+My final decision
+I dont uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr Y to accept or 
+reject my decision before 3 February 2022.
+ 
+Adam Charles
+Ombudsman

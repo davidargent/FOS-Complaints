@@ -1,0 +1,147 @@
+K821x#15complaint
+Mr C complains that Admiral Markets UK Ltd unfairly  closed  a contract for differences (CFD)  
+trade hed placed.  
+background
+Mr C placed a sell stop order  for 100 contracts  of a Brent crude oil CFD at a price  of 76.18 
+(later amended to 76.10). Simply put, this meant  if the price of Brent fell to his selected level 
+Admiral would open a short trade for him.
+The Brent price  did fall to Mr Cs entry level, and a short  trade was opened. But due to a 
+system error, Admiral  immediately closed Mr Cs trade, crystallising a loss of about £400 (the 
+result of selling  at the bid price and buying  at the offer price,  losing the amount of Admirals 
+spread).
+Mr C noticed what had happened shortly afterwards. He placed another short  trade (for 1 
+contract) at 74.28  and rang Admiral to let them know thered been a problem. Mr C closed 
+his new trade at 74.18. Over the next few days Mr C continued to talk to Admiral  about the 
+issue hed experienced, and place  further Brent  trades. He sold 10 contracts  at 74.80, 
+repurchasing at 74.18. He then sold 100 contracts at 74.00, buying  them  back at 73.98. And 
+then sold another  100 contracts at 72.90, buying  back at 72.79.
+Mr C complained to Admiral about what had happened. He asked  them to explain why his 
+sell order had immediately stopped out. And he asked it to pay him compensation for the 
+losses he felt hed incurred. He said Admiral should  pay the equivalent as if his original trade 
+had remained open and either  closed  at the best price available  that day when  he opened 
+his next trade, or at the best price  over the time hed been  corresponding with Admiral about 
+the issues  72.79. So he said he should be paid between $17,000 and $33,000 for the 
+gains hed have  made but for Admirals  error.
+Admiral said Mr C had an opportunity to mitigate  his losses by reopening the trade  in 100 
+contracts rather than 1 contract as he did. And in any event they said their terms made  it 
+clear they wouldnt  be liable for indirect  losses such as those Mr C was claiming  for. So they 
+said they wouldnt pay him anything more than the £400 loss Mr C crystallised  when his 
+trade closed  out.
+One of our investigators  looked into the matter. She too thought Mr C could have mitigated 
+his losses and so didnt think it would be fair to tell Admiral to pay him for the profits he felt 
+hed missed out on. But she thought being  deprived of the opportunity to manage the 
+position as he wished initially would have been  stressful and upsetting, so asked Admiral to 
+pay Mr C £100 to say sorry. 
+Admiral agreed,  but Mr C remained unhappy and asked for an ombudsmans  decision. He 
+maintained that the profits  hed lost out on were clear, and at a minimum he should be given 
+the amount hed have made  by the time he spotted  the error later the same  day. The market 
+had already fallen by nearly 200 points  by then and he said hed have been able to close his 
+trade for $17,000  profit.
+I issued a provisional decision on the matter,  in which I said I thought  Admiral  should pay Mr 
+C more compensation  in order  to put things  right.  I said:
+Ref: DRN63375372It doesnt seem to be in dispute that an internal error at Admiral resulted in Mr Cs sell 
+order being closed  as soon as it opened, when it shouldnt have been.  While Admiral 
+hasnt been able to explain the error,  it refunded Mr C the loss he crystallised at the 
+time. What remains in dispute  is whether  this fairly  compensates Mr C for the impact  of 
+Admirals system error.
+Like our investigator,  I think Mr C had an opportunity to reasonably  mitigate his losses 
+once he discovered  his trade had been closed. So I dont think  it would be fair for 
+Admiral to compensate  him for what happened  after that.
+He logged into his account and placed a new trade about two hours after his original 
+trade was closed. He had sufficient margin available to have reopened the position 
+and would have  been able to take any trading decision he wanted to at that point, 
+depending on what he thought the market would do. I cant  fairly say that Admirals 
+error deprived him the opportunity to trade in Brent as he wished from that point on  
+so I dont think they should pay him for his perceived  losses after that evening.
+But that leaves  the matter  of what happened  between his trade opening (and 
+immediately closing)  and his discovery  of that a couple of hours  later. Mr C had placed  
+an order to open  a short trade  if Brent reached a certain price.  Hed accepted the risk 
+of this trade  opening  and then the market moving either for him or against him. From  
+what Ive seen Mr C didnt  login  to his account until he placed the 1 contract  trade later 
+that evening  so as far as he knew he was exposed to market  risk during that time.
+Admiral have relied on their terms which say they wont be responsible for indirect 
+losses. But I dont think it would be fair and reasonable to rely on that term if an 
+acknowledged error has resulted in Mr C losing out on the ability to make a profit  or 
+avoid a loss. 
+Admiral have also said any perceived losses cant be quantified  because  Mr C hadnt  
+set a specific take profit price. So they dont know where he would have closed  the 
+trade had it remained  open. While I agree that establishing what would have happened 
+with precision is challenging, I dont think that means it is fair for Admiral  to simply 
+make it as if Mr Cs trade had never been placed. This unfairly denies him the 
+opportunity to have  profited from taking a risk in the market, which is at the heart of 
+CFD trading.
+So Ive thought carefully about what fair compensation looks like here, taking  account  
+of Mr Cs testimony, the terms of his agreement with Admiral, and the wider 
+circumstances in the market.
+Ultimately Mr C had made a prescient bet on Brents price movement. Once it hit his 
+entry price, the market fell substantially and consistently that day. It seems  inarguable 
+that had his position remained  open  Mr C would have made some sort of profit  on his 
+trade.
+He would like to be compensated  as if hed left his trade open until he logged  on and 
+placed the new trade later that day. By this point Brent had fallen nearly 200 points,  
+meaning Mr C would have  been around $17,000 in profit. But I dont think  thats the fair 
+amount of compensation either. I say this because  running a trade that long isnt 
+consistent with Mr Cs other activity.
+Ref: DRN63375373Ive looked at the subsequent trades Mr C placed  in Brent over the coming  days  as 
+the market continues to fall and move in the direction he had correctly anticipated. 
+Over that time the market  fell about 150 points. But Mr Cs trades  took profit of 10, 62, 
+2, and 11 points  respectively.  So while I dont  know exactly what hed have done had 
+his position remained  open, on balance I think its unlikely Mr C would have held it for 
+nearly 200 points without taking a profit.
+I accept that his decisions would be dependent on the particular market dynamics at a 
+given time.  And its impossible to say precisely what he would have done. But my aim 
+is to put him as close as possible to the position hed have been in had Admiral  not 
+made an error, and his original sell trade  remained open.
+Currently, my intention  is to take the average of the amount of profit Mr C took on each 
+of his other Brent  trades  over that period  that is to say 21 points. Im not saying that 
+is how much  profit  Mr C would have taken,  but I think its reasonable compensation in 
+light of the fact the market moved consistently in his favour  but the particular amount of 
+profit hed have  crystallised is unknowable.
+Im also satisfied that having his trade  closed  unfairly at a time when hed placed a 
+large trade in a market that moved as hed hoped would  have  been  upsetting  for Mr C. 
+So I think Admiral should pay him a further  £250  in light of that.
+Admiral accepted my provisional findings.  But Mr C didnt think  that my proposed remedy 
+adequately compensated  him for the profits  hed missed out on due to Admirals error. In 
+summary, he said:
+I gave too much  weight to his later actions rather than the actions hed have taken  if 
+his trade  had remained open.
+His trading at any given time would depend  on various factors and how he traded 
+during different market conditions later on isnt relevant.
+The single contract trade he placed,  after discovering his initial  position  had closed, 
+was intended  to show the price  hed have closed out for a profit. So thats the price 
+that should be used when  calculating  compensation.
+His later trades were placed principally to show the error that had previously taken 
+place and to ensure  he was able to open  and close trades as he saw fit. They 
+shouldnt be seen  as an indication  of his trading strategy or how much  profit  hed take 
+from a successful trade.
+my findings
+Ive reconsidered  all the available evidence and arguments to decide  whats  fair and 
+reasonable in the circumstances of this complaint.  Having done so, and while I know  this will 
+come as a disappointment  to Mr C, Ive not been  persuaded  to depart from my provisional 
+conclusions. And so I make the same findings here,  and make them final.
+Mr C disputes my assessment of fair compensation in light of him being deprived the 
+opportunity to profit from a trade Admiral closed erroneously. He considers hed have  made 
+much more than the 21 points I provisionally said Admiral should pay him.
+Ive thought carefully about what Mr C said in response to my provisional  decision. Its 
+possible he would have  made a greater profit than 21 points, but its also possible hed have 
+Ref: DRN63375374made less. The crux of the issue is that it is impossible to say with certainty what Mr C would 
+have done differently, especially without  the benefit of hindsight.
+I therefore need to decide  what, on balance, puts Mr C as close as possible to the position 
+hed have been in had he kept his trade open. And, in my view, the most persuasive 
+evidence of what hed have done  is the action he took around the same  time,  when trading 
+in the same product.
+I accept traders will adapt to market  circumstances  and Im not saying that taking a 21 
+point profit is exactly what Mr C would have done. But in all the circumstances I remain  
+satisfied that my proposed remedy fairly compensates him for being deprived of the 
+opportunity to manage his position.
+my final decision
+For the reasons  Ive given here and in my provisional decision I uphold  this complaint. 
+Admiral Markets UK Ltd must pay Mr C:
+An amount  equivalent  to the net profit  hed have made on a Brent CFD that he closed 
+out 21 points in his favour.
+£250 for the distress and inconvenience  he has been caused.
+Under the rules  of the Financial Ombudsman Service,  Im required to ask Mr C to accept or 
+reject my decision  before 30 May 2020.
+Luke Gordon
+ombudsman
+Ref: DRN6337537

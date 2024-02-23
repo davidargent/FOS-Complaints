@@ -1,0 +1,127 @@
+DRN-3429812
+The complaint
+Mr A complains that AWP P&C SA (AWP) has declined a claim and avoided his motor 
+warranty insurance policy after his vehicle suffered a catastrophic engine failure. 
+What happened
+Mr As vehicle suffered a catastrophic engine failure. It was recovered to a dealership and 
+the failure was diagnosed. However, following the diagnosis, Mr A was advised that there 
+were irregularities in the electronic data retrieved from the vehicle. The dealership said that 
+the data showed changes had been made to the engine management and gearbox control 
+unit software after a specific date. AWP said this meant the vehicle was outside the scope of 
+the cover the motor warranty insurance provided, so it declined the claim, avoided the policy 
+and refunded Mr As premium. 
+Mr A says hed owned the vehicle for 18 months, and there were no alterations or 
+manipulations made to the vehicles engine software whilst in his care. But AWP didnt agree 
+and refused to pay the claim. 
+So, Mr A got the vehicle repaired himself for approximately £14,000 and he submitted a 
+complaint to this service. An investigator reviewed the complaint and said that based on the 
+evidence that had been made available to us that AWP should reinstate policy and 
+reconsider the claim.
+As there was no response from AWP the complaint was passed to me for an ombudsmans 
+decision. 
+I wrote to AWP. I explained that in the absence of any supporting data I would be asking 
+AWP to reinstate the policy and reconsider the claim as per the view issued by our 
+investigator. AWP replied and said it had supporting data, but the data was sensitive to the 
+manufacturer. So, AWP set up a call between myself and the manufacturer to discuss what it 
+had found when it retrieved the data from Mr As engine.
+I issued a provisional decision on this complaint on 13 April 2022. That provisional decision 
+is below and forms part of my final decision.
+What Ive provisionally decided and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint. Having done so, I dont intend upholding 
+this complaint. Ill explain why.
+The crux of this complaint is whether AWP has acted fairly and reasonably by declining the 
+claim and avoiding the policy.
+The policy says it will cover the sudden and unexpected failure of a component which is 
+covered. The engine is covered under the named component section of the policy. So, Mr A 
+was entitled to submit a claim after his engine suffered a sudden catastrophic failure. 
+However, the policy also says it will not cover an insured vehicle that has been subject to 
+alterations, has had experimental equipment fitted or has in any way been modified from the 
+manufacturers approved specification. 
+AWP says Mr As engine software has been manipulated and that this manipulation has 
+happened outside of the manufacturers network. AWP says the most recent change in 
+software happened between October 2019 and the date of the engine failure diagnosis.
+Mr A says he owned the vehicle in October 2019 and there was no manipulation of the 
+engine at that time. He says nothing was done in that period to alter the car and there is no 
+evidential or quantitative proof to counteract this assertion. Mr A says once AWP saw the bill 
+for repair it just looked for a way to decline the claim.
+When the investigator issued the view on this complaint, AWP hadnt supplied any data 
+analysis to support its decline. AWP said the manufacturer had run the data and this had 
+confirmed there were irregularities within the engine software. But AWP said this data was 
+commercially sensitive and it couldnt be shared. Mr A had already tried to get the data. He 
+had written to both the manufacturer and AWP and both parties had referred Mr A back to 
+each other. But neither party had provided any supporting evidence of software 
+manipulation.
+As the supporting evidence was deemed commercially sensitive AWP set up a call between 
+the manufacturer and myself only in order to explain the data. As this is commercially 
+sensitive information, I cant share it with Mr A. But Ive considered what the manufacturer 
+showed me, and I accept it as a reasonable explanation. During the call the manufacturer 
+shared on screen the Fasta data diagnostic analysis taken from Mr As vehicle. I confirmed 
+that the make, model, mileage, registration and VIN were that of Mr As vehicle. The 
+manufacturer explained that it had the ability to verify if modifications had been made to a 
+specific vehicles software outside of the standard software. And in this specific case, the 
+manufacturer was able to show me that the software on Mr As engine had been altered 
+twice. The manufacturer advises that every log on, update or brief test is recorded in the 
+software. And they were able to show me that changes from outside the manufacturers 
+network had been made to this software at some point between October 2016 up to June 
+2019. And another change was made after 8 October 2019 up to the date the diagnostic was 
+carried out. 
+To explain further the CAL-ID (calibration ID) and the CVN (calibration verification number). 
+are not of the standard expected. And during the call I had with the manufacturer I was 
+shown the calibration numbers and I can confirm they were not the same as the calibration 
+numbers listed at date of manufacture. The manufacturer was able to show me that there 
+were changes to the original calibration numbers recorded on or before June 2019 and again 
+after 8 October 2019 and before date of diagnosis. 
+The manufacturer has also confirmed that the vehicle had been presented with software not 
+designed for the i-frame standard of the vehicle and that multiple adaptions of both engine 
+and gearbox software had been completed on the vehicle. This means the changes were 
+made outside of the manufacturers network. Engine software modifications are known to 
+increase the pressure on a vehicles components, and that is why AWP excludes any 
+modifications outside of the manufacturers specifications. And I think this is fair and 
+reasonable. AWP doesnt want to provide cover for parts that are at a higher risk of failing. 
+And its set this out clearly in its policy terms and conditions. So, AWP declined the claim and 
+put Mr A back in the position he was in before he took out the cover. Im satisfied with this, 
+and I dont plan to interfere with AWPs decision.   From the evidence Ive seen the data presented on this vehicle shows the software is not at 
+the standard expected. This means the vehicle is outside the scope of cover as per the 
+policy terms and conditions. As such the vehicle would never have been on cover so Im 
+satisfied with what AWP has done by declining the claim, avoiding the policy and refunding 
+the premium and Im not going to interfere with its decision. Because of this Im not planning 
+on upholding this complaint and I wont be asking AWP to do anything more.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+I sent my provisional decision on 13 April 2022 as set out above. AWP hasnt replied. But Mr 
+A has. 
+Mr A says he is extremely disappointed with the provisional decision. He says that no 
+change was made to the vehicle to suggest there was increased wear or pressure on the 
+drivetrain. Mr A says AWP is simply spinning an unrelated instance on the vehicle to make it 
+appear there were modifications, and that it is using any possible excuse not to pay the 
+claim. Mr A acknowledges that the ombudsman has been shown specific software data. And 
+hes expressed disappointment that this data cant be shared.
+I acknowledge Mr As disappointment. It is frustrating when sensitive data cant be shared. 
+But every manufacturer has its own sensitive data and this specific manufacturer has 
+explained the disadvantages of, and risks it runs, if either consumers or other manufacturers 
+had access to the software or technology it uses in its vehicles. So, I think its quite fair that 
+the manufacturer isnt prepared share the data it found when it ran the diagnostics on Mr As 
+engine.
+However, I can confirm again that the manufacturer did show me what the diagnostics had 
+found. And I can confirm the diagnostics showed Mr As engine had been altered twice and 
+that the alterations were made outside of the manufacturers network. I was shown the 
+calibration numbers and I can confirm they are not the same as the calibration numbers 
+listed at date of manufacture. The manufacturer was able to show me that there were 
+changes to the original calibration numbers recorded on or before June 2019 and again after 
+8 October 2019 and before date of diagnosis. As such I think its more likely than not 
+changes were made to the engine software on this vehicle as stated. So, AWP declined the 
+claim and put Mr A back in the position he was in before he took out the cover. Im satisfied 
+with this, and I dont plan to interfere with AWPs decision.    
+I understand Mr As strength of feeling on this case. And I understand the impact of my 
+decision on him financially. But based on the evidence Ive been shown and based on the 
+fact no new evidence has been presented that would change my provisional decision, I see 
+no reason to depart from my findings as set out above.
+My final decision
+For the reasons given above, I don't uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr A to accept or 
+reject my decision before 8 June 2022.
+ 
+Derek Dunne
+Ombudsman

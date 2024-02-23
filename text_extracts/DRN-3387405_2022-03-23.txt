@@ -1,0 +1,266 @@
+DRN-3387405
+The complaint
+Mr D says Tickmill UK LTD (Tickmill) concealed and misrepresented events  events 
+related to his West Texas Intermediate Spot Crude Oil (WTI Spot) Contract for Differences 
+trades  on 21 April 2020 (the date) and thereafter. All relevant events happened in 2020. 
+He seeks compensation for loss that he says resulted directly from Tickmills actions.
+What happened
+I issued a Provisional Decision (PD) for this complaint on 16 March 2022. I provisionally 
+concluded that the complaint should be upheld, but I found grounds only to compensate     
+Mr D for the trouble and upset caused to him, not for the financial loss he claimed. The PD 
+mainly said the following  
+Mr D mainly says as follows:
+Tickmill changed the price basis for its WTI Spot CFD on the date. He had been 
+trading this product prior to, and continued to do so after, the date. He opened WTI 
+Spot positions on 20, 21 and 23 April.
+The change applied by Tickmill was done without any prior notice to accountholders 
+like him and, to compound that, without any notice on the date itself (and for a 
+number of days afterwards). It took an email from him to Tickmill, querying the lack of 
+movement in the Spot Oil price, to prompt its disclosure of the changed price basis 
+within its response of 1 May. As such, Tickmill kept him in the dark for the 10 days 
+between the change and its disclosure of the change. 
+Furthermore, despite the lack of notice on 21 April, Tickmill irresponsibly did not 
+block new trades in WTI Spot until after 28 April. At the very least, it should have 
+done this on 21 April when the price basis was changed.
+WTI Spot had a Spot/current pricing basis, so its pricing was supposed to be based 
+on the next or near months Futures contract. His April trades should have been 
+based on the Futures contract for May. On the date, Tickmill changed this to the 
+effect that the Futures contract for December 2020 became the pricing basis for WTI 
+Spot. This was unfair and wrong, at worst, the change should have been to the next
+near months contract, that being the June contract. 
+This meant, in real terms, the product was no longer a Spot product. For this reason, 
+it also neutralised price volatility for the product  given that it had essentially become 
+a Futures product with expiry eight months away. This defeated his trading strategy 
+(which was based on price volatility)  the same strategy on which his trades were 
+opened  and resulted in losses. Tickmill is responsible for his losses. It concealed 
+and misrepresented material information about the WTI Spot product that made it 
+different to the product he opened his trades in and different to the product he was 
+led, by Tickmill, to believe he was trading. His losses resulted directly from these 
+actions. Had he been given prior notice about the change, he would not have entered 
+into the trades. 
+He was also manipulated in terms of holding costs, which ought not to have been in 
+place for a Spot/Cash product.
+Tickmill disputes the complaint. It mainly says:
+In April 2020 Crude Oil prices faced an unprecedented drop into negative territory, 
+posting as low as -$37.63 for the May Futures contract. 
+Spot prices for Oil are usually derived from the front months Futures price (minus 
+holding costs). In normal market conditions the Spot prices between firms are likely 
+to be similar, but in abnormal market conditions prices can differ significantly. Due to 
+the unprecedented abnormality of the market in April (and the May Futures price 
+settling in negative territory) its Liquidity Provider (LP), from whom it derived its price 
+feed, made the decision to use the December contract as a basis for calculating the 
+Spot price  and this was done in order to inject stability into the matter and to protect 
+clients from extreme volatility.
+Information about this change was available on its website from 27 April. It did not 
+make this information available earlier than that because it was having ongoing 
+conversations with its LP on how it (the LP) intended to manage the situation going 
+forward. The LP confirmed, on 12 May, that it would continue to base the Spot price 
+on the December contract. In the interim, Tickmill acted in its clients interests by 
+setting the market to close on 23 April. 
+From 20 April onwards it charged a holding fee for overnight positions in Brent and 
+WTI at the rate of $0.04 per 1 Lot per night (including weekends)  with the first three 
+nights (including weekends) exempted from this charge for new positions opened 
+from 20 April. Prior to this, clients like Mr D were informed  on 6 April 2020  that a 
+holding fee will be charged on Oil positions held overnight and this was done in clear 
+terms. This was not news to Mr D by the time it was applied to his WTI Spot trades 
+because he (and other clients) had two weeks prior notice of it by that time. 
+Tickmill does not interfere with the pricing of its Oil products, it transmits the pricing 
+from its LP to its clients and it  follows a strict due diligence process in picking [its] 
+liquidity providers. At the time, it was not the only broker for whom its LP used the 
+December contract to price the Spot product. It should also be noted that using the 
+ price on a future contract doesn't mean Cash price = Futures price, it simply 
+means that the fluctuation in spot price will be similar on a daily basis to that of the 
+Futures contract.
+The fact about the unprecedented event of global Oil prices going into negative territory on
+20 April is widely known and is undisputable. On 21 April, Tickmill followed its LPs lead (and 
+price feed) by changing the WTI Spot price basis to the December contract; and it did not
+give notice about this until the website update on 27 April.
+Mr Ds enquiry email to Tickmill suggests he was unaware of this notice, otherwise the email
+would not have been sent or its contents would have been different. He says he learnt about
+the change on 1 May. He also says his trades happened on 20, 21 and 23 April, so he
+makes no claim about trades placed after the website notice. His account statement shows
+the following information about his trading in WTI Oil around the relevant time:
+The statement that has been shared with us spans the period between 11 October 
+2019 and 6 October 2020.There does not appear to be any WTI Oil trades opened on 20 April, but trades 
+opened on previous dates were closed on this date.
+Long trades were opened on 21 April; they were closed between 21 and 23 April with 
+mixed (profit and loss) outcomes; total loss on the trades, upon closures, was just 
+under $11,000 and total profit was just under $2,000.
+Long trades were opened on 22 April; they were closed between 22 and 23 April with 
+mixed outcomes; total loss on the trades was $280 and total profit was $340.
+Long trades and a short trade were opened on 23 April; they were closed (over the 
+dates of 23 April, 28 April and 11 June) with mixed outcomes; the short trade made a 
+loss of $520, one long trade made a loss of $690 and three long trades  which Mr D 
+appears to have focused upon as the main subjects of his claim for lost potential 
+profit  made total profit of around $16,400. [His claim is that he would have made 
+even more profit but for the pricing basis change.]
+By matching the December contract  as opposed to the next near month contract (the 
+June contract)  the product changed and was, in real terms, akin to the December Futures
+product. Contracts for six nearer months were skipped to arrive at the December contract,
+this was a significant change. Furthermore, I am also persuaded by Mr Ds argument that
+this change had the added effect of defeating the objective held by those who traded the
+Spot product for volatility (or more volatility than a Futures product with plenty of time that is
+yet to decay) from which potential short term profits could be made. Tickmill would have
+been aware of this too, as it would have known that price volatility in a product that was
+based on a Futures contract eight months away would not be the same as that for a product
+based on a contract one or two months away.
+For the above reasons, and as a minimum measure, Tickmill had an obligation to publicise
+the change immediately as it received and applied the instruction for it, and the price feed,
+from its LP on 21 April. This was material information. It was and would have been very
+relevant information that those engaged in trading the product (with open positions or with
+plans to open positions) were entitled to receive. Especially because of the execution only 
+nature of the accounts, which meant accountholders had to make their own trading decisions
+based on such information.
+Furthermore, for those who already had opened trades in the product when the change
+happened, the aforementioned reasons also meant Tickmill should have offered them the
+option to unwind their trades. In those cases, the trades that were opened were no longer
+the same after the pricing basis change, so it would have been fair and reasonable to offer
+such unwinding. If the change happened after Mr Ds trades on 21 April, then such an offer
+would have been applicable to those trades too.
+Tickmill did not give notice of the change until 27 April. For the above reasons, it was wrong
+to apply such a delay. Any discussions it was having with the LP did not dilute its obligation
+to keep its clients informed as of 21 April and its notification on 27 April happened weeks
+before its LP confirmed what Tickmill says it was waiting to hear, so that confirmation does
+not appear to have been pivotal to the notification.
+However, the above finding does not automatically mean Mr D is entitled to the redress he
+has claimed for. A benefit of summarising his WTI Oil trades above is that it illustrates the
+overall net profit he gained across the positions. He made more in profits than he incurred in
+losses, so the idea of awarding redress based on unwinding his trades is unlikely to appealto him. Hence his focus on the three long trades (which he closed on 11 June) as the crux of
+his compensation claim. On balance, I am not persuaded by that claim.
+These three trades were open on 23 April, when Mr D does not appear to have been aware
+of the pricing basis change. It is his position that he would not have traded the product had
+he been aware that it had changed into what was essentially a Futures product, and one
+without the type of volatility he sought to trade on. This leads to the conclusion that had
+Tickmill given notice on 21 April  and I agree with the investigators finding that website
+notification would have been/was sufficient  and had Mr D seen that notice he would not
+have made the three trades on 23 April. In this scenario, there would be no lost potential
+profit because the trades would not have been made.
+The above then leads to the question about what Mr D would have done instead. I have no
+persuasive evidence of this. His trading account statement shows no distinct pattern in his
+trading prior to 23 April, from which a safe inference might be drawn. He traded a variety of
+products in different directions.
+Another factor that hinders his claim is that he retained the three positions even after he
+learnt, on 1 May, about the pricing basis change. He did so for almost a month and a half
+thereafter and this appears to have been done in order to profit from the trades. The
+outcome was that he did profit from them, to the extent of around $16,400. This arguably
+conflict with his argument that the product was not what he wanted to trade. Had that been
+the case it is more likely (than not) that he would have either closed these trades upon
+receipt of the notice of 1 May or, if they were in a state of loss and he wished to recover such
+loss, they would probably have been closed when they broke even. The fact that they
+remained open to the point of giving him with the aforementioned profit at their closures
+suggests that he adapted to the situation and opted to continue to trade in the product
+despite its pricing basis change.
+Overall, on balance and for the above reasons, I do not uphold his claim for the
+compensation he set out in his calculations. I also do not uphold his complaint about holding
+fees. This is a matter that appears to be remote to the events on 21 April, as there is
+evidence of notice to Mr D (and other accountholders like him) two weeks earlier which
+informed him about the application of these fees from 20 April onwards. As the investigator
+said, firms retain reasonable discretion to set their fees and so long as that is done in a fair, 
+clear and not misleading fashion we would not normally interfere with such action. I have not
+seen evidence that application of the holding fee in this case was done contrary to this.
+Having said the above, I consider that Mr D should receive more than £100 for the trouble
+and upset caused by Tickmills failure to give notice on 21 April. I consider that he should be
+paid £500 in this respect, given evidence that he was clearly concerned about the price
+movement in the product at the time (hence his email to Tickmill) and given that such
+concern could and would have been avoided had notice been available to him through the
+website at the outset.
+Both parties were invited to comment on the PD. Tickmill said it accepts no liability in the 
+complaint, but it agreed to pay Mr D the £500 award for trouble and upset as a means to 
+have closure to the case. Mr D disagreed with the finding(s) against his claim for financial 
+loss compensation and, in the context of what he considers he has lost, he regarded the 
+trouble and upset award to be an insult. His representative provided the response to the PD 
+and the main points in it were:
+About the undisputed facts in his case and about Tickmills wrongdoings in the case.That I should reassess his claim for compensation, with due weight given to the 
+seriousness of Tickmills actions against him and to the financial loss he claims  a 
+claim that sits in the context of his well thought out and finely planned trading 
+strategy having been unfairly defeated by Tickmills wrongdoings.
+That I should be mindful the WTI Spot product (and the holding fee associated with it) 
+became one big bogus financial product following Tickmills wrongdoings.
+That the LP went beyond its remit by concerning itself with volatility, its role was to 
+provide liquidity and it ought to have had a risk management system to cater for any 
+eventuality.
+That there are serious concerns and questions [some of which he listed] about the 
+operations of CFD brokers, like Tickmill, in the industry that the regulator should 
+address.
+Mr D also revised his claim for financial loss compensation. This was set out in the response 
+and his representative said he would settle for nothing less than what was set out. The case 
+was then returned to me.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+I have reviewed the case and taken on board both parties responses to the PD. Having 
+done so, I retain the findings in the PD and I incorporate them into this decision. Irrespective 
+of Tickmill saying it concedes no liability in the case, it remains my finding that it committed 
+wrongdoings as explained in the PD and that it is liable for them. Having said this, I welcome 
+its decision to accept the PDs trouble and upset award. 
+In contrast, Mr D appears to have been offended by the award. I assure him that was not my 
+intention. The matter of his claim for financial loss is distinct and separate, so the trouble and 
+upset award was solely to reflect, in a monetary and compensatory way, the distress and 
+inconvenience that I consider the overall complaint matter has caused him.
+It might be worth repeating that the substance of Mr Ds complaint was upheld in the PD. I 
+do the same in this decision. In a nutshell, I have identified and concluded broadly the same 
+wrongdoings by Tickmill that he highlighted throughout his complaint and has highlighted in 
+response to the PD; I agreed/agree that they were serious (for the reasons given in the PD); 
+I also concluded/conclude that the effect of the key events in his case was that the WTI Spot 
+product was altered fundamentally and was no longer what it was supposed to be (and no 
+longer the product that Mr D opened his positions in); and the undisputed facts in his case 
+remain undisputed. 
+Where Mr Ds case has fallen is in his pursuit of compensation for the financial loss he 
+alleges. As treated in the PD, this is not a claim for loss that was incurred in his positions. 
+Overall, he had a net positive/profiting exit from the WTI Spot positions he held during the 
+period relevant to his complaint. As I also said in the PD, with regards to the three positions 
+cited in his calculation of financial loss, he made around $16,500 profit on his exit from them. 
+His claim was/is about the additional profit he says he could have made but was unable to 
+make because of Tickmills actions.
+I understood Mr Ds previous calculation and I understand the revised version he has now 
+submitted. However, the obstacles facing his claim remain the same and remain unaddressed by his responses (including the revised calculation). As I said in the PD  
+However, the above finding [about Tickmills wrongdoings] does not automatically mean Mr 
+D is entitled to the redress he has claimed for. A benefit of summarising his WTI Oil trades 
+above is that it illustrates the overall net profit he gained across the positions. He made more 
+in profits than he incurred in losses, so the idea of awarding redress based on unwinding his 
+trades is unlikely to appeal to him. Hence his focus on the three long trades (which he closed 
+on 11 June) as the crux of his compensation claim. On balance, I am not persuaded by that 
+claim.
+These three trades were open on 23 April, when Mr D does not appear to have been aware
+of the pricing basis change. It is his position that he would not have traded the product had
+he been aware that it had changed into what was essentially a Futures product, and one
+without the type of volatility he sought to trade on. This leads to the conclusion that had
+Tickmill given notice on 21 April  and I agree with the investigators finding that website
+notification would have been/was sufficient  and had Mr D seen that notice he would not
+have made the three trades on 23 April. In this scenario, there would be no lost potential
+profit because the trades would not have been made.
+The above then leads to the question about what Mr D would have done instead. I have no
+persuasive evidence of this. His trading account statement shows no distinct pattern in his
+trading prior to 23 April, from which a safe inference might be drawn. He traded a variety of
+products in different directions.
+Another factor that hinders his claim is that he retained the three positions even after he
+learnt, on 1 May, about the pricing basis change. He did so for almost a month and a half
+thereafter and this appears to have been done in order to profit from the trades. The
+outcome was that he did profit from them, to the extent of around $16,400. This arguably
+conflict with his argument that the product was not what he wanted to trade. Had that been
+the case it is more likely (than not) that he would have either closed these trades upon
+receipt of the notice of 1 May or, if they were in a state of loss and he wished to recover such
+loss, they would probably have been closed when they broke even. The fact that they
+remained open to the point of giving him with the aforementioned profit at their closures
+suggests that he adapted to the situation and opted to continue to trade in the product
+despite its pricing basis change.
+Overall and on balance, I consider that the above continues to be a fair analysis of and 
+conclusion on Mr Ds claim about financial loss. I have not been given cause to depart from it 
+and I do not depart from it. 
+Mr D has made points about the LP and about regulation of CFD brokers. With regards to 
+the former, the present complaint is about Tickmill, not about its LP. I have already made 
+findings on Tickmills responsibilities which are sufficient to determine the complaint. I do not 
+consider it necessary to address whether (or not) its LP conducted itself outside its remit. In 
+terms of the regulation of CFD brokers in the industry, this service is not the industry 
+regulator and I consider it beyond the scope of this decision to comment on Mr Ds general 
+observations about such regulation.
+Putting things right
+I order Tickmill to pay Mr D £500 for the trouble and upset the complaint matter has caused 
+him.My final decision
+For the reasons given above, I uphold Mr Ds complaint and I order Tickmill UK LTD to pay 
+him £500 for the trouble and upset the complaint matter has caused him.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr D to accept or 
+reject my decision before 20 April 2022.
+ 
+Roy Kuku
+Ombudsman

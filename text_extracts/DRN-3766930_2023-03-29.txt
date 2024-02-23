@@ -1,0 +1,154 @@
+DRN-3766930
+The complaint
+Mr S complaint is about trading, and trades, in his account with eToro (UK) Ltd on 27 
+January 2021 (the date). He says access to the account and the accounts functions were 
+disrupted for around or over an hour  from around 14:30 (UK time) to around 15:30 (UK 
+time)  during which his management of open trades was impossible. He says he was able 
+to collate evidence (all based on UK times and USD prices) of impact on only the following 
+five trades (but asserts there were others affected)  
+Closure of a GME position eventually happened at 15:31, at price  279.33; but for 
+the malfunction it would have been closed around the higher price of 348 around 
+14:30; he lost profit in this trade. [T1]
+Closure of a BB position eventually happened at 15:30, at price  21.26; but for the 
+malfunction it would have been closed around the higher price of 23.39 around 
+14:40; he lost profit in this trade. [T2]
+Closure of a BBBY position eventually happened at 15:07, at price  46.64; but for 
+the malfunction it would have been closed around the higher price of 53.90 around 
+14:42; he lost profit in this trade. [T3]
+Closure of an IRBT position happened at the wrong time due to panic caused by 
+other malfunctioning at the time; it was closed at price  167.14; but for the 
+circumstances, it would have been closed at a higher price around 194.97; he lost 
+profit in this trade. [T4]
+Closure of an FCX position was dependent on a stop loss setting he could neither 
+access nor control at the time; but for the malfunction he would have adjusted the 
+stop loss setting to manage the position; he could not do that, and he incurred a 
+$2,126 loss of capital upon closure. [T5]
+Mr S seeks compensation for lost profit and capital (as above).
+What happened
+The malfunctioning of eToros trading platform at the time is not in dispute. Mr S has shared 
+ample evidence of this, including a screenshot of the platform (dated and timed 27/01/21 
+15:19) showing a message that mainly said login to the platform was unavailable for some 
+customers; trading actions were unavailable; the cause of the login malfunction had been 
+identified and was being worked on; the trading platform had been set to maintenance mode 
+whilst it was properly debugged and whilst the malfunction was being fixed; and customers 
+could close positions through eToros backup trading tool website.
+There was also an email from eToro to Mr S later on the date which confirmed its awareness 
+of the malfunction, and the same has been repeated in its complaint related 
+correspondence.
+In its email, eToro invited Mr S to specify any affected trades in his account and offered to 
+investigate them. He gave details of T1 to T5. eToro then responded as follows  
+It would compensate Mr S for his loss in T5. It considered that the malfunction had 
+directly caused this.
+It would not uphold his claims for T1 to T4. It said T1, T2 and T3 were all affected by 
+severe price volatility and widened spreads, which led to trading interruptions in the 
+market and on its platform; so the malfunction did not directly affect these trades (but 
+for a visual bug for T1 which made it appear open for a period after it had been 
+closed); and T4 closed favourably to Mr S, the delay caused its closure at a price that 
+was higher than the price he had initially requested, and that generated $4,914 extra 
+profit for him.
+Whilst the claim for T1 is declined, it acknowledges evidence that Mr S tried to close 
+this position whilst it was unavailable and that, because of the visual bug, he did the 
+same after it had already been closed. It accepted this would have caused him 
+frustration and it credited his account with $500 as a gesture of goodwill.
+Mr S disagreed with this outcome and challenged eToro to substantiate its claims about T1 
+to T3; he put specific questions to eToro in this respect; and, with regards to T4, he argued 
+that but for the malfunction he would have made multiple trades in it (based on re-openings 
+and closures) to take advantage of the price swings during the relevant period, so there 
+remains a claim for lost profit in this context.
+The matter was referred to this service and one of our investigators looked into it. She 
+concluded that the complaint should not be upheld. She broadly agreed with eToros 
+position. She also noted historical evidence from the New York Stock Exchange website 
+about price volatility and a trade halt related to T1 on the date. The investigator found that 
+the problem was therefore outside eToros control and that this made its $500 to Mr S 
+generous, because she would not have awarded any compensation.
+Mr S disagreed with the investigator. He mainly said the references that have been made to 
+price volatility do not explain the login failure he experienced on the date and at the time he 
+sought to manage his trades; the closure orders would have been pending if price volatility 
+was the issue, instead the system was malfunctioning overall; price volatility happened 
+frequently but that had not previously caused a malfunction; the price volatility excuse also 
+conflicts with the fact that other firms platforms did not malfunction at the time (despite their 
+exposure to the same market/exchange); all his evidence of the malfunction has been 
+ignored.
+The case was referred to an ombudsman.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+My understanding of the case is that eToro has already committed to compensating Mr S for 
+the $2,126 loss he incurred in T5 and to making the $500 goodwill payment in relation to T1. 
+It is therefore obliged to do that and if it has not already done that, I expect it will shortly. The 
+offer appears to have been linked to a proposed complaint waiver by Mr S. That waiver is 
+now redundant given that it was never given and his complaint has since been pursued 
+further (up to this decision), and it ought not stop eToro from upholding its commitment to  
+Mr S. 
+For the above reasons, T5 is excluded from my findings. I do not consider there is a need to 
+address a matter that the parties appear to have already resolved. However, despite the 
+$500 goodwill payment, I have still made findings on T1 below.
+Moving on to T1, T2, T3 and T4, my initial observation relates to T4. eToros reference to a 
+delayed closure but positive outcome for the trade within it, does not appear to be disputed. 
+Due to the delay Mr S appears to have made almost $5,000 more profit than he would have made without the delay. I understand his point about price swing trading during the relevant 
+period, but it is an inherently speculative argument. There is no evidence of pre-planning to 
+conduct such trading and no evidence that any such strategy would have been correctly 
+judged and executed by him to result in multiplying his profits  without the benefit of 
+hindsight, it is possible that the strategy could have been misjudged and could have resulted 
+in losses. I do not accept that Mr S was denied tangible profit in T4, instead evidence shows 
+that the delay benefitted him in the form of almost $5,000 additional profit.
+Aside from the above observation, my findings on T1 to T4 begin with and mainly relate to 
+the terms and conditions for Mr S account. They were the terms on which the account 
+operated, they were the terms he agreed and we have been provided with a copy of the 
+October 2020 version, which I consider to be relevant and reliable evidence. I have not seen 
+evidence of an amendment by January 2021. I acknowledge that eToro and the investigator 
+focused more on the market conditions for the relevant trades and I do not say they were 
+wrong to do so. I can understand such an approach being led or influenced by a desire to 
+address each of the trades individually. However, I have identified provisions in the terms 
+which complement this by addressing the case (including all the trades and the malfunction) 
+as a whole. 
+The platforms malfunction on the date is a settled fact. The same applies to the fact that T1 
+to T4 were affected by something  Mr S says they were affected by the malfunction and 
+eToro says they were affected by market conditions, but they both agree that the trades 
+were affected. If, as Ms S says, the trades were affected by the malfunction, the following 
+terms become very important to the case  
+In section 5.6 eToro declared, and Mr S undertook, the risk of loss arising from a 
+failure or malfunction of eToros  hardware or software.
+Section 19.2(k) said eToro may not accept, execute or complete a trade order in 
+circumstances involving an exceptional event; section 19.5 said it would not be 
+responsible for any losses arising in this respect; and in section 29.1(j) an 
+exceptional event included technical failures in transmission, communication or 
+computer facilities including power failures and electronic or equipment failures.
+Section 25 said eToro would be responsible for losses only if caused by its 
+negligence, wilful default and/or fraud; earlier in the same section it is confirmed that 
+eToro would not be liable for the results of an exceptional event.
+Section 29.2 forewarned that in the circumstances of an exceptional event the 
+availability and speed of eToros service, platform, website, order execution and 
+functionalities  may be delayed, may not be available, or may not be carried out; 
+and that it would not be liable for any losses in this respect.
+The sum of these provisions mean that even if the malfunction on the date directly caused 
+the problems Mr S faced in T1 to T4, and even if it also caused the loss of profit that he has 
+claimed for, the terms agreed for his account excluded eToros liability for such a claim. I 
+have not seen evidence of negligence, wilful default or fraud by eToro in this case, so it is 
+the liability exclusion that applies. The platform malfunction on the date amounted to an 
+exceptional event and the occurrence of such an event triggered the exclusion  hence, the 
+reason the exclusion of eToros liability applies in Mr S case.
+Available evidence suggests the market conditions relevant to the trades could also have 
+contributed additional difficulties. I understand Mr S arguments about price volatility being 
+unrelated to login and platform failures. He is correct, and it does not appear to me that 
+eToro has said that price volatility caused the malfunction. Instead, it appears to me that its 
+argument is that price volatility affected the management and closures of the trades in any 
+case, aside from the platform malfunction. This is further supported by the facts surrounding the trades. As an example, Mr S says the 
+platform was inaccessible and inoperable during the relevant hour (or more); however, T3 
+was closed at 15:07 which would have been around halfway through the relevant hour; 
+which would suggest there were intermittent periods during the hour and during the 
+malfunction in which the platform worked; and which further suggests that another factor 
+(like the market conditions) could have obstructed the trade closures during such times. 
+Having said this, I still retain the conclusion that the liability exclusion is the main 
+consideration in the case.
+Overall, on balance and for the above reasons, I am not persuaded to uphold Mr S 
+complaint. eToros offer is a positive aspect of the case, and I understand his explanation 
+and strength of feeling about profit levels he believes he could and should have achieved in 
+the trades, but the grounds set out above support, on balance, my conclusion.
+My final decision
+For the reasons given above, I do not uphold Mr S complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr S to accept or 
+reject my decision before 26 April 2023.
+ 
+Roy Kuku
+Ombudsman

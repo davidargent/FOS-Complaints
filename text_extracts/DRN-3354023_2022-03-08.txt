@@ -1,0 +1,149 @@
+DRN-3354023
+The complaint
+Mr and Mrs L complain that when TSB Bank plc implemented new security measures known 
+as Strong Customer Authentication they could no longer access their bank account online 
+because they live overseas and TSB wouldnt send one-time passcodes to non-UK 
+telephone numbers.
+What happened
+In or around July 2020 Mr and Mrs L complained to TSB that they could no longer access 
+their TSB online banking because their international phone numbers could not receive the 
+required authentication or one-time passcodes (OTPs). TSB looked into their complaint and 
+said there was nothing they could do. TSB said they couldnt send OTPs to international 
+phone numbers, and they couldnt send the OTPs another way, but that Mr and Mrs L could 
+still manage their account via telephone banking.
+Unhappy with this response, Mr and Mrs L brought their complaint to this service.
+What Mr and Mrs L told us
+Mr and Mrs L told us that theyve been customers of TSB for 40 years and when they 
+emigrated over ten years ago, they left the account open to assist with online purchases in 
+the UK and return visits. They said they accessed online banking infrequently, but that was 
+still how they maintained an overview of the account.
+Mr L said he understood the importance of the new security measure, but said TSB had 
+implemented it with total disregard for their overseas customers needs.
+Mr L also let us know theyd obtained a roaming pay as you go mobile phone contract so 
+that they could provide TSB with a UK mobile phone number, and receive the OTPs.
+What TSB told us
+TSB didnt think theyd done anything wrong. They referred us to their Personal Banking 
+Terms and Conditions which say that to hold a current or savings account:
+You must be resident in the UK 
+TSB added, We are aware some customers choose to keep their accounts when they move 
+abroad but this can cause restriction for them.
+They later, in response to a question from our investigator in May 2021, let us know that the 
+issue had been resolved and that customers in the country Mr and Mrs L reside in could now 
+receive OTPs to their mobile or landline numbers.
+Our investigators view
+Our investigator upheld Mr and Mrs Ls complaint. She explained TSB had been obliged by 
+regulations to implement what is known as Strong Customer Authentication (SCA) but she 
+thought TSB should have provided Mr and Mrs L with a solution when they couldnt send 
+OTPs to international telephone numbers, not simply told them to rely on telephone banking.
+Acknowledging that TSB had since resolved the issue, she also said it was disappointing 
+TSB hadnt let Mr and Mrs L know about that solution sooner. She said TSB should pay 
+them £200 compensation for the trouble and upset caused.
+Responses to the view
+Mr and Mrs L accepted this outcome. But they made it clear they were not looking for 
+compensation, only an apology for the way theyd been treated, and that theyd prefer any 
+compensation award to go to charity.
+TSB didnt accept the investigators view. They said:
+Their terms and conditions say account holders must be resident in the UK, therefore 
+the expectation is that customers will have a UK mobile or landline;
+Whilst customers who move abroad have been able to keep their accounts, TSBs 
+processes might not always work as well for customers who choose to live abroad;
+Before OTPs could be sent to the country Mr and Mrs L reside in TSB had to show 
+compliance with local mobile phone regulations and this took time;
+Mr and Mrs L were advised around 26 January 2021 by text message that the 
+problem with sending OTPs to the country they reside in had been resolved;
+Telephone banking services remained available to Mr and Mrs L throughout;
+Mr and Mrs L notified TSB that they'd obtained a UK mobile number by September 
+2020 so could receive TSBs OTPs before the issue with international numbers was 
+resolved;
+Mr and Mrs L had successfully used internet banking in January 2021; and
+Mr and Mrs L do not use this account or internet banking frequently so haven't been 
+significantly inconvenienced by being unable to use internet banking for a short 
+period.
+Overall, TSB didn't agree they'd acted unfairly towards Mr and Mrs L and didn't think what 
+theyd experienced warranted £200 compensation. As no agreement could be reached, the 
+complaint was passed to me to decide.
+Further comments from Mr and Mrs L
+When I started reviewing Mr and Mrs Ls complaint I let them know I was thinking of 
+departing from the outcome the investigator reached, and shared with them TSBs response 
+to the investigators view.
+Mr and Mrs L told me that they dont accept TSB acted fairly towards them. They accepted 
+that theyd not been significantly inconvenienced by what happened but said in this day and 
+age TSB should have had a system in place that works worldwide. They said they felt TSB 
+had failed them as theyd had to buy a roaming mobile phone to regain online access to their 
+account, and they didnt think they should have had to do that because online banking 
+access should, today, be easy with appropriate security controls in place.My provisional decision
+I issued a provisional decision on 25 February 2022. I wrote:
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint. Having done so, I not minded to 
+uphold Mr and Mrs Ls complaint. Ill explain why.
+TSB were required by the Payment Services Regulations 2017 (the PSRs 2017) to 
+implement SCA (also known as two-factor authentication). This means that when a 
+payment service user accesses their payment account online or initiates an 
+electronic payment TSB must check that the payment service user is genuine by 
+using something known to them (knowledge check), something only held by them 
+(possession check), or something inherent to them (inherence check). As a 
+minimum, the elements or factors used in SCA must derive from two of the three 
+categories. For example, to login to online banking a payment service user will 
+commonly need a password (knowledge) plus an OTP sent to a mobile phone held 
+by the payment service user (possession).
+The Financial Conduct Authority (FCA) issued guidance to businesses required to 
+implement SCA. This was principally set out in their publication Payment Services 
+and Electronic Money  Our Approach. This made clear that the FCA expected 
+payment service providers (PSPs) to develop SCA solutions that worked for all 
+groups of consumers. The guidance said PSPs may have to provide different 
+methods of authentication to, for example, cater for customers who dont possess a 
+mobile phone or smart phone. The guidance also said PSPs should consider the 
+impact of SCA solutions on different groups of customers as part of the design 
+process, in particular those with protected characteristics. (Protected characteristics 
+meaning those that are protected the under the Equality Act 2010).
+Im aware that TSB do provide more than one method of authentication. Personal 
+account holders can strongly authenticate by receiving an OTP to their mobile phone 
+(any type capable of receiving SMS text messages) or landline (where the OTP is 
+spoken), or use biometric authentication if their mobile phone is set up for that. These 
+options couldnt be accessed by Mr and Mrs L in July 2020 as they didnt have either 
+type of UK phone number. But I dont think the FCAs guidance means TSB were 
+obligated to offer a further different method of authentication for Mr and Mrs L in their 
+circumstances. And I don't think it's unreasonable that TSB designed their SCA 
+process principally with their UK customer-base in mind, and based on the 
+assumption that their customers would likely have a UK telephone number (either 
+mobile or landline). After all, their terms and conditions do say that account holders 
+must be resident in the UK.
+Im also mindful that the problem TSBs implementation of SCA created for Mr and 
+Mrs Ls online banking access was reasonably straightforward for Mr and Mrs L to 
+overcome by obtaining a UK mobile phone number on a roaming contract. I dont 
+think it was unfair that they had to do this if they wanted to continue to have the same 
+access to an account that
+was intended for UK residents. I think its reasonable to expect that if you want to 
+continue to hold an account intended for UK residents once youve stopped residing 
+in the UK, you might have to take some additional steps to facilitate that; and your 
+experience of and access to that service is likely to be different in some respects to 
+that of UK residents.Overall, whilst Im pleased to see that TSB did resolve this for overseas customers 
+and are now able to send OTPs to international numbers, I dont think it was unfair or 
+unreasonable that this wasnt something they could offer Mr and Mrs L between July 
+2020 and early 2021. So, I dont propose to direct TSB to do anything on this 
+occasion.
+Responses to my provisional decision
+TSB didnt make any further comments. Mr and Mrs L didnt agree with my findings. They 
+said TSB had failed them and had a dont care attitude until Mr and Mrs L escalated their 
+complaint. They thought TSB should value their customers more.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I see no reason to depart from what I said in my provisional decision; I dont 
+uphold Mr and Mrs Ls complaint. Whilst I appreciate that Mr and Mrs L feel strongly that 
+TSB treated them badly, and that theyll likely be disappointed by my decision, I dont think 
+theres enough to say that TSB acted unfairly or unreasonably here. I set out my reasoning 
+for that conclusion in my provisional decision and nothing Mr and Mrs L have said in 
+response to that has given me cause to change that finding.
+I remain of the view that it was reasonable for TSB to design their SCA process principally 
+with their UK customer-base in mind. And I dont think TSB were obliged to offer Mr and 
+Mrs L a different method of authentication in their circumstances. The account was intended 
+to be used by customers resident in the UK, and I dont think its unfair that TSBs SCA 
+process reflected that.
+My final decision
+My final decision is that I do not uphold Mr and Mrs Ls complaint against TSB Bank plc.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mrs L and Mr L to 
+accept or reject my decision before 5 April 2022.
+ 
+Beth Wilcox
+Ombudsman

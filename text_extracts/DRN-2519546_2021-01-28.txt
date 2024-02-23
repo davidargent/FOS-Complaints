@@ -1,0 +1,133 @@
+DRN-2519546
+The complaint
+G, a limited company, complains that an international payment it made from its account at
+Starling Bank Limited did not reach the beneficiary.
+What happened
+G sent a payment of £1,273 to a legal firm abroad on 12 February 2020. It was told that it 
+had not been received and contacted Starling Bank about this. G was told that because it 
+had selected the low cost local partner option rather than send this payment by SWIFT 
+that it could not be traced. Starling Bank said G would have seen that it was sent without a 
+reference and was not possible to recall if a mistake was made.
+Our investigator recommended that the complaint be upheld, and that Starling Bank should 
+trace the payment. G said it did not make a mistake with its payment and we would expect a 
+business to take reasonable steps to recover funds where a payment goes missing. There is 
+no guarantee of success and this is on a best endeavours basis.
+Starling Bank did not agree and said it could not trace the payment. It said that a low-cost 
+payment goes through the specified countrys local banking network and will arrive from a 
+third-party business its appointed and possibly through it into another local banks name. 
+That third party does not provide it with a tracing system. It had indicated on its website 
+that the SWIFT option could be used for this type of invoice payment and it now said that 
+this would have been most suitable. It admitted that it should also have stated on the 
+payment screen that a low-cost payment could not be traced as well as that it could not be 
+recalled. All Starling Bank could provide was the confirmation of sending.
+my provisional decisions
+I issued two provisional decision about this complaint and I summarise below what I said.
+i) Further information
+Id reviewed the terms and conditions for Gs account, and I thought the following parts were 
+most relevant:
+An international payment is a payment made through the International Payments page in 
+the App (page 8)
+And at page 3 - other organisations are also involved in processing International Payments 
+and we are not responsible for all stages of an International Payment. If we become aware 
+that an International Payment has been rejected or delayed, we will try to help you to 
+retrieve the funds.
+At page 6 - We accept liability where we act on a payment instruction and this is not 
+received by your payees bank (or a correspondent bank of your payees bank), except 
+where this is a result of your or your payees bank negligence (for example if you included 
+the wrong payee details).
+I couldnt see any reference to specific exclusions for the low-cost payment option. I asked 
+the investigator to contact Starling Bank and in light of my understanding of these 
+conditions set out that I couldnt see that it had investigated first whether G had initiated 
+the payment with the correct details and then if it had whether that payment was received. 
+I didnt think that the service offered by the third-party agent was the issue here. I asked 
+for any comments.
+Starling Bank came back and simply said that this would be down to G. It could not 
+determine if the IBAN (international bank account number) is correct and linked to the 
+intended beneficiary. The payment is sent with no human interaction and so there isnt 
+much to investigate.
+ii) my first provisional decision
+I didnt think Starling Bank had quite understood my point here and the consequences 
+taking into account the terms and conditions and what I think is fair and reasonable. So, I 
+issued a first provisional decision to explain my thinking further.
+It seems to be accepted that G was not alerted in advance to the fact that the low-cost 
+payment it made could not be traced if not received. And that Starling Banks position 
+seems to be that if it didnt arrive then it could not do anything about this.
+While I understood what it says about the reduced features of a low-cost compared to a 
+SWIFT payment I was not persuaded that G agreed to accept the risk if a process mistake 
+was made and/ or the payment got lost in the international banking system and did not 
+arrive with the beneficiarys bank. That wasnt a fair exclusion taking into account the terms 
+and conditions I quoted above. I did accept though that G reasonably knew that if it input 
+the beneficiary account details incorrectly then there was relatively little that could be done 
+about that.
+So, I considered that if G can show that it did direct the payment to the intended beneficiary, 
+and it did not arrive then under the terms and conditions Starling Bank agreed at least to try 
+and retrieve the funds. And if it could not be shown that it reached the beneficiarys bank 
+then it assumed liability for this. How it does that and its normal process is of course a 
+matter for it to determine and not for me to say. But if as it says its contract with the third-
+party agent it uses excludes payment tracing I didnt see that as something that should 
+adversely affect G. I would consider that to be an unfair outcome for G in these particular 
+circumstances.
+As Starling Bank insists it cannot do anything to investigate the payment further I needed 
+to make my provisional decision based on that. There seems little prospect of it being 
+able to provide any further evidence to assist in determining what happened to the 
+payment.
+As part of a response to the first provisional decision I invited G to provide evidence to 
+show it made a loss including the following:
+- The invoice for the payment setting out the bank details of the 
+beneficiary corresponding to the payment details it used.- Correspondence with the beneficiary about the payment not being received and 
+also if it has this of any enquiries the beneficiary had made of its own bank and 
+showing that this was not resolved.
+- Clear evidence that G was required to and did make this specific payment again 
+to the beneficiary and as a result had a financial loss by paying it twice.
+Subject to that evidence of loss I said I was then minded to require Starling Bank to refund 
+the payment. I also considered that G has been caused inconvenience and I intended to 
+recognise this with compensation of £200.
+iii) response to my first provisional decision
+G provided a copy of the invoice from its client dated 6 February 2020 that led to this 
+payment. It showed that it had explored what happened to the payment. And had been 
+told by its client, the beneficiary, who had contacted its bank that no payment either in 
+local currency or sterling had been received. It showed that it had made the payment 
+again on 14 April 2020. It agreed with my assessment.
+Starling Bank having seen the invoice noted that this said it should be paid in sterling (GBP). 
+But G had paid it from its account in local currency. It said that it thought that this was a 
+mistake on the part of G. And that in line with the terms and conditions it was not 
+responsible for the payment not arriving.
+In response to that point G said that its suppliers account was in local currency and it 
+didnt think that the invoice being written in GBP was material. It believed that the total 
+was converted for information purposes only.
+iv) my reassessment in a second provisional decision
+Id considered this new evidence and the comments carefully and issued a second 
+provisional decision on 9 December 2020. While I thought that G had made the payment 
+again Id been alerted to an error with the way the original payment was sent.
+I took the view that the currency that a payment is sent in is an integral part of the 
+payment instruction alongside the IBAN. Its not impossible that a payment in a currency 
+other than that requested be accepted and where necessary exchanged at the point of 
+receipt. But I was looking here at whether I can reasonably hold Starling Bank responsible 
+for the payment not being received.
+It would I knew come as a disappointment to the directors of G when I said that I no longer 
+thought that I could hold Starling Bank responsible. I was not able to find that the only 
+reason the payment didnt arrive was due to a processing error that Starling Bank made. A 
+plausible explanation is due to the way the payment was sent. And in making my 
+assessment I also took into account the terms and conditions of the account. These state 
+that Starling Bank accepts liability for a payment not arriving unless G made a mistake. G 
+had been alerted that due the nature of this low-cost payment it couldnt be recalled if a 
+mistake was made. There was no reference with this payment method and Starling Bank 
+had said that the more expensive SWIFT method would be suitable for the payment of an 
+invoice.
+I had to say that I found it unsatisfactory to have reached my conclusion in this way. 
+Starling Bank took no action to look into this payment and to establish whether or not it 
+had been sent correctly. Had it done so and investigated things as I would have expected 
+then this matter would have been resolved more quickly. Nevertheless, the position is that I was no longer able reasonably to find it has made a mistake with the payment and so I 
+didnt now have a basis to require it to do anything further.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+I didnt receive any response to my second provisional decision from Starling Bank or G and 
+so I see no reason to depart from my conclusions in my second provisional decision.
+My final decision
+My decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask G to accept or 
+reject my decision before 26 February 2021.
+ 
+Michael Crewe
+Ombudsman

@@ -1,0 +1,144 @@
+K820x#14complaint
+Mr B complains about various  issues which arose  in connection with his account  with 
+Revolut Ltd. He complains that his debit cards  didnt work, Revoluts anti-money laundering 
+(AML) requirements were too strict,  their currency exchange rates  were  wrong  and were  not 
+transparent, and about related matters.
+background
+In 2019 Mr B complained to Revolut about  the following  matters:
+Its AML requirements were too onerous. He said Revolut had asked him to provide 
+15 years worth of pay slips.
+His card payments had been  blocked in August  2018.
+Some pending card payments  which had not been processed by the merchant had 
+not been refunded within 30 days.  He had had to ask for them to be done manually.
+He challenged  the exchange rate Revolut had applied  when he had traded one 
+currency for another, and said that Revolut  had not followed his instructions. Also, 
+Revolut had not proved to him that it had used  the correct  exchange rate, and had 
+given him contradictory information  about this subject.
+Revolut had told him that currency speculation  or arbitrage is prohibited, but there 
+was no definition of what this meant in its terms and conditions, and its explanation 
+was unclear and contradictory.
+Communicating with Revolut takes  too long (but he has since decided  not to pursue 
+this point).
+Revolut said that the delay in refunding  some  pending payments was a known issue which it 
+was working to rectify.  It apologised,  and refunded  one monthly subscription payment. But it 
+did not accept  the other criticisms. It said its terms and conditions said that Mr B had to 
+comply with its requests  for information. His card payments had only been blocked  because 
+of things Mr B himself had done  (such as blocking  his own card, or entering the wrong expiry 
+date). It was its customers responsibility to ensure that they were satisfied with the offered 
+rate before entering  a transaction.
+Being dissatisfied with that answer, Mr B brought this complaint to our Service.  
+Subsequently, Resolut  said Mr Bs transaction had been carried out automatically,  when the 
+exchange rate had passed his pre-determined  level. This had occurred immediately at the 
+start of the weekend,  when Revolut applied a mark-up to the rate, which had caused the rate 
+to pass Mr Bs chosen rate. It added that it had not said or decided that Mr B had breached  
+its terms and conditions  about currency speculation, and had not suspended  or reviewed his 
+account.
+Our investigator did not uphold this complaint. She accepted Revoluts explanations, and did 
+not think it had acted unfairly.  Mr B asked for an ombudsmans decision. He pointed  out two 
+statements by Revolut  which he said appeared to contradict each other.
+Another ombudsman  began to look into this case,  but he has since  left the Service.  I have 
+however read all of the correspondence  between him and both parties.
+my findings
+I have considered all the available evidence  and arguments to decide what is fair and 
+reasonable in the circumstances of this complaint.  I do not uphold it. I will explain why.
+Ref: DRN24327912exchange rates
+I will begin with the exchange rate issue, because Mr B told us this was the most important 
+matter to him.
+During a week in early  2019, Mr B instructed Revolut to exchange  one currency to another 
+when the exchange rate dropped to a certain level. From Monday to Friday, Revolut did not 
+apply a mark-up to its exchange  rates.  But at weekends,  Revolut  applied  a 1% mark-up to 
+the exchange rate. That is normal industry practice,  and it was mentioned  in Revoluts terms 
+and conditions and in a related document about  Revoluts  prices. This mark-up took the 
+exchange rate some  way past the level chosen  by Mr B, and so at one minute past midnight  
+on Saturday morning  the transaction was automatically carried out, at a rate somewhat lower 
+than Mr B had intended.
+I have seen screenshots (provided  to us by Mr B) in which Revolut explains to its customers  
+how this works, before  a transaction is set up. They say that the rate at which the exchange 
+takes place may not be equal  to your target value due to market volatility.  That was not the 
+reason in this instance: the reason was that the rate jumped  by one per cent at the start of 
+the weekend.  But the consequence  was the same, and it was a foreseeable result of the 1% 
+mark-up.
+The risk of market volatility is mitigated by the fact (also  explained in the screenshots)  that if, 
+in the short  time between  the target rate being  hit and the transaction actually being 
+executed, the exchange  rate moves from the customers  target rate by 2.5% or more (this 
+figure has since been reduced to 0.75%), then the transaction will not be carried  out. So the 
+impact of the 1% mark-up coming into effect was well within  this tolerance  at the time. (And 
+the difference between the rate Mr B wanted and the rate he got was still within  the new, 
+reduced tolerance.) So I think it was reasonably foreseeable that the transaction  might  be 
+carried out at the rate which was applied,  instead  of the target  rate.
+Mr B converted 20,429 Swiss francs into another currency. He has seen a document which  
+appears to say that he converted  2,042,900  francs, but this is just the way that information is 
+recorded there. He didnt  actually exchange two million francs. He received the correct  
+amount of the other  currency.
+Mr B asked Revolut about where  it gets it exchange rates from, or how it calculates  them.  He 
+complains that he received two conflicting answers  about this. In its final response letter, 
+Revolut told him this:
+The  website investing.com is fully external  to Revolut  and its data doesn't  
+represent or reflect any currency exchange  rates applied by Revolut. It is, therefore, 
+indeed possible that the exchange rates visible on the said website would  be 
+discrepant to the Revolut  exchange rates.
+Later, in a chat room discussion with a Revolut  agent, he says he was told this:
+We use lnterbank exchange  rates, which are provided also to lnvesting.com
+At first glance, these comments do seem to contradict each other,  but only because neither 
+of them  gives the full story. Revolut has since explained that the exchange rates  published 
+by that website are the average  between  the bid rates and the offer rates   known  as mid-
+market rates. Mid-market rates are not used by Revolut for transactions.  But the bid rates 
+Ref: DRN24327913and offer rates are interbank rates, which are provided to that website and also,  separately,  
+to Revolut. Revolut  gets them from a third party, Morningstar, not from investing.com.  
+Revoluts rate for transactions of the kind made  by Mr B was the interbank offer rate until the 
+weekend, when the mark-up was added. I accept that explanation, and I think  that answers 
+Mr Bs point  about the comments quoted  above.
+AML measures
+I can deal with the other issues  shortly.  I have  read the messages in which Mr B and 
+Resoluts agent  discussed the evidence he needed to provide to pass Resoluts AML 
+checks. Nowhere did the agent actually ask him for 15 years  worth of payslips or tax 
+receipts. She only asked  for three months  worth. Initially,  the evidence  Mr B provided  was 
+not enough to persuade Resolut to increase  his limit. So the agent  sent him the following 
+message (on 12 September 2017  at 19:46). (I have redacted his former occupation to 
+preserve his anonymity.)
+On the basis of provided documents, we can't increase the limit. We will need to 
+see statements from your saving account with a balance  and your name on it. You 
+also need to provide us with P60/tax receipts for the time you worked as a [former 
+occupation].
+Mr B had worked in his old job for 15 years, so he interpreted this as a request for payslips 
+or tax receipts for the whole 15 year period. But thats not what the agent  said.  I think she 
+just meant  three months worth from the time he held that job. I am reinforced in my opinion 
+by the fact that when Mr B provided the payslips in a format  that Revolut  couldnt  open, 
+Revolut asked him to provide three monthly payslips  from the period  June  2013  to May 
+2014. 12 hours after that, Resolut increased his limit. So I think this matter  resulted from a 
+genuine misunderstanding, and that once three  payslips were  provided in a format that 
+Resolut could read, the matter was resolved in a timely manner.
+card payments
+I have seen no evidence  that the card payments which were blocked  were blocked as a 
+result of an error by Resolut. So I accept Resoluts explanation for the blocks. However,  the 
+fact that some payments which were not processed  by the merchants were  not automatically  
+refunded after 30 days is clearly Resoluts error, and Resolut admitted as much when Mr B 
+complained. It should not have been necessary  for Mr B to have to contact Resolut to ask for 
+those payments to be refunded. Nevertheless,  as soon as Mr B asked for them to be 
+refunded they were  refunded without  delay  within three and a half minutes. So I think  
+Resoluts apology and refund of his monthly  subscription fee was fair compensation for that.
+speculation / arbitrage
+There has currently been no impact  on Mr B caused by Resolut  reminding  him that its terms 
+and conditions prohibit currency speculation  on a personal account. His account has not 
+been suspended, nor has Resolut threatened to suspend it. But I appreciate that he is 
+concerned about  inadvertently contravening this rule by mistake, because he does not think  
+the rule is clear.
+Its true that the terms and conditions do not give a precise definition  of the prohibited  
+conduct, or a specific, certain number of transactions which  are permitted,  which may not be 
+exceeded. But they dont have to: the terms and conditions are not a criminal code. Instead, 
+the boundary  between  what  is acceptable and what is not is a grey area, to allow  for some 
+Ref: DRN24327914flexibility of interpretation  in light of the facts of each case. Mr B hasnt broken the rules yet, 
+as far as Resolut knows, but if he is concerned about this being a risk in the future then 
+I would recommend that he opens  a business account.
+I wish I could be more helpful than that, but it is not within my remit to consider a 
+hypothetical scenario that has not yet come to pass  i.e., whether Resolut would be right or 
+wrong to suspend Mr Bs account based on his current or recent volume of transactions,  
+when resolute has taken no such action. That question will have to be decided in a future 
+complaint, if such a thing  comes to pass.
+my final decision
+My decision  is that I do not uphold  this complaint.
+Under the rules  of the Financial Ombudsman Service,  Im required to ask Mr B to accept or 
+reject my decision  before 11 June  2020.
+Richard Wood
+ombudsman
+Ref: DRN2432791

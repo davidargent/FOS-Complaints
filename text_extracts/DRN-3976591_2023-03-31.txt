@@ -1,0 +1,103 @@
+DRN-3976591
+The complaint
+Mr I complains that Revolut Ltd refuses to refund the money he lost to an investment scam. 
+Mr I is represented by a third party, for ease of reading, Ill refer to him alone in this decision. 
+What happened
+Mr I has explained that in 2021 he made payments from his Revolut account to fund what he 
+thought was a legitimate investment with a company that turned out to be a scam. 
+Mr I first sent his payments to a crypto exchange, bought crypto and subsequently sent it 
+onto the scammer. The relevant payments (the scam payments) made from Mr Is newly 
+opened Revolut current account are listed below.
+Payment 
+number Date DescriptionMethod of 
+paymentAmount 
+(£)
+1 19/07/2021 Moonpay LtdBank 
+transfer £2,490
+2 24/09/2021 Moonpay Ltd Debit card £2,508.15
+Total £4,998.15
+Mr I got in touch with Revolut on 2 November 2021 to request a recall of the scam 
+payments. Revolut ultimately didnt reimburse him. 
+Remaining unhappy, Mr I referred his complaint about Revolut to this service. As our 
+Investigator was unable to resolve the matter informally, the case has been passed to me for 
+a decision. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I dont uphold this complaint and Ill explain why. 
+Whilst Mr I has made reference to the Contingent Reimbursement Model (CRM) Code, this 
+only applies to domestic bank transfer payments to another person. Here Mr I sent payment 
+1 to a Moonpay account that would have been held in his name and then from there, sent 
+the purchased crypto to the scammer. So in this case, payment 1 was not sent to another 
+person. Payment 2 was of course a debit card payment which isnt covered. The CRM Code 
+is therefore not applicable to Mr Is complaint, so Ive gone onto consider whether Revolut 
+ought to have reasonably suspected Mr I was at risk of financial harm from fraud. 
+Prevention
+Its common ground that Mr I authorised the scam payments in question here. He was 
+tricked by scammers into instructing Revolut to make the payments. So although Mr I didnt 
+intend the money to go to scammers, under the Payment Services Regulations and the 
+terms and conditions of his account, Mr I is presumed liable for his loss in the first instance. 
+Mr I didnt pay the scammers directly and instead paid a legitimate company, so I dont think 
+the payee alone ought to have caused particular concern to Revolut. That said, taking into 
+account the law, regulatory rules and guidance, relevant codes of practice and good industry 
+practice, there are circumstances where it might be appropriate for a Payment Service 
+Provider (in this case Revolut) to take additional steps or make additional checks before 
+processing a payment to help protect its customers from the possibility of financial harm from 
+fraud and scams. But there is a balance to be struck between identifying payments that 
+could potentially be fraudulent and minimising disruption to legitimate payments.
+In terms of prevention, given the size of payment 1 and that Mr Is Revolut account had been 
+newly opened at the point of that payment, Im not persuaded there would have been 
+anything sufficiently suspicious about this transaction for Revolut to have been obliged to 
+block the payment pending enquiries with Mr I before letting it through. Revolut had no 
+genuine regular spend to compare this payment to and as it was a one-off payment, to a 
+legitimate crypto provider, of not a particularly large amount, I dont think Revolut ought to 
+have been reasonably concerned. 
+Payment 1 was made two months apart from payment 2 and payment 2 was of a similar 
+amount to payment 1, so I dont think payment 2 appeared particularly unusual. 
+I dont think - when taken individually or collectively - that the scam payments ought to have 
+caused Revolut enough concern to have reasonably suspected Mr I may be the victim of 
+fraud or a scam. I dont think the scam payments were unusual enough when considering 
+the lack of account activity and value of the individual payments. I also dont think the time 
+and space between the two payments is reasonably indicative of a scam as you may 
+commonly expect more frequent payments. 
+As I dont think Revolut ought to have blocked the scam payments before allowing them 
+through, I dont need to consider how Mr I may or may not have responded to a warning 
+from Revolut.  
+Recovery
+Having decided the above, I could only uphold this complaint if I thought Revolut 
+unreasonably hindered recovery of the funds and that this caused Mr Is loss.
+I can see Revolut attempted to recover payment 1 from the beneficiary bank promptly. But 
+the beneficiary bank replied to say that the end customer had spent the funds. I think this 
+was to be expected as it isnt disputed that crypto was purchased from Moonpay before 
+being sent to the scam wallet.   
+In relation to payment 2, Revoluts only recovery option would have been to process a 
+chargeback claim. 
+The chargeback process is voluntary and run by the card scheme  in this case Mastercard -
+whereby it will ultimately arbitrate on a dispute between the merchant and customer if it 
+cannot be resolved between them after two presentments. Such arbitration is subject to the 
+rules of the scheme  so there are limited grounds on which a chargeback can succeed or 
+be deemed a valid claim. Our role in such cases is not to second-guess the card scheme rules, but to determine 
+whether the regulated card issuer (i.e. Revolut) acted fairly and reasonably when presenting 
+(or choosing not to present) a chargeback on behalf of Mr I.
+Ive seen that Revolut considered processing a chargeback claim for Mr I but ultimately 
+decided it had no grounds to do so. As Mr I didnt pay the scammers directly and instead 
+paid Moonpay, his payment would have been converted to crypto before being sent to the 
+wallet of his choosing (albeit completed under the guidance of the scammer). I therefore 
+think Moonpay would have likely defended any chargeback claim on the basis that Mr I 
+received the service he paid for. But before a chargeback claim can be defended, Revolut 
+would need to have valid grounds to process any claim and it doesnt appear it would have 
+had any because there is no dispute Mr I received crypto in exchange for his payment. And 
+so, I dont think Revolut acted unfairly by choosing not to raise chargeback claims on Mr Is 
+behalf. 
+I therefore dont think Revolut could have recovered any of Mr Is payments. 
+I appreciate this will be a disappointment to Mr I, not least because he sold his car to fund 
+payments to the scammer. But for the reasons Ive explained, I dont think Revolut is 
+responsible for his loss. 
+My final decision
+My final decision is, despite my natural sympathy for Mr Is loss, I dont uphold this 
+complaint. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr I to accept or 
+reject my decision before 28 April 2023.
+ 
+Dolores Njemanze
+Ombudsman

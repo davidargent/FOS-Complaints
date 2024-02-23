@@ -1,0 +1,171 @@
+DRN-3709451
+The complaint
+Mr H complained because Bank of Scotland plc, trading as Halifax, refused to refund him for 
+a transaction he said he didnt make.
+What happened
+At 7:51 am on 24 July 2021, there was a £999.99 faster payment debit from Mr Hs Halifax 
+current account to an online cryptocurrency organisation.
+A second attempted faster payment to the same beneficiary a few minutes later, for £2,954, 
+was stopped by Halifaxs systems. Halifax blocked Mr Hs internet banking.
+On 12 August, Mr H rang Halifax because he couldnt make payments. Halifax explained 
+that it had blocked the account because of he attempted £2,954 payment. Mr H said he 
+hadnt made either the £999.99 payment, or the attempted £2,954 payment, to the 
+cryptocurrency organisation. 
+Halifax didnt accept what Mr H had said. It said it could see that Mr Hs internet banking 
+password had been changed before the £999.99 payment to C. Mr H said he hadnt 
+changed it. But Halifaxs records showed that it had made a verification call to Mr Hs phone, 
+to verify the password change. And it told Mr H that after the password had been changed, 
+Mr H had used his registered mobile  device to access online banking. So it didnt agree that 
+any third party fraudster had fraudulently accessed Mr Hs account without his knowledge.
+Mr H didnt agree. He complained, but in its final response letter Halifax still didnt uphold Mr 
+Hs complaint, and it refused to refund him.
+Mr H wasnt satisfied and complained to this service. He said hed never heard of the 
+cryptocurrency organisation, and he said that only people who knew what they were doing 
+would invest £999.99 instead of £1,000. He said he didnt have the funds to invest because 
+he had a large family and supported it with benefits. Mr H said that at the time of the £999.99 
+disputed payment, he was driving the family across Europe. He said his wife didnt drive 
+which he said proved he hadnt made the payment. Mr H also said that Halifaxs information 
+said that whenever you make a payment to a new payee, Halifax would ring you to enter a 
+four-digit code, but he hadnt received that. He said this proved he hadnt made the payment. 
+He said that it says online you have to have an account with cryptocurrency organisation in 
+order to make a deposit  which he didnt have. Mr H said he wanted a refund of the 
+£999.99, an apology from Halifax, and compensation.
+Our investigator didnt uphold Mr Hs complaint. He explained that:
+- the IP address used to change Mr Hs password was the same as Mr H had used on 
+22 and 23 July for undisputed transactions;
+- before the disputed transaction, a different type of phone had been added to Mr Hs 
+account, and this then made the disputed transaction. But a verification call had been 
+made to Mr Hs existing phone, to verify the password change, and there had been 
+text messages to tell him about the activity with his online banking. Mr Hs existing 
+phone was then used to authorise the registration of the extra, different type, of 
+phone;
+- Mr H hadnt reported his existing phone lost or stolen before or at the time of the 
+transaction.
+The investigator also contacted the cryptocurrency organisation C. And it told him that Mr H 
+had opened an account on the afternoon of 23 July, providing a copy of his driving licence as 
+identification.
+So the investigator thought it was most likely that Mr H had carried out the disputed 
+transaction himself.
+Mr H wasnt satisfied, and sent several long emails. In summary, he said:
+- Halifax information said that whenever a customer made a payment to a new payee, 
+Halifax would call and ask for a four-digit number verification. Mr H sent the call log 
+for his first phone and said this didnt show the verification  so it must have been the 
+newly-added phone which received it. He also hadnt received any texts;
+- He asked why hed deposit £999.99 with the cryptocurrency organisation, not £1,000;
+- Hed sent a data subject access request (DSAR) to Halifax and hadnt had a 
+response. He said that would have shown whether or not hed received calls about 
+the payment;
+- He wanted the investigator to provide clear information about when the password 
+was changed; when the new phone was added; when the cryptocurrency account 
+had been opened; and phone call information from Halifax; 
+- He said hed got a family member to open an account with the cryptocurrency 
+organisation to see what the process was. He wanted evidence of everything 
+supplied to that organisation for the account in his name, and said if it wasnt 
+provided hed take legal action.
+The investigator replied that the verification call from Halifax was automated, so there was 
+no conversation. Hed seen the verification evidence but it was commercially sensitive so he 
+couldnt pass it on. But the investigator provided timescales and dates for the two phones 
+and the activities on them. The investigator also told Mr H that the cryptocurrency 
+organisation had said that Mr Hs driving licence identification had been independently 
+verified. 
+Mr H sent another detailed email. In summary, he said:
+- He had a legal right to information and hed twice submitted a DSAR to Halifax which 
+it hadnt actioned;
+- The verification call couldnt be evidence if it didnt show his voice, because anyone 
+could have entered the numbers;
+- He wanted the investigator to provide proof that hed purchased or signed a contract 
+for the type of phone which had been added to the Halifax account;
+- He said he wouldnt have bought an expensive new phone and then paid £999.99 
+into cryptocurrency because he was going on holiday and a holiday for his family 
+wasnt cheap;
+- He said cryptocurrency wasnt regulated so there was nothing to stop the  
+cryptocurrency organisation lying to the investigator about whether Mr H had an 
+account;
+- It would have been impossible for him to have used the same IP address to make the 
+disputed transaction, because he was in Europe, which he could prove by the 
+evidence hed sent in. 
+Mr H asked for an ombudsmans decision.What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Regulations
+There are regulations which govern disputed transactions. The relevant regulations for 
+disputed transactions taking place in July 2021 are the Payment Services Regulations 2017. 
+These say that the payment service provider (here, Halifax) must show the transaction was 
+authenticated. Thats the technical part, and here, the disputed £999.99 transaction was 
+technically authenticated. 
+The regulations also say that its necessary to look at whether the card holder authorised the 
+payments. In general terms, the bank is liable if the customer didnt authorise the payments, 
+and the customer is liable if he did authorise them. The regulations also say that account 
+holders can still be liable for unauthorised payments under certain circumstances  for 
+example if theyve failed to keep their details secure to such an extent that it can be termed 
+gross negligence.
+So Ive gone on to consider whether or not Mr H authorised the transaction. If he allowed 
+someone to carry out the transaction on his behalf, that would count as Mr H authorising it.
+I would also point out that this service takes its decisions on whats more likely than not to 
+have happened. Mr H has said we should provide him with a great deal of very detailed 
+information. Some of that I cant provide to him because its commercially sensitive 
+information. But much of it is information which I dont need in order to take my decision 
+about whats more likely than not to have happened. For example theres no need for me to 
+have proof that Mr H bought and/or signed a contract for the particular type of phone which 
+carried out the disputed transaction. What matters is that the evidence which I do have 
+shows that on balance, its more likely than not that events happened in a certain way.
+Who authorised the disputed transaction?
+Before the disputed transaction, the password on Mr Hs internet banking was changed, and 
+the new, extra, phone was added to his account. Ive looked carefully at these changes:
+- An IP address is a unique geographical computer identifier. The password was 
+changed from an IP address which was the same as Mr H used on 22 July for an 
+undisputed £1,200 payment. So I consider its likely that Mr H changed the password 
+himself.
+- Halifax sent a message to Mr Hs existing phone at 12:06 on 22 July, which required 
+him to enter a code before the new phone device could be added to the account and 
+activated. This was an automated system, and didnt require a phone conversation. 
+The new phone was activated. 
+- Ive also seen evidence of text messages sent to Mr Hs existing phone number 
+about these changes. Mr H didnt contact Halifax immediately to challenge these.
+I recognise that Mr H disputes having received any of the text messages, and says he didnt 
+enter the code to verify the changes. But Ive seen the computer evidence which shows 
+these were sent, and verification took place.
+Mr H said that his security details werent stored with any online retailer or service provider, 
+and his phone was password protected. Mr H hadnt reported his phone lost or stolen. So its 
+hard to see any way in which Mr Hs details can have been obtained by a third party 
+fraudster.So I find that its most likely that it was Mr H himself who changed his internet banking 
+password, and set up the extra phone, on his account on 22 July. The new password and 
+the new, extra, phone, were used to make the disputed £999.99 transaction on 24 July. I 
+consider the password change and the addition of another phone do not prove that the 
+disputed payment was made by a third party fraudster.
+Going on to the recipient cryptocurrency account, in his complaint form Mr H told us that hed 
+never heard of the cryptocurrency organisation to which the disputed payment was made. 
+But the evidence which that firm sent to us, in response to our investigators queries, shows 
+that an account was set up in Mr Hs name, the day before the disputed transaction. For 
+identification, that new account used Mr Hs driving licence as identification, and that driving 
+licence was independently verified. Mr H, in response, said that there was nothing to stop 
+the  cryptocurrency organisation lying to the investigator. But I cant see any reason why it 
+would benefit the cryptocurrency organisation to do so.
+Mr H has also said that he couldnt have made the disputed transaction because he was 
+abroad on holiday. He provided screen shots of a journey which he said prove this. But Mr H 
+could have given his Halifax account and security information to another person to carry out 
+the disputed transaction for him. By the time Mr H left to go on holiday, there were two 
+phones set up on Mr Hs Halifax account, and a cryptocurrency account in his name. For the 
+reasons set out above, I consider its more likely than not that Mr H verified the phone and 
+set up the cryptocurrency account. And if Mr H gave someone else the necessary security 
+information to carry out the transaction, it counts as Mr H having authorised it. I think thats 
+most likely to be what happened here. 
+Mr Hs Halifax DSAR point
+Mr H has said that hes twice requested a Data Subject Access Request from Halifax. That 
+didnt form part of his complaint to Halifax, and isnt dealt with in Halifaxs final response 
+letter. This service cant consider matters which a customer hasnt previously raised with 
+their bank, so I cant consider Mr Hs complaint that he hasnt had a reply to his requests. 
+But in any case, it seems that one reason Mr H wanted this was because he said the phone 
+call for verification would prove it hadnt been he who verified the details. But that call was 
+automated, so there wouldnt be any recording of either Mr Hs, or any third party fraudsters, 
+voice on the call.
+Summary
+Taking all these factors into account, I consider its more likely than not that Mr H authorised 
+the disputed £999.99 transaction himself, and I dont require Halifax to refund him.
+My final decision
+My final decision is that I do not uphold this complaint. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr H to accept or 
+reject my decision before 8 November 2022.
+ 
+Belinda Knight
+Ombudsman

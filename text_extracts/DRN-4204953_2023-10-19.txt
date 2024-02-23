@@ -1,0 +1,132 @@
+DRN-4204953
+The complaint
+Mrs H complains that Nationwide Building Society (Nationwide) wont refund transactions 
+she didnt make or otherwise authorise.
+Mrs H is being represented by a relative, Mr B, in bringing this complaint.
+What happened
+Mrs H says that on 5 January 2023, Nationwide sent her a text message asking her to call 
+back in relation to recent activity on her account. It was then that she discovered several 
+payments had been made from her current account earlier that day. Before it spoke to 
+Mrs H, Nationwide had already blocked most of the card payments. It had also stopped a 
+faster payment which it had been instructed to execute. 
+Nationwide asked Mrs H about the payments which had debited, and she said she didnt 
+recognise any of them. She was asked if shed received any calls that day and whether she 
+had shared her card or log-in details or been asked to download software on her laptop 
+under the guise of fixing any issues she may have been experiencing with it. Mrs H said that 
+she hadnt spoken to anyone that day and hadnt downloaded or been asked to download 
+any software on her laptop. She also told Nationwide that she hadnt shared her security 
+details with a third party.  
+Mr B reached out to the merchants directly on Mrs Hs behalf and some of the payments 
+were refunded, leaving one debit card payment of £498 and five faster payments of £101.99 
+each still in dispute. 
+Nationwide investigated the claim and ultimately declined it, saying the payments were 
+completed using Mrs Hs security details. For the faster payments, it said that online banking 
+access was gained through a card reader using Mrs Hs card and its associated PIN. Mrs H 
+said she hadnt used her card reader that day or shared any codes with someone.  
+It later transpired that remote access software was found on Mrs Hs laptop. A complaint was 
+made when Nationwide didnt respond to this additional information. It apologised for its 
+service failings and sent Mrs H a cheque for £75 in recognition of this. But Nationwide 
+maintained its position regarding the outcome of her claim.
+Unhappy with Nationwides refusal to refund the disputed transactions, the matter was 
+referred to our service. Our investigator concluded that based on what Mrs H had said about 
+what happened and the technical evidence wed received from Nationwide, they couldnt see 
+a point of compromise that would have allowed the payments to be made by a third party. 
+So, under the relevant regulations  the Payment Services Regulations 2017 (PSRs)  the 
+transaction would be deemed authorised and Mrs H would be liable. 
+The investigator said they appreciated that there may be more to what happened at the time 
+of these payments. But without knowing, and based on the available evidence, they didnt 
+believe Nationwide needed to refund the payments.
+Mr B didnt agree with the investigators findings. So, the complaint has been passed to me 
+to decide.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Firstly, Im sorry to hear that this incident has left Mrs H distressed. Id like to reassure her, 
+Mr B, and Nationwide that although Ive only given an overview of what happened, Ive read 
+and considered everything weve been provided in its entirety.
+When considering whats fair and reasonable, Im required to take into account relevant law 
+and regulations; the regulators rules, guidance and standards; the codes of practice; and, 
+where relevant, what I consider good industry practice at the relevant time. 
+Where theres a dispute about what happened, and the evidence is incomplete or 
+contradictory, I must make my decision on the balance of probabilities  in other words, what 
+I consider most likely to have happened in light of the available evidence.
+Generally, Nationwide can hold Mrs H liable for the disputed transactions if the evidence 
+suggests its more likely than not that she made or authorised the transactions herself. 
+In this case, its not in dispute that Mrs Hs personalised credentials were used to make the 
+disputed transactions. The technical data Nationwide has provided shows that her card 
+details (card number and CVV code) were used for the debit card payment. For the faster 
+payments, Ive seen evidence that Mrs Hs card and its associated PIN were used in a card 
+reader to access online banking each time a payment was made. And the card reader was 
+also involved in at least some of the payments (the ones subsequently refunded by the 
+merchant concerned) to undergo additional verification. So, the payment transactions were 
+authenticated correctly. 
+But the regulations relevant to this case say that authentication isnt, on its own, enough for 
+Nationwide to hold Mrs H liable. I also need to think about whether the evidence suggests 
+that she, or someone acting with her authority, consented to the transactions being made.
+To decide whether Mrs H  or someone acting with her authority  made the transactions, 
+Ive carefully considered what shes told us about what happened. And Ive considered that 
+in conjunction with a review of the available evidence.
+Mr B has told us that Mrs H didnt speak to anyone else on the day in question. At the time, 
+he also told Nationwide that hed looked at Mrs Hs call log and her last call had been nearly 
+a week earlier. More recently, Mr B told us that he would describe Mrs H as quite scam 
+aware and very cautious. And so, he doesnt believe that she could have answered unknown 
+calls and used her card reader several times and disclosed the codes to an unknown 
+person. Mr B submits that Mrs Hs card was likely cloned and used by a third party. He 
+believes Nationwide should honour its Digital Banking Promise, which says that it will protect 
+its customers and issue refunds if money is taken without their authorisation (with some 
+exceptions).
+I acknowledge Mr Bs comments and the strength of his feelings on the matter. But I have to 
+consider all the information before me, including the technical evidence which Nationwide 
+has provided. A card reader-generated code was used to log in to Mrs Hs account at least 
+ten times on the day of the disputed transaction. And although the data doesnt show that every single faster payment also went through additional verification requiring a card reader-
+generated code, I can see that some did. 
+That means the physical card was inserted into the card reader, and the PIN entered, on 
+multiple occasions to generate a code for logging in to Mrs Hs online banking or approving a 
+payment. Card readers are universal, but they read the chip information on the card. To my 
+knowledge, chip information cant be copied over to cloned cards. That means Mrs Hs 
+genuine card would have been used to generate the card reader codes to gain access to 
+online banking and approve some of the transactions. During the call with Nationwide, Mrs H 
+said she hadnt shared her security information with anyone. And theres no suggestion that 
+her card wasnt in her possession at the relevant time. 
+Its also worth noting that although Mrs H has said she didnt log on to her Nationwide 
+account until after it had sent her a text message, the technical data Ive seen shows that the 
+account was accessed through an iPad just a few minutes before the first log in using the 
+card reader-generated code. It is my understanding that the iPad belongs to Mrs H which 
+she has used to access her Nationwide account previously. 
+When the case came to me, I requested further information from Mr B through our 
+investigator particularly about the remote access software that was found installed on 
+Mrs Hs laptop and whether hed spoken to her about how that came to be. He said the only 
+thing theyd been able to attribute any suspicion to was that a few days prior to 5 January, 
+Mrs H had received an email purporting to be from a money transfer service asking her to 
+click on a link to contact them as she owed them money. Mr B explained that Mrs H was 
+cautious and didnt click on the link. She did, however, reply to the email demanding to know 
+how she owed the firm money when she didnt have an account with them.
+From what Mr B has told us, it seems likely that Mrs H received and responded to a phishing 
+email. But if she didnt click on any links and share details like her card number etc., or grant 
+permission for someone to access to her device, it seems unlikely that her security details 
+were compromised at that point.
+Ive given this a lot of thought. As Mrs H says she didnt disclose her cards PIN or her online 
+banking log-in details to anyone else, and as her card was in her possession during that 
+time, I cant see how the transactions could have been made without some form of 
+involvement on Mrs Hs part. Given the steps required, and the number of times those steps 
+would have needed to be completed, I find it unlikely that the transactions were completed 
+without her involvement.
+Like the investigator said, I think there may be more to what happened that day than what 
+Nationwide and our service have been made aware of. But Mr B has recently told us that 
+theres nothing more Mrs H can recall about that day. He says the first unusual thing that day 
+was the contact from Nationwide. 
+Overall, I cant say for sure what happened. But I only have to reach a decision based on the 
+balance of probabilities, i.e., what I think is more likely than not to have happened. Ive 
+weighed up everything and given the discrepancies and a lack of plausible explanation, 
+I dont consider it fair to tell Nationwide to reimburse the transactions that are still in dispute, 
+including under its Digital Banking Promise.
+I recognise that Mrs H and Mr B will likely be extremely disappointed with this outcome. But 
+based on the available evidence, I cant safely conclude that Nationwide has been 
+unreasonable in holding her liable. Because of this, I wont be asking it to do anything 
+further. My final decision
+For the reasons given, my final decision is that I dont uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mrs H to accept or 
+reject my decision before 16 November 2023.
+ 
+Gagandeep Singh
+Ombudsman

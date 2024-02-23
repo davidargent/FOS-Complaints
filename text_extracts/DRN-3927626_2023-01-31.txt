@@ -1,0 +1,120 @@
+DRN-3927626
+The complaint
+Mr C complains that Monzo Bank Ltd (Monzo) wont refund a transaction on his account 
+which he didnt make. 
+What happened
+The details of this complaint are well known to both parties. So rather than repeat them all 
+again here, Ill briefly summarise the key points.
+Mr C has explained that he fell victim to a scam. He was selling an item on Gumtree, and 
+someone posing as an interested buyer messaged him. They sent him a link to a website 
+which they said would allow him to receive payment for the item, and arrange for the courier 
+to pick it up for delivery. 
+The scammer told him he would receive a notification on his app to receive the payment. 
+Mr C questioned why this notification, which prompted him to enter his PIN, didnt show the 
+amount he was expecting for the item (£35). The scammer said the figure displayed was the 
+order number. They also said they always ordered through that website and hadnt 
+experienced any problems. 
+Mr C then entered his PIN as instructed. But rather than receiving the payment he was 
+expecting, a payment for £689.59 left his account. He asked Monzo to refund him. It paid 
+him £25 compensation for how it handled the investigation, but said it wouldnt refund him as 
+he had shared his card details and approved the payment in the app. 
+Unhappy with this response, Mr C referred the matter to our service. Our investigator 
+thought Monzo should refund the payment, with interest, and pay a further £75 
+compensation for the worry caused by failing to refund him sooner. As Monzo didnt accept 
+this proposed resolution, the matter has been passed to me to decide. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I agree with the conclusions reached by the investigator for these reasons:
+In line with the Payment Services Regulations 2017 (PSRs), the starting position is 
+that Mr C is liable for payments he authorises. The PSRs specify that authorisation 
+depends on whether the payment transactions were authenticated correctly  and 
+whether the account holder consented to them. 
+It seems to be agreed that the disputed payment was properly authenticated. 
+Whether Mr C consented to it (as Ill cover in more detail below) depends on whether 
+he completed the agreed steps to make the payment. Or if someone else acted on 
+his behalf and used those agreed steps.
+Its my understanding that, in order to make this payment, Mr Cs card details and a 
+payment amount was entered. Then his PIN was entered on his app. 
+Im persuaded it wasnt Mr C who entered his card details (and other payment 
+information) to initiate this transaction. It doesnt seem that Monzo disputes this either 
+ as it says he shared his card details, not that he input them to make the payment. 
+While Mr C did enter his card details on the website the scammer sent him a link to, 
+he didnt do so for the purpose of authorising a payment. Instead, he was tricked by 
+the scammer to think he needed to enter those details to receive a payment  not 
+knowing the scammer could access and use them to request the payment.
+Monzo argues that, in line with its terms, Mr C still consented to the payment as he 
+entered his PIN on the app. But he didnt do this with the understanding he was 
+consenting to a payment. Rather, he thought this was part of the process for him to 
+receive payment for the item he was selling. This belief was supported by the website 
+he saw, and what the scammer told him. 
+Furthermore, the PSRs set out that a payment is regarded to be authorised if the 
+payer has given consent to the execution of the payment transaction. That consent 
+must be given in the form, and in accordance with the procedure, agreed between 
+the payer and its payment service provider. 
+As Monzos terms allude to, entering your PIN alone isnt enough to execute a 
+payment. Further steps, such as entering the card details, are needed. As set out 
+above, I dont think Mr C completed these earlier steps. Nor did he enter the PIN with 
+the intention or understanding that he was authorising a payment. 
+As Mr C didnt complete all the steps to make this payment, nor did he consent for 
+someone else to do so, the payment is unauthorised.
+The payment information Ive seen suggests this transaction was requested online 
+for ecommerce. That would generally mean its whats termed a distance contract  
+in other words, a transaction where neither the merchant nor the consumer are 
+physically present. If so, in line with 77(4)(d) of the PSRs, Mr C would only be liable 
+for it if he acted fraudulently. Ive seen nothing to suggest he acted fraudulently, nor 
+has Monzo suggested this. Mr C was instead the victim of a scam. 
+However, Monzo says this wasnt a distance contract as the payment was to transfer 
+funds into a payment account. If true, I agree that in line with the Consumer 
+Contracts (Information, Cancellation and Additional Charges) Regulations 2013, this 
+wouldnt be a distance contract  as contracts for services of a payment or banking 
+nature are excepted.
+In line with the PSRs, if this isnt a distance contract, Mr C could still be held liable for 
+this unauthorised payment if he failed with gross negligence or intent to comply with 
+the terms of the account  or to keep his personalised security details safe.
+Monzo hasnt provided supporting evidence to show how it knows this transaction 
+was for banking and payment services. Regardless, even if the considerations for an 
+excepted (rather than a distance) contract apply, I still dont think Mr C should fairly 
+be held liable for the payment.
+I dont find that Mr C intentionally failed to keep his account or security details safe. 
+He entered his card details to receive a payment, not realising this information could be accessed and used by the scammer. And he didnt share his PIN; he entered it 
+into his own banking app, again thinking hed then receive the expected payment. 
+I dont find that Mr C failed with gross negligence either. Thats not to say there 
+wasnt more he could have done to protect himself. But I dont think his actions show 
+a very significant degree of carelessness beyond what a reasonable person in his 
+situation would have done. 
+Mr C was genuinely selling an item, so the message from the scammer posing as an 
+interested buyer wasnt particularly unexpected. In my view, the link to the website, 
+and the screenshot Ive seen of what it looked like, did appear convincing. I can see 
+why Mr C believed it was a legitimate website and therefore followed the instructions 
+on it to receive payment and arrange for a courier to collect the item for delivery.
+Acting off the back of that website, I can also see why he was persuaded to enter his 
+PIN on the app to receive the payment. The scammer told him this was part of the 
+process for the website, which theyd used before without any issue. 
+Mr C did question why the notification didnt show the payment amount he was 
+expecting. But he was persuaded by the scammers explanation that it was instead 
+showing the order number. Particularly as the transaction was made in another 
+currency, I can see why it wasnt immediately apparent to Mr C that this was a lie.
+Overall, in the context of what was a reasonably sophisticated scam, I dont think 
+Mr Cs actions showed serious disregard of an obvious risk such that he failed with 
+gross negligence.  
+I therefore find that Mr C isnt liable for this payment. In line with its obligations under 
+the PSRs, Monzo should have promptly refunded him when he reported what had 
+happened. Its failure to do so unnecessarily caused him additional worry and upset. I 
+dont consider the £25 compensation Monzo has paid adequate to reflect this. So Im 
+awarding a further £75 compensation.
+Putting things right
+To put things right, Monzo Bank Ltd must:
+Refund Mr C for the unauthorised transaction of £689.59; 
+Pay 8% simple interest on this amount, from the date of the unauthorised payment to 
+the date of settlement (less any tax lawfully deductible), to compensate him for the 
+loss of use of the funds; and
+Pay Mr C a further £75 compensation for his distress and inconvenience  on top of 
+the £25 it has already paid.
+My final decision
+For the reasons Ive explained, I uphold this complaint. I direct Monzo Bank Ltd to put things 
+right as Ive set out above. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr C to accept or 
+reject my decision before 28 February 2023.
+ Rachel Loughlin
+Ombudsman

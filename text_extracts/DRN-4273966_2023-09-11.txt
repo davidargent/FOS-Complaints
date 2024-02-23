@@ -1,0 +1,288 @@
+DRN-4273966
+The complaint
+A limited company S complains that HSBC UK Bank Plc didnt do enough to prevent the
+loss it suffered when it sent money to an HSBC account as the result of a scam.
+S has brought its complaint through a representative. But for ease of reading, Ill mostly just
+refer to S and will ascribe the representatives comments to S itself.
+What happened
+The detailed background to this complaint is well known to both parties. So, Ill only provide
+a brief overview of some of the key events here. In May 2020 S was the victim of an email
+interception scam. It intended to make a payment to one of its owners to repay a loan. But
+the scammer impersonated the owner from a very similar email address and provided
+different account details. So, when S made the payment, instead of going to the owner, it
+went to an account held with HSBC. The payment took place on 13 May 2020, was for
+€229,500 and was made from S account with its own bank (which is based outside the UK).
+About a week later the scam was discovered, and S reported this directly to HSBC, it was
+also reported to the relevant authorities. S bank reported this to HSBC on 22 May 2020.
+S approached our service and ultimately HSBC said it was unable to provide a refund. In
+summary it said that no funds remained in the account and there was no bank error. One of
+our Investigators considered the complaint. She recommended that the complaint should be
+upheld in part and that HSBC should pay S around £143,000 plus 8% interest. HSBC
+disagreed and asked for an Ombudsman to make a decision.
+In July 2023 I issued a provisional decision in which I said:
+Ive considered all the available evidence and arguments to decide whats fair and
+reasonable in the circumstances of this complaint. Having done so, Im intending to reach a 
+different outcome compared to that of our Investigator. So, Im issuing this provisional 
+decision to give everyone a further opportunity to comment.
+Im satisfied that HSBC correctly followed its account opening process for the account that
+received money from S. I dont think there was anything at that stage that would have
+indicated that the account might later go on to be used in connection with a fraud or scam.
+So, I dont think HSBC could have prevented S loss in relation to the opening of the
+account.
+The account that received the funds was a sterling-based account and the €229,500 credited
+the account as £200,634.74 on 14 May 2020. HSBC have obligations to be alert to potential
+fraud, scams and the misappropriation of funds. They are also required to have systems and
+controls in place in relation to compliance, financial crime and money laundering. In
+particular the Financial Conduct Authoritys (FCA) Systems and Controls Sourcebook
+(SYSC) includes that A firm must take reasonable care to established and maintain effective
+systems and controls for compliance with the applicable requirements and standards under
+the regulatory system and for countering the risk that the firm might be used to further
+financial crime. (SYSC 3.2.6R).
+Further SYSC guidance includes that A firm should ensure that systems and controls
+include: (4) appropriate measures to ensure that money laundering risk is taken into
+account in its day-to-day operation. (SYSC 3.2.6G).
+In its March 2016 paper Financial Crime: a Guide for Firms the FCA set out that A firm
+must conduct ongoing monitoring of its business relationships on a risk-sensitive basis.
+Ongoing monitoring means scrutinising transactions to ensure that they are consistent with
+what the firm knows about the customer, and taking steps to ensure that the firms
+knowledge about the business relationship remains current.
+With the above considerations in mind, Im satisfied that HSBC ought to have been
+monitoring its accounts and that this would include both incoming and outgoing payments.
+I think that the incoming payment ought to have flagged with HSBC for further scrutiny. I say
+this for the following reasons:
+It represented a meaningful change in the way the account was operating.
+It was an incoming international payment of a significant value.
+The activity wasnt in line with what would typically be expected given the information 
+HSBC had gathered at account opening.
+The combination of these factors should have led HSBC to block / freeze the account and to
+carry out an investigation to satisfy itself of the legitimacy of the payment.
+And upon HSBC looking more closely at the payment, they would have seen that the
+beneficiary included in the information transmitted with the payment, most likely wasnt the
+accountholder. I say this because the evidence S have provided from the sending bank
+show that one of S owners was recorded on the payment instruction and there is no obvious
+connection between this individual and the recipient accountholder. This ought to have been
+an immediate red flag. An incoming payment with a beneficiary name mismatch is something
+commonly seen with the movement of the proceeds of a fraud or scam.
+There is evidence to show that HSBC did intervene in an outgoing payment on 19 May 2020
+and as a result of this it spoke to its customer. Ive listened to a recording of that call, but it is
+of limited value as it is primarily concerned with the outgoing payment that the accountholder
+wanted to make, rather than seeking an explanation for the incoming payment. But I think it 
+does indicate that the accountholder would have engaged with HSBC and attempted to have
+provided an explanation.
+However, I dont think its likely the accountholder would have been able to provide a
+plausible explanation for the mismatch. I think HSBC ought to have asked to see evidence
+that its customer was the intended beneficiary of the incoming £200,000 payment and be
+satisfied of this, before releasing any of those funds. Im also mindful that a co-owner of S
+reported this to HSBC on 21 May 2020, with a report from S bank coming the following day.
+So even if the accountholder were going to try to falsify some evidence, I dont think its likely
+that they wouldve been able to provide something that would have (1) been acceptable, and
+(2) which would have adequately explained the beneficiary name mismatch, prior to HSBC
+being on notice from S co-owner or its bank.
+Overall, had HSBC done all it should, I think all of S funds would have remained in the
+recipient account, and that these would have been recovered and returned upon receipt of
+an indemnity from the sending bank.In response to our Investigators assessment HSBC have argued that S was negligent in
+sending the payment and ought to bear some responsibility for its loss, Ive considered this.
+The points HSBC have raised include:
+S didnt have proper processes in place to protect itself, despite being a corporate
+organisation and should have educated its staff on the risks of fraud.
+S should have questioned the change in account details to a UK based account
+when its co-owner was primarily based in another country.
+The payment was high value and its not reasonable for S to have sent this without
+additional checks.
+S contention that the staff member was reassured because the funds were coming
+to the UK and an HSBC account is unreasonable.
+S obtained a digital forensic report into the emails surrounding the scam. The evidence from
+that report suggests that the scammer inserted himself in an ongoing email thread between
+one of the co-owners and one of S employees. There was a slight change in the email
+address used, with the addition of a few characters, something I accept could easily be
+missed.
+When considering contributory negligence, I need to think about whether there was any
+reason for S to have had concerns when instructing the payment such that it should share
+responsibility for the loss it has suffered.
+Some of the email exchange between S and the scammer took place after the payment had
+already been instructed. So consideration of those emails cant form the basis of an
+assessment of contributory negligence. The emails which seem to have prompted the
+sending of the payment say:
+9 May 2022 Scammer to S  Please hold the payment, our [own] bank I sent you is on lock
+down due to our government restrictions on covid-19 crisis. i will send you other active bank
+that is operational. Are you doing partial payment, Please confirm to me total amount you will
+pay so that i will know which of our bank to use. How much are you paying? Awaiting your
+reply
+11 May 2020 S to Scammer  We will pay 229.500,00 eur, we are waiting your
+instructions
+12 May 2020 Scammer to S  Thank you for your confirmation, as you said proceed
+payment of the 229.500,00 eur to my below account Details of the HSBC account were
+then provided.
+S as an entity was incorporated to facilitate co-operation between its owners for a building
+project. The payment in question was the return of funds due to one of the owners following
+completion of the project. S submissions on this point are that if the funds were requested to
+a country that would have stood out as being unusual, then they would have conducted
+further checks at the time. But as it was being sent to the UK and the owner had business
+interests across Europe, this didnt stand out as suspicious or unusual, particularly as the
+emails were part of the same thread with only a small change to the email address. Theyve
+also said that at that time they had no knowledge or awareness of email interception scams
+and werent given any warnings by their own bank when sending the funds.
+Ive thought carefully about whether I should make a reduction in award for contributory
+negligence, but Im not intending to in the circumstances of this complaint. I have to keep inmind that in May 2020 Europe was in the grip of the initial stages of the covid pandemic, with
+many countries in lockdown. As such, I dont think its unreasonable for S not to have
+challenged covid as part of the reason for the change in account. At that time, many
+businesses (including banks) were restricting the level of service they could provide due to
+staffing concerns caused by lockdowns.
+S have also explained that at the time their process was for a payment instruction to be
+prepared and for this to be signed off by a director before being submitted to their bank. As
+Ive mentioned above this payment was being made upon conclusion of the project that
+formed the purpose of S existence. And whilst I understand the point HSBC is making, I
+dont think S not having fully educated itself as to fraud and scams and putting a process in
+place to combat this amounts to negligence such that a reduction on that basis is fair and
+reasonable in these circumstances. I appreciate as the receiving bank HSBC wouldnt have
+been able to advise or provide education to S. There is no evidence that S were warned by
+their own bank and continued anyway, and I dont think the circumstances of the scam and
+the payment would have been easily identifiable as fraudulent at the time.
+Overall, Im not currently persuaded that, when sending the payment, S knew or reasonably
+ought to have suspected that there might be a problem but continued irrespective of this.
+No funds remained in the recipient account when HSBC were notified that the payment had
+been made as the result of a scam. So, I dont think there were any failures by HSBC in
+terms of the recovery attempts that did take place.
+Ive also considered whether interest should be added to my proposed award. And in the
+circumstances of this complaint, Im not persuaded it should be. S have confirmed both that
+it hasnt received any redress from any other source and that it hasnt been able to send the
+payment to its owner as a result of the scam. So had HSBC intervened as Im intending to
+conclude it should have done, and made a full recovery, I think its most likely that this would
+have been returned to S owner at the time. I dont think S has been impacted by not having
+the money and I cant compensate S owner for being without the funds as he himself isnt
+the complainant, S is.
+Im satisfied that HSBC are at fault and that this fault could have prevented S entire loss.
+And so I think HSBC should refund S in full. I appreciate there were also other parties
+involved in this transaction, such as the perpetrators of the scam and the sending bank. So, I
+think it would be fair and reasonable that S should confirm that if it later receives any redress
+from any other source, it will return this to HSBC. By S accepting my decision this would
+become legally binding on both parties. I also think that S should, upon request from HSBC 
+assign its right to pursue any relevant third party to HSBC. This way HSBC has an option to
+seek to recover what Im intending to direct it to pay, from a third party, should it choose to
+do so.
+My provisional decision
+For the reasons outlined above, but subject to any further information I receive from either S
+or HSBC Im intending to uphold this complaint. I intend to direct that HSBC UK Bank Plc:
+Pay S the equivalent amount of Euros that it would have received had £200,634.74
+been returned on 1 June 2020 using the exchange rate in place on that date.
+I also think that if S later receives further redress arising from the same loss from any 
+third party that it would be fair and reasonable for this to be paid to HSBC. And that 
+S should assign its legal right to pursue any third party in relation to this matter to 
+HSBC, upon a request to do so.
+S accepted my provisional decision. HSBC responded and made some further comments 
+which Ill address below. What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+HSBCs further submissions focussed on two points: namely the basis for intervention and 
+what realistically could have been done in the circumstances; and the complainants 
+conduct. Ill deal with each in turn.
+HSBC have re-iterated that (from a legal perspective) they have no duty of care to protect 
+third parties (particularly commercial entities) from the risks of fraud. Even if I were to accept 
+that this is the legal position, our service will decide a complaint based on what is fair and 
+reasonable in all the circumstances. And despite the lack of a contractual or customer 
+relationship or a legal duty of care, if HSBC have failed against their obligations and that can 
+reasonably be said to have caused the loss to S, I think it is fair and reasonable to direct that 
+that loss be reimbursed. 
+HSBC have highlighted the timescales set out in the Payment Services Regulations 2017 
+(PSRs). Specifically that payments received need to be credited to an account promptly. 
+They have also referenced HM Treasurys Payment Services Regulations  Review and 
+Call for Evidence (January 2023). Paragraph 44 of which states:
+While the existing regulatory framework enables firms to refuse to process payments (and 
+to delay processing payments for a limited period with D + 1), some firms have suggested 
+there may be benefits to enabling further time for a payment delay specifically, in order to 
+engage the customer, than is currently permitted under the legislation. In tandem, the 
+government is also considering if there may be benefits to enabling receiving banks  if they 
+suspect they may be hosting a fraudsters account  to delay the crediting of funds to a 
+payees account
+Given the above is a current government review and call for evidence, HSBC say this 
+supports their position. And if our service is to decide that they ought to have departed from 
+their legal obligations, we must be clear as to the grounds for doing so. 
+It is often the case that there are competing demands or obligations in cases of fraud or 
+scams. HSBC are correct to say that they are expected to follow instructions provided by 
+their customers and to promptly make available funds paid into an account. But there are 
+also obligations to prevent fraud, scams, and the misappropriation of funds. And it is the 
+friction between such competing obligations where the crux of the matter is found. 
+The obligations to process payments that HSBC have described are not absolute. And I 
+dont agree that the existing regulatory or legal position prevents HSBC from taking action to 
+prevent money from being paid away from an account in certain circumstances. This would 
+include where HSBC have grounds to suspect that paying away funds would be furthering 
+financial crime. 
+HSBC have challenged my reference to the FCAs 2016 Financial Crime  A Guide for 
+Firms, pointing out that it includes This guide is not a checklist of things that all firms must 
+do or not do to reduce their financial crime risk, and should not be used as such Ive 
+considered this but the same guide also includes: The material in the Guide does not form 
+part of the Handbook, but it does contain guidance on Handbook rules and principles As 
+such, I maintain that it includes examples and suggestions of good industry practice (something Im entitled to take into account) and remains a valid consideration for this 
+complaint. 
+HSBC say they dont accept that the SYSC guidance Ive referenced (along with the FCAs 
+2016 guide) fixes them with any obligation to block or freeze accounts. They say that Ive 
+treated the SYSC guidance as a checklist rather than the main issues which a firm is 
+expected to consider in establishing and maintaining the systems and controls appropriate to 
+its business. Ive considered this, and I agree that the SYSC guidance is about systems 
+and processes for the monitoring of accounts. But that monitoring has a purpose, and that is 
+to be alert to and to react to various risks including AML concerns as well as fraud, scams 
+and the misappropriation of funds. 
+I also note that HSBCs own account terms say: Well make a payment from your account if 
+you instruct us to unless:
+There has been fraudulent or criminal activity of any kind whether or not linked to 
+your account or your relationship with us and its reasonable for us not to make a 
+payment as a result;
+It would cause us to breach a law, regulation, code, court order or other dutywere 
+prevented from doing so due to us or any member of the HSBC Group carrying out 
+financial crime risk management activity: or
+Someone else may have a claim over the money.
+And whilst I accept this isnt a step to be taken without good reason, the terms of the account 
+give HSBC a fairly wide discretion as to when they can refuse to make payments and take 
+what is considered appropriate action in relation to an account. 
+HSBC have said that they dont believe there were grounds for them to suspect their 
+customer was a fraudster, such that they ought to have intervened in any payments. I dont 
+agree. I think its broadly accepted that a payment characteristic such as a large payment 
+can present an increased risk of money laundering. And in the circumstances here, HSBC 
+had been told by their customer that they anticipated receiving around £400,000 in the first 
+year of the accounts operation. The incoming payment from S represented over 50% of this 
+amount in a single transaction. And £200,000 is a very significant amount of money, the like 
+of which hadnt been received in the account previously. Given the nature of the 
+accountholders business (as described at account opening), there is no obvious reason to 
+expect such a significant payment to arrive from a European country. 
+It isnt the case here where the receipt of such sums (or anything approaching that amount) 
+was regular or commonplace for the account. For clarity, Im not suggesting HSBC ought to 
+hold every payment of that value. But in the circumstances of this complaint and the 
+particular account in question, the arrival of S money represented a risk. And I think HSBC 
+were entitled to hold that payment whilst they looked more closely. 
+So whilst the initial concern would have been due to potential AML concerns, it would then 
+have become apparent that the accountholder may not have been the intended beneficiary 
+of the payment. Which then ought to have engaged HSBCs fraud measures. The end result 
+of which I think would most likely have been the return of S funds. 
+HSBC have also said that without prejudice to their position that the complaint shouldnt be 
+upheld at all, if it is, they still argue that a reduction for contributory negligence is 
+appropriate. Ive considered HSBCs points, but Im not persuaded that a reduction should 
+be made in the circumstances of this complaint. For clarity, S followed the process it had in 
+place and a director signed off the payment being made. In hindsight its easy to say that 
+there ought to have been a call between S and its owner. But I dont think not having such a process in place at the relevant time amounts to contributory negligence such that there 
+should be a reduction in award. 
+The context of the reference to covid as a change for account details is set out above. HSBC 
+have said that it wasnt reasonable for S to accept that a bank wasnt operational and 
+receiving payments. I dont agree that the message clearly states the bank wasnt accepting 
+credits (which I would agree would be unusual). It states that a bank is on lock-down and 
+that an alternative, active, operational account will be provided. Similarly, Im not persuaded 
+that not questioning a payment to the UK (for an owner who was known to operate across 
+Europe) means that S was negligent. 
+Overall, I dont think there was anything in the circumstances here where S knew or 
+reasonably ought to have known that there was a potential problem with the payment, but 
+went ahead despite this. 
+And having carefully considered HSBCs further submissions, Im not persuaded to deviate 
+from the outcome explained in my provisional decision. 
+My final decision
+For the reasons outlined above, my final decision is that I uphold this complaint. HSBC UK 
+Bank Plc must:
+Pay S the equivalent amount of Euros that it would have received had £200,634.74
+been returned on 1 June 2020 using the exchange rate in place on that date.
+I also think that if S later receives further redress arising from the same loss from any 
+third party that it would be fair and reasonable for this to be paid to HSBC. And that 
+S should assign its legal right to pursue any third party in relation to this matter to 
+HSBC, upon a request to do so.
+Under the rules of the Financial Ombudsman Service, Im required to ask S and S to accept 
+or reject my decision before 9 October 2023.
+ 
+Richard Annandale
+Ombudsman

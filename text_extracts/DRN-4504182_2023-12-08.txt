@@ -1,0 +1,283 @@
+DRN-4504182
+The complaint
+Mrs P and Mr P complain that Barclays Bank PLC wont refund disputed ATM withdrawals 
+that they say they didnt make or otherwise authorise. 
+As most of the submissions were made by Mr P, for ease of reading, Ill refer to him alone in 
+this decision.
+ 
+What happened
+From 13 October 2022 to 22 October 2022, Mr P was on holiday abroad. He says on the 
+evening of 14 October 2022, he used his Barclays debit card  linked to his current account 
+ to withdraw money from an ATM. He attempted to withdraw €150 but the transaction was 
+declined. Mr P then tried another of his Barclays debit cards  linked to another current 
+account  and the transaction was also declined. He said no cash was withdrawn from the 
+ATM provider on either card. 
+Mr P says he checked his account the following day and saw there had been four 
+withdrawals on each card which he did not recognise totalling just under £2,000. He reported 
+the matter to Barclays. 
+Barclays reviewed the situation and issued temporary credits to Mr P. It issued its final 
+response to Mr P on 8 November 2022. It said no errors were made when the transactions 
+were carried out and they were chip and PIN authorised. It advised Mr P the temporary 
+credits would be removed. 
+Unhappy with Barclays response, Mr P referred his complaint to this service.
+One of our Investigators reviewed the complaint. She suggested that Barclays refund the 
+disputed transactions together with interest. She didnt feel Barclays provided enough 
+technical evidence to rule out the ATM not being tampered with. Barclays didnt agree and 
+asked for the complaint to be passed to an Ombudsman for review. 
+The complaint has therefore been passed to me for determination. 
+On 31 October 2023, I issued a provisional decision upholding this complaint in part in 
+relation to the poor customer service Mr P received. I did not recommend a refund of the 
+disputed transactions. 
+For completeness, I repeat my provisional findings below:
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, Ive reached different conclusions to that of our investigator and I dont 
+intend to tell Barclays to return Mr Ps disputed transactions, Ill explain why.
+Generally speaking, Barclays is required to refund any unauthorised payments made from 
+Mr Ps account. Those rules are set out in the Payment Services Regulations 2017 (PSRs). 
+Mr P has said he didnt carry out the transactions in dispute. I therefore need to determine 
+whether or not I think he did authorise the transactions or not. 
+Ive seen from Barclays records that the genuine cards and PINs were used to make the 
+transactions, so Im satisfied they were authenticated. This is important, though not enough 
+on its own to say Barclays can hold Mr P liable for the transactions. 
+A payment out of someones account can only be treated as authorised if the payer has 
+consented to it. This means the customer must have consented to a payment transaction 
+taking place. So, Ive gone on to consider here whether I think Mr P consented to the 
+transactions and therefore whether they were authorised or not.
+Ive thought about the technical ATM evidence our investigator wanted to see. I dont think 
+that evidence is required for me to make a determination on the matter at hand. Evidence 
+from the ATM provider of machine tampering or a surplus of funds would be helpful in 
+scenarios where a customer says they didnt receive cash from the ATM or there was a 
+difference in the amount debited and the cash actually received. Here, Mr P says he didnt 
+make the transactions at all. Ive determined that Mr Ps genuine cards were used, which 
+means they would have needed to be presented on each occasion. There are multiple 
+disputed transactions with sufficient time and space between them, rather than one isolated 
+incident, therefore the likelihood of machine tampering being a factor is highly unlikely in my 
+judgement.  
+Mr P disputes transactions that were carried out on two of his Barclays debit cards  linked 
+to his current accounts. Ill refer to the accounts as debit card 1 and debit card 2. Ive listed 
+the disputed transactions below:
+debit card 1
+Transaction 
+numberDate Time Amount Authorisation 
+decisionPIN entered 
+correctly
+1 12/10/2022 08:55:53 £15.89 approved N/A
+2 15/10/2022 00:16:46 £152.03 declined No
+3 15/10/2022 00:19:05 £152.03 approved Yes
+4 15/10/2022 00:19:57 £497.67 approved Yes
+5 15/10/2022 00:20:53 £300.16 approved Yes
+6 15/10/2022 00:21:45 £300.16 declined Yes
+7 15/10/2022 00:22:02 £152.03 declined Yes
+8 15/10/2022 00:22:21 £102.65 declined Yes
+9 15/10/2022 00:22:48 £53.28 declined Yes
+10 15/10/2022 00:24:23 £201.41 declined Yes
+11 15/10/2022 00:34:47 £102.65 declined Yes
+12 15/10/2022 01:39:57 £200.57 declined Yes
+13 15/10/2022 01:40:27 £43.22 approved Yes
+14 15/10/2022 01:41:36 £43.22 declined Yes
+15 15/10/2022 01:45:41 £43.22 declined Yes
+16 15/10/2022 01:46:09 £23.54 declined Yes
+debit card 2
+Transaction 
+numberDate Time Amount Authorisation 
+decision PIN entered 
+correctly 1 13/10/2022 06:58:15 £1.30 approved N/A
+2 15/10/2022 00:16:17 £300.16 declined No
+3 15/10/2022 00:23:20 £596.43 approved Yes
+4 15/10/2022 00:25:24 £201.41 approved Yes
+5 15/10/2022 00:26:24 £250.79 declined Yes
+6 15/10/2022 00:26:42 £152.03 approved Yes
+7 15/10/2022 01:37:03 £200.57 declined Yes
+8 15/10/2022 01:37:43 £151.40 declined Yes
+9 15/10/2022 01:38:08 £53.05 declined Yes
+10 15/10/2022 01:43:40 £43.22 approved Yes
+11 15/10/2022 01:44:46 £43.22 declined Yes
+12 15/10/2022 02:07:02 £10 approved N/A
+Ive noted the genuine spend on debit card 1 prior to the disputed transactions was on 12 
+October 2022 but it was a contactless payment so Mr P didnt need to enter his PIN. The last 
+genuine spend on debit card 2 prior to the disputed transactions was on 13 October 2022 
+(two days prior to the disputed transactions). This was a mobile payment and again didnt 
+require Mr Ps PIN to be presented. 
+Ive also noted that the transactions Mr P acknowledges making himself (transaction 2 on 
+both debit card 1 and debit card 2) were both declined on the basis that Mr P entered his 
+PIN incorrectly on both occasions. And transaction 3 on debit card 1 was for the exact 
+amount as transaction 2.
+I therefore think its very unlikely that an unknown third party could have taken Mr Ps debit 
+cards prior to or on the night of the disputed transactions, guessed his PINs correctly (first 
+time), carried out multiple disputed transactions at different intervals  the first on debit card 
+1 being the exact amount that was attempted by Mr P himself  before returning both debit 
+cards to Mr P without him noticing. This is because, there was no point that Mr P entered his 
+PINs correctly prior to the disputed transactions, so I rule out the possibility of someone 
+having shoulder surfed him. I also dont think its probable that someone could have shoulder 
+surfed Mr P at a time he entered his PIN correctly before he travelled abroad, to then have 
+followed him abroad to carry out the disputed transactions. 
+Mr Ps account of events are that he visited multiple bars/pubs on the evening/early morning 
+of 14 October 2022/15 October 2022. He says he attempted to withdraw cash from an ATM 
+and when these transactions were declined, he almost immediately took a taxi back to his 
+hotel. Based on the technical evidence, this doesnt seem possible. 
+The evidence shows that the PIN was entered incorrectly first time on each card, then a 
+couple of minutes later, the PIN on debit card 1 was entered correctly and cash was 
+withdrawn on a few occasions. Then the PIN for debit card 2 was entered correctly and cash 
+was withdrawn on a couple of occasions. Multiple transactions on each card were declined 
+but the evidence shows that the PINs were still entered correctly. Barclays hasnt provided 
+any additional commentary as to why transactions were declined, I would assume that it may 
+have found the pattern and location of the transactions unusual, or cash withdrawal limits 
+were reached. Id invite any additional commentary Barclays has to make on this  though 
+its not pertinent to my outcome. 
+The transaction Mr P accepts making himself was a taxi ride back to his hotel. However, the 
+technical evidence shows this transaction was made at 2.07am on 15 October 2022. This is inconsistent with his testimony that he took a taxi almost immediately after his cards were 
+declined as these attempted cash withdrawals were made approximately two hours earlier. 
+The pattern of the transactions is consistent with Mr Ps testimony that he visited various 
+bars/pubs before returning to his hotel. This is because cash was withdrawn, then there was 
+a break on each card for over an hour before more cash was withdrawn and the final 
+transaction was the taxi ride which Mr P acknowledges making. There are no further 
+disputed transactions after this. 
+If an unknown third party had access to Mr Ps debit cards, I think its likely they would have 
+withdrawn as much as they could, as quickly as possible. I dont find it likely that an unknown 
+third party would have waited an hour before attempting to make further transactions. 
+I therefore think the most likely scenarios were either; Mr P made the disputed transactions 
+himself, or, he authorised another party to carry out the transactions. In either case, I think 
+the transactions were authorised by Mr P in accordance with the PSRs. And because of this, 
+I dont think Barclays acted unreasonably by holding him liable for the transactions. 
+Customer service
+I think Barclays could have done a better job when logging Mr Ps claim. He was on hold for 
+a while and when he eventually spoke with someone, he was told his claim couldnt be 
+logged as its systems were down. Barclays systems being down werent within its control 
+but I think it could have offered to call Mr P back when its systems were back up again 
+instead of asking him to call back later that day or the day after. I also think Barclays could 
+have explained why it was holding Mr P liable for the disputed transactions. Whilst I accept it 
+was reasonable to do so, I think it would have come as a surprise to Mr P. The Barclays 
+adviser Mr P spoke with said it was strange that the transactions were re-debited and they 
+also couldnt explain why this had happened. From his perspective his claim was accepted 
+when he was issued with temporary credits but a month later these transactions were re-
+debited without a good explanation as to why. I think the re-debits came as a shock to Mr P, 
+which would have been avoidable had Barclays provided a better explanation. I think the 
+poor customer service would have had an impact on Mr P, particularly as large amounts 
+were re-debited from his account. So, I propose that Barclays pays him £150 compensation 
+for the distress and inconvenience caused. 
+Responses to my provisional decision
+Mr P didnt accept the decision and in summary said:
+He complained to Barclays numerous times after the incident and didnt receive the 
+information I provided in my provisional decision. He was provided with poor service. 
+The information provided by Barclays has caused bias in this services investigation. 
+He refutes that he withdrew cash and entered his PIN for the transactions on debit 
+card 1 and debit card 2 except for one attempt. 
+Using debit cards 1 & 2 he did attempt to withdraw cash from an ATM and he entered 
+the PIN correctly, but the cash transaction was declined. 
+He did not receive text alerts or notifications from Barclays about the transactions 
+until the following day. 
+Until he received my findings, he didnt know that cards had been used and declined 
+that evening. 
+He was unaware his PIN was entered incorrectly, only that the card was declined. 
+He didnt know there were any unauthorised withdrawals, or any card transactions 
+being declined on 15 October. The first alert that Mrs P and he received alerting them to the theft came the following 
+day, 16 October, when they received mobile notifications from Barclays. He called 
+Barclays immediately to cancel both cards. 
+He would like Barclays to explain why they werent alerted sooner. Had they been 
+alerted by Barclays, they could have acted to prevent the perpetrators from 
+withdrawing so much of their funds. 
+He had the same PIN for a significant period. He did not enter it incorrectly. This 
+further evidences how unlikely a scenario this is that he would not know his PIN, he 
+suggests Barclays check their records and provide evidence of how many times hes 
+had his card declined due to entering the incorrect PIN. 
+Cash withdrawals from both accounts is highly irregular. One of the debit cards is 
+solely used for household bills. They would like the Ombudsman to request a 
+breakdown of cash withdrawals made from one of the accounts over the past five 
+years which will evidence this. 
+To establish fraud, he would like the Ombudsman to investigate why Barclays 
+declined some requests and authorised others. It would appear that Barclays 
+suspected unusual activities and should have alerted them sooner. 
+Mr and Mrs P have been loyal customers of Barclays for over 30 years they have 
+multiple accounts with significant amounts of money deposited. Its unfounded to 
+suggest he would attempt to commit fraud in this manner. 
+He believes the cards were compromised in a sophisticated system potentially using 
+some sort of malware in the ATM and/or the cards were cloned. 
+For the Ombudsman to reach a final decision, he requests the technical evidence 
+from the ATMs be obtained and reviewed for an unbiased and fair conclusion. 
+Barclays replied accepting my provisional decision. It said in summary:
+Mr P claims he genuinely attempted to use each card in the ATM once but was 
+unsuccessful. Its records support this account of events however, both attempted 
+withdrawals were declined due to the incorrect PIN being entered. 
+The authorisation reports show that further attempted withdrawals were declined 
+because the cards exceeded the ATM daily withdrawal limit and not due to any fraud 
+concerns. 
+It has no method of contacting the ATM operator. The only method of disputing a 
+foreign ATM (for an ATM dispute, not fraud) is via the VISA chargeback process. But 
+it can only raise these types of chargebacks when a customer genuinely makes an 
+ATM withdrawal but the cash is not dispensed correctly and this case does not match 
+that description. 
+Technical data from the ATM provider is not relevant to this type of case. This is a 
+fraud case and is a question of authorisation, technical evidence from the ATM 
+provider would only support cases involving cash not being dispensed. 
+If the ATM was tampered with, the cards would have been retained whilst the PINs 
+are recorded by a device. The fraudsters would then have retrieved the card from the 
+device and used it without Mr Ps knowledge or consent, that did not occur in this 
+instance as Mr P retained possession of the cards. 
+Further, if the ATM was tampered with in another manner and a skimming device 
+was fitted, the disputed activity would not be authorised via chip and PIN. A skimming 
+device records card details, such as the 16-digit card number and the magnetic strip 
+details, then the cards can be cloned for the purpose of card not present transactions 
+(i.e. online transactions). The evidence in this case shows that the cards chips were read. The cards have a chip capability which is used to ensure cards cannot be 
+cloned or copied. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so and whilst I know this will not be the outcome Mr P hoped for, I dont find 
+that Barclays acted unfairly by refusing to refund his disputed transactions. 
+I acknowledge that Barclays should have provided clearer information when Mr P made his 
+claim and subsequently complained. This is why I awarded compensation and I maintain that 
+Barclays ought to have provided a better explanation for Mr P to understand why he was 
+being held liable for the disputed transactions. 
+I appreciate Mr P maintains that he entered his PINs for both cards correctly first time but the 
+transactions were declined. However, Im more persuaded by the technical evidence as this 
+shows me the reason those initial authorised transactions were declined on debit card 1 and 
+debit card 2 were due to the incorrect PINs being entered. And so in my judgement, it 
+wouldnt have been possible or probable that an unknown third party could have shoulder 
+surfed Mr P whilst he was at the ATM to learn his PINs as these werent entered correctly. 
+As I explained in my provisional decision, the last time the cards were genuinely used prior 
+to the disputed spend were days prior to the disputed transactions and the PINs werent 
+required or presented when the undisputed transactions occurred. 
+Mr P also explained during the course of his complaint that no one knew his PINs. So I dont 
+find it likely that someone known to him could have taken and replaced both debit card 1 and 
+debit card 2 on more than one occasion with more than one hour between the transactions 
+on each debit card without Mr P noticing and without knowing his PIN in the first instance. 
+Ive noted Mr Ps comments about the unusual nature of the transactions, particularly the 
+declined transactions. The question of the irregularity of spend is relevant if I were to think 
+on balance that the transactions were unauthorised. In this case, Im satisfied that the 
+transactions were authorised by Mr P and Barclays wouldnt be expected to intervene in 
+legitimate transactions that are not the result of a fraud or scam. So I dont require a history 
+of Mr Ps account use. 
+Barclays explained and evidenced that the transactions declined (after the first declined 
+payment on each debit card) were declined because the maximum daily cash withdrawal 
+limit was reached on each card. This is consistent with the lesser amounts being attempted 
+after each declined transaction until a permitted amount could be accepted. 
+I dont think its likely that the ATM was tampered with. As I explained in my provisional 
+decision, obtaining the technical evidence from the ATM provider would support claims 
+where cash wasnt dispensed from the ATM or an incorrect amount was dispensed. I dont 
+think the technical evidence would be helpful in this case. The evidence shows that the chip 
+on each card was read for each transaction and the PINs were entered correctly. I dont 
+think its likely the ATM was tampered with nor do I think its likely that the cards were 
+cloned. The transactions stopped shortly before Mr P got a taxi back to his hotel. Mr P paid 
+for the taxi via contactless payment on debit card 2 which he accepts he authorised. For the 
+avoidance of doubt, I have no reason to doubt the timings of the technical evidence provided 
+and Im satisfied this payment was made after the disputed transactions were carried out. If 
+a third party tampered with the ATM or cloned Mr Ps cards, I think its unlikely that the chips 
+on the cards would have been read. I also dont think its likely that the transactions would 
+have ended when they did. I think a fraudster would have likely tried other payment methods to obtain as much money from Mr Ps cards as possible. Mr P didnt cancel his debit cards 
+until later that morning and so I think its likely a fraudster would have continued to attempt to 
+use the cards. That didnt happen here. 
+And so, for the reasons I explained in my provisional decision and here, I think the most 
+likely scenarios were either; Mr P made the disputed transactions himself, or, he authorised 
+another party to carry out the transactions. In either case, I think the transactions were 
+authorised by Mr P in accordance with the PSRs. And because of this, I dont think Barclays 
+acted unreasonably by holding him liable for the transactions. 
+My final decision
+My final decision is I uphold this complaint in part and Barclays Bank UK Plc should pay 
+£150 for the distress and inconvenience caused to Mr P.
+ 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mrs P and Mr P to 
+accept or reject my decision before 5 January 2024.
+ 
+Dolores Njemanze
+Ombudsman

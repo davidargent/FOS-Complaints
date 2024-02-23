@@ -1,0 +1,210 @@
+DRN-3251203
+The complaint
+Miss C complains that Starling Bank Limited wont refund a debit card transaction which she
+says she didnt make or otherwise authorise.
+Background
+The particulars of this case are well known to the parties, so I dont need to detail them again
+here. Instead, Ill focus on the key reasons for reaching my decision  our rules allow that.
+In short, Miss C believed she was talking to a friend on social media who said they needed
+financial support. To try and help, Miss C agreed to send money to this individual. But it
+turned out that Miss C was in fact speaking to fraudsters posing as her friend. Its unclear
+exactly what happened next, but Miss C remembers clicking on a website link that was sent
+to her, which permitted remote access to her laptop via the application TeamViewer.
+In the end, just under £3,000 was transferred from her Halifax bank account to her account
+with Starling. Shortly afterwards, this money was used to fund a card payment of £2,763.21
+from her Starling account. This payment went to an online trading website, into an account
+set up fraudulently in Miss Cs name.
+Miss C claimed that she didnt authorise this card payment and has lost the money that was
+paid out of her Starling account, because she had no knowledge of this trading account. She
+raised a complaint with Starling, as it was unable to stop the money leaving her account
+even though she called the bank immediately after the transaction was initiated. Because
+Starling declined to refund her, she brought her complaint to our service.
+Ultimately, our investigator thought that Starling ought to have flagged the payment as
+suspicious and questioned Miss C before it was let go. And had the bank stepped in, he
+concluded that Miss Cs loss would probably have been prevented.
+Starling doesnt agree. It submits that there are a number of discrepancies in Miss Cs
+statement. Overall, the bank maintains that it cannot reasonably be expected to refund the
+payment.
+Provisional decision
+I issued a provisional decision on this case on 30 December 2021. I have copied the findings 
+section of this decision below:
+Having considered all the available evidence and arguments to decide whats fair and
+reasonable in the circumstances of this complaint, I am minded not to uphold it.
+I know my intended decision will be disappointing for Miss C. This is a finely 
+balanced case and Id like to assure her that Ive duly considered everything thats 
+been provided. But on account of the evidence, Im not currently persuaded that 
+Starling ought to refund the transaction in dispute here. I say so for the following 
+reasons:
+relevant considerations
+1. It doesnt appear to be in question that the disputed payment was authorised by 
+Miss C for the purposes of the Payment Services Regulations 2017 (PSRs) in 
+force at the time. It was made by using the legitimate security credentials 
+provided by Starling. And it looks like theres common ground between the 
+parties that this should be regarded as an authorised payment, even if Miss C 
+believes she was the victim of a sophisticated scam.
+2. However, for the avoidance of any doubt, Im satisfied Miss C gave the fraudster
+information in the knowledge, and with the intention of, allowing money to be paid 
+out of her account. She did so with the purpose of helping what she thought was 
+a friend in need. Therefore, I find this to be an authorised transaction, for the 
+purposes of the PSRs.
+3. As a starting position, banks are under an obligation to follow their customers 
+instructions. Banks have a duty to make payments or accommodate cash 
+withdrawal requests correctly and promptly so that legitimate payments are made 
+correctly. So, consumers who authorise a payment, even where that turns out to 
+be fraud related or they were tricked into doing so, start off on the back-foot 
+when it comes to getting that payment returned to them because the bank was 
+following a valid instruction.
+4. There are some situations where banks  taking into account relevant rules, 
+codes and best practice  ought to have been on alert or notice that something 
+wasnt right or should have looked at the wider circumstances surrounding the 
+transaction before making the payment. So, Ive looked into what this means for 
+this case and whether Starling should have done more to prevent this £2,763.21 
+card payment. 
+unusual or uncharacteristic activity
+ 
+5. Having considered the recent activity of Miss Cs account, together with the 
+particular circumstances of this case, I am satisfied there were reasonable 
+grounds for Starling to suspect fraud or a scam, and therefore justify an 
+intervention. Particularly, in light of the sum involved in relation to how Miss C 
+normally operated her account. The disputed payment represented a sudden and 
+uncharacteristic increase in her spending, which conflicted with her normal 
+expenditure.
+6. In my judgment, this was an unusual and uncharacteristic card payment for    
+Miss C compared with her recent history on the account  which indicated that 
+something untoward might be happening. Overall, I think that Starling ought to 
+have identified the risk of harm.
+causation
+7. Having concluded that Starling ought to have intervened with this payment, next I 
+need to determine what difference (if any) such an intervention wouldve made. 
+This is otherwise known as causation. In order for me to require Starling to 
+refund the disputed payment on the grounds of causation, I would need to be 
+satisfied that the bank stepping in wouldve prevented the loss here.8. Its important to note that Miss C has not provided certain information when 
+asked to as part of our services investigation. She has also, at times, changed 
+her story. There is a lack of documentary evidence to consider because Miss C 
+has explained that she deleted messages and material sent to her by the 
+fraudsters. All of which, makes it more difficult to understand what really 
+happened, and what probably would have occurred had Starling taken further 
+steps before the payment was let go.
+9. When asked whether she disclosed the one-time passcode (OTP) that was sent 
+by Starling as a precaution before the payment could be made, Miss C initially 
+submitted that she did not divulge such a passcode to anyone. But conversely, 
+she later conceded that she did in fact pass this information to the fraudsters.
+10. Whats more, it remains unclear why money was moved from Miss Cs account 
+with Halifax to this account with Starling. Because, according to Miss C, the 
+fraudsters were able to control her online banking facility with Halifax and send 
+her funds from this bank to Starling. In simpler terms, the fraudsters had access 
+to Miss Cs money before it reached Starling and were able to make payments 
+out of that account  which begs the question, why was it necessary to send the 
+money to Miss Cs Starling account at all.
+11. In situations like these, where evidence is incomplete, inconclusive or 
+contradictory, I need to decide the complaint on what I think is more likely than 
+not to have happened in light of all the available evidence and the wider 
+surrounding circumstances.
+12.  When considering how Miss C says the scam unfolded, the use of the 
+application TeamViewer was an important factor. Without TeamViewer being 
+used, the payment could not have been made based on Miss Cs statement. 
+Theres compelling evidence that the occupier of the laptop device where 
+TeamViewer was used would first had to have given over certain passwords for it 
+to be installed (as it was not already present before the scam took place). So, 
+unless persuasively rebutted with strong evidence, I must consider that Miss C 
+was aware that a remote access application was in use on her laptop, for the very 
+reason that she had to take certain steps to permit it being there.
+13. When posed questions about this, Miss C hasnt responded in full. In particular, 
+when asked for details about how the fraudsters managed to remotely access her 
+laptop (using TeamViewer), Miss C hasnt been forthcoming with this information. 
+In the absence of this part of her statement, I must instead rely on the available 
+evidence.
+14. If Miss C thought she was talking to a friend, it seems likely to me that a request 
+to download or put in place an application to facilitate remote access to her 
+computer wouldve caused her to think twice about the need to do so. From what 
+shes described, Miss C thought she was simply sending money to a friend in 
+need  which doesnt explain why downloading and/or using new applications 
+wouldve been necessary.15. Especially, because its evident that Miss C was competent at sending money to 
+different accounts. Looking at her recent statements leading up to the disputed 
+payment, she frequently sent money from her Starling account to different 
+beneficiaries. These required her to use her online/mobile banking facility to 
+instruct a faster payment from her account. Therefore, its unclear why she 
+allowed TeamViewer to be used here, as the evidence strongly suggests she 
+wouldve known that she could send a friend money using the same methods she 
+had before, without the need for any further applications.
+16. With this in mind, it seems highly likely that the introduction of TeamViewer ought 
+to have caused real suspicion for Miss C. Indeed, in her previous submissions to 
+our service, she made it clear that she shut down her laptop immediately after 
+TeamViewer was introduced by the fraudsters, having been very concerned 
+about why it was needed.
+17. Although, having said that, based on Miss Cs subsequent version of events, the 
+OTP was issued by Starling after the fraudsters already had remote access to her 
+laptop. I therefore cannot ignore that Miss C allegedly had concerns about being 
+asked to allow remote access to her device  yet, still disclosed a passcode sent 
+by her bank.
+18. In terms of where the payment ended up, we know it went to the online platform, 
+Koinal. This website facilitates the purchase and trade of certain commodities, 
+such as cryptocurrency. Its not in question that Koinal required an account to be 
+created, in order for the payment to be held there (before it was then moved on 
+by the fraudsters). When considering the information needed to create such an 
+account, its evident that Miss Cs identification (ID) was necessary. Her 
+passport was used, along with other information.
+19. I accept that details such as her name and address may have been known to the 
+fraudsters  conversations had been had leading up to the payment date, 
+whereby such information couldve been inadvertently given by Miss C. Even so, 
+the interception of a copy of an official document such as a passport is altogether 
+different in my view. And based on Miss Cs statement, this was not given over by 
+her. Rather, it was taken.
+20. Its not entirely clear how this happened. At times, Miss C has explained that she 
+immediately closed down her laptop to prevent remote access to it. Therein, 
+preventing the interception of any information contained on her device. But on the 
+other hand, Miss C later said that the fraudsters must have used the remote 
+access to find a picture/copy of her passport which was stored on her laptop.
+21. If I were to accept this most recent version of events, there is no plausible 
+explanation for how the fraudsters knew a copy of Miss Cs passport was held on 
+her laptop  Miss C hasnt said that she told the fraudsters that she stored such 
+information on the device.22. It is possible that the fraudsters may have chanced that they would be able to find 
+what was needed to send a payment to Koinal by accessing Miss Cs computer 
+files. But this sounds like a sophisticated scam, that involved multiple 
+conversations and clever techniques. So, gambling on the successful interception 
+of a unique document like a passport seems inconsistent with how the scam had 
+been engineered up until that point. All in all, I find it unlikely that the fraudsters 
+would have jeopardised being able to take this sum of money by relying on first 
+being able to find a suitable copy of Miss Cs ID. Not least, when the fraudsters 
+appear to have already had access and control of money held in her Halifax 
+account.
+23. All of this casts doubts on causation. I must follow the evidence and, ultimately, 
+Miss C has not persuasively proven her case having been given a fair chance to 
+do so. After all, I am faced with a conflicting version of events from Miss C. For 
+me to accept her side of things and uphold the complaint, I would need to place 
+considerable evidential weight on her testimony. But in fairness, her statement is 
+slightly vague and self-contradictory regarding what are critical elements to a 
+case of this kind. I therefore cannot safely conclude that an intervention from 
+Starling wouldve made a material difference here.
+24. This is not, however, the same as dismissing Miss Cs statement  and I hope 
+Miss C can appreciate that it would not be reasonable, nor fair of me to uphold 
+this complaint based solely on her testimony if on balance the evidence suggests 
+otherwise.
+Responses to my provisional decision
+Starling accepted my provisional findings and had nothing further to add. 
+Miss C reiterated her disappointment about how Starling handled her account with this 
+transaction. In particular, she maintains that the bank ought to have done more to stop the 
+payment being let go. For completeness, she did not provide any supporting evidence 
+following my provision decision. 
+Now that both parties have responded, the case has been returned to me for review.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+While I continue to appreciate Miss Cs disappointment, in my initial review I had already 
+considered the argument she has put forward following my provisional decision. Without new 
+supporting evidence or information to make me think otherwise, I do not see the need to add 
+to what Ive already set out in my provisional findings.
+It remains that Miss C needed to explain her case so that it could be reasonably decided that 
+Starling was liable for her losing this money. However, taking everything into consideration, I 
+am still of the opinion that there are too many unexplained parts to Miss Cs version of what 
+happened for this to be safely concluded. To that end, its my judgment that it would be 
+unfair to hold Starling responsible for the loss Miss C says she has incurred. 
+So, where I am satisfied that no material evidence or arguments have been put forward 
+since my provisional decision, I see no reason to depart from my provisional findings.  My final decision
+For the reasons set out above and before, my final decision is that I do not uphold this 
+complaint. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Miss C to accept 
+or reject my decision before 11 February 2022.
+ 
+Matthew Belcher
+Ombudsman

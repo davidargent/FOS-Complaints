@@ -1,0 +1,190 @@
+DRN-4141317
+The complaint
+Mr W complains that he was subject to a margin call on his account because IG Index 
+Limiteds platform was unresponsive and he was prevented from closing his positions before 
+he fell below the required margin. 
+What happened
+Mr W traded through IGs web-based platform and had opened positions in Baidu and 
+Alibaba. On 27 July 2021 at 8.57.16 am he logged onto the platform prior to the pre-market 
+opening at 9.00 am and sought to open his chart for Baidu. Mr W has said he was unable to 
+get onto the platform as the Baidu chart wouldnt open and his positions were closed out due 
+to margin breach at 9.00.35am.
+He complained to IG but it didnt uphold the complaint. In its final response to the complaint it 
+said that Mr Ws positions had been closed correctly based on the status of his account, 
+which it said meant that the equity in his account not only didnt cover the margin 
+requirement but was negative. It set out the relevant provisions from the customer 
+agreement in support of the action it had taken.
+IG said that in terms of Mr W being unable to access the platform he had accepted in the 
+telephone conversation with its IT department following the margin close out that this was 
+due to the number of annotations he had on the Baidu chart he was trying to open, which 
+delayed the chart opening.
+IG also said in any event it was unlikely that Mr W would have closed his Baidu positions in 
+the first seconds of the market opening if he had been able to access the platform. It said 
+those positions were still in profit when they were closed as a result of the margin call. It said 
+that it thought that Mr W would have attempted to close the Alibaba positions first, which 
+were closed out at a loss. 
+IG also said that Mr W could have closed his positions in Baidu without loading the chart, 
+from the open positions window and that he could have added additional funds to his 
+account before the market opened given he said he was aware he was at 79% of margin at 
+1.00 am on 27 July 2021. 
+IG offered a goodwill payment of £614 which was a repeat of an offer previously made but 
+rejected by him. This figure was calculated based on the difference in equity the two times 
+this was recorded on IGs system the morning of 27 July 2021  this being - £524.64 at 
+9.00.03 am and - £1,138.64 at 9.00.35 am.
+Mr W didnt accept the offer and it has now been withdrawn. He referred his complaint to us 
+and one of our investigators provided an opinion in which he said he didnt think IG had done 
+anything wrong. Mr W didnt agree with the investigator and it was referred to me for review. 
+I also didnt think the complaint should be upheld and issued a provisional decision 
+explaining why, the findings from which are set out below.
+I think it is important to make clear that my role is to make a fair and reasonable decision 
+based on the information provided by the parties taking into account relevant; law and 
+regulations; regulators rules, guidance and standards; codes of practice; good industry 
+practice where appropriate. My findings are made on a balance of probabilities  what is 
+more likely, than not  and it is for me to decide how much weight to give any piece of 
+evidence.
+I can understand Mr W being frustrated having logged onto IGs platform in preparation for 
+the pre-market opening to find he couldnt access the platform because the Baidu chart 
+wouldnt load - with his positions then being closed due to his account falling below the 
+margin required. However, having considered all the information and arguments provided by 
+the parties carefully, I am not persuaded that IG did something wrong that caused the losses 
+that Mr W suffered.
+I accept that the Baidu chart that Mr W used on the platform didnt load when he went on to 
+IGs website at 8.57.06 am on 27 July 2021. I acknowledge that the only evidence of this is 
+his statement to that effect but he called IG shortly afterwards about the issue and there is 
+evidence of this issue arising subsequently, including video clips Mr W has made from 
+different days where the issue with the chart not loading can be seen. I also accept what Mr 
+W has said about the issue persisting until 2 September 2021.
+I also accept what Mr W has said about the problem with the Baidu chart loading wasnt an 
+issue he had before 27 July 2021. I acknowledge he referred to it having happened the 
+previous day when he spoke to IGs IT department about the issue for the second time on 27 
+July 2021. I think it is more likely than not this was an error on his part, as he has said. I 
+think if he had experienced a problem the day before it is more likely than not he would have 
+spoken to IG about this at the time, and he didnt. So, I dont think Mr W was aware there 
+might be an issue with the chart loading on 27 July 2021 such that he could have avoided 
+being unable to access the platform that morning.
+I also accept what Mr W has said about how he had set matters up when he accessed the 
+platform  namely that this was set up so that the Baidu chart opened in full screen mode. In 
+other words I accept that on trying to access the platform he couldnt see the close position 
+button and was unable to minimise the chart or do anything else immediately on the platform 
+to get access to the close positions button for Baidu.
+However, having said all that, there is no persuasive evidence that Mr Ws inability to access 
+the platform was because of something that IG did wrong. 
+I have noted Mr Ws suggestion he was targeted. He has provided no explanation as to why 
+IG would have singled him out and there is no evidence to support it did so, which would be 
+a serious breach of its regulatory obligations.
+There has been a reasonable amount of discussion about the cause of the problem being 
+the number of annotations Mr W had placed on the Baidu chart, estimated at over 400. 
+But although Mr W initially agreed with IG that this might be the cause he has since said he 
+had the same number of annotations before the 27 July 2021 and since 2 September 2021 
+without any problem  accessing the Baidu chart. He has also provided video evidence of the 
+issue with the Baidu chart not loading after 27 July 2021 as well as a video showing it 
+loading as expected in October 2021 - with the same number of annotations. It is his case 
+that this shows that the issue was with IGs website not his system or the number of 
+annotations on the chart.
+However, whilst the evidence doesnt support a finding that the annotations  at least by 
+themselves - explain why he had a problem loading the Baidu chart for a period of two months, it also doesnt establish in my view that the cause of the problem wasnt at Mr Ws 
+end. The fact that only Mr W appears to have been affected by this issue is suggestive of the 
+problem being at his end, as it seems unlikely to me that if it was at IGs end there would not 
+have been other customers complaining.
+In saying that I note Mr Ws reference to IG possibly reducing the bandwidth of the website. 
+This, in combination with the number of annotations, could explain why the Baidu chart took 
+so long to load for him on 27 July 2021. However, if it had reduced the bandwidth I think it is 
+unlikely no one else would have been affected over the two months there appears to have 
+been an issue, albeit not in the same way as Mr W. In the circumstances I think the fact that 
+this problem only affected Mr W does not support a finding that it was the result of something 
+that IG did in relation to its website.
+This isnt the only possible explanation why the Baidu chart took so long to load for Mr W. 
+For example Mr Ws internet service provider (ISP) could have reduced his internet speed. I 
+acknowledge he did a speed test on 27 July 2021 after the problem had arisen which was 
+considered by IG to be adequate. But there is no evidence of what the speed was 
+previously, so it is possible that the speed was higher beforehand such that there was no 
+previous issue with the chart loading despite the annotations. 
+I have provided this as an example not because I am saying this is necessarily what 
+happened but to make the point that there is more than one possible reason why he was 
+unable to open the Baidu chart and there isnt any persuasive evidence that has been 
+provided in this complaint that it was the result of something that IG did.
+I note Mr Ws suggestion that the investigator should have asked for independent verification 
+as to the cause of the failure to the Baidu chart loading, using his videos of the problem. 
+Putting on one side that I think it is very unlikely any expert would be willing to provide an 
+opinion based on his video evidence, it is for the parties to provide the evidence that is 
+relevant and they want us to consider. It was open to Mr W to provide his own expert 
+evidence if he thought such evidence was relevant. He has not done so and it isnt for me to 
+obtain such evidence to prove or disprove one parties version of events.
+Furthermore, even if I had been satisfied that the cause of the Baidu chart not loading was 
+due to some change made to the website by IG this doesnt mean it did something wrong. It 
+seems to me that it is entitled to make changes to the operation of its website and doesnt 
+guarantee it will always be possible to make trades through its platform.
+It offers alternative ways for trades to be made, such as by telephone. Mr W has said the 
+Baidu chart normally opens in a matter of seconds  as seen in the October 2021 video he 
+provided. He would therefore have known very soon after going onto the website at 8.57.16 
+am that the chart wasnt opening as normal. 
+He also knew before 9.00.00 am that the Hong Kong HS50 Index had fallen sharply and, on 
+his case, he had decided to close his positions as soon as the pre-market opened. He has 
+said that he naturally assumed that it wouldnt take more than another few seconds to load 
+the chart. But this had never happened before over several years of Mr W using the Baidu 
+chart, so there was no reasonable basis for him naturally thinking the problem would simply 
+resolve.  
+Given the importance of him being able to close his positions as soon as the pre-market 
+opened and that he had never previously had a problem with the chart loading, I dont accept 
+that it was reasonable for him to simply chance it that the issue with the chart would resolve 
+just in time for him to close his positions. Mr W has said he didnt have time to call the IG premium desk as he expected the chart to 
+load in the next few seconds - which as I say I dont accept was a reasonable assumption  
+and was establishing what had caused the decline in the China markets overnight. But if he 
+had already decided to close his positions because of the drop in the Hong Kong HS50 
+Index - as he says he had - finding out the reason for the fall had no bearing on what he 
+intended to do, so cant reasonably have been a basis for not telephoning.
+Mr W also appears to give an alternative explanation for why he didnt call IG  namely that 
+he didnt call because his preference wasnt to rely on someone else to close his positions. 
+Whilst that may have been a reasonable decision when there was no issue with him 
+accessing the platform, it wasnt when he knew he didnt have access. It is because it was 
+so important for him to close his positions as soon as the market opened that he should 
+have called IG when he was unable to access the platform as he normally could.
+In the circumstances it is reasonable to have expected Mr W to telephone IG when it was 
+apparent he wasnt able to access the platform. There is no way of knowing for certain if he 
+would have avoided margin close out if he had called, but there is equally no way of knowing 
+if he would have avoided it if he had been able to access the closed positions button on the 
+platform. 
+However, I am mindful that his account was already negative at 9.00.03 am so there was at 
+most a couple of seconds for him to avoid margin close out. On balance I am not satisfied it 
+is more likely than not he would have avoided margin close out either way given the time 
+available. So, even if he had access to the closed positions button I am not satisfied he 
+would have avoided the losses he suffered as a result of being closed out on margin.
+Furthermore, IG has said that when the market opened Baidu was still positive and remained 
+so until margin close out. I think IGs argument that Mr W wouldnt have closed his Baidu 
+positions immediately on the pre-market opening in any event is a reasonable one in the 
+circumstances. 
+One final point I would make is that the only evidence Mr W would have sought to close his 
+positions at 9.00.00 am if he had access to the close positions button on the platform is his 
+statement to this effect. I dont expect him to be able to provide supporting evidence of an 
+intention. But I would have expected him to inform IG of this when he discussed the issue 
+with the chart loading following being closed out on margin. 
+However, in the calls he made on 27 July 2021 and 28 July 2021, although specifically 
+talking about the issue with the Baidu chart not loading, he made no mention of this 
+preventing him from closing his positions. Instead he refers to not being able to see what 
+was going on. The fact he refers to not being able to see what was happening rather than to 
+not being able to close his positions doesnt in my view support what he has said about 
+having already decided to close his positions as soon as the market opened at 9.00 am.
+Furthermore, IG has said that when the market opened Baidu was still positive and remained 
+so until margin close out. I think its argument that Mr W wouldnt have closed his positions 
+immediately on the pre-market opening in any event is a reasonable one in the 
+circumstances.
+For the various reasons I have explained above I am not satisfied that IG did anything wrong 
+or are responsible for the losses Mr W suffered as a result of his positions being closed 
+following margin breach.
+I gave both parties the opportunity of providing any more information they wanted me to 
+consider before making my final decision. IG had nothing further to add. Mr W asked for some further time to provide a response and I agreed to him having some additional time. 
+However, the time for his response has passed and he has provided no further information. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+As neither party has provided any further information there is no basis for me changing the 
+findings set out in my provisional decision, which form part of my findings in this final 
+decision. In short, the losses Mr Ws suffered resulting from his positions being closed for 
+margin breach werent the result of anything that IG did wrong.
+My final decision
+I dont uphold this complaint for the reasons I have set out above. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr W to accept or 
+reject my decision before 16 June 2023.
+ 
+Philip Gibbons
+Ombudsman

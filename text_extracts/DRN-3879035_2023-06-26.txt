@@ -1,0 +1,115 @@
+DRN-3879035
+The complaint
+Ms K complains that Monzo Bank Ltd (Monzo) has refused to refund the money she has lost 
+following her falling victim to a scam.
+What happened
+The background of this complaint is well known to all parties, so I wont repeat what 
+happened in detail.
+In summary Ms K was contacted via social media by an individual I will call X. X provided Ms 
+K with information about a potential investment opportunity in Bitcoin. X was very 
+persuasive, and Ms K could see her other contacts on the social media platform had 
+supported Xs claims. One of Ms Ks trusted contacts had even uploaded a video in support 
+of the investment offered by X.
+Ms K was advised she would have to make payments into the investment via the 
+cryptocurrency exchange Moonpay. Its not clear how X was able to control Ms Ks Moonpay 
+account but once the funds were transferred to the Moonpay account by Ms K, X took 
+control and made payments from her Moonpay account to what turned out to be a fake 
+investment.
+Ms K made the following payments to Moonpay:
+Date Payee Amount Payment Method
+3 April 2022 Moonpay £2,000.00 Transfer
+3 April 2022 Moonpay £3,500.00 Transfer
+4 April 2022 Moonpay £4,881.04 Transfer
+4 April 2022 Moonpay £2,500.00 Transfer
+6 April 2022 Moonpay £299.00 Transfer
+6 April 2022 Moonpay £2,510.00 Debit Card
+Ms K has told us that X disappeared before she had the chance to make a withdrawal from 
+the investment and she has been unable to recover any of the payments she made.
+Our Investigator considered Ms Ks complaint and thought it should be upheld in part. Ms K 
+and Monzo both disagreed so this complaint has been passed to me to decide.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+It has not been disputed that Ms K has fallen victim to a cruel scam. The evidence provided 
+by both Ms K and Monzo sets out what happened clearly. What is in dispute is whether 
+Monzo should refund the funds Ms K lost due to the scam.
+Recovering the payments Ms K made
+Ms K made payments into the scam via the methods of transfer and card payment.
+For the payments Ms K made by transfer I have considered if Ms K should have received a 
+refund under the Contingent Reimbursement Model (CRM) code. But the CRM code only 
+applies when domestic payments (as the result of a scam) are sent to another person. Here 
+Ms K sent the payments to an account held in her own name with Moonpay, and the scam 
+occurred when the purchased crypto was sent from that account to the scammer. Im 
+satisfied the CRM code wouldnt apply in this scenario.
+Monzo was unable to process a chargeback for the card payment Ms K made in relation to 
+this scam to Moonpay.
+The chargeback scheme is a voluntary scheme set up to resolve card payment disputes
+between merchants and cardholders. The card scheme operator ultimately helps settle 
+disputes that cant be resolved between the merchant and the cardholder.
+Such arbitration is subject to the rules of the scheme, meaning there are only limited
+grounds and limited forms of evidence that will be accepted for a chargeback to be
+considered valid, and potentially succeed. Time limits also apply.
+Ms K was dealing with the scammer, which was the person that instigated the scam. But Ms 
+K didnt make the debit card payment to the scammer directly, she paid a separate 
+cryptocurrency exchange (Moonpay). This is important because Monzo was only able to 
+process chargeback claims against the merchant she paid (Moonpay), not another party.
+The service provided by Moonpay would have been to convert or facilitate conversion of
+Ms Ks payment into cryptocurrency. Therefore, Moonpay provided the service that was 
+requested; that being the purchase of the cryptocurrency.
+The fact that the cryptocurrency was later transferred elsewhere  to the scammer  doesnt
+give rise to a valid chargeback claim against the merchant Ms K paid. As Moonpay provided 
+the requested service to Ms K any chargeback attempt would likely fail.
+So, I am satisfied Monzo was unable to recover the payments Ms K made to Moonpay.
+Should Monzo have reasonably prevented the payments Ms K made?
+Ms K has accepted she authorised the payments that were made from her account with 
+Monzo, albeit on Xs instruction. So, the starting point here is that Ms K is responsible. 
+However, banks and other Payment Services Providers (PSPs) do have a duty to protect 
+against the risk of financial loss due to fraud and/or to undertake due diligence on large 
+transactions to guard against money laundering.
+The question here is whether Monzo should have been aware of the scam and stepped in to 
+prevent the payments from being made.
+The first two payments Ms K made in relation to the scam to Moonpay were to a new payee, 
+but I dont think it would be reasonable for me to say Monzo should step in every time one of 
+its customers pays a new business, especially when the business appears to be legitimate. 
+The individual payments were also below an amount I would expect to trigger Monzos fraud 
+prevention systems. So, I dont think it was unreasonable that the first two payments Ms K 
+made didnt trigger Monzos fraud prevention systems and that it didnt step in to speak to 
+Ms K about the payments.On the 4th April 2022 Ms K made a further two payments into the scam of £4,881.04 and 
+£2,500. While individually I do not consider these payments to be of a significantly high 
+value, by the time the second payment was made Ms K had sent a total of over £5,000 to a 
+new payee in the same day and paid a total amount of almost £13,000 in just two days. With 
+the above in mind, I think Monzo should have stepped in when Ms K made the fourth 
+payment into the scam of £2,000 and questioned Ms K about the payments she was making.
+Had Monzo stepped in and had this conversation with Ms K I think it is likely Monzo would 
+have uncovered a scam was taking place and been able to prevent Ms K incurring any 
+further loss. Afterall, Monzo would have been aware of similar scams taking place around 
+the same time. Monzo is therefore responsible for Ms Ks loss that occurred from the fourth 
+payment onwards.
+Did Ms K contribute to her loss?
+While this was a sophisticated scam and Ms K was convinced it was a genuine investment, I 
+still think Ms K should share the responsibility for her loss (50% of the payments made after 
+the third payment into the scam). I say this because before Ms K made the payments into 
+the scam a warning was presented stating:
+Watch out for scams and fraudsters. Make sure that only you control the above wallet. If 
+you did not set it up yourself, or have been given a wallet address to enter, you are likely 
+being scammed. If you are being guided by a third party, or if someone else has access to 
+your device, you are likely being scammed Learn more about scammers red flags here.
+So even though X presented convincingly I think Ms K should have taken notice of the above 
+warning and had she done so I think she could have potentially prevented the loss too. 
+Putting things right
+Ive explained why I think, if Monzo Bank Ltd had done what it reasonably ought to have 
+done, Ms K would not have lost as much to this scam as she did.
+Monzo Bank Ltd should therefore refund the payments Ms K made into the scam after the 
+third payment (less 50%).
+To compensate Ms K for having been deprived of this money, Monzo Bank Ltd should also 
+pay Ms K interest on the loss.
+As the funds came from a saving account, Monzo Bank Ltd should pay interest at the saving 
+account rate of 2% gross (2.02% AER).
+My final decision
+I uphold this complaint and require Monzo Bank Ltd to put things right be doing what Ive 
+said above. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Ms K to accept or 
+reject my decision before 24 July 2023.
+ 
+Terry Woodham
+Ombudsman

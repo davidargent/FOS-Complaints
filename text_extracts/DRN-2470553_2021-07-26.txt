@@ -1,0 +1,183 @@
+DRN-2470553
+The complaint
+Mrs Z is unhappy HSBC UK Bank Plc (HSBC) havent refunded her money after shes said 
+she was the victim of a scam.
+What happened
+On 2 January 2020 Mrs Z said she was called by a scammer pretending to be her household 
+internet provider. They told her they need to run tests on her phone and asked her to use an 
+internet search to access a link.
+Later the same day she logged onto her internet banking and discovered around £10,000 
+had left her HSBC bank account without her knowledge. Some of the money had been 
+transferred to another bank account and some of the transactions she didnt recognise used 
+her card to send money to money transfer websites.
+She contacted HSBC to report the fraud. She told HSBC she had no idea how the money 
+had been taken and confirmed she hadnt been contacted by anyone who might be a 
+scammer. HSBC contacted her the next day on 3 January 2020 to confirm that based on 
+what shed said it was unable to refund the money as it couldnt see how fraudsters had 
+accessed her account.
+According to Mrs Z, she contacted HSBC on 3 January 2020 to say now shed had time to 
+think about things there was a call shed received from her internet provider where they 
+checked her phone and instructed her to visit a website. She thought this must be how the 
+scammers gained access to her account but insisted she didnt give them any of her 
+personal details or security information. It considered this new information but didnt feel it 
+plausibly explained how the money had been taken.
+Mrs Z brought the complaint to our service but our investigator didnt uphold it. They didnt 
+think it was likely scammers had remotely accessed Mrs Zs phone as shed suggested. 
+They also believed Mrs Zs secure key had been used to verify payments to a new payee 
+and she hadnt been able to explain how scammers mightve accessed this when shes said 
+they contacted her by telephone. 
+Mrs Z didnt accept the investigators findings. She maintains scammers mustve somehow 
+been able to take over her phone in such a way that didnt require any of her security 
+information or that HSBC didnt ask for verification using her secure key on this occasion. As 
+she didnt accept the investigators findings, the complaint has been passed to me to make a 
+decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+The regulations relevant to this complaint are the Payment Services Regulations 2017 
+(PSRs). I wont quote them directly here but, broadly speaking they set out when a customer 
+is responsible for the transactions on their account  typically when theyve been authorised 
+by the consumer in some way. And where theres a dispute about whether a customer 
+authorised a transaction there needs to be evidence to support the banks case if it wishes to 
+hold the customer liable.
+HSBC has said it doesnt feel there is sufficient evidence Mrs Z has been the victim of a 
+scam in this case and theres no evidence of any third party compromise on her account. As 
+such, it feels she authorised the transactions shes disputing by using the agreed process 
+and security credentials it asked for and therefore is liable for the transactions. 
+Mrs Z refutes this. And shes gone into detail about why she feels the business is wrong 
+about this, providing a lot of additional information about her complaint and the payments 
+that were made. Ive considered all of this information very carefully and Ive listened to the 
+calls that took place between her, her husband and HSBC. 
+But having done so, overall, based on the balance of probabilities and the evidence 
+available, Im not persuaded Mrs Z has been the victim of a scam. I dont think the 
+information shes provided gives a plausible explanation as to how someone wouldve 
+accessed her account without her knowledge or consent. I think its more likely than not the 
+payments were authorised by her and she should be liable for them. In reaching this 
+conclusion Ive taken the following information into account:
+Mrs Z has confirmed on numerous occasions that when speaking to scammers she 
+didnt install anything on her phone, only clicked a link that took her to a website. She 
+also said on numerous occasions she didnt give any of her security information to 
+the person on the phone and they didnt ask for any passwords. Based on what is 
+currently understood of remote access takeover scams, either software needs to be 
+installed on the device, or log-in information would be needed to access online 
+banking. So what Mrs Z has told us doesnt reflect that shes been the victim of a 
+remote access takeover scam.
+The transactions Mrs Z has disputed started four minutes after she says she was 
+called by the scammer. There are no incorrect log-ins recorded and no attempts have 
+been made to reactivate or change security or log-in information on her account. So 
+whoever logged onto her online banking to make the transactions knew her security 
+information. As Mrs Z has said she didnt give this to anyone, theres no plausible 
+explanation as to how someone other than she couldve done this.
+HSBCs records show Mrs Zs secure key  her phone  was used to verify the 
+payments to a new payee. And it says this step is always required when making a 
+payment to a new payee. Mrs Z has strongly refuted the secure key was used to 
+verify the payment. Shes said HSBC simply must not have required this extra 
+authentication on this occasion. Shes provided a video tutorial, publicly available and 
+created by HSBC, which shows instructions on how to pay a new payee and she said 
+this doesnt mention the secure key. Banks may not always make all security 
+information publicly available to protect its customers, but in any event the video 
+shes provided does confirm a payment to a new payee must be verified with the 
+secure key. It states the user will need to use fingerprint or face ID to verify the 
+payment to a new payee before its made. With an existing payee, you dont need to 
+verify your identity for the second time. So I dont think this video provides any 
+evidence to suggest the extra verification required for a new payee isnt required as 
+Mrs Z has said.
+Mrs Z has said shes carried out her own tests and has successfully been able to make a payment to a new payee without additional verification, but I have no way of 
+verifying this. As Ive mentioned, HSBC has stated customer are always, without 
+exception, required to complete this step. And in this particular case, its records show 
+that the transfer Mrs Z is disputing, were carried out with additional verification from 
+her secure key. So I think its more likely than not this step was completed. This 
+means when the disputed transactions were made, someone needed to have used 
+Mrs Zs phone to verify them. Either with her fingerprint or face ID, or her 
+personalised security information. Based on what Mrs Z has said  that she didnt 
+give her information to the scammers - I cant see how its possible a scammer 
+couldve done this.
+According to HSBCs records, three of the transactions disputed by Mrs Z were made 
+using her card  they were payments made through money transfer sites. If she 
+didnt give any details or banking information to the scammer its unclear how they 
+accessed her card details to make a debit card purchase as this information wouldnt 
+have been accessible from her online banking. 
+One of the debit card purchases prompted a message to Mrs Z to thank her for using 
+the service. It would be unusual for a scammer to use Mrs Zs genuine contact details 
+as this couldve alerted her to the payment immediately. Most scammers would do 
+what they could to remain undetected for as long as possible. Its not clear why a 
+scammer wouldve done this.
+The activity Mrs Z has said was carried out by scammers isnt consistent with the 
+way this kind of scam tends to be perpetrated. There was over £20,000 in Mrs Zs 
+account when she says the scammers accessed the funds. Its not clear why, when 
+all transactions they had made had been successful, they stopped at around 
+£10,000. According to HSBCs website, its daily transfer limit is £25,000 to another 
+UK bank account. There are no recorded failed attempts to use the card or make 
+transfers. So it seems it wouldve been possible to access more of the money in Mrs 
+Zs account. Its not clear why, having successfully made several transfers 
+undetected, before they had accessed all the funds available, the scammer switched 
+to using a payment website (which then alerted Mrs Z to the activity) rather than 
+continue accessing the money.
+Mrs Z didnt tell HSBC shed received a call from her internet provider or that she was 
+asked to check her phone until after shed been informed her scam claim hadnt been 
+accepted. Shes said this is because it didnt occur to her that the call might be in 
+some way connected, but I dont think this is plausible. Ive listened to all of the calls 
+between Mrs Z, her husband who was speaking at times with her consent, and 
+HSBC. On numerous occasions she was asked if shed received any calls from any 
+third parties, even from utility providers and she had said no. It seems strange this 
+level of prompting didnt draw her attention to a call shed received from a utility 
+provider, the day of the scam, while shes said she was on her phone accessing her 
+online banking, during which she was asked to click a link on her phone.
+During one call with HSBC, after shed been told it would not be reimbursing her for 
+her loss, Mrs Z asked her husband to speak for her. He proceeded to tell HSBC hed 
+been reading up on remote access takeover scams and how they worked. During the 
+call he asked HSBC for information about how they mightve worked in a situation 
+like Mrs Zs. It seems strange that, despite having learnt about how this type of scam 
+worked and being present during this call, Mrs Z still wasnt prompted to remember a 
+call exactly like a call one might receive during a remote access takeover had 
+occurred the day she was scammed a couple of days earlier. It was only after this call, and after Mrs Zs husband says he learned about remote access takeover 
+scams, she began to insist this is what mustve happened to her. Although as Ive 
+explained, what shes described doesnt reflect what we know about how they tend to 
+work.
+At different points during her conversations with HSBC Mrs Z said she didnt access 
+her online banking when on the phone to the scammers, but later said she had while 
+she was on hold with them. Shes said she was alerted to her money being taken 
+because she received a message from one of the payment services the scammer 
+used. On other occasions shes said she noticed because she was checking to see if 
+an expected payment had left her account from an online retailer buying presents for 
+her sons birthday. So her recollection of some of the events in the days following the 
+scam have been inconsistent. And whilst this alone perhaps wouldnt be concerning, 
+I think its fair to take this into account in the round, along with everything Ive 
+mentioned above.
+The online banking sessions during which the disputed transactions were carried out 
+were accessed from an IP address registered to a different part of the country to Mrs 
+Zs location. Mrs Z has argued this demonstrates it couldnt have been her accessing 
+the account as she couldnt have travelled that distance in the few minutes between 
+her genuine session and scammers. But I dont think the location of the IP address 
+offers reliable evidence it wasnt her accessing the account. Its relatively straight 
+forward to disguise an IP address so it appears in a different location. So when 
+considered alongside all the other information available in this case I dont think this 
+point persuasively evidences a scammer accessed the account.
+Overall, I dont think Mrs Z has been able to provide a plausible explanation as to how her 
+account was compromised based on what we currently know about how the type of scam 
+shes describing tends to be perpetrated. I also think there have been some inconsistencies 
+in Mrs Z recollection of events and the way shes explained what happened.
+Whilst I accept recollections of events can change over time, most of the information Mrs Z 
+gave HSBC about the scam was within three days of her money leaving her account. And 
+having listened to the calls that took place between her, her husband and HSBC I think she 
+was given numerous opportunities and prompts to be able to provide her version of events 
+accurately. 
+Mrs Z has repeatedly stated no-one knows what scammers are capable of so its not 
+possible to rule out that she has been the victim of a highly sophisticated remote access 
+takeover scam. But my role is to make a decision about whether or not HSBC has reached a 
+reasonable conclusion. This is based on what I think is more likely given the evidence 
+presented and currently available. And overall, I dont think its more likely than not Mrs Z 
+has been the victim of a scam based on the evidence available here. So I dont think HSBC 
+has been unreasonable in reaching this conclusion.
+Mrs Z had also raised that HSBC allowed such a large amount of money to leave her 
+account in such a short period and feels it shouldve done more to protect her. And whilst I 
+am surprised to see such significant transactions in such a short period didnt prompt contact 
+from HSBC, such measures are in place to protect its customers from financial crime. As Im 
+not persuaded a financial crime has occurred in this case, I dont think its missed an 
+opportunity to prevent Mrs Z from losing her money.
+My final decisionMy final decision is that I dont uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mrs Z to accept or 
+reject my decision before 23 August 2021.
+ 
+Faye Brownhill
+Ombudsman

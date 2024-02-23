@@ -1,0 +1,128 @@
+DRN-4054470
+The complaint
+Mr H is unhappy that Monzo Bank Ltd wont refund a transaction on his account he says he 
+didnt authorise.
+What happened
+In April 2022, Mr H received a call from someone pretending to be Monzo. He was told there 
+was a pending transaction on his account, and they needed to verify his account as well as 
+whether it was him making the transaction. He confirmed it wasnt him that attempted the 
+transaction, so he was told to delete the app as it was no longer safe. On the same day an 
+Apple Pay token was set up on a new iPhone device, and the following day a transaction 
+was made for £9,496.
+Mr H complained to Monzo about this payment. It concluded that it was authorised by Mr H 
+as he approved the Apple pay token on the other partys device. But it paid him £50 
+compensation for the number of people who hed had to speak to in order to raise this issue 
+and his complaint. Mr H didnt agree with the outcome and came to our service. 
+When Monzo provided its file to us it recognised the payment wasnt made by Mr H, but 
+instead said he was grossly negligent by approving the token on a different device to what 
+he held. Our investigator didnt uphold the complaint. She couldnt be satisfied with how the 
+Apple Pay token was set up on the fraudsters device without Mr Hs involvement, so didnt 
+feel Monzo were liable to refund his loss. She felt its offer of £50 compensation was fair in 
+the circumstances. Mr H remained unhappy as he refutes authorising this transaction and so 
+the complaint was passed to me for a decision. 
+I issued a provisional decision in mid-March; my provisional findings were:
+Im minded to say Monzo is liable to refund Mr H for the following reasons:
+Monzo has now accepted this was an unauthorised transaction. In line with the 
+Payment Services Regulations 2017, Monzo can only hold Mr H liable if he failed 
+with gross negligence or intent. Here, it refused to refund him because it asserts Mr 
+H failed with gross negligence to comply with the terms of the account and keep his 
+personalised security details safe.
+Having considered the circumstances carefully, Im not persuaded thats the case. Ill 
+explain why.
+Mr H said the caller knew his name, address and card details. Its not clear how the 
+fraudster knew this information, as Mr H hasnt said he responded to any phishing 
+emails or text messages where he mightve entered his details. But we know there 
+are several ways this couldve been obtained without Mr Hs involvement. Im 
+satisfied in this case that the fraudster held this information already and so this is, in 
+part, why Mr H was persuaded he was speaking to his bank.
+I accept what further persuaded him that it was his bank calling was because the 
+fraudster tricked him into thinking a transaction had been attempted from his account, 
+and so told him to decline this if it wasnt him. Which he duly did. Monzo appears to 
+accept that Mr H did decline something in his app, so what the fraudster told him was 
+happening was being replicated in his genuine banking app.
+Taking this into account, I can see why Mr H trusted the fraudster was calling from 
+Monzo.
+The evidence shows that an Apple Pay token was approved and added to an iPhone 
+device. Mr H has a Samsung phone, so we know it wasnt his phone that the Apple 
+Pay token was added to. To add Apple Pay to a new device, it would require 
+someone to add the card details to the new device, meaning the fraudster entered 
+the card details into their device to start the process of setting it up. After that, Mr H 
+wouldve seen a screen that said Finish adding your card to Apple Pay. He 
+wouldve then had to click Add card followed by entering either his PIN or using 
+biometrics on the next screen. Mr H says he cant remember doing this or being 
+asked to enter his PIN but if he did, he did so unknowingly.
+Monzo point out that Mr H ought to have questioned why he was setting up Apple 
+Pay when he had an Android phone. I accept he couldve done this, but I dont think 
+him not doing so meant he was significantly careless here  to say that he failed with 
+gross negligence.
+I accept in the moment, with the false sense of risk created around his account, he 
+may have missed the messaging around Apple pay. We know Mr H was in his app 
+around the time, having declined a payment attempt and was also being told to follow 
+a process to delete his app. His testimony suggests a sense of urgency was created 
+ he had 30 missed calls about the activity on his account, and as he believed he 
+was speaking to his bank, he wouldve followed the steps advised as quickly as 
+possible to secure his funds. So possibly not necessarily reading all the information 
+and taking the same care youd expect from someone outside of a pressure situation. 
+But I dont agree this makes him significantly careless. As he was, in his own way, 
+acting with care to protect his funds.
+What I bear in mind here is that Mr H received a call from someone claiming to be his 
+bank in which he was told there was attempted fraud on his account, and so he 
+needed to take steps to protect himself. Im further mindful of the few steps needed 
+and how quickly this wouldve happened  this wasnt a long-drawn-out process that 
+gave Mr H much pause for thought. In any event, there were no warnings to suggest 
+he was adding Apple Pay to another device; putting his account at risk; and giving full 
+access to an unknown party.
+Taking this all into account, I dont think Mr Hs actions fell so far below what a 
+reasonable person wouldve done that he failed with gross negligence. I intend to say 
+that he isnt liable for the transaction and Monzo needs to put things right  by 
+refunding his losses from this unauthorised transaction alongside interest to 
+compensate him for the time hes been out of pocket.
+While not impacting my outcome, Mr H has discussed a few other points such as him 
+switching off notifications due to a social media post he saw by Monzo. I dont agree 
+with his stance that this was a direct instruction by his bank to not monitor his 
+banking or that he should have taken this post in such a manner.Monzo offered £50 compensation given Mr Hs frustration with the number of people 
+he spoke to through its in-app chat function. Given the circumstances of the 
+complaint, I intend to say this a fair award to reflect the distress caused to him. And 
+this amount has already been paid.
+Mr H accepted my provisional decision, however Monzo didnt accept. It still considered 
+Mr Hs actions grossly negligent, saying he knew he was setting up an Apple Pay token and 
+as he had an Android device, this action was nonsensical. It also said he followed an 
+instruction from a third party that had no business requesting this action in the first place. So 
+the case has been returned to me for a final decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I see no reason to depart from my provisional findings, so I uphold this 
+complaint.
+As Ive already set out in my provisional decision, I accept that had Mr H seen and 
+understood the messaging around Apple Pay, he couldve questioned this. But I dont think 
+him not doing so meant he was significantly careless here  to say that he failed with gross 
+negligence. I accept in the moment, with the false sense of risk created around his account, 
+he may have missed the messaging around Apple pay. I dont agree this makes him 
+significantly careless as he was, as I have already set out, in his own way acting with care to 
+protect his funds.
+Monzo also argues that Mr H followed instructions from a third party that shouldnt have 
+been requesting this action in the first place, but Monzo seems to ignore what unfolded as 
+part of this scam. Mr H said the caller knew his name, address and card details. The 
+fraudster was even able to trick him into thinking a transaction had been attempted from his 
+account, and so told him to decline this if it wasnt him. Which Mr H says he did in his 
+genuine app. Its clear Mr H believed he was speaking to a representative from his bank and 
+followed instructions he believed would protect his account. So to him, this person did have 
+the relevant authority to give banking instructions.
+Monzo has also said Mr H should be considered grossly negligent as he hasnt taken 
+responsibility for his actions and/or is lying. But I cant agree. Mr H has said he doesnt recall 
+entering the required information, which considering the stressful situation he was in, isnt 
+that unusual. I dont agree hes lied to our service. And Ive already set out why I dont agree 
+his actions amount to gross negligence. So I still uphold this complaint. 
+Putting things right 
+I instruct Monzo to:
+Pay Mr H the total of the unauthorised transaction, less any amount recovered or 
+refunded  I understand the loss value remains at £9,496.
+Pay 8% simple interest per year on this amount, from the date of the unauthorised 
+transaction to the date of settlement (less any tax lawfully deductible).My final decision
+For the reasons set out above, I uphold Mr Hs complaint against Monzo Bank Ltd.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr H to accept or 
+reject my decision before 26 April 2023.
+ 
+Amy Osborne
+Ombudsman

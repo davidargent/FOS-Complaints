@@ -1,0 +1,208 @@
+K820x#14complaint
+Mr S complaint relates  to a particular  Contracts for Differences (CFD)  Options trade  in his 
+trading account  with Plus500UK Ltd (Plus500).  He says an illegitimate margin  call closure  
+was applied to it, based on false pricing from Plus500, and that the event led to unfair  
+closures of other trades. He also says no prior notice was given to him about the margin  call 
+ whereas, previously, such notice was usually  given.
+background
+In summary:
+Mr S Put 2790 March USA 500 trade  was a buy (or long) CFD Option (Put) trade 
+opened on 21 February 2019 at the price  of 43.24 and was based on the S&P 500 
+Index  the trade.
+The trade was without a guaranteed  stop setting.
+The trade was closed on 24 February  2019  at 23:26:42 (GMT)  at the price  of 23.23 
+as a result of a margin call, generating a loss to Mr S of around $4,000 (or around 
+£3,000).
+Based  on available account  evidence,  after opening the trade  Mr S was required to 
+maintain a margin level of £663.31  in account  equity; the margin call was triggered 
+around the time his account equity  had dropped  below  £663.31  to £256.58. The 
+margin level required to maintain the trade and two others was higher at £784.75 and 
+that too was breached by the drop in account equity.
+The drop in account equity correlated with a drop in Plus500s pricing for the trade  at 
+the time.  The legitimacy of the drop in price  is what Mr S disputes (alongside his 
+claim that he should have been  given prior notice of the margin  call). He says, 
+essentially, that the price drop was false/manipulated/inconsistent with the underlying 
+and wider market, and that but for Plus500s  price drop the margin call would not 
+have occurred. 
+Plus500s position is mainly as follows:
+On 24 February 2019 and at 23:26:42 (GMT) its bid/ask (sell/buy) pricing  for the 
+trade was 23.23/29.77, hence application  of the sell price of 23.23 to close the (buy)  
+trade.
+At the same time Bloombergs  pricing  for the underlying market was 32.50/34.75.
+It accepts  that its spread was 290% higher than the market rate but asserts that this 
+was within its dynamic  spread tolerance for the instrument  and it has submitted  
+evidence of this dynamic spread tolerance for the instrument. It says Mr S 
+acceptance of its terms and conditions (for his account) included acceptance of its 
+Order Execution  Policy (OEP) and of the stipulation within  the OEP that his CFD 
+Options trades would be based  on Plus500s prices   not any other price and that its 
+prices may differ from those available elsewhere.
+Its prices are reliably derived from a feed of rates received from data providers,  and 
+the data providers obtain their data directly from the Chicago Mercantile Exchange 
+(CME). A link to the CME is available in the instrument  details section on its trading 
+platform.
+It rejects  the allegation of false/manipulated pricing or that its pricing did not reflect 
+the underlying  market.  It does  not practice such pricing; it has given Mr S screenshot  
+evidence of its price chart  for the trade  showing that the sell rate reached  23.23 at 
+the time the trade was closed;  it has given him screenshot evidence of its price  feed 
+Ref: DRN12283922at the time showing the 23.23/29.77 spread at the time the trade  was closed; and it 
+has submitted evidence  using  the Call 2890  May USA 500 instrument (2019) as an 
+example  which further illustrates price feeds  received and pricing  (on its platform) 
+consistent with those price feeds.  In addition, evidence from Bloombergs rates for 
+the underlying  instrument  shows a price drop around the same time the trade was 
+closed  which supports  the price drop/movement on its platform.
+Its pricing  and pricing  for options (and CFD Options)  are not solely  dependent on 
+the relevant underlying market price.  They are reflective of the underlying  market  
+price but could differ, after taking other factors related to Options pricing  into account. 
+Its terms and OEP  explain this.
+The terms agreed by Mr S also confirmed that his account  was based on an 
+execution only service:  that it was his sole responsibility  to manage the account, to 
+manage his trading  within  it and to monitor his margin in this respect;  that margin call 
+closures can be applied to trades where margin requirements in an account are 
+breached; that this was the case for Mr S, hence  the margin  call closures he 
+experienced; and that it was not obliged to give prior notice of those margin  call 
+closures and had not committed  to do so.
+Mr S position is mainly as follows:
+There was no market  event, volatility issue or liquidity issue   related to the trades 
+underlying market  to match or explain the price movement  that Plus500 alleges 
+(around the time the trade  was closed).  There was no such  price movement in the 
+underlying market. In the absence of such underlying price movement  and given 
+the correlation between Options prices and the relevant underlying market prices  
+the price movement alleged by Plus500 cannot be justified.
+The market was well bid at the time,  with active market  makers and without trading 
+problems so the notion of a 50% price drop in this context  is arguably  inexplicable.
+It is odd/suspicious that Plus500s platform reflected the alleged  price movement only 
+in the price for the trade, there  was little to no reflection  within the Put 2785  
+instrument and the same was the case for the Call versions  of the same  instrument. 
+It is arguably impossible for an alleged  (and significant) price movement for an 
+instrument to behave  in this manner  that is, affecting his Put trade  but hardly (if at 
+all) affecting other relevant Puts and Calls in the options chain based on the same  
+instrument.
+It is also odd/suspicious   and contrary to the logic of options  trading  that the price 
+of his long 2790  Put position,  when it was closed, was half that of the long 2780  
+Put position  (which  had a lower strike price) on Plus500s platform at the same  time. 
+It is noteworthy that while  the alleged price  movement supposedly indicated that US 
+futures prices were  rising  in price  hence the movement against his long Put trade   
+he had a short NASDAQ based position  that was closed around  the same  time as the 
+trade because US futures prices were  falling (not rising). This too conflicts with the 
+price movement  alleged  by Plus500.
+Evidence (including screenshots)  presented  by Plus500 in support of its position 
+cannot be relied upon as such evidence has probably also been  manipulated.
+There have been other instances  in which Plus500 has manipulated the outcomes of 
+his trades and its wrongdoings in those  cases should be noted  and redressed too.
+Plus500 has committed  other  comparable wrongdoings in the past and they were 
+resolved amicably  but it has been  unreasonable in refusing to resolve  the above 
+matter(s). Previously, it also gave him prior notices  of margin  calls but unreasonably 
+failed to do so in the matter above.
+Ref: DRN12283923One of our investigators  looked into the matter and concluded that the complaint should not 
+be upheld. He reached this conclusion for broadly the same  reasons as those given by 
+Plus500. He also noted Mr S displeasure about  the length of time taken by Plus500 to 
+respond to his complaint but considered that its response within eight weeks  was not 
+unreasonable. 
+Mr S disagreed with this outcome  and maintained his key points. He also considered that the 
+matter had not been sufficiently investigated; that Plus500s evidence had not been properly 
+tested and that evidence he submitted (including  screenshots illustrating the anomalies he 
+highlighted in Plus500s pricings) had not been given due weight. The matter  was referred to 
+an ombudsman. 
+my findings
+I have considered all the available evidence  and arguments to decide what is fair and 
+reasonable in the circumstances of this complaint.
+Wider Issues
+Mr S allegations about previous pricing  wrongdoings  by Plus500  those which  he says 
+were resolved and those  which  he says were not and should now be addressed   do not 
+appear to have featured in the initial complaint submissions  he made to this service  or in the 
+complaint he made to Plus500 (or in the complaint Plus500 addressed).  
+I do not consider  that these matters  that is, those which Mr S says should now be 
+addressed  can fairly be determined within this decision for the above  reason. Especially as 
+they do not appear to have been  included, with relevant particulars,  in the complaint Plus500 
+addressed. Complaints to this service should be made after they have been properly 
+presented to the respondent  firms  and after those firms have been given an opportunity  (and 
+reasonable time) to address them.
+The Margin  Call Closure(s)
+It does not appear  to be in dispute   and, I consider, ought not to be in dispute  that 
+Plus500 had a contractual right to apply margin call closures to trades/positions in 
+circumstances where  a margin breach has occurred in an account. 
+The user agreement for Mr S account  expressly provided for this; the agreement made it   
+Mr S responsibility to monitor and manage margin requirements in his account and to avoid 
+breaching such  requirements;  the agreement gave Plus500 the right (and discretion) to close 
+open positions within an account where  such a breach occurs without prior notice to the 
+accountholder (given that the accountholder  ought  to have been monitoring margin  within  
+the account);  and I have not seen  evidence that Plus500 waived  any of these provisions in 
+Mr S case  or gave him an undertaking to provide prior notice of margin  call closures.
+Available evidence   as summarised in the background section above  is that the margin  
+requirement was breached in Mr S account  and that is what  led to closure  of the three 
+positions he highlighted (starting with the trade). I address, below, Mr S complaint about the 
+pricing that led to the margin breach. However,  in terms of Plus500s application of the 
+margin call closures, I do not consider that it did so wrongly.
+Closing Price for The Trade
+Ref: DRN12283924First, I address reliability of evidence.  Both parties  have submitted  and relied upon 
+screenshot evidence.  Without cause to do so, I am not persuaded to regard Plus500s 
+screenshot evidence  with suspicion. I apply the same approach to the screenshot  evidence 
+that Mr S has submitted. I do not have  such cause and I do not consider either set of 
+screenshots to be unreliable. I also note that they appear to address different  aspects  of the 
+case  Mr S screenshots mainly illustrate his points about anomalies in the relevant options 
+chain beyond the trade whilst Plus500s screenshots mainly relate to the chart,  price  and 
+price feed specifically  for the trade  so they do not appear to be in conflict with each-other.
+I wish to note my understanding  of the key points that Mr S has made about what should be 
+expected in an Options chain based  on the behaviour  of a common  underlying  market  that 
+relates to it. I do not suggest that what he has argued is wrong, in principle, but variations 
+can sometimes apply given the nature of Options pricing (as addressed  below). I also do not 
+suggest that it is unreasonable for him to question why pricing for the other  long Calls and 
+Puts he has referred  to differed  from pricing  for the trade (that is, his 2790 Put position), 
+despite sharing  the same  wider chain  (and underlying market).
+However, I am not persuaded that these  arguments  are the prerequisites to determining  the 
+complaint that Mr S believes they are. I say this because of available  evidence of the price  
+chart and the price feed that led to the price at which the trade  was closed; because of 
+evidence within the OEP which supports the price  chart and price feed; and because  even if 
+I accept that the anomalies Mr S has highlighted cast doubt over the pricing  in the Options 
+chain he has described that does not automatically  establish that pricing  for the trade was 
+wrong. It is arguable, in theory and in the alternative, that perhaps pricing  for the other parts 
+of the chain could have  been wrong or could have  been different. 
+I acknowledge that the finding  above does not address Mr S point that Plus500s claim 
+about a price movement  for the trade conflicts with the absence of correlating price 
+movement in the underlying market at the time.  However, I also do not consider that this 
+automatically establishes  that pricing for the trade was wrong. 
+As both parties will be aware, Options  pricing  is somewhat  unique.  A concept such as the 
+Black Scholes Model (which can be used to determine Options prices), for example,  
+presents multiple  pricing elements that are not common in pricing for other 
+instruments/securities. Elements in Options  pricing  go beyond the price of the underlying  
+security or market. They  extend  to factors like time (including time to expiry of the Option) 
+and implied volatility  (which is based on a theory  for future volatility,  is distinct  from current  
+volatility and is arguably a dynamic  and uncertain factor). Implied volatility  is very important 
+in Options pricing.
+In this context, it cannot reasonably be assumed that a change  in an Options price  must be 
+a mirror image of  or must be directly  correlated to  a change or a similar sized change  in 
+the movement  of the underlying security  or market  it relates to.
+A third party  provided the price feed for Plus500, so this service has not been in a position to 
+dissect the workings of how the relevant price feed was produced. In the circumstances, it is 
+reasonable for Plus500 to disclose evidence of the price  feed it used and to rely on that as 
+justification for the price it applied to the trade. It has also highlighted that the price feeds 
+relate to data from the CME  (a known exchange  for Options) and that a link in this respect is 
+available on its platform. This suggests that Plus500 sought to foster  a degree of 
+transparency in its platforms  Options  prices.
+Ref: DRN12283925In some cases, creation of a price feed is not as remote to a firm as it initially  might  seem.  I 
+have considered this possibility  with regards to Plus500, especially as the OEP appears  to 
+say it gets its price feed through its parent  company. Sometimes, with a degree  of probing, 
+an arrangement in which a parent company determines prices for a subsidiary can be akin to 
+the subsidiary determining its own prices. However,  this does not appear to apply to Plus500  
+as the OEP explains that independent third parties are indeed  the source(s)  of the price 
+feeds, they determine the prices and their price feeds then pass  through  Plus500s parent  
+company to reach Plus500.
+Plus500s evidence  of the price feed that triggered the closing price for the trade  and the 
+margin breach  matches the price chart  used  for the same purpose  and both match the 
+closing price that was applied  to the trade. Overall, on balance  and in the context of 
+Plus500s prices being reasonably guided by the price feeds it received (and with available  
+evidence of the price  feed related  to the trade),  I do not consider that the closing price  for the 
+trade was false or manipulated.
+Plus500s Complaint Response
+I agree  with the investigators finding  that Plus500  provided its final response  to Mr S 
+complaint within  the eight  weeks period expected by the regulator. I have also seen 
+documentary record of LiveChat Conversation transcripts  in which Plus500 engaged with   
+Mr S and his queries  before  and after its final response.  I do not consider that Plus500 
+mishandled the complaints process. 
+my final decision
+For the reasons  given  above, I do not uphold Mr S complaint. Under the rules of the 
+Financial Ombudsman  Service,  Im required to ask Mr S to accept or reject  my decision 
+before 4 July 2020.
+Roy Kuku
+Ombudsman
+Ref: DRN1228392

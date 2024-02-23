@@ -1,0 +1,138 @@
+DRN-4236702
+The complaint
+Mr B complains that Revolut Ltd wont refund money he lost when he was the victim of a 
+scam. 
+What happened
+The background to this complaint is well known to both parties and so Ill only refer to some 
+key events here.
+In May 2023 Mr B was the victim of an HMRC impersonation scam. He received a call from 
+the scammer, threatening him with criminal charges unless he paid £1,000  thereby 
+avoiding arrest and unblocking his passport. Mr B has explained the scammer knew all his 
+banking information, sent him a PDF with his name on HMRC letterheaded paper showing 
+the charges, and connected him to another telephone number which he believed to be the 
+criminal court in London (as he searched it online). 
+Mr B made the following payments to the scammer:
+Date (time) Type Amount
+11 May 2023 (10:31) Faster payment £500
+11 May 2023 (10:53) Faster payment £500
+Total: £1,000
+Mr B realised hed been scammed when, after making the payments, the scammers went 
+silent. He contacted Revolut to inform them of the scam but they explained they wouldnt 
+reimburse the payments as, before the payment authorisation, they had protections in place 
+to warn him about the risk of sending the funds. 
+Revolut also sent a final response letter to Mr B which, in short, said:
+Their account terms say theyll try to get the money back from the beneficiary but 
+recovery isnt guaranteed. And they would let Mr B know the recovery outcome via 
+their in-app chat support as soon as the process was finalised. 
+The payment was detected as being made to a new beneficiary and they provided a 
+warning which explained if Mr B was unsure whether he knew and trusted the payee, 
+he shouldnt pay them as they may not be able to help get his money back. Mr B 
+acknowledged this warning and continued with the transfer.
+They also detected the transfer as out of character and it could be a scam. So, they 
+stopped the transfer and directed Mr B to their blog in which they instruct their 
+customers on the different types of scams. After dismissing this warning, Mr B was 
+free to make another transfer to the same beneficiary. 
+Revolut isnt liable for these authorised transactions and theyd treated Mr B fairly, 
+fulfilling their duty to protect him. 
+Later that day, Revolut told Mr B theyd try to recover the funds from the beneficiary account 
+but theyd received confirmation that no funds remained. 
+Mr B referred his complaint to the Financial Ombudsman. He set out how the scam occurred 
+but also explained that it has had a significant impact on him  causing financial hardship, 
+affecting his mental health and his ability to deal with his day-to-day needs.
+Our Investigator considered the complaint but he didnt think Revolut had to do anything 
+further. He said he didnt think the two £500 payments wouldve been sufficiently unusual or 
+suspicious to Revolut to have expected them to have done anything more than the in-app 
+warnings they provided. Because of this, he didnt think Revolut ought to have prevented the 
+scam. 
+Mr B disagreed and so the matter has been passed to me to decide. Mr B feels Revolut 
+should be responsible for the fraudulent activities he fell victim to and, in short, has added:
+Revolut shouldve had suspicions regarding the payments given their value and the 
+unusual nature of the transactions. It is their responsibility to detect and prevent 
+fraudulent activities, particularly involving large sums of money.
+Revolut provide the in-app warnings every time a payment is made to a new account, 
+even if its a family or friends account. Since it shows up for every payment, its 
+difficult to know whether the payee account is legitimate.
+These warnings were insufficient in mitigating the risk and Revolut shouldve taken 
+additional steps, such as contacting him by phone or webchat, to ascertain the 
+legitimacy of the transactions before processing them.
+Revolut wouldnt reveal the payee bank details or the account holder names after he 
+notified them of the scam. And this matter shouldve been easy to sort given he 
+raised the complaint within 24 hours. 
+He also questions why banks provide accounts to scammers and whether theres any 
+background checks undertaken when transactions happen with them frequently.  
+He contacted Revolut as soon as the scam call ended but it took them more than two 
+hours to respond via their chat.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Im sorry Mr B has been the victim of a scam and lost a significant amount of money. I want 
+to assure him that I dont underestimate the impact this has had on him, both financially and 
+on his personal life. But it would only be fair for me to direct Revolut to refund his loss if I 
+thought they were responsible. And, for similar reasons as our Investigator, Im not 
+persuaded that this was the case. Ill explain why. 
+Revolut isnt signed up to the Contingent Reimbursement Model (CRM) code which can offer 
+a potential means of obtaining a refund following Authorised Push Payment (APP) scams. 
+Ive therefore considered whether Revolut should reimburse Mr B under any of their 
+obligations.
+In broad terms, the starting position in law is that an electronic money institution (EMI), such 
+as Revolut, is expected to process payments their customer authorises them to make. It isnt 
+disputed that Mr B knowingly made the payments from his Revolut account and so, Im 
+satisfied he authorised them. Therefore, under the Payment Services Regulations 2017 and 
+the terms of their account, Revolut are expected to process Mr Bs payments and he is 
+presumed liable for the loss in the first instance.However, taking into account regulatory rules and guidance, relevant codes of practice and 
+good industry practice, there are circumstances where it might be appropriate for Revolut to 
+take additional steps or make additional checks before processing a payment to help protect 
+customers from the possibility of financial harm from fraud.
+So, the starting point here is whether the instructions given by Mr B to Revolut were unusual 
+enough - in relation to his typical account activity  to have expected Revolut to have 
+identified Mr B was at risk of financial harm from fraud. 
+Having reviewed Mr Bs account statements, it was typically used for low value day to day 
+spending along with the occasional higher value payment (of several hundred pounds). The 
+two £500 payments were, therefore, for more than Mr B normally spent on his account in a 
+typical day. And so, I think it was reasonable for Revolut to provide Mr B with the online 
+warning that he shouldnt proceed with the payment if he was unsure he knew or trusted the 
+payee. I also believe it was appropriate for Revolut to direct Mr B to their scam blog  which 
+gave advice on how to be fraud aware.
+I understand Mr B says, given the online warning appears on all payments, it was difficult for 
+him to ascertain whether the payee was legitimate. I appreciate Mr B was under duress at 
+the time of the scam, given he was being threatened with criminal charges, and so wouldve 
+been less likely to have taken the time to stop and read the warning. I cant however fairly 
+hold Revolut responsible for this, or if Mr B didnt act on the warning due to it being provided 
+on other payments too. I think it was reasonable for Revolut to have provided the online 
+warning, regardless of whether it had been provided previously, before proceeding. 
+Mr B thinks Revolut shouldve gone further than providing online warnings before processing 
+the payments, such as contacting him by phone or webchat. Although Revolut should be on 
+the lookout for signs their customers are at risk of financial harm from fraud, they  like other 
+banks and EMIs  must strike a balance between allowing customers to be able to use their 
+account and questioning transactions to confirm theyre legitimate. And here, I dont think the 
+two £500 payments were so unusual or out of the ordinary  given Mr B had previously 
+made payments of several hundred pounds  for Revolut to have suspected Mr B was at 
+significant risk of financial harm from fruad. Because of this, I wouldnt have expected 
+Revolut to have done anything more before following the instructions Mr B gave.
+Im aware Mr B is also unhappy about how long it took Revolut to respond when he first 
+contacted them about the scam, and that they wouldnt reveal the payees details to him. He 
+also feels the matter shouldve been easy to sort as he contacted Revolut within 24 hours of 
+the scam happening. 
+Having reviewed the chat history, I can see that it took about an hour for Revolut to respond. 
+While I appreciate this delay wouldve been worrying for Mr B, Im satisfied that, even if they 
+had responded sooner, it wouldnt have made a difference to the recovery of funds. This is 
+because the beneficiary account provider confirmed the funds had already been moved prior 
+to Mr B notifying Revolut about the scam. And, although I appreciate Mr Bs reasons for 
+wanting the payees details, Revolut couldnt disclose them for data protection reasons  
+which, given Revolut are required to comply with relevant data protection legislation, I think 
+was reasonable.
+On a final note, Mr B has questioned why accounts are provided to scammers and what, if 
+any, background checks are undertaken when transactions happen with them frequently. 
+Although I understand Mr Bs concerns, Im only looking at the actions of Revolut here  so, 
+Im not considering how the beneficiary account was set up by the scammer or what checks 
+the provider carried out. Revolut did however notify the payees account provider upon being 
+notified of the scam, as Id expect, and it was then for that provider to act on that information. I know this wont be the outcome Mr B is hoping for but, for the above reasons, I dont think 
+Revolut is responsible for the loss he suffered. It follows that Im not going to tell them to do 
+anything further. 
+My final decision
+My final decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr B to accept or 
+reject my decision before 19 October 2023.
+ 
+Daniel O'Dell
+Ombudsman

@@ -1,0 +1,132 @@
+DRN-3553370
+The complaint
+Miss S complains that HSBC UK Bank Plc failed to refund several transactions she didnt 
+recognise.
+What happened
+Miss S noticed a number of transactions had been made from her account that she didnt 
+recognise. She contacted HSBC about them and went through a list of the ones she hadnt 
+authorised.
+HSBC looked into what had happened and concluded that because some of the disputed 
+transactions used the genuine card and Personal Identification Number(PIN) issued to Miss 
+S, they believed Miss S had authorised them herself.
+Miss S told HSBC that shed included some of the transactions in error because she was still 
+in shock at seeing these payments on her account. Once Miss S amended the transactions 
+she disputed, they only included payments made online or over the phone.  That meant the 
+payments hadnt needed the PIN to authorise them.
+Miss S complained to HSBC about their investigation and it was once again looked into by 
+their complaints team. After a review, they concluded that Miss S had authorised them and 
+didnt offer any refund. 
+Miss S remained unhappy with how HSBC had handled her complaint and brought it to the 
+Financial Ombudsman Service for an independent review. It was looked into by one of our 
+investigators who asked both parties for information about the complaint. Miss S explained 
+that she hadnt given her card details to anyone else to use and she still had possession of 
+it. She thought that a previous use of it may have given someone the opportunity to copy the 
+card details, which led to the disputed transactions. Miss S explained that shed received 
+fraud messages from HSBC but had ignored them because she thought they were a scam.
+HSBC provided audit data about the transactions and records of their investigation of Miss 
+Ss complaint. HSBC thought that Miss S version of events had changed since she reported 
+it to them. HSBC explained that theyd sent two fraud messages to Miss Ss registered 
+phone to advise her of possible suspicious transactions, but they hadnt been replied to.
+Once our investigator considered the information, she didnt uphold Miss Ss complaint. Miss 
+S disagreed with the investigators outcome and asked for a further review. Miss S 
+commented that shed made a genuine error when she misreported earlier disputed 
+transactions and she didnt think that the text messages she received were genuine. Miss S 
+thought HSBC were trying to blame her for the transactions and continued to believe that 
+online cyber fraud was responsible for acquiring her card details and the pattern of 
+transactions was evidence of criminal use of her account.
+Miss S wanted to find out more about the location of the transactions, but HSBC were 
+unable to provide them due to the type of process they used.
+Miss Ss complaint has now been passed to me for a decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+The relevant law surrounding authorisations are the Payment Service Regulations 2017. The 
+basic position is that HSBC can hold Miss S liable for the disputed payments if the evidence 
+suggests that its more likely than not that she made them or authorised them. 
+HSBC can only refuse to refund unauthorised payments if it can prove Miss S authorised the 
+transactions, but HSBC cannot say that the use of the card details conclusively proves that 
+the payments were authorised. 
+Unless HSBC can show that consent has been given, it has no authority to make the 
+payment or to debit Miss Ss account and any such transaction must be regarded as 
+unauthorised. To start with, Ive seen the banks technical evidence for the disputed 
+transactions. It shows that the transactions were authenticated using the payment tools 
+issued to Miss S, including the use of the three-digit security number (CVV) written on the 
+card. Ill now need to consider the information provided by both parties to determine whether 
+theres sufficient evidence to hold Miss S responsible for the disputed transactions or not.
+The transactions Miss S has disputed here are concerned only with transactions made either 
+online or over the phone. What that means is that the physical card wasnt required to be 
+presented nor the PIN entered in order to authorise the transactions. When Miss S first 
+reported the disputed transactions, she included some that used the card and PIN. Miss S 
+later said she was still in shock when she reported this by mistake. 
+Miss S has explained the personal difficulties she faced around that time and I can see why 
+she might have been confused about the disputed transactions she reported. I appreciate 
+HSBC thought Miss Ss version of events was inconsistent, but I think the reason for the 
+earlier error was a genuine one.
+Each of the transactions that Miss S has disputed used the CVV which is only available from 
+the physical card itself  its not something recorded elsewhere. Miss S thought an earlier 
+use of her card or online cyber fraud were responsible for them. In order to uphold this 
+complaint, I would have to be satisfied that there was a likely scenario that can explain how 
+all the details necessary to make a disputed transaction including the CVV was acquired by 
+someone without Miss Ss authority. 
+If the details were acquired through an online breach, its plausible that some details from 
+the card could be compromised, including other necessary information such as Miss Ss 
+home address usually needed for such transactions. But, in this scenario the CVV from the 
+card would be unlikely to be compromised because CVVs arent usually saved on merchant 
+sites due to security precautions.
+If the card details were acquired through the use of them in a shop, the CVV wouldnt have 
+been needed for that transaction, so I cant see how all the details needed to complete an 
+online or phone transaction (including Miss Ss address) could have been obtained. If these 
+payments had been made without the use of the CVV, I would be inclined to uphold it, but as 
+they needed this number which is only available from the physical card and not usually 
+visible on merchants websites, I dont think its likely the necessary details could have been 
+acquired either of these ways. Also, in either of these scenarios  its speculated an 
+unauthorised third party was responsible for the transactions  but in such situations I would 
+expect them to utilise the funds available in the account over a much shorter period of time than happened here.
+Pattern of transactions
+Miss S disagreed with the investigator about the pattern of the transactions. Miss S thought 
+they supported her case, whilst the investigator thought they didnt follow typical fraud 
+patterns. Decisions arent solely based on patterns, but they can inform the overall picture, 
+so I have considered them here. Whats apparent is that whoever was using the card made 
+numerous transactions over a period of some weeks, but left funds in the account. Typically, 
+thieves will run the card until its stopped, or theyve emptied the account because they dont 
+know when the card will be reported stolen. There are also instances where small payments 
+are put through to conceal them from the account holder in the hope they dont notice. 
+Neither of things happened here, the disputed transactions didnt empty the account nor 
+were they so small that they would go unnoticed  especially one payment that was for over 
+£500. Id say these transactions were untypical of how fraudulent payments were usually 
+made.
+Location data
+HSBC were asked for location data linked to the disputed transactions. This information is 
+gathered when payments are made using a specific type of payment process. None of the 
+disputed transactions utilised this system which means theres no location data available to 
+review.
+Fraud texts 
+Miss S also received two fraud texts from HSBC which she didnt respond to. Shes 
+explained that she received a lot of spam texts and thought these were related to them. But 
+here HSBC noted something potentially unusual they wanted to inform Miss S about and 
+sent her a message highlighting two particular transactions. 
+Those texts asked Miss S to confirm if she made those transactions. Whilst I can understand 
+the receipt of messages can be spam, these were highlighting HSBCs concerns and I would 
+have thought that they warranted some further checks from Miss S. At the very least I would 
+expect someone to react to them by checking their account. Miss S had used online banking 
+earlier that month to check her account and there were other methods (phone/branch visit) 
+available to see what was happening. If Miss S had checked her account when the first 
+message was sent to her, a number of the other transactions would likely have been 
+prevented because HSBCs normal procedure would have been to replace her card.
+Overall
+So, even if I thought the transactions were the result of a third party using the card without 
+permission, Id be unlikely to fully uphold the complaint because Miss S had the opportunity 
+to respond to a warning about her account on two different occasions but chose not to. This 
+would most probably have prevented some of the losses from the account. But, having 
+considered all the evidence, I think its more likely than not that Miss S was responsible for 
+authorising these transactions or allowing someone else to use her details and it was 
+reasonable for HSBC to hold her liable. Thats because theres no plausible explanation of 
+how someone could obtain the CVV from the card. Also, the transactions dont fit the pattern 
+of an unauthorised third party using the card to either empty the account or hide the 
+payments.My final decision
+My final decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Miss S to accept 
+or reject my decision before 12 September 2022.
+ 
+David Perry
+Ombudsman

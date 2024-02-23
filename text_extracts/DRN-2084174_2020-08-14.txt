@@ -1,0 +1,127 @@
+DRN-2084174
+The complaint
+Mr and Mrs B complained because Metro Bank PLC refused to refund them for a transaction 
+they said they hadnt authorised.
+What happened
+On 16 September 2019, three debits, all to different insurance companies, were attempted 
+on Mr and Mrs Bs account with Metro:
+- one was for £60.10 and didnt debit the account;
+- a second was for £73.51. Initially Mr and Mrs B thought they hadnt authorised this 
+one, but later confirmed they had;
+- the third one was for £124.37. Mr and Mrs B said they didnt authorise this, and their 
+complaint is about this debit.
+Mr and Mrs B contacted Metro and complained. Metro didnt uphold their complaint. It said 
+that the genuine transaction for £73.51, and the disputed one for £124.37, had been made 
+by the same device using the same IP address. So it refused to refund them with the 
+£124.37.
+Mr and Mrs B werent satisfied and complained to this service. They also told us theyd 
+contacted the insurance company to which the £124.37 debit had been made. That 
+insurance company had confirmed that it had no record of Mr and Mrs B as customers.
+The investigator didnt uphold Mr and Mrs Bs complaint. He said that Metros records 
+suggested that all three payments were made from the same device. So if the second 
+payment was genuine, it was likely that the others were too.
+Mr and Mrs B said they were genuinely disappointed, and they werent the ones who had 
+made the transactions. They said theyd also recently been victims of fraud again, with 
+someone using their details for a gambling site, which neither of them had signed up for. 
+They felt their details werent secure with Metro.   
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+I issued a provisional decision on this complaint. In that, I said that I was sorry to hear that 
+Mr and Mrs B had more recently been victims of a gambling fraud. It must have been very 
+upsetting for them.  I explained that I couldnt comment on that incident, because this service 
+can only consider complaints which have first been referred to the bank, giving the bank an 
+opportunity to issue a final response. 
+So my provisional decision, and this final decision, only look at the 16 September 2019 
+insurance debits, and whether or not Metro should refund Mr and Mrs B with the £124.37 
+debit which they say they didnt authorise.
+Regulations
+The relevant regulations for disputed transactions taking place in September 2019 are the 
+Payment Services Regulations 2017. In general terms, the bank is liable if the customer 
+didnt authorise the payments, and the customer is liable if he did authorise them. 
+The regulations say that the payment service provider (here, Metro) must first show the 
+payment was authenticated. Thats the technical part, where the bank must show that it 
+verified the customers identity using the correct security details. 
+The regulations also say that its necessary to look at whether the card holder authorised the 
+payments  in other words, whether they consented to the payment.
+More information which I asked for 
+I asked for more information from Metro, and also from the insurance company to which the 
+£124.37 payment was made.
+I asked Metro for evidence that the card number, expiry date, and three digit security code 
+had been entered correctly. Metro said it couldnt provide this authentication information 
+about the transaction.
+I also asked Metro about the IP addresses used for the three insurance company attempted 
+transactions. In its final response, Metro had told Mr and Mrs B that the reason it rejected 
+their claim for a refund was that the device and IP address were the same. Two of the 
+insurance debits attempted that day used one IP address, and the third used an IP address 
+several hundred miles away. Neither address was close to where Mr and Mrs B live. Metro 
+replied that it couldnt explain why this might be.  But it added that in its experience, IP 
+geographical locations arent always accurate, and it a technical device might have been 
+used to disguise the true location.
+I also asked the insurance company whether it had any records for either Mr or Mrs B.  As 
+Mr and Mrs B had told us, the insurance company confirmed that it didnt. I also asked for 
+information about the disputed £124.37 transaction. It said that the £124.37 transaction had 
+been attempted twice. It had been rejected the first time, then succeeded. 
+The insurance company also said that the name on the card for the £124.37 debit had been 
+a completely different name from Mr and Mrs B. And the insurance companys fraud team 
+had picked up the transaction as identity theft of that individual, though it had never been 
+able to get 100% confirmation. The insurance company said it had later refunded £35.65 to 
+Mr and Mrs Bs card. Ive checked and this credited their Metro account on 15 October 2019. 
+The insurance company told us that it was possible both Mr and Mrs B, and the other 
+individual, had been subject to unauthorised payments.
+Whats most likely to have happened?
+I said in my provisional decision that the situation about these attempted payments was very 
+confusing, and some of the evidence was incomplete. When this happens, I make my 
+decision according to whats more likely to have happened.
+First, Metro hadnt provided evidence that the disputed payment was authenticated. As Ive 
+set out above, its a basic rule of the Payment Services Regulations that the payment service 
+provider must provide evidence of authentication. Metro provided the device identification and IP addresses for the three payments, but it 
+didnt provide clear evidence to show that the card number, expiry and security code were all 
+correctly entered.  And a transaction then being made from another IP address, where 
+theres no suggestion that a technical disguising method has been used, remains a good 
+indicator that the genuine customer didnt make it, especially when viewed alongside 
+everything else here. 
+So I found that Metro hadnt provided evidence to show that the disputed transaction was 
+authenticated.
+I also considered the insurance companys replies. These showed there was something 
+highly suspect about the transaction, with one other individual believed to have suffered 
+identity theft. Id like to make clear that theres no suggestion that Mr and Mrs B might have 
+been involved in this fraud. First, they were the people whose account was debited, so they 
+suffered a loss. And the insurance company wouldnt have sent them a partial refund if its 
+specialist fraud team had suspected theyd been fraudsters. I didnt have all the records of 
+the insurance companys fraud team investigation, but it was clear that there was some 
+element of fraud around this transaction. So I considered it was much more likely than not 
+that Mr and Mrs B, like the other person whose name was on the card, were victims of 
+identity theft.
+For these reasons I considered that Mr and Mrs B didnt authorise the £124.37 payment. So, 
+under the Payment Services Regulations, they were entitled to a refund from Metro.
+The insurance company refunded £34.65 on 15 October 2019. So that left £89.72 for Metro 
+to pay. Interest is payable on this at 8% simple, from 16 September 2019 to the date of 
+payment.
+I also considered the fact that Mr and Mrs B had suffered distress and inconvenience 
+because of Metros mistake in not refunding them. Mr and Mrs B were upset and worried 
+about the transaction. They told us theyd lost all their hopes, and didnt feel valued as 
+customers, and nor did Metro care about their wellbeing. I could understand why they felt 
+that. And I noted that Metro didnt have authentication evidence, and simply relied on the 
+device identity, without considering the different IP addresses. Mr and Mrs B had gone to the 
+trouble of contacting the insurance company, which had said it had no records of them. I 
+considered Metro didnt sufficiently investigate whether or not Mr and Mrs B had been the 
+victims of fraud. So I found that Metro should pay Mr and Mrs B £200 compensation for their 
+trouble and upset.
+Mr and Mrs B said thy were happy with the provisional decision.
+Metro said it had no further comments.
+Putting things right
+Ive reconsidered all the available evidence and arguments. Having done so, I consider my 
+original conclusions were fair and reasonable in the circumstances of this complaint.
+My final decision
+My final decision is that I uphold this complaint. 
+I order Metro Bank PLC to pay Mr and Mrs B- £89.72, which is the £124.37 debit less the £34.65 refund sent to Mr and Mrs Bs 
+Metro account by the insurance company on 15 October 2019; 
+- Interest at 8% simple on this, from 16 September 2019 to the date of payment;
+- £200 compensation for the trouble and upset caused to Mr and Mrs B by Metros 
+failure to consider Mr and Mrs Bs complaint thoroughly.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mrs B and Mr B to 
+accept or reject my decision before 11 September 2020.
+ 
+Belinda Knight
+Ombudsman

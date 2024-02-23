@@ -1,0 +1,129 @@
+DRN-2975206
+The complaint
+C, a limited company, has complained that Elavon Financial Services Designated Activity 
+Company wont refund them the transactions made using one of their card terminals, which 
+they didnt authorise.
+What happened
+C runs a hotel. It says that on a night in November 2019, without Cs knowledge, some 
+intruders managed to gain access to one of its card terminals. They had access to the 
+terminal for a short period of time during which they processed six refund transactions of 
+equal amount onto a credit card, totalling about £6,000. The credit card was not the one 
+used to make any prior booking. These refunds came to light when the accounts were 
+tallied on the next day. C immediately contacted Elavon who in turn contacted the card 
+issuing bank. They confirmed that the funds had already been withdrawn.
+C says that they were exposed to fraud and that Elavons systems and processes should 
+have protected it. It says that the transactions were clearly unusual and so should have 
+been picked up by Elavon.
+Elavon says that it was the responsibility of C to ensure that the card terminal wasnt left 
+unattended. It says that the placement of the card terminal in a particular location is 
+approved on the basis that the business maintains sufficient security in regard to the 
+processing of transactions. C was responsible for ensuring the card terminal was attended 
+at all times and was obliged to keep this safe and secure. No person should have had 
+access to the facility who did not have the authority to do so. Elavon also says that the 
+card terminal requires confirmation of total transactions (with refunds separately shown) 
+prior to C submitting the end of day batch to it. Had C noticed the refunds at that time and 
+contacted Elavon, the unauthorised refunds could have been voided. However C didnt do 
+so.
+I issued a provisional decision upholding the complaint, which forms part of this decision. 
+In summary, I said: 
+... the relevant law providing a framework for how to consider this complaint 
+is The Payment Services Regulations 2017 (PSRs). I believe the transactions 
+which are essentially the subject of this complaint  the refunds  were 
+carried out on Cs behalf by Elavon and credited to the fraudsters. These are 
+payment transactions for the purposes of the PSRs.
+There are two elements of authorisation of a payment transaction under the 
+PSRs: authentication and consent. Both of these must exist for a transaction to be 
+authorised. 
+In this case I dont think there is any dispute that C hadnt consented to these 
+refunds. As explained earlier, C didnt process the refunds. This was done by the 
+fraudsters who were able to get hold of the payment terminal in the middle of the 
+night and then replace it so that C was unaware that the refunds had happened.
+Elavon has said that the card terminal requires confirmation of total transactions 
+(with refunds separately shown) prior to C submitting the end of day batch to it. I 
+dont consider the submission of end of batch to Elavon amounts to C consenting 
+to those six transactions. Whilst C may have seen the total refund amount it is 
+evident that they didnt know at the time that the total amount included these six 
+transactions carried out by the fraudster. But this is something I have considered 
+when deciding whether C acted in a grossly negligent manner (see below).
+My conclusion is that the disputed transactions werent authorised by C.
+Where a payment transaction wasnt authorised in accordance with regulation 67 
+(consent and withdrawal of consent), the payment service provider must refund the 
+amount of the unauthorised payment transaction to the payer. The payment service 
+provider must provide the refund as soon as practicable, and in any event no later 
+than the end of the business day following the day on which it becomes aware of the 
+unauthorised transaction [PSR 76]. 
+However PSR 77(3) states:
+ The payer is liable for all losses incurred in respect of an unauthorised payment 
+transaction where the payer
+(a) has acted fraudulently; or
+(b) has with intent or gross negligence failed to comply with regulation 72
+So having established that this was an unauthorised transaction, I have 
+considered whether C had acted fraudulently or in a grossly negligent manner.
+Based on what I have seen I dont think C acted fraudulently and I believe that 
+Elavon doesnt consider that way either.
+As regards gross negligence, the use of 'gross negligence' in PSR, rather than 
+mere 'negligence', suggests a lack of care that goes significantly beyond ordinary 
+negligence or carelessness.
+The FCA, in its document setting out its role under the Payment Services 
+Regulations 2017, says:  we interpret gross negligence to be a higher standard 
+than the standard of negligence under common law. The customer needs to have 
+shown a very significant degree of carelessness.
+So, I have to consider whether Cs actions fell so far below the standard of a 
+reasonable person that they failed with gross negligence.
+Elavon has said that the end of day batch was settled manually and C needed to 
+confirm that the refunds were correct. It says that by submitting the end of day 
+batch, C confirmed the transactions to be correct, both sales and refunds. If C had 
+reported the transactions at that time, the transactions could have been voided but 
+C failed to do so.
+From what I understand, the unauthorised transactions took place at around 3AM. 
+The end of day batch was normally settled at around 10PM every day and that was the case on this day as well. So almost a full day had passed in between. I also 
+understand that when the staff who was on duty at the time confirmed the 
+transactions, they could only see the total refunds. 
+Given all this, I am not persuaded that they would have been in a position to know, 
+just by looking at the total amount, that something was wrong. I consider that the 
+earliest opportunity C had was when the account were reconciled the next day. 
+And as soon as the six transactions were spotted at the time, C reported it to 
+Elavon. 
+Elavon has also said that it was the responsibility of C to ensure that the card 
+terminal wasnt left unattended. C was obliged to keep this safe and secure and no 
+person should have had access to the facility who did not have the authority to do 
+so.  Having considered what had happened in this case (as explained in my 
+provisional decision), I am not persuaded that C acted in a grossly negligent 
+manner in relation to this.
+Therefore I consider that in this instance it is fair and reasonable to ask 
+Elavon reimburse the amount lost by C.
+As mentioned earlier, the PSR requires that reimbursement be made as soon as 
+practicable, and in any event no later than the end of the business day following the 
+day on which it becomes aware of the unauthorised transaction. I think that given 
+the circumstances of the case it is reasonable to expect that Elavon ought to have 
+concluded sooner that the disputed transactions were unauthorised and hence 
+refunded the sums to C. But that did not happen. Therefore I consider it fair that 
+Elavon also pays interest on the amount which it ought to have refunded. Interest 
+should be at 8% simple per annum. It should be paid from the date these payments 
+were taken off Cs bank account to the date of settlement.
+Finally, C says that Elavon didnt spot the unusual pattern of the refund 
+transactions. I believe that these transactions were all in excess of any normal 
+pattern to Cs transactions. These were not only unusual but a number of refunds 
+were made in a short period of time. In addition, there cant have been any 
+originating transactions to match these refunds. So, it is unclear to me as to why this 
+wasnt picked up by Elavon. However as Ive already decided that C didnt authorise 
+these transactions and hence Elavon should reimburse the sum, I do not have make 
+a specific finding on this.
+Both parties accepted my provisional decision. Elavon just queried whether the interest 
+should be paid until the date of settlement. The investigator has already confirmed that it is 
+the case.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I see no need to depart from my provisional decision. For the reasons 
+explained in the provisional decision, my conclusion remains that the complaint should be 
+upheld.
+My final decision
+In full and final settlement of the complaint, Elavon Financial Services Designated Activity Company should reimburse C £5,999.94. It should also pay interest on this amount at 8% 
+simple p.a. Interest should be paid from the date these payments were taken off the account 
+to the date of settlement.  
+Under the rules of the Financial Ombudsman Service, Im required to ask C to accept or 
+reject my decision before 10 September 2021.
+ 
+Raj Varadarajan
+Ombudsman

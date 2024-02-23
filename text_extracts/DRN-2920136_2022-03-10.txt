@@ -1,0 +1,85 @@
+DRN-2920136
+The complaint
+Mr M complains that Plus500UK Ltd (Plus500) provided misleading information on their 
+website, which caused Mr M financial loss.
+What happened
+Mr M had a trading account with Plus500. In May 2020, Mr M began using the trailing stop 
+loss function. Mr M says the stop loss incorrectly triggered, resulting in some contracts 
+closing prematurely. On another occasion a stop loss order triggered below the rate he had 
+set. Mr M says he has sustained financial loss as a result of these errors, for which he seeks 
+compensation.
+Plus500 say that the trailing stop rate was set by Mr M whereby he selected to change a 
+specified number of price interest points (pips). Having reviewed the account, Plus500 
+confirmed that on each occasion the stops were placed in line with the rates set by Mr M. 
+Under the terms of the account, a stop activated when that rate was reached or surpassed. If 
+the rate surpassed the stop rate, the stop function would trigger at the next available rate, so 
+the exact rate set was not guaranteed. This slippage was also possible when stop loss 
+orders were placed. Plus500 say that the stops were activated in line with these terms and 
+they used live price data, which was preferable to the market.   
+Our investigator considered the complaint. She thought Mr M had misunderstood how to set 
+the trailing stop rate using pips. Looking at the screenshots, which showed the information 
+available to Mr M at the time, it appeared he thought the money value under the pips 
+displayed the change in price of the instruments whereas it was actually showing the loss in 
+the accounts equity if the trailing stop was triggered.
+When opening the account, Mr M had been warned about the complexity of trading in 
+contracts for difference (CFDs) and confirmed that he had the necessary knowledge and 
+experience to use the account. Plus500 had also provided a demonstration on how to set the 
+trailing stop loss order. On balance, our investigator thought that Plus500 had done enough 
+to explain how the trailing stop loss function worked and took into account the experience Mr 
+M had said he had. As this was an execution only account, it was then for Mr M to make 
+decisions as to how to execute his trades and it had been open to him to convert the pips 
+into the price. Our investigator also explained that Plus500 used live data so the share price 
+figures relied upon by Mr M in his complaint were misleading. The stop loss applied by Mr M 
+had been triggered at the closest rate available to that set by Mr M, in line with the terms and 
+conditions for the account. Our investigator concluded that Plus500 hadnt done anything 
+wrong.
+Mr M disagrees with the view and maintains that the information provided by Plus500 was 
+unclear and misleading.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+At the outset, I think its relevant to note that Plus500 had already established that the 
+account was appropriate for Mr M when he made his initial application. Ive seen that Mr M 
+confirmed that he had relevant experience to operate the account and in accepting the terms 
+of Plus500s user agreement, Mr M confirmed he had a high-risk tolerance. So, I think its 
+likely Mr M understood that CFDs are complex instruments. 
+Its also common ground that the Plus500 platform provided an execution only service, which 
+meant Plus500 didnt provide any advice as to which trades should be placed or when. It 
+was for Mr M to decide which trades to place and where to set any stop losses.
+Mr M has explained that when he set the trailing stop loss orders, he had assumed a trigger 
+price had been set. Im sorry to say that Mr M was mistaken. Its clear that Mr M set the 
+trailing stop loss orders using pips. I think its helpful to explain that pips are a standard unit 
+used to measure change in foreign exchange markets and are commonly used. Pips show 
+small unit changes by movement to a set decimal place; they do not reflect the actual 
+currency price, which needs to be calculated. I think this was clear from the examples given 
+on Plus500s website, for example:
+Pip Examples:
+The price of GBP/USD is 1.42630/1.42650 (Sell/Buy). If the price of the GBP/USD moves to 
+1.42670/1.42690, this is a movement of 0.00040 or 40 pips.
+The price of Germany 30 is 12373.58/12374.43 (sell/Buy). If the price of Germany 30 moves 
+to 12373.88/12374.73, this is a movement of 0.30 or 30 pips.
+As our investigator has explained, Mr M appears to have misunderstood the example shown 
+on Plus500s website and interpreted the monetary value shown under the selection box as 
+the price of the decrease in shares, rather than the loss in the account if the stop was 
+triggered.
+I appreciate that Mr M made a genuine mistake here, but theres nothing to show that this 
+was down to any shortcomings by Plus500. Mr M held himself out as having appropriate 
+knowledge to use the platform and Plus500 provided information as to how the stops 
+worked. On balance, I am satisfied that Plus500 actioned the trailing stop losses set by Mr M 
+when they were triggered, in line with the terms of the account. Under the terms of the 
+account, the stop activated when that rate was reached or surpassed. If the rate surpassed 
+the stop rate, the stop function would trigger at the next available rate, so the exact rate set 
+was not guaranteed. This slippage was also possible when stop loss orders were placed.
+Mr M has also raised concerns about the pricing information relied upon by Plus500. But Ive 
+seen that Plus500 used live data to calculate the share price, which explains why the figures 
+Mr M relies upon are different. Im satisfied that Plus500 explained in their terms that prices 
+displayed on the platform were taken from various sources so might not match prices seen 
+on the relevant Exchanges. Plus500 have also confirmed that the prices they offered at the 
+relevant time, favoured Mr M. So, on balance, I cant fairly say that Plus500 have done 
+anything wrong here. 
+My final decision
+Im sorry to disappoint Mr M, but for the reasons given Im not upholding this complaint. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr M to accept or reject my decision before 31 March 2022.
+ 
+Sarah Tozzi
+Ombudsman

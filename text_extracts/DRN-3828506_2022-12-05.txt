@@ -1,0 +1,144 @@
+DRN-3828506
+The complaint
+Mr U complains that Monzo Bank Ltd wont refund money he lost when he was the victim of 
+a scam. 
+What happened
+The background to this complaint is well known to both parties and so Ill only refer to some 
+key events here.
+In early 2022 Mr U was the victim of a Forex investment scam. He made various 
+international payments from his Monzo bank account to the scammer via another firm that 
+specialises in currency exchange and international payments:
+Date (time) Type Amount
+9 March 2022 (2:51pm) Faster payment £385
+9 March 2022 (8:55pm) Faster payment £1,172.80
+17 March 2022 Faster payment £1,531.61
+25 March 2022 Faster payment £2,825.85
+31 March 2022 Faster payment £1,914.93
+8 April 2022 Faster payment £6,448
+Total: £14,278.19
+Mr U became aware hed been scammed when he had difficulty withdrawing the funds and 
+reported it to Monzo in May 2022. Monzo said they were unable to refund the money as it 
+didnt qualify due to the payments being sent internationally. They also told Mr U no money 
+remained in the account with the receiving bank so it couldnt be returned. 
+Mr U complained to Monzo but their decision didnt change. They reiterated they can only 
+look into refunding transfers sent to a UK account and, as these payments were sent 
+internationally, they dont qualify for a refund. 
+The complaint was referred to the Financial Ombudsman and our investigator thought it 
+should be upheld in part. She said, although the payments were higher than what Mr U 
+typically made on his account, she didnt think it was unreasonable for Monzo not to have 
+intervened until the final payment (which was significantly higher). Our investigator thought 
+the final payment was sufficiently unusual and so, it ought to have prompted Monzo to have 
+spoken with Mr U about it before processing it. Had they done so, asking appropriate 
+questions about the nature of the investment opportunity, they wouldve become aware Mr U 
+came cross it via a dating app. So, she thought the scam wouldve been identified and the 
+final payment prevented from being sent. Because of this, our investigator recommended 
+Monzo refund £6,448 and add 8% simple interest. 
+Although Mr U hoped for the full refund of his money, he accepted our investigators 
+recommendation. 
+Monzo however disagreed and so the matter has been passed to me to decide. In short, 
+they said:
+The payment wasnt flagged as unusual and customers are allowed to make irregular 
+payments and use their account as they wish. 
+As the options available to consumers and business grow, they must balance what is 
+reasonable to allow with large payments. And they cannot flag every irregular 
+payment as this creates blockers for customers with day-to-day spending. 
+They have internal processes in place to identify genuinely risky payments from the 
+mass of irregular payments  those that do flag are reviewed appropriately. The 
+system they use is sufficient an in line with regulation.
+Its for them to decide how they choose to configure their detection systems  striking 
+the balance between allowing their customers to transact business and question 
+transactions to confirm theyre legitimate. 
+The payments arent covered under the Contingent Reimbursement Model (CRM).
+They sympathise with Mr Us situation but had he contacted them about the payment 
+or read literature they have online then they couldve supported him appropriately.
+Before I go on to explain the reasons for my decision, Id like to clarify that Im only looking at 
+the scam payments made from Mr Us Monzo bank account. Mr U is aware that other 
+cryptocurrency payments he made to the scammer wont be considered as part of my 
+decision  so I wont be commenting on them here. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Im sorry that Mr U has been the victim of a scam and the impact this has had on him. I know 
+Mr U was hoping for the full sum he lost to be refunded but, after giving this matter careful 
+consideration, Ive reached the same outcome as our investigator for similar reasons. Ill 
+explain why.
+Ive thought about the CRM code which can offer a potential means of obtaining a refund 
+following Authorised Push Payment (APP) scams. But the CRM Code only applies to 
+payments made between two accounts held in the UK  and both accounts must be 
+denominated in pounds sterling. This means, as Mr Us payments were sent internationally, 
+theyre not covered under the CRM code. Ive therefore considered whether Monzo should 
+reimburse Mr U under any of their other obligations.
+In broad terms, the starting position in law is that a bank is expected to process payments 
+and withdrawals that their customer authorises them to make. Here, it isnt disputed that 
+Mr U knowingly made the payments from his Monzo account. I appreciate Mr U was tricked 
+by the scammer as he thought it was a genuine investment opportunity. Nevertheless, Im 
+satisfied the payments were authorised by Mr U. So, under the Payment Services 
+Regulations 2017 and the terms of his account, Monzo are expected to process the 
+payments and Mr U is presumed liable for the loss in the first instance. 
+However, taking into account the law, regulatory rules and guidance, relevant codes of 
+practice and good industry practice, there are circumstances where it might be appropriate 
+for Monzo to take additional steps or make additional checks before processing a payment 
+to help protect customers from the possibility of financial harm from fraud.So, the starting point here is whether the instructions given by Mr U to Monzo (either 
+individually or collectively) were unusual in relation to his typical account activity.
+Having looked at Mr Us account usage before the scam occurred, it was typically used for 
+low value day to day spending  transactions below £100. So, the payments Mr U made to 
+the scammer were greater than how he typically used his account. But, as Monzo has 
+pointed out, it isnt unusual for people to make less frequent payments from time to time for 
+one off expenses. And so, I understand Monzos argument around them finding the balance 
+between allowing customers to be able to use their account and questioning transactions to 
+confirm theyre legitimate.
+At which point, Id like to clarify that Im not telling Monzo how to operate in respect of their 
+wider detection systems. Im also not saying that Monzo is expected to flag every irregular 
+payment. Instead, Im only looking at Mr Us specific circumstances here and whether I 
+consider the payments were of such an unusual nature  based on typical account usage  
+that it ought to have prompted Monzo to consider whether he was at risk of financial harm 
+from fraud.  
+Ive thought carefully about this and I dont think the first five payments were so unusual or 
+out of character that Id have expected Monzo to have intervened at the time. The payments 
+werent in quick succession and, except for the first payment which was of a low value, they 
+were of a similar amount (between £1,000 and £3,000). But I think the final payment ought to 
+have been considered by Monzo as unusual and out of character based on Mr Us typical 
+account activity. This is because the payment amount was significantly higher, more than 
+double what hed previously sent. The amounts had gradually increased over time (which 
+can be an indicator of investment scams). And when Monzo processed this payment 
+unchallenged, it took the series of payments to over £14,000, being sent internationally, to a 
+relatively new payee, in the space of one month. 
+I therefore think Monzo ought to have held this payment and contacted Mr U. Had Monzo 
+done so, I think its likely Mr U wouldve explained the purpose of the transfer  that being for 
+Forex investment. At which point, given Monzo have a greater understanding of the risk of 
+scams of this type, it wouldve been reasonable to expect Monzo to have questioned Mr U 
+about this, such as how he came across this opportunity. If this happened, I think Mr U 
+wouldve explained how the investment opportunity arose through a recommendation from a 
+person he was messaging on a dating app. 
+This wouldve been a red flag and so I think, at this point, Monzo ought to have highlighted to 
+Mr U that there was a significant risk of it being a scam. Monzo couldve also advised Mr U 
+to carry out further research on the firm and questioned why he wasnt using one that was 
+based in the UK (which provided the regulatory protection for firms authorised by the 
+Financial Conduct Authority). 
+Ive also thought about whether Mr U did enough to protect himself from the scam. Mr U has 
+said that, prior to make the payments, he researched the company and it appeared ok. Ive 
+also considered that, in the early stages of the investment scam, Mr U tested the withdrawal 
+process and requested $100. Although there was an issue with the fund withdrawal, he did 
+receive it as cryptocurrency payment. So, I think its understandable Mr U was reassured by 
+receiving the cryptocurrency withdrawal  thereby prompting him to invest further. Had Mr U 
+received the scam warning or advice from Monzo though, then I think this wouldve most 
+likely prompted him to have attempted a more meaningful withdrawal before proceeding with 
+further payments (including the final one he made). At which point, Mr U wouldve run into 
+the same problems he eventually did when the scam came to light. Because of this, I think  had Monzo intervened  Mr U wouldnt have sent the final 
+payment. And after taking everything into consideration, although I think Mr U couldve 
+potentially carried out further checks, I dont think he was grossly negligent or negligent to an 
+extent that it would be fair and reasonable to reduce the award based on contributory 
+negligence in the circumstances of this complaint. 
+It follows that, to put things right, I think Monzo should refund the £6,448 payment. And, as 
+the funds Mr U sent to the scammer came from a personal current account he held with a 
+different banking provider, I think 8% simple interest should be applied for the loss of use of 
+money during this time. 
+My final decision
+My final decision is that I uphold this complaint in part. I direct Monzo Bank Ltd to:
+Refund the £6,448 payment.
+Pay 8% simple interest calculated from the date of payment to the date of settlement. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr U to accept or 
+reject my decision before 2 January 2023.
+ 
+Daniel O'Dell
+Ombudsman

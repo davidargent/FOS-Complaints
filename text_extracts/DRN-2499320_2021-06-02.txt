@@ -1,0 +1,79 @@
+DRN-2499320
+The complaint
+Miss R complains Monzo Bank Ltd (Monzo) didnt refund a disputed transaction made using 
+her debit card that she says she didnt make or otherwise authorise. 
+What happened
+The detailed background to this complaint is well known to both parties, so Ill only provide a 
+brief summary of the key events here. On 28 August 2020 Miss Rs debit card details were 
+used to make an online payment for £664.99. 
+A few days later, Miss R called Monzo to report that on 28 August 2020 shed received a 
+phone call from someone claiming to be from Monzo. She said the caller told her there had 
+been some fraudulent activity and asked her to verify a payment made on the account. 
+Miss R said while on the phone she could see a payment for £664.99. She says she told the 
+caller she didnt recognise this payment. The caller then asked her to share some details but 
+she refused to do so, particularly as shed been a victim of fraud in the past. Monzo 
+explained that they hadnt made this call to her and it was likely a scam. 
+Miss R asked Monzo to provide a refund as she hadnt made the payment. Monzo declined 
+Miss Rs claim. They werent satisfied the payment was fraudulent because it had been 
+authorised using a code which was sent by SMS to Miss Rs phone, which was inputted onto 
+the merchants website to complete the payment. 
+Miss R got in touch with the merchant to see if they could provide her with any information 
+about the transaction, but unfortunately as she didnt have the order number, the merchant 
+wasnt able to assist further. 
+Miss R didnt agree with Monzos decision and so she raised a complaint. Monzo maintained 
+their position to hold Miss R liable for the payment. Unhappy with this, Miss R brought her 
+complaint to this service. In doing so, she said the caller asked her to share her long card 
+number, CVV number and postal address but that she didnt share this information with 
+them. She said she received the SMS code but didnt share it, and that her phone was in her 
+possession at the time and is protected by Facial Recognition ID.
+The investigator looking into the complaint again asked Miss R to confirm she hadnt shared 
+her security details. Miss R was adamant she hadnt. Taking into account what Miss R had 
+said and the technical evidence provided by Monzo, the investigator didnt think the 
+complaint should be upheld. In summary he said the payment was completed by entering 
+the SMS code Miss R received on the phone and so its more likely than not Miss R 
+authorised it. 
+Miss R didnt agree with the investigators view and asked for an ombudsmans decision. 
+She insists that she didnt authorise the payment and hadnt shared any security details. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, Im not upholding it and Ill explain why. Ive seen the technical records 
+which show the payment on 28 August 2020 was made online using Miss Rs debit card 
+details. So Im satisfied that the payment was correctly authenticated.
+But the regulations say that is not, on its own, enough for Monzo to hold Miss R liable for the 
+payment. The regulations also say Miss R needed to have consented to the payment. In 
+general terms, the bank is usually liable for unauthorised payments and the consumer will 
+usually be liable for authorised payments.  
+Miss R says she didnt make the payment or share security details with anybody. In cases 
+like this where there is a dispute over what has happened, I have to consider all the 
+evidence and make my decision on the balance of probability as to what I think is most likely 
+to have happened. 
+Ive carefully thought about whether the evidence suggests its more likely than not that 
+Miss R consented to the transaction being made. And from what Ive seen I dont think its 
+unreasonable for Monzo to hold Miss R liable for the payment.  
+The payment in question was completed by a 3D secure code. This is the six-digit code 
+sent to Miss Rs registered mobile number which was then entered onto the merchants 
+website to complete the payment.
+Miss R shared a screenshot with us of the SMS code shed received on the day of the 
+disputed transaction. The SMS was sent on Friday 28 August 2020 at 4.48pm  so one 
+minute before the payment was completed. The SMS sent to Miss R read: [ X] is the 
+verification code for your £664.99 purchase to [merchant]. Dont share this with anyone. 
+Miss R has said her mobile phone is accessible by Facial Recognition ID and that she didnt 
+share her phone with anyone. She also said she hadnt shared her card details with anybody 
+and that she takes extra care of leaving her things unattended because of fraud shes 
+experienced in the past. Here the technical evidence shows the payment was completed a 
+minute later by entering the six-digit code Miss R received on her mobile phone. It isnt 
+possible for the payment to have been completed without that code being entered onto the 
+merchants website. Even if I were to consider that somebody else had fraudulently obtained 
+Miss Rs card details, this wouldnt explain how that person could know the code which was 
+sent to her phone. 
+There is no other plausible explanation as to how someone other than 
+Miss R knew the SMS code in order to complete the payment. So overall, Im more 
+persuaded by the technical evidence than by Miss Rs testimony and I therefore dont think 
+Monzos decision to hold her liable is unreasonable in the circumstances. 
+My final decision
+For the reasons given above, my final decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Miss R to accept 
+or reject my decision before 30 June 2021.
+ 
+Richard AnnandaleOmbudsman

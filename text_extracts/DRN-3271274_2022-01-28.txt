@@ -1,0 +1,137 @@
+DRN-3271274
+The complaint
+Mr H complains that Bank of Scotland plc (BoS) failed to refund several transactions made
+from his account that he didnt recognise.
+What happened
+Mr H has said that whilst he was on holiday, he was a victim of a sim swap fraud on his
+phone. Once he regained control of his phone, he noticed several transactions had been
+made from his account that he didnt recognise and notified BoS about them. The
+transactions were made using Mr Hs debit card details with online merchants.
+Mr H contacted the merchants, including one retailer that was based in a different country
+who confirmed that Mr Hs card had been used for a click and collect purchase. The other
+transactions were to an online business Ill refer to as F. Mr H also reported these
+transactions to the police and Action Fraud.
+BoS investigated the transactions and declined to refund them. They told Mr H that the
+Internet Protocol (IP) address information for the disputed transactions matched his normal
+activity. They also said that details BoS hold for Mr H matched some of the same details for
+the disputed transactions.
+Note: IP addresses are a means to identify physical locations that online transactions are
+connected to and can be the actual physical location or other locations connected to the
+provider of the services.
+Mr H was unhappy with how BoS had handled his situation and brought a complaint to our
+service. It was looked into by one of our investigators who asked BoS for their documents
+and evidence that backed up their refusal to refund Mr H. Unfortunately, due to delays these
+werent sent, and our investigator issued his outcome based on the information he had. Mr
+Hs complaint was upheld and BoS then sent us their evidence.
+Because BoS didnt reply to the investigators outcome, its been passed to me for a
+decision. I issued a provisional decision where I said: 
+Ive considered all the available evidence and arguments to decide whats fair and
+reasonable in the circumstances of this complaint.
+When the investigator reviewed Mr Hs complaint, he didnt have the benefit of the banks
+records which we would usually review, together with the complaining partys submission.
+But BoS has now provided these records and I have considered them  as I have to so I can
+reach an impartial decision on whats fair and reasonable here. Ive no doubt that Mr H was
+expecting a different response than this provisional decision, but having examined the
+records from BoS, Im currently of the opinion that I cant uphold this complaint.
+The relevant law surrounding authorisations are the Payment Service Regulations 2017. The
+basic position is that BoS can hold Mr H liable for the disputed payments if the evidence
+suggests that its more likely than not that he made them or authorised them.
+Authorisation is made up of two parts. Authentication and consent. Authentication is usually
+referred to as the technical evidence and in this case, BoS have supplied evidence that
+shows the disputed transactions were made using the correct card details belonging to Mr H
+and Im satisfied the evidence shows the disputed transactions were authenticated.
+Consent refers to the way in which BoS and Mr H agreed to operate the account to allow
+BoS to make payments on Mr Hs behalf. For example, BoSs terms and conditions set out
+that if a payment is arranged through the use of the card details to confirm the payment, then
+BoS accept that the instruction to make the payment came the account holder or someone
+authorised to use the card. Because these transactions were made using the correct card
+details - Im satisfied that consent was given and the disputed transactions were authorised.
+But, there are exceptions where it wouldnt be appropriate for BoS to hold Mr H responsible,
+for example if the card details were used without his permission.
+Mr H has provided evidence that his phone was subject to a sim swap, which means
+someone took control of his phone for a period of time before he regained control over it. Mr
+H thinks this was part of the reason for the disputed transactions. My understanding of sim
+swap fraud is that an unknown third party takes control of the phone number, rather than
+necessarily acquiring the data that was on the original device. The audit data related to
+these transactions shows that the debit card details, including the three-digit security number
+were correctly entered. The click and collect transactions also used Mr Hs address.
+So, even if I accept that a sim swap happened here, I cant see how the information from Mr
+Hs debit card was available to the third party who took control of his phone number. If
+someone gained access to his phone number with the intent of defrauding Mr H - they could
+have, for example, intercepted security texts that are used to authorise payments. But, in
+order to actually instigate the payments themselves  they would have needed the debit card
+details in the first place.
+Mr H says that these details werent kept on his phone and that his banking apps on the
+phone were all protected using security features that were unique to him and that only he
+knew. With that in mind, there is no clear answer as to how someone unknown to Mr H was
+able to get his debit card details in order to make these payments. With this in mind, I think it
+unlikely that it was the sim swap that was responsible for obtaining Mr Hs debit card
+details.
+I recognise that Mr H followed up on the discovery of these transactions by contacting the
+merchants and notifying the authorities. Its also apparent that the click and collect
+transactions were picked up in a different location to where Mr H was, so I dont think it was
+him who physically collected the packages.
+Mr H told us that hed identified the second merchant  F and I asked for further enquiries to
+be made. F are an online merchant who deal in crypto currency and they were unable to
+provide details about the account the funds went to due to data protection concerns. They
+did say they would liaise with any police investigation into Mr Hs complaint. Businesses
+such as this arent compelled to reveal information to us, but if they hold information that
+links the person complaining (Mr H) to their records, its not unusual for them to reveal that to
+us, which in this case F didnt. Although I havent seen this information, I think it likely that
+because F wouldnt reveal anything about the account the money went to, its unlikely to be
+in Mr Hs name.
+BoS were unable to provide the IP address evidence that they relied on to deny Mr H a
+refund. So, Ive thought about what that means in the wider context of Mr Hs complaint. BoStold Mr H that their data showed a matching IP address. Ive taken that to mean they had
+information that Mr Hs usual internet activity including the IP address data was matched
+when these disputed transactions took place. Ive not had chance to examine it, but I dont
+think it makes a significant difference here because the principle issue for me is that theres
+currently no explanation of how the debit card details were obtained, rather than the location
+the payments were made from.
+There are several factors here which point to Mr H being the victim of a crime, but the issue
+for me to decide is if its more likely than not that Mr H authorised the transactions. Because
+theres currently no evidence of how the unknown third party could have obtained the full
+debit card details, including the three-digit security number, Im currently minded to think its
+reasonable for BoS to hold Mr H liable for them.
+I invited Mr H and BoS to give me any more evidence and information they wanted me to
+consider before issuing my final decision. BoS didnt respond and Mr H repeated his case 
+that the sim-swap was evidence that he hadnt authorised the transactions. Specifically, he 
+said:
+I do wish to put very clearly on record that the loss of £2,500 is as a result of an 
+unauthorised transaction. I was not expecting this money to leave my account as it was 
+actioned by the scammer who was able to do this as a result of this sim swap fraud.
+The FCA state that unauthorised transactions have to be refunded by the bank unless one of 
+these apply:
+ 
+1. If it was more than 13 months ago - doesn't apply
+2. If the bank can categorically prove that the customer did authorise the payment - again, 
+doesn't apply as the scammers did this and I have had confirmation and therefore proof from 
+the phone company that this was a sim swap fraud.
+3. If the bank believes a customer acted with gross negligence - I can't believe that being a 
+victim of a scam can in any way constitute gross negligence on their behalf.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Mr H set out three points, two of which he himself ruled out, and set out his thoughts on the 
+issue of authorisation in point number two.
+Mr H argued that the phone companies confirmation of the sim-swap is evidence that he 
+didnt authorise the transaction. I set out my thinking about this in my provisional decision 
+and for the avoidance of doubt, while I accept that Mr H was the victim of some unusual 
+activity related to his phone, that in itself isnt evidence that an unknown third party was able 
+to obtain the card details needed to carry out these transactions. 
+Thats the critical issue here, because without those card details, the transactions couldnt 
+have taken place. I accept that someone would be able to gain access to Mr Hs phone, but 
+my understanding of this fraud is that it doesnt transfer data from the phone itself, it just 
+gives control over the number  which wouldnt explain how someone else was able to 
+obtain the card details. Without that I cant uphold the complaint and I think it more likely 
+than not that Mr H was responsible for these transactions and it was reasonable for BoS to 
+hold him liable for them.As theres no new evidence that could explain how an unknown third party could obtain the 
+necessary card details in order to make these transactions, I see no reason to reach a
+different conclusion. So, this final decision confirms the findings set out in my provisional
+decision.
+My final decision
+My final decision is that I dont uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr H to accept or 
+reject my decision before 25 February 2022.
+ 
+David Perry
+Ombudsman

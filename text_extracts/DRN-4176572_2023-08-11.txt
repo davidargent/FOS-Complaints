@@ -1,0 +1,124 @@
+DRN-4176572
+The complaint
+Mr H complains that Barclays Bank UK PLC (Barclays) failed to refund payments that he 
+didnt recognise.
+What happened
+What Mr H says
+Mr H explained that he was notified about an unusual transaction that had left his account. 
+Once he spoke with Barclays, it became apparent that two large payments had been made 
+from his account which he denied making.
+Mr H told Barclays that he still had both his phone and debit card and that no one else had 
+access to them. He also stated that no one had the security details to access either the 
+phone or his banking app and that he hadnt received any unusual calls or messages. Mr H 
+was told that one payment was made to an account in his own name. The second 
+unrecognised transaction was made using Mr Hs debit card to a merchant who Ill refer to as 
+W. An account with W had also been set up using Mr Hs own name.
+Mr H was also told that a transfer had been made from his savings account to his current 
+account prior to the disputed transactions taking place. Mr H denied carrying out the 
+transfers and believed it was the same people that stole money from his account.
+Mr H sought a refund from Barclays who, after looking into the matter, declined to refund 
+him. Mr H complained about this and after Barclays again declined his complaint, he brought 
+the issue to the Financial Ombudsman Service for an independent review.
+What Barclays say
+Barclays fraud detection systems identified one of the payments for further checks, but it 
+was eventually released. They spoke with Mr H about the disputed transactions and blocked 
+his card and re-issued it. After looking into the payments, they declined to refund him. 
+Barclays said that there was no evidence that a third party had compromised his account. 
+They confirmed that the payments had been made from Mr Hs banking app and the card 
+payment had also used the same location that Mr H normally uses. Later, Barclays closed 
+Mr Hs account.
+The investigation so far
+After Mr H complained, an investigator was assigned to look into what happened. Both 
+parties were asked about the circumstances of the complaint. Mr H said he believed that his 
+account had been blocked after the first disputed transaction, but Barclays had allowed the 
+second payment to be made. He wanted a refund because he hadnt carried out any of 
+these transactions (including the inter account transfer) himself. Mr H said he was asleep 
+when the transactions were carried out.
+Barclays provided details about the payments and how theyd been made. Those details 
+showed that one was made using Mr Hs banking app and had needed the user to open both 
+the phone and the banking app with details known only to Mr H. The payment had been 
+made using a known device (that Mr H had used with other undisputed transactions) and the 
+IP address was also previously used.
+The other payment had used Mr Hs debit card and had also been made from the same IP 
+address as other undisputed transactions. Barclays believed Mr H was responsible for them 
+himself.
+Note: IP addresses are a means to identify physical locations that online transactions are
+connected to and can be the actual physical location or other locations connected to the
+provider of the data services.
+After reviewing the evidence, the investigator didnt uphold Mr Hs complaint. In summary 
+she said:
+Barclays evidence showed Mr Hs known device (phone) was used along with his 
+personal security details to set up the payment.
+Both payments were made from the same IP address also used for other undisputed 
+transactions.
+There was no evidence to show how his details could have been compromised (such 
+as scam calls or other persons known to Mr H).
+One payment was made into an account in Mr Hs own name.
+Both payments were made after the account received a transfer from another 
+account operated by Mr H.
+Mr H disagreed with the investigators outcome and in response said:
+He believed Barclays should have prevented the second payment as they already 
+knew about the first one and had blocked the account.
+Transactions to a betting company were responsible for someone breaking into his 
+account.
+He questioned the timing of the payments.
+Barclays (and our service) failed to investigate the destination account of one of the 
+payments.
+Mr H believed he was the victim of identity fraud.
+As no agreement between the parties could be reached, the complaint has now been 
+passed to me for a decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+The relevant law surrounding authorisations are the Payment Service Regulations 2017. The 
+basic position is that Barclays can hold Mr H liable for the disputed payments if the evidence 
+suggests that its more likely than not that he made them or authorised them. 
+Barclays can only refuse to refund unauthorised payments if it can prove Mr H authorised 
+the transactions, but Barclays cannot say that the use of the card details for online payments or the use of the banking app conclusively proves that the payments were authorised. 
+Unless Barclays can show that consent has been given, it has no authority to make the 
+payment or to debit Mr Hs account and any such transaction must be regarded as 
+unauthorised. To start with, Ive seen the banks technical evidence for the disputed 
+transactions. It shows that the transactions were authenticated using the payment tools 
+issued to Mr H. Ill now need to consider the information provided by both parties to 
+determine whether theres sufficient evidence to hold Mr H responsible for the disputed 
+transactions or not.
+The crux of this complaint is that Mr H denies making two transactions and Barclays believe 
+he was responsible for them. Essentially the complaint revolves around whether theres a 
+plausible explanation for how someone other than Mr H could have made these two 
+transactions. 
+Mr H thought Barclays had failed to protect his account after reporting the first fraudulent 
+transaction. Id like to clarify that both disputed transactions took place minutes apart (and 
+not days) as Mr H believes. Theres often a delay recording some of the payments on 
+monthly statements, but here Barclays werent told the payments were fraudulent until after 
+theyd left the account, so couldnt have done anything further to prevent that. They did hold 
+one of the payments but were later satisfied the payment wasnt suspicious.
+Mr H has said he was asleep at the time, lived alone and hadnt provided anyone else with 
+his account/card details, log on information for his banking app or security code for his 
+phone. On the face of it, there doesnt seem to be a plausible explanation how someone 
+other than Mr H could have made these payments. Thats because in order to do so, they 
+would need access to both the phone and the necessary security information to log in to the 
+phone and banking app. They would also need access to Mr Hs address because the 
+payments were made at the time he was sleeping (presumably at home) and the same IP 
+address was used for both disputed transactions and other non-disputed ones.
+I have considered Mr Hs claim that he was the victim of identity theft. That may well be the 
+case although Ive seen no evidence that he reported this to anyone. But, I dont think this is 
+the likely explanation for the two payments because they were made from a location used by 
+Mr H before. Theres also no explanation how the security information could be obtained by 
+anyone else as Mr H confirmed he hadnt told anyone else about them nor had he received 
+any unusual calls/messages (from a scammer).
+I understand Mr H was critical of the investigation, in particular the lack of enquiries carried 
+out with W. But here the complaint was against Barclays and not W. Barclays provided 
+evidence they felt was sufficient to identify who had made these payments, so I dont think 
+they needed to enquire with W about them as they believed Mr H was responsible. 
+I also dont think that Ws evidence would have changed the outcome here because theres 
+no plausible or realistic explanation how someone other than Mr H could have carried these 
+transactions out.
+So, when Ive considered all the evidence, my objective assessment is that I think Mr H is 
+more likely than not responsible for these payments and it was reasonable for Barclays to 
+hold him liable.
+My final decision
+My final decision is that I do not uphold this complaint.Under the rules of the Financial Ombudsman Service, Im required to ask Mr H to accept or 
+reject my decision before 8 September 2023.
+ 
+David Perry
+Ombudsman

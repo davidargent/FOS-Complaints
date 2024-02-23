@@ -1,0 +1,88 @@
+DRN-3342541
+The complaint
+Mr A complains that National Westminster Bank Plc (NatWest) allowed three gambling 
+transactions to go through on his account despite being aware of his gambling addiction and 
+placing a block on his account. 
+What happened
+In October 2021, Mr A visited a casino and made three gambling transactions totalling 
+£9,500, all within half an hour. He feels that NatWest should have blocked the transactions, 
+or at the very least they should have contacted him before allowing the money to leave his 
+account. 
+He said NatWest were aware of his gambling addiction as a complaint had been raised with 
+them in 2018. Hes also unhappy as he was only made aware after raising his complaint that 
+there is a setting on his banking app that he could have activated to prevent these types of 
+gambling transactions from going through. 
+NatWest explained that they did place a block on Mr As account for gambling transactions in 
+2018 and confirmed at the time that the block wasnt guaranteed. They said that Mr A raised 
+a complaint following the block being put in place about another transaction that had taken 
+place, and they had explained that stopping the transactions isnt a guarantee. The 
+complaint was also brought to our service, and we agreed. 
+NatWest also said that Mr A had removed the self-exclusion on visiting a casino in August 
+2021, and that this enabled him to carry out the transactions in October. 
+Our investigator was of the opinion that NatWest hadnt made any mistake or acted unfairly 
+in allowing the transactions to go through. He explained that while a block was in place on 
+Mr As account when he made the payments, they arent always guaranteed. He explained 
+that NatWests system didnt fail to recognise the transactions, but that it was due to the 
+Merchant Category Codes (MCC) that were used by the gambling merchant. He explained 
+what these were and how they related to Mr As circumstances. 
+He also said that while NatWest hadnt previously told Mr A about the gambling control 
+feature on his app, he didnt believe it would have made a difference to the overall outcome 
+of the complaint as the feature wouldnt necessarily work if the transactions were to go 
+through as offline ones, which is usually the case for chip and pin (which Mr A used). 
+Mr A disagreed with our investigators opinion and so his complaint has been passed to me 
+for review. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having considered everything, I agree with the outcome reached by our investigator for the 
+same reasons. I will explain why. 
+I note that Mr A raised a complaint with our service back in 2018. While I have considered 
+events that took place at that time, I have considered this complaint on its own merit.  
+NatWest placed a gambling block on Mr As account in June 2018. At the time, they 
+explained the block wasnt always guaranteed and that some transactions could still be 
+processed. 
+When a gambling block is placed on an account, a bank will use MCCs to try and identify 
+transactions that should be stopped. 
+NatWest have explained that an MCC is a four-digit number that is used to identify 
+merchants by the type of goods or services they provide. There are around 900 individual 
+MCCs and these are assigned by merchant type, or merchant name.
+The code used shows the merchant that the customer has asked for payments to them to be 
+prevented, but the merchant can still process the customers payment request. 
+The payments made by Mr A were also chip and pin, which go through a different 
+authentication process compared to an online payment for example, and there is much less 
+of a chance they would be stopped.
+When NatWests case handler spoke to Mr A, he confirmed he had made the payments at a 
+casino. NatWest have provided evidence of the MCC that was in place when Mr A visited the 
+casino, and it wasnt one recognised as a gambling one, meaning the block was in place, but 
+didnt work. 
+The case handler also asked Mr A about self-exclusion and if he had done this previously. 
+Mr A confirmed that he was self-excluded until August when he removed the exclusion.
+Having considered this, I cant see what more NatWest could have done in this situation. 
+The block was in place at the time the payments were made, but as has been previously 
+confirmed, a block couldnt always be guaranteed. It would also be impossible for NatWest 
+to monitor every transaction someone may make. Given that the MCC used wasnt one 
+recognised as a gambling one, and as chip and pin transactions are usually a lot more 
+secure and therefore allowed to go through, I cant see what else NatWest could have done 
+to stop the payments from being taken. 
+In relation to the gambling block feature on Mr As banking app, I can see that NatWest sent 
+him an email in December 2021 explaining how it works. While I appreciate that Mr A is 
+unhappy he wasnt told about this feature until after he complained, it only became available 
+on the app in September 2019, after his initial complaint was made. 
+As Mr A had previously made NatWest aware he had a gambling problem, I think there 
+wouldve been an onus on them to have let him know that the block was available. However, 
+he had removed the self-exclusion tool prior to visiting the casino, and the block would work 
+in much the same way (its not permanent and he could opt in and out whenever he wanted). 
+So I dont think that telling him the block feature had been launched wouldve made a 
+fundamental difference.
+Also, as the transactions were chip and pin and therefore shown as offline ones, its likely 
+they still would have gone through even if the block had been activated. 
+I do appreciate Mr As feeling on this matter, and while we always take complaints about 
+gambling addiction very seriously, I cant say that NatWest were at fault here. I know this isnt the outcome Mr A was hoping for but I hope I have explained why Im not able to ask 
+NatWest to return the money spent by Mr A.
+My final decision
+My final decision is that I do not uphold this complaint. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr A to accept or 
+reject my decision before 12 January 2023.
+ 
+Danielle Padden
+Ombudsman

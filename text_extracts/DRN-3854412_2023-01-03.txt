@@ -1,0 +1,92 @@
+DRN-3854412
+The complaint
+Mr B complains that Lloyds Bank PLC (Lloyds) held him liable for funds that he says didnt 
+dispense from a cash machine.
+What happened
+Mr B told us hed tried to withdraw £500 from a cash machine in April 2022 but that the 
+machine said it had been declined. Hed then tried other machines, but these had also said 
+the same thing. He said hed called Lloyds immediately and that, after around a 45-minute 
+wait, Lloyds agreed to refund the money and said it would look into the matter. But Lloyds 
+later declined the claim and re-debited the funds. 
+Lloyds said it had investigated the matter, which included making contact with the ATM 
+owner, and found there was no evidence the money hadnt been dispensed. So, its satisfied 
+that it was right in retracting the conditional refund from Mr B. 
+Our investigator considered this complaint. He felt that the evidence suggested the machine 
+hadnt dispensed the cash, and that Lloyds should reimburse Mr B. 
+But Lloyds disagreed. It maintained its stance that the money had been dispensed. 
+So, the complaint was passed to me. I got in touch with both parties to obtain further 
+information. And I let Mr B know that I was minded to reach a different outcome to that 
+reached by our investigator  as, from the evidence Id seen, I felt it likely the ATM 
+transaction had processed correctly.  
+Mr B felt strongly that he should be reimbursed so, after some further communication, he 
+asked me to issue a final decision. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I wont be upholding the complaint. I know this will be extremely 
+disappointing for Mr B. Ive explained my reasons for this below. 
+Ive been provided with a copy of the ATM journal which Lloyds obtained from the ATM 
+owner. From this, I can see that:
+At 20:37:06 Mr B inserted his card;
+At 20:37:18 Mr B entered his PIN;
+At 20:37:35 Mr B entered the amount he wished to withdraw;
+At 20:37:45 the card was presented and taken;
+At 20:38:00 the money was presented (15 seconds after it was presented) 
+At 20:38:10, the money hadnt been taken, so the machine started the beep 
+sequence;
+At 20:38:20, the journal states, Money not taken and Leave money in shutter;
+At 20:38:45, it notes the cash was taken after a timeout situation. 
+So, the ATM journal supports that the money was dispensed. 
+The ATM owner also said There were no faults showing and transactions either side were 
+all successful. ATM has been balanced since on 8/4/22 and no overages were found. Had 
+the money not dispensed, Id expect to see that the machine hadnt balanced  as the £500 
+would still be in the machine. So, this further supports Lloyds position that the money was 
+dispensed.
+Lloyds has also provided information about Mr Bs attempts to withdraw cash at other 
+machines following this initial attempt. I can see Mr B did indeed make five further attempts 
+to withdraw funds  including at the original machine. These all declined and Lloyds has said 
+this was because hed met his withdrawal limit for the day after the initial £500 transaction.
+I note Mr Bs actions would suggest he was keen to access funds, and theres a question 
+around why he would need to keep visiting further cash machines if hed successfully 
+withdrawn the £500. But I cant ignore the time at which Mr B was at the second cash 
+machine  20:38:33. This means that, within 33 seconds of the £500 being presented, Mr B 
+was already using another machine. Even if the machines were close to each other, this 
+does raise questions about whether Mr Bs attention was focused on the original machine. I 
+note that Mr B told our investigator hed waited for around five minutes for the money to 
+come out. But evidence provided in the form of a screenshot of Mr Bs account usage 
+contradicts this  and I find this to be more persuasive evidence. 
+I also note that Mr Bs testimony around whether anyone else was nearby when he used the 
+machine changed. In a call with Lloyds in May 2022, he said there hadnt been anyone near. 
+But in a call with our investigator, he referred to a man behind him and referenced three to 
+four individuals, some of whom hed had some interaction with. Mr B hasnt provided an 
+explanation for this change in testimony. 
+So, while its natural to speculate about who took Mr Bs money, thats not whats in question 
+here  even if I accept Mr B didnt ultimately receive the funds, that doesnt necessarily 
+mean Lloyds would be required to reimburse him. What I have to decide is whether the ATM 
+transaction did or didnt process correctly. 
+The relevant regulations here, the Payment Services Regulations 2017 (PSRs) say that 
+where a payment service user claims that a payment transaction has not been correctly 
+executed, it is for the payment service provider to prove that the payment transaction was 
+authenticated, accurately recorded, entered in the payment service providers accounts and 
+not affected by a technical breakdown or some other deficiency in the service provided by 
+the payment service provider. Im persuaded that Lloyds has met these requirements. Its 
+evidenced that the card was used, PIIN was entered, the money was presented and that it 
+was taken. It also provided evidence from the ATM owner that the ATM balanced. So, I dont 
+think it would be fair to hold Lloyds liable  whether or not Mr B ultimately received the 
+money. 
+For completeness, Ill just address a point raised by our investigator, who queried error 
+codes in the ATM journal. These have been explored to allay any concerns about whether 
+the transaction was affected by a technical breakdown. But, based on evidence provided by 
+Lloyds, the error codes displayed were due to Mr Bs cash being left in the machine  the 
+machine wasnt able to do anything until the money was taken, and the machine didnt have 
+the facility to retract the funds. So, Im satisfied Lloyds has done all it reasonably could to 
+evidence the machine was functioning as it should  and theres been no suggestion of issues with transactions either side of Mr Bs. 
+On that basis, while Im sorry that Mr B has lost out on his money, I cant fairly hold Lloyds 
+liable for it.
+My final decision
+For the reasons given above, I dont uphold this complaint against Lloyds Bank PLC.  
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr B to accept or 
+reject my decision before 31 January 2023.
+ 
+Melanie Roberts
+Ombudsman

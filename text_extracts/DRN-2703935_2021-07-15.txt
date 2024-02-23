@@ -1,0 +1,100 @@
+DRN-2703935
+The complaint
+Miss G complains that Monzo Bank Ltd (Monzo) is holding her liable for transactions which 
+she says she didnt make or otherwise authorise.
+What happened
+The circumstances of this complaint are well known to both parties, so I wont repeat them 
+all again here in detail.  But I will provide a brief summary of events below.
+In December 2020, Miss G contacted Monzo about some approved and declined 
+transactions on her account which she says she didnt authorise.  The eight approved 
+transactions amount to £126.93.  Monzo investigated this matter and declined a refund, 
+which Miss G raised a complaint about.
+Monzo says the first of the eight transactions for £1.00 was authorised via 3D Secure.  This 
+means the transaction was authorised using Miss Gs Monzo app on her mobile phone; 
+access to which wouldve required her four-digit Personal Identification Number (PIN).  
+Monzo says the subsequent payments were credential on file transactions, which allowed 
+the merchant concerned to store Miss Gs card details, and then debit £17.99 from her 
+account fortnightly.
+Monzo says Miss G informed it that she had her mobile phone and card in her possession.  
+She added she hadnt shared her PIN with anyone, and that no one had access to her 
+mobile phone.  Based on this, Monzo concluded that it wasnt possible for the transactions to 
+have been authorised by anyone other than Miss G.  So, it refused to refund £126.93 to her.  
+Monzo informed Miss G that it would raise a chargeback claim if she contacted the merchant 
+to dispute the transactions and provided details of this. 
+Unhappy with Monzos response, Miss G referred her complaint to this service. 
+One of our investigators considered the complaint and didnt uphold it.  In summary, he 
+thought Miss G had authorised the initial £1.00 transaction which consequently led to the 
+further debits.  He said he was not persuaded that a third party gained access to Miss Gs 
+card and mobile phone to make the transaction  particularly given the fact her phone was 
+password protected, and her Monzo app fingerprint protected.  He also added that Monzo 
+had acted reasonably by telling Miss G what steps she would need to take if she wanted to 
+raise a chargeback claim. 
+Miss G disagreed with the investigators findings and asked for an ombudsman to consider 
+her complaint.  In broad summary, she said she hadnt authorised any of the transactions 
+and that her Monzo app was not fingerprint protected.  She also said that Monzo had 
+refused to provide her with information she requested. 
+Our investigator responded saying his view remained unchanged.  He also added that 
+although he appreciated Miss Gs Monzo app was not fingerprint protected, there was still a 
+security code attached to it.
+As an agreement couldnt be reached, the complaint has been passed to me to make a 
+decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I agree with the conclusions reached by the investigator for reasons I set 
+out below.
+Disputed transactions
+The relevant regulations in this case are the Payment Services Regulations 2017 (the 2017 
+Regulations).  In short, they state that a payment service provider (in this case, Monzo) is 
+generally required to refund the amount of an unauthorised transaction.  However, Monzo 
+can hold Miss G liable for any disputed transactions if the evidence suggests that its more 
+likely than not that she made or otherwise authorised them.
+Im satisfied from the technical evidence Monzo has provided that Miss Gs genuine card 
+was used for the initial transaction of £1.00 to the merchant concerned.  With that in mind, I 
+must now consider whether Miss G actually consented to this transaction, which 
+consequently led to the fortnightly transactions of £17.99 thereafter.  
+Having looked on the merchants website, I can see from the section where the merchant 
+requests card details for payment, it is stated, amongst other things:
+I agree to participate in the 3 day trial offered for only 2 USD and acknowledge that if not 
+cancelled within due time, my membership will automatically be renewed and converted into 
+a full 14 day membership at the price of 28 USD every 14 days from my subscription.
+Im satisfied that if an individual makes the first payment to the merchant (as described 
+above), theyre also agreeing, and thereby authorising, subsequent fortnightly transactions  
+until that is, the individual decides to cancel their subscription with the merchant.
+Miss G says she didnt authorise the initial transaction nor the subsequent ones.  So, Ive 
+thought about whether a third party did so.  
+For a third party to have made the initial transaction, they wouldve needed to be in 
+possession of not just Miss Gs card, but her mobile phone as well.  I say this because Ive 
+seen evidence to show the transaction was authorised via 3D Secure.  This means, to 
+complete the transaction, it wouldve needed to have been authorised through Miss Gs 
+Monzo app on her mobile phone, before then returning to the merchants page to confirm the 
+payment.
+Miss G says she didnt give her card or mobile phone to anyone and that they were secure.  
+So, Im not persuaded that a third party took possession of Miss Gs card and mobile phone; 
+and even if they did, I find it unlikely that the third party wouldve taken a further risk by 
+returning the items to Miss G after making the transaction.  Further, even if I were to accept 
+that a third party took Miss Gs mobile phone and card  this wouldnt explain how they 
+wouldve been able to access her phone, which Miss G says was secure.  Nor would it 
+explain how the third party knew Miss Gs PIN to access her Monzo app, which she says she 
+didnt share with anyone.I acknowledge Miss G says she didnt make the initial transaction and has seen reports 
+online that the merchant is part of a scam.  However, taking all the above factors together, I 
+consider its more likely than not that Miss G authorised the initial transaction and thereby 
+the subsequent ones (whether intentionally or not).
+Further information/chargeback
+Miss G says Monzo has refused to provide her with information she has requested.  Having 
+considered the online chat log between Miss G and Monzo, I dont agree.
+In the course of the chat, Monzo said to Miss G, amongst other things, that once she had 
+contacted the merchant about the transactions, it would raise a chargeback claim.  Monzo 
+also said if Miss G spoke to the merchant directly, it would provide her with the information 
+the merchant requires to be able to locate the transactions.  Having considered this, I dont 
+find what Monzo said to be unreasonable in the circumstances. 
+From what Ive seen, Miss G has the information she needs to contact the merchant about 
+the transactions.  This includes the screenshots of the transactions which Miss G sent to our 
+investigator.
+My final decision
+For the reasons set out above, my final decision is that I dont uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Miss G to accept 
+or reject my decision before 12 August 2021.
+ 
+Tony Massiah
+Ombudsman

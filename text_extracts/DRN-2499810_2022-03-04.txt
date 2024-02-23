@@ -1,0 +1,194 @@
+DRN-2499810
+The complaint
+Mr J complains that Forex Capital Markets Limited (FXCM) closed his trades when it 
+shouldnt have done because its system couldnt cope with negative pricing.
+What happened
+On 20 April 2020 Mr J opened three long Contract For Differences (CFD) trades in US Oil for 
+the May 2020 futures contract. His first trade was at 08.30 GMT, the second at 09.24 GMT 
+and the last at 15.02 GMT. 
+The trades were all due to expire in FXCMs market break that day, which was 21.00-22.000 
+GMT. However, FXCM froze its US Oil market before expiry, at around 18.08 GMT. Mr J 
+was unable to see the price or do anything in relation to his trades after this and these were 
+closed at $0.001.
+In its final response to his complaint FXCM said that 20 April 2020 the pricing of US Oil 
+experienced a historical move, as the price of the underlying instrument for US Oil began to 
+price below zero. 
+It explained that FXCM had the right to halt trading on an instrument entirely if there is a halt 
+to trading on any exchange or a significant event that could impede liquidity, execution, and 
+price delivery. It said that the trades closed due to the expiration of US Oil and were closed 
+at a price of $0.001 and that there were no issues with the pricing or execution.
+One of our investigators considered the complaint but didnt think it should be upheld. In 
+short, she said that FXCM had closed Mr Js trades because of lack of liquidity in the oil 
+markets and that the terms and conditions allowed it to do so in the circumstances. She said 
+that the trades had been closed using a price of $0.001, but if they had been closed based 
+on what was happening in the underlying market and a negative price had been used, his 
+losses would have been more. 
+Mr J didnt agree with the investigator. In summary he made the following points:
+The investigator has based her opinion on global macroeconomic conditions as 
+evidence and hasnt been objective.
+He provided evidence that FXCM disguised a platform error to profiteer from an 
+exceptional market event.
+There is no information as to how WTI could continue trading below $0 whilst FXCM 
+closed its servers down at $0.001.
+FXCM modified its terms and conditions and its US Oil market data after the event.
+The claim that there was loss of liquidity needs to be substantiated and verifiable and 
+unbiased. FXCM has not presented evidence about there being a loss of liquidity and 
+the investigator has relied only on media coverage.
+The investigator has said that FXCM only make money on the spread, but it is known 
+that spread bettors take the other side of client trades.
+There has been no investigation as to what he has said about the platform crashing 
+unexpectedly because the price reached zero.
+There has been no investigation as to what he has said about the negative pricing of 
+natural gas and whether FXCMs platform froze as a result, as it did with his US Oil 
+trades.
+The investigator responded to the points raised and said the following:
+Whether FXCMs systems could cope with negative pricing or not the loss of liquidity 
+is enough for them to have suspended trading and to have closed the positions.
+Liquidity means the volume and ratio of buyers and sellers and there were much 
+fewer people willing to buy the WTI May 2020 Futures contract. FXCM wouldnt have 
+had higher liquidity than what happened in the underlying market and this is enough 
+for her to say it did nothing wrong in closing the trades.
+Brokers are permitted by the rules  which we are not responsible for  to be the 
+counterparty to a trade.
+If the number of long trades and short trades evens out, brokers can hedge their own 
+risk by placing trades themselves. 
+If no one is willing to trade this is something they cant do and, in that situation, it is 
+unlikely that long and short trades will balance out.
+We would expect brokers to weigh their own best interest with the interests of their 
+clients.
+By closing the trades FXCM didnt allow trading on what was a very volatile market.
+She had not seen anything that shows that FXCM broke any rules.
+Mr J responded and said the following:
+If the reason for suspension was the price hitting $0 this needs to be rectified for the 
+future.
+The underlying market traded as normal.
+FXCM need to prove that trading was suspended because of the price rather than its 
+platform couldnt cope with negative pricing.
+It is clear its platform crashed when the price hit $0 so it could have tracked the 
+underlying instrument which continued to trade unsuspended.
+As FXCM could trade as counterparty it would obviously not be taking any loss by 
+returning his loss and by keeping this they are profiteering.
+In contrast if FXCM would be taking a loss by returning his loss then the loss of 
+liquidity is a valid excuse, but this must be investigated.
+I asked FXCM to confirm if its systems had been unable to cope with the negative pricing 
+and whether it was aware of the possibility of negative pricing before 20 April 2020 given 
+CME Group had issued a number of warnings about the possibility of negative oil prices, the 
+latest being on 15 April 2020. 
+It said that the information Mr J had referred to about warnings from the CME Group isnt 
+relevant as any such warnings were sent to CME Clearing Member firms and it isnt one. It 
+said its systems could cope with negative pricing, but trading was stopped before the price 
+went negative. It said its terms of business allowed it to alter trading hours, which is what it 
+did.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+I acknowledge Mr Js strength of feeling about what happened and his belief that FXCMs 
+system couldnt cope with negative pricing and this is what led to him being unable to take 
+any action with his US Oil positions and these being closed at $0.001.
+However, I need to make my findings on a balance of probabilities. In other words I am not 
+saying what definitely did, or didnt, happen only what I think, more likely than not, happened, based on the available evidence. 
+I note Mr J has said that whether FXCMs systems could cope with negative pricing needs to 
+be investigated. However, my role is to consider the evidence provided by the parties and 
+make findings based on that evidence. I can ask a party to provide evidence, but I have no 
+powers of investigation. 
+From the evidence available I am unable to say that it is more likely than not FXCM did 
+anything wrong and agree with the investigator that this complaint shouldnt be upheld and 
+for the same reasons.
+What happened on 20 April 2020 with US Oil has been well documented generally. In short, 
+there was a decrease in demand for West Texas Intermediate crude (WTI) - the underlying 
+commodity for the US Oil futures contract. In simple terms there was too much production 
+not enough demand and not enough storage capacity.
+This pushed down the price of WTI and it went negative on 20 April 2020  for the first time 
+in its history - which impacted the May 2020 futures contract that Mr J had opened three 
+positions in and which was due to expire later that day.
+This led to FXCM closing its US Oil market and to the closure of Mr Js positions. Mr J 
+argues that his trade was closed because FXCMs systems couldnt cope with negative 
+pricing rather than as a result of it taking action as a result of what was happening with US 
+Oil. 
+I asked FXCM about this and it has told me that there was no issue with its system and that 
+it could handle negative pricing. It said that what happened on 20 April 2020 was that trading 
+was stopped by it because of what was happening to the price.
+Mr J said that he had provided evidence that showed FXCM disguised a system failure to 
+profit from an exceptional market event. However, whilst I acknowledge what he has said I 
+am not satisfied he has provided any persuasive evidence showing a failure in FXCMs 
+system.
+FXCM did subsequently provide a notice to clients on 22 April 2020 which included the 
+following:
+Until further notice, all Oil CFD contracts may be closed without notice and prior to expiry, 
+should the underlying reference price reach or fall below $3.00.
+And
+NEGATIVE PRICING
+FXCM will not support negative prices on our products and reserve the right to cease trading 
+when market prices reach zero or when we reasonably anticipate negative prices. In such 
+event, we may close all open positions at the best price available to us.
+It isnt surprising that FXCM took action as a result of what happened on 20 April 2020 and 
+decided that it wouldnt support negative prices and provided reasonable notice of this to 
+clients. However, I dont think FXCM stating it wont support negative prices is evidence that 
+its system on 20 April 2020 couldnt cope with negative prices.  
+I have considered whether FXCM should have provided information to clients before 20 April 
+2020 on what it would do if prices turned negative. I note Mr J has said that there was an implicit normality that prices could turn negative as natural gas prices had once hit negative 
+pricing. 
+However, I dont accept that because natural gas prices turned negative on a previous 
+occasion this means negative pricing was implicitly normal for US Oil - given that before 20 
+April 2020 it had never turned negative.
+Mr J referred to the warning provided by the CME Group to its members on 15 April 2020 
+about the possibility of negative pricing. I asked FXCM about this and it says it wasnt 
+provided with the warnings from CME as it wasnt one of its clearing members. In the 
+circumstances I cant say based on the information I have seen that it is more likely than not 
+FXCM were aware before 20 April 2020 that there was risk US Oil could turn negative. 
+FXCM has told me clearly that its system could handle negative pricing and that trading was 
+stopped before prices turned negative and that it altered the trading hours as its terms 
+allowed it to.
+As I explained at the outset, I have no powers of investigation. I am reliant on the evidence 
+provided by the parties. FXCM is obviously in position to know how its system works and 
+whether it could handle negative prices. To find that its system couldnt handle negative 
+pricing  in other words that it has misled me  I would need to have seen some persuasive 
+evidence this was the case. I have not seen such evidence.  
+In the circumstances, based on the evidence I have seen, on balance I think that trading was 
+stopped by FXCM because of what was happening in the market and not as result of its 
+systems being unable to cope with negative pricing. 
+That leads me on to considering whether FXCM did anything wrong in stopping trading for 
+this reason. 
+Its terms of business dated 6 September 2019 include the following:
+24.1 We shall not be liable for any loss caused directly or indirectly by any breakdown or 
+failure of any transmission or communication system or equipment or computer facility or 
+trading software, loss of use of the Trading Facility, whether belonging to us or our 
+Associated companies, you, any Market, or any settlement or cleaning system when you 
+trade online (via internet) or for any cause preventing us from performing any or all of our 
+obligations, any act of God, war terrorism, malicious damage, civil commotion, industrial 
+acts, any Exceptional Market Event, or acts and regulations of any governmental or supra 
+national bodies or authorities which in our opinion prevent an orderly market in relation to 
+your Orders (an Exceptional Event).
+And:
+24.3 Upon the occurrence of an Exceptional event, all of our obligations under these terms 
+shall immediately be suspended for the duration of such exceptional event. Additionally, we 
+may take anyone of more of the following steps with or without notice to you:
+(a) Alter normal trading times
+(b) Alter the margin requirements
+(c) Close any or all open positions, cancel instructions and orders as we reasonably 
+deem to be appropriate in the circumstances; and/or
+(d) Take or omit all such actions as we deem to be reasonably appropriate in the 
+circumstances having regard to your open positions and the open positions of other 
+customers.An Exceptional Market Event as referred to in clause 24.1 of the terms of business set out 
+above, is defined in the terms as:
+the suspension, closure, liquidation, imposition of limits, special or unusual terms, excessive 
+movement, volatility, or loss of liquidity in any relevant market or Underlying Instrument, or 
+where we reasonably believe that any of the above circumstances are about to occur.
+I think what happened on 20 April 2020 falls within the above definition. I think that there was 
+excessive movement and/or volatility and/or a loss of liquidity. As such I think FXCM was 
+able to take any of the actions set out at Clause 24.3 of its terms, including altering trading 
+hours and closing positions. In the circumstances I dont think it did anything wrong in 
+relation to the three positions Mr J opened. 
+One additional point I think it is worth making is that even if I though FXCM had done 
+something wrong, there is nothing to suggest Mr J has suffered a loss as a result. His three 
+positions in US Oil were long. In other words, he expected the price of oil to rise, which 
+obviously isnt what happened. The price continued to fall after it closed its US Oil market so, 
+if FXCM had not closed this when it did it seems to me Mr Js losses may well have been 
+much higher.
+My final decision
+I dont uphold this complaint for the reasons I have set out above.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr J to accept or 
+reject my decision before 1 April 2022.
+ 
+Philip Gibbons
+Ombudsman

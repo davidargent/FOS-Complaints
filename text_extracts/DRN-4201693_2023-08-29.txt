@@ -1,0 +1,200 @@
+DRN-4201693
+The complaint
+Mr B complains that PayPal (Europe) Sarl et Cie SCA declined his claim under section 75 of 
+the Consumer Credit Act 1974 for a refund of some cancelled flights.
+What happened
+In March 2022 Mr B booked international flights for his family, in order to attend a wedding 
+overseas. He paid £2,793 with his PayPal credit card. The tickets were non-refundable. But 
+in May the flights were cancelled; there is a dispute about whether they were cancelled by 
+the airline or by Mr B. The airline refunded him £577. He asked the airline for the rest, but 
+received no answer despite chasing it for a reply.
+Mr B next raised the matter with PayPal. He told PayPal that he was making a claim for 
+breach of contract under section 75. Instead, PayPal raised a chargeback dispute, but the 
+airline defended it by saying that Mr B had cancelled the flights. As a result, the chargeback 
+was unsuccessful.
+Mr B reiterated that he wished to make a claim under section 75, but instead PayPal 
+reviewed his claim under its own user agreement. It decided that he was not entitled to a 
+refund because the tickets had been delivered to him. It didnt comment further about the 
+fact that the tickets had been cancelled, or about who had cancelled them.
+Being dissatisfied with that response, Mr B brought this complaint to our service. He also 
+complained about the airline to a foreign alternative dispute resolution service (ADR). In 
+response to that complaint, the airline agreed to pay him a full refund, without admitting any 
+liability. But as that was six months after the flights had been cancelled, Mr B continued to 
+pursue his complaint about PayPal, because he also wanted to be reimbursed for his 
+consequential losses. He had had to rebook his flights with another airline at a higher price, 
+and so he wanted the price difference, and a refund of some other expenses connected with 
+his new travel arrangements. He provided the relevant receipts. He also asked for a refund 
+of the interest PayPal had charged him on his credit card payment (£63.59).
+Our investigator did not uphold this complaint. She said that she had based her view solely 
+on the information which had been available to PayPal when the chargeback dispute had 
+been raised, and not on any information which had come to light since then. She thought 
+that PayPal had acted reasonably in relation to the chargeback dispute. She said that Mr Bs 
+claim for consequential losses was a new complaint point, and that as PayPal was entitled to 
+eight weeks to investigate it, he should raise a new complaint with PayPal, as she could not 
+consider it as part of this one.
+Mr B did not agree with the investigator. He said he hadnt been complaining about a 
+chargeback dispute, he had been complaining about how PayPal had not upheld his section 
+75 claim. Since that claim was based on a breach of contract, and his consequential losses 
+had flowed from that breach, they were part and parcel of his section 75 claim, and so the 
+Financial Ombudsman Service should consider them. He asked for an ombudsman to 
+review his case.
+I wrote a provisional decision in which I said (among other things) that PayPal had failed to 
+consider Mr Bs case as a claim under section 75; but PayPal has since provided evidence 
+that it actually did do that. My provisional decision read as follows (but I have edited it to 
+remove all references to PayPal failing to consider section 75).
+What Ive provisionally decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I am currently minded to uphold it. I will explain why.
+I have read Mr Bs emails to PayPal, and he stated in terms that he was asking it to deal with 
+his claim for a refund under section 75. And when he brought this complaint to our service, 
+he made it clear that his complaint was about how PayPal had dealt with (or failed to deal 
+with) his section 75 claim. It was not about how PayPal handled the chargeback dispute, or 
+anything else. So Im satisfied that his request for consequential losses has always been 
+relevant to this complaint, and it is not necessary for him to start again.
+There was nothing wrong with PayPal raising a chargeback dispute first, because the time 
+limits for chargeback are much stricter than they are for a claim for breach of contract. And 
+there was nothing wrong with PayPal considering Mr Bs claim under its buyer protection 
+policy either. But in this decision, I will focus on the section 75 claim. It is not necessary for 
+me to make findings about the outcomes of the other processes.
+Before I go on, I must first say that I have considered whether section 75 applied to Mr Bs 
+purchase, and I am satisfied that it did. PayPal has never argued otherwise. Section 75 
+makes PayPal jointly liable to Mr B for any breach of contract by the airline.
+So the first question is whether the airline breached its contract with Mr B. If there was no 
+breach, then section 75 would not make PayPal liable for anything. And PayPal appears to 
+have taken the view that there was no breach, based on the airlines defence to the 
+chargeback dispute, in which it said that the flights had been cancelled by Mr B. The airline 
+provided a screenshot from its systems to that effect. It looked like this:
+That might well be sufficient evidence to defend a chargeback claim. But I think that a 
+section 75 claim required a little more investigation than to just accept that screenshot as 
+determinative. That is because the information in that screenshot was inconsistent with other 
+information known to PayPal at the time: the fact that the flights were non-refundable, and 
+yet the airline had still paid Mr B a partial refund (consisting of airport taxes and fees).
+If Mr B had cancelled the flights himself, then there would have been no reason for the 
+airline to refund him at all.1 So I think that the partial refunds should have prompted PayPal 
+to ask the airline some further questions (not as part of the chargeback process). If it had 
+done so, this might have prompted the airline to do what it did when the foreign ADR raised 
+Mr Bs complaint with it: it agreed to pay him a full refund.
+I dont think it matters that the full refund happened after PayPal had finished dealing with 
+Mr Bs claim. The point is not that PayPal should have taken into consideration information it 
+1 There are a couple of exceptions for death, bereavement, or the rejection of a visa, but these result 
+in full refunds, and nobody has suggested that any of these exceptions applied in this case.
+didnt have yet, but that it failed to do enough with the information it did have at the relevant 
+time.
+If PayPal had questioned the airline, then Mr B might have got his refund earlier than he did; 
+on the balance of probabilities, I think that is more likely than not. For that reason, I propose 
+to uphold this complaint on the basis that PayPals failure to do so affected the outcome of 
+his case.
+The main compensation due to Mr B has already been paid to him by the airline. But I think 
+he is entitled to more than that. I think the further compensation that he should get falls into 
+two categories: the consequential losses for which the airline is liable for breach of contract 
+(if a breach occurred), for which PayPal would be jointly liable under section 75; and losses 
+for which PayPal is liable independently of section 75, for how it dealt with Mr Bs section 75 
+claim.
+Damages under section 75
+The airline has never actually admitted liability, but I doubt that it would have agreed to pay a 
+full refund if it had not been obliged to pay one. And as I dont believe it would even have 
+paid a partial refund in the first place if it had not cancelled the flights, I am satisfied on the 
+balance of probabilities that the airline did breach its contract with Mr B, notwithstanding 
+what the screenshot says.
+So I currently think it would be fair to require PayPal to pay the foreseeable consequential 
+losses arising out of that (Ive seen the relevant receipts). These are:
+The difference between the prices of the original flights and the replacement flights 
+with another airline, which is £377.96;
+The difference between the car park charges at the original airport of departure and 
+the different airport which the replacement flights left from, which is £131.99; and
+ As a result of booking replacement international flights, which had a return date one 
+day earlier than the original flights, Mr B had to book a night in a hotel at his 
+destination country, at a cost of £105.12.
+This all adds up to £615.07.
+The replacement flights also had a departure date which was one day earlier than the 
+original. This meant that Mr B had to rebook an internal flight in his destination country. That 
+was entirely reasonable of him, but I dont think that it was foreseeable by the culpable 
+airline, and damages for breach of contract are restricted to foreseeable losses. PayPals 
+liability under section 75 is limited similarly. So I wont compensate Mr B for this.
+Other damages
+In the latter category of damages are interest, and also compensation for Mr B having been 
+inconvenienced by PayPal not upholding his claim.
+This services usual approach to interest is not to tell the credit provider to refund the interest 
+it was charging on the credit card payment, but rather to award interest on the refund at the 
+rate of eight percent a year from the date on which the airline would have refunded Mr B (but 
+for PayPals error) to the date when it actually refunded him. This period wont be quite as 
+long as six months, because it was three weeks before Mr B first asked PayPal for a refund; 
+the airline did not respond to PayPal until mid-June; and then if PayPal had challenged its 
+response, it might have been a while longer before the airline conceded  after all, the 
+timescale for Mr Bs other case with the foreign ADR was about three months altogether (from August to November 2022). Taking all of that into account, I will assume that Mr B 
+could have got his refund in August, or in three months instead of six.
+That interest will be calculated based on the difference between the partial refund and the 
+full refund, which is £2,216. A quarter of a years interest at 8% a year on £2,216 comes to 
+£44.32.
+For Mr Bs inconvenience I propose to award him £100.
+My provisional decision
+So I am provisionally minded to uphold this complaint. Subject to any further representations 
+I may receive from the parties, I currently intend to order PayPal (Europe) Sarl et Cie SCA to 
+pay Mr B:
+The additional cost of his new travel arrangements, which come to a total of £615.07;
+Interest on his late refund, which comes to £44.32; and
+£100 for his inconvenience.
+Responses to my provisional decision
+Mr B had nothing to add.
+PayPal objected to my provisional decision. It insisted that it had considered Mr Bs case 
+under section 75, but he had failed to provide certain documents it had asked him for, and so 
+his claim had been rejected. It provided email correspondence between PayPal and Mr B to 
+demonstrate this.
+I accept that those emails prove that PayPal did treat Mr Bs claim as a claim brought under 
+section 75. So I have reconsidered how PayPal dealt with his claim in the light of what those 
+emails say.
+My findings
+On 28 June (after the airline had responded to the chargeback dispute), PayPal wrote to 
+Mr B to ask him for the following:
+A receipt or other proof of purchase;
+A written summary about the details of his purchase;
+A copy of the airlines terms and conditions;
+A written summary of his claim, setting out what had happened and how much 
+compensation he was seeking; and
+Any other supporting evidence he cared to provide, such as photographs.
+It said this was needed to establish whether his purchase was eligible, and to establish the 
+basis of his claim.
+On 6 July Mr B replied with a detailed description of his purchase, with the details of the date 
+of the booking, the price paid, the name of the airline, the method of payment, and the 
+details of the ticket itinerary, including the names of the passengers, ticket numbers, dates of 
+each flight, and the cities of departure and destination. The same email contained a lengthy 
+account of what had happened since his purchase. So Im satisfied that the email fulfilled the 
+requirements in the second and fourth bullet-points on the above list.
+That email also says that Mr B was sending three attachments. These were:
+The booking confirmation;A screenshot from the airlines website showing that he was unable to check the 
+status of his tickets; and
+His conversation with the airline on Twitter.
+On 13 July PayPal sent Mr B another email repeating its request for the five items in the first 
+list above. It added that it had received two (not three) of the documents attached in Mr Bs 
+previous email (without identifying which two), but said that these were not valid to proceed 
+with the section 75 request. It did not explain why not, or what was needed instead. PayPal 
+said it would close Mr Bs case if it did not receive the requested documents.
+In response, Mr B told PayPal the same day that he had already sent PayPal enough 
+material for it to consider his claim. A week later, PayPal closed his claim, on the ground that 
+he had not sent it what it had asked for.
+The booking confirmation which was sent to PayPal on 6 July serves as proof of purchase. It 
+might have been prudent if Mr B had sent it again on 13 July, when PayPal mentioned 
+receiving two attachments when he had sent three, but Im not going to hold that against him 
+because PayPal could have told him which document was missing, and since it didnt 
+actually say that any document was missing  only that it had received two documents 
+(without mentioning that he had tried to send three)  it might not have been obvious to Mr B 
+that there was a problem.
+So it seems that the only item which Mr B had failed to provide to PayPal on 6 July was the 
+airlines terms and conditions. But by then the airline had already provided PayPal with 
+excerpts of the relevant terms and conditions in its defence to the chargeback dispute. Its 
+unlikely that Mr B providing the full and complete terms and conditions would have made any 
+difference to the outcome of the section 75 claim. For that reason, I think that PayPals 
+decision to close his claim just because he didnt do that, when he had provided everything 
+else it had asked for, was not proportionate or reasonable. And I think that instead, PayPal 
+should have investigated his claim in the manner that I set out in my provisional decision, 
+and that this would have resulted in him getting a full refund earlier than he eventually did.
+For that reason, I remain of the view that I should uphold this complaint.
+My final decision
+My decision is that I uphold this complaint. I order PayPal (Europe) Sarl et Cie SCA to pay 
+Mr B £759.39.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr B to accept or 
+reject my decision before 26 September 2023.
+ 
+Richard Wood
+Ombudsman

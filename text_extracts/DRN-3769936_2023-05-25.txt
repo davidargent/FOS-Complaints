@@ -1,0 +1,97 @@
+DRN-3769936
+The complaint
+Miss M has complained that Bank of Scotland plc (BOS) unreasonably refused to refund a 
+total of £1,500 transactions from her bank account, which she said she didnt recognise or 
+do. 
+What happened
+Miss M told BOS on 1 May 2022 that two unrecognised transactions had been made to a 
+money transfer company on 28 April 2022 from her bank account which she didnt do and 
+that she didnt recognise. One was for £500 and the other was for £1,000.
+The transactions were carried out online from Miss Ms home IP address using her card 
+details including the CVV. 
+BOS said the transactions took place using Miss Ms phone which was registered to her 
+account. And the IP address was Miss M home IP address. Miss M said no one else but her 
+had access to her device or had the log in details including any passcodes. She still had her 
+card and phone and neither had been lost or misplaced. On this basis BOS said it was 
+unable to establish how an unknown third party or fraudster would have been able to access 
+her phone and complete the payments using her debit card details. So, it didnt uphold her 
+complaint. It also explained that sometimes customers made payments in exchange for good 
+and services and then realised they were the victim of a scam which are dealt differently by 
+the bank. It noted that Miss M was clear she had not made these payments at all. 
+Miss M then brought her complaint to us. The investigator was of the view that BOS hadnt 
+done anything wrong in not upholding Miss Ms complaint. As Miss M disagreed, her 
+complaint has been passed to me to decide. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so. Im not upholding this complaint. Ill now explain why. 
+First, I know and appreciate that Miss M will be deeply disappointed with my decision. And I 
+also want to thank her to the extensive efforts she went to in order to explain her position. 
+The regulations under which complaints of this nature are governed are called the Payment 
+Service Regulations (PSRs).  Under the PSRs banks can only be liable for unauthorised 
+transactions.  A transaction is deemed authorised if the payer has consented to the 
+execution of the transaction. The concept of consent under the PSRs is formal one. So, its 
+objective and not what Miss M subjectively knew either. A transaction is deemed to be have 
+been consented to if the transaction is made in accordance with the procedure the bank 
+requires, namely the card and CVV details. Consumers like Miss M here are duty bound to 
+keep these details safe too under the PSRs.
+Here in Miss Ms case this is the online payment using the details on her debit card with a 
+device registered to her account and an IP address that is hers also. In a dispute like this 
+case, BOS needs to show that the payments were authenticated which is the proper use of 
+Miss Ms card which happened with these disputed transactions, give the use of her card 
+details and the CVV. When this happens as it did in Miss Ms situation BOS are under an 
+obligation to make the payments, which it did. 
+Miss M said she didnt lose her card. She also said her card details including the CVV were 
+stored on her phone. But that no one else has these details.  But she also confirmed she 
+hadnt lost her phone either and neither did anyone else have access to her phone. She said 
+she never did these transactions. There is no evidence that she felt that she might have 
+been scammed into doing them either. 
+I appreciate the police told her broadband had been hacked and there were some phishing 
+issues with her phone. But that doesnt show me how someone was able to log into her Miss 
+Ms internet banking. 
+Here is what happened looking at the statements of Miss Ms bank account on the day these 
+transfers happened which is most definitely 28 April 2022 and not as BOS said 30 April 
+2022. And incidentally I think the reference to Miss M using a fingerprint to access her phone 
+is simply how the app was originally coded. I think its simply biometrics like Face ID. Miss M 
+said her phone doesnt have fingerprint access and I have no reason to doubt her.
+15.52  £100 transfer in from savings to current account using the mobile banking
+16.20  Login to the mobile banking using biometrics
+16.32  Login to the mobile banking using biometrics
+*16.37 - £500 payment by card to the money transfer company*
+16.42  £400 transfer made from savings to current account using mobile banking
+17.35 - £600 transfer made from savings to current account using mobile banking
+17.43  Login to mobile banking using biometrics
+*17.43 - £1,000 payment made by card to money transfer company*
+17.59  Login to mobile banking using biometrics
+18.26  Login to mobile banking using biometrics
+19.37  Login to mobile banking using biometrics
+20.23  Login to mobile banking using biometrics
+And there was also another transfer from the savings account on 29 April 2022. 
+Its more usual for IP addresses to be spoofed rather than hacked. So, it could be possible to 
+look like youre using a different IP address than the one that shows up. However here its 
+clear that it was Miss Ms phone doing the transactions. And the phone would have been 
+necessary to access the online banking to transfer the funds from the saving account to the 
+current account before using the debit card to make the disputed transfers. Its also very 
+remote there was a trojan on Miss Ms phone. But even if there was, then why not take the 
+funds directly rather than setting up payments to the money transfer company since its clear 
+access was available to the online banking too given the transactions above. 
+Miss M told us after she received the investigators view that she was away for a day or so in 
+a caravan. She explained that she likes to check her bank account on a regular basis but 
+that isnt daily. And it took a few days to see these transactions. 28 April 2022 was a 
+Thursday. However, Miss M said she was away on the Saturday which would have been 30 
+April and didnt seen these transactions until the Sunday 1 May. And she reported them after 
+that. She said she logged in quickly on the Saturday to make a bank transfer to her dog 
+walker but didnt look at any pending transactions as she was in shared company. However, 
+these transactions took place two days before she was away on the Saturday. Therefore, on balance given all the evidence and indeed working through varying date 
+anomalies I consider there isnt sufficient evidence to show me that an unknown fraudster 
+was able to access Miss Ms current and saving accounts to effect these disputed payments 
+to a money transfer company using the correct details on her card and using the phone 
+registered to her bank account with the her usual IP address being used. On that basis its 
+not unreasonable for BOS to hold her liable for the transactions.
+My final decision
+So, for these reasons, its my final decision that I dont uphold this complaint. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Miss M to accept 
+or reject my decision before 22 June 2023.
+ 
+Rona Doyle
+Ombudsman

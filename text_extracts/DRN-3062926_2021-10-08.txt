@@ -1,0 +1,88 @@
+DRN-3062926
+The complaint
+W Ltd, represented by Mr A, complained because HSBC UK Bank Plc refused to refund two 
+transactions which W Ltd said it didnt make.
+What happened
+W Ltd opened a new HSBC account with a £50,000 Covid bounce-back loan in October 
+2020. Various withdrawals ranging from £5,000 to £10,000 were made in the next month. 
+The balance after the last undisputed transaction on 15 November was £17,000.
+At 11:36 on 22 December, there was a login to W Ltds account. This used the correct 
+password, and a correct one-time passcode which was generated from W Ltds Secure Key.
+At 11:39, a new beneficiary was set up, and at 11:42 two payments were made to the new 
+beneficiary, with the description refund.  One was for £5,000 and the other for £4,800, and 
+the user then logged out at 11:44. The remaining balance at that point was £7,200.
+Three minutes later, at 11:47, Mr A logged on to W Ltds account. He then rang HSBC and 
+said he hadnt authorised the two transactions for £5,000 and £4,800, and didnt know the 
+beneficiary to whom the money had gone. He told HSBC that no-one knew his security 
+details or had access to his HSBC Secure Key. He also said he hadnt received any texts, 
+emails or calls asking for his information. 
+HSBC refused to refund Mr A for the disputed transactions totalling £9,800. In its final 
+response letter, it pointed out that to authorise transactions needed the Secure Key, and the 
+correct PIN, and the answer to a personalised security question. And payments to set up a 
+new beneficiary also needed an individual code to be generated from the Secure Key. HSBC 
+said that account holders are required to keep their personal security information secure  
+which Mr A said hed done.
+W Ltd, represented by Mr A, wasnt satisfied and complained to this service. 
+Our investigator didnt uphold W Ltds complaint. She noted that Mr A needed to enter a PIN 
+in order to get the code from the Secure Key, which Mr A said he hadnt written down. The 
+Secure Key was on his computer, which was still in Mr As possession. So it was unlikely 
+that any third party would have been able to access the Secure Key, and guess the correct 
+PIN. The investigator also pointed out that £7,200 had been left in the account  and any 
+fraudster would have been likely to have taken as much as possible. So she considered Mr 
+A had authorised the transactions himself.
+Mr A didnt agree and asked for an ombudsman decision. He said that what the investigator 
+had said was circumstantial, such as the fact that a balance of £7,200 remained after the 
+disputed transactions. He said that the account had a daily withdrawal limit of £10,000. So 
+Mr A said that whoever made the withdrawals must have known this, or must have tried to 
+withdraw more and couldnt. Mr A wanted to know where the money had gone to  which 
+bank, who owned the account, and whether this individual had been investigated and asked 
+to explain why they had the money in their account. He said he didnt know if hed been 
+hacked, but he didnt authorise the payments.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+What the regulations say
+There are regulations which govern disputed transactions. The relevant regulations for 
+disputed transactions taking place on 22 December 2020 are the Payment Services 
+Regulations 2017. These say that the payment service provider (here, HSBC) must show the 
+transaction was authenticated. Thats the technical part, and here, HSBCs computer records 
+show that W Ltds password and one-time-passcode were entered correctly.
+The regulations also say that its necessary to look at whether the card holder authorised the 
+payments. In general terms, the bank is liable if the customer didnt authorise the payments, 
+and the customer is liable if he did authorise them. 
+In Mr As response to the investigators view, he asked that investigation should be done into 
+the recipient of the funds. But, as Ive explained above, thats not the relevant question here 
+given what the relevant regulations outline. What matters is the outgoing side of the payment 
+ whether it was properly sent out, and by whom. Its about whether the technicalities were 
+properly conducted, and whether the account holder was the person who authorised it.  Who 
+that money was sent to isnt relevant here. 
+Who carried out the disputed transactions?
+The disputed transactions were carried out using W Ltds security credentials. And Mr A said 
+that he hadnt disclosed W Ltds security information to any third party. So its hard to see 
+how anyone else could have carried out the transactions.
+After the two disputed transactions were carried out, there was still £7,200 in W Ltds 
+account. Its most unlikely that any fraudster would have left this amount of money in an 
+account to which they had access. Mr A has argued that whoever made the withdrawals 
+must have known there was a daily withdrawal limit of £10,000, or must have tried to 
+withdraw more and couldnt. I dont accept this. First, theres no explanation about how a 
+fraudster would have known there was a £10,000 daily limit  or if they had, why theyd have 
+withdrawn £9,800 rather than£10,000. Secondly, computer records will often show failed 
+login attempts  and there werent any here in a way that Id expect if someone had been 
+trying to access the account without authority. So whoever made the disputed withdrawals 
+didnt try to withdraw more and find they couldnt.
+ 
+Ive also looked at timescales.  All logins are recorded. The last time W Ltds account was 
+logged into, before the disputed transactions on 22 December, was 15 November. Mr A 
+logged in on 22 December just three minutes after the log off for the disputed transactions, 
+and then reported the transactions as fraudulent. Mr As own security credentials were used 
+for the disputed payments, and I think its much more likely that Mr A carried out the 
+transactions himself, rather than that a third party fraudster carried them out and Mr A then 
+just happened to log on and see them just three minutes later. 
+Taking all these factors into account, I consider its more likely than not that Mr A carried out 
+the disputed withdrawals on W Ltds account. So I dont require HSBC to refund W Ltd.My final decision
+My final decision is that I do not uphold this complaint. 
+Under the rules of the Financial Ombudsman Service, Im required to ask W and W to accept 
+or reject my decision before 5 November 2021.
+ 
+Belinda Knight
+Ombudsman

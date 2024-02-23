@@ -1,0 +1,103 @@
+DRN-2501295
+The complaint
+Mrs G complains that Monzo Bank Ltd wont refund a transaction she didnt authorise. 
+The full details of the complaint are well known to both parties, so I wont repeat them again 
+in full here. Instead, Ill recap the key points and focus on giving the reasons for my decision. 
+Mrs G had set up a small self-employed business during the pandemic. She was 
+selling on-line and had set up a PayPal account to send and receive business 
+payments. A customer had sent funds to her PayPal account, but they were being 
+held for some reason. Mrs G searched for a number to call PayPal so that she could 
+arrange for the funds to be released and found a number on-line. 
+She called the number and got through to someone purporting to be PayPal. She 
+gave them her email address and said they knew all of her account information 
+without her sharing her password. After the line cut out, they called her back asking 
+for her Monzo long card number and expiry date (which was connected to her PayPal 
+account) for verification. She was told she needed to transfer money into her Monzo 
+account before they would believe she was a business. 
+Mrs G transferred £1,000 into her Monzo account. Almost immediately, Mrs G saw a 
+transaction leave her account for £995.98. It was at this point, Mrs G realised she 
+had been the victim of a fraudster and she reported the matter to Monzo. Further 
+transactions were attempted by the fraudster but werent successful. 
+ What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I agree with the conclusions reached by the investigator for the following 
+reasons. 
+In-line with the Payments Services Regulations 2017 (PSRs) (which are applicable to 
+the transaction in question), Mrs G isnt liable for payments she didnt authorise, 
+unless she failed with gross negligence, or intent, to comply with the terms of the 
+account or keep her personalised security details safe.  
+Under section 77(4)(d) of the PSRs, except where a payer has acted fraudulently, the 
+payer is not liable for any losses incurred in respect of an unauthorised payment 
+transaction where the payment instrument has been used in connection with a 
+distance contract. A distance contract means a contract concluded between a trader 
+and a consumer under an organised distance sales or service-provision scheme, 
+without the simultaneous physical presence of the trader and the consumer subject 
+to some exemptions (as per regulation 5 of the Consumer Contracts (Information, 
+Cancellation and Additional Charges) Regulations 2013. There isnt any provision 
+within this part of the PSRs that holds Mrs G liable for the transaction if it was 
+unauthorised, even if she acted with gross negligence (which I make no finding about 
+here). 
+The transaction made on Mrs Gs account was made to an overseas on-line 
+business. As the payment instrument was used in conjunction with a distance 
+contract, gross negligence isnt a factor for my consideration. Under the PSRs Monzo 
+can only hold Mrs G liable for it if she either authorised the transaction or she acted 
+fraudulently. There is no persuasive evidence, nor has Monzo sought to argue, that 
+she acted fraudulently. Therefore, my consideration is solely in relation to whether 
+Mrs G authorised the transaction. 
+Monzo has said that Mrs G authorised the transaction as she completed the 3DS 
+authentication required. It also said she has used this process many times and so is 
+familiar with it. I understand the 3DS process involves a message to the account 
+holders personal device, and confirmation is sought to confirm or cancel the 
+payment transaction and either a PIN or fingerprint/face recognition software is used 
+to conclude that part of the process. However, authentication is only part of the 
+process of a payment being authorised. Under section 67 of the PSRs, a payment 
+transaction is regarded as having been authorised if the payer consents to it ((1)(a)) 
+and that consent must be given in the form, and in accordance with the procedure, 
+agreed between the payer and its payment service provider ((2)(b)). 
+I have considered Monzos terms and conditions which it told us where applicable at 
+the time of the transaction.  These are silent on the form and procedure required to 
+authorise a transaction. Our investigator made a reasonable assumption of the 
+process here as:
+oA requirement to enter the card details into the merchants website, which 
+most likely would have been the long card number, the expiry date and the 
+three digits from the back of her card; and
+oThe payment would need confirming through her mobile app.
+Monzo has not sought to correct that understanding and so I have proceeded on the 
+same basis. 
+Monzo appears to accept Mrs G wasnt actually speaking with PayPal but a 
+fraudster. But it has argued the payment wasnt considered fraudulent as Mrs G 
+willingly gave the fraudster her card details and then authenticated the payment; it 
+said it had no rights to raise a chargeback with the card scheme provider. However, it 
+doesnt seem that Monzo has given any consideration to the fact she provided the 
+details in order to comply with a verification request and not to make a payment from 
+her Monzo account. So whilst she might have willingly given her card details, this 
+wasnt to facilitate the making of a payment. As it wasnt Mrs G who completed the 
+initial steps required for authorising the payment (the inputting of the payment details 
+on the merchants website) and it doesnt appear she wasnt aware, or realised, this 
+was happening (she was attending to a child at the time this was taking place), it 
+follows that in accordance with section 67 of the PSRs she did not authorise the 
+transaction.  It follows that under section 77(4)(d) it cant hold her liable for it and so it 
+needs to put that right.
+Monzo has made much of it not being able to raise a chargeback. But that ignores its 
+obligations under the PSRs. Under section 76(1) and (2), a payment service provider 
+must refund the amount of an unauthorised transaction and this should be done as 
+soon as is practicable. Mrs G has been left without needed funds through what has 
+been a very difficult time, given her and her familys limited income due to the 
+pandemic. I understand this has caused Mrs G a lot of worry about her and her 
+familys finances and how they were going to meet everyday expenditure. I therefore 
+find that in addition to putting right her liability for the transaction, it also needs to 
+compensate Mrs G for the impact it not refunding the transaction had.  I find £200 to 
+be a fair reflection of that impact, outside of the financial loss she suffered.  
+My final decisionFor the reasons given, my decision is that I uphold Mrs Gs complaint and I require Monzo 
+Bank Ltd to:
+Pay Mrs G the total of the unauthorised transaction - £995.98. 
+Pay 8% simple interest per year on this amount, from the date of the unauthorised 
+transaction to the date of settlement (less any tax lawfully deductible).
+Pay Mrs G £200 for the distress and inconvenience caused by the way Monzo has 
+handled this matter.  
+Under the rules of the Financial Ombudsman Service, Im required to ask Mrs G to accept or 
+reject my decision before 19 February 2021.
+ 
+Claire Hopkins
+Ombudsman

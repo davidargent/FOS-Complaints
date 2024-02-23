@@ -1,0 +1,138 @@
+DRN-3540265
+The complaint
+Ms Z is complaining that IG Markets Limited (IG) upgraded her contract for difference (CFD) 
+trading account to a professional trader account, increasing the risk she was exposed to and 
+increasing her losses. Shes also complaining about how IG handled her data subject access 
+request (DSAR). 
+What happened
+Ms Z held a CFD account with IG. Shed been classified as a retail client when she opened 
+the account but received emails from IG in December 2017 offering her an upgrade to 
+professional status. IG explained they were offering the upgrade because they believed 
+margins might increase significantly for retail clients but professional clients wouldnt be 
+affected. Ms Z decided to apply for professional elective status  and IG approved this on 11 
+June 2018.
+Towards the end of 2020, Ms Z asked IG to send her a copy of all the data they held about 
+her. Over the course of the next couple of months, she chased IG repeatedly, and explained 
+that she wanted to understand how theyd decided to approve her as a professional trader. 
+IG set up two complaints on Ms Zs behalf  one about the DSAR, and one about her 
+professional trader application. 
+Ms Z and IG exchanged lengthy correspondence about Ms Zs professional trader 
+application and Ms Z concluded that IG hadnt followed the Financial Conduct Authority 
+(FCA) rules which dictate what businesses must do when approving a customer as a 
+professional trader. IGs final response was that they had done enough  but Ms Z continued 
+to disagree so she brought her complaint to our service.
+Our investigator looked into things. She said Ms Zs complaint about the DSAR would be 
+better dealt with by the Information Commissioners Office (ICO). Then she went through the 
+FCAs rules about upgrading clients and came to the conclusion that IG shouldnt have 
+classified Ms Z as a professional client. She said IG should refund to Ms Z the difference 
+between the losses made as a professional client and the losses she would have made if her 
+account hadnt been upgraded.
+Ms Z agreed with our investigators assessment that IG hadnt complied with the rules but 
+she didnt with the redress  she thought IG should refund all her losses since the account 
+had been upgraded. She said she wouldnt have carried on trading if they hadnt upgraded 
+her account and offered her higher leverage.
+IG however, didnt agree. In their responses to our investigators view they said they 
+remained of the view that Ms Z met the requirements of the quantitative test set by the FCA. 
+They asked for an ombudsmans decision  so its come to me.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, Ive reached the same conclusion as our investigator. Ill explain why.
+DSAR
+As our investigator set out in her view, if Ms Z thinks IG has breached the rules around 
+DSARs she needs to take this up with the ICO. Ms Z hasnt commented further on this 
+aspect of the complaint and its clear her main issue is with IG approving her application to 
+have her account upgraded. Ive seen no evidence that IG didnt treat Ms Z fairly when 
+dealing with her DSAR. So Ive focussed the rest of this decision on the re-categorisation. 
+FCA requirements
+Because upgrading from retail to professional status has a significant impact on the level of 
+protection given to a client, the FCA has strict rules about how clients are categorised. 
+Theyre set out in the Conduct of Business Sourcebook (COBS), section 3.5. COBS 3.5.3R 
+sets out three distinct tests, all of which needed to be met for Ms Z to be categorised as a 
+professional client. In my decision Ive just looked at the second part, known as the 
+quantitative test. Ive concluded that Ms Z didnt meet the requirements of that test  so I 
+dont need to consider the rest of the paragraph 3.5.3R. 
+The quantitative test requires that two of the following three criteria are satisfied:
+(a) the client has carried out transactions, in significant size, on the relevant market at an 
+average frequency of 10 per quarter over the previous four quarters;
+(b) the size of the client's financial instrument portfolio, defined as including cash deposits 
+and financial instruments, exceeds EUR 500,000;
+(c) the client works or has worked in the financial sector for at least one year in a 
+professional position, which requires knowledge of the transactions or services 
+envisaged
+In addition, COBS 3.5.6R requires that firms take all reasonable steps to ensure that the 
+client requesting to be treated as an elective professional client satisfies the  relevant 
+quantitative test. So its not enough for a firm to accept a clients declaration or to make 
+assumptions.
+IG decided that in Ms Zs case, parts (a) and (c) were satisfied. So I wont comment on part 
+(b).
+Part (a)  frequency and size of transactions
+IG said that although Ms Z hadnt traded in all of the four quarters leading up to her 
+application shed held her account for several years and had placed well over a thousand 
+trades of a significant size. So they were comfortable that shed carried out transactions at 
+an average frequency of over ten per quarter over the previous four quarters.
+I can understand IGs perspective. Looking at Ms Zs trading history and using a simple 
+mathematical average over the year leading up to June 2018 does result in an average of 
+more than 10 significant trades per quarter.
+But the wording of COBS 3.5.3 refers specifically to four quarters rather than a year. And 
+this seems significant to me. Ms Zs trading history shows no transactions at all between 11 June 2017 and 11 September 2017  the first of the relevant four quarters. So I looked at the 
+additional guidance available from the European Securities and Markets Authority (ESMA). 
+Their Questions and Answers document includes the following:
+Question 5 [Last update: 25 May 2018] 
+How should an investment firm assess whether a private individual client meets the 
+conditions under the first limb  where such investor has been trading on the relevant 
+market for less than a year? 
+Answer 5 
+Clients who have been trading on the relevant market for less than a year cannot fulfill the 
+conditions imposed by the first limb .... This is because, to assess whether a client meets 
+such conditions, investment firms shall review the clients trading history on the relevant 
+market over the past four quarters. For the avoidance of doubt, a lack of one-year trading 
+history on the relevant market does not prevent clients from meeting the conditions set 
+out in limbs two and three...
+I appreciate this question and answer doesnt exactly fit Ms Zs circumstances  she had 
+traded for more than a year. But when I looked more closely at Ms Zs trading history, I saw 
+that thered only been five trades before 11 June 2017, and the last of these had taken place 
+in August 2016. And I noted that the total amount Ms Z had deposited was only £200. With 
+such a small level of trading quite some time in the past, I think its reasonable to apply this 
+question and answer to Ms Z and treat her as if shed been trading for less than a year.
+The answer is quite clear that clients trading for less than a year cant meet the condition  
+because they havent been trading throughout the past four quarters. Within their 
+submissions, IG also said they assumed Ms Z had been trading elsewhere, as well as with 
+IG. But Ms Z told us IGs platform was the only one shed ever traded on. 
+On that basis, Ive concluded IG didnt do enough to determine whether Ms Z passed this 
+aspect of the quantitative test. And if theyd investigated further, theyd have likely found that 
+Ms Z had no other trading accounts and therefore doesnt satisfy part (a) of the quantitative 
+test.
+Part (c)  Ms Zs work
+Theres no dispute that Ms Z worked in the financial sector for at least one year. In an email 
+to IG, she wrote: 
+I have been working in financial industry since 2008. My previous & current employers are 
+futures and options brokers. I have gain knowledge of derivatives during my daily work. The 
+products I get exposure with include, commodities futures and options and forex.
+What isnt completely clear is whether Ms Z had worked in a professional position for at 
+least a year. The ESMA question and answers again give some clarity here. Answer 3 says 
+a firm: must ensure that the position was professional in nature.
+Ms Z had told IG she was an accounts executive and that this had given her knowledge 
+and understanding of derivative products. IG relied on this and Ms Zs statement above to 
+determine that Ms Z met the criteria in part (c). Im not persuaded that IG did enough to 
+ensure that Ms Zs position was professional in nature. I dont need to make a finding on whether or not Ms Z should have passed part (c)  
+because she should have failed part (a) and theres no suggestion that Ms Z would have 
+passed part (b).
+Putting things right
+Ms Z says she wouldnt have traded at all without the additional leverage available from 
+being a professional client. But shed made a large number of trades, at an overall profit, 
+before her account was upgraded, so Im not persuaded by her statement. I think she would 
+have continued to trade.
+IG should not have upgraded Ms Zs account. So they should calculate the total profit or loss 
+shed have made if shed made the same trades but within the limitations of a retail account. 
+They should then refund to Ms Z any difference between that figure and the losses Ms Z did 
+make after the account was upgraded.
+My final decision
+As Ive explained above, Im upholding Ms Zs complaint. IG Markets Limited (IG) need to 
+calculate the profit or loss shed have made as a retail client and refund her any difference 
+between that figure and the losses she made as a professional client. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Ms Z to accept or 
+reject my decision before 20 April 2023.
+ 
+Clare King
+Ombudsman

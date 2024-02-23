@@ -1,0 +1,104 @@
+DRN-4075360
+The complaint
+3 complain that Santander UK Plc failed to refund a transaction they didnt recognise.
+What happened
+3 are a company, represented here by Mr S. Ill generally refer to him throughout this 
+decision as he was principally involved with the complaint.
+Mr S logged on to the companies online banking account and noticed a bank transfer that 
+had taken place earlier that day. He didnt recognise this and contacted Santander about the 
+payment which was for in excess of £19,000.
+Santander looked into the payment and notified the beneficiary bank about the payment. 
+Later, about £8,000 was returned from this account to 3s account. After looking into the 
+circumstances, Santander believed that 3 had authorised the payment and declined to 
+refund the outstanding amount to them.
+Mr S, on behalf of 3 complained about this and believed his computer had been hacked 
+which was the reason for the loss of his funds. Santander didnt change their position, 
+although they did recognise theyd given poor service to 3 when a letter about the 
+investigation wasnt sent when it should have been. They later provided £50 to recognise the 
+lack of service provided to 3.
+3 were unhappy with how Santander had handled their complaint and then brought it to the 
+Financial Ombudsman Service for an independent review where it was looked into by one of 
+our investigators. Both parties were asked for information about the complaint and 3 said:
+Their IT suppliers had confirmed the company account (email etc) had been 
+compromised.
+3 hadnt given anyone else access to their accounts or divulged the login security 
+information to third parties.
+3 used an integrated software package that tied into their mobile phone text 
+messages.
+When 3 where first asked about account security they said that the login 
+details/passwords were written down and kept in the company safe. In a later 
+submission (after the complaint was dealt with by the investigator) they then said 
+those details were saved within their web browser and available to someone who had 
+taken over the company computers.
+3 werent responsible for the unrecognised payments and were due a refund of the 
+full amount.
+Santander provided details about the payment, including audit data showing that the online 
+account was logged onto using the correct details issued to 3, from the same IP address as 
+normally used by them and the payment was confirmed after a One Time Passcode (OTP) 
+was sent to the companies registered mobile phone. Santander couldnt find any evidence 
+that indicated the account had been compromised.
+After reviewing the evidence, the investigator thought it was reasonable for Santander to 
+hold 3 liable for the transaction and didnt uphold the complaint.
+Mr S, on 3s behalf, disagreed with the outcome and asked for a further review of the 
+complaint, providing some further details about their systems and a copy of a response from 
+their IT provider.
+As no agreement could be reached, the complaint has ow been passed to me for a decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+The relevant law surrounding authorisations are the Payment Service Regulations 2017. The 
+basic position is that Santander can hold 3 liable for the disputed payments if the evidence 
+suggests that its more likely than not that they made them or authorised them. 
+Santander can only refuse to refund unauthorised payments if it can prove 3 authorised the 
+transaction, but Santander cannot say that the use of the internet banking account 
+conclusively proves that the payments were authorised. 
+Unless Santander can show that consent has been given, it has no authority to make the 
+payment or to debit 3s account and any such transaction must be regarded as 
+unauthorised. To start with, Ive seen the banks technical evidence for the disputed 
+transactions. It shows that the transactions were authenticated using the payment tools 
+issued to 3. Ill now need to consider the information provided by both parties to determine 
+whether theres sufficient evidence to hold 3 responsible for the disputed transaction or not.
+3s case is that their computer system was compromised which led to the disputed 
+transaction. In order for me to uphold this complaint, I would have to be satisfied, on the 
+balance of probabilities, that the compromise is the most likely explanation of what 
+happened in light of the available evidence.
+3 have produced some evidence that their supplier acknowledged theyd been hacked, 
+although theres no detail about any investigation that may have been carried out to 
+determine the extent of such a hack. 
+Login credentials are required to access any online account and here the version of events 
+has changed from the initial information passed to our service. Firstly, it was said that these 
+details were written down and kept securely away from the computer (which would make 
+accessing the account extremely unlikely without these details), but after the complaint 
+wasnt upheld by the investigator, the information changed to show those credentials were 
+saved in the web browser. Its difficult to be certain here of what the actual situation was 
+because the story has evolved. 
+3 also said they used a software system to deal with their texts, which could also account for 
+the OTP being seen by the hackers and used to confirm the payment. 
+Santander provided IP address data about the payment. This is information about those 
+devices and networks used to access their online account. The information shows that the 
+same IP address was used to carry out both undisputed account activity and the disputed payment. What that means here is that its likely it was the same device used on these 
+occasions. If a third party was involved in making the disputed transaction, Id expect to see 
+some anomaly in this type of information, such as different IP addresses. 
+Of course, it could be technically possible to do this through 3s computer, but that would 
+mean risking Mr S actually seeing various actions taking place on his computer that he 
+wasnt controlling. 
+When I also consider that there was an incoming large payment on the same day that 
+effectively funded this outgoing payment and that several thousand pounds were left in the 
+account, it doesnt seem that a third party was responsible. Any thief attempting this hack 
+to take over the account would most likely only be doing it for financial gain, so would be 
+unlikely to leave funds in the account, which didnt happen here. The remaining funds could 
+easily have been taken at the same time, especially if, as 3 state, the hackers had 
+breached the online account so they would know the available balance. 
+Even if I was persuaded the login credentials were kept in the web browser (and therefore 
+available to any hacker), Id still be unlikely to uphold this complaint because the available 
+evidence doesnt support that it was an unauthorised third party who was responsible. On 
+balance, and taking the available evidence into account, I think it more likely than not that 3 
+are responsible for making this payment and it was reasonable for Santander to hold them 
+liable for it.
+My final decision
+My final decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask 3 to accept or 
+reject my decision before 12 May 2023.
+ 
+David Perry
+Ombudsman

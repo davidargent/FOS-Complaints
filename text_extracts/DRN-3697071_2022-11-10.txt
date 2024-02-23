@@ -1,0 +1,146 @@
+DRN-3697071
+The complaint
+Miss K has complained that Barclays Bank UK PLC wont refund her for transactions she 
+says she didnt make or authorise totalling just over £5,000. 
+What happened
+Miss K has an account with Barclays. Between 9 and 12 February 2022, a series of 
+transactions were made to a company that buys and sells cryptocurrencies, which I will call 
+M. The transactions were made using Barclays Mobile Banking app (BMB), which was linked 
+to Miss Ks current account.
+The transactions were funded by six transfers of just over £7,000 which were made into 
+Miss Ks Barclays account from an account she held with another bank, which I will refer to 
+as L. The transfers were made into Miss Ks Barclays account on 9, 11 and 14 February 
+2022.
+On 12 February 2022, Miss K told Barclays that she hadnt made any of the payments to M. 
+And that she didnt have an account with M. She explained that she couldnt have made the 
+transactions because she was working at the time and didnt have access to her mobile 
+phone, which she says was in her bag. 
+Miss K says that when she called Barclays to report the matter, the bank told her a different 
+mobile phone number had been used to make the disputed transactions. Shes unhappy that   
+the bank hadnt sent her any notifications about the transactions that might have alerted her 
+to the fraud taking place.
+ 
+Miss K has also explained that she didnt make the transfers from her bank account with L, 
+which funded the disputed transactions. So, she believes someone had managed to get hold 
+of her all her account information to use.
+Barclays looked into Miss Ks fraud claim and decided not to refund the disputed 
+transactions. In summary the bank said:
+The IP address used to make the disputed transactions matched undisputed 
+transactions Miss K had made and was still being used up to May 2022
+The transactions were authenticated via a notification in BMB that was confirmed 
+using Miss Ks registered mobile banking device and usual IP address
+The device ID used for BMB has been the same since September 2021
+There were undisputed payments in between the disputed transactions
+Miss K denied any knowledge of M. But evidence showed an account was opened 
+using Miss Ks driving licence and a photograph of herself
+Miss K wasnt happy with the banks response. She maintains she never made the 
+transactions. And that someone else has managed to obtain her account information to carry 
+out the payments.
+One of our investigators looked into Miss Ks complaint. He asked Miss K some more 
+questions about what had happened. Miss K explained that she didnt have access to her 
+mobile phone at the time the disputed transactions were made because she was at work. 
+She says she also reported the matter to L as she said she didnt make the transfers out of 
+the account she had with L. But she wasnt able to provide any evidence to support this. 
+The investigator didnt uphold Miss Ks complaint. He said the IP address and device used to 
+access BMB had been regularly used by Miss K and was still being used up to May 2022. 
+He also said that the evidence showed Miss K had set up an account with M. And that there 
+were undisputed payments in between the disputed transactions. So, he said Miss K had 
+most likely authorised the disputed transactions.
+ 
+Miss K disagreed with what the investigator said. She said she didnt carry out the 
+transactions and Barclays should have been checking her account and stopped the 
+transactions from being made. She explained that because of the transactions her mental 
+health had suffered.
+ 
+As no agreement could be reached the matter has come to me to decide.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+There are regulations which govern disputed transactions. Generally speaking, if the 
+evidence suggests its more likely than not that Miss K authorised the payments, Barclays is 
+entitled to hold her liable for the disputed transactions. The relevant regulations, to this 
+effect, are the Payment Services Regulations 2017 (the PSRs 2017). 
+Having looked at all the evidence, which includes the technical evidence provided by 
+Barclays, I dont think its unreasonable for Barclays to have concluded that Miss K 
+authorised the transactions. I say this because:
+Mrs Ks BMB was logged into shortly before the disputed transactions on 10 ,11 and 
+12 February 2022. Logging into this requires a five digit passcode which customers 
+create themselves when registering for BMB. Miss K says she hasnt disclosed this to 
+anyone.
+Miss K has said that she hadnt lost her mobile phone and it hadnt been stolen. And 
+the mobile phone required a PIN to unlock it, which Miss K says wasnt disclosed to 
+anyone. So, theres no reasonable explanation for how an unknown third party would 
+be able to gain access to Miss Ks BMB app via her mobile phone to carry out the 
+disputed transactions.
+The records show that Miss Ks registered mobile phone was used for the logins to 
+make the disputed transactions. And theres no evidence that the mobile phone 
+device was changed as Miss K has suggested.
+The IP address used to make all the disputed transactions was one which had 
+consistently been used for previous logins before the disputed transactions  and 
+which continued to be used for logins after the disputed transactions to make 
+undisputed transactionsThere were no failed attempts to log into the BMB app either before or after the 
+disputed transactions
+The investigator also spoke to Miss Ks former employer who confirmed that Miss K 
+would have been required to have her mobile phone on her person whilst at work. 
+The technical evidence also shows that the majority of the transactions were made 
+outside the times Miss K said she was at work (9am  2pm).
+The disputed transactions took place over four days at various times. This would 
+mean a third party would have had to take and replace Miss Ks mobile phone 
+without being noticed over several days and at different times. I dont think that an 
+unknown third party would risk taking Miss Ks mobile phone, replacing it, taking it 
+again, completing further transactions and then returning it. This back and forth 
+wouldve created an unnecessary risk of alerting Miss K that fraudulent transactions 
+were taking place. Its more typical for the account to be used as quickly and for as 
+much as possible. But this didnt happen.
+Each of the disputed transactions went through an additional layer of security to 
+authenticate the payments. In this case a message was sent to confirm the payment 
+as genuine. The technical evidence shows that each payment was confirmed, using 
+an IP address that has over 100 matches on Miss Ks BMB login details. In addition, 
+the device ID used was Miss Ks registered mobile phone which was registered on 
+1 September 2021. Therefore, there is no evidence of any other third-party device 
+access or registrations.
+The disputed transactions were made to a cryptocurrency company, M, which 
+requires customers to set up an account to purchase cryptocurrencies. As part of its 
+account opening procedures customers have to provide a photograph of themselves 
+along with photo identification. Ive been provided with evidence obtained from M 
+which shows Miss K set up an account with it and provided her driving licence and a 
+photograph of herself. So, Im satisfied that Miss K is aware of M and did set up an 
+account  contrary to what shes told us.
+It doesnt seem likely to me that anyone would defraud Miss K like this if ultimately 
+any money went back to her (via M) and the thief didnt make any profit. And had no 
+way of accessing the funds. 
+The disputed transactions reduced Miss Ks account balance and I can see that she 
+logged into BMB and checked her balance during this period. I think she wouldve 
+noticed the transactions much sooner than shes said she did as her account balance 
+was reducing. So, I think if she hadnt authorised them, she wouldve raised this with 
+the bank at the time. But she didnt alert Barclays until after the last disputed 
+transaction was made.
+Despite being asked by the investigator Miss K hasnt provided any evidence that 
+she reported fraudulent activity to L. I also find it quite unusual that a fraudster would 
+go to the trouble of accessing Miss Ks other bank account and move money from it 
+over a number of days, to another of her accounts in order to then make a number of 
+payments to M. Usually a fraudster will try and maximise the usage of an account in order to get the greatest benefit from the account before the account holder notices 
+their funds are missing and the card is cancelled. But this didnt happen. 
+I recognise that Miss K has said that she didnt authorise the payments. But based on the 
+evidence Ive looked at I cant see how an unknown fraudulent third party could have 
+obtained all of Miss Ks security information and device and be in Miss Ks normal location 
+with all of these while making the payments. When I weigh everything up, on balance, the 
+most likely explanation here is that Miss K made the disputed transactions herself.  So, in 
+the circumstances it wouldnt be fair for me to ask Barclays to refund Miss K the disputed 
+transactions. 
+Finally, Miss K has said that  Barclays should have spotted the transactions and stopped 
+them from going through. So, the banks at fault. But Im firstly not satisfied that the 
+transactions were necessarily that unusual for Barclays to have queried them. They were 
+done after logging in using Miss Ks most often used IP address and using her BMB login 
+and codes, using her registered phone, and using details taken from her genuine card. So, I 
+dont consider there were any obvious reasons for Barclays to suspect these transactions 
+might not be genuine. And I cant decide she didnt authorise them just because Barclays 
+didnt block the payments. I have to look at the evidence, which in my view connects Miss K 
+to the disputed transactions. And Ive set this out above. 
+My final decision
+For the reasons Ive explained, my final decision is that I dont uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Miss K to accept 
+or reject my decision before 8 December 2022.
+ 
+Sharon Kerrison
+Ombudsman

@@ -1,0 +1,123 @@
+DRN-4312423
+The complaint
+Mr S complains that Barclays Bank UK PLC failed to refund a transaction he didnt 
+recognise.
+What happened
+What Mr S says
+Mr S explained that he left his phone and debit card in his jacket pocket whilst at an event 
+with other people. He said he went upstairs and later, when he came downstairs, his phone 
+was missing. Some hours later the phone reappeared. 
+During that time, a transaction was made from his account using his phone and debit card 
+which Mr S didnt recognise. He contacted Barclays about the payment and asked for a 
+refund. 
+Barclays raised a fraud claim but then suffered a series of problems with the progress of the 
+investigation. They didnt think that Mr S had returned paperwork theyd sent him and closed 
+the investigation. They later realised Mr S had returned it within the timescales they set. 
+There were further problems with the investigation which resulted in Barclays offering a 
+small payment to Mr S to recognise their handling of his claim.
+Barclays declined to make a refund for the payment that Mr S didnt recognise, believing he 
+was responsible for it. Mr S raised a complaint, but Barclays didnt change their position and 
+Mr S then brought his complaint to the Financial Ombudsman Service for an independent 
+review.
+An investigator was assigned to look into the complaint and asked both parties for 
+information about the circumstances.
+Mr S explained that after leaving his phone and debit card in his jacket pocket, a payment 
+was made using the online banking app on his phone. He was upstairs at the time and other 
+people were in the same property. He said he was drunk, and others could have seen him 
+enter his passcode for his phone which he thinks was the same for his online banking. Mr S 
+said his debit card was still in his wallet and his phone was returned to him within a day or 
+so. 
+Barclays said that they couldnt see how anyone else had compromised Mr Ss account. 
+They confirmed the payment was made from his normal device (phone), using an IP address 
+that hed used before. Also, that a five digit security code was required to access the online 
+banking app. The new payment was confirmed after a separate One Time Passcode (OTP) 
+that was sent to his phone. This was required to be input into the banking app in order to 
+authorise the new payee.
+Note: IP addresses are a means to identify physical locations that online transactions are
+connected to and can be the actual physical location or other locations connected to the
+provider of the data services.
+After reviewing the evidence, the investigator didnt uphold Mr Ss complaint. It was stated 
+that:
+There was no evidence to suggest how someone had obtained security details to 
+bypass the phone and the banking app and use the OTP.
+There were additional log ins to the banking app around the time of the disputed 
+transaction, including a transfer to an existing payee.
+Overall, there was no evidence to support another person being involved in the 
+transaction.
+Mr S disagreed with the investigators outcome and further stated:
+He denied hosting a party.
+He was at a friends house after an argument with his family.
+It wouldve been reported to the police, but Mr S didnt know everyone at the house.
+Mr Ss SIM card was in a Nokia phone and not the main one he used for his banking 
+The Nokia phone didnt have a passcode and wouldve been easy to access.
+He confirmed his passcodes for the phone and the banking app were the same.
+As no agreement could be reached, the complaint has now been passed to me for a 
+decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+The relevant law surrounding authorisations are the Payment Service Regulations 2017 and 
+the Consumer Credit Act 1974. The basic position is that Barclays can hold Mr S liable for 
+the disputed payments if the evidence suggests that its more likely than not that he made 
+them or authorised them. 
+Barclays can only refuse to refund unauthorised payments if it can prove Mr S authorised the 
+transactions, but Barclays cannot say that the use of the internet banking app conclusively 
+proves that the payments were authorised. 
+Unless Barclays can show that consent has been given, it has no authority to make the 
+payment or to debit Mr Ss account and any such transaction must be regarded as 
+unauthorised. To start with, Ive seen the banks technical evidence for the disputed 
+transactions. It shows that the transactions were authenticated using the payment tools 
+issued to Mr S. Ill now need to consider the information provided by both parties to 
+determine whether theres sufficient evidence to hold Mr S responsible for the disputed 
+transactions or not.
+Mr S is disputing one large payment made using his banking app that was operated from his 
+mobile phone. In order to make the transaction, both the phones security code and the 
+banking apps security code was required. Mr S says he hadnt told anyone else about the 
+code (or any of his banking codes/passwords) and the phone had the same five-digit passcode as his banking app.
+He believes someone saw him entering the code whilst at a premises with other people, 
+some of whom he didnt know. Having looked at the security settings for his phone he had at 
+the time, the manufacturers information says the phone can have a standard six-digit code, a 
+four-digit code or a longer alpha numeric code. I couldnt see anywhere where it could have 
+a five-digit code.
+Of course, it may be possible to put a five-digit code in, but I also have to consider the 
+broader circumstances described by Mr S. He says (in his earlier call with our service) that 
+he was hosting a party and was drunk. He also said his phone was in his jacket pocket left 
+downstairs whilst he was upstairs. 
+In his response to the investigators outcome, Mr S introduced that he had another phone 
+with the SIM card in (it would be the phone with the SIM card that would receive the OTP), 
+which would make it easy for someone to access the OTP in order to finalise the transaction 
+made using the internet banking app. This was new information to the complaint and 
+changed somewhat Mr Ss earlier version of events.
+Originally hed only spoken of his main phone being in his jacket pocket and being taken, to 
+be returned later. Mr S didnt mention another phone which now seems to have received the 
+OTP but was unlocked and easy to access. Its not clear if this was taken at the time with his 
+other phone/returned or just left wherever it was originally. I found the change in events 
+difficult to comprehend, particularly when M S had already told our service what had 
+happened.
+He's disagreed with the description of the party and whether he was hosting it, but for the 
+purposes of this complaint, I dont think its particularly relevant. What is relevant is how 
+likely is it that someone can successfully bypass two sets of security and make a payment 
+from his account to confirm it via OTP?
+Looking at the log ins to the banking app, Mr S made various transfers both before and after 
+the disputed one but didnt raise the fraud claim with the bank until about four days after it 
+happened. Hes said he raised it when he first noticed it, but at the time he was sending 
+payments to a regular payee and because of this transaction, the account was well into an 
+overdraft. Im surprised he didnt notice the disputed transaction as it was the single largest 
+one made through the account by some margin.  
+After an objective review of Mr Ss complaint, I think its implausible to conclude they werent 
+authorised without stronger evidence to the contrary. That means I think its more likely than 
+not that Mr S carried out these transactions himself  or that someone else with consent did 
+so. Whilst Im sure Mr S will disagree with me, I wont be asking Barclays to make any 
+payment towards him or remove the debt created by the disputed transaction.
+I noted the mistakes made by Barclays and the compensation they made to Mr S. I dont 
+intend to change this and I think Barclays offer was both fair and reasonable. Mr S also had 
+other complaints relating to treatment he received by Barclays. As this particular complaint 
+was only related to the disputed transactions, I havent further considered any other 
+complaint. If Mr S wishes to bring other complaint(s) to our service regarding any other 
+issues hes raised, hes free to do so.
+My final decision
+My final decision is that I do not uphold this complaint.Under the rules of the Financial Ombudsman Service, Im required to ask Mr S to accept or 
+reject my decision before 18 October 2023.
+ 
+David Perry
+Ombudsman

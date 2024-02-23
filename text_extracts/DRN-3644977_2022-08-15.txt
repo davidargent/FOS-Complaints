@@ -1,0 +1,185 @@
+DRN-3644977
+The complaint
+Mr B complains that Trading 212 UK Limited closed his positions on 20 August 2020 due to 
+insufficient margin and provided no notification as to the margin level dropping.
+What happened
+Mr B opened a position in the May 2020 WTI crude oil futures contract. This was closed by 
+Trading 212 on 20 April 2020 because Mr Bs margin fell below the required level. He 
+thereafter complained to Trading 212 as he had not been given a margin warning before his 
+position was closed.
+Trading 212 didnt uphold the complaint. It said that on the 20 April 2020 the price of oil 
+dropped into negative territory for the first time and his losses were the result of this, extreme 
+volatility at the time and the fact that Mr B had insufficient margin.
+Trading 212 also explained that it was under no legal or regulatory obligation to inform Mr B 
+about his margin level dropping before liquidating his positions. It said it informed him that 
+his positions had been closed due to insufficient margin as soon as this occurred in 
+accordance with the client agreement.
+Mr B didnt agree with Trading 212 and one of our investigators considered it. He wasnt 
+satisfied Trading 212 were required to send an email before closing Mr Bs positions. He 
+also pointed out that Mr B was responsible for monitoring his open positions and ensuring he 
+had enough in his account to cover the margin requirement. He pointed to the fact that Mr B 
+had not read the message about his positions being closed for around 90 minutes and 
+thought this showed he wasnt monitoring his open positions.
+The investigator explained that once the margin requirement had been breached Trading 
+212 had to act and therefore even if it had sent an email it would have had to close the 
+positions.
+Mr B didnt agree with the investigator. He set out the terms of agreement which he said 
+showed that he should have been notified as soon as he failed to provide the required 
+margin and that it was only when the shortage of funds exceeded 50% of margin that the 
+terms referred to closing his positions without prior notice to him.
+The investigator made further enquiries of Trading 212 as to its process given the terms Mr 
+B had referred to and other information which the investigator thought made unclear the 
+point at which it would close positions. It provided further information after which the 
+investigator confirmed that he was still of the view that the complaint shouldnt be upheld. He 
+said that Trading 212 were required to act as soon as the required margin wasnt sufficient 
+and that the terms and conditions didnt require it to allow him time to rectify the situation. 
+So, whilst he said he agreed that Trading 212 should have sent another email as well as the 
+one informing him the positions had been closed he didnt think it would have made a 
+difference if it had sent that email.
+Mr B didnt agree with the investigator and pointed out that the terms meant Trading 212 
+should have sent an email to him at the point that the margin indicator was at 50% which 
+would have been when the required margin was 100%. He said that Trading 212 would then 
+have closed positions when the margin indicator was less than 25% which would be when 
+the required margin was at 50%. He said the time between these two events would have 
+been how long her would have had to rectify the situation, if they had sent the email they 
+should have sent.
+The matter was referred to me for review and I issued a provisional decision, the findings 
+from which are set out below:
+The terms of the agreement and Risk Disclosure Notice make it clear that it is the clients
+responsibility to monitor their account, so that at all times there is sufficient equity to meet
+the margin requirement. Such terms are quite normal between clients and brokers when it 
+comes to execution only accounts involving CFD trading.
+If Mr B had been monitoring his account he would have been aware that his margin was 
+falling and that he needed to put more funds into his account - or close positions - to improve 
+his margin. In the circumstance I think any losses Mr B has suffered arise predominantly 
+from his failure to monitor his margin.
+Having said that, Mr B has raised a specific issue as to what he says Trading 212 were 
+obliged to do  namely notify him when his margin was low before closing his position - 
+which I think it is appropriate for me to make findings on.
+Trading 212 said in its final response to Mr Bs complaint that it was under no obligation to 
+inform him that his margin was dropping and that at no point in the client agreement does it 
+state that it would notify him in advance of his positions being closed due to insufficient 
+margin, just that it will notify him instantly his positions are closed.
+I think there has been some confusion on the part of Trading 212 as to what it had agreed to 
+do which may have been caused by the different terms used and the percentage figures 
+referred to.
+I have seen a reference to a margin indicator (or account status) as well as a margin 
+requirement (or margin). These are two different things - albeit related as Trading 212 has 
+said.
+From the information I have seen a 50% margin indicator equates to the position when the 
+margin requirement is at 100%. At this point Mr B would not be able to open any more 
+positions but his positions would remain open unless he chose to close positions to improve 
+his margin. In the alternative he could add funds to his account to allow him to continue to 
+make trades. It is only when the margin indicator falls below 25% - which is when the margin 
+requirement falls below 50% - that positions will be closed automatically.
+Looking at the terms and conditions, they include the following clauses:
+For each open position, we shall ring-fence a part of the funds you deposit as 
+collateral. These funds are known as margin and you cannot withdraw them. 
+Information on the current margin rates is available on our Website, as well as 
+in the Terms and Commissions Table.You shall at all times maintain an appropriate margin level as per clause 9.1 and 
+you shall independently monitor the compliance of the margin and recover it 
+instantly when it drops below the required minimum.
+If you fail to provide the required margin under clause 9.1 (if the total of your 
+Account balance falls below the minimum margin required), we shall inform you 
+instantly via the Trading Platform which provides access to your Account status, 
+and by means of an automatically generated email.
+You acknowledge and agree that upon our receipt of the information under 
+clause 9.3, we shall close the open positions at current market prices without 
+informing you in advance, in order to prevent you from sustaining losses 
+exceeding the funds deposited in your Account. Under this Agreement, you 
+agree to the price levels of the transactions upon closing the positions. You 
+shall be informed about your closed positions by means of an instant 
+notification via the Trading Platform that gives you access to your Account 
+balance, or by an automatically generated email.
+The provisions under clause 9.4 shall apply when the shortage of funds 
+exceeds 50% of the margin required, and all your open positions shall be 
+closed one by one or simultaneously.
+The above clauses are not entirely clear in my view. Clause 9.3 refers to informing clients as 
+soon as there is a failure to provide the required margin in clause 9.1. Clause 9.4 indicates 
+that it is at this point positions will be closed without notice.
+However, clause 9.5 then refers to the provisions of clause 9.4 applying when the shortage 
+of funds exceed 50% of the margin required, not as soon as there is a failure to provide the 
+required margin as clause 9.4 indicates. If that is right then clause 9.3 should be read as 
+requiring Trading 212 to notify a client as soon as the required margin falls below 100% with 
+positions remaining open until the margin required falls below 50% - at which point positions 
+will be closed automatically without any further notice.
+This is consistent with the information that Trading 212 provides to clients through its online 
+Help Desk, which states:
+45% Status  Margin Call
+When your account status drops below 45% we will send you an email notification with a 
+low margin warning.
+Below 25% - Negative Balance Protection
+If your account status drops below 25% we will automatically close all positions, following 
+their opening order, to prevent you from losing more than your deposited funds.
+As I have explained above account status is the same as margin indicator and it is only 
+when the account status drops to 25% - when the required margin is below 50% - that 
+positions will be closed. The information in the Held Desk makes it clear that before the 
+account reaches that position an email notification will be sent  when the account status is 
+at 45%.
+This was confirmed by Trading 212 in its response to Mr Bs initial query when it informed 
+him that the margin indicator had been below 50% for quite some time and that:
+You only receive a margin call once below 50% and the next action will the direct stop out at 
+25%Furthermore in an email to us on 22 March 2022 Trading 212 referred to the margin indicator 
+changing colour from green to orange at the exact time it reached 47% - rather than the 45% 
+referred to in the Help Desk  and that at that point a margin call message would be sent to 
+the client.
+Based on the information in the Help Desk and what Trading 212 has said in this complaint I 
+think it is clear Mr B should have received an email before his margin fell to a level which 
+required his positions to be closed - which was at the point the margin indicator was at 25%. 
+It is Mr Bs case he didnt get any such email. I asked Trading 212 to provide a copy of the 
+email that should have been sent and it has not been able to produce this. In the 
+circumstances, in the absence of any evidence to show the email was sent, I am not 
+satisfied that it was.
+Mr B would not have needed to be in his online account to see an email so it is possible that 
+he would have seen this before his position were automatically closed for margin breach. If 
+he had done so then he may have had time to add funds to his account to avoid margin 
+breach in which case Trading 212 would have rolled his position over into the following 
+futures contract - as it did with other clients after deciding to suspend the May 2020 oil 
+futures contract due to illiquidity.
+However, it was primarily Mr Bs responsibility to ensure he had enough margin, as I have 
+already said. He should not have been dependent on being notified by Trading 212 if his 
+margin was dropping, he should have been aware of this in any event and acted accordingly. 
+Furthermore, I am not satisfied Mr B wouldnt have ended up in the same position even if an 
+email had been sent. This is because I have no way of knowing if Mr B would have seen the 
+email before margin close out, or if he had whether he would have had time to add funds to 
+his account to avoid this.
+So, as matters stand, whilst I think Trading 212 failed to send the email it should have done, 
+I am not persuaded it would be fair or reasonable to award Mr B any redress in this 
+complaint.
+I gave both parties the opportunity of responding and providing any further  information they 
+wanted me to consider.
+Trading 212 said it had nothing further to add. Mr B responded and said that he was glad 
+that I thought Trading 212 was obliged to send him an email. However, he said he still didnt 
+understand why he had to comply with the provisions of the contract whilst Trading 212 
+didnt. He said that I had said that all responsibility lies with him and he didnt agree with that. 
+Mr B queried what the position would be if Trading 212 refused to close positions and he 
+suffered loss as a result. The contract says that Trading 212 will inform him and then close 
+the deal not that it will close it in any event. He said he understood that the law required it to 
+close the transaction but that it also required it to comply with the terms of the contract. He 
+said that if Trading 212 had done what it was required to do he would have been able to 
+react.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+I have considered everything that Mr B has said in response to my provisional decision but I 
+am not persuaded that I should change the findings in my provisional decision.I note what Mr B has said about me holding him entirely responsible for what happened. 
+However, what I said was that primarily it was his responsibility to ensure he had enough 
+margin and that he should have been aware that his margin was dropping and that his 
+losses arose predominantly from him failing to monitor his account. 
+I still think that it was for Mr B to monitor his account and ensure he had sufficient margin 
+rather than rely on being sent an email when his margin dropped. That isnt to say I would 
+not necessarily have awarded something to him if I had been satisfied that there was a real 
+possibility Mr B would have been able to rectify the position if the email had been sent. 
+However, for me to make such a finding I would need to be satisfied that it was more likely 
+than not that if the email had been sent Mr B would have seen it before margin close out and 
+been able to add funds in time to avoid this. Mr B has said if the email had been sent he 
+would have been able to react, but as I said in my provisional decision, there is no way of me 
+knowing if that would have been possible.
+My final decision
+I dont uphold this complaint and make no award for the reasons set out in provisional 
+decision and above. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr B to accept or 
+reject my decision before 12 September 2022.
+ 
+Philip Gibbons
+Ombudsman

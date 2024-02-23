@@ -1,0 +1,125 @@
+DRN-3262189
+The complaint
+Mr G complained that Starling Bank Limited wrongly debited money from his account twice, 
+when hed only authorised one payment.
+What happened
+Mr G had a credit card with an organisation which Ill call C. On 25 November 2020, Mr G 
+wanted to make a payment of £652.50 from his Starling account to his credit card. He tried 
+doing this by phone, but he said the postcode verification failed. So he tried again, and this 
+time it went through.
+Mr G checked his Starling banking app, and saw the payment had been debited twice. He 
+contacted C, which told him that the first verification had failed, so it hadnt taken the money. 
+It told him the money might not be back in his account until the end of that day. This didnt 
+happen, and C then told him it would probably be resolved over the weekend, but suggested 
+he should contact Starling.
+Mr G contacted Starling, saying his attempted payment to C said it hadnt gone through, and 
+hed done it again but it had now gone through twice.
+ 
+Starling replied that it had received an explicit instruction from C to authorise the amount on 
+Mr Gs account. It said it was possible something had gone wrong on Cs side or with Cs 
+processing organisation, meaning C couldnt confirm the transaction had been successful. It 
+also said it was possible the payment had failed when Starling had responded to the original 
+authorisation request. It said the transaction was still in the authorisation stage, so it would 
+remain pending, then automatically revert at the end of that time, which could be from 8 to 
+30 calendar days.  
+Starling also said that if Mr G wanted the money released sooner, it would need written 
+confirmation from C that it wouldnt be claiming the money. This could be either an email 
+from C saying it wouldnt be claiming the money, with the date and amount mentioned, or a 
+void receipt.
+Mr G said he had multiple frustrating phone conversations and message exchanges with 
+Starling. He said he told them, among other things, that withholding the money over 
+Christmas would cause financial difficulty. Mr G said Starling refused to let him make a 
+formal complaint, saying what had happened was company policy, until he said hed refer it 
+to this service.
+In its final response to Mr Gs complaint on 30 November, Starling said that it had received 
+explicit instructions from C to hold the funds as pending. It said to that date it hadnt received 
+confirmation from C that C didnt intend to finalise the payment. So Starling said it didnt 
+uphold Mr Gs complaint because it had followed the correct processes.
+Mr G wasnt satisfied and complained to this service.
+Our investigator didnt uphold Mr Gs complaint. She said that the records showed that the 
+first payment had indeed passed verification, so it was authorised to leave Mr Gs account, 
+subject to C claiming it. She said she couldnt say why the payment had appeared to fail 
+when Mr G was making it, but said it was understandable that Mr G had made another 
+payment a few minutes later, because hed thought that it had failed. The second payment 
+had been claimed by C the next day. And she saw that Starling had said it could remove the 
+hold on the money if Mr G emailed a statement from C saying that C wouldnt claim the 
+money. So she didnt think Starling had acted incorrectly.
+Mr G didnt agree. He said that when hed tried to make the payment, it had been reported 
+as rejected by Starling. He said that Starling had been dismissive and unhelpful when hed 
+contacted it, including at one point refusing to allow him to make a complaint. As a result 
+hed been deprived of Christmas during the worst pandemic in the last hundred years. Mr G 
+said that, at best, Starling had been reluctant to offer further investigation, accept a 
+complaint, or support his request as a customer in need. Mr G said that at worst it had taken 
+illegal control of his money for a month and acted negligently by allowing unauthorised 
+removal of his money.
+Mr G said this was a breach of Starlings own terms and conditions, and was a direct attempt 
+to mislead. He said he wasnt responsible for a banks back room or electronic processes, 
+especially when money had been taken out even though the transaction had failed 
+authorisation. Mr G said it was his civic duty to keep pursuing his complaint until Starling 
+changed its operational and complaint processes. He asked for an ombudsman decision.
+On 26 December, at the expiry of the holding period for payments, Mr Gs account was 
+credited with the £652.50 which C hadnt claimed. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+I can see that Mr G feels very strongly about his complaint, and Im sorry hes upset. But my 
+job is to look at what the rules are about payments, and what the technical evidence shows 
+about what happened.
+Regulations
+There are regulations which govern disputed transactions. The relevant regulations for 
+disputed transactions taking place in November 2020 are the Payment Services Regulations 
+2017. These say that the payment service provider (here, Starling) must show the 
+transaction was authenticated. Thats the technical part, and in Mr Gs complaint, this is the 
+important part.
+What the system records show
+Mr G told us that when he was trying to carry out the first transaction, he failed the post 
+code verification part of the transaction and the payment verification failed. I suspect that a 
+digit error occurred, so I carried out the same process again and subsequently the payment 
+went through as expected.
+The information I have doesnt show exactly what happened with the first transaction, or why 
+Mr G received an error message of some sort. But this service asked Starling for more 
+information about the payment authentication, in order to establish whether what the banking system sent to Starling was what Starling needed in order to process both payment 
+requests.
+What Starling sent us shows that at 11:30:38, there was a successful authorisation for a 
+payment to C for £652.50. Three minutes later at 11:33:35, there was a second successful 
+authorisation for a payment to C for £652.50. As well as the different times, there are 
+different numbers for the two payments. So there were two separate successful 
+authorisations.  This means that the computer evidence shows that both of Mr Gs attempts 
+to authorise the payment were successful.
+Starlings actions
+As both payments were successfully authenticated through the banking systems  not just 
+Starlings systems - I cant say Starling was wrong to process both transactions. Starling has 
+explained that how the payment system worked here is that after payments are 
+authenticated by the account holder, they are reserved on the banks systems until the 
+recipient  here, C  requests the funds. Thats what happened with the second payment, 
+where C requested the money the next day. The first payment stayed on the system, 
+because C never requested that one.
+Ive considered whether Starling acted fairly towards Mr G when he reported that only one 
+payment should have gone through. Technically, it was standard practice to reserve the 
+money when a customer has successfully authenticated a payment. To do otherwise would 
+be to refuse to honour what a customer has authenticated. 
+Ive also considered whether Starling acted fairly towards Mr G. Hes told us that he had 
+poor customer service, including being told he couldnt raise a complaint because it was 
+Starlings policy. I can see that Mr G was very upset about what happened. Although I dont 
+have any customer contact notes, or phone recordings, I accept that Mr G rang and 
+messaged Starling multiple times. 
+But I can see that, as early as the next day, 26 November, Starling said to Mr G that if hed 
+like the pending amount released before the 30 days expired, he could do so if he provided 
+written confirmation from C that it wouldnt be claiming the money. I think this was a fair 
+offer. It was also repeated in Starlings final response letter. So Starling offered a way for Mr 
+G to have had his money refunded before the 30 day period.
+Looking at Mr Gs other points, I dont agree that Starling took illegal control of his money for 
+a month, or that it acted negligently by allowing unauthorised removal of his money. Nor do I 
+agree that Starling breached terms and conditions, or deliberately misled Mr G.  In essence, 
+Starling received two successful payment authorisations through the banking system, which 
+it held pending Cs claim on these funds. By doing so it followed standard banking 
+processes. And, importantly, it had straightaway made an offer to Mr G about how it could 
+release the money earlier. For whatever reason, Mr G didnt send Starling the written 
+confirmation that C wouldnt claim the money. But this didnt mean that having to wait 30 
+days was Starlings fault. 
+My final decision
+My final decision is that I do not uphold this complaint. Under the rules of the Financial Ombudsman Service, Im required to ask Mr G to accept or 
+reject my decision before 25 February 2022.
+ 
+Belinda Knight
+Ombudsman

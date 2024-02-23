@@ -1,0 +1,208 @@
+DRN-4008390
+The complaint
+Miss Z complains that Santander UK Plc (Santander) has failed to refund money that she 
+lost as part of an investment scam.
+What happened
+Miss Z was following an investment influencer online. After being contacted by someone 
+who was pretending to be this investment influencer, who we will call C, Miss Z says she 
+was persuaded to carry out the following transfers to a cryptocurrency (crypto) exchange.
+Transaction 
+NumberDate Merchant Amount Running Total
+1 14/04/2021 TO BINANCE £500.00 £500
+2 14/04/2021 TO BINANCE £1000.00 £1,500
+3 19/04/2021 TO BINANCE £1,500.00 £3,000
+4 19/04/2021 TO BINANCE £1,500.00 £4,500
+5 21/04/2021 TO BINANCE £5,000.00 £9,500
+6 23/04/2021 TO BINANCE £5,500.00 £15,000
+7 23/04/2021 TO BINANCE £5,000.00 £20,000
+8 05/05/2021 TO BINANCE £10,000.00 £30,000
+9 12/05/2021 TO BINANCE £10,000.00 £40,000
+10 15/05/2021 TO BINANCE £10,000.00 £50,000
+11 19/05/2021 TO BINANCE £10,000.00 £60,000
+12 21/05/2021 TO BINANCE £10,000.00 £70,000
+13 23/05/2021 TO BINANCE £25,000.00 £95,000
+14 24/05/2021 TO BINANCE £25,000.00 £120,000
+Santander contacted Miss Z as it had blocked the second transaction. Miss Z confirmed that 
+this transaction was genuine; was for her own account; and was because she wanted to 
+invest in Bitcoin. 
+Miss Z has explained that after this point, when the value of the crypto she had purchased 
+went down, C persuaded her to exchange all of her crypto into Bitcoin and transfer it to 
+another crypto exchange that I will call D. She says she was told that bots would then trade 
+on her behalf. Miss Z says that she believed that the transfer to D was to an account in her 
+name. The majority of these transfers appear to have been on 23 May 2021.
+The following day, on 24 May 2021, Santander blocked transaction 14. Miss Z contacted 
+Santander and again confirmed that the transaction was for herself. Miss Z has since 
+confirmed that she did not send this transaction from Binance to D.
+Subsequently, when Miss Z was unable to withdraw funds from D she contacted Santander 
+to request a refund of the transactions that she had made to Binance. 
+I issued a provisional decision on 1 March 2023 in which I said the following;
+Ive provisionally considered all the available evidence and arguments to decide whats fair 
+and reasonable in the circumstances of this complaint. Having done so, I am upholding this 
+complaint in part. Let me explain why.
+Miss Z authorised the payments she made, even though she was duped into making them 
+by C, as part of a sophisticated scam. She used her security credentials to request the 
+transfers online to be made to Binance and, in broad terms, the starting position in law is that 
+a bank is expected to process payments and withdrawals that a customer authorises it to 
+make, in accordance with the terms and conditions of the customers account. And under the 
+Payment Service Regulations 2017, Miss Z is presumed liable for the loss in the first 
+instance.
+However, taking into account the law, regulators rules and guidance, relevant codes of 
+practice, and what I consider to have been good industry practice at the time. I consider that
+Santander should fairly and reasonably:
+Have been monitoring accounts and any payments made or received to counter 
+various risks, such as money laundering and countering the financing of terrorism, 
+and preventing fraud and scams.
+Have had systems in place to look out for unusual transactions or other signs that 
+might indicate that its customers were at risk of fraud (among other things). This is 
+particularly so, given the increase in sophisticated fraud and scams in recent years, 
+which banks are generally more familiar with than the average customer.
+In some circumstances, irrespective of the payment channel used, have 
+takenadditional steps, or made additional checks, before processing a payment, or in 
+some cases declined to make a payment altogether, to help protect customers from 
+the possibility of financial harm from fraud.In the context of this scam, Miss Z transferred funds from her Santander account to her 
+Binance account, which she says she was in control of. Once she had transferred money 
+into her Binance account and converted it to crypto, remained in her Binance wallet. It wasnt 
+until some time later that Miss Z it transferred that crypto on to D, a scam trading platform. I 
+appreciate that Miss Zs loss didnt materialise directly from her Santander account in these 
+circumstances. But even though she was transferring funds to crypto accounts in her own 
+name, I still consider that Santander ought to have taken a closer look at the payments she 
+was making  given the significant risk of fraud associated with cryptocurrency investments 
+at the time.
+Therefore, Im satisfied that Santander shouldve had mechanisms in place to detect and 
+prevent this type of fraud at the time Miss Z was making her payments, and that it should 
+have led to it intervening in order to ask further questions about the payments.
+I note that Santander did intervene when Miss Z made transaction 2. I have listened to this 
+call. In this call Miss Z was asked what the payment was; if anyone had advised her to make 
+the payment; and asked whether shed done her own research. Miss Z confirmed that the 
+payment was for her, she was not dealing with a third-party and she was intending to trade 
+in crypto herself. 
+Santander did not intervene again until payment 14. It is arguable that an earlier second 
+intervention shouldve been made. Had the earlier intervention happened prior to transaction 
+13, I dont think anything would have happened differently. I say this because prior to this 
+point Miss Z was not transferring the funds on to the scam trading platform at that point. So 
+any probing questions would have likely just been met with similar answers that Miss Z 
+provided when Santander asked her about transaction 2. Santander could not have 
+discovered the part of the scam that had not occurred yet  especially as Miss Z had told 
+Santander that she was not involving a third party. I also dont think that, prior to Miss Z 
+being told to transfer the funds on, Santander could have warned Miss Z about all possible 
+fraud that could have occurred after the payments had been made. As a result, Im satisfied 
+that Santander cannot be said to have caused Miss Zs loss by failing to prevent the 
+payments prior to transaction 13.
+That said though, I think that had Santander intervened during transaction 13 Miss Z might 
+have acted differently. Firstly, the transaction was for a significantly larger amount, so I feel it 
+should have been flagged. Secondly the reason I say that intervention wouldve made Miss 
+Z act differently is because the intervention from Santander on transaction 14 did make Miss 
+Z act differently. By intervening on transaction 14 this prevented Miss Z from transferring the 
+funds on to the scam investment platform. I note that transaction 14 did go to Binance, but 
+Miss Z has confirmed that the warnings provided stopped her from sending the funds on 
+from Binance. Given this, had the intervention occurred the day before, I dont think that 
+transaction 13 would have been transferred from Binance to D either.
+I understand that Miss Z may argue that had Santander intervened during transaction 13 she 
+would not have transferred the other funds from the previous transactions from Binance to D. 
+It is unclear precisely the timeline in relation to this as to whether the majority of the funds 
+were transferred to D from Binance before or after transaction 13 was carried out. But even 
+had transaction 13 occurred before Miss Z transferred the funds to D, I dont think that 
+Santander continued to be liable for the transactions it approved prior to this. Any loss 
+caused on these transactions after they had been made to Binance is not a loss that I 
+believe was reasonably foreseeable for Santander and the gap between these payments 
+being approved and the transfer to D breaks the chain of causation for which Santander can 
+be held liable. Ive also thought about whether Santander could have done more to recover the funds after 
+Miss Z reported the fraud. As in some circumstances, the money can be recovered via the 
+bank raising an indemnity with the receiving bank. However, in these circumstances,
+Miss Z transferred money to Binance in order to purchase crypto, hold them in a wallet and 
+subsequently move those funds onto another wallet. As a result, I dont think its likely that 
+Santander wouldve been able to recoup the money, particularly as the crypto was moved 
+onto D prior to Miss Z reporting the scam to Santander. Any funds that wouldve remained in 
+Miss Ds Binance account, would have been hers to control. So I dont think there was 
+anything further Santander could have done to recover the funds.
+Santander are also under no obligation to refund the money to Miss Z under the Contingent 
+Reimbursement Model (CRM) Code either, as the Code does not apply to payments which 
+the payer has effectively made to themselves (which would have been the case here given 
+the payment was made to Miss Zs crypto wallet with Binance, rather than directly to the 
+scammer).
+Finally, Miss Z seems convinced that Binance itself is a scam website and therefore 
+Santander should not have allowed her to send any funds to it at all. Ive noted that 
+Santander decided (along with some other banks) decided to restrict payments to Binance 
+following the FCAs consumer warning publication in June 2021. But Ive also noted the 
+warning was published after Miss Z made all of her payments, so I dont think I can say 
+Santander ought to have stopped her payments because the recipient was Binance. And 
+whilst Miss Z has alleged that Binance is a scam website, she doesnt appear to dispute that 
+they received her funds, converted them upon her request and moved those funds on 
+following a subsequent request. It would therefore seem that she received the services she 
+intended to receive from Binance and would have likely received a similar service had she 
+engaged with an alternative crypto exchange. I would also add that when Santander 
+checked with Miss Z about transaction 2, Miss Z said that she had decided to trade in crypto 
+and ultimately it is up to Miss Z what she decides to do with her money. So Santander cant 
+reasonably be held responsible because Miss Z decided to spend a large amount of money 
+to buy a crypto.
+Putting things right 
+I currently intend to ask Santander UK Plc to do the following
+1) Refund transaction 13; and
+2) Add interest to this amount at 8% simple per annum, less any applicable tax from the 
+date this was paid, to the date of settlement.
+Responses to my provisional decision
+Santander agreed with my provisional findings whereas Mrs Z did not, and in summary, she 
+made the following points:
+If the phone call that occurred during transaction 2 between Santander and Mrs Z 
+went as far as the phone call that occurred during transaction 14, Mrs Z would have 
+been put off making any further transactions from transaction 2.
+Santander should have intervened prior to transaction 13.
+Had Santander intervened during transaction 13 none of the transfers would have 
+been made from Binance to the D.Due to the prevalence of cryptocurrency scams, an enhanced level of caution and 
+questioning should have gone on when transfers were made to Binance.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Mrs Z has put forward considerable further submissions in response to my provisional 
+decision, and Ive read and considered everything sent in. But I dont intend to respond in 
+similar detail. 
+My provisional decision sets out, in full, my reasons for upholding the complaint, and those 
+reasons still remain. So, Ill focus on what I consider to be the key points Mrs Z has raised in 
+response. If I dont mention a particular point or piece of evidence, it isnt because I havent 
+seen it or thought about it. Instead, its just that I dont feel the need to reference it in order to 
+explain my decision. This isnt intended as a discourtesy  its just a reflection of the informal 
+nature of our service.
+I will address the first point, second point and final point - which can be summarised as due 
+to Mrs Z transferring funds to Binance, she should have been given a more thorough 
+warning of what the likely crypto scams could be, in line with the call that happened during 
+transaction 14. Also that there should have been multiple interventions prior to transaction 
+14.
+I have carefully considered this and I agree that Santander should possibly have intervened 
+earlier and more frequently. But I dont think that this would have changed anything. 
+I dont think that it would be reasonable for Santander to proactively describe every potential 
+scam that could occur when funds are transferred to a crypto exchange. I should also add 
+that if Mrs Z had been more forthcoming about receiving advice from a third party who had 
+approached her on twitter, rather than saying that she was referred to Binance from a friend 
+who is a banker, then Santander could have given some broad descriptions of the types of 
+scams that could occur in situations like this. But even that is a stretch, given that up to 
+around transaction 13 the scam had not really started - all that had happened up to that point 
+was that Mrs Z purchased crypto for herself and held them in her own Binance wallet. I 
+accept that Santander should have asked probing questions to ensure that the payments 
+were not part of a scam, but had it done so, I am satisfied that Mrs Z would have said the 
+same thing she said during transaction 2 - which was she was investing on her own behalf.
+Mrs Z says that if Santander had intervened during transaction 13 it would have prevented 
+all of the transfers from Binance to D. Firstly, I have looked at the transaction statement that 
+Mrs Z provided showing her Binance transfers to the scammer. It looks like many of the 
+transfers to D, value wise, were before the time of transaction 13. So before any intervention 
+from Santander could have occurred that was connected to transaction 13. Secondly, as 
+explained in my provisional decision, given the length of time between the first 12 
+transactions to Binance and the subsequent transfer to D, there is a break in the chain of 
+causation  which means, the scam didnt occur at the same time the payments left 
+Santander and arrived at Binance. The scam occurred sometime after the first 12 
+transactions were made and it wouldnt be reasonable for me to hold Santander indefinitely 
+liable for them. Transactions 1 to 12 were in Mrs Zs control at the time they were made and 
+it wasnt in her contemplation that shed be sending the payments elsewhere and so, I dont 
+think it could have been in Santanders either. So overall, I remain of the opinion that Santander should have intervened during transaction 
+13 and had it done so it wouldve become apparent that the payment was likely to purchase 
+crypto as part of an investment scam. So only this transaction should be refunded.
+My final decision
+For the reasons set out above and in my provisional decision, I uphold this complaint in part 
+and require Santander UK Plc to do the following:
+1) Refund transaction 13; and
+2) Add interest to this amount at 8% simple per annum, less any applicable tax from the 
+date this was paid, to the date of settlement.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mrs Z to accept or 
+reject my decision before 12 April 2023.
+ 
+Charlie Newton
+Ombudsman

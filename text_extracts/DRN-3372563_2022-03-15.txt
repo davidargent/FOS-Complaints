@@ -1,0 +1,281 @@
+DRN-3372563
+The complaint
+Mr A complains Tesco Personal Finance PLC (Tesco Bank) has declined a claim he 
+brought under section 75 of the Consumer Credit Act 1974 (CCA). Mr A is represented by 
+a claims management company (CMC).
+Background
+I issued a provisional decision on Mr As complaint on 23 February 2022 in which I explained 
+I was minded to uphold it. I think the provisional decision is worth reproducing in full, so I 
+have done so below:
+I wont go into great detail about the background to this matter as the facts are well 
+known to the parties involved, but to summarise:
+Mr A had a timeshare-like product with a company Ill call C. He was contacted by 
+another company, TRAG, who invited him to a meeting to discuss a potential no- win, 
+no-fee legal compensation claim against C.
+Mr A attended the meeting on 25 March 2017. It was with a company Ill call RAC, 
+who were apparently based in Dubai. At the meeting Mr A says he was told he would be 
+included in a class action lawsuit against C and he would receive significant 
+compensation. He also says he was told he would be released from the timeshare and 
+would no longer have to pay for a loan he had used to fund it. Mr A signed a contract 
+with RAC, in which RAC agreed it would arrange to release him from his timeshare and 
+give assistance and guidance in other legal disputes with C. On that day Mr A made a 
+payment on his Tesco Bank credit card of £950. The payment appeared on his statement 
+as having been made to RAMCOM in Spain. A few days later Mr A made another 
+payment by bank transfer to a bank account in Dubai in RACs name. Including the fees 
+for sending the money, this came to £5,614.50.
+Some time later, Mr A says he discovered when researching online, that RAC was
+perpetrating a scam. He says he contacted C himself and arranged for the surrender of 
+his timeshare at no cost, on 17 June 2017. No compensation claim or class action 
+lawsuit materialised. RAC gave Mr A some advice about his timeshare loan, but this did 
+not result in him being released from it.
+In 2019 Mr A engaged his CMC and they made a claim under section 75 of the CCA 
+on his behalf with Tesco Bank. The bank declined the claim, stating that the necessary 
+criteria to make a valid section 75 claim were not in place. Mr A complained about this 
+decision, and the bank rejected his complaint, which he then brought to this service.
+One of our investigators recently looked into the complaint. He didnt think the bank 
+had treated Mr A unfairly by declining his claim. He agreed the necessary criteria to 
+make a successful section 75 claim were not in place. He also thought about whether the 
+bank should have considered attempting a chargeback of the card transaction to 
+RAMCOM, but concluded it had been too late for them to do so by the time they had 
+become aware of Mr As situation.
+Mr A asked for his complaint to be reviewed by an ombudsman, so the case has been 
+passed to me to decide.
+What Ive provisionally decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Should Tesco Bank have attempted a chargeback?
+I think our investigator reached the right conclusions regarding the matter of a 
+chargeback. A chargeback is a means of disputing a card payment. The process is 
+subject to rules made by the card schemes (Mastercard in Mr As case). The rules say 
+that there is a limited window of time in which to make a chargeback. Generally this is 
+120 days from the date of the transaction or, if a service was meant to be provided by a 
+specific date in the future, 120 days from that date.
+There dont appear to have been specific timescales mentioned in Mr As contract with 
+RAC, so it appears there would have been 120 days to dispute his card transaction, from 
+the date he made the payment. By the time Tesco Bank were made aware of the 
+problem, that date had long since passed. The bank would therefore not have been able 
+to make a successful chargeback and I therefore dont find it surprising, or unfair, that 
+they didnt consider one.
+Mr As section 75 claim  the DCS agreement
+Section 75 of the CCA allows consumers a degree of protection when they purchase 
+goods or services on a credit card, so long as certain technical conditions are met. If 
+these technical conditions are met then they can make a claim against their credit card 
+provider in respect of any breach of contract or misrepresentation by the supplier of the 
+goods or services. In this case Tesco Bank has said one of the technical conditions, the 
+need for there to be a valid DCS agreement, has not been met.
+What having a valid DCS agreement in place generally means is that the person making 
+a claim needs to have used their credit card to pay the same company they say has 
+breached its contract with them, or misrepresented something to them.
+If the payment has been made to a third party then this will often cause the chain of
+connections to be broken, and for there to be no valid claim against the credit card 
+provider.
+In this case, Mr A signed a contract with RAC and it is RAC he says has either breached 
+its contract with him, or misrepresented something to him. In order to make his card 
+payment on the day, it appears he filled out a form on RACs letterheaded paper. He 
+provided personal details and the details of his Tesco Bank credit card. He signed 
+underneath the following statement:
+I authorise RAC to debit one payment of £950.00 from this card as deposit of the 
+balance under agreement number
+So it seems Mr A had agreed to pay RAC using his credit card. His credit card statement 
+didnt say RAC however, it said RAMCOM followed by the letters ESP (presumably 
+meaning Spain) and a Spanish telephone number. In many cases the appearance of a 
+different name on a credit card statement means the payment has been taken by a 
+different company. But that isnt always the case. Sometimes a company will use 
+different trading names for example, but each trading name relates to the same legal 
+entity. I think something like that has happened here, for reasons Ill explain.RAC was, according to the contract Mr A signed, a limited company based in Dubai. Ive 
+checked the company registers of the UAE (of which Dubai is a part) and RAC does not 
+appear on them. A company by this name does exist in the UK but it appears to be 
+involved in a different sector. Another company with the same name exists in Hong 
+Kong, but is also involved in an unrelated sector. A company with a similar name is 
+registered in Spain, and is linked to an individual I will come on to later, but it did not exist 
+until some time after Mr A entered the contract. It seems unlikely to me that the RAC Mr 
+A dealt with was any of the companies Ive been able to locate, so it seems a distinct 
+possibility that it was a trading name rather than a separate entity. There are further 
+pieces of evidence which point in this direction, which I will come on to now.
+Mr A received a receipt by email after he had given his card details. This receipt came 
+from an email registered at the domain name of a well-known payment facilitator which 
+Ill call S. Businesses can set themselves up as merchants able to take payments by 
+card, by signing up with S. In common with other similar facilitators, S allows businesses 
+to choose the description which appears on customer bank or credit card statements, 
+when they pay the business by card via S.
+The email from S had the subject Your RAC receipt. The sender appeared on Mr As 
+email account as RAC. The body of the email was, as the title indicated, a receipt. It 
+stated Mr A had paid £950 for legal services. At the bottom of the email was the 
+following sentence: You are receiving this email because you made a purchase at 
+RAC. A contact number was provided, which was the same number which appeared on 
+Mr As credit card statement.
+I arranged for enquiries to be made with S about Mr As payment. S explained that the 
+company to which Mr A had made his payment was in fact another business I will call 
+FSL. S went on to explain that FSL had chosen for itself a trading name of RAMCOM 
+and that it had also chosen the name RAC to appear on its receipts.
+FSL was registered in Spain. Its sole director, from 2012 until 2019 when it was 
+dissolved, was a Ms F. When the company with a similar name to RAC, which Ive 
+mentioned above, was formed in 2018, Ms F was the owner and director. Ms F also 
+appears in the evidence submitted in Mr As case. When Mr A made the balance 
+payment to RACs bank account in Dubai, he replied to the receipt email to confirm he 
+had done this. He received an email back from Ms F thanking him for the payment. Ms 
+Fs email address appeared as being from RAM and was registered at RAM.com. A few 
+days later Mr A received another email from
+Ms F. This time the email appeared to be from RAC, registered at RAC.org. Numerous 
+later emails Mr A sent to RAC were also responded to by Ms F.
+It seems to me that, in the context of Mr As purchase, RAC and RAM/RAMCOM were 
+effectively interchangeable. Ms F represented both names in correspondence with Mr A, 
+and the credit card payment was taken by FSL, of which Ms F was the sole director. 
+According to S, FSL chose the names RAC and RAMCOM to appear on the payment 
+receipt and credit card statement respectively.
+I appreciate that there is a complex web of companies and trading styles involved in this 
+case and the information available is possibly still incomplete. Nevertheless, I am minded 
+to make a finding, on the balance of probabilities, that RAC was simply a trading name 
+used by FSL. This means FSL would be the supplier for the purposes of the DCS 
+agreement. As the credit card payment was made to FSL, there was a valid DCS 
+agreement in place.
+I will note here that I am aware of other cases where RAM has entered contracts with 
+consumers which are very similar to the one Mr A signed with RAC. Ive also seen other 
+cases where RAC has entered contracts with consumers and different names have 
+appeared on credit card statements. This decision does not set a precedent for those cases, which need to be decided on their individual merits.
+Finally, I will also note that although I think RAC was just a trading name of FSL, I will 
+continue to refer to RAC for the remainder of this decision.
+Mr As section 75 claim  breach of contract or misrepresentation - evidence
+Our investigator recently spoke to Mr A to obtain his account of events first-hand, rather 
+than through his CMC. Mr A also sent us a large amount of email correspondence hed 
+had with RAC after entering the contract.
+Mr A said that hed been worried about the annual fees on his timeshare with C and had 
+recently lost his job. He was, for reasons unknown to him, receiving phone calls from 
+various companies offering to release him from the timeshare and include him in a 
+compensation claim. One of these companies was RAC, who he agreed to meet. Mr A 
+said RACs representative told him he would get the money back hed been paying to C 
+for annual fees, the initial payments hed made for the timeshare, and he would be 
+released from the timeshare. Mr A says RAC told him if he didnt relinquish the 
+timeshare, he would be charged forever by C, but relinquishing would cost £6,500, which 
+he was happy to pay considering the large amount of compensation he could potentially 
+claim. Mr A says he was also told he would not have to keep paying for a loan which had 
+been arranged to pay for the timeshare, which gave him some added confidence in going 
+ahead despite the price.
+After paying RAC, Mr A says he didnt hear from them for a while. When he made 
+enquiries about progress, he says he was told he would be released from his timeshare 
+in due course and that the compensation claim would take time because it was a group 
+action. Mr A says he continued to receive calls from other companies, one of which 
+asked him if hed checked if RAC were a legitimate firm. He says he then carried out 
+research into RAC, which led him to believe they were not to be trusted, and also 
+discovered he could simply send a letter to C to relinquish his timeshare, which he did as 
+he his annual fees were due soon. C confirmed that his timeshare was suspended but 
+could be activated again.
+Mr A said he believed RAC might still pursue the compensation claim so he chased them 
+in early 2018, but did not receive any meaningful updates.
+Its apparent from Mr As correspondence with RAC, that he believed he was purchasing
+more than just a timeshare disposal service. He was also under the impression that RAC 
+were pursuing a compensation claim for him, and that they would be getting him out of a 
+loan he had used to purchase his timeshare and which he was still repaying. There are a 
+number of emails between him and Ms F on these subjects.
+In June 2017, for example, Mr A wrote the following to Ms F:
+At our meeting with the advisor, we were advised that as we still had an outstanding 
+loan / finance for the payment of our [C] membership; once we cancelled our 
+membership we should no longer have to continue to pay the loan. I hope this is correct. 
+How do we go about doing this? Please would you give instructions on how to approach 
+the finance company.
+Mr A also asked for an update on the compensation claim. When Ms F replied, she did 
+not deny that Mr A had been advised that he would no longer have to pay for his loan, or 
+that there was a compensation claim being taken forward. She advised there were no 
+updates at the moment about the claim, and said Mr A needed to send a letter to his 
+loan company which said the following:Under EU Law 4/2012 which supersedes Directive 2008/122 of the European Union 
+where if a timeshare contract is cancelled and there is a pending finance, the finance 
+contract becomes null and void. Please note I will cease payments on the above 
+agreement with effect from this date.
+Mr As lender didnt agree that this was a legitimate reason for Mr A to stop making his 
+loan repayments and began contacting him about arrears. Mr A went back to Ms F for 
+advice; she replied that the loan was illegal and that Mr A should send the same wording 
+as shed advised before, and ask the lender to explain why they disagreed. It appears Mr 
+As lender explained to him that the law hed quoted acted as a kind of cooling off 
+period and it didnt apply at the time he had sought to invoke it. The lender continued to 
+pursue Mr A for repayments, and in the end I understand Mr A decided to borrow money 
+from family to pay the loan off and prevent further action being taken against him.
+I have seen further emails in which Mr A quizzed Ms F for updates on the compensation 
+claim. In October 2017 he was advised that we have had no updates for a while and 
+mass claims are slow and arduous processes, and in February 2018 Mr F advised that 
+it had taken years to sign up members and months and months of preparation per 
+person, you will receive updates as and when we have some but there are not many
+Finally, I have seen emails between Mr A and a Ms T from RAC, in which Ms T provided 
+advice to Mr A on how to exit his timeshare with C. This involved him writing a letter and 
+returning his timeshare certificates.
+Mr As section 75 claim - conclusions
+Based on the evidence Ive outlined above, Im satisfied RAC told Mr A that it could, and 
+would, arrange for him to be released from his timeshare and his timeshare loan, and be 
+added to a compensation claim. I think he was most likely told that cancellation of the 
+timeshare would mean he would no longer have to pay for the loan. And I think he was 
+told these things before he agreed to pay RAC for their services, and that they each 
+played an important part in him agreeing to go ahead. Mr A signed a contract which did 
+not refer to RAC doing all of these things (or referred to them only vaguely), but I am 
+satisfied he was told verbally that this is what RAC would do for him.
+I cannot see any reasonable basis for RAC to have told Mr A that on cancellation of his 
+timeshare through them, he would no longer need to keep paying for his loan. Its 
+apparent
+from Ms Fs later instructions to Mr A that RAC may have believed that the EU Directives 
+referred to meant Mr As loan would be cancelled if he cancelled his timeshare.
+The Directives do not have that effect unless a contract to acquire a timeshare or similar 
+product is withdrawn from within a short period of time after purchase. So if this was 
+RACs belief, I think it was mistaken. The alternative is that RAC was aware that what it 
+was telling Mr A was incorrect. For the purposes of Mr As section 75 claim against 
+Tesco Bank it doesnt matter which it was. I think RAC made a false statement of fact or 
+law when it told him that cancelling his timeshare through them would mean he would no 
+longer need to keep paying for his loan. I think Mr A relied on this false statement when 
+he agreed to go ahead and enter the contract with RAC, and that he therefore entered 
+into the contract as a result of a misrepresentation by RAC.
+I think its possible RACs statement that it was going to pursue some form of 
+compensation claim for Mr A was also false. I think it may be that RAC had no intention 
+of doing such a thing. But further research would be required in order to come to a firm 
+conclusion on this, and I dont need to make a finding on this question as I have already 
+found RAC made the misrepresentation I referred to in the preceding paragraph.
+The effect of section 75 of the CCA is that Mr A has a like claim against Tesco Bank in respect of RACs misrepresentation. I dont think its likely Mr A would have agreed to go 
+ahead with the contract but for this misrepresentation. So the fairest remedy in the 
+circumstances would be for Tesco Bank to take the actions necessary for Mr A to be put, 
+as far as is practicable, into the position hed have been in, had he not entered the 
+contract with RAC.
+My provisional decision
+For the reasons explained above, I intend to uphold Mr As complaint and direct Tesco 
+Personal Finance PLC to take the following actions:
+1)Refund the amount of £950 paid on the Tesco Bank credit card. This should include 
+any interest, fees or charges which have been incurred as a result of the amount having 
+been charged to the credit card.
+2)Reimburse the amount of £5,614.50, adding 8% simple interest per year* calculated 
+from the date Mr A made the payment, to the date he receives a refund.
+Ive thought about whether any deduction should be made from this redress to recognise 
+the fact that RAC did provide some advice on how Mr A could exit his timeshare. I dont 
+think this would be appropriate as it would be difficult to ascertain the value of the 
+service, which would in any event have been minimal.
+*If Tesco Personal Finance PLC considers that its required by HM Revenue & Customs 
+to deduct income tax from that interest, it should tell Mr A how much its taken off. It 
+should also give Mr A a tax deduction certificate if he asks for one, so he can reclaim the 
+tax from HM Revenue & Customs if appropriate.
+I now invite all parties to the complaint to give me any new comments, evidence or 
+arguments they would like me to consider, by 9 March 2022. I will then consider the 
+matter again before making a final decision.
+Mr A responded to my provisional decision to say he accepted it. Tesco Bank said it 
+had nothing further to add. The case has now been returned to me to decide.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Neither party to the complaint has put forward any new arguments or evidence they would 
+like me to consider. Having reviewed the case again, I see no reason to depart from the 
+findings set out in my provisional decision quoted above. It follows that I consider Tesco 
+Bank acted unfairly in declining Mr As section 75 claim, and that it should take the actions I 
+outlined in my provisional decision which I will say again for the sake of completeness below.
+My final decision
+For the reasons explained above, I uphold Mr As complaint and direct Tesco Personal 
+Finance PLC to take the following actions:
+1) Refund the amount of £950 paid on the Tesco Bank credit card. This should 
+include any interest, fees or charges which have been incurred as a result of the 
+amount having been charged to the credit card.
+2) Reimburse the amount of £5,614.50, adding 8% simple interest per year* calculated from the date Mr A made the payment, to the date he receives a refund.
+Ive thought about whether any deduction should be made from this redress to recognise the 
+fact that RAC did provide some advice on how Mr A could exit his timeshare. I dont think 
+this would be appropriate as it would be difficult to ascertain the value of the service, which 
+would in any event have been minimal.
+*If Tesco Personal Finance PLC considers that its required by HM Revenue & Customs to 
+deduct income tax from that interest, it should tell Mr A how much its taken off. It should also 
+give Mr A a tax deduction certificate if he asks for one, so he can reclaim the tax from HM 
+Revenue & Customs if appropriate.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr A to accept or 
+reject my decision before 12 April 2022.
+ 
+Will Culley
+Ombudsman

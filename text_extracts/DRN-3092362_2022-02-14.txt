@@ -1,0 +1,316 @@
+DRN-3092362
+The complaint
+Mrs G is complaining MBNA Limited hasnt refunded losses she incurred after a flight 
+provider went into liquidation. She brings the claim under S75 Consumer Credit Act 1974 
+(S75).
+What happened
+In April 2019 Mrs G entered into contract with a third party  who I shall refer to as T  to buy 
+some flights. She bought flights for six people  herself, her husband, her three children and 
+her mother-in law. The flights were one-way tickets to travel in November 2019. The total 
+cost of the flights was £1,575.94. She paid for the flights on her MBNA credit card.
+In September 2019 T went into liquidation and the flights Mrs G bought were cancelled. 
+Mrs G says she had no choice but to buy replacement flights for her and all passengers with 
+a different airline, because her outbound flight and hotel were non-cancellable contracts. The 
+total cost of the replacement flights was £4,348.55.
+Mrs G later contacted MBNA and asked it to refund the amount she paid to T. She also 
+wanted it to refund the extra shed paid for the replacement flights. MBNA successfully 
+processed a chargeback claim and Mrs G received back the £1,575.94 shed paid to T. But 
+MBNA said the terms and conditions of the contract excluded any liability for consequential 
+losses as a result of T not providing the flight. So it said it didnt have to refund what Mrs G 
+paid for the replacement flights. 
+I issued a provisional decision in January 2022 upholding this complaint and I said the 
+following:
+Mrs G paid for the flights T was supposed to provide on her MBNA credit card. S75 sets out 
+that in certain circumstances, as the finance provider, MBNA can be jointly liable for any 
+breach of contract or misrepresentation by T.  
+I think there are three things for me to consider in this decision:
+1. Is MBNA liable for Ts breach of contract under S75; if so 
+2. Is it liable for her consequential losses; and
+3. If it is liable for her consequential losses, does it have to refund everything Mrs G paid?
+I shall consider each point separately.
+Is MBNA liable for Ts breach of contract under S75?
+As I said above, in order for S75 to apply, there are certain criteria that need to be satisfied  
+one of which is establishing a debtor-creditor-supplier agreement (DCS) between the parties. 
+In essence, the key here is that its the debtor who is entitled to make a claim against the 
+creditor, and their claim against the creditor is the same as their claim against the supplier. 
+So, if the debtor doesnt have a claim themselves against the supplier, they cant hold the 
+creditor liable for any breach of contract with the supplier.
+Mrs G paid for the flights with her MBNA credit card, so there is a contractual relationship 
+between her, MBNA and T. But there were six parties on the booking. Mrs G paid for all the 
+flights herself and the booking is in her name. In doing so Mrs G entered into a contract with 
+T under which T promised to fly her and her travelling party. Mrs G was considered the lead 
+passenger and effectively acted as an agent for all the travelling passengers in arranging 
+the flights with T. But I understand that T provides each passenger with their own ticket 
+which means they have their own individual contract with T  their Conditions of Carriage. 
+And its these contracts that T has breached. So I need to consider whether MBNA is liable 
+for losses arising from all the contracts.
+While there are effectively six separate contracts of carriage, Mrs G is only a contracting 
+party on one. However, I think Mrs G can still claim under S75 if she derived a joint benefit 
+from the contract or the contracting party is considered a dependant. Where a person makes 
+a contract on behalf of those they are financially interdependent with, they have a financial 
+interest in the success of the contract, and they can (in the event of a breach) claim for 
+losses experienced by those other individuals.
+Given this, I think MBNA is liable for losses arising from the contracts with her, her husband 
+and children. But I dont think I can say that MBNA is liable for losses arising from her 
+mother-in-laws ticket and Ill explain why. As I said above, in considering whether MBNA 
+has a liability for Ts breach of contract, I need to think whether the debtor  Mrs G  would 
+have a right to claim against T in regards to this ticket. But, as she was not a party to that 
+particular contract I dont think she would have a right to claim  that right would rest with her 
+mother-in-law. 
+Does the contract exclude liability for consequential losses? 
+Theres no dispute T has breached the terms of the contract with all passengers as it 
+cancelled the flight. Clause 26.5 of the contract says T will arrange an alternative flight for 
+Mrs G, but it further says she may be entitled to a refund if she didnt want the alternative 
+arrangements. Further to this Clause 28.5 says that, where it cancels the flight, it will refund 
+the cost of the ticket. In this case, as T had gone into liquidation, it didnt provide a 
+replacement flight or a refund of the cost of the ticket.  
+MBNA believes the remedies Mrs G is entitled to under these two clauses is the limit to Ts 
+liability. And it says, as Mrs G has already received the cost of the flights back through her 
+chargeback claim, it doesnt have anything further to pay under S75. The issue I need to 
+consider now is whether I think it was fair for MBNA to say the terms of the contract excludes 
+liability for consequential losses.
+I think the key consideration here is to think about the normal principles of contractual 
+interpretation. Im aware that the principles of contractual interpretation were helpfully set out 
+and summarised in The Ocean Neptune [2018] EWHC 163 (Comm)  which is further 
+endorsed in Chitty on Contracts at 15-052. This sets out that:
+The court must consider the language used and ascertain what a reasonable person, that is a person who has all the background knowledge which would reasonably have been 
+available to the parties in the situation in which they were at the time of the contract, would 
+have understood the parties to have meant. The court must consider the contract as a whole 
+and, depending on the nature, formality and quality of drafting of the contract, give more or 
+less weight to elements of the wider context in reaching its view as to the objective meaning 
+of the language used. If there are two possible constructions, the court is entitled to prefer 
+the construction which is consistent with business common sense and to reject the other.
+Ive also had consideration to the comments of Briggs LJ in Nobahar-Cookson v The Hut 
+Group [2016] EWCA Civ 128 [18-19] where he said:
+Ambiguity in an exclusion clause may have to be resolved by a narrow construction 
+because an exclusion clause cuts down or detracts from the ambit of some important 
+obligation in a contract, or a remedy conferred by the general law such as (in the present 
+case) an obligation to give effect to a contractual warranty by paying compensation for 
+breach of it. The parties are not lightly to be taken to have intended to cut down the 
+remedies which the law provides for breach of important contractual obligations without 
+using clear words having that effect.
+Ive particularly taken note that the above sets out a requirement that a contracting party 
+must use clear words when seeking to reduce or remove liability for losses that would 
+ordinarily be recoverable under standard contract law. Further to this, I think an additional 
+crux of this matter that I have to decide is whether the intention of the contract was clear and 
+what a reasonable person would have understood what the contract was intended to say. 
+There are a number of clauses in the contract that need to be considered here. As a starting 
+point Clause 26.5 sets out what T offered to do where it cancels the flight  namely to 
+provide an alternative flight  and explains what the customer must do to obtain a refund. 
+And, as I said above, Clause 28.5 further sets out that T is contractually required to provide 
+a refund of the cost of the ticket where it cancels a flight.
+In my opinion, I think the purposes of Clauses 26.5 and 28.5 are clear  insomuch as setting 
+out what Ts responsibilities are when it cancels a flight and explains what Mrs G needs to 
+do to claim a refund. However, I think Clause 33, by contrast, serves the opposite purpose. 
+This says: 
+Our liability to you shall be limited to the rights and remedies set out in these Conditions of 
+Carriage and we will have no further liability to you unless otherwise provided by Regulation 
+2027/97, the Warsaw Convention or the Montreal Convention (as applicable).
+On the face of it, it would be possible to read the above clause that T has sought to limit its 
+liability as to what MBNA believes  namely to be required to provide an alternative flight or 
+a refund of the cost of the flight and nothing further. But I think this also needs to be read 
+alongside clauses 53 and 57.2 of the conditions of carriage. These set out:
+Our [Ts] liability to you 
+53.1 The liability of each carrier involved in your journey will be determined by applicable 
+law and the carriers Conditions of carrier. Applicable law comprises Regulation 
+2027/97, the Convention and/or local law in individual countries.
+57.2 Except as may be specifically provided otherwise in these Conditions of Carriage or 
+by applicable laws, we will be liable to you only for recoverable compensatory 
+damages for proven losses.I think its clear that Clauses 53 and 57 are intended to be read together and Clause 53 
+expressly accepts that T can be liable under the local law of individual countries  i.e. 
+under English Law in this case. And I think its important to note that normal English contract 
+law allows Mrs G to claim for damages arising from a breach of contract  including her right 
+to recover damages to compensate her for proven, recoverable consequential losses. I think 
+this is effectively acknowledged by Clause 57.2 when read in its full context and together 
+with the applicable principles of contractual interpretation.
+Im particularly conscious that both clauses 26.5 and 28.5 are silent on whether Ts 
+responsibilities in the event of it cancelling a flight is limited to the remedies expressly set out 
+in these clauses  i.e. it doesnt say that a refund of the cost of the ticket is Ts sole 
+responsibility in the event of it cancelling the flight. I think it would go against the principles of 
+contractual interpretation if it was considered that this meant Mrs G was excluded from a 
+fundamental right  i.e. to be entitled to claim for consequential losses owing to Ts breach of 
+contract. And given what I said above in regard to previous court rulings, where a business 
+wishes to exclude such a right, it must use clear words to that effect. Im not persuaded T 
+has done so  if it has in fact used any words to exclude this at all.
+With this in mind, Ive thought about the language in clause 57.2 which I think potentially 
+adds a further layer of compensation and effectively raises the possibility that the refund is 
+only the starting point, as I think clause 57.2 could be interpreted to say its contractually 
+confirming Mrs Gs right to common-law damages. This would mean, if she has suffered 
+recoverable compensatory damages for proven losses which exceeds the value of the 
+refund, then potentially these losses are also recoverable as an additional remedy for the 
+breach of contract.
+MBNA disputes this interpretation of clause 57.2 as it maintains the conditions of carriage 
+limits liability under the contract to the cost of the ticket  i.e. it doesnt set out any additional 
+right or remedy to the refund. I accept that its possible an alternative interpretation of clause 
+57.2 is that it doesnt give a further compensatory right, but it acts as a further limit to 
+compensation  namely the total amount that Mrs G can claim in damages is limited to items 
+that are both recoverable in law and proven.
+I think both interpretations are potentially a reasonable way of considering the effective 
+operation of the clause. So to consider this matter further, I think its important to ascertain 
+what liability T accepts under Clauses 26.5, 28.5, 53 and 57.2 respective, because, as I said 
+above, Clause 33 seems to seek to limit Ts obligations to Mrs G.
+As I said above, Clauses 26.5 and 28.5 are silent as to whether Ts liability to Mrs G in the 
+event of cancellation doesnt extend further to what was set out in these clauses  i.e. to 
+provide an alternative flight or a refund. There isnt anything in these clauses to say that T 
+wont be liable for any additional costs if Mrs G goes ahead and arranges alternative flights 
+herself. I dont think such an exclusion can be implied into the contract  the contract needed 
+to expressly set out these losses werent covered if T intended to do so.
+Ive thought about MBNAs assertion that Clauses 33 and 57.2 does the above  i.e. to limit 
+Ts liability. But, as I said, I think there are two reasonable ways of interpreting the intention 
+of Clause 57.2. I think normal contractual principles favour the interpretation that the clauses 
+gives further rights to Mrs G for the following reasons:
+As I said above, I think Clauses 53 and 57 are intended to be read together  they both 
+fall under the contract heading of our liability to you. Clause 57.2 is part of a series of 
+clauses that sets out Ts liability to Mrs G. So I think its reasonable to think, considering 
+the purpose of the surrounding terms, the clause should acknowledge that T may bear 
+liability for compensatory damages, rather than being read purely as limiting the amount of liability under other clauses.  
+I think its reasonable to read Clause 57.2 as an acknowledgement of liability under the 
+general local law, but only for compensatory damages for proven losses. And I think 
+reading it this way the clause fulfils two functions: (1) allows Mrs G to claim for 
+compensatory damages under local law for proven losses; and (2) to exclude punitive or 
+exemplary damages, which arent compensatory in nature and dont necessarily require 
+proof of any loss.
+As I set out above, its a standard principle of contractual interpretation that parties need 
+to use clear words if they intend to cut down valuable consumer rights under the general 
+law. I dont think Clause 57.2 does so. So, it follows, that I dont think it can be read as 
+excluding such damages. 
+While I think the crux of this matter turns on the principles of contract interpretation, I also 
+think consideration should be given to Section 69(1) of the CRA which states that if a term 
+in a consumer contract could have different meanings, the meaning that is most favourable 
+to the consumer is to prevail.
+I note MBNA disputes Section 69(1) should apply in this case. Its set out the Supreme Court 
+in the case of Arnold v Britton [2015] UKSC 36 confirmed that, when looking at the 
+interpretation of an ambiguous clause in a written contract, a court would try and find out the 
+parties intentions by reference to what a reasonable person (having all the background 
+knowledge) would think. And it said the court wouldnt just find in the favour of the consumer 
+without looking at other considerations  namely:
+the nature and ordinary meaning of the clause
+any other provisions of the contract;
+overall purpose of the clause and the contract;
+the facts and circumstances known or assumed by the parties at the time the contract 
+was entered into; and
+commercial common sense.
+But I dont think this changes what Ive set out above. Ultimately MBNA suggests that, just 
+because Mrs G had to pay more for her new flights, it doesnt mean the contract should 
+automatically be read in her favour. Ive considered MBNAs comments in respect to this and 
+I agree with MBNA that Arnold v Britton may give a useful guide as to how courts might 
+apply Section 69(1) when considering ambiguity  particularly regarding Mrs Gs case. 
+However, we need to be mindful that this was considered before the CRA came into effect. 
+And the CRA, alongside other court findings, gives clear guidelines as to how ambiguity 
+should be considered.  
+I think one of the key considerations here is whether the intention of the clause was clear. As 
+For the reasons I set out above, Im not persuaded its sufficiently clear what T meant from 
+the clause, as I think both interpretations of the clause are a reasonable interpretation of Ts 
+intention. 
+Further to this, I think it would generally be regarded as commercial common sense that a 
+contracting party wouldnt give away their important rights available under the general law 
+without the contract clearly stating as such. The terms of the contract dont clearly take these 
+rights away. So, I think its entirely in line with commercial common sense that Mrs G should 
+still be entitled to her normal contractual rights to damages for consequential loss.  
+So I think it is fair to apply Section 69(1) in this case. Clearly in this case the interpretation of 
+the clause granting an additional compensatory remedy to Mrs G is the most favourable to 
+her.However, even if any of what Ive said above wasnt the case, I think a court is likely to find 
+that a clause which removes a right to standard common law damages would probably 
+constitute an unfair term under section 63 of the Consumer Rights Act 2015 (CRA). I say as 
+such because it would relieve T of its responsibility to fulfil its contractual obligations and 
+leave Mrs G with no right to compensation.
+In thinking about this Im conscious Schedule 2 of the CRA gives examples of terms that 
+might be considered to be unfair. I think the following examples are relevant here:
+Para 2 
+A term which has the object or effect of inappropriately excluding or limiting the legal rights 
+of the consumer in relation to the trader or another party in the event of total or partial non-
+performance or inadequate performance by the trader of any of the contractual obligations
+Para 3 
+A term which has the object or effect of making an agreement binding on the consumer in a 
+case where the provision of services by the trader is subject to a condition whose realisation 
+depends on the trader's will alone.
+So, even if I was to accept that Clause 33 contract did limit Ts liability to exclude liability for 
+consequential losses, which I dont, I think its likely a court would find it unenforceable. I 
+think the presence of this limitation creates a significant imbalance in the parties contractual 
+rights and obligations to Mrs Gs detriment  namely Mrs G can have no recourse where she 
+suffers a loss due to Ts failure to fulfil its contractual requirements. I say as such because in 
+effect  as has happened in this case  T would be able to cancel the flight, breach its 
+required to provide an alternative flight, which would mean the consumer has to make their 
+own arrangements. But the consumer wouldnt be entitled to claim compensation for any 
+losses she suffers as a result of this due to the alleged restrictions set out by Clause 33. I 
+think this is the sort of situation Para 2 and Para 3 Ive set out above intended to refer to.
+In actuality, I think, given the considerations of S63 of the CRA, this further indicates to me 
+that the terms of the contract cant properly be read as excluding Ts liability to pay damages 
+under common law.
+So, taking all of this into consideration, I dont think it was fair for MBNA to say Mrs G wasnt 
+able to recover her consequential losses.
+Is MBNA liable for all of Mrs Gs losses?
+Ive now thought about what losses Mrs G could have claimed had MBNA handled her S75 
+claim fairly. Mrs G is looking to recover the extra amount she paid to buy replacement flights 
+through a separate company  namely £2,772.61. In assessing whether I think Mrs G can 
+claim for consequential losses, I need to ask myself three questions:
+1. Is the loss a direct result of the breach of contract;
+2. Is the loss a reasonably foreseeable loss flowing from the breach of contract; and
+3. Did Mrs G take reasonable steps to mitigate her losses?
+I dont think it can be disputed that the need to buy replacement flights is a direct result of Ts 
+breach of contract. Similarly, I think its reasonably foreseeable that Mrs G would look to buy 
+replacement flights at an additional expense once T cancelled the flight. So the issue for me 
+to consider is whether Mrs G took reasonable steps to mitigate her losses.
+The flights Mrs G bought were return flights for a holiday. Shes separately booked flights out 
+to the destination and a hotel for the travelling party to stay in. I understand these were non-cancellable contracts. And Mrs G had paid around £5,000 for these. Mrs G has said it was 
+more cost effective to buy replacement flights as, otherwise, shed lose the £5,000 shed 
+paid. This seems a fair and reasonable approach to take. So Im satisfied that she took fair 
+steps to mitigate her own and her travelling parties losses.
+Ive now thought about whether MBNA is liable for everything Mrs G paid for the 
+replacement flights. As I said above, Mrs G has already received the refund for the cost of 
+the flights T was supposed to provide. I think the total loss to the traveling party is the extra 
+that Mrs G paid  i.e. £2,772.61. However, it doesnt follow that MBNA is liable for the full 
+loss.
+While I accept Mrs G paid the full cost of the replacement flights and is out of pocket for this 
+amount, I dont think MBNA needs to refund this full cost. As I said before, MBNA is only 
+liable for consequential losses arising from contracts between Mrs G and T. And this extends 
+to contracts which she derives an actual benefit from or to a contracting party who is 
+considered a dependant of Mrs G. So, for the reasons Ive set out above, MBNA needs to 
+compensate Mrs G for losses she incurred regarding the contracts involving her, her 
+husband and children. But I dont think its liable for the consequential losses arising from the 
+breach of contract on her mother-in-laws contract. I recognise this is Mrs Gs loss as she 
+paid for her mother-in-laws flight. But it relates to a contract between her mother-in-law and 
+T. As Mrs G is not a party to this contract, MBNA isnt liable for any losses arising from that 
+contract. So it follows that I dont think MBNA is liable for the cost of that ticket.
+Mrs G paid £4,348.55 in total for all the replacement flights. We dont know the exact 
+breakdown for each individual passenger. On average this works out as £724.76 per 
+passenger. But I think its likely the cost of the childrens tickets would have been less than 
+the adults tickets  especially given £4,348.55 isnt equally divisible between six. Mrs G 
+doesnt have a breakdown of how much each ticket cost. So we cant know for certain what 
+the precise loss is per ticket. Given this, I need to estimate what the loss is reasonably likely 
+to be. 
+As theres no exact way to calculate the exact cost of Mrs Gs mother-in-laws ticket, Im 
+taking a pragmatic approach. Taking everything into consideration, I think the fairest way to 
+resolve this is MBNA refunds £3,600 of the amount Mrs G paid for the flights  estimating 
+the adult ticket to be around £748.55. 
+Mrs G paid for this using her MBNA credit card and I think she should get this money back. 
+So I think MBNA should reconstruct her credit card as if she hadnt paid for these flights. If, 
+after doing so, it finds she is out of pocket it should refund this. It should also pay 8% simple 
+interest on any amount due from the date she was out of pocket until she gets it back. 
+Ive also thought how the refund Mrs G received from the chargeback should be used as part 
+of the reconstruction of the credit card. Had T not breached the terms of the contract and 
+provided the flight, Mrs G wouldnt have had to receive a refund for the cost of Ts tickets or 
+buy the replacement flights. So, when considering the reconstruction of the credit card, I 
+think MBNA should treat the money credited back to the account from the chargeback as a 
+part-payment towards the cost of the replacement flights.
+Both parties accepted my provisional decision and said they didnt have anything further to 
+add.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and reasonable in the circumstances of this complaint.
+As neither party has given me anything new to think about, I see no reason to reach a 
+different conclusion to the one I reached in my provisional decision. So I uphold this 
+complaint for the reasons I set out in my provisional decision.
+My final decision 
+For the reasons Ive set out above, its my final decision that I uphold this complaint and I 
+require MBNA Limited to reconstruct Mrs Gs credit card reducing the amount she paid for 
+the replacement flights by £3,600. MBNA limited can treat the amount credited back from the 
+chargeback as a payment towards the cost of the replacement flights. If, after doing so, it 
+finds she is out of pocket at any point it should refund this. It should also pay 8% simple 
+interest on any amount due from the date she was out of pocket until she gets it back.
+If MBNA Limited thinks that its required by HM Revenue & Customs to deduct income tax 
+from the above interest, it should tell Mrs G how much its taken off. It should also give her a 
+tax deduction certificate if she asks for one, so she can reclaim the tax if appropriate.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mrs G to accept or 
+reject my decision before 14 March 2022. 
+Guy Mitchell
+Ombudsman

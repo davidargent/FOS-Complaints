@@ -1,0 +1,186 @@
+DRN-3215252
+The complaint
+Mr L complains about the cash oil positions in his Contracts for Difference account held with 
+CMC Markets UK plc. He says when the market went into negative pricing, they moved his 
+holdings to a December contract without giving him notice and causing him significant 
+losses.
+What happened
+Mr Ls position
+Mr L held Crude Oil West Texas Cash positions in his Contracts for Difference (CFD) 
+account with CMC Markets UK plc (CMC). In April 2020, for the first time in history, oil went 
+into negative pricing causing a dislocation in the market. He says this revealed a flaw in the 
+algorithm that CMC use for cash commodity spot pricing - it didnt allow them to record 
+negative pricing. He says this was a localised issue for CMC who were not able to deal with 
+a negative cash commodity spot product and led to the actions they took. 
+On 20 April 2020, they made the decision to roll over from the May to June contract and the 
+following day decided to move from June to December contract. Mr L says other providers 
+were able to deal with the negative pricing and continued to allow each contract to be priced 
+individually whether negative or positive and so continued to trade as a cash commodity spot 
+product. He says CMCs decision to move to a December contract meant it was no longer 
+the same cash commodity spot product with oil prices that reflect the market and created a 
+false market. 
+In addition, he says he wasnt given sufficient notice of the changes and was tied into this 
+new contract with large holding costs. He says the change in contract date meant the 
+product was no longer based on the front months futures contract and was fundamentally 
+changed from the product that he had originally invested in. He contacted CMC on 23 April 
+2020 to complain about this and the holding costs. He says this caused him approximately a 
+£7000 loss and a 220% increase in holding costs on the new contract. 
+He also complains about the lack of transparency around the new product with insufficient 
+information available and that CMC restricted trading on the June contract preventing him 
+from closing his trades. He says this impacted his trading strategy and preventing him from 
+making a profit. He would like to be paid for his loss of profit.  
+CMCs position 
+When Cash Oil prices went into negative pricing in April 2020, CMC say they had to act 
+swiftly in order to protect the interests of the customers while the volatility continued. They 
+say it is standard practice when the contract expiry is approaching to rebase its pricing to the 
+most liquid near futures contract available in the underlying market at that time, which in this 
+case was June 2020.
+They say cash oil prices are affected by inferred holding rates which are impacted every time 
+a change is made in the contract. These are inferred because they dont have a fixed 
+continuous price (as is the case with other trades) and is calculated based on the difference 
+in the mid-point of each contract  so for example where a contract is from 1st  30th April, 
+the mid-point would be 15th April. The holding rates would be calculated based on the price 
+difference between 15th April (current cash price) and 15th May (the mid-point of the nearest 
+most liquid available contract). Any difference in price is then offset as holding costs during 
+that trading contract. The price is recalculated and built into the new contracts with 3% 
+applied as daily holding costs. 
+ 
+CMC say that despite rebasing the price to June contract, the negative pricing meant the 
+holding costs were very high so they had to rebase to a December contract in order to 
+balance out the increase in holding cost.  They say they had to do this because:-
+They needed to maintain stability in the cash price and safeguard against any continued 
+fall, that could have led to another negative settlement price if rebased to the near month 
+future contract. A further negative price meant they would not be able to offer the product 
+for that future contract. 
+They needed to reduce holding costs for their clients. These would have been around 
+780% if rebased to the near month future contract, June. The June contract was trading 
+at US$22.50 compared with US$0.45 in May. Even though December pricing was 
+US$30.38, the expiry time being seven months later allowed for a period of convergence 
+to create a discounted holding rate at 225%.
+They say the terms of their User Agreement allows them to set their own prices, to make 
+changes to those prices and without notice, so they were within their rights to do this. They 
+also say they gave Mr L notice of these changes on 21 April 2020 at 17:06 and a further 
+notice on 23 April 2020 with more detail.
+They say the losses on Mr Ls account were based on the trading decisions he made. They 
+say they informed Mr L of the decision they took and asked him to review his positions and 
+take any steps he felt appropriate. They feel it is not reasonable to assume that his future 
+trades would have been profitable if they hadnt taken this action  which they feel was 
+reasonable given the extreme circumstances of the market and was not intended to 
+negatively affect clients. 
+Investigators view
+Our investigator looked at the complaint and initially said, CMC had acted in accordance with 
+the terms of the User Agreement and didnt uphold the complaint. Mr L didnt agree and 
+provided further information. Upon reconsideration, she upheld Mr Ls complaint in part. She 
+explained that CMC had the discretion to make changes to the contract and that he had 
+agreed to these terms; but she didnt think their exercise of that discretion was done in a fair 
+way. She said he was notified after the changes were made to the contract and wasnt given 
+the opportunity to void any trades without penalty. She also agreed with Mr L that CMC had 
+fundamentally changed the product which he had invested in. She concluded that:-CMC Markets should put Mr L back in the position he wouldve been had he not 
+opened his positions in the Crude Oil West Texas cash product around the time the 
+changes were made on 21 April 2020. This means CMC Markets should unwind the 
+trades that were opened between 20 to 21 April 2020 and were still open when the 
+switch to the December 2020 futures contract was made, i.e. trades that were rolled 
+over to the December contract. This should also include a full refund of the 
+associated holding costs, and other relevant charges (if any). 
+Im also recommending CMC Markets pay Mr L £250.00 for trouble, upset and 
+distress he has suffered as a result of the way the changes were made.
+CMC didnt agree with the investigator so this has come to me for a final decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I agree with the investigator and for broadly the same reasons. I will explain 
+further.
+I have started my investigation by looking at whether CMC had the contractual right to make 
+the changes they did. Clause 9.3 of the user Agreement confirms that CMC can set their 
+own prices and make changes to those prices without giving any notice. So, it is clear they 
+are within their rights to set their own prices for their products and make changes to the price 
+and products they offer - their terms give them the discretion to make those changes. 
+Whilst it is not within my remit to tell a business what its terms and conditions should say or 
+how it should operate, it is key to look at how CMC have exercised their discretion when 
+making these changes. I would expect them be fair and reasonable in exercising their 
+discretion and so must consider whether in this instance their action was exercised in this 
+way or not.
+CMC have explained how their prices are derived from the mid-point of the current contract 
+and the mid-point nearest liquid future contract with any difference in prices offset against 
+holding costs and 3%. I would expect their prices to be similar as they would follow crude oil 
+prices in the underlying market but that doesnt necessarily mean they have to be the same 
+because CMC set their own prices so some variation is expected. 
+I have to consider what consumers would reasonably expect to happen when rebasing the 
+futures contracts and pricing. Rebasing to the nearest most liquid future contract would be 
+standard practice. The positions Mr L held had a May expiry and so the nearest liquid future 
+contract would be June and this is what would reasonably be expected and usually happens. 
+In Mr Ls case, the positions were all moved from June to December contract which was 
+unexpected. CMC themselves have accepted that this is the first time theyve moved to a 
+futures contract this many months ahead. I understand they say their reason for doing this 
+was to stabilise the price to avoid a further negative price and to reduce the holding costs for 
+consumers by relying on convergence over that period. However, the very act of making 
+these changes meant the price was no longer derived the same way using the nearest liquid 
+futures contract and fundamentally changed the product and was no longer the oil cash 
+commodity spot product which Mr L had invested in.
+So, this brings me onto thinking about whether Mr L should have been informed of these 
+changes. As mentioned above, I accept that changes to the pricing of its products does not 
+require CMC to notify its consumers. However, where the change is of such significance that there is a fundamental change in the product, would it be fair to tie Mr L into a futures 
+contract for a product he never invested in without informing him or giving him to option to 
+cease the trades? CMC say they did inform Mr L of these changes in an email to him on 21st 
+April 2020 at 17:06 but looking at the date and times, this notification was sent after his 
+positions had already been transferred an hour and 43 minutes before. So, I think it was a 
+reasonable expectation that CMC should have notified him of this change prior to making it. 
+In the event where they were unable to give him prior notice, they should at least have given 
+him the opportunity to cease any trades without penalty.
+Ive also considered what information Mr L was given in the notification and whether this was 
+sufficient in allowing him to make an informed choice on what to do next. CMC offer a non-
+advisory execution only service so they werent responsible for the trading decisions he 
+takes but they must give him information that is clear and not misleading in order for him to 
+make an informed decision. So, I looked at the contents of the communication to him and 
+would ordinarily say that the level of detail is insufficient in informing the consumer what the 
+real impact of such a change was. However, with someone of Mr Ls calibre and trading 
+history, I believe it was clear enough that he would understand the significance of these 
+changes. 
+In his email to this service in March 2021 he accepts he worked out what the notice meant 
+himself, the day after he received it. 
+In fact that e-mail contained a more relevant detail, that I missed on first read, and 
+worked out for myself the day later from the WTI cash product signal itself, in that 
+CMC changed the peg of the Texas product from the immediate closing contract of
+June to the December contract, while locking clients out of being able to trade the 
+front end June contract. This was the change in algorithm - and it cost clients holding 
+the WTI cash product a considerable sum of money.
+Given Mr Ls experience, I feel he was in a position to understand the impact of these 
+changes and make an informed decision to mitigate any further losses that would have been 
+incurred on these positions. This leads me to conclude that any trades made after the 
+notification to Mr L was his own trading decision so I dont think it would be fair to hold CMC 
+responsible for any losses on these later trades. 
+In terms of trades that were opened between 20-21 April 2020 and moved to the December 
+contract before notifying Mr L, I am satisfied that he opened these positions when he 
+believed it was a oil cash commodity with a near month futures contract. Through no fault of 
+his own, there was a fundamental change in the product which meant it was no longer the 
+same product he invested in and so I think it would be unfair for him to bear any losses as a 
+result of CMCs decision to make those significant changes to it. 
+It is difficult to say what he would have done had the positions stayed at the June contract 
+and whether he would have continued with the positions or closed them. With the market 
+conditions being as they were, I feel any speculation on this will largely be dictated by the 
+benefit of hindsight. Im also not persuaded that Mr L would have still invested in the oil 
+positions had he been informed of these changes beforehand because it was a specific cash 
+oil product that he was looking to invest in and the changes CMC made, meant it was no 
+longer that product. So, I think its only fair that CMC should have given him the opportunity 
+to exit those trades.  As I dont think he would have invested in these positions had he 
+known about these changes, it follows that he wouldnt be paid for loss of profits on positions 
+he wouldnt otherwise have invested in. Putting things right
+CMC should put Mr L back in the position he would have been in had he not opened his 
+positions in the Crude Oil West Texas cash product. They should unwind the trades that 
+were opened between 20 to 21 April 2020 and were rolled over to the December contract 
+before notice was given to him. This should also include a full refund of the associated 
+holding costs, and any other relevant charges that were applied. 
+The way in which the changes were made to the oil positions and the uncertainty of it, in 
+addition to the holding costs caused considerable distress and inconvenience to Mr L. CMC 
+should also pay Mr L £250.00 for the distress and inconvenience he has suffered.
+As explained, I will not be asking CMC to pay Mr L for loss of profits. 
+My final decision
+For the reasons given above, my decision is that I uphold this complaint against CMC 
+Markets UK plc. They should unwind all trades that were opened between 20 to 21 April 
+2020 and were rolled over to the December contract. 
+In addition, they should pay him £250 for the distress and inconvenience caused.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr L to accept or 
+reject my decision before 17 March 2022.
+ 
+Naima Abdul-Rasool
+Ombudsman

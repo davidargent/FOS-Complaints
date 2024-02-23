@@ -1,0 +1,110 @@
+DRN-2893347
+The complaint
+Mr J complains as a director of H (a limited company) that Paymentsense Limited 
+(Paymentsense) didnt explain the terms of the agreements he entered into at the point of 
+sale.
+What happened
+In June 2018 H entered into a hire agreement for a card payment terminal and merchant 
+services agreement with Paymentsense. H also entered into a card processing agreement 
+with a separate company. Paymentsense was acting as the broker for all agreements.
+Mr J has said he was told at the point of sale all agreements had a term of 12 months. But, 
+in January 2020 he realised H was still being charged for the card terminal and the terminal 
+hadnt been collected around June 2019 as expected. He says he also realised at this point 
+he hadnt received the till rolls hed signed up for as part of the merchant services 
+agreement.
+Mr J contacted Paymentsense to enquire about this and was told the term for the card 
+terminal was 36 months. As it hadnt yet expired H was being correctly charged. Mr J 
+complained to Paymentsense and said hed been misled about the term at the point of sale. 
+He also complained H had been charged for an online payment service it didnt want, that he 
+didnt sign up for till rolls and said he was unhappy with the Payments Card Industry Data 
+Security Standard (PCI DSS) fees H had been charged. 
+Paymentsense responded to the complaint. It said there was no information from the point of 
+sale meeting aside from the agreements and they couldnt contact the individual agent whod 
+visited Mr J. Because of this it needed to rely on the signed agreements and it felt the 
+services Mr J had signed up H for, and the term, were clearly set out. Paymentsense also 
+explained H had been correctly charged for PCI DSS non-compliance. As a gesture of 
+goodwill Paymentsense offered to:
+Refund all the payments made for one of the services H hadnt used (an online 
+payment service for customers) which equaled £371.74
+Or
+Cancel the card terminal agreement and waive the cancellation costs equaling £396
+Mr J didnt accept this. He maintained the 36 month term hadnt been explained so felt H 
+shouldnt be liable for any payment beyond 12 months. 
+I issued a provisional decision earlier this year setting out why I didnt intend to uphold the 
+complaint. In summary I said that:
+Our service could only consider a complaint arising from a hire agreement where its 
+in relation to the activity of consumer hire. As the hire agreement in this case was 
+between Paymentsense and H, which is a limited company, under the Financial 
+Services and Markets Act 2000 the agreement didnt meet the definition of a 
+consumer hire agreement. This meant our service was unable to consider Mr Js 
+complaint about the term of the agreement as it didnt fall within our jurisdiction. 
+I felt I could consider Mr Js complaints in relation to the merchant services 
+agreement H was party to as the same rules didnt apply. Mr Js complaint in relation 
+to this agreement was that the till rolls he signed up for werent ever delivered to H. 
+Due to the time that had passed Paymentsense no longer had any records of what 
+was sent out to him. But if they hadnt been received at the time I thought it wouldve 
+been reasonable to expect Mr J to contact Paymentsense about this. And whilst I 
+understood he was saying he didnt know hed signed up for them, I couldnt fairly 
+hold Paymentsense responsible for this as the agreement hed accepted clearly set 
+out hed signed up to receive till rolls.
+Mr J complained about the PCI DSS charges hed incurred throughout his 
+agreements. I explained H, not Paymentsense, had a duty to meet these standards 
+in order to protect the sensitive payment data it was holding in using a card payment 
+terminal. It was also responsible for attesting to its compliance with the standards. If it 
+failed to do so, it incurred a fine. Overall, I felt Paymentsense had given Mr J clear 
+information about Hs PCI DSS obligations before he signed the agreements, 
+provided support and facilities that allowed him to attest to its compliance and 
+contacted him frequently to let him know when H wasnt compliant. So I felt it had 
+acted as I wouldve expected and H was fairly liable for any fines it received as a 
+result of non-compliance.
+Paymentsense responded and accepted my findings. It also let us know that Mr J had 
+contacted it in May 2021 to ask if it would be willing to revise its offer to him. It confirmed the 
+card terminal contract had been cancelled due to arrears but it remained happy to offer a 
+refund of the online service less the arrears outstanding which came to around £300. It 
+doesnt appear Mr J has accepted this offer at this stage.
+Mr J didnt accept my findings. He raised some additional points he wanted me to consider 
+and in summary said that:
+He remembers seeing a 48 month term on an agreement, but when he asked about 
+this he was shown 12 months was written elsewhere and was told the 48 months 
+was the term of the contract between Paymentsense and a third party.
+The contract was amended several times over the course of his dealings with 
+Paymentsense and I should ask it to provide the contract amendments so I can see 
+this. He feels this demonstrates he was tricked into signing up for a longer term than 
+intended. Hes also said the fact he didnt use the terminal after the 12 month mark 
+demonstrates he only signed up for a 12 month term.
+He feels Paymentsense have clearly admitted he didnt agree to the online payment services 
+as it has offered to refund the payments in relation to this. He feels this shows it has tricked 
+him into signing the agreements. And as its admitted he didnt sign up for online payment 
+services, this should be refunded plus a refund of the cost of till rolls he didnt sign up for and 
+the PCI DSS fees he incurred beyond the 12 month term he agreed to.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Ive thought very carefully about what Mr J has said in response to my provisional decision 
+but even considering everything afresh, Im not persuaded to change my mind. I wont repeat everything Ive said in my provisional decision (and have summarised above) but I would like 
+to address Mr Js ongoing concerns.
+I recognise a large part of Mr Js complaint is that he feels he didnt agree for his business to 
+enter into a terminal hire agreement for more than 12 months. And I can see much of his 
+response to the provisional decision  what he was told about the 48 month term and asking 
+me to review the amendments to the contract  is in relation to this part of his complaint. 
+But, as Ive explained, his complaint about the terminal hire agreement doesnt fall within the 
+jurisdiction of this service. So I cant look into this complaint for him any further. And, as the 
+term of the agreement is longer than 12 months, I dont think Paymentsense needs to cover 
+the cost of any PCI DSS fines H has incurred after the first 12 months of the term.
+With regards to the refund Paymentsense has offered, I dont agree this is an admission Mr 
+J has been tricked into signing the agreements on behalf of his company. Businesses 
+sometimes do make offers like this as a gesture of goodwill. 
+But, either way, Ive independently looked at whether or not I think he likely was misled by 
+Paymentsense regarding the merchant services agreement. Ive concluded this was unlikely 
+because, even if the contracts were amended numerous times throughout negotiations, I 
+think the information given to Mr J in the agreement he ultimately signed and accepted was 
+clear.
+My final decision
+My final decision is that I dont uphold this complaint. 
+If Mr J would like to accept the options Paymentsense Limited has offered him in resolution 
+to his complaint, he can continue to correspond with it directly about this.
+Under the rules of the Financial Ombudsman Service, Im required to ask H to accept or 
+reject my decision before 22 July 2021.
+ 
+Faye Brownhill
+Ombudsman

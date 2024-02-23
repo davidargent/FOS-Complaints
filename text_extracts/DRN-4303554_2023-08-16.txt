@@ -1,0 +1,139 @@
+DRN-4303554
+The complaint
+Mr B complains that Monzo Bank Ltd will not refund money he lost to an investment scam.
+For the purposes of this decision, all reference to Mr B includes his representative.
+What happened
+This complaint concerns a series of payments that Mr B attempted in September 2021,
+towards what he thought was a genuine investment venture. The instructed payments were
+intended to go to currency exchange platforms.
+At first, Mr B attempted to make payments to one platform  but these were not allowed by
+Monzo, in keeping with its transaction protocols. So, Mr B tried a payment to a different
+website (which Ill refer to as M) which was successful. This was for £688.04 on
+22 September 2021.
+Mr B made the payment because he was interested in investing profitably online. Hed been
+contacted by an individual through social media that claimed to have profited from a scheme,
+and so Mr B decided to try it himself. In order to begin investing, Mr B was told that he first
+needed to send money to be exchanged, which is why he made the payment to M (as this is
+understood to have been Ms nature of business). From there, Mr B was directed to send the
+money onwards to a separate website.
+Mr B later realised that this was all an elaborate scam, and that once the money had been
+transferred from M, it was actually sent to scammers  there was in fact no investments
+made at all. Rather, his money was stolen.
+When he raised this with Monzo, the bank concluded that it was not liable for the loss Mr B
+incurred. Unhappy with this, Mr B referred the complaint to our service. Having reviewed
+what happened, our investigator did not recommend that Monzo return the money to Mr B.
+Mr B does not accept this. He maintains that the bank ought to have identified that he was
+being scammed and rejected the payment. Because Mr B is not in agreement, the case has
+been escalated to me to decide.
+Provisional decision
+I issued a provisional decision on this case on 18 July 2023. I have copied the findings 
+section of my decision below:
+Ive considered all the available evidence and arguments to decide whats fair and
+reasonable in the circumstances of this complaint.
+Having done so, and while I am sorry to disappoint Mr B, I have reached the same 
+outcome as our investigator  albeit for different reasons. Based on what Mr B has 
+submitted, whats left for me to determine is whether Monzo ought to return the 
+£688.04 he remitted to M on 22 September 2021. My proposed decision is, therefore, 
+focused on this matter alone.
+Im aware that Ive condensed events in less detail than they were presented. I can 
+assure the parties that I have nonetheless read everything thats been submitted and 
+taken it into consideration when making my decision.
+So, if there is a particular piece of evidence or point that I dont refer to, it isnt 
+because I havent seen it or thought about it. Its just that I dont feel I need to 
+reference it to explain my decision. I hope Mr B and Monzo do not take this as a 
+discourtesy; its just a reflection of the informal nature of our service.
+the Contingent Reimbursement Model (the CRM code)
+Our investigator considered the expectation for Monzo to apply the provisions of the
+Contingent Reimbursement Model (the CRM code). The CRM code has been in 
+place since May 2019 and applies to Authorised Push Payments (APP) scams.
+In short, its main aim is to provide greater protection for consumers through payment 
+service providers procedures to detect, prevent and respond to APP scams. It was 
+pursuant to this that our investigator considered whether Monzo ought to reimburse 
+some or all of Mr Bs loss.
+However, upon acquiring further evidence from Monzo, its since been confirmed that 
+Mr B made the disputed payment using his Monzo debit card. The CRM code does 
+not apply to transactions performed using debit, credit or prepaid cards (amongst 
+other things).
+Meaning that, whether Monzo should refund Mr B would not be dependent on the 
+CRM code, but instead rests on whether the bank should reimburse the money 
+based on other obligations or good practice. Hence, why Ive considered what Monzo 
+should have done, taking into account the relevant rules, codes and best practice 
+(aside from the CRM code).
+relevant considerations
+In broad terms, the starting position is that a bank is expected to process payments
+and withdrawals that a customer authorises it to make, in accordance with the terms 
+and conditions of the customers account.
+Still, there are some situations where we believe that banks ought to have been on 
+alert or notice that something wasnt right about the circumstances surrounding a 
+transaction. It therefore can be a reasonable expectation for a bank such as Monzo 
+to double-check payment instructions that ought reasonably to trigger concerns as 
+to whether they are unusual or uncharacteristic for a consumer.
+With that said, I must bear in mind that there is a balance to be struck between 
+identifying payments that could potentially be fraudulent and minimising disruption to 
+legitimate transactions. Indeed, delaying a payment instruction could lead Monzo to 
+breach the relevant regulations.Having considered the particular circumstances of this case, I do not think it would be
+reasonable to expect Monzos systems to have been triggered by the authorised 
+payment in dispute. There is a lack of persuasive evidence that this transaction was 
+significantly unusual or uncharacteristic compared with Mr Bs normal account activity 
+in recent times.
+All things considered, I am not persuaded that it represented a significant deviation 
+from Mr Bs typical expenditure, nor what is a sufficiently suspicious account 
+movement that leads me to believe that Monzo ought to have taken further measures 
+to enquire with Mr B before the funds left the account. When judging this, I have duly 
+borne in mind that Mr B did not use his Monzo account that regularly, meaning there 
+was somewhat limited data for the bank to work from when denoting what is and isnt 
+regular and expected expenditure-wise.
+Whats more, at the time of the payment, the payee Mr B paid directly was not 
+recognised as being a high risk according to the well formulated watchlists that 
+Monzo ought to take notice of. Consequently, I dont think the bank could have 
+known that these payments were being sent to a scammer. With this in mind, there 
+were not sufficient grounds for the payments to be delayed.
+Besides that, Monzos evidence shows that the transaction was verified by Mr B 
+using chip and PIN, or by Mr B entering a passcode that was sent to his registered 
+device as part of its 3D security system. The bank has explained that it took this 
+precautionary measure to ensure that Mr B authorised the payment  and the 
+positive response it received confirmed he did.
+These procedures meant that, in order for the payment to go ahead, someone would 
+have had to have been able to access Mr Bs debit card, know his PIN and be able to 
+access (and unlock) his mobile device to enter the relevant passcode. Otherwise, the 
+payment would not have been allowed by Monzo. As I see it, Monzos 3D security 
+system provided a proportionate response to this particular payment instruction. To 
+put it another way, I do not find it reasonable to require Monzo to have taken further 
+precaution with this payment.
+My intended findings are reinforced by the multiple transactions that Monzo did not 
+permit to leave Mr Bs account that were attempted in the days leading up to this 
+c.£700 payment. Again, we know that Monzo enacted its 3D security check and it did 
+not receive the necessary response from Mr B on those occasions.
+In other words, the bank checked for authentication and Mr B did not follow the 
+required steps  therein, stopping the payments from proceeding. Whereas, when 
+Mr B did follow Monzos security check, Monzo permitted the transaction to be 
+fulfilled. Accordingly, when Mr B made the payment in question, the bank saw no 
+compelling reason to double-check what it knew to be an authorised payment.
+Ive also borne in mind that if banks such as Monzo were to be expected to intervene 
+with every payment of a similar size to the one being debated here (which had a 
+value of less than £700) it could risk grinding the banking system to a halt.
+Taking everything into consideration, I do not think Monzo ought to have stepped in 
+or taken further action before this payment was completed. Overall, Im not satisfied 
+Monzo failed to identify a suspicious transaction, or an untoward recipient, that might 
+have indicated fraud or financial abuse was being attempted. To that end, Im not 
+minded to conclude that Monzo acted unfairly or unreasonably here.My provisional decision
+For the reasons given above, I intend not to uphold this complaint.
+Responses to my provisional decision
+Mr B acknowledged my provisional findings and had no further submissions to make. Monzo 
+did not respond. It follows that there is no new evidence or arguments for me to consider. 
+Now that both parties have had the opportunity to make their final representations, the case 
+has been returned to me for review. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Given that Mr B nor Monzo presented any further evidence for me to consider, I see no 
+reason to depart from my intended decision. To that end, the way in which I was minded to 
+decide the complaint remains the same.   
+My final decision
+For the reasons given above and before, my final decision is that I do not uphold this 
+complaint. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr B to accept or 
+reject my decision before 13 September 2023.
+ 
+Matthew Belcher
+Ombudsman

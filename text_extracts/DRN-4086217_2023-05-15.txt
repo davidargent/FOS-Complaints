@@ -1,0 +1,160 @@
+DRN-4086217
+The complaint
+Mr M complains Revolut Ltd wont refund the money he lost when he fell victim to a scam.
+What happened
+Mr M fell victim to an investment scam. Generally, money was transferred between 
+Mr Ms account with another bank and his Revolut account before card payments 
+were made to top up a newly opened Binance account in his name. This was 
+originally for investing, but then he was told he needed to prove liquidity to withdraw 
+his investment.
+As part of the scam, fraudsters remotely access one of Mr Ms devices. They also 
+applied for a £25,000 loan in his name with his other bank. This was used to facilitate 
+the final two payments and has since been written off.
+Mr M raised the scam payments with Revolut, who declined to refund him. Unhappy, 
+he bought his concerns to our service to investigate.
+Ive included below the details of the relevant payments to Binance:
+Date Amount
+08 June 2022 £2,000
+14 June 2022 £9,000.00
+23 June 2022 £16,000.00
+24 June 2022 £26,999.00
+24 June 2022 £4,490
+On 12 April 2023, I reached a provisional decision which upheld Mr Ms complaint in 
+part. In summary, I was satisfied the payments could fairly be regarded as 
+authorised. But I thought that Revolut shouldve been concerned from the third 
+payment and that an intervention wouldve likely prevented further losses. I thought 
+Mr M was partly to blame, so I awarded his 50% of his remaining losses from this 
+point. 
+Revolut didnt have anything further to add. Mr M replied with further comments. In 
+summary:
+oHed only got Revolut on his phone and transactions were approved using 
+biometrics  it wasnt on his desktop. 
+oHe approved the first two transactions. He then transferred £16,000 to 
+Revolut, but it was transferred without his approval to Binance. After this, he 
+cut ties with his trader.    
+oHe let the loan proceed as he needed it to pay rent. 
+oHe always believed his funds with Binance were safe and secure, as hed two 
+step verification set up and he never logged on when theyd remote access 
+software. 
+oHe realised something was wrong and changed his password with Nationwide 
+and used his card reader to log in. And he didnt approve the use of remote 
+access on 24 June 2022. But he still thought that his funds with Binance were 
+safe and he just needed to investigate how to withdraw them. ]
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Ive considered Mr Ms response carefully. But its not changed my mind about whats a fair 
+outcome to this complaint. Ill respond to what I think are the key points: 
+Mr M responded to say he only approved the first two payments to Binance, for £2,000 and 
+£9,000. But Im mindful that his account of what happened hasnt been clear. For example, 
+in some reports  both to us and Revolut  hes said all the money that was moved from his 
+Revolut account to his Binance account happened without his involvement. In response to 
+our investigators view, hes focussed on how the final two transactions from 24 June 2022 
+werent authorised. Indeed, I note theyre what led to him contacting Revolut to say hed 
+been scammed. 
+This leads me to think that these transactions were consistently happening without him 
+completing all the steps to make them. But Mr M either wanted or at least accepted this at 
+first. And that it was from 24 June 2022 that the situation escalated.  
+As I explained in my provisional findings, I do accept that Mr M didnt want all of these 
+payments to happen. But thats not what determines whether these are regarded as 
+authorised transactions. And here, given that it seems money was moved without his 
+involvement, perhaps from the outset, it remains that Im persuaded that Mr M at least 
+understood, or ought reasonably to have understood, that hed give someone else the 
+means to make payments from his Revolut account.
+So, Ive not changed my mind that it was fair for Revolut to conclude these were authorised 
+payments. 
+Ive also considered Mr Ms comments where they relate to whether he should share the 
+blame for his losses  in other words, his contributory negligence. Hes explained why he let 
+the loan proceed and that he thought his money was safe with Binance. And that he didnt 
+use remote access on 24 June 2022. 
+But it remains that given the fraudsters behaviour and the involvement of his Revolut 
+account, I consider he ought reasonably to have taken steps to keep this account safe  for 
+example, by contacting Revolut. And while hes said he thought his money with Binance was 
+safe, Ive noted from the transaction history for this account that withdrawals were made out 
+of the account on the same day that money was transferred in. Equally, Mr Ms summary of 
+events (that was submitted when he first contacted us) said that the person he spoke with 
+from 21 to 24 June 2022 did use AnyDesk and looked at his Binance account. So, taking this 
+all into account, Im not persuaded that Mr Ms actions were as Id expect of a reasonable 
+person. 
+It follows that Ive not changed my mind that Mr M should share the blame here. That means my final decision is the same as my provisional findings. For completeness, Ive included 
+these again below. 
+In line with the Payment Services Regulations 2017 (PSRs), the starting position is 
+that Mr M is liable for authorised payments and Revolut is liable for unauthorised 
+payments. Its accepted the first three payments to Binance were authorised. But Mr 
+M says the final two payments made on 24 June 2022  for £26,999 and £4,490 
+respectively  were made without his knowledge and consent.
+Broadly, the PSRs explain that authorisation depends on whether Mr M went through 
+the agreed steps to make the payments. Its also possible for him to give someone 
+else permission to make the payments on his behalf.
+I accept Mr M may not have gone through the steps himself to make these last two 
+payments. But at this point, Im satisfied he had shared enough information with the 
+fraudsters that meant they were able to make card payments to Binance on his 
+behalf. And Im persuaded that he understood theyd the means to do this  after all, 
+it doesnt seem he was always involved with making the first three payments, but 
+hes not complained these were unauthorised.
+Ive also not seen that Mr M did anything to remove their apparent authority to act on 
+his behalf, such as taking steps to remove the means for them to make payments. 
+For example, by cancelling his card.
+In saying this, I appreciate Mr M may not have wanted nor expected the fraudsters to 
+make the last payments. But it remains that I think most people would have 
+understood and indeed, I think Mr M did have an understanding, that his actions 
+meant someone else could authorise payments from his account. So I think Revolut 
+has acted fairly in treating them as authorised payments.
+While the starting position is that Mr M is liable for authorised payments, Ive also 
+considered whether Revolut ought reasonably to have prevented his losses. There 
+are some situations where we believe that e-money institutions ought to have 
+identified a fraud risk, so should have looked at the wider circumstances surrounding 
+the transaction before making the payment.
+Having reviewed how Mr M used his account, I think Revolut ought to have realised 
+he was at risk from fraud when the third payment was attempted to Binance for 
+£16,000. While hed made one large payment in the previous 12 months, I dont think 
+this was characteristic of how he generally used his account, which was usually for 
+regular, lower value payments. And, at this stage, Mr M wouldve been sending 
+£27,000 within two weeks to a cryptocurrency platform  making both the value and 
+nature of this payment very unusual for him.
+Our investigator didnt think Mr M wouldve been put off if Revolut had warned him 
+this could be scam. I disagree. With appropriate questioning, I think it wouldve come 
+to light that this large payment was connected to withdrawing money from his 
+investment. Furthermore, that fraudsters had been using remote access software and 
+had taken out a loan in his name without his full understanding. These are clear signs 
+he was being scammed. And had Revolut warned him, I think its likely he wouldve 
+stopped talking with the fraudsters and taken steps to protect himself from further 
+losses.
+In saying this, I accept Mr M already had some concerns with the fraudsters when 
+they made this third payment, as theyd applied for a loan in his name without his full understanding. But I dont think his concerns with these actions is the same as a 
+realisation that he was being scammed, which was being taken further by his 
+attempts to remove a fictitious investment.
+Taking this all into account, Im satisfied that had Revolut intervened appropriately, 
+its unlikely Mr M wouldve made the remaining three payments totalling £47,489. 
+These payments were facilitated by a £25,000 loan the fraudsters applied for thats 
+since been written off by the lender. That leaves losses that I consider Revolut 
+couldve prevented of £22,489.
+Ive gone on to consider whether Mr M should fairly share some blame for these 
+losses. The starting point for contributory negligence is considering what a 
+reasonable person would be expected to have done in the circumstances  and 
+whether Mr Ms actions fell below that.
+Here, I think he ought to have been concerned when they took out a loan out in his 
+name without his permission. Indeed, it seems he was. But I dont think he acted on 
+this as Id expect a reasonable person to. For example, Ive not seen he carried out 
+more research into the legitimacy of who he was dealing with or more generally on 
+how to stay safe from investment scams. Instead, he let the loan go ahead and he 
+carried on his communication with the fraudsters, which involved remote access to 
+his device. Taking this into account, Im satisfied a 50% deduction is fair to reflect 
+Mr Ms contributory negligence.
+Revolut has already paid Mr M £2,000 as a gesture of its goodwill for what 
+happened. I understand that nothing else has been recovered or returned to Mr M. 
+So that leaves an award of £9,244.50
+Mr M has been out of pocket for this sum for some time. So I also award 8% simple 
+interest per year on this amount from 23 June 2022, when the payment for £16,000 
+was made, to the date of settlement.
+My final decision
+For the reasons Ive explained, I uphold Mr Ms complaint. Revolut Ltd must:
+Pay Mr M 50% of his remaining losses from the three fraudulent payments for 
+£16,000.00, £26,999.00 and £4,490.00. I understand this to be £9,244.50. 
+Pay 8% simple interest per year on this amount from 23 June 2022 to the date of the 
+settlement, less any tax lawfully deductible.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr M to accept or 
+reject my decision before 12 June 2023.
+ 
+Emma Szkolar
+Ombudsman

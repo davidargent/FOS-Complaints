@@ -1,0 +1,415 @@
+DRN-3468273
+The complaint
+Mr R, trading as C, complains that QIC Europe Ltd declined a business interruption claim.
+What happened
+In March 2020, the Government announced restrictions to combat the spread of Covid-19. 
+These restrictions had a significant impact on C because they were required to close for 
+commercial use and could remain open only for limited prescribed purposes. 
+C held a business insurance policy with QIC. This included business interruption cover, so 
+they made a claim. They understood they would be covered under part e) of the following 
+Disease extension:
+B Disease
+The occurrence of:
+a) Acute Encephalitis Acute Poliomyelitis Anthrax Chickenpox Cholera Diphtheria 
+Dysentery Legionellosis Legionnaires Disease Leprosy Leptospirosis Malaria 
+Measles Meningococcal infection Mumps Opthalmia Neonatorum Paratyphoid 
+Fever Plague Rabies Rubella Scarlet Fever Smallpox Tetanus Tuberculosis 
+Typhoid Fever Viral Hepatitis Whooping Cough or Yellow Fever sustained by an 
+person at the Premises;
+b) Injury or illness sustained by any person arising from or traceable to foreign or 
+injurious matter in food or drink supplied from the Premises;
+c) vermin or pests in the Premises;
+d) an accident which causes defects in the drains or other sanitary arrangements at 
+the Premises.
+e) where use of the Premises is restricted on the order or advice of the competent 
+authority.
+f) medical emergency murder or suicide occurring on the Premises.
+QIC declined the claim, stating that part e) isnt a discrete insured event and this is an 
+obvious formatting mistake. Its meant to act as a further condition of parts a) to d). 
+C complained to us, arguing that QIC had selectively misquoted and reformatted the 
+extension. They said parts a) to f) can reasonably be interpreted as six discrete insured 
+events. They felt the claim was also covered under the Public Emergency extension, 
+(Extension G), which covers them for losses caused by:
+The actions or advice of a competent public authority due to an emergency likely to 
+endanger life or Property in the Vicinity of the Premises which prevents or hinders the 
+use or access to the Premises
+Our investigator thought the complaint should be upheld. They felt the formatting of the 
+policy made it look as though each event set out alphabetically under parts a) to f) of the 
+Disease extension separately triggered cover. And this interpretation made commercial and 
+grammatical sense. They thought cover should therefore apply under part e). 
+They didnt think cover would apply under the Public Emergency extension. They noted 
+that, in its judgment on the Financial Conduct Authoritys (FCA) test case, the High Court 
+said the government action and advice in response to the national pandemic cannot be 
+said to be due to an emergency in the vicinity, in the sense of the neighbourhood, of the 
+insured premises and this wasnt appealed. 
+QIC didnt agree. In summary, it says:
+Reading the extension as C suggests, it would say The occurrence of e) where 
+use of the Premises is restricted on the order or advice of the competent authority 
+which doesnt make linguistic or grammatical sense;
+Other parts of the extension relate to things that happen at the premises, whereas 
+part e) doesnt, so it was an obvious outlier;
+The arbitration award in Policyholders v China Taiping Insurance (UK) Co. Ltd 
+supports its position. Lord Mance made comments on a similar clause, which said:
+Insured Section 2 is extended to include [business interruption losses] in 
+consequence of the occurrence at the Premises:
+a) of murder, suicide or food or drink poisoning;
+b) of a notifiable, human, infectious or contagious disease excluding 
+Acquired Immune Deficiency Syndrome (AIDS) or an AIDS related 
+condition;
+c) of vermin, pests or defective sanitation;
+d) which causes restrictions on the use of the Premises on the order or 
+advice of the competent local authority; or
+e) Damage covered and not excluded under Insured Section 2 to the drains 
+or sanitary apparatus at the Premises which results in closure of the 
+Premises for the Business
+Lord Mance said, In this regard, for example, sub-paragraph d) is not a further head 
+of cover, but a qualification on the cover afforded by the first three sub-paragraphs;
+Its illogical for part a) to provide cover for the occurrence of a closed list of diseases, 
+only for part e) to provide cover for any disease which causes the use of the insured 
+premises to be restricted;If the extension operated as C thinks it should, the separate extension for Public 
+Emergency would be rendered redundant;
+It doesnt accept that a reasonable person, with all the background knowledge which 
+would reasonably have been available to the parties when they entered into the 
+contract, would have understood that cover is available for an unlimited and 
+undefined number of insured perils which might lead to the use of the premises being 
+restricted on the order or advice of the competent authority, particularly given the 
+premium charged.
+On 30 November 2021, I issued a provisional decision. I said:
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint. 
+I must have regard for the law, but will ultimately make my decision based on what I think is 
+fair and reasonable in all of the circumstances of the complaint. 
+The starting point is to ask what a reasonable person, having all the background knowledge 
+which would have been available to the parties when they entered into the contract, would 
+have understood it to mean. In interpreting a contract, a court will give the words used their 
+natural and ordinary meaning, and set them in the landscape of the contract as a whole. 
+The overall purpose of both the clause in question and the contract as a whole must be kept 
+in mind. And where different constructions are possible, its important to consider which one 
+better reflects commercial common sense (without doing violence to the language used or 
+applying hindsight). The parties subjective expectations or intentions are irrelevant. 
+In addition to the clause considered by Lord Mance, I note that, as part of the FCAs 
+business interruption insurance test case, on insurer argued there was an obvious 
+formatting error in its policy wording. The clause read as follows:
+Any loss:
+a) During the first four hours;
+b) During any period other than the actual period when access to the Premises was 
+prevented;
+c) As a result of labour disputes;
+d) Occurring in Northern Ireland;
+e) As a result of infectious or contagious diseases any amount in excess of 
+£10,000.
+The insurer said there was an obvious formatting error in part e) because it did not read 
+grammatically. It said that the policy contained other extensions with grammatically coherent, 
+free-standing sub-limits, and there was no obvious reason for a lower sub-limit for claims 
+related to disease. It therefore said that part e) should be read as if any amount in excess of 
+£10,000 was on a new line and so there was a complete exclusion for all claims relating to 
+infectious or contagious diseases. The insurer relied on the case of Chartbrook v Persimmon 
+Homes [2009] UKHL 38. As set out in the judgment (which referred to previous House of 
+Lords judgments):
+A court will not easily accept that the parties have made linguistic mistakes, 
+particularly in formal documents, but in some cases, the context and background 
+might lead to the conclusion that something must have gone wrong with the 
+language. In such a case, the court was not required to attribute to the parties an 
+intention which a reasonable person would not have understood them to have;It requires a strong case to persuade a court that something must have gone wrong 
+with the language. For example, if the wording, read according to ordinary 
+grammatical rules, makes no commercial sense. A contract can be surprisingly 
+favourable to one side but is unlikely to have been intended to produce an arbitrary 
+or irrational result;
+A court can correct mistakes in a contract through the process of interpretation, but:
+oTwo conditions must be satisfied: first, there must be a clear mistake on the 
+face of the instrument; secondly, it must be clear what correction ought to be 
+made in order to cure the mistake. If those conditions are satisfied, then the 
+correction is made as a matter of construction.
+oThe background and context must be taken into account. 
+The High Court rejected the insurers argument on the basis that there was no obvious error 
+and there might have been a good commercial reason for imposing a sub-limit on disease 
+cover. The wording could have been improved, but it made grammatical sense. 
+How do these principles apply to the arguments raised here? 
+Ive considered whether a reasonable person would have understood that something must 
+have gone wrong with the language in QICs disease extension. As above it would require a 
+strong case to persuade a court of this. 
+I accept that The occurrence of: e) where use of the Premises is restricted on the order or 
+advice of the competent authority wouldnt be a very well drafted term. But having said that, 
+it isnt nonsensical either 
+The punctuation is of limited assistance. Theres no and or or to make proper sense of the 
+semi-colons for example. Parts a) to c) have semi-colons, but parts d) to f) have full stops. If 
+part e) was a qualification to parts a) to d), I think a reasonable person would expect it either 
+to start with a capital letter, or for there not to be a full stop after part d). 
+There are also other terms in the policy that are correct that similarly contain grammatical 
+issues. For example, part f) reads The occurrence of medical emergency, murder or suicide 
+occurring on the premises where it would be more natural to remove the word occurring. 
+In extension A (Alternative Accommodation), under What is not covered, the policy reads 
+Any costs incurred: occurring more than 24 months after the date the Damage occurred 
+where it would be more natural to remove the word occurring. So, the grammatical issue in 
+the disease extension isnt obviously out of kilter with how the policy as a whole is written. 
+And reflecting on the clause considered in the FCAs test case (from another insurers policy 
+wording), a term which read Any loss: As a result of infectious or contagious diseases any 
+amount in excess of £10,000 was found to contain no obvious error. I dont consider the 
+wording at issue here to be any more unusual. 
+Ive thought about whether the wording, read according to ordinary grammatical rules, 
+makes no commercial sense, bearing in mind the overall purpose of the clause in question 
+and the policy as a whole. 
+If part e) is read as an insured event, the policyholder is then entitled to cover if any parts a) 
+to d) occur, even if no restriction on the use of the premises is imposed. Parts a) to d) could all cause interruption to a business without such a restriction. Thats 
+consistent with the position for part f), which even under QICs reading is not qualified by 
+part e). Equally, there could be situations where a restriction was imposed on a business 
+even if parts a) to d) hadnt occurred. So, part e) can be read as a catch-all for business 
+interruption caused by restrictions on the premises, even if not caused by parts a) to d). 
+On the face of it, this is very broad cover, but I dont think that it makes no commercial 
+common sense. Even without a competent authority qualification, there would still need to 
+be a sufficiently serious occurrence of parts a) to d) to have impacted the business. QIC 
+says this wouldnt be consistent with the modest premium charged, but although the insured 
+events are broadly defined by Cs reading, the increased risk of a claim is counter-balanced 
+by the relatively low indemnity limit (£25,000). 
+I acknowledge QICs argument that this reading undermines the limitation of part a) to a 
+particular list of diseases, which must occur at the premises. But QIC could have added an 
+exclusion if it had wanted to do so, for example, to make it clear that no other diseases were 
+covered under the policy, or that there was no cover for a pandemic or epidemic. And e) only 
+applies if restrictions are imposed, which limits the situations in which the cover might apply. 
+So, by Cs reading, part a) covers certain diseases if theyre sustained by someone on the 
+premises (provided they cause business interruption). Part e) covers a wider range of 
+diseases, plus other situations, but only if they cause business interruption and are also 
+sufficiently serious to require a public authority to restrict use of the premises. And both have 
+the same policy limit. 
+This reading does also create a considerable overlap between e) and the Public 
+Emergency clause. Both have the same limit on cover, so they arent inconsistent. And 
+there is often overlap within insurance policies. 
+If there is a clear conflict between a specific provision and a general one, the specific one 
+will prevail. In the arbitration award delivered in Policyholders v China Taiping Insurance 
+(UK) Co. Ltd, for example, Lord Mance noted a considerable overlap between an extension 
+for Denial of Access and an extension for Disease, Infestation and Defective Sanitation 
+and between their sub-clauses. He held that it was difficult to regard one as specific cover 
+and the other as general. So, I dont think the overlap created by Cs reading of the disease 
+extension at issue here automatically means that reading makes no commercial sense. 
+Overall, while I appreciate the wording could be improved, and that the arguments here are 
+very finely balanced, Im not satisfied that a reasonable person would have understood that 
+something must have gone wrong with the language. 
+Is this finding at odds with Lord Mances comments?
+The arbitration award does not determine what is relevant law for the purposes of what I will 
+take into account in considering what is fair and reasonable in all the circumstances of the 
+case. However, where the arbitrator is an eminent lawyer, and clearly impartial, as in this 
+case, the award is likely to be influential to a judge reviewing the same issue. 
+Im not persuaded theres a direct parallel between the two clauses because the language is 
+different. Part d) of the China Taiping begins with which, and part a) of the QIC extension 
+begins with where. Which is generally used to distinguish something that comes before it. 
+Despite the formatting, its clear that something would need to be an occurrence of one of 
+the events set out in parts a) to c). The use of the word where in part e) of QICs clause means it can be understood much 
+more easily without there having to be a something that comes before it. Whilst it may have 
+been QICs subjective intention to have this wording act as a qualification of cover, this isnt 
+something thats required under Cs reading of the term.
+My provisional decision 
+I intend to uphold this complaint and to direct QIC Europe Ltd to:
+Reconsider Cs claim on the basis that use of their premises was restricted on the 
+order or advice of the competent authority from 24 March 2020*;
+If, taking into account the remaining terms of the policy, any settlement is due to C, 
+QIC should pay this. Any excess that is payable should be deducted from the total 
+claim amount, before any policy limit is applied;
+QIC should pay C interest on this settlement.
+The interest payable on any settlement should be based on C having been deprived of 
+monthly interim payments that would have been made during the course of the claim. 
+The first of these payments would have been paid on 24 May 2020 and would have covered 
+Cs indemnified losses for the period from 24 March 2020 to 23 April 2020. The next would 
+have been paid on 24 June 2020 and would have covered Cs indemnified losses for the 
+period from 24 April 2020 to 23 May 2020. Payments would have continued in this pattern 
+until restrictions were lifted or the indemnity limit was reached. This interest should be paid 
+at a rate of 8% annual simple per annum. 
+*if C have a restaurant / bar, the first date of loss is likely to be 20 March 2020, with interim 
+payments therefore being made on the 20th of the relevant month, and the interest payable 
+on any settlement should be adjusted accordingly. 
+Responses to my provisional decision 
+C asked for clarification on whether or not the disease extensions indemnity limit of £25,000 
+applies to each policy year, or whether it applies to each claim made. They said they had 
+made further claims for the second and third periods of lockdown and been told by our 
+service that these would all be considered under this complaint reference. 
+QIC responded. I have considered all of its points and summarised them below:
+It agreed with the guiding principles Id referred to in my provisional decision;
+It remained of the view that the error in the clause considered by Lord Mance in 
+Policyholders v China Taiping Insurance (UK) Co. Ltd was indistinguishable from the 
+error in QICs Disease extension. It highlighted that the Policyholders themselves 
+highlighted that sub-paragraph d) of the China Taiping clause wasnt a further head 
+of cover. Which and where can both qualify the words which precede them; The clause (from another insurers policy wording) considered as part of the FCAs 
+test case isnt relevant because the court held that it was grammatically correct. 
+QICs Disease extension doesnt make linguistic sense and isnt grammatically 
+correct. My findings that the wording of QICs Disease extension isnt nonsensical, 
+or any more unusual than the wording of the clause considered as part of the FCAs 
+test case, are incorrect; 
+It enclosed a version of the extension without the drafting mistake, which was 
+incepted before the policy in question here. Except for the drafting mistake its 
+identically worded. This points to there having been a regrettable but entirely 
+obvious mistake; 
+Noting my reference to Chartbrook v Persimmon [2009] UKHL 39, it accepted that 
+the court will not readily accept that the parties have made linguistic mistakes in a 
+formal document, but highlighted the judges comments that the law [does] not 
+require a court to attribute to the parties an intention which a reasonable person 
+would not have understood them to have It said no reasonable person would read 
+part e) of QICs Disease extension as set out in the provisional decision. When read 
+according to ordinary grammatical rules, it makes no commercial sense, and 
+produces an arbitrary or irrational result; 
+The formatting error is obvious, and its clear what correction ought to be made to 
+correct it (one of simple formatting);
+Highlighting that theres a full stop after part d) doesnt carry out the requisite process 
+of analysis and construction. Contrary to my provisional decision, the punctuation is 
+of considerable assistance. The full stop after part d) encloses parts a) to d), which 
+are qualified by part e); 
+The uses of the word occurring in part f) of the Disease extension and extension A 
+(Alternative Accommodation) are irrelevant as they dont make any difference to the 
+grammatical sense of the paragraphs in which they appear;
+All of the other parts of the Disease extension are capable of being an occurrence, 
+whereas part e) is not; 
+It repeated its comments about Cs interpretation of the Disease extension being 
+inconsistent with the modest premium charged. Such a construction would be an 
+affront to business common sense, which Lord Neuberger said was a very important 
+factor to take into account when interpreting a contract in Arnold v Britton [2015] AC 
+1618. It also undermines the inclusion of a specific list of diseases in part a) of the 
+extension, removes all certainty from the operation of the extension and renders the 
+Public Emergency extension redundant; 
+Theres no need for the addition of an exclusion of the types suggested in the 
+provisional decision if part e) is read as QIC contends it must be;
+My provisional decision fails to set the words used in the landscape of the contract as 
+a whole, and doesnt give consideration to the purposes of the Disease extension. 
+It seeks to re-write the scope of cover in a way which is impermissible (taking into 
+account Lord Mustills speech in Charter Reinsurance v Fagan [1997] AC 313, 338); It disagreed with the award of interest, noting the express guidance provided by the 
+FCA in June 2020 that insurers await the final resolution of the test case before 
+determining their position on coverage and advising policyholders of their decisions.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+QIC has repeated a number of points it has made in previous submissions. Many of those 
+are addressed in my provisional decision, to which I add the following findings. 
+QIC says the error in the clause considered by Lord Mance is indistinguishable from the 
+error in its Disease extension. In addition to the reasoning given in my provisional decision, 
+Id highlight that the China Taiping clause has punctuation which helps to indicate that there 
+was an error. Parts a) to d) are separated by semi-colons, not full stops, and part e) is split 
+out by the use of a capital letter, use of the word or and the nature of the risk in question. 
+As I highlighted previously, QICs Disease clause has a different wording, so I dont think 
+its irrational to take a different approach, just as a different approach was applied to the 
+clause considered as part of the test case.  
+QIC says the parallels drawn between the clause considered as part of the test case and its 
+Disease clause are irrelevant because the former is grammatically correct. It says the latter 
+isnt and doesnt make linguistic sense. But I think the judges findings on the clause 
+considered in the test case illustrate how strong a case is needed to persuade a court that 
+something must have gone wrong with the language. 
+The clause says, Any loss As a result of infectious or contagious diseases any amount in 
+excess of £10,000. QICs Disease clause says, The occurrence of: e) where use of the 
+Premises is restricted on the order or advice of the competent authority. Im still of the view 
+that, as with the clause considered in the test case, and other terms in QICs policy wording, 
+the wording of the Disease clause could be improved, but makes linguistic sense. 
+Whilst QIC remarks that the uses of the word occurring in part f) of the Disease extension 
+and extension A (Alternative Accommodation) dont make a difference to the grammatical 
+sense of the paragraphs in which they appear, I think the quality of the drafting generally is 
+relevant when interpreting a contract, and considering whether something must have gone 
+wrong with the language. 
+I dont think its relevant that QIC issued versions of the policy with different formatting 
+unless it can show that C saw that version before entering into their policy, in which case it 
+could have formed part of the background information available to the parties. QIC hasnt, to 
+my knowledge, made any such argument. Furthermore, when addressing a comparison 
+between the clause considered as part of the test case and a similarly worded policy, the 
+High Court said, the fact that different wording is expressed in different terms is not a 
+reason for construing this provision to mean something different from what it clearly means 
+on its face...  
+QIC says that reading the Disease extension produces an arbitrary and irrational result. My 
+commentary on this is given in my provisional decision. As the judge noted in Chartbrook v 
+Persimmon [2009] UKHL 39, a contract can be surprisingly favourable to one side. I accept 
+that, by Cs reading, the cover offered is broad, but for the reasons given in the provisional 
+decision, I think its explicable. And its counter-balanced by the reasonably low indemnity 
+limit, so Im not persuaded by QICs argument about the modest premium charged. Commercial common sense also needs to be viewed from the perspective of the reasonable 
+person, bearing in mind the facts and circumstances known or reasonably available to both 
+parties. Whilst QIC, as an insurer, may consider that the cover offered by Cs reading is 
+broad relative to the comparatively modest premium, Im not satisfied, given the nature of 
+Cs business, that this was reasonable background knowledge they would have had. 
+I dont agree that the only correction required in order for the extension to be read as QIC 
+says it should be is one of formatting. The punctuation would also need changing. The full 
+stop at the end of part d) would need to be removed. The conventional approach if part e) 
+was intended to qualify parts a) to d) would be to put and or or at the end of part c) and 
+then either no punctuation, a comma or (as QIC used elsewhere in the policy) a semi-colon, 
+at the end of part d). As such, I dont think use of a full stop at the end of part d) shows that 
+part e) wasnt intended to be a stand-alone insured event. 
+I note QIC says part e) is incapable of being an occurrence, because the introduction of the 
+regulations which affected Cs business wasnt something that happened at a particular time, 
+at a particular place, in a particular way. In considering this point, Ive kept in mind Midland 
+Mainline v Eagle Star Insurance Co Ltd [2003] EWHC 1771 (Comm). The case concerned 
+business interruption to train operating companies resulting from the imposition of 
+emergency speed restrictions at sites across a particular network, on which a broken rail 
+(caused by gauge corner cracking) had led to a crash. The judgment was overturned on 
+appeal, but not on the point Im about to describe. 
+The policy covered business interruption in consequence of the following occurrences 
+The Insured being prevented from or hindered in the use of or access to any station depot or 
+track and caused by The High Court held that prevention, appropriately caused, is to 
+be the occurrence. I consider that a restriction in the use of something is capable of being 
+an occurrence (if the relevant legal test is met), just as the Court found that a prevention or 
+hindrance of use is. 
+The Court considered whether there was just one occurrence (the programme of restrictions 
+as a whole) or whether each emergency speed restriction constituted a separate occurrence. 
+In doing so, it said that, to justify labelling something as an event or occurrence there must 
+be sufficient unity of time, locality, cause and motive. 
+I think that unity exists here. The restrictions were imposed on a particular date, applied 
+consistently across a particular location (England), due to a particular cause (Covid-19) and 
+with a particular motive (halting the spread of the disease). So, overall, I think the imposition 
+of restrictions on Cs premises is reasonably capable of being an occurrence.
+In my provisional decision, I addressed QICs arguments regarding the overlap Cs reading 
+creates between the Disease and Public Emergency clauses, and that it undermines the 
+limitation of part a) to a particular list of diseases, which must occur at the premises. Whilst I 
+appreciate QIC has said that my reference to the possibility of incorporating an exclusion 
+doesnt sufficiently address these issues, ultimately, I just need to decide whether they 
+provided clear evidence of a mistake. 
+As I set out previously, there is often overlap in insurance policies, so the overlap between 
+the Disease and Public Emergency clauses doesnt in itself indicate theres been an error. 
+In terms of the operation of the Disease extension, part a) covers certain diseases if theyre 
+sustained by someone on the premises (provided they cause business interruption). Part e) 
+covers a wider range of situations, which could include diseases not listed in part a), but only 
+if theyre sufficiently serious to require a public authority to restrict use of the premises. This 
+isnt, in my view, implausible, and I dont think it indicates a clear mistake has been made.  I acknowledged in my provisional decision that in interpreting a contract, the words must be 
+set in the landscape of the contract as a whole. And that the overall purpose of both the 
+clause in question and the contract as a whole must be kept in mind. I paid regard to those 
+principles when reaching my decision on what would be fair and reasonable in all the 
+circumstances of the complaint.
+Regarding interest, this complaint concerns the outcome of a claim. Based on what Ive 
+seen, I think QIC came to the wrong decision when considering the Disease clause in Cs 
+policy. So, if when it reconsiders the claim, in line with the remaining terms and conditions, it 
+turns out that QIC should have met the claim, thats the outcome it should have come to 
+when the claim was originally made. 
+The decision QIC reached in 2020 wasnt something the FCA issued guidance on and was a 
+decision it made itself. C were denied money they might otherwise have had from that point 
+onward, and its this loss QIC needs to account for.  
+I can see C were told by our service that wed consider their complaints about all three 
+periods of lockdown under this reference. QICs stance on any subsequent periods of 
+lockdown was the same  that part e) isnt a discrete insured event. Whilst it has been 
+careful to say that no admissions are made in this regard, QIC seems to acknowledge that 
+there are circumstances where it might be argued that the £25,000 indemnity limit applies on 
+an occurrence basis.
+I think, in reconsidering Cs claim, QIC will also need to decide whether use of Cs premises 
+was again restricted on the order or advice of the competent authority during subsequent 
+periods of lockdown, and, if so, whether each period of lockdown should be treated as a 
+separate occurrence of part e) of the Disease clause, or whether they form one occurrence, 
+bearing in mind the legal principles Ive already referred to above. Procedurally, I dont think 
+it would be fair for me to give my opinion on those issues here. 
+It would create a situation where, to make the below directions binding on QIC, C would also 
+have to accept my findings on whether cover exists for subsequent periods of lockdown, and 
+the operation of the indemnity limit, which they might not want to do depending on what my 
+findings were. Therefore, I think its better for all parties that, if necessary, these points are 
+considered separately at a later date. If they cant be resolved between the parties, C should 
+let our investigator know, who will set up a new complaint reference and ensure that theyre 
+considered promptly to minimise any delay that handling the complaint in this way will cause.
+My final decision
+I uphold this complaint and direct QIC Europe Ltd to:
+Reconsider Cs claim on the basis that use of their premises was restricted on the 
+order or advice of the competent authority from 24 March 2020*;
+If, taking into account the remaining terms of the policy, any settlement is due to C, 
+QIC should pay this. Any excess that is payable should be deducted from the total 
+claim amount, before any policy limit is applied;
+QIC should pay C interest on this settlement.
+The interest payable on any settlement should be based on C having been deprived of 
+monthly interim payments that would have been made during the course of the claim. The first of these payments would have been paid on 24 May 2020 and would have covered 
+Cs indemnified losses for the period from 24 March 2020 to 23 April 2020. The next would 
+have been paid on 24 June 2020 and would have covered Cs indemnified losses for the 
+period from 24 April 2020 to 23 May 2020. Payments would have continued in this pattern 
+until restrictions were lifted or the indemnity limit was reached. This interest should be paid 
+at a rate of 8% annual simple per annum. 
+*if C have a restaurant / bar, the first date of loss is likely to be 20 March 2020, with interim 
+payments therefore being made on the 20th of the relevant month, and the interest payable 
+on any settlement should be adjusted accordingly.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr R to accept or 
+reject my decision before 6 June 2022.
+ 
+Mike Walker
+Ombudsman

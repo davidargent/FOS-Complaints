@@ -1,0 +1,233 @@
+DRN-3189187
+The complaint
+Mr B complains that Hargreaves Lansdown Asset Management Limited (HL) provided mis-
+leading information about the true nature of an investment involving an exchange traded 
+commodity (ETC). 
+What happened
+Mr B holds accounts with HL. He bought units in an ishares physical platinum ETC using 
+HLs investment platform. 
+On 3 May 2020, Mr B instructed HL to execute a stop loss order on his investment if the unit 
+price fell below 800p (the actual price at the time was apparently around 881p). Whilst Mr B 
+thought this was a cautious approach, he also thought it allowed plenty of scope within a 
+market hed invested in before.
+The following day, the unit price momentarily fell, having apparently started the day at 
+around 890p. So, HL acted upon Mr Bs instruction to execute the stop loss order. It sold Mr 
+Bs units at 718.53p, which it later said was within the permitted range. However, unit prices 
+very quickly returned to levels similar to those seen earlier in the day. But, by that time, Mr B 
+says hed already lost several thousands of pounds within a very short space of time. 
+Mr B contacted HL to discuss what had happened. He says at this point he found out the 
+true nature of the ETC. According to HLs notes, it told Mr B about the risks in setting a stop 
+loss on an ETC like this. Specifically, only a couple of market makers determine the price 
+and if one pulls their price, the overall price can change very quickly. According to what HL 
+noted following contact from Mr B, Mr B thought HL should include an online warning when 
+customers are considering instructing a stop loss in these kinds of circumstances. HL noted 
+that it referred Mr B to its terms and conditions and information about limit orders and 
+pointed out that Mr B had completed a complex investment questionnaire indicating he 
+understood the risks associated with his investment. 
+Mr B later made a formal complaint indicating that HL had been negligent in its actions. 
+Amongst other things he suggested hed received conflicting information about how his 
+investment tracked platinum prices. And he again said HL had taken no steps to warn 
+investors of the risks in placing a stop loss order on this type of instrument. In other 
+correspondence Mr B suggested that HLs systems should have a failsafe for this kind of 
+investment. 
+HL didnt think it had done anything wrong. Amongst other things, it:
+said it executed the stop loss order correctly and in accordance with Mr Bs 
+instructions. As the price spread on the London Stock Exchange was observed at 
+between 697.5p and 888.75p, it executed Mr Bs order at 718.53p, which it felt 
+represented the best possible price from the panel of market makers it dealt with;
+acknowledged Mr B's frustration that the price spread had widened (which triggered 
+the stop loss in the first place). HL also acknowledged that was a risk of using its stop 
+loss service; 
+said its terms of service make clear that factors such as market volatility can cause 
+the pricing spread to widen and trigger an order and some stocks were more volatile 
+than others; 
+said the stop loss wasnt triggered because the price of platinum suddenly dipped, 
+but because the price spread of any order-driven security such as this one can 
+suddenly gap; 
+said the fact sheet explains ETCs trade on exchanges like securities and are bought 
+and sold at market prices which may be different to the net asset values of the 
+ETCs. 
+said the risks mentioned in the key investor information document (KID) dont 
+specifically relate to the risk involved when setting a stop loss order, as thats an 
+optional service. 
+said its general terms and conditions for limit orders (published on its website) 
+confirm some stocks are more volatile than others. You should bear this in mind 
+when deciding how far away from the current share price to set your stop or limit 
+price. We do not accept any liability for any loss or potential loss you may suffer if 
+there is a delay in execution of a limit or stop loss order, a stop loss order is executed 
+below the stock price or there is failure to execute a limit or stop loss order. 
+Mr B didnt accept HLs explanation and felt that it had misunderstood his complaint. He felt 
+that the potential to gap (and the accompanying big swings in price that are unrelated to 
+the platinum market) should be mentioned in the KID. And whilst he felt that the risk rating of 
+4 would be reasonable for a fund that tracked platinum prices, he didnt think it was 
+reasonable for a fund whose price didnt and which fluctuated significantly. Nor did he think 
+the risk rating of 4 reflected the daily volatility of the product. Mr B also pointed out that the 
+information HL had quoted from the fact sheet wasnt included in the KID that he 
+downloaded from its website. He questioned why there was such a disparity in information 
+and said that if certain funds werent suited to having a stop loss order placed on them, the 
+provider and their agent have a duty of care to inform the investor that this is the case. Mr B 
+felt hed been mis-led by what was contained in the KID and indicated that he should have 
+been told it was ill advised to place a stop loss on investments of this nature.
+HL explained (amongst other things) that it wasnt responsible for the information contained 
+within the KID or factsheet for this investment. Nor could it comment on Mr Bs concerns 
+regarding the risk rating given to it. It explained that it encourages clients, before making 
+investments, to read the outcome from its research and other information such as the KID 
+and fact sheet. Prior to submitting an instruction, clients are expected to read HLs terms and 
+conditions relating to its stop loss service, which it said explain (amongst other things) that if 
+the bid price is lower than the stop loss price when it attempts to place the deal, it will 
+continue to place it at the lower price. And those terms and conditions also state that in 
+some cases a share price can gap. It said that if clients werent comfortable with the terms 
+and conditions, they should refrain from using this aspect of the dealing service. In 
+conclusion, HL also said that it doesnt comment on the likely potential for gapping of 
+individual investments because gapping potentially exists for all investments. However, it 
+was satisfied it clearly drew Mr B's attention to gapping and the consequences of this in its 
+terms and conditions for it stop loss and limit order services. 
+In another response HL explained that its role wasnt to give personalised investment advice 
+nor exercise discretion or manage investments. It felt that was an important distinction and 
+had a bearing on the level of service it provided and its obligations to Mr B. So, it was for Mr 
+B to ensure he fully understood the features and risks before investing, with the prospectus 
+(amongst other things) being suggested as a good source of information. HL felt it had given 
+Mr B various pieces of information to assist with his decision making as well as making 
+product information from the arranger available. 
+Mr B complained to our service. One of our investigators looked into things and was satisfied 
+that the risk warnings HL provided covered Mr Bs situation as an execution only client. He felt it gave Mr B clear and fair information about how the stop loss process worked so that he 
+could make an informed decision. He also pointed out that HLs platform is set up in such a 
+way that it will look for the price dropping below 800p and when that happens, the ETC 
+would automatically have been sold. The investigator was satisfied that the KID also 
+mentioned that the ETCs prospectus should be read in conjunction with the KID. Noting that 
+Mr B had relied heavily on information in the KID, the investigator said it wasnt intended to 
+be read in isolation. In conclusion, the investigator was satisfied that HL executed the stop 
+loss order correctly and in line with the terms and conditions of its service. He didnt uphold 
+Mr Bs complaint. 
+Mr B didn't agree and made a number of detailed points in response. Those included: 
+The KID is legally defined as a stand-alone document meaning it can be relied on in 
+isolation; 
+He didnt agree that HL wasn't responsible for the accuracy of KIDs made available 
+and accessed on its website. He referred to guidance and regulations, which he said 
+demonstrated that point. 
+Our investigator considered and responded to Mr Bs comments and issued a second 
+assessment. However, he didnt change his view overall. He concluded that Mr Bs financial 
+loss was as a result of him executing the stop loss order. He said the price of the ETC 
+moved within the limit set by Mr B and therefore HL executed it within the terms agreed.
+Having made further detailed comments, Mr B asked an ombudsman to consider the matter 
+afresh. So, its been passed to me to decide. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Mr Bs made extensive comments to demonstrate why he believes HL was negligent in its 
+duty of care towards him. I dont propose to include all of Mr Bs comments here although his 
+strength of feeling is evident. Its clear though, that Mr B believes (amongst other things) that 
+HL had a responsibility to give him clear information about the ETC and to warn him against 
+placing a stop loss order on this type of investment. 
+In order to address Mr Bs concerns, I think its helpful to consider the extent of HLs 
+responsibilities in a situation such as this. 
+What was HL required to do?
+HLs website makes clear that its not there to give advice (unless sought from one of its 
+specialist advisers). And, as Mr B invested in the ETC on an execution only basis, I 
+wouldnt expect HL to give him advice. So, in these circumstances HL was there to act upon 
+Mr Bs specific instructions, having satisfied itself (where necessary by asking him to fill in 
+the relevant declarations) that he understood the risks associated with the relevant 
+investments.
+Thats not to say that HL doesnt have other obligations in these kinds of situations. The 
+regulator expects, amongst other things, that businesses will give consumers like Mr B 
+information that is clear, fair and not misleading. And, as Ive indicated, it would generally be 
+expected to think about whether the consumer fully understands the features of the product 
+theyre investing in and any associated risks.  
+From what hes said, Mr B had some experience of ETCs having apparently invested in 
+similar markets before. And whilst there seems to be some dispute about whether he 
+actually filled in a sophisticated investment questionnaire before investing in this particular 
+ETC (and Mr B disputed the risk rating given) from other things hes said, Mr B seems to accept that hes expected to read up about the investment product and its risks before 
+investing. However, clearly, he doesnt think HL did enough to make the risks clear, both in 
+terms of the investment product itself and the risks of placing a stop loss order on it. 
+For instance, he said that having looked through HLs guide to ETCs, watched a video and 
+examined the key information document (KID) he could find no information to indicate this 
+product works in this extremely volatile way. Especially when the KID specifically stated 
+that the product is directly related to the price of platinum. Mr B also added that the minute 
+by minute volatility makes this product an entirely unsuitable one to place a stop loss order 
+on. 
+So, its against the backdrop above that Ive considered whether HL acted fairly and 
+reasonably in Mr Bs case.
+Did HL act in line with expectations in Mr Bs case?
+As Ive indicated, even though HL wasnt advising Mr B, its still expected to refer him to 
+relevant information about the nature of his investment and any product specific information 
+that exists.
+Looking at HLs website, I can see that under the heading Important investment notes it 
+states:
+We place investment instructions for you on an execution only basis. This means we dont 
+give you advice on your investment decisions except where youve specifically engaged one 
+of our Financial Advisers to do this. Youre responsible for making your own investment 
+decisions. 
+In the section headed Product Specific HL says the following about ETFs, ETCs and ETNs  
+investing in these products may expose you to additional risk, for instance you may be at 
+risk if the product's counterparties fail. It's important you understand the specific risks 
+associated with your investment. It also includes a link to other information along with some 
+information about the most popular ETFs.
+So, I think this does show that HL set out some of the general risks associated with products 
+like ETCs.
+Mr B seems to think that HL should include more detailed information about product specific 
+risks. Having thought about that, Im not inclined to agree, not least because HL will offer a 
+range of different products through its platform. So, Im not persuaded it would be feasible 
+for it to include the level of detail that Mr Bs perhaps expecting for each one of those 
+products.
+Typically, HL will refer its customers to product specific information produced by the 
+provider. And thats important if its to satisfy its responsibilities to provide clear, fair and not 
+misleading information (over and above any information it produces itself).
+In this case, Mr Bs clearly had access to product specific information. But hes taken issue 
+with the accuracy of some of it, not least because of the way it describes tracking platinum 
+prices and whether his investment is directly linked to the price of platinum or not. Its also 
+clear that Mr B believes the KID is lacking information that can be found in other documents. 
+And he thinks the KID should be capable of standing alone. 
+Ive thought about all of this. And whilst I appreciate Mr Bs point, I dont think it would be fair, 
+in these specific circumstances, to hold HL responsible for what was set out in the KID. 
+Whilst Mr B is right to say that the regulator places certain obligations on manufacturers and 
+distributors (as HL would be here), to my mind the intent was to put different responsibilities 
+on different firms based on their role in the supply chain. In other words, I dont think the 
+regulator expected all firms involved to be responsible for everything produced. Mr Bs referred to The Packaged Retail and Insurance-based Investment Products 
+Regulation (PRIIPS) to support his position. Ive carefully considered the regulations that 
+hes referred to and the part that talks about the information required in a KID specifically 
+mentions what PRIIP manufacturers need to do. Then it goes on to talk about distributors 
+in the sense of when and how they need to provide the information. So, in these particular 
+circumstances, I think HLs responsibility extended to ensuring that Mr B had access to the 
+KID before he invested and had enough information overall to understand the product. 
+I do accept Mr Bs point that the KID is meant to act as a standalone document containing 
+key facts. However, that doesnt mean it is the only relevant document an investor might 
+need. Its standalone in the sense that it is required to, as an individual document, contain a 
+prescribed set of information. In other words, the information that the regulations say has to 
+be in a KID has to be in the document itself, and not contained in information that can be 
+found elsewhere. Importantly, I think that also means it doesnt have to, nor do I think it 
+would be reasonable to expect it to, cover every possible risk or scenario relating to a given 
+investment in that document.
+Mr B appears to have downloaded the KID from HLs website. Im satisfied therefore that HL 
+made the KID available when and how it was supposed to. Im also satisfied that it provided 
+other supplementary information about how its services worked and highlighted the 
+particular risks of certain types of investment. For instance, I can see that the fact sheet 
+associated with the ETC sets out other risks including ETCs will seek exposure to a limited 
+number of market sectors. Compared to investments which spread investment risk more 
+generally through a variety of sectors, price movements may have a greater effect on the 
+overall value of the investment Precious metal prices are generally more volatile than most 
+other asset classes, making investments riskier and more complex than other investments. 
+ETCs trade on exchanges like securities and are bought and sold at market prices which 
+may be different to the net asset values of the ETCs.
+It seems to me though that the specific situation Mr B found himself in wasnt really because 
+of any particular risk or volatility associated with this product, or precious metal ETCs as 
+such. It was because of the widening of the bid offer spread and resultant execution of his 
+trade at a price far away from the real market price. That risk was a consequence of the 
+fact the ETC traded on an exchange and was subject to the whims of the bid and offers 
+quoted by market participants. And I think HL gave a certain warning about this when it said 
+ETCs trade on exchanges like securities. It also referred to the potential for consequential 
+spread widening and what that could mean. In the Risks section of its order handling 
+policy, HL states Some stocks occasionally display abnormally wide spreads. These may 
+only last for a few seconds but at that point any affected orders could be executed. 
+So, overall, I think the two key risks that materialised here  the nature of the exchange 
+traded instruments, and what happens when spreads widen  were clearly and fairly 
+communicated to Mr B. Given all of this, I therefore think HL fairly and reasonably ensured 
+Mr B had the information he needed in order to understand that this situation was a 
+possibility and make his investment decisions accordingly.
+Whilst no doubt disappointing news for Mr B, based on all of the evidence Ive seen, I dont 
+uphold this complaint.
+My final decision
+I dont uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr B to accept or 
+reject my decision before 28 June 2022.
+ Amanda Scott
+Ombudsman

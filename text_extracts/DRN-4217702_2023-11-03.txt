@@ -1,0 +1,44 @@
+DRN-4217702
+The complaint
+Mr G complains that Nationwide Building Society won't supply copies of his bank statements 
+in a machine readable format.
+What happened
+Nationwide closed Mr G's account in March 2023. As he was going through divorce 
+proceedings and had more complex financial affairs than the standard customer, he required 
+12 months bank statements in a .csv format. I understand this to be in spreadsheet format 
+which can be transferred to programmes like excel. He complained that Nationwide was in 
+breach of his right to data portability as set out by the Information Commissioners Office 
+(ICO).
+Nationwide explained that it could not supply statements in that format for closed accounts. It 
+offered to provide them in PDF format but that was not suitable for Mr G. It said that its 
+regulatory requirement was to provide usable data and it believed that this complied with that 
+requirement.
+On referral to the Financial Ombudsman Service our Adjudicator said that he did not think 
+that Nationwide had done anything wrong and that we couldn't ask it to change its policies. 
+He pointed out that it is possible to convert documents that are in PDF format to .csv.
+Mr G was not happy with this and reiterated that the ICO set out his right to data portability.
+The matter has been passed to me for further consideration.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+I have considered this matter but I don't think that the Financial Ombudsman Service is the 
+right forum to decide Mr G's complaint. Whilst in some circumstances we can look at data 
+protection complaints, the remedy that Mr G seeks is for Nationwide to change its policy and 
+most likely its technical procedures. That is not something that I have the power to require.
+On the face of it, Nationwide has supplied the information requested in a readable format 
+which can be converted to a machine readable format. But for closed accounts it cant (or its 
+present policy wont allow it to) provide documents directly in the .csv format. I think its 
+position is fair and reasonable, in the light of current evidence.
+I have considered the ICO's note on the right to data portability. I think the appropriate step 
+for Mr G to take, if he thinks that Nationwide has breached his right, would be for him to 
+make a complaint to the ICO. I presume he has researched that option, but I should 
+emphasise that in light of the technical nature of his request to Nationwide, which centres on 
+data access, the ICO is in a better position to judge whether Nationwide is in breach of 
+General Data Protection Regulation (GDPR).
+My final decision
+I dont uphold the complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr G to accept or 
+reject my decision before 1 December 2023.
+ 
+Ray Lawley
+Ombudsman

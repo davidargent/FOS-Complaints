@@ -1,0 +1,226 @@
+DRN-3610186
+The complaint
+Mr and Mrs M complain that Nationwide Building Society wont refund the money they lost 
+when they sent a payment to invest in a scheme they now believe was fraudulent.
+What happened
+Mr and Mrs M hold an account with Nationwide. They knew an independent unregulated 
+adviser, whod previously suggested investments to them. These had proved successful. 
+One of those investments had been a one-year bond (or loan note) offered by a property 
+development company. Mr and Mrs M had invested and subsequently received their capital 
+back, together with the expected interest payments.
+Having attended a presentation by the company and seen properties it intended to 
+redevelop, together with others it had already completed, they believed this to be a sound 
+investment. 
+In 2017, they decided to invest more into the same scheme, this time into a loan note with a 
+five-year term. They sent £100,000 by CHAPS payment, using the account details specified 
+in the loan note documentation.
+Initially, Mr and Mrs M received the scheduled interest payments as expected. When one 
+payment didnt arrive on time, it was nevertheless sent shortly afterwards when Mr and 
+Mrs M contacted the development company. But the next interest payment didnt arrive at 
+all. Mr and Mrs M have since learned that the property development company is now in 
+liquidation.
+While Mr and Mrs M have registered their loss with the liquidator, they are not hopeful that 
+their capital will be recovered. Mr and Mrs M now fear the development company was 
+essentially being operated as a Ponzi scheme, whereby the returns were not paid from 
+profits, but rather from money received from other investors.
+They had understood that the investment payment would have additional protection, by 
+virtue of their payment first being sent to a solicitors client account. That solicitor was then 
+bound to hold their payment until Mr and Mrs Ms investment funds could be secured against 
+specific property to be redeveloped. However, when they later contacted that solicitor, it 
+denied having received their funds or being involved with the scheme at that point. 
+Mr and Mrs M were extremely concerned that their payment had apparently failed to reach 
+the solicitor  that being their intended beneficiary. Even although it might nevertheless still 
+have been received by the development company, it didnt appear to have gone via the 
+solicitors account. This would have had the effect of removing protection they expected from 
+this additional step. They complained to Nationwide. 
+Specifically, Mr and Mrs M said Nationwide hadnt fulfilled its obligations when sending their 
+CHAPS payment. They said Nationwide ought to have taken steps to check that the 
+payment was indeed going to an account held in the solicitors name. In the alternate, as 
+theyd provided a payee name as part of their payment instruction, Nationwide should have 
+let them know in advance if it would not be validating that name against the beneficiary 
+account. The relevant CHAPS rules required customers to be made aware of this before 
+making a payment, but Nationwide hadnt done so. Nationwide should refund them.
+Nationwide didnt agree and didnt accept it was liable. It said it hadnt been required to 
+check payee names against the beneficiary account at the time, nor could it have done so 
+because of data protection rules. It had carried out the instructions Mr and Mrs M had given 
+it at the time as it was obliged to. There was no reason for it not to have done so.
+Dissatisfied, Mr and Mrs M referred their complaint to our service for an independent review.
+Our Investigator considered their complaint. But she didnt think Nationwide was liable for Mr 
+and Mrs Ms losses. She said Nationwide hadnt been required to check payee names at that 
+time. Nationwide couldnt establish whether it had made Mr and Mrs M aware it wouldnt 
+check the name. But even if it had failed to explain this, she didnt think this had caused the 
+subsequent loss. She thought Mr and Mrs M would most likely have gone ahead regardless - 
+even had it been made clear that Nationwide would be sending the payment based solely on 
+the sort code and account number specified. She didnt find any other reason to say 
+Nationwide was now liable for Mr and Mrs Ms losses.
+Mr and Mrs M didnt agree and so their complaint has been referred to me to reach a final 
+decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+In deciding whats fair and reasonable in all the circumstances of a complaint, Im required to 
+take into account relevant: law and regulations; regulators rules, guidance and standards; 
+codes of practice; and, where appropriate, what I consider was good industry practice at the 
+time. 
+Where I find there to have been a fault or error, I have to consider what the consequences of 
+this were. And where definitive evidence is unavailable, I must reach my findings on the 
+balance of probabilities  in other words on what I consider most likely in all the 
+circumstances, given the evidence available to me.
+Upon reading all the available evidence and arguments, I have reached the same outcome 
+as our Investigator and for broadly the same reasons. I consider the fair and reasonable 
+outcome, in all the circumstances, is that Nationwide is not liable to refund Mr and Mrs M for 
+this payment. 
+I am extremely sorry to hear about what happened to Mr and Mrs M. They have incurred a 
+substantial loss. I appreciate this answer will be a significant disappointment to them. But I 
+hope the following explanation will help them understand why I have reached this decision.
+While Ive considered all the arguments and evidence presented by both sides to this 
+dispute, in what follows I will address what I think is the heart of the matter here. I consider 
+that to be the question of whether Nationwide is liable for Mr and Mrs Ms losses because 
+either:
+- it failed to carry out its obligations in relation to Mr and Mrs Ms CHAPS payment, and 
+this failure caused the payment to be made where otherwise it wouldnt have; and/or,- it should have recognised this payment as being suspicious and intervened, and had 
+it intervened this would have likely resulted in a scam being identified at the time.
+Firstly, as I think Mr and Mrs M now accept, there was no obligation on Nationwide to check 
+the name of the beneficiary account against that recorded on the payment instruction. This 
+was not a requirement under the CHAPS rules at that time. 
+However, even had that somehow been possible, I note that in the correspondence Mr and 
+Mrs M received from the recipient bank, that bank confirms that the name on the account 
+credited was consistent with the intended recipient of your payment. So, it seems more 
+likely than not that, in the event such a check had been required of Nationwide at the time 
+(which I am satisfied it was not), this would most probably have elicited the same response 
+and the payment would still have gone ahead.
+Mr and Mrs M say Nationwide ought to have made them aware the payee name would not 
+form part of the payment information used to specify or validate the correct recipient 
+account. They quote the following from the CHAPS rules applicable at the time:
+A Participant (as a sending Participant) shall ensure that its contract with a Customer 
+who wishes to make payments through CHAPS using the sending Participant's payment 
+services provides (in easily understandable language and in a clear and comprehensible 
+form): 
+[] that the sending Participant will make a payment solely on the basis of a unique 
+identifier and will not execute it on the basis of the intended recipient's name; 
+Unique identifiers are defined (for domestic CHAPS transfers at that time) as normally being 
+the sort code and account number
+Mr and Mrs M contend that Nationwide did not make them aware of this at the time, and that 
+if it had done so they would not have proceeded with the payment. I agree with Mr and 
+Mrs M that the evidence Nationwide has now provided to them is insufficient to demonstrate 
+that it met this clause in relation to their payment. Simply put, their recollection is that 
+Nationwide did not make this clear, and Nationwide has seemingly been unable to evidence 
+that it did.
+But, even were I to find Nationwide at fault on this, taking everything into consideration, I do 
+not find that a failure here made a material difference in Mr and Mrs Ms choice to make the 
+payment. Given Mr and Mrs M had previously invested successfully in this scheme and 
+given the other numerous factors that had persuaded them about the legitimacy of the 
+investment, I consider it most likely theyd have been comfortable relying on the information 
+provided to them specifying the payment destination - essentially the combination of the 
+appropriate account number and sort code. I think they would have chosen to go ahead - 
+presumably doing so on a similar basis to that which had applied when theyd previously 
+made payment to the same scheme without issue. 
+Even if that werent the case, undertaking further enquiries (assuming of course that was 
+possible) would likely have indicated that the account name was in fact consistent with the 
+unique identifiers  and so it seems to me the payment would still have been made.
+Mr and Mrs M further quote from the CHAPS rules: The requirements [] above shall not 
+affect a sending Participant's right or ability to send the intended recipient's name with any 
+Payment Message in order to comply with any legal and regulatory requirements to which it 
+is subject, as well as for their internal risk management processes to either prevent or detect 
+financial crime.They consider this could be read as a requirement for Nationwide to have supplied the name 
+of the beneficiary account in order to prevent or detect financial crime. However, again I do 
+not (even were I to agree this requirement follows, or that it was, or was not, met) consider 
+that this makes a difference here. The recipient bank says the name was consistent with the 
+account. So, it does not seem that any concerns would have been uncovered by these 
+means. The payment would still have been concluded in line with Mr and Mrs Ms 
+instructions.
+In brief, while I have carefully considered the requirements on Nationwide concerning the 
+CHAPS payment and taken account of the points Mr and Mrs M have highlighted, I do not 
+find a failure on Nationwides part that caused their loss.
+I have gone on to consider the broader requirements on Nationwide concerning this 
+payment, and whether Nationwide needed to do more to protect Mr and Mrs M in relation to 
+the risk of fraud or scams.
+Now, in broad terms, the starting position in law is that a building society or bank is expected 
+to process payments and withdrawals that its customer authorises it to make. Mr and Mrs M 
+had taken the necessary steps to authorise Nationwide to make this payment  this was an 
+authorised payment. In other words, at the time they sent the money, they authorised the 
+payment and wanted it to be made. So, under the Payment Services Regulations 2009 
+(applicable at the time), and the usual terms and conditions of building society and bank 
+accounts, Mr and Mrs M are presumed liable for any resulting loss in the first instance.
+But that is not the end of the story. Taking into account the law, regulators rules and 
+guidance, any relevant codes of practice and what I consider to have been good industry 
+practice at the relevant time, I consider Nationwide should fairly and reasonably: 
+Have been monitoring accounts and any payments made or received to counter 
+various risks, including anti-money laundering, countering the financing of terrorism, 
+and preventing fraud and scams. 
+Have had systems in place to look out for unusual transactions or other signs that 
+might indicate that its customers were at risk of fraud (amongst other things). This is 
+particularly so given the increase in sophisticated fraud and scams in recent years, 
+which building societies and banks are generally more familiar with than the average 
+customer. 
+In some circumstances, irrespective of the payment channel used, have taken 
+additional steps, or made additional checks, before processing a payment, or in 
+some cases declined to make a payment altogether, to help protect customers from 
+the possibility of financial harm from fraud. 
+It follows that I consider Nationwide should have been on the lookout for unusual and out of 
+character transactions. From what I understand, it did not identify this payment as being 
+unusual or out of character at the time.
+However, given the high value of this payment, and the other circumstances, I consider this 
+was unusual and out of character in the context of Mr and Mrs Ms typical account usage 
+(evidenced for example by their payment history on the account). 
+Further, I think there was sufficient cause for Nationwide to consider this transaction as one 
+therefore carrying a higher than usual risk of loss or financial harm to Mr and Mrs M. Given 
+this, I consider Nationwide ought to have taken steps before releasing the payment, such as 
+calling to discuss the transaction with Mr and Mrs M.Such an intervention did not take place, so I have gone on to consider what the 
+consequence of that failure was. In particular, I have to consider what the result of such an 
+intervention would likely have been, including whether it would have brought the risk of loss 
+to light at that time. 
+In doing so I need to take into account the extent of intervention that could reasonably be 
+expected (given the relevant considerations I have outlined above) of a building society such 
+as Nationwide in relation to an authorised online CHAPS transfer at the time in question.
+Firstly, had Nationwide contacted Mr and Mrs M to ask them further details about the 
+transaction, I consider Mr and Mrs M had no reason but to have explained the situation 
+openly and honestly in response to Nationwides enquiries.
+As such, I consider it most likely they would have explained that they were investing money 
+in a bond or loan instrument issued by a property redevelopment company, and that this had 
+been recommended to them by an adviser whom they knew from previous successful 
+investments.
+They would perhaps have further explained that they had invested in this very same scheme 
+previously, successfully receiving the interest and capital exactly as expected. They might 
+have explained that they had visited the company and personally seen properties it had 
+redeveloped. 
+In short, I consider they would have explained that they had carried out sufficient checks to 
+feel comfortable that they were investing in a legitimate scheme, and they were making the 
+payment as the result of a considered decision.
+Arguably, at this point Nationwide could have considered it was entitled (and indeed 
+required) to proceed with the payment it was being requested to make. It needed only to be 
+reassured that this was not a payment likely to result in financial harm to Mr and Mrs M 
+through fraud or scam. It could not provide what could be construed as unsolicited financial 
+advice on the suitability or investment risk applying to such a scheme. For example, 
+Nationwide was not required to conduct a detailed investigation into such things as the 
+soundness of the investment or whether, for example, the sales literature or the terms of the 
+loan note were accurate or true. I cannot reasonably expect it to have taken such steps 
+unbidden.
+But even had Nationwide pressed further, I dont think the scam would have come to light at 
+the time. I say this bearing in mind that, based on what Mr and Mrs M have described, to all 
+appearances this was an unusually complex and sophisticated deception. The property 
+redevelopment company had been operating, apparently successfully and perhaps even 
+legitimately, for some years prior to the investment now being disputed.
+The documentation Mr and Mrs M have provided, and which they were given at the time, 
+seems to me both convincing and professional in appearance. If these documents did 
+contain falsehoods, that was far from apparent, and I do not believe could reasonably have 
+been uncovered by Nationwide at that time. There simply was nothing obvious here that 
+would have indicated to either Nationwide or Mr and Mrs M that all was not as it seemed.
+In other words, it is unfortunately the case that the circumstances here would have made it 
+very difficult for anyone to have uncovered that this might not be the legitimate investment 
+opportunity it had otherwise appeared to Mr and Mrs M at the time. 
+When such concerns did later arise, Mr and Mrs M reported the matter to Nationwide. While 
+it attempted to recover their funds, from what I have seen these had long since been removed from the receiving account. I dont think there was anything more Nationwide could 
+reasonably have done at this point to recover Mr and Mrs Ms funds.
+To reiterate what I said earlier, I have considerable sympathy for the position Mr and Mrs M 
+are now in, and the substantial loss they have incurred. But I dont find that Nationwide was 
+the cause of that loss, that it could reasonably have been expected have prevented the loss, 
+or that it should otherwise be liable to reimburse them now.
+My final decision
+For the reasons given above, my final decision is that I do not uphold Mr and Mrs Ms 
+complaint about Nationwide Building Society.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr and Mrs M to 
+accept or reject my decision before 23 December 2022.
+ 
+Stephen Dickie
+Ombudsman

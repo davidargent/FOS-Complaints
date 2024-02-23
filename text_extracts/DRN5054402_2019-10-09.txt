@@ -1,0 +1,78 @@
+K820x#14complaint
+Mr F complains that National Westminster Bank Plc failed to prevent an authorised push 
+payment fraud.
+background
+In August  2017  Mr F visited a branch of another bank, where  he had an account,  and 
+instructed the staff there  to make a CHAPS  payment  of £120,000 to a NatWest account. He 
+believed that the NatWest  account  belonged to his solicitor, but the solicitors  email had 
+been intercepted  by a fraudster who had changed  the account  details. When this came  to 
+light a few days later, Mr F immediately contacted  his own bank. His bank contacted 
+NatWest, but the money had already been withdrawn or spent, and there  was nothing left to 
+recover.
+Mr F complained to NatWest, and later to this service, that NatWest had been negligent in 
+allowing the payment to go through. He said that NatWest should have spotted  that the 
+name on the receiving  account did not match the name on his written  payment instruction. 
+He said that NatWest had not carried out proper checks, even  though it had had time to do 
+so (because the payment had cleared a few hours  after he requested  it). He also complained 
+that NatWest had not carried out proper anti-money laundering checks  on the payment, or 
+on the withdrawal  of the money from the NatWest account.
+NatWest said it didnt  have the ability to check the name on the payment  instruction, and it 
+had complied with the relevant rules.
+Our investigator did not uphold this complaint. He said that NatWest  had been  under no 
+obligation to do more than check the account  number and sort code. It hadnt  had to check  
+the name on the account.
+Mr M, who works at a claims management  company acting for Mr F, asked for an 
+ombudsmans decision. He argued  that NatWest should have identified that there  was 
+something suspicious about the fraudsters  account  being credited with £120,000, followed 
+by six withdrawals of £20,000  each over the next six days. He also argued that new anti-
+fraud measures announced in 2016  should have  been implemented sooner. So this 
+complaint has been passed to me.
+my findings
+I have considered all the available evidence  and arguments to decide what is fair and 
+reasonable in the circumstances of this complaint.  I do not uphold it. I will explain why.
+The Financial Ombudsman  Services jurisdiction does not extend to all complaints  that may 
+be made to it. We are subject to rules made by the Financial Conduct Authority, which state 
+that we may only consider complaints brought by eligible complainants,  such as customers  
+of the respondent. Mr F is not a customer of NatWest, but he is another  kind of eligible 
+complainant  a payment  service user, meaning that he made a CHAPS  payment to a 
+NatWest account. However,  under the rules I can still only consider  his complaint to the 
+extent that it arises from this payment. That means  that I cannot  consider his complaint 
+about what NatWest  did before  or after the payment  was made.  Specifically, I cannot  
+consider his or Mr Ms arguments  about  whether NatWest should have opened the account, 
+or whether it should have been  suspicious of the withdrawals after the payment was made, 
+Ref: DRN50544022or whether it should have frozen the £120,000 in the account. I can only consider the 
+payment itself.
+I do take Mr Ms point about the payment being so large that it should have triggered anti-
+money laundering measures. But that would not necessarily have prevented the payment 
+from going through. Rather, that is something  which (if it happened) would not necessarily 
+take effect until after the funds were paid into the account, at which point my jurisdiction 
+ends. So I am unable to consider this argument further.
+The legislation which applied to CHAPS  payments at the time was a statutory instrument 
+called the Payment Services Regulations 2009. These regulations  set out what NatWest was 
+required to do when  processing a payment. In summary, NatWest was only required to 
+consider the account number and sort code  collectively called the unique identifier in the 
+regulations.
+Regulation 74, entitled Incorrect  unique identifiers,  said that if a person making a payment  
+provided his bank with the unique identifier for the wrong account, then each bank involved  
+the sending bank and the receiving bank  would  not be liable for sending the money to that 
+account instead of to the right account.  If the person provided  any additional information, 
+such as the name of the intended account  holder, then this would not affect the banks 
+liability  they only had to see that the money went to the account identified by the unique  
+identifier.
+I recognise that that may sound harsh,  but the reason  for that rule is that the CHAPS system  
+did not allow sending  banks to check whether the name  they had been given for the 
+destination account matched the name actually on that account. Nor did it allow  receiving 
+banks to know the name which  had been given to the sending bank.
+As Mr M has pointed out, there are plans  to change this, but NatWest is not responsible for 
+the fact that this did not happen in time to help Mr F. NatWest  cannot unilaterally change  the 
+way that the entire banking industry  operates. The change had to be led by the Financial 
+Conduct Authority  (the regulator) or by the Bank  of England (which operates  the CHAPS  
+clearing system).  So I cannot  say that NatWest has done anything wrong.
+my final decision
+My decision  is that I do not uphold  this complaint.
+Under the rules  of the Financial Ombudsman Service,  Im required to ask Mr F to accept or 
+reject my decision  before 9 November 2019. But if we dont hear from him, then we will 
+presume that he rejects it.
+Richard Wood
+ombudsman
+Ref: DRN5054402

@@ -1,0 +1,158 @@
+DRN-4066027
+The complaint
+Mr A is unhappy Monzo Bank Ltd will not refund the money he lost as the result of an 
+investment scam.
+Mr As complaint has been brought by a representative, for ease of reading I will refer solely 
+to Mr A in this decision.
+What happened
+All the details are well known to both parties and were set out in the investigators view of 12 
+January 2023 - so I wont repeat them in full here. In summary, Mr A was the victim of an 
+investment scam which resulted in him making the following payments from his Monzo 
+current account.
+Payment 
+number DateMethod of 
+payment Merchant Amount (£)Running 
+total
+1 15 June 2022 Debit card Wellari.tech £208.47 £208.47
+2 22 June 2022Faster 
+Payment Skrill (Binance) £1,001 £1,209.47
+3 6 July 2022Faster 
+Payment Skrill (Binance) £3,643 £4,852.47
+4 6 July 2022Faster 
+Payment Skrill (Binance) £3,643 £8,495.47
+                                                                                                                     
+Total £8,495.47 £8,495.47
+Mr A believed he was funding his investment opportunity with a company Ill call C after 
+being contacted by them. He was persuaded to open a cryptocurrency exchange account in 
+order to buy crypto to fund his investment with C but it turned out to be a scam. 
+ 
+Mr A says Monzo ought to have identified he was likely fallen victim to a scam and feels it 
+could have prevented his loss. 
+Monzo declined Mr As refund. It tried to recover the faster payments from the beneficiary 
+bank but the bank advised the funds had been utilised. It also concluded Mr A had no 
+recourse through the Mastercard chargeback scheme for his debit card payment. 
+Mr A referred his complaint to this service explaining that he wants a full refund along with 
+£500 compensation; and for Monzo to cover any related legal costs. 
+Our Investigator upheld the complaint in part. He felt Monzo ought to have been concerned 
+about Mr As final faster payment as it represented unusual and uncharacteristic account 
+activity and he felt an intervention could have prevented further losses. He did however feel 
+Mr A should share equal responsibility for this payment as the due diligence checks he says 
+he carried out ought to have identified many negative reviews about C. Mr A accepted but 
+Monzo did not. 
+Monzo said in summary, the payments were not out of character as Mr A had a short history 
+of trading in cryptocurrency over a few weeks and he mainly used the account for faster 
+payments. It also knew the payments were going to an account in Mr As name and 
+intervening would be putting barriers up for him. 
+The case was therefore passed to me for determination.
+ 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+At the time Mr A made his payments, banks were expected to process payments a
+customer authorised it to make; but as a matter of good industry practice, a bank should
+have taken proactive steps to identify and help prevent transactions  particularly unusual or
+uncharacteristic transactions  that could involve fraud or be the result of a scam.
+There is a balance to be struck: banks had (and have) obligations to be alert to fraud and
+scams and to act in their customers best interests, but they cant be involved in every
+transaction.
+Firstly, this was a very sophisticated scam and Mr A had been introduced to what appeared 
+to be a very real investment opportunity with a trading platform that indicated his investment 
+was performing well. So I think he trusted C was a legitimate investment opportunity at the 
+time he made all of his payments. 
+Three of the four payments in dispute were Faster Payments sent to a well-known crypto 
+exchange. Monzo has said it identified Mr A was paying a crypto exchange account in his 
+name  so its reasonable for me to conclude that Monzo ought to have known that Mr A was 
+likely purchasing crypto at the time he sent these payments. Ive also thought about whether 
+there was anything else about the payments which ought to have concerned Monzo. 
+The first two payments
+I agree with our investigator and I dont think I can fairly say that the first two payments were 
+sufficiently unusual or uncharacteristic for the account. They were in keeping with Mr As 
+normal account activity when considering his previous account spend. For example, Mr A 
+made an undisputed Faster Payment of £1,328 in February 2022. 
+The payments were also made one week apart and so appeared to be one-off payments. I 
+dont think Monzo ought to have been obliged to have intervened before allowing either of 
+them through in order to protect Mr A from the possibility of financial harm from fraud  as I 
+dont think it could have reasonably suspected this. 
+Payment three
+Whilst payment three was higher than payments one and two, it was also approximately two 
+weeks after payment two. I dont think Monzo ought reasonably to have suspected Mr A was 
+at risk of financial harm. Its not uncommon for customers to spend larger amounts at any 
+given time. I dont think payment three was sufficiently unusual or uncharacteristic to mean 
+that Lloyds ought to have suspected that Mr As account was at risk of financial harm from 
+fraud and therefore warrant an intervention. 
+Payment four
+I do however think payment four, when taken cumulatively with payment three ought to have 
+warranted an intervention from Monzo. Payment four represented a total of £7,286 on the same day to a relatively new payee for Mr A. This was the most Mr A had spent since 
+September 2021 and I think Monzo ought to have had some concern that Mr As account 
+was subject to unusual and uncharacteristic activity.
+Monzo has said Mr A would have seen a new payee warning when he sent his first Faster 
+Payment. Ive read the contents of the warning Mr A would have seen and I dont think it was 
+relevant to the investment scam hed fallen victim to. 
+Monzo confirmed it didnt intervene and I think it was a missed opportunity to do so. 
+If Monzo had intervened (as I think it ought reasonably to), Id have expected it to query with 
+Mr A what the purpose of the payment was. I think hed have likely explained he was 
+purchasing crypto. Id also have expected Monzo to query whether he was investing upon 
+the advice of a third party. I think Mr A would have likely explained he was investing with C 
+and had been investing with them for a few weeks. 
+I think Monzo ought to have asked if Mr A had been able to withdraw any of his investment 
+and I think Mr A would likely have explained he had tried but was told he needed to pay 
+money to release his profits. I think this would have been of concern to Monzo as it would 
+likely have recognised this as a theme of a common investment scam. I think at this point, 
+Monzo could have provided some useful information about how crypto investment scams 
+work and that it sounded like Mr A had fallen victim to one. 
+So before payment four was actually processed, Mr A would probably have stopped in his 
+tracks. But for Monzos failure to act on clear earlier triggers of potential fraud or financial 
+harm, Mr A would probably have not lost this final payment.
+ 
+Ive also thought about whether Mr As actions contributed to his losses. Despite regulatory 
+safeguards, there is a general principle that consumers must still take responsibility for their 
+decisions (see s.1C(d) of our enabling statute, the Financial Services and Markets Act 
+2000).
+In the circumstances, I do think it would be fair to reduce compensation on the basis that Mr 
+A should share blame for what happened. As I explained, this was a sophisticated scam and 
+I think Mr A believed it was legitimate. But Mr A said before investing with C, he conducted 
+due diligence checks on Trustpilot. He said he saw good reviews about C but having 
+checked this myself, Ive not found any good reviews about C but I have noted several scam 
+reviews prior to Mr As first payment to them. So like our investigator, its likely Mr A ignored 
+the scam reviews, or didnt carry out any due diligence checks but given his testimony, I 
+agree that he should share 50% responsibility for this payment. 
+Recovery
+Ive considered whether Monzo could have recovered any of Mr As payments. As he made 
+a payment using his debit card, the only potential recovery option for payment one would 
+have been through the chargeback scheme. 
+The chargeback process is voluntary and run by the card scheme  in this case Mastercard -
+whereby it will ultimately arbitrate on a dispute between the merchant and customer if it 
+cannot be resolved between them after two presentments. Such arbitration is subject to the 
+rules of the scheme  so there are limited grounds on which a chargeback can succeed or 
+be deemed a valid claim. 
+Our role in such cases is not to second-guess the card scheme rules, but to determine 
+whether the regulated card issuer (i.e. Monzo) acted fairly and reasonably when presenting 
+(or choosing not to present) a chargeback on behalf of Mr A.I dont see that Monzo attempted a chargeback claim for payment one. But I dont think this 
+makes a material difference. Mastercard restricts chargeback options for investment 
+transactions. It considers the purpose of the Mastercard transaction to load funds into the 
+gambling or investment account and not what activities are subsequently done with the 
+funds. There doesnt seem to be a dispute that Mr As funds were ultimately loaded onto his 
+investment account, so I dont think Monzo had a valid chargeback ground to use in this 
+instance. 
+In relation to payments two to four, these were Faster Payments sent to Mr As own account 
+with Skrill (Binance). I have however seen that Monzo attempted to recover these payments 
+from the beneficiary bank and it received a response advising the funds had been utilised. 
+I therefore dont think Monzo could have recovered any of Mr As payments. 
+I do however think it could have prevented payment four so it should return this, less 50%, 
+together with interest. 
+Customer service 
+Ive considered Mr As request for compensation and legal fees. Whilst I think Monzo missed 
+an opportunity to intervene, I dont intend to award additional compensation for this. I think 
+most of Mr As distress was caused by the cruel scammers, rather than Monzo. I also dont 
+intend to award a payment towards Mr As legal fees, he isnt required to come to this 
+service with a legal representative as we offer a free service, so any costs incurred by Mr A 
+are his responsibility to pay. 
+My final decision
+Monzo Bank Ltd should refund payment four less 50% which totals £1,821.50. It should also 
+pay 8% simple interest, per year, on this amount, from the date of the payment, to the date 
+of settlement (less any lawfully deductible tax).  
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr A to accept or 
+reject my decision before 27 July 2023.
+ 
+Dolores Njemanze
+Ombudsman

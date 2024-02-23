@@ -1,0 +1,108 @@
+DRN-3940645
+The complaint
+Mr D has complained that Barclays Bank UK Plc unreasonably refused to refund him eight 
+transactions totally £6,415 which was taken out of his account between March and April 
+2022. 
+What happened
+On 6 April 2022 Mr R complained to Barclays that eight transactions taken out of his account 
+were not authorised by him. 
+These were as follows: 
+28/03/2022 £10
+30/03/2022 £480
+31/03/2022 £890
+31/03/2022 £95
+01/04/2022 £1,275
+04/04/2022 £1,495
+04/04/2022 £185
+04/04/2022 £1,985
+Which total £6,415. And that he believed they were fraudulent and should be refunded. It 
+transpires the transactions were made to a cryptocurrency exchange. 
+Mr D is adamant he didnt make these transactions or authorise them. Barclays said the 
+payments were made from Mr Ds registered device with the logins to the Barclays app 
+being verified by the correct passcode. It also said Mr D hadnt lost his device and that Mr D 
+said he hadnt downloaded anything or being contacted by any company, or the police or 
+HMRC etc asking him for his banking details. Therefore, Barclays said it couldnt see how 
+his device was compromised to allow access to his bank account. Further it explained that 
+given the transactions took place over an eight-day period which isnt usual for fraudsters as 
+they would try and take as much as they could as quickly as they could. On this basis 
+Barclays said there was no reason for it to refund these transactions to Mr D. 
+Mr D then brought his complaint to us. The investigator also felt that because there was no 
+evidence of any compromise to Mr Ds device, he didnt think Barclays was required under 
+the relevant regulations to refund these transactions to Mr D.
+ 
+Mr D disagreed so his complaint has been passed to me to decide.    
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, Im not upholding this complaint and Ill now explain why.
+First, I do understand and appreciate how disappointed Mr D will be with my decision. Im 
+aware of the extensive information he has sent in and I have looked through all of it. 
+The rules under which banks like Barclays operate to include refunding disputed 
+transactions like in Mr Ds complaint are called the Payment Service Regulations (PSRs). 
+Under these regulations Barclays should refund the transaction if Mr D didnt authorise them.
+ 
+So, the first issue is whether the disputed transactions were authorised. Authorisation under 
+the PSRs is very clearly defined. For a payment transaction to be regarded as having been 
+authorised, the bank must show that the Mr D consented to the transaction. This notion of 
+consent is very specific. Consent is deemed to have been given by the payer, (Mr D) here, if 
+the transaction was done using the form and procedure required to make a payment. In Mr 
+Ds complaint this means that the app was properly logged into using the correct passcode 
+and from a device registered to the account. There is no dispute between Mr D and Barclays 
+that Mr Ds device accessed the app correctly when these eight disputed transactions each 
+took place over an eight-day period. 
+So, under the PSRs the concept of consent is a formal one. I do understand Mr D is clearly 
+of the view he never did these transactions or indeed wanted to do these transactions. But 
+given how the app was accessed, and given it was in the correct format, I consider consent 
+is consequently deemed to have been given under the PSRs.
+ 
+Further the transaction payment must be authenticated under the PSRs. This means that 
+the identity or the validity of the use of the procedure was used correctly. This is the case 
+here in Mr Ds complaint as it was his registered device who logged into the app using the 
+correct passcode and made the transactions.
+ 
+According to Mr D, his device was never lost, stolen, or mislaid at the times these 
+transactions occurred. These transactions took place generally early in the day. The app 
+was accessed correctly. The audit trails, online banking logs and mobile banking logs all 
+confirm there was no failed log in attempts. The IP address used for these transactions is the 
+same used for other undisputed transactions which Mr D made.  
+Once a request for a transaction is made to Barclays, under PSRs the bank is under an 
+absolute duty to make the payment, which is what Barclays did here on the basis the app 
+was accessed by the correct passcode. All customers like Mr D have a duty not to disclose 
+their passcodes or security details to anyone. And since Mr Ds device was not stolen or 
+mislaid, I dont consider its unreasonable for Barclays to conclude the transactions were 
+either done by Mr D or someone else on his behalf. 
+Also, these transactions were done over a period of eight days and in between these 
+disputed transactions Mr D is seen to have accessed his online banking too. Furthermore, 
+the cryptocurrency account whilst not using Mr Ds full name, did have the right email 
+address and postcode for Mr D too. Sadly, despite efforts to fully identify this crypto account 
+that is all the information weve been able to get.
+Barclays has also explained to us that in order to set up a new payee on an account, the 
+fraudster would have had to provide details of the CVV and expiry date from their debit card 
+or their Barclays app 5 digit passcode. The customer will receive one of these options at the 
+end of the payment journey and are unable to choose which method they can use to 
+complete the transaction. Therefore, the fraudster would have had to have both to hand 
+depending on which one was required. Most importantly in my view the transactions start small and then generally get larger in 
+value over the eight days. From what this service understands about how fraud and scams 
+operate it would seem very unusual for a fraudster with full access to Mr Ds device and 
+therefore online banking, to only take a small proportion of the overall balance as in this 
+account alone the balance at the time of these disputed transactions was £94,000, plus Mr D 
+had other savings accounts with significant balances. So, its odd any fraudster wouldnt 
+have helped themselves to some of that too. 
+I appreciate that Mr R has gone to an extensive amount of trouble to detail a significant 
+amount of information about scams and specifically remote access scams. But again if a 
+fraudster gained such remote access (which is difficult when Mr R is also very clear that he 
+didnt unwittingly download something unusual or was tricked into giving security 
+information) why only take such small amounts (given the overall balance) and over an eight 
+period too. That doesnt seem very likely in my view. Lastly Barclays in addition to confirming 
+there were no failed logins also saw no third-party access to Mr Rs account, which means 
+his account was accessed by his registered device with the passcode which only Mr R knew.
+Therefore, on balance I dont consider Barclays did anything wrong in refusing to refund Mr 
+R these disputed transactions since theres no evidence other than Mr R or someone on his 
+behalf authorised these disputed transactions. 
+My final decision
+So, for these reasons, its my final decision that I dont uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr D to accept or 
+reject my decision before 19 July 2023.
+ 
+Rona Doyle
+Ombudsman

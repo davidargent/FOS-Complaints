@@ -1,0 +1,122 @@
+DRN-2380645
+The complaint
+W complains that Paymentsense Limited was responsible for assisting it in ensuring it was 
+PCI DSS (payment card industry date security standard (PCI DSS) compliant. 
+But W says Paymentsense Limited didnt take sufficient action to let it W know there was a 
+problem with its compliance  and therefore W unfairly received charges in relation to this.
+What happened
+W is a business, which in addition to accepting cash payments, accepts payments from its 
+customers by card. As a merchant taking payments by card, W has a duty to make sure its 
+customers personal information, as well as their payment details, are kept secure. To ensure 
+this duty is met, W needs to be compliant with payment card industry data security standards 
+(PCI DSS). 
+It is Ws responsibility to be compliant with the above standards. But, W paid Paymentsense 
+a fee to enrol in its PCI scheme. The scheme is mandatory  and is there to assist a 
+merchant in ensuring compliance with the PCI DSS. 
+W said it didnt receive any information from Paymentsense alerting it to action W needed to 
+take to be PCI DSS compliant. So, W had assumed it was compliant with the relevant 
+standards.
+But, in September 2019, W said it became aware it had been incurring PCI DSS non-
+compliance fees since March 2018. It raised this with Paymentsense, and asked how it could 
+go about having these fees removed. Paymentsense told W it could not remove the charges. 
+Paymentsense said it was the duty of the merchant, in this case W, to be compliant with the 
+necessary standards. And W had not completed the tasks it needed to, to show compliance. 
+Paymentsense said it had done what it needed to do as part of the PCI scheme. It said it had 
+let W know, via email, there was action it needed to take to become PCI DSS compliant. It 
+explained it had sent emails to the email address detailed on Ws account. Because W didnt 
+take any action, the non-compliance fees were charged. Because of this, Paymentsense 
+said it wouldnt be refunding the majority of the non-compliance fees charged.
+However, Paymentsense did say it could see that since W had raised the complaint, W had 
+gone on to complete the compliance tasks. So, it said it would refund the last two fees 
+charged. And it noted it had applied a refund for another service, Plus+, which W had said it 
+wasnt aware it had, and hadnt used.
+W didnt think Paymentsenses response to its complaint was fair. It felt Paymentsense 
+should have taken further action to stop W incurring non-compliance fees. W said the email 
+address Payment sense had sent emails to was an old one, and no longer in use. And, that 
+when Paymentsense saw the actions it was asking W to complete werent done, it should 
+have realised the emails werent being received by W. And it then should have tried to 
+contact W using other contact details it had for W.
+Because W remained unhappy, it referred its complaint to this service for an independent 
+review. W felt Paymentsense should refund the fines charged  as well as the management 
+fee for PCI DSS compliance.
+Our investigator didnt think Ws complaint should be upheld. He said the terms of Ws 
+agreement made it clear PCI enrolment was mandatory, and non-compliance fees could be 
+passed on to the merchant, if there was a failure to comply. 
+Our investigator was satisfied Paymentsense had sent emails to W alerting it on the need to 
+take action in relation to compliance. He said Paymentsense had used the email address 
+given to it when the account was set up  and none of these emails had bounced back. So, 
+he felt Paymentsense had acted fairly in only using that method of contact in this case. 
+W didnt agree. It reiterated that Paymentsense had a number of alterative contact methods 
+it could have used to communicate with W, but it failed to do this. 
+As W remained dissatisfied this complaint was referred to me to decide.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, Im satisfied Paymentsenses offer to refund to two fees, and refund the 
+payment for the Plus+ service is fair. So, I dont require it to do anything more. Ive explained 
+why below.
+Ive reviewed the terms and conditions of Ws agreement. The terms and conditions of the 
+merchant services agreement signed by W in January 2017, explains that enrolment in 
+Paymentsenses PCI scheme is mandatory. 
+Further information about PCI DSS is included in the merchant conditions booklet at section 
+12.3. This section explains that W will need to attest compliance with the PCI DSS, by 
+completing the PCI DSS compliance programme. And, if the merchant (W in this case) is 
+deemed non-compliant it will be asked to remedy this and may be charged non-compliance 
+fees.
+In this case, neither party is disputing that W was non-compliant, until later in 2019, when W 
+completed the relevant actions to attest compliance. So, in line with the above terms and 
+conditions, Im satisfied its reasonable for Paymentsense to charge non-compliance fees for 
+the period in which compliance was not present.
+W has said that in this case, it doesnt consider this to be fair  because it wasnt aware of its 
+non-compliance. It said Paymentsense didnt take enough action to let it know it needed to 
+complete tasks. So, Ive considered whether Paymentsense did enough to alert W to the 
+problem. And, based on the information Ive seen, I think it did.
+I can see in February 2017 W made a request for a reminder of the username and password 
+for the online PCI portal it needed to log in to  on which compliance could be attested. And 
+Ive seen copies of the emails sent to W, in response to this request. The email containing the relevant username details explained that its Ws responsibility to 
+update the email address on file once logged into the portal, to ensure the address on the 
+system is for the person who will be responsible for attesting compliance.
+ 
+This email also explains that if the relevant email address changes, this needs to be updated 
+ otherwise key information could be missed by W. I think this makes it sufficiently clear that 
+the email address on the account will be used as the primary communication method  and 
+that W was made aware of how important the correct email address was. 
+Paymentsense has also provided screen shots of its system, which shows the email address 
+for the account was updated after the username and password reminders were given. These 
+screen shots also show regular emails were sent to W, from early 2017, to alert W that 
+action needed to be taken in relation to PCI DSS compliance. These emails were sent on a 
+monthly basis. And were sent to the email address that had been updated and noted on the 
+account. Given this information, I do think Paymentsense provided sufficient reminders to W 
+of the need to take action  and it did so in line with the email address it had on file. So, I 
+dont think Paymentsense did anything wrong here, by using this as the method of 
+communication with W.
+W has said that as it hadnt responded to Paymentsense, based on those emails, for around 
+18 months, Paymentsense should have been aware the information it was giving W wasnt 
+getting through to it. And, that it should have used another method of communication, to 
+ensure the information did reach W. 
+Ive thought carefully about this. But I dont think that in this case, Paymentsense acted 
+unfairly by solely using the email address to communicate. The screen shots Paymentsense 
+provided to me show the emails were sent and give no evidence to show the emails werent 
+being delivered  none of them bounced back. So, I dont think Paymentsense would have 
+been reasonably aware they werent reaching W. 
+Because of this, I wouldnt have expected Paymentsense to have tried alternative methods 
+of communication. It was using the email address given on the account. And the information 
+provided to W made it clear of the need to be compliant, that email communication was 
+used, and that providing up to date information was important. So, I dont think at that point 
+Paymentsense needed to do anything more.
+In October 2019, Paymentsense said it was aware W had now completed compliance. And 
+that because of this, it was willing to offer a refund of the last two fines. It also mentioned 
+some action unrelated to the compliance fees  that it would credit Ws account with a refund 
+for another service W wasnt aware it had, or used. Ive thought about whether this action is 
+fair. And Im satisfied it is. Paymentsense has recognised that compliance was completed, 
+and it took action to acknowledge that. So, Im satisfied this was a reasonable resolution to 
+the complaint W raised. 
+My final decision
+In light of the above, my final decision is that Paymentsense Limiteds offer to refund two 
+non-compliance fees, and the Plus+ service is fair. 
+If Paymentsense Limited hasnt already done this, it should do so within 28 days of being 
+told W accepts my decision.Under the rules of the Financial Ombudsman Service, Im required to ask W to accept or 
+reject my decision before 24 December 2020.
+ 
+Rachel Woods
+Ombudsman

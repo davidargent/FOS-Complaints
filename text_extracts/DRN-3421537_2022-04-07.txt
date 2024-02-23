@@ -1,0 +1,224 @@
+DRN-3421537
+The complaint
+Mr M complains that HSBC UK Bank Plc (HSBC) wont reimburse the funds he lost when 
+he was scammed.
+What happened
+In February 2018, Mr M came across Greenfields Capital when he was looking online to 
+invest money. He was subsequently telephoned by an individual claiming to be an account 
+manager at Greenfields Capital and was sold an investment opportunity. 
+Over the next several weeks, the following transactions were made using Mr Ms debit and 
+credit cards:
+Transaction 
+Date Type Merchant Amount
+27 February 2018 Credit card Greenfieldscapital.com £250.00 (undisputed)
+28 February 2018 Credit card Greenfieldscapital.com £8,075.00 (undisputed)
+28 February 2018 Debit card Greenfieldscapital £250.00
+1 March 2018 Debit card Greenfieldscapital.com £250.00
+1 March 2018 Debit card Greenfieldscapital.com £10,000.00 (blocked)
+1 March 2018 Debit card Greenfieldscapital £2,500.00 (blocked)
+1 March 2018 Debit card Greenfieldscapital.com £999.00 (blocked)
+14 March 2018 Debit card Greenfieldscapital £250.00 (credit)
+2 April 2018 Debit card Credit Voucher £700.00
+2 April 2018 Debit card Credit Voucher £701.00
+2 April 2018 Debit card Greenfieldscapital.com £700.00
+2 April 2018 Debit card Greenfieldscapital.com £3,899.00
+2 April 2018 Debit card Greenfieldscapital.com £9,999.00
+2 April 2018 Debit card Greenfieldscapital £9,998.00
+3 April 2018 Debit card Greenfieldscapital £7,500.00
+5 April 2018 Debit card Greenfieldscapital £443.60 (credit)
+Total disputed payments £33,997.00
+Total credits £693.60
+Total loss £33,303.40
+Mr M says he agreed to the make the two credit card payments and these arent in dispute. 
+But the remaining payments werent authorised by him (although at the time of reporting the 
+matter to HSBC, he acknowledged that he had also authorised the two £250 debit card 
+payments).
+Mr M reported the unauthorised payments to HSBC when he noticed them on his bank 
+statements. He also said that someone had transferred money from his savings account into 
+his current account before the unauthorised payments were taken. Mr M attempted to 
+recover the funds from Greenfields Capital by making a withdrawal request, but it was 
+declined.
+HSBC presented a chargeback request after receiving additional documentation from Mr M.  
+While awaiting a response, it also temporarily refunded the disputed amounts. The 
+chargeback was successfully defended by the merchant and HSBC took it to arbitration. 
+Visa, the card scheme operator in this case, ultimately ruled in the merchants favour. 
+Following this decision, HSBC reversed the funds that had been temporarily returned to 
+Mr M.
+Unhappy with this, Mr M referred his complaint to our service. Our investigator was 
+persuaded that the disputed transactions were authorised by Mr M. She also concluded that 
+Greenfields Capital wasnt a legitimate trader. It was also her view that HSBC hadnt acted 
+done anything wrong in relation to raising a chargeback. But given it had blocked several 
+payments to Greenfields Capital, the investigator thought that HSBC should have properly 
+questioned Mr M before processing subsequent payments to the merchant. Mr M accepted 
+the investigators findings, but HSBC didnt. 
+I issued my provisional decision last month and said that I planned to uphold this complaint, 
+but the redress I intended to award was different to what the investigator recommended. 
+I invited further comments and evidence from both parties. Mr M said that he didnt have any 
+further comments to make, and HSBC said that it accepted my findings. 
+As neither party has provided anything further for me to consider, I see no reason to depart 
+from my provisional findings. What follows below is my provisional decision made final.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Mr M has accepted the investigators conclusion that he authorised the payments in 
+question. As authorisation is no longer in dispute, it isnt necessary for me to make a finding 
+on this issue. 
+Given the information Ive found during my research on Greenfields Capital, Im satisfied that 
+it wasnt a legitimate trader. It wasnt regulated by the Financial Conduct Authority (FCA) 
+which was a requirement at the time. There are also warnings published about it on the 
+Investor Alerts Portal of the International Organisation Securities Commissions (IOSCO) by 
+Superintendencia del Mercado de Valores in Panama, as well as by the Czech National 
+Bank. And a warning was also later published by the FCA. 
+While I think that the Greenfields Capital was likely operating a scam, the chargeback 
+scheme rules dont automatically entitle Mr M to a refund. Visa does give chargeback rights 
+in relation to investments, but those rights are very narrow. Reason Code 13.5 (previously 
+53) allows claims for misrepresentation for investments where the merchant refuses to allow 
+the cardholder to withdraw available balances. But Visa requires very specific evidence  a 
+copy of the cardholders investment account showing the date, the withdrawal amount and 
+the available balance, at the time the withdrawal request was made.
+From the information Ive seen, it doesnt appear as though Mr M was in possession of this 
+information when he contacted HSBC. Or, that he would have been able to provide all the 
+required evidence if it had been requested at the time. Regardless, I can see that HSBC did 
+present a chargeback and followed it through to arbitration. But Visa ruled in favour of the 
+merchant. My role is not to second-guess Visas arbitration decision or its chargeback scheme rules, 
+but to determine whether the card issuer (HSBC in this case) acted fairly and reasonably 
+when presenting (or choosing not to present) a chargeback on behalf of its cardholder. Here, 
+HSBC presented a chargeback even though it didnt have all the required evidence. In the 
+circumstances, I dont think HSBC acted unreasonably in how it dealt with the chargeback 
+request.
+Ive also considered whether HSBC ought to have done more to prevent the disputed 
+payments from being sent in the first instance. For the avoidance of any doubt, like the 
+investigator, Ive only looked into the debit card transactions as the credit card transactions 
+arent in dispute.
+Its common ground that the disputed payments were authorised by Mr M. Under the 
+Payment Services Regulations 2017 in force at the time, Mr M is initially presumed liable for 
+the loss even though he didnt intend for his money to go to fraudsters. 
+As a starting position, banks should execute an authorised payment instruction without 
+undue delay. However, in accordance with the law, regulations and good industry practice, a 
+bank has a duty to protect its customers against the risk of fraud and scams so far as is 
+reasonably possible. If, in breach of that duty, a bank fails to act on information which ought 
+reasonably to alert a prudent bank to potential fraud or financial crime, it might be liable for 
+the losses incurred by its customer as a result.
+HSBC is aware of our approach of expecting it to have been monitoring accounts to counter 
+various risks, to have systems in place to identify unusual transactions or other indicators 
+that its customers were at risk of fraud and, in some situations, to make additional checks 
+before processing payments, or declining them altogether to protect customers from possible 
+financial harm from fraud. 
+As long ago as June 2012, the then regulator, indicated  in its consultation paper Banks 
+Defence Against Investment Fraud; detecting perpetrators and protecting victims  that it 
+was good industry practice for firms to put together an updated watch-list of types of scams 
+and potential scammers; and to regularly share timely and detailed intelligence with other 
+banks, UK and overseas regulators, the police etc.
+While the regulator didnt give any indication of when those watchlists ought to be updated, 
+its not unreasonable to expect an international bank, like HSBC, to update those lists, and 
+communicate with staff, within a month of a warning being published by the FCA or IOSCO. 
+In my judgement, such alerts should automatically trigger the banks fraud prevention 
+systems and lead to payments being paused, pending further intervention  such as making 
+enquiries of the customer about the payment or giving a scam warning.
+Here, there were no regulator warnings in place about Greenfields Capital when Mr M made 
+the first two payments on his debit card. An IOSCO alert about Greenfields Capital was first 
+published on 13 March 2018. And the FCAs warning was published on 18 April 2018. So, 
+the remaining payments were all authorised less than a month after the first published 
+warning. 
+In the circumstances, I wouldnt have expected HSBC to have picked up payments to 
+Greenfields Capital as being suspicious based on the merchant name alone. Two of the 
+disputed payments were to Credit Voucher (even though the purchase was to facilitate 
+deposits to Mr Ms account with Greenfields Capital). There is no regulator warning about 
+this firm. So, for similar reasons, I wouldnt have expected these payments to have triggered 
+HSBCs systems either.But this isnt the end of the matter. Ive considered the operation of Mr Ms account in the 
+months leading up to the disputed payments. This is to determine whether they were so 
+unusual or uncharacteristic that I think HSBC ought to have intervened. 
+I dont consider any of the disputed payments to be out of line with Mr Ms general account 
+activity. The account statements show that it wasnt unusual for him to make large-value 
+payments from his account. For instance, I can see third-party payments for £9,950 in 
+August 2017, as well as £10,930 and £7,620 in November 2017. So, I dont consider any of 
+the disputed payments to be so unusual or uncharacteristic that HSBC ought to have 
+intervened.
+That said, HSBC did block several payments to Greenfields Capital on 1 March 2018. Given 
+HSBCs fraud detection systems were triggered and required an intervention, its my 
+judgement that HSBC had reasonable grounds to suspect fraud or scam at this time. So, it 
+would have also been reasonable for the bank to have asked Mr M appropriate probing 
+questions before processing the payments. 
+I understand HSBC called Mr M on 6 March, but he asked for a letter to be sent to him 
+regarding its enquiries. And so, HSBC wrote to him. It is also my understanding that a 
+response wasnt received. Mr Ms debit card or his account wasnt blocked during that time. 
+There were no further transactions to Greenfields Capital until a month later  on 2 April  
+when four payments were authorised on the same day. On this occasion, none of the 
+payments were blocked by HSBC.
+Ive carefully considered the circumstances here and it is my judgement that HSBC fell short 
+in its duty of care by processing the payments authorised on 2 April. I say this because it 
+already had concerns about payment attempts to Greenfields Capital at the beginning of 
+March. To an extent, I can understand HSBC had reasons for not blocking Mr Ms debit card 
+(or indeed his account) completely while it made enquiries. But I cant see that the concerns 
+it had about payments to Greenfields Capital were addressed. I therefore question why only 
+a month later HSBC executed multiple same-day payment instructions  totalling £24,596  
+to the very same merchant without further intervention. 
+I consider it would have been prudent for HSBC to have satisfied itself that all was good with 
+regards to Mr Ms payments to Greenfields Capital before processing them. If Mr M had 
+difficulty discussing matters over the phone, HSBC could have suggested a visit to the 
+branch. Or, sent a reminder about its written request. 
+I havent seen the contents of HSBCs letter. While it is not up to our service to dictate what 
+questions a bank should ask, HSBC could have, for example, asked how Mr M had been 
+contacted, whether he had parted with personal details in order to open a trading account, 
+whether the investment opportunity was linked to a prominent individual, or advertised on 
+social media etc. These are all typical features of investment scams  and form part of a 
+reasonable line of enquiry to protect a consumer from the potential risk of a prominent type 
+of scam. 
+Although there is no reason to doubt that Mr M would have explained what he was doing, 
+I accept it is possible that he might not have revealed enough information to lead HSBC to 
+understand whether he was at risk of financial harm from this particular type of fraud (or any 
+type for that matter). I cant know for certain what would have happened. However, I reach 
+my conclusions not based on mere possibilities, but rather on what I find most probable to 
+have happened in the circumstances. And on balance, Im satisfied that Mr M would have 
+likely shared information which aligned with the hallmarks of this type of scam, as he had been given no reason to think he had to hide this information from his bank, and neither had 
+he been coached to tell them something different.
+HSBC could have also explained its own customers experiences with unregulated and 
+unlicensed high-risk investment traders in that customers would often be prevented from 
+withdrawing available balances and trading accounts could be manipulated. After all, at that 
+time, there was information in the public domain  which a bank ought to have known even if 
+a lay consumer ought not  about the very high risks associated with binary options and 
+CFDs, including many warnings of potential fraud (e.g. Action Frauds June 2016 warning; 
+the European Securities and Markets Authoritys July 2016 warning; the FCAs consultation 
+paper of December 2016; the Gambling Commissions scam warning of December 2016; 
+City of London Polices October 2017 report noting victims had lost over £59m to binary 
+options fraud; Visas Business News publication of October 2017 where it expanded its 
+chargeback scheme rules to cover binary options and investment disputes arising from 
+merchants often unlicensed and unregulated deploying deceptive practices; and so forth). 
+I accept that, when simply executing authorised payments, banks such as HSBC dont have 
+to protect customers against the risk of bad bargains or give investment advice.
+However, the FCA has confirmed that a fraud warning would not constitute unauthorised
+investment advice  so I dont think HSBC would have acted out of line, had it warned Mr M
+along the lines that Ive described.
+Had HSBC indicated the potential for fraud and provided Mr M with a potential scam 
+warning, it seems more probably to me that he would have made further enquiries into 
+investment scams and whether Greenfields Capital was registered/licensed with the FCA or 
+even regulated abroad. He could have discovered it wasnt and would have seen the various 
+regulatory warnings about the risk of such scams. So, I am satisfied that a warning from his 
+trusted bank would probably have exposed Greenfields Capitals false pretences, such that it 
+would have prevented Mr M from sending further payments.
+Ive also considered whether Mr M is partly to blame for what happened. And I think that he 
+is. Ive noted Mr M has told our service that he had previous investment experience. 
+However, Im not aware that he carried out any due diligence before contracting with 
+Greenfields Capital. I havent seen any evidence that Mr M carried out any research into the 
+investment, the trader, or the investment type to reassure himself that the opportunity as 
+presented was genuine. So, I do think that Mr M ought to bear some responsibility for his 
+losses. Considering the individual circumstances of this complaint, I think that it would be fair 
+to reduce compensation by 20%.
+  
+Putting things right
+To put matters right, HSBC UK Bank Plc needs to reimburse Mr M the last five payments to 
+Greenfields Capital (from £700 on 2 April 2018 onwards), less any credits he received from 
+it, along with a 20% deduction for contributory negligence. That would mean an award of 
+£25,121.92.
+As the monies paid to Greenfields Capital was transferred in from Mr Ms savings account, 
+I consider it would be fair and reasonable for HSBC to pay interest on the disputed payments 
+at the applicable savings account rate rather than 8% simple interest that was recommended 
+by the investigator. This interest will need to be paid from the date of loss to the date of 
+settlement (less any tax properly deductible).My final decision
+For the reasons given, my final decision is that I uphold this complaint. I require HSBC UK 
+Bank Plc to put matters right for Mr M as set out above.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr M to accept or 
+reject my decision before 5 May 2022.
+ 
+Gagandeep Singh
+Ombudsman

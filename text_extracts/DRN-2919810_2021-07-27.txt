@@ -1,0 +1,117 @@
+DRN-2919810
+The complaint
+Mr C complained because Barclays Bank UK PLC refused to refund him for three 
+transactions which he said he didnt make.
+What happened
+On 20 August 2020, £7,300 credited Mr Cs Barclays Saver account.  Over the next few 
+days, most of that was transferred to Mr Cs Barclays Premier account, on which the 
+disputed transactions later took place.
+A number of undisputed payments took place. On 25 August, Mr C gave his card and PIN to 
+his girlfriend, who went out to a restaurant in the town where they lived. He stayed at home, 
+and he checked his online banking. He said that he saw that savings had been moved into 
+his Premier account and that there were three transactions he didnt recognise, totalling 
+£4694.38. 
+The next day, Mr C contacted Barclays and told the bank there were transactions he didnt 
+recognise. He initially disputed four transactions, but some weeks later said that  £98 
+transaction to a chemist was genuine.  When he reported the claim, Mr C told Barclays he 
+still had his card and his mobile  they hadnt been lost or stolen.
+Barclays investigated, but didnt uphold Mr Cs complaint. In its final response, Barclays said 
+that:
+- Mr Cs version of events had been inconsistent, and there was no police report;
+- Mr C had said that when the alleged fraud took place, his card was in his partners 
+possession. This was gross negligence and a breach of the terms and conditions to 
+which Mr C had agreed;
+- Mr C had told Barclays that hed made three of the transfers from his Saver account 
+to his Premier account, but not two of them, which raised Barclays suspicions about 
+his claim;
+- The same device had been used to make the disputed transactions and the genuine 
+ones;
+- Mr C had logged into his Barclays mobile banking regularly throughout the time of the 
+disputed transactions  but he hadnt raised a complaint until after the last one had 
+gone through.
+Mr C wasnt satisfied and complained to this service. He was originally represented by his 
+girlfriend, but later told us theyd fallen out and hed be dealing with the complaint himself. 
+Our investigator didnt uphold Mr Cs complaint. The transactions had been authorised using 
+a mobile payment service. The investigator explained that this had been registered to Mr Cs 
+Barclays account on 24 July 2020, using an PINsentry device. Setting this up would have 
+needed Mr Cs card number and PIN to have been entered, and a code would then have 
+been sent to his registered mobile number, to be entered online. The investigator noted that 
+Mr C still had his mobile in his possession when he reported the problem to Barclays. 
+The investigator also pointed out that a fraudster wouldnt set up a facility in July, then wait a 
+month to use it. Mr C had logged on many times since July, and hadnt contacted Barclays to 
+query the addition of the mobile payment service. The investigator also said that there were 
+multiple discrepancies in what Mr C had said. And he hadnt provided a plausible story about 
+how an unknown third party could have accessed all of Mr Cs phone, PIN, debit card and 
+PINsentry device, as well as returning them without Mr Cs knowledge.
+Mr C didnt agree and asked for an ombudsman decision. He also said he was on a number 
+of medications, and couldnt always remember everything.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Regulations
+There are regulations which govern disputed transactions. The relevant regulations for 
+disputed transactions taking place in August 2020 are the Payment Services Regulations 
+2017. These say that the payment service provider (here, Barclays) must show the 
+transaction was authenticated. Thats the technical part, and here, 
+Ive seen the computer records which show the first disputed transaction took place at 19:46, 
+and the third disputed transaction at 20:01. The transaction which Mr C initially disputed, 
+then later said was genuine, was authenticated using the same method and the same device 
+at 20:20.
+So I find that the disputed payments were authenticated.
+The regulations say that its then necessary to look at whether the card holder authorised the 
+payments. In general terms, the bank is liable if the customer didnt authorise the payments, 
+and the customer is liable if he did authorise them. The regulations also say that account 
+holders can still be liable for unauthorised payments under certain circumstances  for 
+example if theyve failed to keep their details secure to such an extent that it can be termed 
+gross negligence.
+Who authorised the disputed transactions?
+The three disputed transactions were carried out using the same mobile payment service. As 
+Ive set out above, this had been set up on Mr Cs account a month before the disputed 
+transactions. Hed logged onto his account on a number of occasions since this was set up 
+on his account, and hadnt reported anything about it to Barclays. This same mobile payment 
+service was also used for the transaction which Mr C initially disputed, then said was 
+genuine. So I consider its most likely that Mr C set up this mobile payment service himself. 
+And if a fraudster had somehow been able to set up the mobile payment service, its most 
+unlikely theyd then have waited a month before trying to take money out of Mr Cs account. 
+And it would have been such a coincidence that any such fraudster tried to do this, just when 
+Mr C had had an unusually large sum of money credited into his Premier account.
+Going on to the specific transactions, in order to authorise transactions using the mobile 
+payment service, the user would have to provide their phone security information, such as 
+Touch ID (either fingerprint or face) or the passcode. So they must have been carried out by 
+someone with a registered fingerprint or face on the mobile, or someone who knew the 
+passcode, which Mr C said he hadnt written down. I cant see how any unknown third party 
+fraudster could have obtained these.Ive also borne in mind that any such third party fraudster would also have had to have 
+known that Mr C had just transferred a substantial and atypical sum into the account. 
+And that still doesnt explain why the computer records show that Mr C logged onto his 
+Barclays mobile banking during this time, and carried out the undisputed transaction  but 
+didnt report the disputed transactions until the next day. 
+Ive also considered the fact that Mr C said that hed given his girlfriend the card and she 
+also knew the PIN. I cant tell whether it was Mr C, or his girlfriend, who actually carried out 
+the disputed transactions. But Mr Cs Barclays account was in his sole name. And the terms 
+and conditions of that account say that customers must do all they reasonably can to keep 
+payment tools safe. It specifically says you must not give your payment tools to anyone 
+else. As Barclays said in its final response letter to Mr C, technically this counts as gross 
+negligence  as Mr C had broken the terms and conditions of his account by letting his 
+girlfriend have the card and PIN.
+So it doesnt make any difference whether Mr C, or his girlfriend, actually carried out the 
+disputed transactions. Mr C broke the terms and conditions by letting her have the card and 
+PIN, so hes liable, whichever of them carried out the disputed transactions.
+Finally, Im sorry to hear about the health issues which Mr C told us about, which he said 
+mean he cant always remember everything. But based on all the evidence Ive seen, I still 
+consider it was most likely that Mr C, or someone he allowed to use his card and PIN, who 
+carried out the transactions. I say that because computer evidence shows a lot of technical 
+information which enables us to know a great deal about transactions. Just one example is 
+the fact that exactly the same payment mechanisms were used for the disputed transactions, 
+as for the undisputed one some 20 minutes later. So, while Mr C might not be able to 
+remember everything, the computer evidence has provided independent information about 
+what actually happened.
+Taking all these factors into account, I find that its more likely than not that Mr C, or his 
+girlfriend with his permission, carried out the disputed transactions. In either case, Mr C is 
+liable, and I dont require Barclays to refund Mr C.
+My final decision
+My final decision is that I do not uphold this complaint. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr C to accept or 
+reject my decision before 24 August 2021.
+ 
+Belinda Knight
+Ombudsman

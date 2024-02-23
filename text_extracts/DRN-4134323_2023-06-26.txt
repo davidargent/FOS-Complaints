@@ -1,0 +1,75 @@
+DRN-4134323
+The complaint
+Mr A complains that National Savings and Investments (NS&I) declined his debit card 
+transactions when he attempted to buy premium bonds from abroad. 
+What happened
+Mr A has a premium bond account with NS&I and a UK bank account, to which he is entitled 
+though he lives abroad. He said that on trying to use his bank debit cards to deposit money 
+the online and phone transactions with NS&I were declined. He said NS&I told him to 
+contact his bank, or that there could be a mismatch with his address. 
+Mr A said his bank told him NS&I had withdrawn from the transactions and the bank marked 
+his account to authorise the payments. Mr A found that NS&I continued to put the blame on 
+his bank, but he didnt think they understood what was happening. He complained and said 
+hed made a deposit to NS&I with his debit card previously when in the UK. 
+NS&I said its debit card payment process is automated, and it requests funds from a 
+customers bank in response to a purchase order using the customers debit card details. 
+NS&I said the processing company doesnt tell it the reason a transaction is declined, but if 
+any details are inconsistent the card issuer will decline the transaction, and this is often the 
+problem. NS&I said it was pleased the transaction had been completed by bank transfer. 
+Mr A said NS&I hadnt investigated properly. He said NS&I presumes hes content to 
+transact by bank transfer, but he doesnt want to call from abroad each time; he wants the 
+protection of using his debit card. He said as theres no explanation for the failure of the 
+transactions and NS&I offer a payment service that doesnt work. Mr A wants NS&I to fix the 
+issue so he can use his debit card to deposit money with it in future.
+As he wasnt satisfied, Mr A referred his complaint to our service. Our investigator didnt 
+recommend that it be upheld as he didnt think NS&I was responsible for the delays and he 
+didnt think there had been a significant impact on Mr A. The investigator said Mr As account 
+showed successful payments when he was in the UK and evidence from NS&I indicated 
+there might be an issue with post code validation by the card provider. He said Mr A would 
+need to rectify any problems of this nature directly with his bank.
+Mr A disagreed and requested an ombudsman review his complaint. He said there was a 
+significant impact on him as bank transfers dont have the safeguards of a debit card and he 
+had to make calls at his expense to confirm transfer details. Mr A felt we had dismissed his 
+concerns too easily and shown bias. He said his post code at his bank and NS&I matched as 
+both parties had confirmed, and his bank had indicated the problem lay with NS&I. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Mr A has raised complaints about the other parties involved in his unsuccessful transactions 
+with NS&I, as he wants to discover the reason why the transactions failed. This decision 
+focusses only on his complaint about NS&I.
+Mr A provided the response to his complaint from his bank which confirms that it authorised 
+his payment requests, but couldnt provide further insight as to the possible cause. It said it 
+had authorised the payment, but the barrier to its successful completion was no longer 
+available and it paid Mr A some small compensation.  
+The screenshots from NS&Is smart pay logs about the transactions show, sale cancelled 
+before processing. NS&I has explained that this confirms that the sale was cancelled before 
+NS&I was able to carry it out. NS&I said this was because the company processing the 
+transaction had declined it. NS&I said the decline would have followed on from the 
+processing companys AVS checks (Address Verification Service). This is supported by 
+further NS&I screenshots that show the transaction had been, Declined by [the processing 
+company] - operation cancelled.  
+NS&Is records include the smart pay reports which show the post code field didnt match 
+with what Mr As bank holds. And so, when NS&I requested the funds, it would appear that 
+the processing company stopped the transaction due to the post code difference. This is 
+understandable as the details need to match for security reasons. I havent found anything 
+within NS&Is records that indicate a problem with its processes that needs to be fixed.
+I appreciate Mr As frustrations in trying to make the card payments for his premium bond 
+transactions. But he has been able to arrange a bank transfer to make these purchases and 
+there doesnt appear to have been any financial detriment by using this approach. I can see 
+that this isnt Mr As preferred method, but he hasnt missed out on prize draws or incurred 
+anything other than minor cost.
+I think there are safeguards in making bank transfers via the BACS process which make the 
+movement of funds between parties a safe means of transfer. I think it possible this would 
+need to be accompanied by a single phone call from Mr A to pass security, but this can also 
+be a requirement for security purposes for a card transaction. Consequently, I agree with the 
+investigator that there has only what could reasonably be described as a minor impact on Mr 
+A for having to use bank transfer as opposed to debit card for his premium bond purchases.
+ 
+My final decision
+For the reasons I have given above it is my final decision that the complaint is not upheld. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr A to accept or 
+reject my decision before 24 July 2023.
+ 
+Andrew Fraser
+Ombudsman

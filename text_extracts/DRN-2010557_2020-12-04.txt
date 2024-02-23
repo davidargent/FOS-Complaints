@@ -1,0 +1,116 @@
+DRN-2010557
+The complaint
+Miss S has complained that Lloyds Bank PLC, trading as Halifax wont refund transactions 
+which she said she didnt make.
+What happened
+Miss S was abroad on holiday. While she was on holiday three transfers, totalling £400, 
+were made from her savings account to an account with another bank account. She said she 
+noticed the transactions when she returned home and checked her account. She said didnt 
+make them and she didnt recognise the account where the money was sent. 
+She raised a fraud complaint with Halifax. She said she kept losing the mobile banking app 
+from her phone when she was on holiday and had to reinstall it. She said she was using the 
+public Wi-Fi at the hotel and believes someone had hacked into her phone. 
+She asked for a refund and for more details about the account with the receiving bank. She 
+also complained that Halifax staff had been rude to her when she complained.
+Halifax investigated her complaint and decided not to refund her because:
+the transfers had been made from her device
+the transfers were made via her mobile banking app which needed her login details
+it had sent her a text message when the new payee details were registered but she 
+didnt reply to say she hadnt set up the new payee. 
+the third transfer was made from an IP address which she had used for genuine, 
+non-disputed payments.
+However, Halifax accepted it had provided her with a poor service and paid her £25 in 
+compensation.
+As Miss S disagreed with Halifaxs decision, she asked this service to investigate. 
+Miss S told this service that her phone was generally with her or in her hotel room whilst she 
+was in Greece. She said her phone was password protected and no one else had access to 
+it. She said her login details for mobile banking were written on an electronic note and stored 
+in her phone. She said she didnt receive the text message about the new payee. If she had, 
+she would have responded to say it wasnt her who had set it up. She also said the Apple 
+Store had confirmed that hackers could access a customers account via a public Wi-Fi 
+network.
+An investigator looked into her case, but she didnt uphold her complaint. In summary, she 
+felt unable to conclude that the transfers had been made fraudulently and was persuaded 
+they were most likely made and authorised by Miss S. 
+Miss S didnt agree with our investigators view. She has asked for an ombudsmans final 
+decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+When considering what is fair and reasonable, Im required to take into account: relevant law 
+and regulations; regulators rules, guidance and standards; codes of practice; and, where 
+appropriate, what I consider to have been good industry practice at the relevant time.
+The facts, the transactions, the relevant regulations and the evidence are set out in the 
+investigators view. Both Miss S and Halifax have read the investigators view, so I wont 
+repeat every detail here, only those which form the basis of my decision. However, I can 
+assure Miss S that Ive read the file, including her comments and evidence.
+Im afraid I dont have good news for Miss S. Having reviewed the evidence, Ive reached the 
+same conclusions as that reached by our investigator and for broadly the same reasons.
+In short, Halifax is required to refund the amount of an unauthorised transaction. The 
+relevant regulations, to this effect, are the Payment Services Regulations 2017 (the PSRs 
+2017).  But the bank can hold Miss S liable for any disputed transactions if the evidence 
+suggests that its more likely than not that she made or authorised them herself.
+So, my primary concern is to come to a view about whether or not I think Miss S authorised 
+the payment
+Im satisfied from the banks technical evidence that the transfers were authenticated, having 
+been made via Miss Ss mobile banking app and from her phone. But the regulations 
+relevant to this case say that is not, on its own, enough to enable Halifax to hold her liable. 
+So, I also need to think about whether the evidence suggests that its more likely than not 
+that Miss S made the transfers herself. 
+Miss S believes that a third party hacked into her mobile phone while she was using the 
+hotels public Wi-Fi network. However, Im afraid I dont think this was likely. And from what 
+Ive seen, I dont think its unreasonable for Halifax to conclude that Miss S authorised the 
+transactions. This is because:
+Halifaxs online audit report shows that the transfers were made from Miss Ss mobile 
+phone device, which was registered to her account. 
+The transfers were made on 29 June 2019 at 3.45pm and on 1 July 2019 at 8am and 
+11.19pm. Ive looked at the online audit report. It shows that the IP address used for 
+the first two transfers was based in her holiday destination. However, the IP address 
+used to make the third transfer on 1 July 2019 at 11.19pm was based in the UK and 
+covered the region where she lives. Its the same IP address which she has used for 
+genuine payments.
+Ive seen the banks SMS log for her account. It confirms that it sent her a text 
+message when the new payee was set up on her account. Halifax also confirmed 
+that text alerts are automatically sent when new details are added to the account. 
+Miss S said she didnt receive this message. 
+However, Miss S confirmed she received the text message giving her a code to enter 
+so that she could reinstall the mobile banking app. This was the next day on 
+1 July 2019, just minutes before the second transfer. This evidence confirms that her 
+phone and network were working abroad. So, I think its more likely that she did receive the earlier text message. Also, I cant see that she logged out after 
+reinstalling the app, so she wouldve seen the transfer, even if she didnt make it. 
+However, I dont think its a coincidence that the second transfer was made just 
+minutes after she reinstalled the app. I think this evidence shows that its more likely 
+that it was Miss S who made the transfer.
+Halifaxs system checked for malware on her phone when she reinstalled the mobile 
+banking app and confirmed there was none. 
+Whilst it might be technically possible to hack into someones phone from a public Wi-Fi 
+system, Im afraid I dont think this is what happened here. All three transfers were made to 
+the same account. If this had been done by a random hacker at the hotel, then I dont see 
+how this person couldve hacked into her phone in the UK. I understand its possible to 
+disguise an IP address using a virtual private network, but I cant see how a hacker could 
+access her phone if she were back in the UK or if she hadnt logged in to her mobile 
+banking.
+Ive thought about whether someone Miss S knew made the transfers, but she has 
+consistently said no-one else had access to her mobile phone or knew her log in details for 
+her mobile banking. So, I have to rule this out as a possibility.
+Lastly, I see from the online report that she logged in on 2 July and every day until 6 July 
+when she said she first noticed the disputed transfers. She explained she was only checking 
+her current account. However, I understand she would have seen the balance on her 
+savings account. I accept that a customer might not notice immediately that theres a 
+problem so Im not attaching too much weight to the delay. Besides, I think the technical 
+evidence is strong enough to show that its more likely than not that she authorised the 
+disputed transfers.
+I understand Miss S wanted to know more about the account where the money was sent. 
+However, data protection laws prohibit Halifax, and the receiving bank, from disclosing the 
+details for the accountholder, so I cant ask it to give her more information.
+Taking everything into account, I find, on balance, that Miss S authorised the disputed 
+transfers. It follows that Halifax is entitled to hold her liable for them.
+Im sorry this will be disappointing news for Miss S, especially at this time, but I hope the 
+reasons for my decision are clear.
+My final decision
+My final decision is that Im not upholding this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Miss S to accept 
+or reject my decision before 7 January 2021.
+ 
+Razia Karim
+Ombudsman

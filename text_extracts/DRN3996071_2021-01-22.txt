@@ -1,0 +1,598 @@
+K822xcomplaint
+Mr T complained about why all of the proceeds from his defined benefit pension  transfer  
+were invested by Gallium  Fund Solutions Limited into a 100% static investment in a mutual 
+fund. This fund was managed by a third party which Ill call Provider  B, and Mr T considers 
+this to be a relatively  high-charging  fund of funds with exit penalties. 
+He says he was led to believe that Gallium  would manage his pension  fund on a 
+discretionary basis to a low risk profile, without such restrictions. He cited evidence of the 
+ongoing charges Gallium  had made  on his account, at the rates it levied  for DFM,  to indicate 
+this was the case.
+background 
+Mr Ts appointed independent  financial adviser (Firm A) originally transferred him from his 
+employers defined benefit scheme  into a SIPP on 28 July 2017. The SIPP  made use of 
+Galliums investment platform, which can include  portfolios where Gallium acts as 
+discretionary investment  manager  (DIM). Gallium  had envisaged that its appointed 
+representative Vega Algorithms would provide advice and other support (including algorithm 
+technology) to assist  with discretionary fund management (DFM)  where  requested by clients.
+Firm A is now in default to the Financial  Services  Compensation Scheme (FSCS). Its my 
+understanding that Mr T has complained  to the FSCS on the basis that it was unsuitable for 
+him to make  the transfer in the first place   but if successful hes unlikely to recover all his 
+losses from FSCS.  Mr T has also complained  about Vegas alleged  contribution  to those 
+losses because it placed him in an unsuitable investment which he had to incur  an exit fee to 
+leave. As Vegas principal, Gallium has responded to the complaint.
+Back in March 2017, Firm A had sent Mr T a suitability  letter detailing its recommendations. 
+It refers to an intended portfolio with a different DIM for which  Gallium  had been about to 
+provide custody services  at the time. (That DIM subsequently went  into administration, so it 
+appears Firm A entered into the arrangement directly with Gallium and Vega.) The suitability  
+letter implied that Mr T would be receiving  discretionary  management from the manager  of 
+his portfolio:
+The strategy  selects funds to invest in from a universe of around 9,000 diversified funds. [Former 
+DIM] monitor  a vast range of economic indicators, which impacts their target  asset allocation mix. 
+At times of market  stress,  they may look to reduce their equity exposure across all their model 
+portfolios substantially. This means at times, though historically infrequent, they may be fully 
+invested into fixed income and cash.
+The suitability letter further assessed Mr Ts risk profile as low risk and noted that he wished 
+to have the ability to retire in the next few months without having toincur any penalties  to 
+take early retirement  benefits. It also referred to a current  artificially  inflated Stock Market 
+because of the weakness of Sterling combining  with these circumstances  to mean a 
+cautious approach  was desired for the foreseeable future. It didnt set out what any portfolio 
+management costs  were  it only disclosed Firm As initial fee of £1,500.  
+In April 2017 Firm A signed  an investment  management agreement with both Gallium and 
+Vega. This expressly allowed it to place customers in portfolios which were managed by 
+Gallium as DIM. In summary this agreement set out that:
+There  was a 0.36%  annual management  charge (including VAT) for DFM  in addition to 
+the 0.30%  annual platform charge.  
+Ref: DRN39960712There  were  seven model  portfolios  starting at capital preservation  at the lowest risk 
+level and then ultra conservative, ranging up to adventurous at the highest risk level 
+ distinguished  by the maximum  equity exposure  allowed.
+A number of the funds  the model  portfolios invested in charged exit fees of up to 5%, 
+so they werent  suitable for investments of less than a five-year duration.
+There  was also a dealing charge of 0.20% for the DFM service.
+In an email exchange with Firm A on 3 May 2017,  Vega  explained that another of Firm As 
+clients was invested  in the [Firm A]- Defensive portfolio, which is 100% allocated to our 
+Conservative Model Portfolio, which in turn invests around 80% in the Conservative UCITS and 20% 
+in the Adventurous UCITS.
+If you would like his account  to only buy the Conservative  UCITS, we can create a new [Firm  A] 
+portfolio which invests in the Ultra-Conservative Model Portfolio  (sorry for the confusing naming 
+conventions there), and assign him to that  
+UCITS means a mutual fund recognised  in the European Union. The two funds which  Vega 
+seems to have been referring to were a conservative and adventurous fund managed  by 
+Provider B. At that time Vega was the appointed  investment  adviser to that fund. 
+Firm A instructed Vega: to create a new [Firm A] portfolio  using the Ultra Conservative Model  
+Portfolio please, this would be for [redacted] and any other clients we are sending over to you unless 
+otherwise specified.
+Would you be able to send  me a fact sheet  over for this please?
+Copies exist of a Vega model portfolio service  factsheet, which may well have been given by 
+Firm A to its clients. It refers to the same seven managed portfolios, and an optimisation 
+algorithm to construct each portfolio. It mentions that exit charges may apply if the 
+investment is held less than five years and repeats the 0.36% annual management charge 
+for DFM. Theres also a rate card for the model  portfolio service, which does itemise the 
+0.20% dealing fee for DFM. But this doesnt seem to be part of the model portfolio service 
+factsheet itself. (By this I mean that Gallium  provided us the factsheet and the rate card as 
+separate documents.)
+The factsheet didnt  say that the model portfolios  invested directly into Provider B funds. This 
+is likely  because it pre-dates Galliums  decision to do this  Gallium says Vega had yet to 
+introduce its algorithm  technology while they evaluated the customer  base. But its clear from 
+the email exchange  above that Firm A knew that the underlying investment was a mutual 
+fund, and it was able to ask for any more information it required.
+This service has also obtained  the relevant Provider B fund factsheets. For the conservative 
+fund, the annual management charge was originally  2.05% and more recently 1.86%, but 
+potentially with a management fee of 0.35% in addition. The exit fee was on a sliding scale  
+of up to 5% over the first five years. 
+A Gallium General Investment Account (GIA) paper application form was available  in 2017, 
+but it doesnt appear Gallium required this to be submitted in order to make  an application. 
+Applications could be completed by Firm A entirely online. The first page of the paper 
+application form mentioned, Gallium  Fund  Solutions Limited  manage  the Vega Algorithms 
+Investment Portfolios on the advice of Vega Algorithms Limited. 
+Firm A used a generic copy of this paper  form to gather Mr Ts details, including additional 
+information not requested on the form  his investment choice (£290,000  ultra conservative 
+Ref: DRN39960713fund) was added by hand. Mr T signed the paper form on 26 April 2017 below this 
+statement:
+I confirm that I have  not received and will not receive  advice from Gallium Fund Solutions as to 
+the suitability of a DFM service for me. I understand that if I instruct  Gallium Fund Solutions to 
+buy or sell any investment  for me, Gallium Fund Solutions will act on this instruction  without 
+considering the suitability of the transaction for me
+Mr T also separately signed the paper  form below a list of charges, which  didnt mention a 
+dealing fee  and only showed an annual platform charge of 0.30%. But it also said, Please 
+read the Rate Card  for any other charges  e.g. discretionary management  or execution-only 
+services. For the reasons  Ill note later, this appears to be the only contemporaneous 
+evidence of Mr Ts application  but its also a form Gallium didnt see at the time.
+In June 2017 Firm A used the details  on the paper form to complete an online application, 
+which Mr T didnt  see. An extracted  summary  has been produced from this online 
+application, showing the charges specific to the service being provided (0.06% per year to 
+Gallium as fund manager  plus 0.30% per year platform charge). Unlike the paper form it 
+also says Fee  DealingNone. Two versions  of this appear on Galliums file with identical 
+charges, but (again for reasons Ill note later) dont appear to be contemporaneous.
+The version provided to the ombudsman service captured the following answers:
+I would like to invest my assets by         Appointing a Discretionary Fund Manager  (DFM) to 
+                                                                   choose my investments
+Building my own portfolio of assets and DFM Model   
+  portfolios
+I would like to                                           Let my DFM choose my portfolio according  to my 
+         risk evaluation
+                                                            Choose a specific  model portfolio
+Choose a specific model portfolio            [Firm A]  Ultra-Conservative  [from drop-down box]
+The version Gallium provided to Mr T in its final response to his complaint  had the 
+same date and application reference, but used different section numbering. It 
+completely omits the I would like to invest my assets by options. 
+Both summaries capture Mr Ts attitude to risk on a separate  page  as follows:
+Very Low Risk:  Your  priority is likely to be getting as much back  from your investments as you 
+put in. You are probably less concerned with making high returns on your investments. Your 
+preferred investments are likely to be low risk, such as cash and bonds.
+Gallium set up the account in accordance with Firm As online application and the proceeds 
+of Mr Ts transfer went into the [Firm  A] - Ultra  Conservative model portfolio on 
+28 July 2017.  This resulted in an 100% investment into the Provider  B conservative fund. 
+Mr T says he transferred his pension  away from Gallium in around  May 2018, suffering the 
+exit charge, following advice from a new financial adviser. He then raised a complaint, the 
+key points of which  were:
+He had very little experience of financial matters and relied entirely  on the advice  
+and/or expertise of Firm A, and subsequently Gallium.  Gallium breached  the terms of 
+its contract with him and misled him about its role. 
+Ref: DRN39960714He subsequently  found that all of his monies were invested  into an unproven  fund with 
+a small manager  which  was subsequently  almost the worst performing in the entire 
+sector.
+He wasnt told about the very high charges, which he couldnt  identify himself due to 
+his lack of experience, and suspected other  parties  benefited from these charges:
+oan ongoing charges  fee (OCF) of 2.51% (normally 0.5-1% on a conservative fund)
+oa 5% exit fee, reducing by 1% per year over five years. 
+Gallium  failed to comply  with COBS 9.2.1 onwards  in the regulators handbook, which  
+is in brief to ensure that decisions  taken when  managing investments are suitable for a 
+client. He should instead  have been  invested in a diversified portfolio  of investments 
+suitable for his needs and objectives.
+Gallium responded  that:
+-It accepted Firm As application on an execution-only basis to invest Mr T in the 
+[Firm A] - Ultra  Conservative  model  portfolio, rather than the Vega portfolio of a very 
+similar name. 
+-Firm A was selecting the investments to be included in this portfolio under whatever 
+authority Mr T had given it to do so, rather than Gallium.
+-Mr T had signed the GIA application form which stated Gallium  wouldnt be assessing  
+the suitability of any investments it was instructed to buy. This form also disclosed that 
+I have read a Client Agreement and Terms  & Conditions document. 
+-It neither saw this form nor Firm As suitability letter at the time applications were 
+submitted online.  It obtained these when it contacted Firm A for information  in order  to 
+respond to complaints. 
+-Its screenshots of the online application make the charges on exiting within  five years 
+clear  and the adviser chose an option  of 5+ years.  The application summary also 
+confirmed receipt  and understanding of the key features for the Gallium/Vega Platform, 
+which in turn warns of possible exit charges within the first five years. 
+-As the adviser was completing this form on Mr Ts authority, Firm A was therefore  
+obliged to make sure Mr T understood the key features (including the charges).
+Whilst Gallium  said that Mr T didnt pay the relevant management fee in order to receive a 
+DFM service, Mr T showed  our investigator evidence  that he had initially  paid that fee. This 
+brought the issue  of the ongoing charges he had paid (in addition  to the exit fee) into his 
+complaint.
+In addition to a dealing fee of 0.20% at the beginning, Mr Ts statements showed that in the 
+first quarter of his investment he paid at the rate of 0.36%pa (including VAT) for a Fee - 
+Management and 0.30%pa (including  VAT) for a Fee  Platform. Gallium had told this 
+service that it believed These reports also show that the 0.30% + VAT annual discretionary 
+management fee was not charged to the account. But it was only the second  quarter 
+(October-December 2017) that the management  fee dropped to 0.06%pa. And Mr T was 
+able to produce an email  trail from Gallium of when he previously queried  the charges,  which  
+concluded in January  2018:
+The amounts are in accordance with the rate card. The calculations re the above are correct.
+From 1st October the Management Fee is reduced to 0.06% per annum.
+Gallium didnt agree with the investigator  that this, in combination with the other evidence, 
+proved it had provided a DFM service. In summary, it said:
+Ref: DRN39960715-Its platform service  has never  been promoted  directly to retail customers but was 
+marketed to financial advisers. The marketing and contractual  documents  reflected its 
+future intention  to offer an algorithmic DFM service.
+-However an adviser could always construct its own portfolio, using Galliums  
+investment platform  but not its DFM service. This was an Adviser  Model  Portfolio for 
+which, within the one fund used, Provider B managed the investment..
+-The exit fee of £14,000 Mr T suffered in February 2018 would have been clearly  
+understood by his (new) adviser  as the consequence of disinvesting.
+-Gallium  wasnt  required  to see such documents as Firm As fact find or suitability  letter, 
+as it was entitled to rely on Firm A acting on Mr Ts behalf.
+-Despite what the Client Agreement says about  DFM, the on-line application contained  
+a specific execution-only instruction  that Mr Ts SIPP be invested in the [Firm A] Ultra 
+Conservative portfolio. To perform DFM would have been in breach of that instruction.
+-Gallium  couldnt have  corrected any misconceptions in respect  of the services  
+provided, as it wasnt aware  of any misconceptions at the time of investment.
+-The first quarters management fee of 0.30% was triggered  by Firm As selection of the 
+Choose a specific portfolio investment option  online. Initially,  the calculation did not 
+identify that the [Firm A] Ultra Conservative  portfolio  was a specific  and passive 
+portfolio. As soon as Gallium  became aware  of this discrepancy  the management fee 
+was then reduced. 
+my earlier  provisional decision
+I issued a provisional decision on 23 November 2020. My findings from the provisional 
+decision on whether  or not Gallium was providing  a DFM service are reproduced exactly  
+below, as Ill go on to explain  why I havent  found  reason to depart from them. 
+On the matter of whether Mr T had paid the right charges, there was a typographical error in 
+my provisional decision which had transposed the 0.30% and 0.06% figures. In addition 
+Gallium agreed to make an offer in respect  of the charges, therefore I will revisit that part of 
+my findings  in full under  the my findings  heading.  
+The crux of Mr Ts complaint is twofold: 
+Gallium was responsible for exercising discretion to ensure his pension  was put into 
+a suitable investment  (whether or not it realised it should have done this); and 
+given Mr Ts very low attitude to risk (details of which Gallium gathered in the online 
+application), it selected an unsuitable investment with high ongoing  and exit charges 
+in breach of COBS  9.2.  
+It seems  to me that unless I find for Mr T on both these counts, much of his claim for 
+compensation from Gallium will fail. (But I recognise that there  will still be some residual 
+issues to address regarding the discrepancy  in charges applied to his account.) So Ill start 
+with what was agreed between Gallium,  Firm A and indeed Mr T in respect of the DFM  
+service it was to (allegedly) provide.
+Agent as client
+Its a key part of the background  to this dispute  that even if I were to determine that Gallium 
+was carrying out DFM  on Mr Ts account,  the investment management agreement (for DFM)  
+between Gallium, Vega and Firm A sets out at section 2.1.2 that: The Investment Manager 
+will treat the Adviser as a Professional Client" (as such  term is defined in MiFiD) in respect 
+of the investment services it provides under this agreement. 
+Ref: DRN39960716The agreement in various places describes the DFM services  as being provided  to the 
+adviser  for instance the adviser (not the end investor)  appoints Gallium as Investment 
+Manager. And it further defines Investor  as A client of the Adviser who invests in one or 
+more of the Model Portfolios managed by the Investment Manager.
+This is known as an agent as client situation,  and is permitted by COBS 2.4.3R(1) in the 
+regulators handbook.  The consequence of this is that Gallium would owe any regulatory 
+obligation it had assumed  to manage  funds  appropriately (if it assumed that obligation  in this 
+particular case) to Firm A; not Mr T. That is, unless Gallium separately agreed  with Firm A 
+(not Mr T) under  COBS  2.4.3R(2) to treat Mr T as its client for the purposes of those 
+obligations. I havent found  any evidence  that there is such  a separate agreement. 
+COBS 2.4.2G clarifies that this agreement wouldnt affect any obligation Gallium  may owe 
+Mr T under the general law. But my view is that  if I were  to determine that Gallium was 
+carrying out DFM on Mr Ts account  I would need  to take into account who the client for 
+that DFM was (Firm A). And even if Firm A had still been trading, this status  it had agreed  to 
+as a professional  client would  have  limited the regulatory protection it had  such as access  
+to the Financial Ombudsman Service.
+To be clear, Im not disputing here that Gallium did also deal with Mr T in accepting an 
+application for an account on his behalf  such that he can be regarded as a customer of 
+Gallium and is able to access the Financial Ombudsman Service  himself.  But I couldnt  
+disregard the context  of the investment management agreement which wouldnt give Mr T 
+the right to complain under the regulatory  system about any alleged  DFM  carried out for 
+Firm A as client by Gallium on his account.
+But in case Im wrong on that, also Ive gone  on to consider to what extent Gallium was 
+responsible for Mr T investing in Provider  Bs conservative fund in any case.
+Did Gallium make the decision for Mr T to invest in Provider Bs conservative  fund?
+The starting point  here is to ask which version of the online application summary accurately 
+captures the situation. I think the version Mr T was sent with his final response letter makes 
+it reasonably clear that Firm A was selecting the specific model portfolio bearing its own 
+name  not the similar Vega model portfolio. And there was no reference  (on that version of 
+the application summary) to Gallium being  appointed as DIM. 
+Much of the confusion on this (and other) complaints seems to have arisen  because  when 
+Gallium sent us its files for Mr T and others, it seems to have printed off another version of 
+that application summary which follows  different numbered sections and includes an extra  
+(selected) tick box Appointing a Discretionary  Fund  Manager (DFM) to choose  my 
+investments. 
+One of our investigators  has previously asked Gallium if the format of its online application 
+system has changed and it told us in June 2019 that theres been no change in the 
+application system. So Ive considered whether its going to be worthwhile pursuing this point 
+with Gallium further  it doesnt seem it could explain why there  are two versions of the 
+online summary. 
+Where theres a dispute about what happened, I must make my decision on the balance of 
+probabilities. As Gallium  obtained other information from Firm A at the time of the complaint 
+(which it also sent to Mr T with its final response),  this may be Firm As version of the 
+summary which differs from Galliums  internal copy.  Ive also taken into account that Gallium 
+provided a set of screenshots of the online application process  which (allowing that they are 
+Ref: DRN39960717for a generic  investment  account and not the particular SIPP Mr T was using)  do mirror  
+Mr Ts version  of the application summary. On balance, I dont consider I can safely 
+conclude the version  Gallium sent to this service provides reliable evidence that it agreed to 
+act as DIM.
+Ive also taken into account the investigators  other argument that the [Firm A] Ultra 
+Conservative portfolio  might just have been a white labelled version of the Vega Ultra  
+Conservative portfolio.  Even if that were the case,  this was still a model portfolio. In other 
+words, it wasnt  a bespoke portfolio being designed from scratch  by Vega (or Gallium) for 
+Mr T. In common with many platform providers, Vegas  model portfolios were  intended  to 
+group investors together broadly in line with the attitude to risk description for the portfolio. 
+Details of what the portfolio  was intended  to contain were provided  in the model  portfolio 
+factsheets. Firm A was free to enquire  further about  the intended investments, whether that 
+was truly in the sense of being Galliums client, or equally in its capacity as Mr Ts adviser 
+(who recommended  what portfolio he invested  in). Essentially which  it was doesnt  matter 
+here  it [Firm A] needed to satisfy  itself that the overall recommendation it was making to 
+Mr T was suitable under  COBS 9.2R.
+As it was recommending  the Gallium  platform  to Mr T, Firm A couldnt ensure  that advice 
+was suitable without carrying out due diligence into what the initial  fund selection  of the 
+portfolio would be. From February 2015  onwards the Personal  Finance Society  (PFS) has 
+published a number of Good Practice Guides,  highlighting  the importance  of this due 
+dliigence to ensure that advisers  complied  with their COBS obligations.
+After Firm A had carried  out its due diligence into the initial  fund selection, and supposing 
+this was a portfolio on which  Gallium would then provide  a DFM  service,  Gallium then would, 
+reasonably, become responsible for keeping the future transactions  it made  within the 
+mandate it was given  to manage  that portfolio. But as there was a static  investment in this 
+case, there were no future transactions to consider.
+Importantly, we know that Firm A did its due diligence, whether or not this was because it 
+actually designed  the portfolio itself (as Gallium suggests).  Its email  exchange with Vega in 
+May 2017 shows that it knew that 100% of Mr Ts investment would go into a conservative 
+UCITS fund, and that this was a static investment  theres no indication in the email 
+exchange that Gallium  had discretion  to change that investment. If Firm A didnt know  what 
+specific UCITS fund was used and what that funds  charges were, it ought to have found that 
+out in order to provide its advice.
+So in my view even  if it had been agreed Gallium would act as DIM  which on the face of 
+the evidence looks unlikely  at no point  did it make a decision which Mr T can complain has 
+caused him a loss; essentially because Provider  B was carrying out the management. Im 
+satisfied this should have been  known to Firm A at the time it advised Mr T. So in the 
+particular circumstances  of Mr Ts complaint I think its a moot  point whether, strictly, this 
+was one of Vegas model portfolios or one Firm A had created for itself.  
+Ref: DRN39960718Reliance on others
+Mr T (or his new adviser) has questioned why Gallium didnt obtain a copy of Firm As fact 
+find or suitability report until it needed  to investigate  a complaint. Im mindful here of the 
+reliance on others rule at COBS  2.4.4R. As Firm A was itself a regulated firm, Gallium was 
+entitled to rely on the information  Firm A gathered about Mr T and the recommendations 
+Firm A made  to him; whilst Firm A remained responsible for the accuracy of the information 
+and recommendations.  
+This is also reflected  in the investment management agreement at clause  3.1: The Adviser 
+has full powers to assess the suitable Model Portfolio for each Investor  based on their identified  risk 
+tolerance and monitor their suitability on an ongoing basis (if required  by any agreement the Adviser 
+holds with the Investor).  In taking any decision to deal for the Investor,  the Investment Management 
+[sic] shall rely upon the compliance  of the Advisers assessment of suitability  of the Model  Portfolio 
+with the FCAs  rules  and shall be entitled to inspect all records pertaining  to such assessment at any 
+time upon providing reasonable notice .
+Nothing in the regulators rules or the investment  management agreement required Gallium 
+to obtain the advisers records of suitability for each investor before placing the investment.  
+So whilst it appears Firm A may not have fully apprised Mr T of where  he was being  invested 
+within the Gallium platform (or what charges Provider Bs fund would involve), I agree with 
+Gallium that I cant fairly say this was Galliums  responsibility.
+Mr Ts very  low attitude to risk
+Whilst Ive said above that Gallium  wasnt  under  an obligation to check Firm As 
+recommendations, Ive taken into account that it did inadvertently gather details of Mr Ts 
+attitude to risk. I find Galliums explanation plausible that it did this because  its system 
+allowed advisers to select other  portfolios on which it would act as DIM. But at the same 
+time, if there  was a clear mis-match between the information it gathered  and the portfolio the 
+adviser selected, Ive considered whether Gallium should perhaps have queried that.
+However Im not persuaded there  was a complete  mis-match between an investor who was 
+very low risk and an ultra conservative portfolio (the main component of which was fixed 
+interest investments).  As Ive mentioned, Gallium would have been mindful that a regulated 
+financial adviser would be expected  to carry out adequate due diligence into this portfolio, 
+including Provider  Bs charges which will have had an impact on the returns Mr T achieved.
+If Gallium had known Mr T wanted to exit the investment  within five years, I would also 
+expect it to have  queried this  in view of the exit fees. This is in fact not something  Gallium 
+appears to dispute  either: it asked a question  about  this on the online application form. And 
+the adviser indicated  this wasnt a concern for Mr T. 
+I appreciate Mr Ts point that he wasnt asked this question directly.  But hed signed a form 
+(whether Gallium received  this in paper form or not) acknowledging that FCA rules allow 
+[Gallium] to rely on information  from your Appointed Adviser.  We will seek  the information  we 
+need before  we provide  investment services  from your Appointed Adviser. This was what 
+Firm A was doing when  it completed the online application on his behalf.
+Was Gallium entitled to accept instructions from Firm A and not Mr T?
+I understand the point that some  other  platforms ensure theyve taken an application from 
+the end client  directly, in writing. The screenshots Gallium  provided show it explained at the 
+time that it was optional  for Firm A to upload Mr Ts signed copy  of the application   and I 
+Ref: DRN39960719understand Firm A didnt do so. The way Galliums  service operated may be a reflection of 
+Firm A rather  than Mr T being  its client  but even  if Im wrong on that, I cant  fairly  conclude 
+here that the adviser didnt have  the authority from Mr T to complete the application and 
+state that the investment  was for a term of more than five years. 
+Theres also been some  discussion  about the meaning of Mr Ts execution-only instruction to 
+invest in the [Firm A] Ultra Conservative  portfolio. It clearly cant  be an execution-only 
+instruction from Mr Ts or Firm As point  of view, as execution-only  instructions are defined 
+by the absence of advice   and Firm A must  reasonably  be considered to have advised Mr T 
+to invest in that portfolio as part of recommending the Gallium platform in view of its 
+obligations under  COBS  9.2R.
+But Gallium  is referring  here to the nature of the instruction from its point of view  as it 
+wasnt providing advice  to Firm A or Mr T as the end investor. Firm A selected the Ultra 
+Conservative portfolio,  and I agree  with Gallium that with the authority it had to act on Mr Ts 
+behalf, its selection of that portfolio on the online application form amounted  to the 
+instruction. It wasnt necessary for any separate agreement to be entered into for the 
+instruction to have  effect.
+Essentially, all of these issues pertaining to whether the arrangements Firm A entered Mr T 
+into were appropriate  would have fallen to Firm A to answer (were  it still trading);  and now 
+the FSCS. I appreciate the FSCS  has limits  to what it can award, however that alone doesnt 
+make it appropriate for me to attribute responsibility for Mr Ts loss to another  party  where I 
+cant fairly say it is responsible.
+Mr Ts exit fee being used  to pay a third-party  distributor
+It appears Mr Ts exit fee was charged  because this recovered the costs of Provider B 
+having already  paid a third-party  distributor  for introducing his investment. As I mentioned  
+above, this wasnt  an execution-only  investment from Mr T or Firm As point of view.  The fair 
+and reasonable assessment of the evidence is that Firm A recommended he make the 
+investment. 
+Mr T and Gallium  will be aware  that we asked  Provider B who this distributor was, in order  to 
+establish if there was any connection with Firm A that might  better  explain why these 
+arrangements were made. We werent  able to establish (from publicly available  information) 
+such a connection.  The distributor isnt a regulated firm or under the ombudsman services  
+jurisdiction.
+However the fact that there would be this exit charge  was explained in Provider Bs fund 
+prospectus. So again, I would expect this to form part of the due diligence  Firm A undertook 
+into its recommendation. Whilst its clearly the same fund that Vega  included in its own 
+model portfolio  of the same  name,  it can only be a matter for a complaint against Firm A as 
+to how it became aware of the Provider  B fund it decided to use it in its own portfolio.
+I understand a number  of concerns have been raised about Provider  B directly. Im not in a 
+position to answer  those  concerns. As both the company and the fund are still trading 
+(contrary to Mr Ts comment) I would suggest  that Mr T or his representative raises those 
+concerns with Provider B directly.
+I also cant comment on why Mr T believes his £1,500 advice fee was paid to someone other 
+than Firm A. Firm A issued the suitability letter and had his authority to submit his application 
+to Gallium. My understanding is that the advice fee was paid out by the SIPP provider before 
+Ref: DRN399607110Gallium received the remaining  funds for investment.  So thats something Mr T can ask the 
+SIPP provider about.
+responses to the provisional  decision
+Mr T and his representative raised the following key points:
+He couldnt  see that Gallium  had proven that it didnt as a DIM.  As I had 
+acknowledged, he was led to believe that Gallium was used  by Firm A as a 
+replacement for a previous DIM that had gone  into administration.
+The evidence of him having paid the DFM fee demonstrated that the [Firm A] Ultra 
+Conservative portfolio  was simply a white labelled version of Vegas DFM portfolio. 
+The email instruction for Vega to build that new portfolio (as DIM) was clear. Firm A 
+didnt instruct it on what funds should  be incorporated and in what  percentages.
+If Firm A was Galliums client, why did he need  to sign terms of business with 
+Gallium? Did he not have the right to assume Gallium was acting on his behalf?
+He believes Firm A was using the services of a third unregulated  firm, which did a lot 
+of the preparation for the defined  benefit  transfers. Yet the third firm wasnt paid 
+anything from his SIPP  and Firm A only collected £1,500 for its advice. 
+So he suspects the third firm benefited  indirectly from Provider Bs distributors fee 
+and Gallium was in some  way responsible  for orchestrating this to happen.
+Gallium agreed with my analysis on whether  it could be said to have  provided  DFM  on 
+Mr Ts account   including its agent as client relationship with Firm A. So it didnt comment  
+further on that. But it went on to clarify the following matters regarding  its fees:
+-An initial  dealing fee of 0.20% went to Vega Algorithms Limited. Gallium said this 
+related to on-boarding Firm A and enabling  it to instruct  us to acquire the 
+investments comprising the portfolios  it created. Vega spent considerable time in 
+providing this service and the fact that the fee is one-off reflects the reality  that the 
+on-boarding process was a one-off exercise.
+-The quarterly platform fee of 0.30%pa went to the software provider to enable  the 
+operation of the platform providing  the functionality  to make and view investments.
+-The quarterly management fee of 0.36%pa was payable to Gallium  and was 
+reduced to 0.06%pa  after the first quarter  when it was apparent that no DFM was 
+being provided. This residual amount should be characterized as a custody  and 
+reporting fee for execution-only fund selections.
+Gallium said it had referred us to its charging  structures for DFM and execution-only 
+business as rate cards,  but this didnt mean it had actually published an execution-only rate 
+card at the time of Mr Ts investment. It set the execution-only  charges retrospectively when 
+it became aware  that the rate card issued related to an irrelevant DFM service. 
+When it reset the management fee, it charged  a lower amount at 0.06%pa  than it would 
+have decided to set, had it done this originally. This was to compensate for having supplied  
+only the DFM rate card at the outset,  but also took into account that it wasnt refunding  the 
+overcharged amount  for the first quarter. Incorporating this reduction, its management fees  
+totalled 0.135% over the first year. After paying VAT and investor reporting and custody 
+service fees to third parties, it only retained 0.03%.  So 0.06% wasnt  a commercially viable 
+rate, but reflected  that it couldnt  have  been  expected to provide  a free service  in perpetuity.
+Gallium said all its other fees (eg the dealing fee) were identical whether an execution-only 
+or DFM  service  was being provided. In particular individual transaction costs  would  have 
+Ref: DRN399607111been charged directly  to the portfolio, so the initial dealing fee wasnt associated  with a 
+specific investment  but on-boarding  Mr T onto the platform.  This was a fee which Gallium 
+has already paid out to Vega and therefore hasnt  benefited from itself.
+Notwithstanding its ongoing concerns, and in order to settle matters relating to fees,  Gallium  
+was prepared to offer Mr T the amounts Id proposed in my provisional decision,  which  were:
+-the amount  by which his management fee exceeded 0.06%pa in the first quarter of 
+the investment  (£197.53);
+-a refund of the 0.20% dealing fee (£578.95);
+-plus interest on both at the rate of 8%pa simple from when they were charged to the 
+date of settlement.
+Ill revisit the reasons I had for requiring Gallium to make that offer in my findings, below  
+after Ive responded to the parties  further  points on the nature of the investment service. 
+my findings
+Ive reconsidered  all the available evidence and arguments, including  both parties response 
+to the provisional  decision, to decide  whats  fair and reasonable in the circumstances of this 
+complaint.
+Whether Gallium provided a DFM  service
+Its now much clearer than it was at the time of my provisional decision,  that Galliums  
+0.06%pa management fee was set entirely  retrospectively. Both the application summary 
+documents supplied in the file for this complaint refer to this 0.06% charge, so my previous  
+speculation that one of these might have been what Firm A printed off at the point of sale 
+cant be correct. 
+Its clear that neither  document  is contemporaneous,  but subsequent revisions to Galliums  
+systems seem to have  rendered it unable to produce a contemporaneous  version. I have 
+similar caution about the screenshots that Gallium has supplied,  although this is the best 
+evidence Gallium has been able to provide to us. But Id like to be clear that, for the other  
+reasons I gave in my provisional decision,  this doesnt make  a difference  to my overall  
+conclusions which in summary were:
+The agent as client relationship between Gallium and Firm A wouldnt give Mr T the 
+right to complain under  the regulatory system  about  any alleged DFM carried  out for 
+Firm A as client by Gallium on his account.
+Even if Im wrong  on that, Firm A had various responsibilities  arising from 
+regulations and industry  good practice   to assess the initial investment split in the 
+model portfolio it was recommending  (and selected) for Mr T; whether that was 
+strictly a DFM  portfolio or not.
+As this was a static investment as far as Gallium was concerned,  at no point did it 
+make a decision  which Mr T can complain has caused him a loss; essentially 
+because Firm A recommended the investment and Provider  B managed it. 
+Mr T has queried  this first point as it suggests there was no need  for him to sign his own 
+terms of business  with Gallium. I disagree.  He was still a customer of Gallium as it received 
+a transfer from his defined benefit scheme onto its platform. This was more a question of 
+who the client would have been for the purposes of DFM, if that service had been provided. 
+And here I cant be bound  by any incorrect impression Firm A may have given to Mr T  
+such as that Gallium was directly replacing the originally  envisaged  DIM  unless I can be 
+sure that Gallium was a party  to that impression.  The important point here is that Firm A was 
+Ref: DRN399607112acting on Mr Ts behalf and this replaced  much of the need for Gallium  to check  that the 
+nature of its services had been explained  to Mr T directly. 
+Whilst I acknowledged the difficulty in interpreting the actual emails between  Firm A and 
+Vega in my provisional decision, on the substance of what services Gallium actually 
+provided I dont think it can be demonstrated  this was DFM. And I think its clear Firm A 
+knew or ought to have  known this at the time.  I understand  the point that its email didnt 
+actually specify the split of funds to use, but I still consider it was an implicit instruction  
+because Firm A did know what funds were in the Vega portfolio it was replicating  (or should 
+reasonably have known, as part of its due diligence obligations).
+Gallium did overcharge Mr Ts management  fee, but I accept the explanation that this was 
+because it hadnt  introduced an execution-only fee tariff. Put simply, there was no other fee it 
+could charge until it reviewed the fees. That doesnt  prove it actually carried  out DFM when 
+all the other  evidence suggests  otherwise.
+I agree  Vega  may have  been aware that Provider  B paid a distributors fee, because it used 
+Provider Bs funds in its own model  portfolios. But I think that is a long way short  of saying 
+that Gallium should  in some way have intervened when those charges were set out the fund 
+prospectus and the fund factsheet (which explained  the exit penalty).  As I explained  in the 
+provisional decision, Firm A ought  to have  been aware of those charges as a result,  which 
+fundamentally affect the suitability of the recommendation  it was accountable to Mr T for. 
+And that applies irrespective of who benefited from the distributor fee.
+Galliums own charges
+I shall set out and expand on my findings  from the provisional decision  here.  But I note 
+Gallium is concerned that the somewhat different issue of whether  Mr T had been charged 
+the correct amount for execution-only  services,  wasnt part of the complaint. In respect of 
+Mr Ts complaint I disagree.  Mr T gave us specific evidence of the fees hed paid Gallium in 
+the first quarter, in order to dispute its claim that hed only paid it at the rate of 0.06%pa  
+and this went to the core of the complaint hed already  brought  to us.
+During the course of considering that point in the provisional decision, I looked  at all the fees 
+Mr T had been charged. Gallium says that as Mr T hadnt specifically  mentioned the dealing 
+fee (despite objecting to other  charges),  he was therefore happy  with that fee. I dont agree 
+that this direct inference could be made,  given  that Mr T was questioning the whole basis  on 
+which Gallium had accepted his application  with reference to the charges. Im satisfied that 
+given the nature of the points Mr T raised about the charges hed paid, it was within my 
+inquisitorial role to consider the other associated charges in Mr Ts case.
+ 
+In my provisional decision I agreed  that a custody  service was still needed for the assets 
+Mr T was holding  on Galliums platform, even  if it was an investment in a single fund. That 
+was the management for which Gallium was still entitled to charge an execution-only 
+customer. I should correctly have said that Mr T was paying  Gallium 0.06%pa in order to use 
+its platform  the additional  0.30%pa was the platform  fee that was passed  on to the 
+software provider. I accept Galliums argument that this platform  fee would have been the 
+same, whether  DFM  was carried out or not.
+My provisional decision took into account  that a custody  fee was stated to be free  on the 
+DFM rate card. But I accepted that this was because it was rolled up into the management  
+fee for DFM of 0.36%pa. Gallium evidently hadnt  contemplated what  the cost of custody 
+would be for an execution-only service. We now know  Gallium  felt it was appropriate  to 
+Ref: DRN399607113retrospectively set the management fee at 0.06%pa  in order to reflect the execution-only 
+service it actually provided to Mr T.
+Gallium said in response to the investigators view that there  was no logical or other reason 
+why it would have  reduced its management fee, unless it had never  carried out DFM.  But we 
+thought that in order for this to be logical, Gallium would also have to backdate  its refund to 
+include the first quarter of Mr Ts investment. I appreciate Gallium has subsequently agreed 
+to do this. However its also implied that it was reasonable originally to retain  the single 
+quarters overpayment, as this was taken into account in setting the future rate. In my view 
+refunding this amount is the fair thing to do, as it would otherwise put Mr T in a different  
+and worse  position  than other  people who invested later,  and only ever paid 0.06%pa.
+Turning to the dealing fee, I noted  in my provisional decision that both the application 
+summaries provided for Mr T (which we now know not to be contemporaneous) recorded the 
+dealing fee as none. But I acknowledged  that in the rate card for DFM  (which  is 
+contemporaneous), a dealing  fee of 0.20% is shown. That rate card is also duplicated in the 
+investment management  agreement  between  Gallium, Vega and Firm A. However,  given 
+that Galliums position is that Firm A ought to have  known that the rate card for DFM  did not 
+apply, there  is very little other evidence of what charges it agreed with Gallium for the actual 
+service contemplated  for its clients.
+I said in the provisional  decision that in my experience,  its not universally the case that 
+platforms will charge a dealing fee. That was particularly true where (as in this case) it was 
+known that regular dealing wasnt going to take place and a bulk arrangement  was being  
+made for a number  of clients. This was plausibly the arrangement here, not least because 
+not a lot of thought seems  to have been  given  to the charges at the time.  I remain of this 
+view despite my mis-statement in the provisional  decision that Gallium retained  the 0.30% 
+platform fee (when it in fact passed that part to the software provider). 
+My provisional decision concluded that there  wasnt enough evidence to show  that Gallium 
+agreed with Firm A as client, and by extension Mr T as the end investor, to charge a 0.20% 
+dealing fee. The only reliable evidence of the 0.20% fee was linked to DFM rather  than the 
+arrangements actually made. Whilst I appreciate  that the reliability of the online application 
+summaries has been  thrown further  into doubt,  Ive yet to find a reason why even the 
+reprinted versions dont correctly  reflect  a 0.20% dealing  fee, if that was what  was agreed.  
+The underlying point Gallium is making here is that it wouldnt have  been  able to make a 
+profit on a residual 0.06%  management fee, having passed the 0.30% platform fee to the 
+software provider and the 0.20% dealing  fee onto Vega.  But Vega was Galliums  appointed 
+representative, so it was also responsible for the onboarding it says Vega did onto its 
+platform in return for that fee. I think there are several problems with this:
+If the fee isnt for placing a particular investment deal, but rather an initial fee for 
+putting Mr T onto the platform, that would  conflict with the fact that the application 
+summaries show  the Initial fees to be None. And the rate card (albeit one for DFM) 
+also shows that there is no account opening fee.
+The reference to onboarding, whilst not really whats envisaged by a dealing fee, 
+does largely encapsulate  what went wrong  in this case. Namely, Vegas failure to 
+properly document  the nature of the service  and the fees that would be charged. This 
+is what has understandably led to Mr Ts complaint. So its therefore  also arguable 
+that Vega (and therefore Gallium  as its principal) fell a long way short of what it was 
+evidently meant to do in return for this fee.
+Ref: DRN399607114Ive also considered Galliums obligations  under the FCA Principles to: conduct its business 
+with due skill, care and diligence; take reasonable care to organise  and control its affairs 
+responsibly and effectively; and pay due regard  to the interests of its customers  and treat 
+them fairly. Having  taken all of this into account Ive come to the same overall view as in my 
+provisional decision, that its fair and reasonable to require  Mr Ts dealing fee to be refunded 
+in addition to the first quarters excess management fee. I consider this appropriately reflects
+the shortcomings in how his application was processed, and the resulting ambiguity as to 
+what service Gallium  was going to provide.
+my final decision
+I do not uphold  the main  part of Mr Ts complaint alleging  that Gallium  Fund  Solutions  
+Limited was to provide a Discretionary Fund Management (DFM)  service. I consider 
+the suitability of the Provider B fund rested with his adviser at Firm A.
+I uphold the secondary part of Mr Ts complaint  about the charges on his account in 
+relation to the services provided by Gallium. I require Gallium  Fund  Solutions  Limited  
+to return to Mr T the excess management  fee of £197.53 deducted  on 1 October 
+2017 and the dealing  fee of £578.95 deducted on 25 July 2017.  Interest is to be 
+added to these  amounts at the rate of 8% per year simple from the dates these 
+charges were deducted to the date of settlement.  Gallium has already  indicated it is 
+willing to make these  payments.
+Under the rules  of the Financial Ombudsman Service,  Im required to ask Mr T to accept or 
+reject my decision  before 19 February  2021.
+Gideon Moore
+ombudsman
+Ref: DRN3996071

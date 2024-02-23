@@ -1,0 +1,118 @@
+DRN-2911453
+The complaint
+Mr B complains that Lloyds Bank PLC hasnt reimbursed a withdrawal of £500 from his bank 
+account which he says was made without his authority.
+What happened
+Mr B has a bank account with Lloyds. In 2020, he tried to withdraw cash from a cash 
+machine using his debit card. But he says the card was retained by the machine and didnt 
+dispense any cash. He says that a man behind him told him to enter his PIN while pressing 
+the cancel button on the machine  but he didnt do this.
+After he returned home, he says he noticed two transactions on the account he didnt 
+recognise: a withdrawal from a cash machine of £360, and a further withdrawal, from 
+another cash machine, of £140. So he contacted Lloyds to see if theyd refund the 
+transactions. Lloyds didnt, so he referred the complaint to us.
+Our investigator looked at the complaint and didnt think it should be upheld. She said that 
+based on everything shed seen, it seemed more likely that Mr B had approved the 
+transactions.
+I issued a provisional decision on this complaint on 19 August 2021. I said that Id 
+considered all the available evidence and arguments to decide whats fair and reasonable in 
+the circumstances of the complaint. Id taken into account relevant law and regulations; 
+regulators rules, guidance and standards; codes of practice and what I consider to have 
+been good industry practice at the relevant time.
+I said that in Mr Bs case the relevant law was the Payment Service Regulations 2017. 
+These say that a payment transaction is authorised by the payer where the payer has given 
+its consent to the execution of the payment transaction. Such consent must be given in the 
+form and in accordance with the procedure agreed between the payer and the payment 
+service provider. 
+I said that unless the payment service provider can show consent has been given, it has no 
+authority to make a payment or debit the customers account. 
+Where a payment service user denies having authorised a payment transaction, it is for the 
+payment service provider to provide that the payment transaction was authenticated, 
+accurately recorded, entered in the payment service providers accounts, and not affected by 
+a technical breakdown or some other deficiency in the service provided by the payment 
+service provider.
+With this in mind, I thought the main question I needed to decide was whether Lloyds has 
+shown that Mr B had authorised the transactions subject to this dispute.
+I first thought about what Mr B said happened. Mr B had sent us a police report he made at 
+the time. This said that at around 18:30 on the day in question, Mr B had entered his debit 
+card into an ATM. The ATM made a sound and flashed at the entry point of the card. Mr B 
+said hed pressed cancel to retrieve the card  but a message appeared saying the card had 
+been retained. He said he was then approached by someone who told him to keep pressing 
+the cancel button  and who then suggested he enter his PIN at the same time. Mr B said he 
+didnt do this. He says he tried to press cancel again, and left the ATM. The same person 
+then told him to come to the branch again the next day.
+Mr B says he then contacted the bank that owned the ATM. He says the machine provider 
+told him to contact Lloyds. He says he was also told by the machine provider via social 
+media that the card would have been destroyed. He then returned home and noticed two 
+transactions that had been made on his account. He then reported things to Lloyds. Lloyds, 
+however, thought the transactions were authorised by Mr B.
+I therefore tested what Mr B had said against the other information Id seen.
+Lloyds had provided records showing what happened at the two ATMs. According to this, at 
+around 19:01, Mr Bs card was used to carry out a balance enquiry. At first, an incorrect PIN 
+was entered, but on the second attempt a correct PIN was entered and £360 was withdrawn 
+from the account.
+Then, at 19:09, the card was used at another ATM at a branch of Lloyds around a mile away 
+from the first one. It appeared attempts were made to transfer £1,200 from Mr Bs savings 
+account. This was unsuccessful. This was followed by a further withdrawal of £140, taking 
+Mr Bs account around £91 overdrawn.
+In both cases, the ATM read the chip on the card and a PIN was entered. And so I was 
+satisfied that whoever made the transactions had both the card and Mr Bs PIN. But that 
+doesnt on its own, mean that Mr B was responsible for these transactions. I need to be 
+satisfied that Mr B consented to them.
+I considered the possibility that someone else made these transactions without Mr Bs 
+consent. Based on what Mr B had said happened at the ATM, I accepted that it was possible 
+that someone else got access to his card. Hed said the card was retained by the machine, 
+and that he was approached by a suspicious individual who tried to get him to reveal his 
+PIN. Im aware fraudsters can attach devises to ATMs allowing them to retain cards so they 
+can be retrieved and used later.
+I also noted that some of the information Id seen supports Mr Bs contention that he was no 
+longer in possession of the card. In particular, Lloydss records showed that Mr B logged into 
+his online banking at 18:53 on the day in question and froze his card. I understand this would 
+have prevented most use of the card online, at tills and terminals and abroad (although not 
+necessarily at ATMs). That said, I also noted that Mr B had later logged on  at 19:55  to 
+remove the freeze before reinstating it at 20:00. I dont know why Mr B did this, or why, 
+having been able to freeze his card, he didnt instead report it as lost or stolen.
+But if thats how Mr Bs card was taken, whoever did this needed Mr Bs PIN. Mr B has told 
+us, and the police, that he never entered the PIN into the ATM. He says he was not 
+prompted to enter his PIN into the ATM, did not do so, and nor did he enter his PIN after he 
+was approached by the man who suggested he try this to retrieve his card. Mr B also says 
+he hadnt written the PIN down anywhere, and that it wasnt easy to guess. So even if the 
+ATM had been tampered with, this doesnt explain how the fraudster then went on to 
+successfully use the card.
+Given Mr Bs very clear explanation of what happened, I found it very hard to see how Mr Bs 
+PIN might have been compromised. I didnt think it was likely that someone would have just guessed it. But that raised real questions as to how someone other than Mr B could have 
+made these transactions.
+I therefore considered the other possibility: that Mr B consented to these transactions. Based 
+on what Mr B had said, he was in the area where these transactions were made on the 
+evening in question. He was fairly close to the place where the first transaction was made at 
+around the same time. The second transaction was made around 10 minutes later, at a 
+Lloyds branch ATM. In order to get to the branch of Lloyds, whoever travelled there needed 
+to pass a number of other cash machines  with the real risk that the card would be 
+cancelled by its owner. And whoever made these transactions appeared to have known Mr B 
+had a second account with Lloyds. In both cases, Mr Bs PIN was entered.
+I was also mindful that Mr B had a number of opportunities to report the card lost or stolen  
+but didnt. He appeared to have accessed his online banking at least three times before he 
+got home  and during those sessions froze and unfroze transactions on the card but didnt 
+cancel the card. Having considered everything, I was satisfied Mr Bs card and PIN were 
+used to make these transactions. While Mr B had provided, on the face of it, plausible 
+reasons for how his card might have been taken, this doesnt explain how the PIN was 
+compromised. And in the absence of a better explanation of how a third party might have 
+known Mr Bs PIN, I thought it most likely that Mr B carried out the disputed transactions.
+For these reasons, I wasnt minded to uphold Mr Bs complaint. I said Id consider any further 
+comments I received by 18 September.
+Both Lloyds and Mr B confirm that theyve received my provisional decision. Mr B disagrees 
+with my findings. Neither Lloyds nor Mr B have sent me anything further to consider. Ive 
+considered the complaint again.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Neither Lloyds nor Mr B have sent me anything further to consider. I therefore reach the 
+same conclusion I reached in my provisional decision for the same reasons. It follows that it 
+was fair for Lloyds to refuse to refund Mr Bs two transactions.
+My final decision
+For the reasons above I dont uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr B to accept or 
+reject my decision before 15 October 2021.
+ 
+Rebecca Hardman
+Ombudsman

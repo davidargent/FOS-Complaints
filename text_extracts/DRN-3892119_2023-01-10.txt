@@ -1,0 +1,122 @@
+DRN-3892119
+The complaint
+Mrs D complains Experian Limited dont provide the correct information when electronic 
+verification is requested, which led to problems when she was trying to transfer money 
+between savings accounts.
+What happened
+I issued a provisional decision setting out whatd happened, and what I thought about that. 
+Ive copied the relevant elements of this below, and they form part of this final decision.
+Mrs D had a savings account due to mature, and she wanted to move her funds from her 
+existing account with a company Ill call S, to another company who Ill call L. She attempted 
+to transfer the money, and S used an online verification system to try and check Mrs D was 
+transferring money to one of her own accounts. But she was told the verification failed, and 
+this was Experians fault.
+She contacted Experian, and after getting a report found she was listed on the joint account 
+shed used for verification with L as financially connected. She thinks this is wrong and has 
+led to the issues shes had.
+Experian said any joint account would show as a financial connection between her and the 
+joint account holder so this was correct. They said they didnt know the reason why shed not 
+been verified as this process is automated, and they suggested Mrs D contact the 
+companies involved. Overall they didnt uphold her complaint.
+Mrs D asked us to look into things. One of our Investigators did so, but ultimately felt 
+Experian were reporting things correctly, and hadnt done anything wrong.
+Mrs D didnt accept this saying the other companies are blaming Experian, and theyre 
+blaming the other companies while shes stuck in the middle. So, the complaint was passed 
+to me to decide.
+Having reviewed matters I decided I needed some more information before I could fairly 
+reach an the outcome on this complaint. 
+This has taken longer than Id have liked, but I do believe weve got to the bottom of what 
+happened  which isnt down to the electronic verification system in the way Mrs D has 
+previously thought. Nor is it because of the way Experian had Mrs D recorded as financially 
+connected.
+What Ive provisionally decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+The system used by S when Mrs D attempted the transfer of her savings was Experians 
+Bank Wizard Absolute (BWA). This is designed to be a bank-to-bank system and is 
+described in Experians brochure as a method of checking ownership of your customers 
+bank accounts to reduce fraud and payment errors. There are four steps to the way this 
+system works  again, taken from the brochure:
+1. Input the customers details into BWA
+2. These details are compared to the data held by Experian, which includes current 
+account information from Banks
+3. Confidence scores are returned to you in near real time, showing you how closely the 
+information youve provided matches the information Experian holds
+4. You either proceed with the payment, or check and amend the bank account 
+information
+So, as explained this process simply checks whether the account details entered are a 
+match on Experians credit file.
+In Mrs Ds case she entered her account details on S system  and this returned an error 
+saying there was no match. This means the account details Mrs D entered werent matched 
+to any data held by Experian.
+Ordinarily, Experian would hold details of Mrs Ds current account, but here they didnt. 
+Theyve explained the reason for this is because the account details she was using  for her 
+joint account held with L  were marked as non-consented. Experian explained the 
+following when questioned about why Mrs Ds account didnt return a match:
+Our data team looked at the record held against the Sort Code and Account Number for 
+Mrs D and we do now hold her record on file, it is a Laccount and is noted as Non-
+Consented. Non-Consented data is a category of data that was formally not consented for 
+third party data sharing (this would have been an option that the consumer chose when 
+setting up their current account) until an industry change in the early 2000s meant that this 
+data can now be shared, which was helped by the rise of GDPR (General Data Protection 
+Regulations) and data sharing is covered under the holding Banks privacy notice.
+So, at the time of Mrs D looking to transfer her savings account from S to L, Experian held 
+no records of her account details with L  because theyd been marked as non-consented 
+data meaning they werent shared. Experian have said they and other credit reference 
+agencies have been pushing for non-consented account data to be shared with them since 
+its now usually covered under a banks privacy notice, and recently this has started to 
+happen.
+The reason Experian are now in a place to explain what actually happened, is because since 
+Mrs D originally made her complaint, L have shared the account data with them. Ive seen 
+screenshots to show the data was loaded in August 2022  and that it was marked as non-
+consented. 
+I can see why Mrs D has felt so frustrated  shes tried to do a simple transaction which 
+didnt work, and its taken a very long time for her to get a clear answer about whats 
+happened. I can though only hold Experian responsible for an error if Im satisfied theyve 
+made one.Here, I cant reasonably say they have. At the time of Mrs D making her complaint, the 
+account data hadnt been shared with them so when they told Mrs D in their final response 
+they didnt know why there was an issue I think that was correct. I think its only because L 
+shared the data about her account with Experian after her complaint that theyre now able to 
+explain what happened and why.
+Responses to my provisional decision
+Mrs D said this was strange as L had told her months ago this wasnt a legacy account and 
+consent is held. She also called them after receiving my provisional decision, and they told 
+her there is no reason she cant be electronically verified.
+Experian said theyd reviewed matters and had nothing further to add.
+We also received further information from L. Wed previously asked them about the account 
+and whether it was or wasnt a non-consented account. They replied and said they werent 
+sharing any information with Experian. 
+Given Experians screenshots said otherwise, I decided L had given us incorrect information 
+at that point. In Ls latest reply theyve said Mrs Ds account is being classed as non-shared 
+(non-consented data) based on the account open date and associated account change 
+information.
+L said they changed their processes, and Mrs Ds non-consented account was first shared 
+with Experian on 10 August 2022. They also provided some screenshots to show this.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+As I said before I do understand Mrs Ds frustration here. What should be a very simple 
+process has become lengthy through no fault of her own and with a significant amount of 
+conflicting answers  which has seemingly only got worse for her since I issued my 
+provisional decision.
+I have to make it clear though I can only base my outcome on the evidence provided to me. I 
+was satisfied at the point I issued my provisional decision L hadnt transferred details of her 
+account to Experian for the purposes of account verification until August 2022.
+Ls latest reply confirms what Experians screenshots had already shown me  that Experian 
+didnt receive the data until August 2022. I cant explain why L have told Mrs D one thing, 
+and our service another.
+But, ultimately, this decision is against Experian  and the evidence I have shows they didnt 
+receive Mrs Ds data until August 2022. So, at the time of Mrs D attempting the transaction L 
+hadnt transferred her account data to Experian  so I cant say Experian have done 
+anything wrong.
+Experian have said given the amount of information received from various companies it 
+could take some time for the account data to be available for the purposes of account 
+verification. If Mrs D wants more information about this, shell need to speak to Experian 
+directly. Id encourage her to refer them to this complaint for an explanation of what 
+happened, should she speak to someone who isnt clear on whats happened.My final decision
+For the reasons Ive explained above, I dont uphold Mrs Ds complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mrs D to accept or 
+reject my decision before 7 February 2023.
+ 
+Jon Pearce
+Ombudsman

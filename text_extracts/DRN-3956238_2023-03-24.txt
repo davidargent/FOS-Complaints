@@ -1,0 +1,370 @@
+DRN-3956238
+The complaint
+Ms D, Mr D and Mr D1 (the complainants) complain that Kapwealth didnt provide them with 
+the information it should have done about the Forex strategy each of their portfolios was 
+invested in.
+What happened
+Kapwealth was in partnership with Marjan Technologies which had developed an investment 
+strategy based on an algorithm  The FX Market algorithm  for trading forex assets. 
+Kapwealth was the investment manager for the strategy and offered clients who wanted to 
+invest in the strategy a discretionary management service for their investment. 
+Mr D was aware of the strategy before he discussed investing in it with Kaplwealth This was 
+the result of him looking to purchase an equity interest in the business itself and attending 
+investor seminars. Mr D invested an initial €50,000 into his portfolio to be invested in the 
+strategy to be managed by Kapwealth and then a total further amount of €400,000. He also 
+discussed the strategy with his children, Mr D1 and Ms D following which they invested 
+€200,000 and €50,000 respectively into their own portfolios for Kapwealth to manage.
+They each subsequently complained to Kapwealth because they were unhappy that 
+performance fees had been charged on closed profit and loss and with the equity in the 
+account being hidden so that losses werent shown. Mr D also complained that the 
+statements they were provided with didnt show the floating loss which encouraged him to 
+invest more into the strategy.
+One of our investigators considered the complaint and thought it should be upheld. He 
+thought the investment strategy wasnt appropriate for the complainants as it was for 
+professional clients and the criteria for them being treated as elective professional clients 
+hadnt been met.
+The investigator also said that as a discretionary manager of the complainants portfolios it 
+had a duty to make sure the decisions it made were suitable for them but Kapwealth had not 
+considered suitability for any of the complainants. The investigator didnt think that leveraged 
+trading on currencies was suitable for them.
+The investigator also said the complainants had not been provided with the information they 
+should have been at the outset about performance fees only being charged on closed 
+positions and that this was payable when there were floating losses. He said there was a 
+clear conflict of interest in Kapwealth managing the strategy in the best interest of the client 
+at the same time it received a performance fee on closed positions.
+Kapwealth didnt agree with the investigator. It said that the investigator had held it 
+accountable for suitability when it hadnt recommended the product and that its role was 
+limited to ensuring that the product was appropriate only. It said the client was looking for 
+speculation and understood the risks and had approached it to invest in the strategy and if 
+they didnt want speculation or didnt understand the risks they had been fraudulent in stating 
+to the contrary.
+It said that whilst the clients didnt have trading experience they werent directly executing. 
+The clients were party to the underlying software company which provided the trade signals 
+and wanted to buy into the company so would need to understand how it generated revenue. 
+There is evidence from the company that the client attended seminars and was in 
+possession of the trade trading data and knew how the fees were levied but this hasnt been 
+taken into account.
+The investigator responded and said that his opinion had been based in part on the 
+investment being deemed appropriate for professional client and the complainants not being 
+such clients. He referred to the rules set out in the Conduct of Business Sourcebook (COBS) 
+in the Handbook of the FCA at COBS 10.2.
+Kapwealth repeated that whilst the clients didnt have trading experience they were 
+executing the trades themselves so this wasnt so relevant if they understood the products 
+and their nature, which they had said they did. It said the client had been engaging with the 
+underlying software provider for several months so had sufficient knowledge. It also said that 
+having attended seminars with the client it was satisfied that he knew the minute details of it. 
+It also questioned how Mr D could have promoted the strategy to his family if he didnt know 
+how it worked. 
+As Kapwealth didnt agree with the investigator the matter was referred to me to review. I 
+issued a provisional decision upholding the complaint the findings from which are set out 
+below.
+There appears to be some confusion as to what Kapwealth was required to do in its role as 
+discretionary manager of the complainants portfolios. The investigator in his initial opinion 
+referred to its obligation to assess appropriateness as well as suitability. Kapwealth has 
+argued that it was only required to assess appropriateness.
+Given there are important differences in the rules that Kapwealth must comply with between 
+appropriateness and suitability I think it is important to explain what its obligations were.
+The relevant rules are set out in the Conduct of Business Sourcebook (COBS) in the 
+Handbook of the FCA. The rules relating to appropriateness can be seen under  COBS 
+10A.1 which make clear that the chapter doesnt apply when a firm makes a personal 
+recommendation or carries out portfolio management. So, it didnt apply to the service that 
+Kapwealth provided to the complainants. 
+The rules regarding suitability at the time are set out under COBS 9A the relevant parts from 
+which I set out below.
+COBS 9A.2.1R:
+When providing investment advice or portfolio management a firm must:
+(1) obtain the necessary information regarding the clients:
+(a) knowledge and experience in the investment field relevant to the specific type 
+of designated investment or service;
+(b) financial situation including his ability to bear losses;; and
+(c) investment objectives including his risk tolerance,
+(2) only recommend investment services, financial instruments and insurance-based investment products, as applicable, or take decisions to trade, which are suitable for 
+the client and, in particular, in accordance with the clients risk tolerance and ability to bear 
+losses.
+[Note: first paragraph of article 25(2) of MiFID, first paragraph of article 30(1) of the IDD]
+COBS 9A.2.4EU:
+54(2) Investment firms shall determine the extent of the information to be collected from 
+clients in light of all the features of the investment advice or portfolio management services 
+to be provided to those clients. Investment firms shall obtain from clients or potential clients 
+such information as is necessary for the firm to understand the essential facts about the 
+client and to have a reasonable basis for determining, giving due consideration to the nature 
+and extent of the service provided, that the specific transaction to be recommended, or 
+entered into in the course of providing a portfolio management service, satisfies the following 
+criteria:
+(a) it meets the investment objectives of the client in question, including clients risk 
+tolerance;
+(b) it is such that the client is able financially to bear any related investment risks consistent 
+with his investment objectives;
+(c) it is such that the client has the necessary experience and knowledge in order to 
+understand the risks involved in the transaction or in the management of his portfolio.
+[Note: article 54(2) of the MiFID Org Regulation]
+COBS 9A.2.6:
+55(1) Investment firms shall ensure that the information regarding a clients or potential 
+clients knowledge and experience in the investment field includes the following, to the extent 
+appropriate to the nature of the client, the nature and extent of the service to be provided 
+and the type of product or transaction envisaged, including their complexity and the risks 
+involved:
+(a) the types of service, transaction and financial instrument with which the client is familiar;
+(b) the nature, volume, and frequency of the clients transactions in financial instruments and 
+the period over which they have been carried out;
+(c) the level of education, and profession or relevant former profession of the client or 
+potential client.
+[Note: article 55(1) of the MiFID Org Regulation]
+The above rules state they apply to portfolio management, so they applied to the service 
+Kapwealth provided. Furthermore, clause 7 of its own terms and conditions set out its 
+obligation to assess suitability before providing its portfolio management service  unless an 
+IFA has assessed suitability, which isnt the case here.
+However, when the investigator questioned Kapwealth about suitability before he provided 
+his opinion it said that as it had made no recommendation and didnt carry out an investment 
+review, it only needed to consider appropriateness  which as I have said isnt relevant to 
+the service it provided. It then repeated this in response to the investigators opinion. So, on its own evidence Kapwealth didnt consider suitability, despite the rules and its own 
+terms making clear this is something it needed to do. Given what Kapwealth has said and 
+the absence of any documentary evidence any suitability assessment was carried out I am 
+satisfied that no such assessment took place. 
+Kapwealth was in breach of its regulatory obligations and its own terms and conditions in 
+providing its portfolio management service to the complainants without having carried out a 
+suitability assessment.
+The complainants were required to provide some information about their financial positions 
+and investment experience in the applications they completed but this wasnt for the 
+purposes of a suitability assessment and wasnt sufficient in any event for such an 
+assessment to be carried out, as I explain below. 
+I have only considered the applications Mr D and Mr D1 completed as Ms Ds application is 
+illegible. In their respective applications both Mr D and Mr D1 answered yes to having a 
+good understanding of leveraged products and the concepts of margin and to having a good 
+understanding of the concepts of volatility and market liquidity and of the risks of trading. 
+However, the applications also required them to provide information about their level of 
+previous experience in relation to a comprehensive list of investment products - from 
+government bonds to CFDs and Forex, and with a catch-all of other investments for 
+anything falling outside of the individual products identified. 
+Both Mr D and Mr D1 answered none to every single product and to the catch-all question. 
+In other words their answers indicated they had no previous investment experience at all.
+The applications also showed that; Mr D was a teacher and Mr D1 was a student; neither of 
+them had a qualification that would assist in understanding leveraged products in general; 
+their current level of knowledge of financial markets was none/limited/basic experience. 
+Furthermore, the rules also require firms to obtain information about a clients financial 
+situation when assessing suitability - including their ability to bear losses - as well as 
+information about their objectives and risk tolerance. 
+The application did require some financial information to be provided but I think this fell well 
+short of what Kapwealth needed for the purposes of a suitability assessment. 
+For example the information about Mr D1 showed that at the time he was a 24 year old 
+student with an income between 0  10,000 and with a net worth between 100,001  
+500,000. He put €200,000 into his portfolio to be invested in the strategy and Kapwealth had 
+no way of knowing from the information in the application whether this was all of net worth or 
+not or if he could bear the losses that could result from investing this amount in the strategy. 
+Mr D had a more significant income  shown as between 75,000 and 100,000  but had the 
+same information as Mr D1 about his net worth, namely that this was 100,001  500,000. He 
+invested a total of €450,000 and as with Mr D1 Kapwealth had no way of knowing from the 
+information it had if that was the entirety of his net worth or whether he could bear the losses 
+that could arise from his investment in the strategy.
+I think it is obvious that the applications of Mr D and Mr D1 didnt contain the necessary 
+information that Kapwealth would have needed to assess suitability and that it needed to 
+obtain further details before it could carry out an assessment.
+So far as Ms D is concerned, the copy of the application she completed that has been provided isnt legible so I cannot say what information was provided in her application.
+I have considered whether the strategy could have been suitable for any of the complainants 
+if the necessary information had been obtained and a suitability assessment carried out. Mr 
+D has confirmed that none of them had any previous investment experience and as such I 
+am not satisfied that the strategy was suitable for any of them. 
+Kapwealth has suggested that because Mr D was already aware of the strategy - having 
+attended investor seminars and intending to have an equity interest in Marjan - he had the 
+necessary knowledge and experience. I am not persuaded by this argument.
+Investor seminars are not a replacement for actual knowledge and experience gained 
+through investing in my view and whilst Mr D may have thought purchasing an equity interest 
+in Marjan was a good opportunity this also doesnt, of itself, establish he had the knowledge 
+and experience to understand the risks of the strategy.
+I would also point out that even if Kapwealth thought that this was a reason to think that Mr D 
+had the necessary knowledge and experience, it provides no explanation for it providing its 
+service to Mr D1 or Ms D. 
+One further point about the suitability of the strategy is that the seminar slides Kapwealth 
+has provided refer to the strategy being suitable only for professional clients, which I think is 
+understandable given the complexity of the strategy. However, the complainants were all 
+retail clients. In response to the investigators query about this Kapwealth said that it 
+changed the client criteria for the strategy because of concerns over negative equity 
+protection. 
+Whilst I acknowledge that professional clients wouldnt be entitled to negative equity 
+protection, this doesnt explain how it determined that a strategy it thought was only suitable 
+for professional clients was then somehow suitable for retail clients.
+Were the complainants provided with the information they should have been?
+The complainants argue they werent made aware of floating losses on their accounts and 
+that this gave a false impression as to how the strategy was doing. They also argue that they 
+werent made aware that the performance fee was charged on closed trades whilst there 
+were losing trades still open.
+The terms and conditions of the portfolio management agreement referred to payment of an 
+initial management fee of 1% of the total portfolio amount upon account opening and a 
+monthly performance fee of 50%. The terms provide no further information about the 
+performance fee, such as whether it is payable on closed positions only.
+Kapwealth argues that Mr D was aware of the basis on which the performance fee was 
+charged and point to a slide from one of the investor seminars that Mr D attended which 
+referred to this. 
+It has also provided a statement from Mr L, a director and the controlling owner of Marjan, 
+who has stated that Mr D had numerous meetings with Marjan in which it shared its full 
+business model and that this included live trading and that Mr D was aware that positions 
+were open at the end of each month and that performance fees were generated on closed 
+positions only.
+There is no evidence that Mr D1 or Ms D attended the seminars or met with Marjan, so this 
+evidence is only relevant so far as Mr D is concerned and has no relevance to Mr D1 or Ms D. Kapwealth has provided no evidence or explanation as to why Mr D1 or Ms D would have 
+reason to know the basis on which the performance fee was charged given it didnt provide 
+any information to them about this. 
+Insofar as Mr D is concerned I am not persuaded on the limited evidence that Kapwealth has 
+provided - consisting only of a seminar slide and a statement from Mr  L - that he was aware 
+the performance fee would be charged on closed positions only whilst there were still losing 
+open positions.
+There are various rules that I think are relevant regarding the information that Kapwealth 
+provided to the complainants. However, the starting point I think is that it was obliged to 
+provide clear, fair, and not misleading information to its clients as set out in COBS 4.2.1R.
+I am not satisfied that Kapwealth did provide clear, fair and not misleading information to the 
+complainants as it didnt make clear the performance fee would only be charged on closed 
+positions and that this was payable when floating losses could be increasing month on 
+month. 
+I think it is also worth referring to specific rules regarding costs information that Kapwealth 
+needed to comply with. Under COBS 2.2A.2(1)(d) Kapwealth had to provide appropriate 
+information in good time to its clients about all costs and charges. It seems to me that 
+appropriate information would include information about the basis on which the performance 
+fee would be charged, namely on closed positions only.
+There are more specific rules about costs information under COBS 6.1ZA which I wont set 
+out in detail. However, one rule I think is worth referring to is COBS 6.1ZA.14ER under 
+which it was required to provide an illustration showing the cumulative effect of costs on the 
+return both on an ex-ante and post-ante basis. Kapwealth provided no such illustration as far 
+as I am aware and had it done so this potentially would have painted a different picture to 
+what was shown in the documents they were provided with. 
+There is a further point about the information Kapwealth provided. Regardless of the 
+information provided about the performance fee, the monthly statements didnt show the 
+floating losses and I think as such were not clear, fair, and not misleading. I think this is 
+important for a couple of reasons.
+Firstly, Mr D invested €50,000 to start with and then later invested a further €400,000 that he 
+may well not have invested if he had been aware of the floating losses on his account. 
+Secondly, Mr D1 and Ms D invested as a result of Mr D making them aware of the strategy 
+following his own investment and it seems to me this discussion and their investment may 
+well not have taken place if he had been made aware of the floating losses.
+I said Kapwealth should compare what each complaint got back from their investment in the 
+strategy with what they would have received if they hadnt invested and pay the difference 
+together with simple interest.  
+I gave both parties the opportunity of responding to my provisional decision and providing 
+further information they wanted me to consider before reaching my final decision. The 
+complainants agreed with my findings but Kapwealth didnt. 
+It said that we had not fairly assessed and acknowledged the scale of evidence supporting 
+its assertions and the lack of assertions to the contrary. It said that our approach and attitude 
+is inherently slanted in favour of the complainant and it feels its evidence of the 
+complainants own extensive active contribution is being discounted Kapwealth said that it had provided a list of consistent activities which show the 
+complainants active intention, desire, and participation and that they were the drivers of the 
+whole investment. It said experience is way broader than just an opinion  and then 
+provided dictionary definitions for the word experience. 
+Kapwealth said that by defining experience narrowly and ignoring the evidence of the 
+complainants real and tangible exposure to the concepts and operation of the strategy 
+creates a catch-22 situation in that someone who has never previously invested in a product 
+would never be able to ever invest in that product. It said that there had to be some 
+threshold of experience that should be enough to make a decision they can invest and the 
+complainant clearly exceeded that threshold. 
+In response to my finding that it had provided no explanation for the service provided to Mr 
+D1 and Ms D Kapwealth said Mr D was promoting the service to them.
+It said that in effect it had an insistent client that it tried in good faith to implement a service 
+for which he was fully aware of and promoted and it has provided extensive proof of the pre-
+activities and pre-knowledge and intent of the complainant  who has never stated he didnt 
+understand the product nor that he didnt have enough knowledge and experience.
+Kapwealth said that the client was actively looking into investment solutions and the 
+assumption he wouldnt have invested in something else is unfair. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Kapwealth has suggested that my provisional is biased towards the complainants and that I 
+have not fairly assessed the scale of evidence in support of the assertions it has made. 
+However, I have considered all the evidence provided by the parties and reached a fair, 
+reasonable, and impartial decision having done so. Kapwealth has provided no new 
+information or evidence that would lead me to change the findings in my provisional 
+decision, which form part of my findings in this final decision. 
+The starting point is that Kapwealth didnt carry out a suitability assessment as it was 
+required to do both by the rules and under its own terms and conditions  it mistakenly 
+considered that because Mr D had decided to invest in the strategy beforehand and it didnt 
+recommend it that this meant it wasnt required to assess suitability.
+However, as it was providing a portfolio management service it was required to assess 
+suitability of the service it was going to provide and shouldnt have proceeded to without 
+having carried out such an assessment in respect of each complainant  its own terms and 
+conditions explain that it will carry out such an assessment. 
+In considering whether Kapwealth could have provided its service if it had carried out a 
+suitability assessment, the information available doesnt support a finding that it could - as on 
+the available evidence the leveraged currency trading the Forex strategy involved wasnt 
+suitable for any of the complainants.
+In my provisional decision I commented on the fact that the Forex strategy was originally 
+directed only at professional clients - which I think made sense given the complexity and 
+risks involved in the strategy. This was then changed so that it was made available to retail 
+clients. The reason that Kapwealth put forward for this is that professional clients wouldnt benefit 
+from negative equity protection. However, the fact retail clients had the benefit of negative 
+equity protection didnt make the strategy any less complex or less high risk. It simply meant 
+that a retail client couldnt lose more than the total funds in their trading account. I am not 
+satisfied that the availability of negative equity protection reasonably explains the decision to 
+make the Forex strategy available to retail clients. 
+And even if it was considered a suitable strategy for some retail clients - such as 
+sophisticated investors - I cannot see that a strategy which had previously only been 
+considered as suitable for professional clients, could reasonably be considered suitable for 
+retail clients who were novice investors.
+In response to my provisional decision Kapwealth has made the same arguments it has 
+previously made about Mr D wanting to invest in the strategy, attending seminars, and being 
+interested in taking an equity interest in Marjan. I considered everything it said previously in 
+relation to these issues when making the findings set out in my provisional decision. It has 
+provided no new evidence that would lead me to change my findings. 
+I note what Kapwealth has said about there being some threshold of experience that would 
+allow a client to be invested in a product they hadnt previously invested in. In this case Mr D 
+had not previously invested and was investing in a complex high-risk strategy involving 
+leveraged currency trading, not some straightforward investment product like equities or 
+bonds. I dont agree with Kapwealth that Mr D had the necessary knowledge and experience 
+to understand the risks of such trading when he had no previous investment experience at 
+all.
+Furthermore, whilst I have concentrated on Mr Ds knowledge and experience, the rules also 
+require firms to obtain information about a clients financial situation when assessing 
+suitability - including their ability to bear losses - as well as information about their objectives 
+and risk tolerance. I am not satisfied that leveraged currency trading was suitable for Mr D 
+regardless of his knowledge and experience, based on the information available about his 
+financial situation. 
+I note that Kapwealth has referred to Mr D being an insistent client. This has a specific 
+meaning as set out in COBS 9.5A in the FCA Handbook. In short it is someone a firm has 
+made a personal recommendation to but where the client wants the firm to facilitate a 
+different transaction. That clearly isnt what happened in this case and if it had been the 
+guidance sets out in COBS 9.5A sets out what a firm should do.
+Insofar as Kapwealth is using the term insistent client in some wider context in reference to 
+Mr Ds desire to invest in the Forex strategy, this didnt make it suitable for him and didnt 
+mean that Kapwealth could provide the service it did when it wasnt suitable for him.  
+The points that Kapwealth has made about Mr Ds knowledge and experience have no 
+relevance to Mr D1 or Ms D. Its explanation in support of its service being suitable for them 
+appears to be based on Mr D having promoted the Forex strategy to them. This clearly 
+doesnt provide evidence that leveraged currency trading was suitable for them. I have seen 
+no evidence either of them had the knowledge and experience for leveraged currency 
+trading to be considered suitable for them. 
+I would also repeat what I have said above about the rules requiring firms to obtain 
+information about a clients financial situation when assessing suitability - including their 
+ability to bear losses - as well as information about their objectives and risk tolerance. And, 
+as with Mr D,  I am not satisfied that leveraged currency trading was suitable for Mr D1 or Ms 
+D based on the information available about their respective financial situations. In summary Kapwealth failed to carry out a suitability assessment for any of the 
+complainants as it was required to do before providing its portfolio management service. I 
+have seen no persuasive evidence that if it had carried out a suitability assessment that it 
+could reasonably have concluded that leveraged currency trading was suitable for any of the 
+complainants. 
+Furthermore, in addition to my findings about suitability I also made findings in my 
+provisional decision about Kapwealth not providing the information it should have done to 
+the complainants. Kapwealth has said nothing about my findings about its failings in that 
+regard. These provide an additional and separate basis for upholding the complaint and 
+awarding redress in any event.
+Putting things right
+The purpose of redress as far as possible is to put the complainant in the position they would 
+have been in if the business had done nothing wrong. In other words, put them in the 
+position they would have been in if their portfolios hadnt been invested in the Forex strategy. 
+Where there is persuasive evidence that a complainant would still have invested at the time 
+either in a specific investment or generally then redress can be based on a comparison with 
+the specific investment or with a benchmark.
+I note that Kapwealth has said that Mr D was looking for opportunities to invest. However, 
+there is no persuasive evidence he was interested in any other investment other than the 
+Forex strategy. There is also no evidence that suggests Mr D1 and Ms D would have 
+invested in something else if they hadnt been invested in the Forex strategy. 
+In the circumstances I am satisfied that it is fair and reasonable redress should be based on 
+Kapwealth comparing what each complainant got back after investment in the strategy with 
+what they would have received if they had not invested and left their money where it was 
+and paying the difference to each of them. 
+In addition I think it should pay simple interest at 8% per annum on the amount it calculates 
+is payable to each complainant from the date they each stopped investing in the strategy to 
+the date of settlement.
+My final decision
+I uphold this complaint for the reasons I have set out above. Kapwealth Limited must 
+calculate and pay the complainants the redress as set out above.
+Under the rules of the Financial Ombudsman Service, Im required to ask Ms D, Mr D and Mr 
+D1 to accept or reject my decision before 19 April 2023.
+ 
+Philip Gibbons
+Ombudsman

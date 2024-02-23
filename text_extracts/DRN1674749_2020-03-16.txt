@@ -1,0 +1,75 @@
+K820x#14complaint
+Mr Cs complaint is about margin call closures  applied to his GBP/USD and Platinum/USD 
+Contracts for Differences (CFDs) positions  by OANDA Europe  Limited  (OEL)  on 
+3 July 2018. He mainly  says the prices  that triggered the closures were inconsistent with the 
+wider market; that OEL gave mixed  explanations  about the precise margin  requirements that 
+were breached; and that OEL did not give him prior notice of the margin calls.
+background
+OEL has presented  account activity evidence  that shows the following:
+Mr C used margin of £5,667 (rounded)  to open his Platinum/USD position  and was 
+required to maintain margin, in his account, of £2,834 (rounded) to keep  it open.  The 
+relevant margin rate was 20:1.
+He used margin of £4,333 (rounded) to open  his GBP/USD position and was required 
+to maintain margin, in his account, of £2,167 (rounded) to keep  it open.  The relevant 
+margin rate was 30:1.
+Together, he had to ensure total available margin in his account did not go below  
+£5,001 (rounded)   that is, the sum of the above two margin  requirements.
+When the margin calls were triggered,  total available margin  in his account was 
+£4,559.16  below the total required account margin.
+OEL disputes the complaint and its position is mainly as follows:
+The margin calls that led to closure  of Mr Cs positions were legitimately triggered by 
+breach of the margin requirement(s) in his account.  [as summarised above]
+The agreed terms for the account permitted application of the margin call closures 
+and the closures  were  executed consistently  with those terms.
+The terms also gave it discretion to give prior notice of such  closures but it was not 
+obliged to do so. Primary and sole responsibility  for the monitoring of Mr Cs 
+execution only account (including  the management of margin  within  the account) 
+belonged to him.
+One of our investigators  looked into the complaint  and concluded that it should not be upheld  
+ for broadly  the same  reasons as those given by OEL. Mr C disagreed and stressed his 
+concern that the prices used to close his positions  were inconsistent with the wider  market.  
+The investigator did not consider there  was evidence  of inconsistency  with the underlying 
+markets and he noted that prices  quoted by comparator firms could not be relied upon as 
+OEL was entitled  to set its prices/spreads independently. Mr C maintained  his point  about  
+price inconsistency and asked for an ombudsmans decision.
+my findings
+I have considered all the available evidence  and arguments to decide what is fair and 
+reasonable in the circumstances of this complaint.
+Initially, OEL does appear to have given conflicting  information to Mr C about the precise 
+details of the margin call closures. However, thereafter and with direct reference to account 
+activity evidence, it provided the information I summarised above. This appears to have 
+addressed Mr Cs earlier concerns about the conflicting information he had received and he 
+does not appear  to have maintained a dispute,  to date,  about the details  I have summarised. 
+Ref: DRN16747492On balance and for the sake of clarity and completeness, I consider that the summary I 
+provided above is an accurate reflection of what led to the margin  call closures and that it is 
+supported by reliable  account activity evidence.
+The next issue to address  is the price inconsistency  argument. With regards to Mr Cs 
+comparisons with OELs competitors, I endorse the investigators observations. OEL is not 
+required to mirror prices and/or spreads used by its competitors. It is entitled to use its own 
+price feeds  as appears to have been  the case and as is mentioned in its Order  Execution 
+Policy. In terms of the relevant underlying market prices, I note as follows:
+Account activity evidence shows that the GBP/USD position  was closed at the fill 
+price of 1.31298 and the Platinum/USD position  was closed at the fill price of 
+798.591.
+Historical spot inter-bank  price  data for GBP/USD on 3 July 2018 says prices  
+reached a low of 1.3115  and a high of 1.3206  on that date. Historical price  data for 
+Platinum/USD on the same date says prices reached a low of 798 and a high of 850.
+I accept that evidence of the precise price  feed used by OEL for the fill prices applied  
+to Mr Cs position, and at the time they were closed,  has not been available. 
+However, the historical price data I have mentioned provide a reasonably reliable 
+basis to consider, on balance, whether (or not) the fill prices  were inconsistent with 
+the underlying  market  rates. Both fill prices are within the high/low ranges for the 
+relevant markets and for the relevant  date.  Overall and on balance, I am not 
+persuaded that the fill prices were  inconsistent with the underlying  market  prices.
+As OEL says, the terms for Mr Cs account did not oblige it to give prior warning(s) of margin 
+call closures and it was primarily and solely his responsibility, under those terms, to monitor 
+activity within his account and to manage margin in his account.  Mr C says he does not 
+recall agreeing to the terms but I do not consider it likely that his account  could have  been  
+activated without  his confirmation of such agreement at the outset. 
+my final decision
+For the reasons  given  above, I do not uphold Mr Cs complaint. Under the rules of the 
+Financial Ombudsman  Service,  I am required to ask Mr C to accept  or reject my decision 
+before 16 April 2020.
+Roy Kuku
+Ombudsman
+Ref: DRN1674749

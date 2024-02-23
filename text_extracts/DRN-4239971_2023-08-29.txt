@@ -1,0 +1,125 @@
+DRN-4239971
+The complaint
+Mr A complains that Nationwide Building Society were at fault for an international transfer 
+being returned which resulted in a foreign exchange loss and they provided him with poor 
+customer service. 
+Mr A is represented by a relative in bringing this complaint. But for ease of reading, Ill refer 
+to any submission and comments she has made as being made by Mr A himself.
+What happened
+Mr A attempted to make an international transfer via Nationwides online portal to a relative, 
+but the payment was returned to them within three days of receipt. Mr A says that he had 
+numerous communications with Nationwide about the payment. He says he was told by 
+Nationwide that he needed to provide the recipient bank with a tracing number so they could 
+trace the payment, so Mr A gave this to the intended recipient of the payment, who 
+contacted the recipient bank. The intended recipient obtained evidence that her credit union 
+(which was the recipient bank) had returned the payment to Nationwide on 25 March 2022. 
+Mr A made a complaint to Nationwide.
+Nationwide partially upheld Mr As complaint. They said that he made a payment of 
+£113,377.16 (€132,129.74) converted at the rate of 1.1654 euros to the pound on 15 March 
+2022, and the recipient bank returned the funds to their third party payment processing 
+partner on 25 March 2022, but there was no additional supporting message from the 
+recipient bank confirming return of the payment. They said it was a fresh payment as it 
+wasnt returned as a Single Euro Payments Area (SEPA) and it was returned to the 
+originating account (their payment processing partner. So this resulted in no triggers or 
+notifications to return the funds to Mr A.
+Nationwide said that as part of reconciliation activity between their payment processor and 
+themselves, this entry was investigated and the return of funds processed, with £111,263.82 
+being credited to Mr As account on 5 May 2022. They said reconciliation without any 
+reference should occur within 30 working days from the date the funds are returned (which 
+would be 6 May 2022), so they hadnt made any error and they were unable to offer to 
+refund him for the loss of £2,113.34 hed incurred. Nationwide apologised for the lack of 
+ownership taken to deal with his queries regarding the payment and offered him £200 
+compensation. Mr A brought his complaint to our service.
+Our investigator said the credit union returned the payment to Nationwide via their payment 
+processing partner without providing sufficient details of the originating account from where 
+the funds were debited. He said without this, the payment processor had to investigate the 
+source of funds before returning them to the correct account. Mr A asked for an ombudsman 
+to review his complaint. He said the credit union returned the funds which clearly showed his 
+International Bank Account Number (IBAN), which is unique to his account and therefore left 
+no confusion. He enclosed a copy of the paperwork the credit union sent him about the 
+transfer. He said surely the funds were converted to Sterling at the time they were sent from 
+the credit union and not when Nationwide received them.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+I must be clear that as Mr As complaint is brought against Nationwide, then Im only able to 
+make a finding about Nationwide on this complaint and not any other bank or credit union 
+which may have been involved with the transfers. Where I refer to the credit union, this could 
+be the credit union or their payment processors. 
+Id like to explain to Mr A that it is not within this services remit to tell a business how to run 
+their reconciliation policies and procedures such as how often they should reconciliate 
+payments. It would be the role of the regulator  the Financial Conduct Authority, who have 
+the power to instruct Nationwide to make changes to their policies and procedures, if 
+necessary. 
+Ive considered what Mr A has said about the IBAN being included in the paperwork the 
+credit union sent him. Im not persuaded that the credit union sent actual paperwork to 
+Nationwide as the sending of money would be electronic. Ive looked at the payment 
+information on Mr As paperwork though as I agree this is the details the credit union 
+returned the money to. But I cant agree the credit union used the correct details for Mr A 
+and Ill explain why.
+The beneficiary name is not Mr As name. But it is the correct beneficiary bank (building 
+society). Ive looked at the next column on the paperwork which is the beneficiary Bank 
+Identifier Code (BIC). But this code is not Nationwides code. As shown on Mr As current 
+account statement, this shows what his BIC would be, and the BIC that the credit union used 
+appears to be just to the payment processor instead of the BIC of where the transfer 
+originated from. It appears that the credit union have used the BIC for the payment 
+processor instead, but its not clear why they wouldnt have used the correct BIC to reach Mr 
+As account.
+Im sorry to disappoint Mr A, but the IBAN displayed on the paperwork which he says leaves 
+no confusion, is not his IBAN for his account. His correct IBAN is shown on his current 
+account statement. And the IBAN displayed on the paperwork is not even a Nationwide 
+IBAN as it appears to be their payment processors IBAN. So the payment information from 
+the credit union shows a mismatch of information with a different building society with a BIC 
+and IBAN which doesnt belong to Nationwide themselves.
+Typically when a financial institution receives a SEPA payment, and they choose to return a 
+payment, they would return it as a SEPA payment which should reach the intended account. 
+But the credit union returned the funds via a new payment instruction, and as the BIC/IBAN 
+were not the same as shown on his current account statement, this is why it did not reach Mr 
+As account when they sent the funds back on 25 March 2022. The funds were sent in 
+Euros as shown on the paperwork. I checked with Nationwide to see if the funds would have 
+been converted at that point. They confirmed that the funds credit their payment processors 
+currency account, and as such, they are only converted to Sterling on the same day 
+Nationwide receive the funds.
+Once Mr A made Nationwide aware of an issue with the payment, they say they initiated via 
+their payment processor a Credit Payment Recovery (CPR). They say that this would have 
+been chased up every seven days. Im not aware that the credit union responded to this, as 
+if they would have sent the payment processor information of where the payment was sent, 
+then this would have been located when they received this information. Ive also been 
+unable to obtain proof of the CPR as Nationwide dont hold this, so I cant rule out that it hasnt been chased up either, but I would find this unlikely as they have procedures in place 
+to follow these types of requests up. 
+Due to the reconciliation processes that Nationwide and their processing partner have in 
+place, they have 30 days in which they would try and reconcile a payment, which they 
+managed to do here. Ive already mentioned the reasons why this didnt automatically go into 
+Mr As account when the payment was sent by the credit union due to details other than his 
+own which were entered. So it appears that a manual process is needed to try and reconcile 
+payments which are in the payment processors account. Here, as the credit union had used 
+two reference numbers under the remittance data field of the returned payment, that they 
+were able to manually redirect the funds back to Mr As account. 
+So I cant say that Nationwide were at fault for the credit union not crediting the payment to 
+the intended recipient as this would be out of their control. And I would not expect them to be 
+familiar with other companies payment limits. They would not be responsible for the credit 
+union not returning the payment as a return of their SEPA payment and instead initiating a 
+new transfer with a BIC and IBAN which werent for Mr As account. So it would not be 
+proportionate to ask Nationwide to refund the exchange loss here. 
+But Nationwide did let Mr A down on occasion. They have admitted that there was a lack of 
+ownership taken towards his queries regarding the SEPA payment and the delay in their 
+response to his complaint. He was told an incorrect reason for the payment being returned, 
+and while this is likely to be the reason Nationwide was given, it could have been explained 
+clearer to Mr A. The poor customer service would have been distressing for Mr A and he 
+was inconvenienced by frequently ringing Nationwide to try and find out what was happening 
+with the payment. So its only fair that Nationwide compensates Mr A for the poor customer 
+service.
+Nationwide offered £200 for the poor customer service. Im satisfied that this is fair as it is in 
+line with our awards for compensation when something goes wrong. So Nationwide should 
+pay Mr A the £200 compensation they offered him, but I dont require them to do anything 
+further.
+My final decision
+Nationwide Building Society has already made an offer to pay £200 to settle the complaint 
+and I think this offer is fair in all the circumstances.
+So my decision is that Nationwide Building Society should pay Mr A £200. But I wont be 
+requiring them to do anything further. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr A to accept or 
+reject my decision before 26 September 2023.
+ 
+Gregory Sloanes
+Ombudsman

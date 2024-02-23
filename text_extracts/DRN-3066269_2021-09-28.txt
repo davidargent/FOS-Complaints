@@ -1,0 +1,334 @@
+DRN-3066269
+The complaint and background
+Mr and Mrs M complain that Santander UK PLC didnt do enough to protect them from falling
+victim to an investment scam.
+Mr and Mrs M are represented in this complaint by their daughter, Mrs H. But for ease of
+reading, Ill mostly refer to relevant acts and comments as being Mr and Mrs Ms.
+Santander declined Mr and Mrs Ms claim for a refund of their stolen money. Whilst
+sympathetic to the situation, the bank said, as the payment was made by cheque and was
+therefore authorised, it is not responsible for the loss.
+On 2 September 2021, I issued a provisional decision not upholding this complaint. For 
+completeness, I repeat my provisional findings below:
+1. Mr and Mrs M made a £10,000 cheque payment in September 2017, to a limited 
+company, which Ill refer to as W. They seek recovery of the cheque payment, which 
+they say was made as a result of an investment scam.
+2. Not every complaint referred to us and categorised as an investment scam is in fact a 
+scam. Some cases simply involve high-risk investments that resulted in disappointing 
+returns or losses. Banks and other Payment Services Providers (PSPs) have duties to 
+protect customers against the risk of financial loss due to fraud and/or to undertake due 
+diligence on large transactions to guard against money laundering (see below). But when 
+simply executing authorised payments, they do not have to protect customers against 
+the risk of bad bargains or give investment advice  and the Financial Conduct Authority 
+(FCA) has confirmed that a fraud warning would not constitute unauthorised investment 
+advice (see its predecessors 2012 consultation paper on investment fraud). So, the first 
+question to resolve is whether this particular investment opportunity was a fraud or scam.
+3. Here, as there does not appear to be any dispute that Mr and Mrs M have been the 
+innocent victims of an investment scam, I only need to consider:
+whether the bank could and should have intervened in the context of suspiciously 
+unusual or uncharacteristic payments that are made by cheques (rather than 
+electronically or via a plastic card, as is more usual nowadays);
+whether any intervention would have made a difference, preventing some or all of 
+Mr and Mrs Ms losses (causation); and if so
+whether Mr and Mrs M should bear any responsibility for the loss such that it would 
+be fair to reduce compensation proportionately (contributory negligence).
+Unusual or uncharacteristic activity
+4. A cheque is a written order from an account-holder, instructing their bank to pay a 
+specified sum of money to a named recipient. Cheques are not legal tender but are legal 
+documents and their use is governed by the Bills of Exchange Act 1882 and the 
+Cheques Acts of 1957 and 1992. They are not considered a payment service under the 
+previous or present Payment Service Regulations (PSRs), so the provisions of those 
+regulations do not apply to this type of payment instrument (or promissory note).
+5. A banks principal duty is to obey its customers payment mandate under the terms and 
+conditions of the account contract (and of course the customers ancillary contract with 
+the third-party payee, e.g. a retailer, creditor, supplier, etc). This position has long been 
+recognised at common law. So, if it fails to comply with a validly-executed payment 
+order, the bank could be held liable in damages  as could the drawer (i.e. payer) where 
+the payment method used is a cheque. The starting position is that the bank is expected 
+to process payments and withdrawals that a customer instructs it to make without undue 
+delay. So, presented with a cheque drawn in accordance with the terms of the contract, a 
+bank must honour the payment unless there are legal, regulatory or contractual grounds 
+which may, in exceptional circumstances, allow refusal of a payment instruction.
+6. Here it is accepted that the payment mandate was validly executed (authorised) as 
+Mrs M herself had written, signed and issued the cheques to the named payee, W. At the 
+time, Mrs M intended to pay W and there was no mistake made in the execution of the 
+payment  Santander was complying with Mrs Ms instruction. So, under the terms and 
+conditions of the account, Mr and Mrs M are presumed liable for any loss in the first 
+instance.
+7. Unlike electronic payments (including plastic-card transactions), a cheque cannot be 
+screened at point of payment (which is the writing and issuing of the cheque). A drawers 
+bank (in this case Santander) would only become aware of the request for payment once 
+the cheque was paid in by the payee and sent to it for settlement by the receiving bank 
+via clearing.
+8. The cheque issued by Mrs M to W was cleared through what is known as the 2-4-6 
+clearing cycle. This meant Santanders role on receipt of the cheque was firstly to 
+examine the physical cheque for authenticity. This is an automated process, utilising 
+fraud detection software designed to flag if there is something errant about the cheque. It 
+is common ground that there were no issues with the physical cheque as it was a 
+legitimate one written and signed by Mrs M herself. So, naturally, the system didnt flag 
+the cheque for further manual scrutiny.
+9. The next stage of clearing (again automated) would be for Santander to ensure sufficient 
+funds were available and no stops had been placed on the cheque. I am satisfied that, at 
+the time, there were no such concerns. After completion of all these checks, the account 
+is debited and confirmation of the status of the cheque is sent to the clearing house. 
+Whilst under the 2-4-6 cycle the cheque doesnt clear (and can still be returned unpaid) 
+until close of business on day six, the drawers bank needs to decide by day three if it is 
+returning a cheque unpaid. This is because the cheque amount is made available for 
+withdrawal on the payees account by day four. And after day three, any recovery of 
+funds would only be on a best-endeavours basis, as the payee bank has the right to 
+decline an unpaid request.10. Santander could only return a cheque unpaid at this point  i.e. before day four  if it had 
+permissible reasons to do so, such as:
+cheque fraud, i.e. counterfeits, fraudulently altered or forged cheques;
+insufficient funds in the account being drawn on;
+a stop placed on the cheque for being lost or stolen;
+a post-dated cheque;
+a cheque dated more than six months earlier;
+differing amounts and words;
+missing or specimen signature mismatch;
+cheque alteration not correctly validated; or
+if it was sure the cheque was obtained fraudulently or was an attempt to 
+misappropriate funds.
+11. Santander has argued that, when trying to disrupt and detect fraud, systems and controls 
+need to be proportionate to risk and take into account the wider impact on genuine 
+customers transacting. It says the cheque-clearing process is all completed electronically 
+with no direct bank or customer interaction and there was no window of opportunity for it 
+to have intervened. And even if it could have, it doesnt agree that it ought to have 
+intervened in these circumstances as the cheques were written in Mrs Ms own 
+handwriting, the signature was a match, and funds were available in the account. It says 
+it had no reason to question the cheques or Mrs Ms intentions to pay
+.
+12. Taking into account the law, regulatory rules and guidance, relevant codes of practice 
+and what I consider to have been good industry practice at the time, I think Santander 
+should fairly and reasonably:
+have been monitoring accountsand any payments made or receivedto counter 
+various risks, including anti-money-laundering, countering the financing of terrorism, 
+and preventing fraud and scams;
+have taken proactive steps to: - identify and assist vulnerable consumers and 
+consumers in vulnerable circumstances, including those at risk of financial 
+exploitation (something recognised by the FCA in recent years by the British Bankers 
+Associations February 2016 report improving outcomes for customers in vulnerable 
+circumstances);
+have had systems in place to look out for unusual transactions or other signs that 
+might indicate its customers were at risk of fraud (amongst other things). This is 
+particularly so given the increase in sophisticated fraud and scams, which banks are 
+generally more familiar with than the average customer; and
+in some circumstances, irrespective of the payment channel used, have taken 
+additional steps, or made additional checks, before processing a payment; or in 
+some cases declined to make a payment altogether, to help protect customers from 
+the possibility of financial harm from fraud.
+13. I dont consider there to be a material difference between the reasonable, good-practice 
+requirements on firms when processing either cheques or electronic payments when it 
+comes to monitoring accounts for the prevention of financial crime and having adequate 
+systems and controls in place to prevent misappropriation of funds. I have seen nothing 
+to persuade me that a bank should be less vigilant, or fail to carry out due diligence, just 
+because the payment is by cheque. Indeed, it seems to me there is a reasonable window 
+of opportunity to interrupt and investigate a potentially fraudulent cheque payment  that 
+is, between receipt of the request for settlement from the payees bank (through the 
+clearing house) and day three when the drawers bank provides an update on the status 
+of the cheque.14. I accept there may be practical limits as to what a bank could reasonably do during this 
+limited window of opportunity. However, that is more a question of causation (see 
+below), which may limit or extinguish the banks liability even if we were to conclude that 
+it could and should have acted on clear triggers of unusual or uncharacteristic activity.
+15. What can be considered unusual or uncharacteristic clearly requires reference to 
+common activity on an account. Ive looked back at the account statements as far as 
+October 2016 to assess this. And whilst I accept Mr and Mrs M made payments by 
+cheque on a regular basis, the cheque payment to W for £10,000 was significantly larger 
+than the accounts typical activity. The statements show the vast majority of all other 
+payments from the account, with the exception of a cheque payment in July 2017 for 
+£2,500, were for modest amounts under £1,000. The cheque payment instruction for 
+£10,000 was both for a large amount in the context of Mr and Mrs Ms usual account 
+activity, and it represented a substantial increase in spending.
+16. I also note that, at the time of the scam, Mr and Mrs M were in their eighties. It has long 
+been accepted by the industry that that this age profile is one that is disproportionately 
+targeted by scammers. Aside from being particularly susceptible as targets for 
+investment fraud and other forms of financial crime, this age group at the present time 
+more commonly uses cheques. So, I think in the particulars of this case, Mr and Mrs Ms 
+age is a relevant factor that the bank should have been mindful of, as it materially 
+increases the risk of loss due to fraud or scams.
+17. Overall, based on Mr and Mrs Ms vulnerability due to their age; the cheque sum 
+involved; and the spending being unusual and uncharacteristic compared with their usual 
+account activity. I think there was enough here to alert a bank that was acting fairly and 
+reasonably and looking out for its customers best interests. Santander ought reasonably 
+to have had cause for concern and I think it could and should have intervened, e.g. by 
+carrying out a few more manual checks or phoning Mr and Mrs M to double-check that 
+everything was okay. So, in principle, I am satisfied that Santander missed an 
+opportunity to protect Mr and Mrs M from harm. However, I dont think it is liable to pay 
+them compensation because the banks acts or omissions were not the proximate cause 
+of their losses  for the reasons below.
+Causation
+18. I understand why Mrs H feels that if Santander had intervened and provided scam 
+warnings, it wouldve resulted in the prevention of Mr and Mrs Ms loss. But Im not 
+persuaded this would have been the case. If, as I have concluded, Santander should 
+have probed further about the payment or given a warning about the risks of scams 
+associated with such investments, it would still have been for Mr and Mrs M  not 
+Santander  then to satisfy themselves of the legitimacy of the investment. And based on 
+the evidence available to me, I am persuaded, on balance, that they would still have 
+gone ahead with the payment even if the bank had intervened. I say this because:
+W was a limited company registered at Companies House, and there was limited 
+information available at the time which would have raised concerns about its 
+legitimacy.
+There were no FCA warnings registered about any of the firms Mr and Mrs M thought 
+they were dealing with at the time.
+The representative for W was contactable, so had Mr or Mrs M gone back to them to 
+raise questions, its likely they would have been given a persuasive and satisfactory 
+response.The contact from W was not a cold call  Mr and Mrs M were aware their son had 
+given their contact number to investment firms.
+Mrs M had already been convinced the investment was legitimate and safe. She had 
+been in regular contact with the scammer for several weeks, had numerous calls, 
+received brochures, seen the firm had an online presence and had been invited 
+without any hesitation to visit their offices. And more significantly despite being told 
+not to invest by family members and being warned that no-one was capable of 
+procuring the rate of return being offered, Mrs M still went ahead and issued the 
+cheque. To my mind, this is clear evidence that she was fully taken in by the scam 
+and unwilling to alter her conduct on the advice of her family. If Mrs M didnt listen to 
+her family, there is no reason to suppose that she wouldve paid more attention to her 
+bank.
+19. I also think its important for me to highlight that once a cheque has been written, issued 
+and presented for payment, it cannot be stopped by the drawer simply because they 
+have regrets or second thoughts. So even if I were to accept (which to be clear I dont) 
+that an intervention by Santander wouldve resulted in Mr and Mrs M taking a different 
+course of action, for the reasons given above, I dont think this would have resulted in a 
+different outcome as I am not persuaded that Mr and Mrs M would have been able to 
+provide Santander with a permissible reason to return the cheque unpaid in the small 
+window of opportunity it had before the cheque was settled through the clearing process. 
+And as Ive explained above, any recovery after this point wouldve been on a best 
+endeavours basis  and the decision to return any funds (if any remained) would sit with 
+the beneficiary bank.
+20. I do accept Mr and Mrs M have fallen victim to what can only be described as a cruel and 
+callous scam. Im sorry to hear that the sum lost was a substantial amount of their 
+pension savings and I can understand why they would like to be compensated for their 
+loss. However, despite my natural sympathy for the situation they find themselves in, 
+ultimately, Im not satisfied that an intervention or warning by the bank would have made 
+any difference or prevented their loss. It therefore follows that I am unable to conclude 
+that Santanders refusal to reimburse Mr and Mrs M was unfair or unreasonable despite 
+its initial failings.
+21. In light of the above, I do not need to go on to consider whether compensation should be
+reduced for contributory negligence  as I am not intending to award any compensation.
+my provisional decision
+I realise that my intended decision will be disappointing for Mr and Mrs M, particularly given
+that our investigator upheld the complaint in full. But for the reasons set out above, I am not
+minded to uphold this complaint or make any award against Santander UK Plc.
+Responses to my provisional decision
+Santander have not responded to my provisional findings. 
+Mrs H responded on behalf of Mr and Mrs M. Understandably disappointed, she did not 
+accept my provisional decision. In summary, she says, amongst other things, that:
+Consideration has not been given to Mr and Mrs Ms vulnerability due to their age, 
+and to simply say a bank couldnt prevent the loss as cheques are processed through 
+an automated system is a weak argument and not sufficient grounds to not uphold 
+this complaint.
+ The automated systems used by the banks are unsecure and negligent. The cheque 
+was handwritten very badly, and the system failed to flag up the irregular way in 
+which Mrs M had written ten thousand in numbers. This should have been picked up 
+and acted on, and at the very least contact shouldve been made with Mr and Mrs M.
+Mr and Mrs M were told when they initially approached the bank with their complaint, 
+had the cheque been typed, they would have received a refund straight away. They 
+are disappointed that Santander seems to be able to disburden itself of its 
+responsibilities due to what seems to be a technicality about a handwritten cheque. 
+Mr and Mrs M think Santander shouldve exercised greater due diligence in checking 
+the handwritten cheque. 
+Mr and Mrs M would not have gone ahead with the payment had Santander called 
+and given appropriate scam warnings. Santander have acted negligently, by not 
+checking the legitimacy of the payee and by failing to identify the possibility that 
+Mr and Mrs M were being scammed. 
+Mrs M only had one brief conversation with her family members about the 
+investment. This was in the earlier stages before shed received any literature. Mrs H 
+maintains that an intervention or warning by the bank would have made a difference. 
+Had Santander contacted Mrs M and asked the right questions, she wouldve 
+listened and changed her mind. The cheque would never have been processed and 
+the loss would have been prevented. 
+Mrs H disputes the finding that Mr and Mrs M were not victims of a cold call. There 
+is lack of evidence to support this and therefore it should not be a contributing factor 
+in the determination for not upholding the complaint. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+I understand how difficult and upsetting this situation has been not only for Mr and Mrs M but 
+also their family. I do empathise with the circumstances they find themselves in and am 
+mindful of the loss they have suffered as a result of a callous and cruel scam. But I can only 
+ask Santander to refund Mr and Mrs Ms loss if I can fairly and reasonably conclude that its 
+acts or omissions were the proximate cause of that loss. 
+In my provisional decision Ive already taken account of Mr and Mrs Ms vulnerability due to 
+their age  see paragraph 17 (above). 
+I also realise how strongly Mrs H feels about the unreliability of the automated cheque 
+processing systems used by the banking industry. I know she has made detailed 
+submissions in relation to the quality and value of Mrs Ms handwritten cheque. I understand 
+that she would like this case to be upheld to set a precedent; help other victims (who have 
+used handwritten cheques) in their claims against their banks; and contribute towards 
+bringing about a possible change to protect victims of authorised cheque fraud. But, here, 
+there is no indication that Mrs M did not actually write/authorise the cheque  so this is not 
+material to the outcome of this case; and we can only arbitrate on individual cases, not wider 
+issues. In any event, Ive already concluded that Santander ought to have intervened based 
+on: Mr and Mrs Ms vulnerability due to their age; the cheque sum involved; and the 
+spending being unusual and uncharacteristic compared with their usual account activity.And whilst Santander could and should have intervened, it also simply isnt enough or fair to 
+say that its failure to take these steps should mean a reimbursement of the loss. The 
+question which follows is one of causation  which is whether it can be said that the failure 
+was the proximate cause of loss. 
+One of the points Mrs H makes is, had Santander made Mr and Mrs M aware that it was 
+irregular to write and make a cheque payable to a different limited company to the one cited 
+on the investment literature, Mrs M wouldnt have written the cheque. I appreciate the 
+argument Mrs H is trying to make but, as Ive previously explained, unlike electronic 
+payments a cheque cannot be screened at point of payment (which is the writing and issuing 
+of the cheque). Ive not seen nor have I been provided with any evidence that there was 
+interaction (in relation to this payment) between Santander and Mrs M before she wrote and 
+issued the cheque. So it would not be reasonable to expect Santander to have known Mrs M 
+was intending to write the cheque, and to say it shouldve provided warning to prevent the 
+issuance of the cheque.
+Santander first became aware of the request for payment after the cheque was paid in by 
+the payee and sent to it for settlement by the payees bank. And at the point of settling the 
+payment Santander would need a permissible reason to return the cheque unpaid  which 
+on the face of it I dont think it reasonably had as the payment mandate was validly executed 
+(authorised) as Mrs M herself had written, signed and issued the cheque to the named 
+payee, W  a limited company registered at Companies House. There was limited 
+information available at the time which would have raised concerns. 
+I appreciate Mrs H maintains her belief that Santanders intervention wouldve resulted in a 
+different outcome. But it still doesnt change the fact that the scammer had gained Mrs Ms 
+trust to such an extent that I dont think she wouldve done anything different, even in the 
+face of further questions from Santander about the nature of the cheque payment. Ive seen 
+nothing that has changed my findings in this regard, so I see no reason to depart from the 
+conclusions set out in my provisional decision.
+ 
+I know how much this means to Mr and Mrs M so, for completeness, even if I were to accept 
+(which to be clear I dont) that questions asked, and warnings provided by Santander, 
+wouldve created enough doubt in Mrs Ms mind about the legitimacy of the investment, I still 
+do not think she wouldve taken a different course of action. This is because once a cheque 
+has been written, issued and presented for payment, it cannot be stopped by the drawer 
+simply because they have regrets or second thoughts. Cheques are a bill of exchange, a 
+promise to pay. If a bank returns a cheque unpaid after presentment, a legal cause of action 
+can arise  both against the bank and the drawer of the cheque. So at this stage in the 
+payment journey, Mrs M wouldve needed to prove to Santander, with supporting evidence, 
+that the cheque had been obtained fraudulently. On balance, Im not persuaded it wouldve 
+been possible to do this in the small window of opportunity that Santander had to return the 
+cheque unpaid. The payee was a registered limited company; there were no FCA warnings 
+against any of the firms Mr and Mrs M believed they were dealing with; and the 
+representative was contactable. And any attempted recovery after this point wouldve been 
+on a best endeavours basis only  and the decision to return any funds (if any remained) 
+would sit with the payees bank. So, for these reasons, giving Mrs M the benefit of the doubt 
+with regard to changing her mind, I still dont think this would have resulted in a different 
+overall outcome.  I note Mrs Hs strong disagreement with my finding that Mr and Mrs M were not victims of a 
+cold call. Ive thought about what she has said, and I accept there is nothing unambiguously 
+linking the person they spoke to with the investment firm their son registered interest with. 
+However, it is important to remember that we decide cases on the balance of probabilities 
+(like a civil court), not beyond reasonable doubt (like a criminal court). From their earlier 
+submissions to our service, I understand their contact with the scammer to have been 
+initiated through a call intended for their son. And given their awareness that their contact 
+details had been provided to an investment firm by their son, it seems more likely than not  
+on balance  that the call was expected. But in any event, even if I were to accept it was a 
+cold call, this wouldnt make an overall change to the outcome of the complaint. It would still 
+have been for Mr and Mrs M  not Santander  to satisfy themselves of the legitimacy of the 
+investment. And based on the other reasons Ive referred to in paragraph 18 of my 
+provisional decision (see above), Im still not persuaded that any further enquiries or 
+intervention on Santanders part wouldve made any difference or have ultimately prevented 
+their loss. 
+I realise my final decision will be a significant disappointment to Mr and Mrs M, especially 
+after waiting patiently for my decision. I sympathise with their circumstances and am sorry 
+theyve fallen victim to a scam. But having considered all the evidence and argument afresh 
+in light of Mrs Hs response, it remains my conclusion that Santander cannot fairly be held 
+liable for their loss in these circumstances. 
+My final decision
+For the reasons set out above and before in my provisional decision, I am not persuaded 
+that Santander UK PLC acted unfairly or unreasonably with regard to the authorised cheque 
+payment, so I am unable to uphold this complaint or make any award against the bank.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mrs M and Mr M to 
+accept or reject my decision before 26 October 2021.
+ 
+Sonal Matharu
+Ombudsman

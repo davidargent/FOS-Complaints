@@ -1,0 +1,81 @@
+DRN-3797187
+The complaint
+D, a limited company, complains that Bank of Baroda (UK) Limited sent a payment to the 
+wrong account and wouldnt refund this.
+What happened
+A director of D explains that he set up a payment for an employee. He insists he input the 
+correct sort code but says that Bank of Baroda didnt use this. And so, he found out that the 
+payment of over £2,500 had gone to the wrong account details. This was reported to Bank of 
+Baroda, but it didnt return the payment.
+Bank of Baroda said it hadnt made a mistake. The sort code and account number for the 
+payment were input by D. And D was responsible for ensuring they were correct. The sort 
+code which D said it had used wasnt available in its system. There was no manual 
+intervention by Bank of Baroda after the payment had been initiated. And this was a faster 
+payment which was non-refundable. It attempted to recall it through its correspondent bank 
+and contact was made with the bank of the actual beneficiary. Unfortunately, this recall 
+request was rejected and there was nothing more it could do.
+Our investigator didnt recommend that the complaint be upheld. She said that the details for 
+the payee involved would have been initially registered by D. And then these would be used 
+for any subsequent payment. Shed seen evidence that the sort code for the payee wasnt 
+available on the system and that a message no record fetched would have been given. The 
+payee had been set up with a different sort code and this was used for the payment. She 
+didnt think that Bank of Baroda had made a mistake. She said that when D told it what had 
+happened it had taken reasonable steps to try and recall the money. But a faster payment 
+was generally made immediately and couldnt be cancelled. She said that under the terms 
+and conditions for the account D was responsible for checking the beneficiary details and 
+that Bank of Baroda wasnt liable if a payment went to the wrong account.
+D didnt agree and wanted its complaint to be reviewed. The director that originated this 
+payment said that this was a loss to the company. And that its side of the story hadnt been 
+considered justly. It maintained that the correct information had been input and that the 
+incorrect sort code had been pre-populated by Bank of Baroda. After this had been set up 
+all D could see when the payment was originated was the name, account number and 
+branch. And as the correct beneficiary has his home address local to that branch the director 
+said he could only presume this was correct. He said had he been able to see that this sort 
+code didnt match then hed have been able to check the payment. And he insisted that he 
+didnt have the sort code that was used with him at the time he set up the payment. D was 
+being blamed for something that it couldnt do anything about.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Ive looked closely at the screenshots provided about the way beneficiaries are established 
+and asked Bank of Baroda through our investigator to clarify some points about its payment 
+system. I was unclear for example why it wouldnt have a comprehensive list of current sort 
+codes, but it told me that this was maintained manually and only updated when a customer 
+raised an issue. 
+The screenshot our investigator has referred to clearly shows me that if the sort code D 
+insists it used was input then an error message would come back. Bank of Baroda has told 
+me that there are no drop-down boxes on that field for example with existing sort codes used 
+by D for other payments. I asked it to explain a screen comment which states that if you do 
+not know the sort/BIC code of the beneficiary bank then click here. It explained that this 
+would request the bank name to be input and would then give all available branches with the 
+sort code and name. And that the corresponding branch would need to be selected.
+Ive no clear basis to find on the evidence that Bank of Baroda would and could have pre-
+populated the incorrect sort code here. Im satisfied that the ways the sort code could have 
+been used are if D directly input this or as I set out above selected the branch (and so with 
+sort code) from a drop-down list of all possibilities on the system. Im also satisfied that when 
+the beneficiary is established D has the reasonable opportunity to confirm the details are 
+correct. And under the terms and conditions of the account is responsible for this. Bank of 
+Baroda has said that it sends a tracker ID by text message which needs to be input to 
+confirm the details. I appreciate that D has provided its own system screen shot of all its 
+established beneficiaries that doesnt then show the sort code but gives the branch name 
+and account number. But as I say each beneficiary would have been established by D and 
+Bank of Baroda also states that D is required again to confirm the details before making a 
+specific payment.
+It's clear from copies of bank statements and the debit card details of the true beneficiary 
+that a mistake has been made and the payment misdirected. Im not persuaded that this was 
+due to any error by Bank of Baroda.
+Id expect it to take reasonable steps to try and recall such a payment in line with industry 
+guidance. But theres no refund option on a faster payment and this ultimately relies on the 
+response of the person that actually received the money, whether any of the money remains 
+and the related actions of that beneficiarys bank. Unfortunately, despite the evidence Ive 
+seen of the efforts made by Bank of Baroda, its not been able to recover any of this money 
+for D. 
+I can appreciate that D still needed to make the correct payment and so was subject to a 
+loss. But I dont have a reasonable basis to require Bank of Baroda to take any further 
+action.
+My final decision
+My decision is that I do not uphold this complaint.Under the rules of the Financial Ombudsman Service, Im required to ask D to accept or 
+reject my decision before 27 January 2023.
+ 
+Michael Crewe
+Ombudsman

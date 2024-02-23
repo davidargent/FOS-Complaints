@@ -1,0 +1,89 @@
+DRN-3615593
+The complaint
+Mr M complains, through his representative, that Phoenix Life Assurance Limited gave him
+unsuitable advice to transfer out of his occupational pension scheme in 1992.
+What happened
+I issued a second provisional decision on this complaint on 7 July 2022. I set out the reasons 
+why I wasnt provisionally minded to uphold the complaint in that decision. Ive reproduced 
+the relevant parts of that provisional decision here and it forms part of this final decision. 
+I issued a provisional decision on Mr Ms complaint on 10 March 2022. The background and
+circumstances to the complaint and the reasons why I wasnt minded to uphold it were set
+out in that decision. I wont repeat it all here as the facts arent largely in dispute. But in brief,
+Mr M was advised to opt-out of his employers occupational pension scheme (OPS) and
+transfer the benefits hed accrued in it to a personal pension arrangement in 1992. The
+advice that hed been given was subsequently investigated as part of the regulators industry
+wide pension review.
+Phoenix Life sent Mr M a letter dated 5 August 2002 saying that it had completed
+a review of his pension policy. It said Mr M had lost out as a result of having his personal
+pension, and it offered Mr M compensation. Mr M accepted the offer on 8 August 2002 and
+his pension was augmented with £7,173 that same month.
+Mr M, through his representative, complained that the pension review hadnt been
+completed in accordance with the regulatory standards required at the time. In my
+provisional decision I said Id seen no persuasive evidence that the pension review hadnt
+been carried out correctly.
+Mr Ms representative didnt agree with my provisional findings. In particular it was
+concerned that the firm had said given the term to Mr Ms retirement date the assumed
+annual management charge was 0%. It said although the charges were implicit" (ie.
+hidden) that didnt mean they were zero. It said it was and is common knowledge that the
+real costs of With Profits funds were towards the higher end of the scale.
+The representative said while there could be some debate about what allowance should be
+made for the charge on a With Profits fund, there could be no question that some allowance
+should be made, rather than no allowance at all. There were no With Profits funds with zero
+charges.
+It said, therefore, that it thought my decision was unfair and unreasonable.
+What Ive provisionally decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and
+reasonable in the circumstances of this complaint.
+The section of the RECAL calculation that usually shows the future charges was left blank.
+There could be a number of explanations for this, as RECAL was used to effectively model
+the capitalised value of the OPS scheme benefits against the capitalised value of the
+personal pension benefits, with any adjustments made to those values where appropriate.
+Adjustments could be modelled in a number of ways.
+We asked Phoenix to explain the apparent assumption of zero future charges (given the
+blank screens in RECAL). It said that it no longer employed any of the Actuaries that had
+worked on the pension review. So it referred the query to the firm of independent actuaries
+who had carried out calculations on its behalf.
+The firm of actuaries provided a copy of its review process for dealing with this firms
+calculations. This included:
+6 RECAL
+Bespoke version of RECAL
+BASL have a bespoke version of RECAL for expenses. Leave M19 expenses blank (except
+for MAPP SRA, which should be entered as per standard procedures)  input codes on M21.
+See Appx 3 for error codes.
+The firm of actuaries said the facility to allow for future policy expense charges was always
+present within the redress calculation software. And the client specific procedures they used
+for this particular firm itemised the "codes" to be used for different policy types in order to
+load the appropriate expense charges into the RECAL software for the case. The firm of
+actuaries said they were confident the redress calculation was correct.
+Looking at the RECAL printout, M19  charges, was left blank. Whilst I couldnt see an M21,
+the Bespoke Charge Facility for use by Pearl Assurance was marked as Y. And further
+down the Expense Category was marked as 3 for the Regular Contributions Account
+and 6 and 7 for the Transfer account ordinary rights and protected rights respectively. So
+whoever completed the calculation clearly thought about the expenses and input the
+different relevant codes.
+So although the usual section for these charges in RECAL was left blank, Im satisfied, from
+the evidence thats been provided by the firm of actuaries, that they were provided for in a
+different section on this particular calculation.
+Taking all the above into account, Ive seen no persuasive evidence that the pension review
+wasnt carried out correctly. The pension review was a one-off exercise and Mr M agreed a
+final settlement in respect of the advice hed received almost twenty years ago. There are
+only limited circumstances where I would look beyond that agreement. In my view Phoenix
+Life carried out the pension review and offered appropriate compensation to Mr M as it was
+required to do at the time by the regulator. Im not persuaded that there are grounds to
+require Phoenix Life to revisit the matter now.
+Accordingly my provisional decision was that I didnt uphold the complaint. 
+I asked both parties to send me any further evidence or arguments that they wanted me to 
+take into account.
+Phoenix Life said it had nothing further to add.
+Mr Ms representative didnt provide any further evidence or arguments.What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, Ive seen no reason to depart from the finding set out in my provisional 
+decision above not to uphold the complaint. 
+My final decision
+My final decision is that I dont uphold Mr Ms complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr M to accept or 
+reject my decision before 23 August 2022.
+ 
+David Ashley
+Ombudsman

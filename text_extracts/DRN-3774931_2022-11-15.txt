@@ -1,0 +1,116 @@
+DRN-3774931
+The complaint
+Mr H complained because Santander UK plc refused to refund him for transactions he said 
+he didnt make.
+What happened
+On 13 May 2021, two transactions to the same merchant debited Mr Hs Santander account. 
+One was for £1,640 at 10:38 am and the other for £1,910 at 10:53 am.
+On 16 May, Mr H rang Santander. He said he hadnt made those two transactions. He said 
+hed lost his phone and had reported that to the police. Santander refused to refund him, and 
+Mr H complained. 
+In the complaint call, Mr H told Santander that hed been drugged, though he said he hadnt 
+told the police that, only that his phone had been stolen. Santander told him that reporting 
+his registered phone as stolen didnt show how it had been compromised  because the 
+phone used biometric face recognition to unlock it. Santander confirmed this in its final 
+response, pointing out that the payments had been made from Mr Hs registered device 
+which had previously been used for genuine banking activity.
+Mr H didnt agree and contacted this service.
+He told our investigator that hed been out with work colleagues whod been with him until 
+2am on 13 May. When his colleagues left, Mr H talked to two other men and had a couple of 
+drinks with them. He said he thought that was when hed been drugged because he had no 
+memory of what happened for about 10 hours after that. When he recovered he found his 
+phone and watch had been stolen, and he asked people around him to help, and someone 
+ordered him a taxi home. 
+Mr H said that to access his phone, he had face identification and a passcode, which he 
+hadnt shared with anyone, but he didnt know what happened when hed been drugged. To 
+show hed bought a replacement phone, Mr H sent copies of invoices for a phone ordered on 
+16 May, which he said hed then returned, and for a phone ordered on 9 June. Mr H said he 
+hadnt made purchases like this in the past, and he thought Santander should have had had 
+systems in place to stop or verify the transactions. Mr H also said that his other bank 
+account, with the card in the same wallet, hadnt been compromised, but a transaction had 
+been attempted then stopped on his cryptocurrency account. He said hed needed mental 
+health help as a result.
+Our investigator didnt uphold Mr Hs complaint. She pointed out that biometric data had 
+been used for the transactions. She also said there was a long time between when Mr H 
+said hed been drugged at 2:00am and when the transactions had happened at 10:38 and 
+10:53. It wasnt likely a fraudster would wait so long before trying to use Mr Hs phone. Mr H 
+had also said hed had another card registered on his phone, as well as his Santander one, 
+but no-one had tried to take money on that. There had also been £4,800 left in Mr Hs 
+account after the disputed payments, which the investigator said wasnt what a fraudster 
+would do.
+Mr H wasnt satisfied. He sent a long email, including the following points:
+- The investigator hadnt commented on the fact that Mr H had said someone had also 
+tried to access an account he had with a cryptocurrency platform;
+- He didnt know why the fraudsters hadnt taken money from his non-Santander 
+account for which there had also been a card in his wallet at the time. Nor did he 
+know why the fraudsters hadnt emptied his Santander account which had still had 
+£4,800 in it;
+- He didnt agree that the investigator had said it was odd that the transactions had 
+been some hours after Mr H had been drugged. Mr H said that once he was drugged, 
+the attackers might have been trying to get information from him, such as his phone 
+password, which might have taken them hours;
+- The transactions had been done through Mr Hs phones mobile payment service, 
+and that could have been done by entering Mr Hs phone password. Mr H said 
+Santander had never provided him with evidence to show that biometrics had been 
+used;
+- The cost of the mental health sessions and a new phone were probably more than 
+the amount which had been stolen from him, and why would he go through all that if 
+he wasnt telling the truth? 
+Mr H said that it was clear he was a victim of the attack and he wanted the funds stolen from 
+him to be returned. He asked for an ombudsmans decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+There are regulations which govern disputed transactions. The relevant regulations for 
+disputed transactions taking place in May 2021 are the Payment Services Regulations 2017. 
+These say that the payment service provider (here, Santander) must show the transaction 
+was authenticated. Thats the technical part, and here, Ive seen the computer evidence that 
+Mr Hs genuine card with the genuine chip, was used. So the disputed payments were 
+authenticated.
+The regulations also say that its necessary to look at whether the card holder authorised the 
+payments. In general terms, the bank is liable if the customer didnt authorise the payments, 
+and the customer is liable if they did authorise them. The regulations also say that account 
+holders can still be liable for unauthorised payments under certain circumstances  for 
+example if theyve failed to keep their details secure to such an extent that it can be termed 
+gross negligence.
+The payments were made using Mr Hs registered device, which was accessed using Mr Hs 
+face ID biometrics. Mr H said that his phone was stolen, but that doesnt explain how any 
+thief could have used Mr Hs face ID to unlock the phone. Nor does it explain how any thief 
+could have known Mr Hs passcode to carry out the actual transactions. 
+I recognise that Mr H said he was drugged, and he said that the people drugging him may 
+have been asking him what his passcode was. Our investigator had commented that it was a 
+long time between when Mr H said hed been drugged at 2:00am, and when the transactions 
+had happened at 10:38 am and 10:53 am. She said it wasnt likely a fraudster would wait so 
+long before trying to use Mr Hs phone. Mr H replied to this by saying that it could have 
+taken them hours to obtain the information from him, and queried the investigators 
+knowledge of the drug he said had been used on him.But if Mr H had been drugged so severely that he was unaware of anything that was going 
+on, I think its unlikely his face ID would have successfully passed the biometric matching 
+test. I also think that if Mr H had been drugged to such an extent that he wasnt aware of 
+what was happening, its also unlikely that hed have been able to remember his passcode 
+and reply accurately to fraudsters questions about what it was. Its most unlikely that 
+fraudsters could have guessed the code, because there are 10,000 possible combinations of 
+a four digit number. 
+Ive also considered other parts of the situation Mr H described. If fraudsters were so 
+determined to access his phone and Santander card that they were prepared to wait hours 
+after drugging him, in order to try and obtain his passcode from him, there are other issues. 
+Mr H said he had a card for his account with another provider  but he said nothing was 
+taken from that account. And there had also been £4,800 left in Mr Hs account after the 
+disputed payments, which again wasnt what a fraudster would do.
+Taking all these factors into account, I think its more likely than not that Mr H authorised the 
+transactions himself.
+Finally, Mr H was unhappy because the investigator hadnt commented on the fact that Mr H 
+had said someone had also tried to access an account he had with a cryptocurrency 
+platform. But whatever happened to an account which Mr H had with a cryptocurrency 
+platform, on a different occasion, isnt relevant to whether or not Mr H authorised the 
+Santander transactions himself. The other card in his wallet that night wasnt related to a 
+cryptocurrency platform. And in any case, what matters for this decision is whether or not 
+Santander acted fairly and reasonably when it refused to refund him for the disputed 
+transactions. For the reasons above, I find that it did act fairly and reasonably when deciding 
+not to do so.
+My final decision
+My final decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr H to accept or 
+reject my decision before 13 December 2022.
+ 
+Belinda Knight
+Ombudsman

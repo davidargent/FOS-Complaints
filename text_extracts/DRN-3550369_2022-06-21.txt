@@ -1,0 +1,228 @@
+DRN-3550369
+The complaint
+C, a limited company, complains that Worldpay (UK) Limited (trading as Worldpay) has 
+refused to refund a transaction which it didnt authorise.
+The transaction was made using a merchant terminal in a salon that C owns. Ms I is the 
+salon manager and has been appointed to represent C in this complaint by its director 
+(Mr P).
+What happened
+The circumstances that led to this complaint are well known to both parties, so I wont repeat 
+them in detail here. I issued a provisional decision last month setting out why I didnt think 
+Worldpay ought to refund the disputed £3,000 transaction that took place on 1 July 2018. My 
+provisional findings were as follows:
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+When doing so, Im required to take into account relevant: law and regulations; regulators 
+rules, guidance and standards; codes of practice; and, where appropriate, what I consider to 
+have been good industry practice at the time.
+With this in mind, Worldpay  which has been an FCA-authorised payment institution since 
+April 2018  agrees that the Payment Service Regulations 2017 (PSRs) may be used as a 
+framework for deciding this complaint. I wont repeat in detail every term of the regulations 
+that might be relevant to the case. But, for the avoidance of doubt, Im satisfied  with 
+reference to the disputed £3,000 refund  that:
+Worldpay was acting as a payment service provider (or PSP).
+C was a payment service user and a payer.
+The £3,000 refund was a payment transaction carried out through Cs merchant 
+terminal, which was a payment instrument.
+And I note the PSRs provide as follows:
+A payer authorises a payment transaction when they consent to that transaction in line 
+with the procedure agreed with the PSP.
+In this case, C would have consented to the transaction if Ms I had entered the correct 
+supervisor code into the terminal in order to authenticate the transaction. I note that 
+Ms I says she didnt do this.
+ If a payer such as C (or Ms I, on Cs behalf) denies having authorised a payment 
+transaction that has taken place, their PSP must prove the payment was authenticated. 
+In this case that means Worldpay must show that the correct supervisor code was 
+entered.
+A payment service user to whom a payment instrument (a merchant terminal, in this 
+case) has been issued must:
+Use the payment instrument in accordance with the terms and conditions governing 
+its issue and use; and
+Take all reasonable steps to keep its personalised security credentials  i.e. the 
+supervisor code and/or any other PINs  safe.
+Where a payer did not authorise a payment transaction, the PSP must refund the payer. 
+But the PSP will not be required to do so  and the payer will be liable for all losses  
+where the payer has:
+Acted fraudulently; or
+With intent or gross negligence failed to comply with their duty to keep the supervisor 
+code secure.
+So, applying the PSRs, I will only be able to uphold this complaint if Im satisfied that Ms I or 
+C did not authorise the refund, Ms I or C did not act fraudulently with respect to the refund, 
+and Ms I or C have not  with intent or gross negligence  failed to comply with the duty to 
+keep the supervisor code secure.
+Ive considered whether its more likely than not C authorised the disputed refund through 
+Ms I completing the agreed steps to make the transaction herself or giving consent for 
+someone else to complete them. And, where theres a dispute about what happened, Ive 
+based my decision on the balance of probabilities. In other words, on what I consider is most 
+likely to have happened in the light of the evidence.
+For clarity, I will summarise what Ms I has told us she recalls about the events that took 
+place on the day the disputed refund was made. She says two men came into the salon and 
+were acting suspiciously. They came to the cash desk and enquired about suitable products 
+for their hair. Ms I called over a hairdresser to help with the query, and also because of the 
+way the men were acting. A hair product was selected and one of the men indicated he 
+wanted to pay by debit card. Ms I used the terminal to try to take the payment. And, as is 
+usual, she turned away for a moment to allow the man to enter his 4-digit debit card PIN. 
+The transaction was declined. Payment was attempted a second time, but the transaction 
+was declined again. The men said they would go to an ATM to get some cash and never 
+returned. Receipts had been generated for the two declined payments which Ms I threw 
+away  they dont retain declined transaction receipts as a matter of course. She says shes 
+the only person that works in the salon who knows the 4-digit supervisor code required to 
+process refunds and that this wasnt entered at any point in relation to the transactions that 
+were processed for the two men. The only other people who know the supervisor code are 
+the two company directors who are not present in, and have no involvement with, the day-to- 
+day running of, the salon
+Ive taken the above into account as well as the following:
+Worldpay has provided a copy of some terms and conditions which appear to be dated 
+October 2015. Its also shared a letter from December 2017 that say some updated 
+terms and conditions were sent to C, at the salons address. The letter also set out the 
+new, increased merchant terminal charges. And it seems likely, if this letter hadnt been 
+received, that Ms I wouldve queried the higher charges that were subsequently applied. 
+Ive seen no evidence she did so. Amongst other things, the terms and conditions 
+explain that: C was responsible for controlling the use of its terminals, access codes and 
+merchant data account. The form and procedure for making refunds was set out in the 
+Customer Operating Instructions. Refunds should only be made to buyers in connection 
+with goods and/or services which it had sold and the refund should not exceed the 
+original sale amount. And Worldpay may refuse to execute a refund.Worldpay has provided a copy of the Customer Operating Instructions dated September 
+2017, as referred to in the terms and conditions. This includes 15 pages of information 
+about Payment Security, including a section on how to reduce card fraud which also 
+sets out some important security tips such as keeping the supervisor code safe (and 
+changing it regularly) because anyone with access to it could process fraudulent 
+payments using the refund function. Also to keep the terminal in sight at all times during 
+transactions to ensure no prompts on the screen are missed and so that a fraudster 
+cannot interfere with the terminal. And, finally, to preserve evidence, such as CCTV 
+footage. This document also sets out how to use the terminal and, in the refund section, 
+refers the reader to the Terminal User Guide. It stresses the importance of completing 
+daily reconciliations. And it reminds the reader to retain receipts for at least 13 months. 
+Worldpay has provided a copy of its terminal Installation Guide which explains concisely, 
+in four steps, how to set up a new terminal. The fourth step is to choose a 4-digit 
+supervisor code and Ensure you can remember it as it will be required in order to 
+complete secure functions on your terminal e.g. refunds. I accept Worldpays 
+submission that without setting up such a code, it would not be possible to use the 
+terminal. In effect C would have had to had to activate the terminal by following the four-
+step process, rather than it coming with a standard/generic supervisor code which C 
+could decide whether or not to change. The Terminal User Guide (titled How to use your 
+terminal) also say that a 4-digit supervisor code must be entered when giving a refund 
+and, if successful, a merchant receipt will be printed automatically for the customer to 
+sign.
+Ms I says she doesnt specifically recall receiving any of the documents Ive mentioned 
+above. But thats not entirely surprising given the time thats passed  the replacement 
+terminal and revised terms and conditions were delivered more than six years ago and 
+memories fade over time. She hasnt ruled out the possibility they were provided. And 
+shes also said shed worked at the salon and used a merchant terminal to take 
+payments and make refunds for some time by 2016. She says she knew the importance 
+of having a supervisor code, so when the new terminal arrived she would have set it up, 
+including selecting a supervisor code that was personal to her and which she shared 
+only with the two company directors. With all this in mind, Im satisfied (on the balance of 
+probabilities) that the supervisor code required for refunds is one that Ms I set up and 
+chose.
+Ms I has maintained, throughout her dealings with Worldpay and this service, that she 
+was the only person in the salon who knew the supervisor code and it was a number she 
+had selected. As a result, she was the only person who worked at the salon who was 
+able to process refunds. But that arrangement surprises me from a customer service 
+perspective, as it means refunds could only processed when Ms I was present in the 
+salon. So any customer who wanted a refund on Ms Is non-working days, during 
+sickness absence or holidays would have to wait until she returned.
+Despite what it says, I dont consider that Worldpay has provided explicit evidence which 
+shows a supervisor code was entered for this particular, disputed refund. Regulation 75 
+of the PSRs says that when a payment service user denies having executed a payment 
+transaction it is for the payment service provider to prove that the payment transaction 
+was authenticated, accurately recordedand not affected by a technical breakdown or 
+some other deficiency in the service provided by the payments service provider. And 
+that the use of a payment instrument (the merchant terminal, in this case) to process the 
+payment isnt of itself necessarily sufficient to prove that C authorised the payment or 
+failed to keep the details secure. Bearing in mind this obligation and that the supervisor 
+code forms an essential part of the refund authorisation process, it seems strange that this information isnt retained as part of the payment process and related audit trail. I 
+have taken this into account  and consider it to be a serious deficiency in Worldpays 
+reporting and record keeping  but have also considered the wider circumstances when 
+deciding on the implications of this.
+Worldpay says it has tried, but failed, to force a refund through using one of its merchant 
+terminals without entering a supervisor code. Although it has provided no direct evidence 
+to support this, the terminal guides make clear that the supervisor code is an essential 
+part of the refund process. And Ive seen no other cases which indicate its possible for 
+an opportunistic fraudster to completely circumvent this part of process. Ive kept in mind, 
+Ms Is suggestion that two suspicious customers came into the salon. But Im also 
+satisfied that whoever processed the refund used the terminal and had to have known 
+the supervisor code. And, overall Im currently satisfied that the payment was 
+authenticated in line with the PSRs.
+Worldpays records suggest that the debit card details were entered manually when the 
+refund was processed. Its my understanding this means an individual used the keypad 
+on the terminal to enter (as a minimum) the 16-digit card number, followed by the 4-digit 
+expiry date and the 3-digit security number (also known as the CVV number) from the 
+reverse of the card. Ms I says she was suspicious about the men and turned away from 
+them for only a moment to give them the necessary privacy to enter their 4-digit debit 
+card PIN. But that version of events gives no time for the card details to be entered 
+manually. And over and above that, there is no credible explanation before me to 
+account for how someone could have correctly guessed the correct supervisor code 
+when there were 9,999 possible options.
+I have no reason to doubt that Worldpays records are genuine  I dont believe it would 
+deliberately falsify this evidence. And Im not aware of any way that a fraudster could 
+influence the information sent by the terminal to Worldpay so that a chip read or 
+magnetic stripe read transaction would otherwise appear as a manual entry. 
+Ms I says they have CCTV in the salon. And Worldpays notes from a call that took place 
+on 17 July 2018 suggest it advised Ms I to check this and pass it on to the police. The 
+importance of retaining CCTV footage is also set out in the Customer Operating 
+Instructions. But Ms I didnt do so and its not clear to me why she didnt obtain and 
+retain the footage from the day in question, if it supported her recollection of events. 
+Ms I didnt retain the declined transaction receipts and didnt notice the refund until some 
+days later, indicating she didnt complete the recommended daily reconciliation. The fact 
+she didnt heed the advice Worldpay gave about these things might suggest there were 
+other pieces of its advice that she chose not to follow, much as the ones that relate to 
+terminal and access code security.
+Worldpay has a transaction monitoring team which, it says, is there to provide its 
+merchants with extra security. The existence of this team, as well as the warnings it 
+Includes within its literature for merchants, suggests to me that Worldpay understands 
+the fraud risks and accepts, to an extent, that it has a duty of care to protect its 
+customers against the risk of fraud and scams so far as is reasonably possible. It also 
+has to balance that with the requirement to execute authorised payment instructions 
+without undue delay. With this in mind Worldpays records indicate that, the day after the 
+refund was processed (and before Ms I queried the refund), its team noticed that the 
+transaction was out of line with the salons normal trading pattern and didnt match a sale 
+for the same amount. The team blocked the refund facility while it took steps to contact C 
+about this. But the refunded amount had already been returned to the designated debit card and couldnt be reversed. So Worldpays actions served more of a precautionary 
+function against future, erroneous refunds. Given the transaction was so out of character 
+and there was no corresponding sale  from a fraud-prevention perspective and with the 
+benefit of hindsight  it would have been helpful for the refund to have been blocked, 
+pending further enquiries. However, I must also be careful not to apply rules and 
+standards of today to the events that apply in this case, from mid-2018. And, at that time 
+authorised payment institutions like Worldpay were not subject to the same expectations 
+that applied to banks and building societies relating to customer service and fraud 
+prevention. And, in any event, I think the refund was likely processed because someone 
+had access to the correct supervisor code. So I dont think any earlier intervention by 
+Worldpay would have stopped the transactions going through, because the outward 
+features of the transaction gave Worldpay no reason to consider that it hadnt been 
+authorised.
+Overall, in the particular circumstances of this complaint, Im not currently persuaded that the 
+events played out in the way Ms I describes. Im satisfied Ms I set up a specific supervisor 
+code, and I cant see any basis upon which a third party could have guessed that code within 
+the circumstances of the limited time Ms I says was available. Im satisfied Worldpay has 
+established that its more likely than not the refund was either authorised by or on Cs behalf, 
+or that someone able to act on Cs behalf as agent acted either fraudulently or failed with 
+intent or gross negligence to keep the supervisor code secure, which enabled the refund to 
+be processed.
+Worldpay accepted my provisional findings. Ms I, on behalf of C, did not accept my
+provisional decision and said, in summary that:
+She doesnt personally have access to the salons CCTV footage. The salon owners 
+(and directors of C) have access, but were away on holiday when the disputed refund 
+took place. They tried to access the footage when they returned to the UK, but a 
+technical issues prevented the relevant footage being retrieved.
+She has always kept the supervisor code safe. In her absence the owners can authorise 
+refunds as they also know the code. 
+Worldpay have still not, to date, provided an audit trail which shows a supervisor code 
+was entered in relation to the disputed refund.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+I can only make my decision based on the evidence thats been provided and have done so 
+in the absence of any CCTV footage. 
+I have taken into account what Ms I says about the supervisor code, including the absence 
+of an audit trail to show it was entered. But those are matters that I already considered and 
+addressed in my provisional findings. 
+With the above in mind, along with the reasons set out in my provisional decision and 
+reproduced above, I still cant fairly instruct Worldpay to refund the disputed £3,000 
+transaction.My final decision
+My final decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask C to accept or 
+reject my decision before 19 July 2022.
+ 
+Ruth Hersey
+Ombudsman

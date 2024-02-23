@@ -1,0 +1,108 @@
+DRN-3602758
+The complaint
+Mr P complains that Lloyds Bank PLC wont refund disputed payments made from his 
+current account.
+ 
+What happened
+Mr P says that in February 2021 two fraudulent transactions totalling £789.64 were made 
+from his current account to third parties via Paypal using his debit card details.
+Mr P says that although he had recently set up a Paypal account he had never used it, and 
+believes his Paypal account was hacked by a fraudster who made these payments. Mr P 
+has also said that he believes Lloyds should have asked him to confirm that he had made 
+the payments before authorising them.
+Lloyds investigated and decided not to refund the disputed withdrawals. It contacted Paypal 
+to ask for information about the transactions, and Paypal provided evidence to show that the 
+transactions were made using Mr Ps name and address. So Lloyds explained that unless it 
+received evidence to support Mr Ps assertion that his Paypal account had been hacked, it 
+would not be refunding the disputed payments to him.
+As Mr P didnt agree with Lloyds decision, he asked us to investigate. 
+Our investigator didnt recommend the complaint should be upheld. In summary, she felt it 
+was more likely that Mr P had authorised the transactions. Specifically, she noted that Mr P 
+had said nobody had access to his debit card or Paypal account, that he had only ever 
+accessed his Paypal account from his mobile phone, and that the details of his Paypal 
+account were securely stored on his phone which was protected with fingerprint ID and a 
+passcode. As a result she felt that there was no plausible explanation for how someone 
+could have accessed Mr Ps Paypal account to make these payments.
+Mr P disagreed, he said that his Paypal account was not fully verified at the time the 
+transactions were made, and that neither Paypal nor Lloyds had asked him to authorise the 
+transactions using a passcode or similar security measure. So he felt that both Paypal and 
+Lloyds had been negligent in allowing these transactions to happen. 
+I issued my provisional decision on this case on 23 June 2022. Mr P responded explaining 
+why he disagreed with my findings, Lloyds didnt make any further comments.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+In my provisional decision I explained the following:
+The relevant law here is the Payment Services Regulations 2017, and broadly speaking 
+Mr P is responsible for any payments that he has authorised (either by making them himself 
+or allowing someone else to) and he isnt responsible for unauthorised payments. 
+The terms and conditions of Mr Ps account also explain that Lloyds will not refund disputed 
+payments if it can show that the account holder has authorised that payment, or if it 
+reasonably suspects fraud or gross negligence on the part of the account holder.
+So, the key question here is whether Lloyds has acted fairly in concluding that Mr P did 
+authorise the disputed payments.
+Im satisfied from the banks evidence and from what Mr P has said that his genuine Paypal 
+account and card details were used to make these transactions. But the regulations relevant 
+to this case say that is not, on its own, enough to enable Lloyds to hold him liable. So I also 
+need to think about whether the evidence suggests that its more likely than not that Mr P 
+consented to the payments being made.
+From what Ive seen, I dont think its unreasonable for Lloyds to conclude that Mr P 
+authorised the transactions. This is because Paypal has provided Lloyds with evidence to 
+show:
+that the payments were made using Mr Ps legitimate name and address
+that an authorisation code was sent to Mr P asking him to authorise each payment
+that the IP address shown for one of the payments is in the same part of the country to 
+where Mr P lived and, as he has noted himself, is associated with the same internet 
+provider as he used at that time
+I understand that Mr P says he never received any authorisation codes from Paypal for 
+these payments, but Paypals evidence suggests that one was sent to him for each 
+transaction. And given that Mr P has provided evidence to show that he received other 
+authorisation codes from Paypal both before and shortly after the disputed transactions, and 
+that he received a notification to his phone that one of the payments had been made, its 
+clear that Paypal did have the correct phone number for him. If a fraudster had full access to 
+his account then its not clear why they wouldnt have changed the phone number so that 
+any notifications didnt go to Mr P. I acknowledge that the screenshot of messages from 
+Paypal that Mr P has provided doesnt show him receiving the authentication codes for the 
+disputed transactions, but I dont think this conclusively proves that those messages werent 
+received, as it is possible to delete text messages from within a message string. I also agree 
+with our investigator that the information Mr P has given to us doesnt suggest any plausible 
+way that a fraudster could have gained access to his PayPal account.
+With all this in mind, I dont think it was unreasonable for Lloyds to decide that it was more 
+likely that Mr P had authorised these payments. I appreciate that Mr P says his account was 
+hacked but hes not provided any further evidence to support that assertion. I also 
+acknowledge what Mr P has said about his Paypal account not being fully verified when the 
+payments were made, but as this complaint is about what Lloyds has done, I dont think that 
+is relevant here. Im satisfied that Lloyds took appropriate steps to investigate the payments 
+Mr P was disputing, and that it was reasonable for it to then decline to refund them based on 
+the information it was given.
+Taking everything into account, I think, on balance, that Lloyds was reasonable to conclude 
+that Mr P authorised these payments. It follows that Lloyds is entitled to hold him liable for 
+them.In response to my provisional decision, Mr P has said that he does not feel all the evidence 
+he provided has been taken into account. I want to assure him that, even if individual pieces 
+of evidence werent referred to in my provisional decision, I did look carefully at everything 
+he sent to us.
+Specifically, Mr P has referred to the email chain he sent to us that he says is between him 
+and the person one of the payments was made to. But I dont agree that this email 
+conversation proves that Mr P didnt authorise the payment to that individual. 
+Mr P has also said that he definitely did not receive any authorization code for either of the 
+payments that is in dispute. But Paypals records show that authorization codes were sent 
+for both of the payments, and given that Mr P has shown us that he was receiving messages 
+from Paypal both before and after the payments in question, I think its clear that Paypal did 
+have the correct phone number for him. So its difficult to see how those authorization codes 
+could have not reached Mr P.
+Lastly, Mr P has said that the evidence he received from Paypal did not show any IP 
+address. I can confirm that the chargeback evidence we have seen includes an IP address 
+for the payment of £275.65. As I noted in my provisional decision, this IP address seems to 
+match the same general area as where Mr P lived and was associated with the same 
+internet provider as he has said he uses.
+So with all this in mind, while I appreciate Mr P taking the time to respond to my provisional 
+decision, nothing he has said changed my findings. I appreciate how disappointed Mr P will 
+be, but I remain satisfied that Lloyds was reasonable to conclude that Mr P authorised these 
+payments and is therefore entitled to hold him liable for them.
+My final decision
+My decision is that I do not uphold this complaint. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr P to accept or 
+reject my decision before 22 August 2022.
+ 
+Sophie Mitchell
+Ombudsman

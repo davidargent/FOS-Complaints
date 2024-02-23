@@ -1,0 +1,117 @@
+DRN-2224883
+The complaint
+Mr B complains that Skrill Limited wont refund a payment made from his account which he 
+says he didnt make or otherwise authorise.
+ 
+What happened
+Mr B is a Skrill account holder. During lunchtime at work on 6 September 2019, Mr B says 
+he received an email from Skrill confirming a recent transaction for €3,814. As this wasnt a 
+transaction Mr B recognised, he called a colleague over who thought his computer was 
+being hacked; there were about 10 tabs open including for other payment service providers. 
+Mr B reported the incident to Skrill who suspended the account whilst it investigated and 
+required documentation from Mr B to reinstate it. It found the account had been logged into 
+using the correct login credentials and accessed from an IP address regularly used for the 
+account; it therefore didnt refund the payment. Mr B complained but Skrill stood by its 
+decision. It said Mr B either authorised the payment or shared his security details with 
+someone else that enabled them to carry out the transaction  so, in accordance with the 
+terms of the account, he was liable for the transaction. 
+During our investigations Mr B has maintained that he hadnt shared his security credentials; 
+and hadnt downloaded any software allowing remote access to his computer. And he 
+denied knowing the recipient of the funds  Skrills investigation led it to conclude the 
+payment had been made to Mr Bs cousin for flights (the recipient was another Skrill account 
+holder). 
+Our investigator didnt uphold the complaint. She was satisfied the payment had been 
+authorised using the correct security credentials and, as Mr B was adamant he hadnt 
+shared those or downloaded any software allowing remote access to his computer, 
+concluded the transaction must have been authorised by him.
+Mr B disagrees with the outcome reached. In summary, he says:
+He didnt authorise the transaction, the first he knew of it was the email;
+He doesnt know the person who received the funds and disputes they went to his 
+cousin or was payment for flights; 
+Cybercriminals dont need a user to knowingly download remote access software  
+remote access could have been installed without his knowledge; and 
+His money has been stolen and this has been ignored during the investigation. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+When considering whats fair and reasonable, I am required to take into account relevant law 
+and regulations; the regulators rules, guidance and standards, codes of practice; and, where 
+relevant, what I consider to have been good industry practice at the relevant times. 
+The event took place in September 2019, so of particular relevance to my decision are the 
+Payment Services Regulations 2017 (PSRs)  not the 2009 Regulations which the 
+investigator referred to  which apply to transfers like the ones made from Mr Bs account. 
+Ive considered the relevant provisions of the PSRs alongside the contractual terms and 
+conditions of the Skrill account. 
+Taking those into account there are two key questions relevant to my consideration:
+1. Were the transactions authorised by Mr B; and
+2. If they werent, did Mr B fail with intent or gross negligence to comply with his 
+obligations under the PSRs, to comply with the terms and conditions of the 
+account, or to keep the personalised security details safe?
+If I find Mr B made, or otherwise authorised the transaction, I dont need to consider point 2 
+above. 
+Were the disputed transactions authorised by Mr B?
+Regulation 67 of the PSRs says that the payer must give consent and it must be given in the 
+form, and in accordance with the procedure, agreed between the payer and its payment 
+service provider. The EUs Payment Services Directive, which the PSRs implement in UK 
+law, says that in the absence of such consent, a payment transaction shall be considered 
+unauthorised. 
+Given the transaction was made from Mr Bs Skrill account, Ive considered the relevant 
+provisions of the account terms and conditions to determine what the agreed form and 
+procedure is for such payments to be made. The terms say:
+9.1 To send a payment you are required to authorise the payment with your login 
+details and password. We may also ask you additional security questions relating to 
+you or your Skrill Account. If your Skrill Account is protected by additional security 
+measures such as password tokens, you need to follow the instructions provided to 
+you with such additional security measures.   
+9.2 Every recipient of a payment you wish to send through us must have valid means 
+that we can use for their identification. For most of our services that means of 
+identification will be a valid e-mail address but other means of identification may be 
+required to our other services. 
+9.4 If the e-mail address of the intended recipient is registered with us, the funds will 
+be instantly credited to the Skrill account associated with that e-mail address. Once 
+funds are credited to the recipients Skrill Account, the transaction becomes 
+irreversible. 
+Mr B says the transaction was made at 1.34pm (CET). The records provided by Skrill show 
+the account was successfully logged into a few minutes prior to that and again at the time of 
+the transaction. There were no incorrect login attempts or account security information 
+changes. The terms and conditions state that the login details and password are needed in 
+order to make transactions. 
+Mr B says his computer was hacked and insists he didnt make the transactions. For a 
+computer to be hacked, a hacker would need to download some form of software to allow 
+them remote access to it. Often, we see that payment-service users are tricked into 
+downloading such software. Mr B says he hasnt downloaded any software, but maintains it wasnt necessary for him to do this for software to be downloaded. I do accept Mr Bs point 
+in principle, as I believe it is possible for a hacker to download software without the users 
+knowledge. But the key point here is that Mr B hasnt provided any persuasive evidence that 
+his work computer was actually hacked. 
+Mr B has also explained he hasnt received any suspicious emails asking for his password or 
+personal information; hasnt experienced any unauthorised access to his email address and 
+no-one else is aware of his passwords. He says his Skrill account information is kept in a 
+digital locker. This, therefore, doesnt explain how, if Mr Bs computer was hacked, the 
+hacker knew Mr Bs security credentials, i.e. the email address and password information 
+needed to login into his Skrill account and make a payment. These details would be needed 
+by a hacker to enable the transactions to be made. 
+In the absence of any plausible explanation for how an alleged hacker came by the 
+information needed to login into his Skrill account and make the payment, it seems beyond 
+reasonable doubt to me that it was carried out by Mr B or someone he authorised to do so 
+on his behalf.  
+In reaching this conclusion, Ive borne in mind that Mr B says there were a number of open 
+tabs on his computer, including for other payment service providers, but that no other 
+transactions took place. From our extensive experience of fraud and scams, I consider this 
+quite odd: not only would I expect a hacker to change security credentials (which didnt 
+happen), I would also expect them to try and steal as much as possible. Yet only one 
+transaction was made. Mr B hasnt sought to argue, nor have I seen any evidence to 
+suggest, that transactions were attempted with other providers but that the hacker was 
+interrupted or otherwise prevented from doing so. 
+Overall, having considered this matter carefully, Im satisfied the transaction was made using 
+Mr Bs security credentials in the form and procedure required by the account terms and 
+conditions. I have found above the transaction was most likely completed by or on behalf of 
+Mr B. I therefore conclude that he consented to it. As such, I find no basis on which it would 
+be fair and reasonable to ask Skrill to refund the transaction in question and so I make no 
+award against it. I am satisfied Skrill reviewed this matter in line with the relevant law and 
+terms and conditions of the account. 
+My final decision
+For the reasons given, my final decision is I dont uphold this complaint. Under the rules of 
+the Financial Ombudsman Service, Im required to ask Mr B to accept or reject my decision 
+before 4 December 2020. 
+Claire Hopkins
+Ombudsman

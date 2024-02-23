@@ -1,0 +1,85 @@
+DRN-2946633
+The complaint
+Mr P complains to Plus500UK Ltd about an inaccurate price that led to an illegitimate margin 
+call which lost him money when trading options.
+What happened
+The background of this complaint is well known to both parties, so I wont go over it in great 
+detail. However, the key facts and arguments are as follows:
+Mr P had a trading account with Plus500. On 23 June 2020, he opened two August 
+gold options calls, one at 4:05pm at $49.10 and another at 5:23pm at $50.78
+A few hours later, just after 9:36pm, that day both positions closed on margin call at 
+$61.69, losing him just over £94.
+Mr P was unhappy with this and got in touch with Plus500 the same night  he 
+mentioned that the price spike wasnt reflective of the underlying market so he 
+shouldnt have been closed out, and in fact a take profit ought to have triggered on 
+one of the positions. 
+Plus500 looked into his concerns and issued their final response in July  they 
+explained they quoted rates based on feeds from a range of independent third-party 
+reference sources and market data providers, before applying their own spread to set 
+their price. They cited a clause from their user agreement which explained that the 
+range of sources meant prices might not exactly match what might be seen 
+elsewhere. Despite this, they agreed their prices werent reflective of general market 
+rates at the time, so they put £90.98 into Mr Ps account  they said the sum was 
+based on the best rate the positions could have been closed at during the timeframe, 
+along with £25 for the inconvenience.
+Unhappy with this, Mr P asked for our help. One of our investigators had a look at 
+what had happened but thought the offer made was fair. She said it was difficult for 
+us to use hindsight and make an assumption about what Mr P wouldve done had his 
+trades not been stopped out, and that we arent able to award potential profits. She 
+also pointed out that the following day, the market continued to move against Mr P 
+and he could have lost up to £700. 
+Mr P remained unhappy. He said trading was automatic and as this price wasnt 
+available anywhere, Plus500 must have manually manipulated it. He thought hed 
+seen this sort thing a number of times over the years, but this was the first time hed 
+challenged it  he wanted historical trades reviewed. He also wasnt happy with 
+having his loss largely returned, and he wasnt interested in what wouldve happened 
+had the trade stayed open  instead he wanted an explanation about whatd 
+happened. Given the disagreement, the complaint was referred to an ombudsman.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Firstly, I appreciate Mr P says this sort of problem has happened before and wants a holistic 
+review of all his margin calls since 2011. But this isnt something were here to do for him  
+we look into specific concerns that have been raised with the business first. So my review of 
+his complaint is limited to the two trades from 23 June 2020 which he has identified. Should 
+he have other instances of concern, he remains welcome to raise them with Plus500 directly. 
+Plus500 closed Mr Ps trades on margin call. It isnt contested that Plus500 had a contractual 
+right to close positions if margin was breached. Mr P doesnt challenge the margin call itself, 
+nor does he fail to understand its mechanics. Instead he feels the price upon which it was 
+based was illegitimate. 
+Plus500 have already agreed the price Mr P achieved here wasnt reflective of the general 
+market rates at the time. As this isnt in dispute, what Id usually do is consider whether their 
+offer to put things right is fair and reasonable. But before I do that, I note Mr P isnt happy 
+with Plus500 simply agreeing something went wrong, he wants to know why something went 
+wrong. 
+As has already been explained, Plus500 look to a range of third-party providers when setting 
+their prices. Theyve been able to show us here that there was a print on Bloomberg at time 
+of close out which appeared to be an anomaly  the bid and ask were 25.00 and 63.00 
+respectively. So I dont think Plus500s actions here were as malicious or contrived as Mr P 
+suspects. Instead, a reliable, independent source shows that on a few occasions during the 
+minute in question, the ask did hit 63.00. Despite this, upon review Plus500 agreed that $63 
+wasnt a good reflection of the market. So they made an offer to put things right. Ive thought 
+about whether this offer was fair and reasonable given the circumstances.
+Plus500 returned most of Mr Ps losses  their reasoning for this was based upon a price he 
+could have achieved at the time, along with some compensation. Ive had a look at the 
+prices during the minute Mr P was closed out  the ask was between 52.90 to 53.80  so I 
+think Plus500s offer based upon 53.40 was a fair mid-point. I also think their compensation 
+offer was sufficient given the impact. So I think the payment made was a fair way to resolve 
+things. 
+Like our investigator said, its difficult not to use hindsight when looking back to consider 
+what might have otherwise happened with the trade had it not closed when it did  constant 
+movement meant Mr P mightve gone on to make a profit, or he mightve made a loss. I note 
+that at the time, the price was slightly against Mr P, so I think the stance Plus500 have taken 
+is reasonable. 
+I appreciate Mr Ps strength of feeling about his complaint and understand he will remain 
+disappointed, but I assure him that my review is based on what I consider to be fair and 
+reasonable in all the circumstances. From everything Ive seen, I think the steps Plus500 
+took to put the inaccuracy right were reasonable. 
+My final decision
+For the reasons explained, I dont uphold this complaint as Im the satisfied the offer made 
+was a fair one. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr P to accept or 
+reject my decision before 19 September 2022.
+ 
+Aimee Stanton
+Ombudsman

@@ -1,0 +1,137 @@
+DRN-3767068
+The complaint
+Mr W complains that Barclays Bank UK PLC (Barclays wont refund money he lost to an 
+investment scam.
+Mr W is being represented by a claims management company in his complaint.
+What happened
+The detailed background to this complaint is well known to the parties, so Ive only provided 
+a summary of what happened and focused on giving my reasons for my decision.
+Mr W says that in 2014, he lost £3,500 to an investment scheme. In 2020, he came across 
+an advertisement for a company A who claimed to have helped victims of that scheme get 
+their money back. Mr W engaged with A and was told he needed to set up an account with a 
+bank in another jurisdiction in order to facilitate the refund. He was also asked to pay a 
+refundable deposit and fees in cryptocurrency. 
+Mr W used his Barclays debit card to send several payments to a cryptocurrency exchange, 
+before sending on the converted cryptocurrency to the other bank. Unfortunately, hed fallen 
+victim to a recovery scam. 
+The following payments are relevant to this complaint 
+Transaction Date Type Merchant Amount* 
+28 June 2020 Debit card BUYCOIN £2,522.17
+28 June 2020 Credit BUYCOIN £2,359.62
+1 July 2020 Debit card BUYCOIN £254.06
+1 July 2020 Debit card BUYCOIN £2,425.44
+1 July 2020 Credit BUYCOIN £2,425.44
+1 July 2020 Debit card BUYCOIN £2,425.56
+3 July 2020 Debit card BUYCOIN £415.17
+3 July 2020 Debit card BUYCOIN £3,914.18
+3 July 2020 Debit card BUYCOIN £4,547.77
+9 July 2020 Debit card BUYCOIN £1,053.17
+11 July 2020 Debit card BUYCOIN £1,033.30
+24 July 2020 Debit card BUYCOIN £1,568.73
+3 September 2020 Debit card BUYCOIN £500.56
+(*in pounds sterling including non-sterling fees if applicable)
+Net loss £15,875.05
+ 
+Barclays declined to refund the disputed transactions. It said it had spoken to Mr W on 
+28 June, before the first disputed transaction, and warned him that he was likely being 
+scammed. It encouraged him to do further research and discuss the situation with someone 
+impartial. 
+Our investigator didnt uphold the complaint either. They spoke to Mr W and asked him if he 
+discussed the matter with someone or carry out further research following an intervention by 
+Barclays, and he said he didnt. The investigator wasnt persuaded that any further 
+intervention from Barclays at a later stage would have made a difference. They also 
+concluded it was unlikely recovery of funds by means of a chargeback would have 
+succeeded. 
+Mr Ws representative disagree with the investigators conclusions. Theyve asked for an 
+ombudsmans decision on the matter.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Id like to start by reassuring the parties that although Ive only given an overview of this 
+complaint, Ive read and considered everything in its entirety.
+Under regulations, and in accordance with general banking terms and conditions, banks 
+should execute an authorised payment instruction without undue delay. The starting position 
+is that liability for an authorised payment rests with the payer, even if they were duped into 
+doing so, for example as part of a scam. 
+However, in accordance with the law, regulations and good industry practice, a bank has a 
+duty to protect its customers against the risk of fraud and scams so far as is reasonably 
+possible. If, in breach of that duty, a bank fails to act on information which ought reasonably 
+to alert a prudent banker to potential fraud or financial crime, it might be liable for the losses 
+incurred by its customers as a result. 
+The very first payment that Mr W attempted to make to BuyCoin, a crypto exchange, 
+triggered an alert on the banks fraud detection systems and his card was blocked. After 
+several unsuccessful attempts, Mr W phoned Barclays to discuss the declined transactions. 
+A recording of this call has been provided by Barclays which Ive listened to. It has also been 
+shared with Mr Ws representative. 
+Mr Ws representative assert that Barclayss intervention during the call didnt go far enough. 
+They submit that it missed obvious red flags and didnt take sufficient action  it had been 
+put on notice that fraud was occurring, yet it unblocked Mr Ws card and asked him to carry 
+out more research. 
+Ive carefully considered the arguments that Mr Ws representative have put forward. While I 
+acknowledge that the agent could have questioned Mr W further  its easy to be critical with 
+the benefit of hindsight  I find that the intervention was sufficient in the circumstances of this 
+case. The bank isnt expected to play an amateur detective in such situations. I consider that 
+the call served the purpose of identifying a fraud risk, providing a scam warning and 
+education, and advising Mr W to carry out due diligence. Although Barclays had identified 
+red flags, it still fell on Mr W to go away and utilise the information hed been given by the 
+agent to check whether the opportunity hed been presented with was genuine.
+Mr Ws representative has said Barclays should have kept Mr Ws card blocked for all 
+transactions and asked him to go into branch for further questioning. Had it been the case 
+that Mr W had dismissed the agents concerns and insisted on going ahead with the 
+transaction, I might agree that restricting the account in the way thats been suggested and 
+asking him to visit a branch may have been the way forward in safeguarding the account. 
+But thats not what happened here. The agent gave Mr W a scam warning and provided education on how such scams worked. 
+They shared an account of experiences of other customers in similar situations and 
+suggested that Mr W held off until hed done further research online, spoken to someone 
+impartial, directly contacted the bank in the other jurisdiction, etc. Mr W didnt disagree with 
+any of these suggestions. In fact, at one point he told the agent that he also thought it was 
+odd that hed been asked to deposit funds into the other bank in cryptocurrency.
+So, given that Mr W was seemingly receptive of the agents scam education, engaged in the 
+conversation, and more importantly agreed not to send the payment, I dont see why 
+Barclays ought to have continued stopping him from using his card like his representative 
+has argued. Its worth noting that Barclays did stop that payment from going ahead.
+I can see that the investigator contacted Mr W directly and asked him if hed followed 
+through with any of the suggestions Barclays had made during that call. He replied that he 
+did look online, but when the scammer dangled a carrot he was caught up in the promise of 
+the returns he would get. As we now know, Mr W made a payment in connection with this 
+scam a few hours after his conversation with Barclays. Given it had already flagged a 
+payment to that merchant a few hours earlier and had had a discussion with Mr W, Im not 
+persuaded that it was unreasonable of Barclays to have executed his authorised instruction. 
+Mr W had been given the opportunity to check that he was dealing with a legitimate firm. A 
+few hours later, he was willing to go ahead.
+Looking at the account statement, its arguable that the payment of £4,547.77 on 3 July 
+ought to have flagged on the banks systems based on account activity. By that point, Mr W 
+had already made two payments to the same merchant  one of which was just under 
+£4,000. The increased frequency and large value should have prompted further discussion. 
+I dont know what would have happened if Barclays had questioned Mr W at that time. In 
+such situations, I must consider what I think would most likely have happened considering 
+the evidence and wider circumstances of the case. This includes taking into account Mr Ws 
+state of mind as well as actions that were taken by him.  
+Having done so, Im not convinced that he would have stopped had there been another 
+intervention. I say this because Mr W didnt pay heed to the banks warning only a few days 
+earlier, suggesting that he was taken in by the scam. His reply to our investigators questions 
+also supports this. Its worth noting that by 3 July, Mr W had also received credits which 
+werent insignificant in value. This might have provided him with additional reassurance 
+about the legitimacy of his dealings. 
+Having weighed everything up, on balance, Im not persuaded that a subsequent 
+intervention from Barclays would have made a difference to Mr Ws decision-making. It 
+follows that I dont think it acted unreasonably in allowing the transactions to go through.
+Ive also thought about Barclayss actions in relation to the recovery of funds once it became 
+aware of the situation. I cant see that Barclays attempted a chargeback when Mr W reported 
+the scam. However, as these were debit card transactions, the only avenue here would have 
+been a chargeback. Although Mr W was scammed by A, his payments went to a legitimate 
+crypto exchange. Barclays could have only raised a chargeback against the merchant he 
+paid, not another firm. And given the merchant he paid had provided the service (conversion 
+of money into cryptocurrency), its unlikely that a chargeback would have been successful. 
+So, I dont think it acted unfairly by not raising a chargeback.
+In summary. I recognise that this will come as a considerable disappointment to Mr W and 
+Im sorry that hes lost a large sum of money to a cruel scam. But in the circumstances, Im 
+not persuaded that Barclays can fairly or reasonably be held liable to reimburse him for his losses. Any failure on Barclayss part in relation to not spotting the subsequent transactions 
+as unusual is not the dominant, effective cause of Mr Ws loss.
+My final decision
+For the reasons given, my final decision is that I dont uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr W to accept or 
+reject my decision before 16 June 2023.
+ 
+Gagandeep Singh
+Ombudsman

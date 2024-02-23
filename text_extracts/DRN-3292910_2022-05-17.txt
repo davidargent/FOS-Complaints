@@ -1,0 +1,115 @@
+DRN-3292910
+The complaint
+Ms D complains that HSBC UK Bank plc (HSBC) has refused to reimburse money she lost 
+as part of an investment scam.
+What happened
+In June 2020, Ms D was contacted by a representative of an investment brokerage firm 
+which Ill call N. The individual claimed to be an expert in bitcoin trading and talked Ms D into 
+an investment opportunity. In order to invest, payments were required to be made via a 
+cryptocurrency platform. 
+Over the next three months, seeing her investment making profits and being persuaded to 
+invest more, Ms D made the following transactions from her HSBC account to her account 
+with the cryptocurrency platforms:
+Date Type Merchant Amount
+19 June 2020 Bank transfer Bitstamp Ltd £5,000.00
+22 June 2020 Bank transfer Bitstamp Ltd £3,000.00
+24 June 2020 Bank transfer Bitstamp Ltd £6,500.00
+3 July 2020 Bank transfer Bitstamp Ltd £25,000.00
+13 July 2020 Bank transfer Bitstamp Ltd £25,000.00
+15 July 2020 Bank transfer Bitstamp Ltd £20,000.00
+20 July 2020 Bank transfer Bitstamp Ltd £25,000.00
+9 September 2020 Bank transfer CB Payments £2.00
+9 September 2020 Credit Coinbase £2.00 (credit)
+14 September 2020 Bank transfer Binance £15,000.00
+15 September 2020 Bank transfer Binance £15,000.00
+15 September 2020 Bank transfer Binance £9,959.49
+Total loss £149,459.49 
+Ms D eventually realised she had been scammed when a third payment  of £30,000  that 
+she attempted to send on 15 September 2020 was blocked by HSBC pending further review. 
+When questioned about the payment, Ms D had told HSBC that she was settling a tax 
+payment to secure a guaranteed refund of her investment which, at the time, had a balance 
+of over £400,000.  
+HSBC attempted to recover the money from the receiving bank but was told that no funds 
+remained on the platform. Ms D complained to HSBC and said that it should have prevented 
+the transactions and stopped the money being sent to the scammer a lot sooner. She also 
+raised concerns about not receiving any calls from HSBC at the time of making the 
+payments.
+HSBC didnt think it had done anything wrong.  Unhappy with this response, Ms D referred 
+the matter to our service. She also said that as a signatory to the Contingent Reimbursement 
+Model (CRM) Code, HSBC should have taken care of a loyal customer.
+Our investigator didnt uphold Ms Ds complaint. He explained that the CRM Code didnt 
+apply in this case as Ms D made the payments into her own account with the cryptocurrency 
+platform. It was also his view that the payments werent so unusual or uncharacteristic that 
+they ought to have triggered HSBCs systems. Ms D disagreed, so the complaint has been 
+passed to me to decide.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Id like to start by reassuring both parties that although Ive only summarised the background 
+and main arguments, so not everything that happened is mentioned, Ive read and 
+considered everything thats been provided in its entirety. 
+Under regulations, and in accordance with general banking terms and conditions, banks and 
+building societies should execute an authorised payment instruction without undue delay. 
+The starting position is that liability for an authorised payment rests with the payer, even if 
+they were duped into doing so, for example as part of an investment scam. 
+It is common ground that Ms D authorised the payments she made in 2020  she used her 
+security credentials to make the transfers. So, under the Payment Service Regulations 2017, 
+Ms D is presumed liable for the loss in the first instance.
+Ms D submits that HSBC should refund the money she lost under the CRM Code, which 
+applies to payments made from 28 May 2019. But as the investigator explained, the code 
+only applies to payments made directly to another person  payments made to a customers 
+own accounts arent covered by the CRM Code. That means the CRM Code provisions 
+arent relevant to Ms Ds complaint  her payment instruction was to send money from her 
+HSBC account to her own cryptocurrency wallet.
+While I find the CRM Code doesnt apply here, that code is not the full extent of the relevant 
+obligations that could apply in cases such as this. In accordance with the law, regulations 
+and good industry practice, a bank has a duty to protect its customers against the risk of 
+fraud and scams so far as is reasonably possible. If, in breach of that duty, a bank fails to act 
+on information which ought reasonably to alert a prudent banker to potential fraud or 
+financial crime, it might be liable for the losses incurred by its customers as a result. 
+So, even though Ms D was transferring funds to crypto accounts in her name, HSBC ought 
+to have been on the lookout for unusual and out of character transactions. While the 
+transfers were made to her own wallet, scams involving transfers to cryptocurrency accounts 
+were well known to banks by this time and I therefore think that where payments were also 
+out of character, potential losses were foreseeable to the originating bank. 
+Ms D submits that payments to Bitstamp Ltd ought to have alerted HSBC. But the firm was  
+and to my knowledge still is  a legitimate company. The payee name alone doesnt make a 
+transaction sufficiently unusual or suspicious. When considering what payments should be 
+considered significantly out of character, its often a finely balanced matter  and banks have 
+a difficult balance to strike between identifying transactions where there are indications of 
+higher fraud risks, and allowing customers to utilise their accounts with minimal unnecessary 
+disruptions.
+Ive considered whether the transfers made by Ms D were significantly out of character or 
+unusual. Looking at the account activity in the year leading up to the first disputed transaction, I can see multiple payments for similar amounts during that period. For instance, 
+I can see three transactions  two bank transfers and a debit card payment 
+for £20,000 each in March 2020. I acknowledge Ms D has said that these were ISA 
+transfers, but the transactions indicate that it wasnt unusual for large-value payments to be 
+made from her account. The transactions also show that it wasnt uncharacteristic for Ms D 
+to make multiple large-value payments within a space of a few days. 
+By the time Ms D made the first £25,000 transfer, there had already been three transfers to 
+the same payee account. And they came to form part of her pattern of account activity. So, 
+this larger transaction wouldnt have appeared unusual to HSBC. 
+I can see that HSBC did block a transfer of £30,000 on 15 September 2020. At that point, it 
+was the third such transaction in one day and Ms D had already transferred approximately 
+£25,000 that day. In the circumstances  the frequency of the transactions in one day and 
+the overall amount transferred  it isnt surprising that this specific transfer did trigger 
+HSBCs systems. But considering the particular circumstances of this case, Im not 
+persuaded the transfers Ms D made up to that point were so unusual or suspicious to HSBC 
+that it ought to have intervened and asked questions about them before executing her 
+payment instruction. 
+That being the case, while I know Ms D feels strongly about this, I also dont think HSBC 
+acted unfairly or unreasonably by not contacting her at the time the transfers were made. 
+I dont dispute HSBC later apologised to her  theres a record on its system notes that the 
+agent apologised when Ms D pointed out that HSBC didnt contact her. But it seems to me 
+that this came from failure to meet Ms Ds expectations. When the dispute (and later the 
+complaint) was investigated, HSBC set out its position on the matter. 
+I realise that Ms D will likely be disappointed with my findings. I know she feels strongly that 
+HSBC ought to have done more to protect her. But, for the reasons set out above, Im not 
+persuaded that HSBC ought to have done more in the circumstances of this case.
+My final decision
+For the reasons given, my final decision is that I dont uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Ms D to accept or 
+reject my decision before 14 June 2022.
+ 
+Gagandeep Singh
+Ombudsman

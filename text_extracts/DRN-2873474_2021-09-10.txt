@@ -1,0 +1,129 @@
+DRN-2873474
+The complaint
+Mr A says his trading account (including his Contracts for Differences (CFD) positions and 
+trading profit) was manipulated by HYCM Limited between 20 and 21 April 2020; and that, 
+as a result, he was prevented from withdrawing part of his trading profit.
+What happened
+Mr A traded in two long rolling Spot USOIL CFD positions. The first was half a lot and was 
+opened at 17:56 hours on 20 April, at the price of 0.26 USD; the second trade was also half 
+a lot and was opened 15 seconds afterwards on the same date, at the price of 0.15 USD; the 
+first trade was then closed, on the same date, at 23:14 hours and at the price of 21.47 USD; 
+the second trade was also closed, six seconds later, at the price of 21.48 USD; the first trade 
+recorded profit of 10,817.10 USD and the second recorded profit of 10,878.30 USD.
+Both trades were based on the underlying USOIL CFD Futures contract for May 2020, which 
+expired on 20 April 2020. In the context of the rollover feature, the contract that followed was 
+for June 2020 and that expired on 15 May 2020.
+HYCM has shared pricing data with this service. It shows that the settlement price for May 
+2020 USOIL futures was -37.63 USD, however its platform could not support negative 
+prices, so the spread of 0.00/0.06 USD was applied instead, with the mid-price at 0.03 USD. 
+HYCM has referred to the widely publicised extraordinary event on 20 April 2020 in the 
+global Oil market, where Oil prices worldwide went into negative prices for the first time in 
+history. It has also referred to publications about this in the media at the time. Those 
+publications explain the cause as being a sharp drop (to zero) in the demand for Oil resulting 
+from the effects of the COVID-19 pandemic and explain that Oil producers were therefore 
+paying buyers in order to get rid of their Oil, and to avoid storage costs and avoid breaching 
+their storage capacities. This, in turn, led to the negative USOIL futures prices for May, 
+expiring 20 April.
+HYCMs pricing data also shows that the settlement price for June 2020 USOIL futures  the 
+next contract  at the time was 20.43 USD. The same media publication evidence it 
+submitted refers to the same price for the June 2020 USOIL futures. 
+According to HYCMs terms of business for the trading account, the rollover effect was/is 
+applied to spot trades that are not closed-out as of 5.00pm Eastern Time on the relevant 
+business day. In practice, this meant an offsetting exercise, whereby the trade would be 
+closed based on the closing price for the expiring futures and re-opened at the relevant price 
+derived from the following futures contracts settlement price.
+HYCM concedes that this would normally have been applied in real time, but in Mr As case 
+and on 20 April 2020 that did not happen. It says that was due to the unprecedented events 
+in the global Oil market on that date, the resulting negative prices and the platform issue it 
+had with the negative prices. The rollover adjustment was therefore applied the next day, on 
+21 April 2020. It says the price derived for rolling USOIL spot, based on the June futures 
+price, was 20.40 USD, so the adjustment was to treat relevant trades as having closed at the 
+price of 0.03 USD per lot (mid-price for the May contract, which expired 5.00pm 20 April) and 
+having re-opened at the price of 20.40 USD per lot (the new rolling spot price for the June 
+contract). It explained that the difference  20.37 USD  then translated to either credit of 
+23,370 USD for short trades or debit of the same amount for long trades. [Based on the 
+lot/contract size of 1,000.] 
+HYCM says Mr As trades were subject to the rollover effect, that the effect did not apply in 
+real time because of the platform issues at the time, that the effect was applied the following 
+day, that the application resulted in reversing the previously recorded profit in each of the 
+two trades by 10,388.70 USD and that it is for this reason that Mr As withdrawal request 
+(which was made after the trades were closed but before the adjustment was applied) was 
+cancelled. It says no manipulation of his account took place and that it is the rollover 
+adjustment that changed the state of the account. 
+One of our investigators looked into the complaint. Some of the additional information and 
+evidence produced by HYCM was produced in response to her enquiries. Overall and on 
+balance, she accepted HYCMs explanations and the account/trading/pricing related 
+evidence it submitted. She concluded that the complaint should not be upheld. She noted 
+that a part of Mr As complaint related to the lack of real time notice of the rollover 
+adjustment and of its effect, but she was satisfied with HYCMs response [as summarised 
+above] to her query about this. She included this in her view on the complaint.
+Mr A disagreed with this outcome. He maintained that HYCM had done something wrong 
+and he said HYCMs closure of his account indicates its guilt for its wrongdoing. The matter 
+was referred to an ombudsman.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+In the main, Mr As case rises or falls on the facts of the relevant events in his trading 
+account, on factual evidence of the prices related to those events and on the terms of 
+business that applied to his account. 
+With regards to the last point, and in brief, I am satisfied with the terms for Mr As account 
+which made provisions for the rollover adjustment and its application to trades that passed 
+from one contract to another. Those terms are reflected in sections 3.4 (application of 
+rollover) and 11.3 (rollover fees) of the customer agreement for his account. Furthermore, 
+available evidence is that he had a number of trading accounts with HYCM and was 
+experienced, so it appears that he would have been familiar with the rollover adjustment.
+It is not disputed that Mr As trades showed profits immediately after they were closed and 
+for some time thereafter. His trading account statement shows that he made his withdrawal 
+request at 23:26 hours on 20 April, 12 minutes after the trades were closed (with, it appears, 
+the account still showing the profits stated earlier). 
+However, HYCM has given a reasonable explanation why the platform (and his account) did 
+not reflect the adjustment in real time and how the adjustment was subsequently applied the 
+following day. I accept its explanation. Without any market wide history of negative prices 
+ever occurring, it is understandable that its platform was not prepared for the unprecedented 
+Oil futures price crash (into negative territory) that happened on this date  and it is equally 
+understandable that platform issues arose in this context and had to be addressed before a 
+later rollover adjustment could be applied.The delayed rollover adjustment is what led to cancellation of Mr As withdrawal request. The 
+adjustment appears to have erased all but around 920 USD off the total profit that he thought 
+he had made, so the profit he sought to withdraw was not there. Available evidence and 
+facts show that the adjustment and this effect were legitimate.
+In straightforward terms, Mr As trades closed at the wrong prices. At 23:14 hours on 20 April 
+2020, which is when they were closed, both trades had already been rolled over. They had 
+already crossed the 5.00pm Eastern Time rollover threshold on that day, being the day the 
+May Oil futures contract (on which the Spot product was based) expired and the June 
+contract began (unto which the spot trades were rolled). As such, the rollover adjustment 
+should have had the effect of closing his trades at a rolling spot price based on the closing 
+price for the May contract and then reopening them, if the state of the account permitted, at 
+a rolling spot price based on the price for the June contract. 
+This means the closing price of 0.03 USD, as HYCM has explained (and as I summarised 
+above), should have applied to both trades  instead of the prices of 21.47 USD and 21.48 
+USD. Then they both should have been re-opened at the price of 20.40 USD, as HYCM has 
+explained (and as I summarised above). The trades were long, so that meant they were to 
+be sold at 0.03 USD  in order to complete/close both buy trades  and then re-bought at 
+20.40 USD in order to roll them into re-opened and ongoing buy trades. The sale price was 
+less than the re-purchase price. That was the reason why the difference of 20.37 USD (or 
+20,370 USD, when multiplied by 1,000/the contract size) applied as a debit (not credit) 
+adjustment in Mr As account. 
+For the sake of completeness, I consider that all account activity, trading and pricing 
+evidence that has been shared with this service  and on which the above analysis and 
+findings are based  are reliable, and I have not seen reason to doubt their credibility.
+It is unfortunate that the adjustment could not be applied in real time  which might have 
+avoided Mr As reliance on the profits he would have initially seen  but, for the reasons 
+given above, I do not consider that HYCM behaved unreasonably in this respect. Evidence 
+suggests the adjustments had been applied by 10:51 hours the following morning, which is 
+when Mr As withdrawal request appears to have been cancelled. I do not consider that 
+HYCM unduly delayed the adjustment after addressing the platform problem it experienced 
+the day before.
+I have not seen evidence that establishes, on balance, that HYCMs decision to close Mr As 
+account was related to the complaint events (and/or the complaint), and section 17 of the 
+customer agreement permitted it to close its customers accounts at its discretion. HYCM 
+says the closure resulted from a business changes decision. 
+Overall, on balance and for the above reasons, I do not consider that Mr As account was 
+manipulated as he alleges. Besides the issues addressed above, he does not appear to 
+have referred to any other matter of alleged manipulation.
+My final decision
+For the reasons given above, I do not uphold Mr As complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr A to accept or 
+reject my decision before 8 October 2021.
+ 
+Roy Kuku
+Ombudsman

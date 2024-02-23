@@ -1,0 +1,119 @@
+K821x#15complaint
+F, a business, complains  that when it changed  its method of credit card payment processing 
+with GPUK LLP (trading  as Global Payments)  (GPUK) it wasnt told about the additional 
+cost of becoming PCI DSS compliant, which is a required  part of online credit  card 
+acceptance. 
+Mr D brings this complaint  on behalf  of F.
+background
+Mr D said that he changed the way that F accepts  credit card payments, from a physical 
+terminal to an online terminal. Because F was changing how it accepted payments, it 
+needed to do more than before, to remain compliant with the industry requirements for data 
+security, the Payment  Card Industry Data Security Standard (PCI DSS). 
+If F doesnt make  sure it complies with that standard, GPUK will apply an extra  charge for its 
+processing. GPUK doesnt offer to ensure that F is compliant  with the standard itself, if F is 
+processing payments  online. It partners with a third party, which charges a monthly fee.
+But Mr D said he asked GPUKs salesman directly about the costs of this different terminal  
+type, and wasnt  told about the additional  cost that F would incur  to make sure it was PCI 
+DSS compliant.
+GPUK says that by the time it responded to Mr Ds complaint, it was no longer able to listen 
+to that particular call. But it thought its salesperson did mention this cost. And it says this 
+cost is covered in its terms and conditions, and also its supporting documents.  So when 
+Mr D signed the relevant  documentation to change Fs terminal  type, he agreed  to this 
+payment. 
+Our investigator didnt  think this complaint  should  be upheld. He said GPUK  had done 
+enough to alert Mr D to the costs, through the documentation it sent him. And he said there  
+was an onus on Mr D to be aware  of what was required  to maintain PCI DSS compliance. 
+He thought that GPUK couldve provided  a better  service when Mr D wanted  to complain. 
+But he said that overall he thought that the compensation  GPUK had paid was enough. 
+Mr D didnt agree. He said GPUK shouldve sent one document summarising all the costs, 
+and he shouldnt have  had to go through various  documents to work  out the price. Although 
+our investigator thought  that wouldve been helpful,  he didnt think GPUK  had to do that. 
+Mr D wanted an ombudsman to look at Fs complaint so this case then came to me for a final 
+decision. 
+my provisional decision
+I issued a provisional decision on this complaint and explained why I proposed  to uphold it. 
+This is what  I said then: 
+-Mr Ds initial complaint was that he wasnt told about the increased cost of a virtual  
+terminal. Our investigator didnt reach a view on whether or not Mr D was told that on the 
+phone, but he said that GPUK had done  enough  to tell Mr D about the increased cost. 
+Ref: DRN60581062-I do think that GPUKs documentation  sets out that there would be an extra  cost for PCI 
+DSS compliance, for a business  thats using a virtual terminal.  So I dont think  that GPUK 
+has done anything  wrong by charging  F for this service. And if F wants to continue to use 
+the virtual terminal, then it will either have to pay this charge, or find an alternative  way of 
+complying with the relevant standard. 
+-But I also think that it is likely that GPUKs salesman made  a mistake about the overall 
+costs on the phone.  And for that reason, I think GPUK should pay a little more  
+compensation than our investigator  suggested.
+-GPUK wasnt able to listen  to the relevant call, where Mr D says he asked a direct 
+question about  costs. Theres no suggestion that this was a deliberate  oversight on its 
+part. It just doesnt keep hold of its recorded  calls for that long. But it was able to listen  to 
+a later call. GPUKs notes  suggest  that on this call recording,  the same  salesperson  says 
+that he doesnt think the cost to F for a virtual  terminal  should be any more than the 
+physical terminal, but he cant  confirm that, as costs can vary. 
+-GPUK has told us that an increase in monthly costs  for PCI DSS compliance, from £3.50  
+plus vat to £7 plus vat, is to be expected with a change from a physical to a virtual  
+terminal. That means that, if the salesperson  said later that he didnt think  the price 
+would change, he was mistaken. 
+-Mr D has always said he asked a direct question  about costs, and was given  the wrong 
+information. Because the same person appears to have  made a very similar  mistake  on 
+a later call, I think its most  likely  that GPUKs salesman did make this mistake  about the 
+costs of a virtual terminal compared to a physical terminal, on the call he initially had with 
+Mr D. I think that Mr D, on behalf of F, probably  was given misleading information on the 
+phone. 
+-I dont think that means that GPUK can only charge Mr D the lower  fee. But I do think  it 
+should do something to make up for this. I also note that its taken a very long time for 
+Mr D, on behalf of F, to be able to resolve  this. His initial  complaint wasnt picked up by 
+GPUK. 
+-Mr D would like GPUK to cover  the additional  fee that F is now being charged, and pay 
+£250 for the time hes spent on this. But although I do think  GPUK should  pay more than 
+the £50 it has sent to F, I think that what  Mr D suggests is a little more  than I would 
+propose in a case like this. 
+-I think that GPUK should pay F a further  £100  in compensation, in addition  to the £50 
+goodwill gesture it has already  paid. I think that provides a fair and reasonable outcome 
+to this complaint.  
+I invited the parties  to make any final points, if they wanted, before issuing my final decision. 
+Mr D didnt reply. GPUK  wrote to object. 
+my findings
+Ive reconsidered  all the available evidence and arguments to decide  what is fair and 
+reasonable in the circumstances of this complaint.  I havent changed my mind.
+Ref: DRN60581063GPUK didnt feel that its salesman made  a mistake regarding the overall costs on the initial 
+sales call. It said its sales agents arent  qualified to advise  on this particular point, so they 
+would not discuss  specific pricing  or security requirements. GPUK  said its sales agents 
+would always direct its customer  to the relevant third party  to discuss this.  
+GPUK said that F was already using the service of this third party  for its pre-existing card 
+payment processing  facility. So it thought  Mr D was aware of the process.  It repeated that its 
+sales team  isnt trained on exact costs,  and said thats why Mr D was told on 11 February 
+2019 that, 'the costs  can vary'. GPUK repeated that its process was always  to refer a 
+customer to this third party, and said that meant  it would be safe to assume that this call 
+followed that process. 
+GPUK said the third party fees were set out in documentation sent to Mr D.
+GPUK thought that Mr D had been  provided  with all the necessary information. So it didnt 
+believe he was mislead by the salesman. So it thought that its previous gesture of goodwill 
+of £50 is fair and reasonable.
+In my provisional decision,  I noted that GPUK wasnt able to listen to the relevant call, where 
+Mr D says he asked a direct question about costs,  because  the recording had already been  
+erased. It did listen to a later call. And its notes suggest that the same salesperson said of 
+that call he didnt think the cost to F for a virtual terminal  should  be any more than the 
+physical terminal, but he cant confirm that, as costs can vary. 
+GPUK says that this reference to varied costs is part of its process of referring customers  to 
+its third party  for pricing. But I still think that the salesman,  on this call, did give an indication  
+of costs. GPUK now suggests that isnt part of its process at all. It also thinks  that its safe to 
+assume that its process was properly followed on the earlier  call. 
+What GPUK says now, makes me think that its process wasnt  quite  followed  properly  on the 
+later call. I dont think, therefore, that it is safe to assume this process was followed properly,  
+on a call recording we dont have.  
+And Mr D has always said he asked a direct question about  costs, and was given the wrong 
+information. As I said in my provisional  decision,  as the same person appears to have made  
+a very similar mistake  on a later call, I think  its most likely that GPUKs salesman did make 
+this mistake about the costs of a virtual  terminal compared to a physical terminal,  on the call 
+he initially  had with Mr D. I still think that Mr D, on behalf of F, probably was given misleading 
+information on the phone.  
+For that reason,  I still think  the award I initially  proposed remains  appropriate in this case.
+my final decision
+My final decision is that GPUK LLP (trading as Global Payments) must pay F £100 in 
+compensation, in addition  to the £50 it has already  paid.
+Under the rules  of the Financial Ombudsman Service,  Im required to ask Mr D, on behalf  of 
+F, to accept or reject my decision  before 10 November 2019.
+Ref: DRN60581064Esther Absalom-Gough
+ombudsman
+Ref: DRN6058106

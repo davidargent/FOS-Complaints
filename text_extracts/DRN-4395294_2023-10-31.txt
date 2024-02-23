@@ -1,0 +1,72 @@
+DRN-4395294
+The complaint
+Mr D has complained that TSB Bank plc wont refund transactions he says he didnt make or 
+otherwise authorise.
+What happened
+Over the course of several days, Mr Ds TSB mobile app was used to send around £2,900 
+worth of bank transfers.
+Mr D says this wasnt him. He explained his phone was stolen on a night out. He didnt keep 
+a record of his security details or share them with anyone. Mr D thought the thief mightve 
+watched him enter his phones passcode before stealing the phone, and he said hed set his 
+online banking password to be the same as the phones passcode. He had not received any 
+suspicious communications, clicked any suspicious links, or downloaded any new apps 
+recently.
+TSB held Mr D liable for the payments in dispute. He came to our service.
+Our investigator looked into things independently and didnt uphold the complaint. They 
+found that the payments had also used Mr Ds secondary security details, not just his 
+password, and they didnt see a likely way someone had learned that without his consent. 
+And theyd been made from Mr Ds usual IP addresses.
+Mr D appealed, so the complaints been passed to me to decide.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Broadly speaking, TSB can hold Mr D liable for the payments in dispute if the evidence 
+suggests that he authorised them.
+Im satisfied from TSBs technical evidence that the payments in dispute were made on 
+Mr Ds genuine mobile app, on his registered device, using his login details and security 
+details. I can see that these transactions were properly authenticated. The question, then, is 
+whether the evidence suggests that its most likely Mr D consented to the payments or not.
+Its possible that a thief couldve watched Mr D enter his phones passcode, then apparently 
+used the same passcode to log in to his TSB app. However, the payments also used Mr Ds 
+secondary security details, which were different to his passcode. And Mr D was clear that he 
+didnt tell anyone his security details nor record them anywhere. Theres no evidence of any 
+unauthorised access, hacking, or security being bypassed, and from what Mr D told us there 
+doesnt seem to be a likely way he couldve been hacked. As I said above, Im satisfied that 
+these payments were properly authenticated.
+On that basis, theres not a likely or plausible way that someone had Mr Ds secondary 
+security details without his consent. That would mean these payments were most likely 
+authorised, and so TSB do not need to refund them. This possibility is also supported by the 
+fact that the disputed payments were made from IP addresses which Mr D also used for his 
+genuine online banking activity before and after, suggesting that the person who made the 
+payments was accessing Mr Ds phone from the same locations he normally used it in. It 
+also looks like Mr D used the same mobile phone for genuine online activity after it was 
+supposed to have been stolen.
+I appreciate why Mr D would like to see CCTV footage. Such footage is only kept for about a 
+month as standard, so itll be too late for that. But its also not really relevant here. These 
+payments were made online, not at a physical cash machine or shop. And camera footage 
+would only show what the person making the transactions looked like. It would not have 
+shown whether they had Mr Ds permission or not. And as I explained above, based on the 
+evidence its not likely or plausible that the payments were made without Mr Ds consent.
+I also appreciate that Mr D would have liked TSB to stop these payments at the time. As 
+they were made on Mr Ds device, at his usual IP addresses, using his correct login details 
+and security details, it wouldve looked like it was Mr D making the payments himself. I dont 
+see that TSB needed to stop them at the time.
+Lastly, Mr D complained about TSBs customer service and them blocking his account. It 
+was correct for TSB to block the account when he reported the fraud, as Mr D had told them 
+that a fraudster had full access to it, so TSB needed to block and secure the account. I can 
+see it was blocked for a week, which was not unreasonable here. And having looked at 
+Mr Ds contact with TSB and listened to relevant calls, Ive not found that they mishandled 
+things overall or dealt with him inappropriately. 
+In summary, Im satisfied that Mr Ds genuine phone, app, login details, and security details 
+were used. Based on the evidence, its not likely or plausible that the payments couldve 
+been made without Mr Ds consent. That means TSB can decline a refund in this case. This 
+is a difficult message for me to give, and I know its a difficult message for Mr D to receive. 
+But given the evidence I have, and the balance of probabilities, Im unable to reasonably 
+reach any other conclusion.
+My final decision
+For the reasons Ive explained, I dont uphold Mr Ds complaint.
+This final decision marks the end of our services consideration of the case.Under the rules of the Financial Ombudsman Service, Im required to ask Mr D to accept or 
+reject my decision before 28 November 2023.
+ 
+Adam Charles
+Ombudsman

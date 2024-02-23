@@ -1,0 +1,53 @@
+DRN-1616407
+The complaint
+S, a business, complains about the charges applied by Elavon Financial Services 
+Designated Activity Company for not complying with payment card industry data security 
+standards (PCI DSS).
+What happened
+S arranged through a separate service provider P to enter into agreements with Elavon to 
+provide card payment processing services and another business to provide a virtual card 
+terminal. In March 2017 a renewal was agreed with P. After that Elavon wrote to S to explain 
+that charges relating to it not complying with PCI DSS standards were going to increase. 
+And S complains that the nature of these charges and what was involved were not explained 
+to it sufficiently.
+S has also made a complaint about P. And an ombudsman colleague has already decided 
+that P was responsible for any shortcomings in the explanation of these charges at the time 
+of renewal.
+Our investigator said that here S had signed a specific agreement with Elavon in June 2013. 
+And that S had 90 days to become PCI DSS compliant. As it had not done so Elavon 
+charged it £17 a month from September 2013 and this was increased to £25 in September 
+2017. It said that it had written to S in July 2015, June 2017 and September 2018 about its 
+non-compliance and had sent emails too. So, he didnt think Elavon had made a mistake.
+S did not agree. It said that Elavon shared a responsibility with P for ensuring that the 
+charges were explained, and it had a duty of care to S. It had not given sufficient notice of its 
+requirements and there should have been a back out clause if compliance was not feasible. 
+It has not provided adequate support and its fees are not reasonable.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Ive seen a copy of the original agreement that S signed in June 2013 with Elavon. That set 
+out the PCI DSS charges for non-compliance. P had arranged the agreement and I think 
+Elavon could reasonably think that S had agreed to the terms. The charges were applied in 
+line with the agreement and ought to have been visible to P. And Elavon has explained to 
+this service that if it cannot provide proof of compliance then it is charged and can be fined 
+for breaches. These costs are passed on.
+S was reasonably required to comply with the standards established by the card schemes 
+whichever business processed payments for it. I appreciate that S says that it found the 
+requirement to achieve compliance difficult especially for a small business. And it did not find 
+Elavon helped it. Im afraid that I cant reasonably look at the processes Elavon puts in place 
+or the level of charges as we are not the regulator. Or say that these should differ depending 
+on the size of a business. 
+The resolution I referred to in the complaint about P has dealt with issues when the 
+agreement through P was renewed and decided where responsibility lies for addressing 
+them. Im afraid I think that before then the requirements were reasonably brought to the 
+attention of S in documentation and letters. And so, I dont conclude that Elavon ought to 
+have done more.
+I know that S will be disappointed when I say that I wont be asking Elavon to take any 
+further action about this complaint. 
+My final decision
+My decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask S to accept or 
+reject my decision before 11 January 2021.
+ 
+Michael Crewe
+Ombudsman

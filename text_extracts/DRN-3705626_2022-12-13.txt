@@ -1,0 +1,212 @@
+DRN-3705626
+The complaint
+Mr S is unhappy that Monzo Bank Ltd refused to refund him the money he lost after he fell 
+victim to a fraud.
+In bringing his complaint to this service, Mr S is represented by solicitors. For ease Ill refer 
+to Mr S in my decision. 
+What happened
+The background to this complaint is well-known to both parties, so I wont repeat it all in 
+detail here. But in summary and based on the submissions of both parties, I understand it to 
+be as follows.
+Mr S met an individual (Ill refer to as B) on an online dating application. Mr S explained he 
+was introduced and persuaded by B to invest in cryptocurrency. Unfortunately, unbeknown 
+to Mr S at the time, B was in fact a fraudster. 
+Mr S set up a trading account using a broker  Ill refer to as R. Mr S says he was told by R 
+hed need to set up an account with a cryptocurrency exchange. 
+Mr Ss testimony suggests he made an initial payment of £415 which was sent to the broker 
+ R. Mr S explained that he could see his initial investment on the legitimate trading platform 
+and that this had increased. He says he was told hed made around a £200 profit, which 
+gave him confidence. He added that he could see the investment increasing and this 
+encouraged him to invest more funds. 
+Believing all to be legitimate, Mr S proceeded to make further payments via an account he 
+set up with a cryptocurrency exchange - with a business Ill refer to as C.  
+He made the following payments to his cryptocurrency exchange account: 
+25 March 2021    £395
+26 March 2021    £390
+26 March 2021    £2,370 
+31 March 2021    £6,237
+31 March 2021    £3,758
+1 April 2021         £6,005
+8 April 2021         £9,999.82
+Mr S explained that after making these payments, his profits were allegedly over £500,000. 
+Mr S realised hed been the victim of a scam when he tried to make a withdrawal and was 
+told hed need to pay £100,000 in tax. Mr S says when he questioned this, he was told if this 
+amount wasnt paid, hed be reported to the National Bank of England credit information 
+system and be sued through the courts.  
+On 9 April 2021, Mr S contacted Monzo via its chat function to report the scam. 
+Monzo reviewed Mr Ss claim but said it wouldnt refund the money hed lost. Monzo 
+highlighted that Mr S sent the funds to his own account with C and from there, he converted 
+the funds into cryptocurrency and transferred onto the fraudster. While Monzo say it 
+recognises Mr S was the victim of a scam, it doesnt consider the payments he made from 
+his Monzo account to be scam payments.
+ 
+Mr S disagreed with Monzo so brought the complaint to our service. One of our Investigators 
+considered the complaint and partially upheld it. He considered that:
+Despite the payments being made to Mr Ss own wallet with C, there were still 
+enough indicators to suggest Mr S may be at risk of financial harm by the time he 
+made the fourth payment of £6,237 towards the scam. 
+Had Monzo intervened by calling Mr S to ask further questions before processing 
+with the £6,237 payment, it wouldve been able to uncover that Mr S was the victim of 
+a scam. 
+Mr S should therefore receive a refund of the funds made to the fraudster, from and 
+including the payment of £6,237 and that Monzo should pay the account interest rate 
+from the date of the payments to the date of settlement. 
+Monzo didnt agree with the Investigators recommendation. In brief, it said the opinion 
+concludes that the account activity was unusual and suspicious, but it doesnt agree. It says 
+it is clear from the other transactions on Mr Ss account that he uses the account regularly to 
+send and receive high value faster payments. 
+It also highlighted that the opinion says it ought to have been concerned about the payment 
+(£6,237) as it was made to a cryptocurrency exchange. Monzo raises that this implies that all 
+payments to cryptocurrency platforms are inherently risky, which it says isnt the case.
+Our Investigator considered Monzos further comments but explained his position remained 
+unchanged. 
+As an agreement couldnt be reached the complaint has now been passed to me. Monzo in 
+its reply to the Investigator commented that there were incoming credits into the account, 
+which were from another investment platform. It reiterated that it doesnt consider the 
+payments Mr S made were unusual or out of character for his account.  
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Monzo doesnt consider its liable for Mr Ss losses, as the payments went to a 
+cryptocurrency account in his name. A voluntary code does exist to provide additional 
+protection against APP scams (the Contingent Reimbursement Model Code  CRM Code). 
+Monzo hasnt signed up to the CRM Code but has agreed to abide by the principles of it. 
+Ive reviewed the cryptocurrency providers platform and it appears to be a cryptocurrency 
+exchange. It does not appear to hold customer funds or cryptocurrency. Therefore, its likely 
+that rather than Mr S holding an account in his own name with C, he instructed the 
+cryptocurrency exchange provider  C  to transfer cryptocurrency to an external wallet held 
+by either himself or the fraudster. 
+To be covered by the CRM Code a payment must be a faster payment, CHAPS or internal 
+book transfer between UK-domiciled, GBP accounts. In this case, though the first step (from 
+Mr Ss bank account to the cryptocurrency provider/exchange) does meet this criteria, the second step (from the cryptocurrency provider/exchange to him or the fraudster) does not. 
+As such, the payments are not covered by the CRM Code.
+The starting position at law is that banks and building societies are expected to process 
+payments and withdrawals that their customers authorise them to make. I do note in his 
+communication with Monzo that Mr S commented that the account with C was not his, but on 
+reporting the scam to the bank he explained that after he converted his money into 
+cryptocurrency with C, he then sent the crypto onto R. So, based on what Ive seen and 
+been told, Im satisfied Mr S authorised the payments himself. This means that Monzo had 
+an obligation to follow Mr Ss instructions, and Mr S is presumed liable for his loss in the first 
+instances. But there are circumstances in which a bank should make additional checks 
+before processing a payment, or, in some cases, decline to make a payment altogether, to 
+help protect its customer from the possibility of financial harm.
+So, in this case, I need to decide whether Monzo acted fairly and reasonably in its dealings 
+with Mr S, when he made numerous payments from his Monzo account to the 
+cryptocurrency provider/exchange over the course of around two weeks, or whether it should 
+have done more than it did.
+Nonetheless, as Ive noted above, there are some situations in which Monzo should 
+reasonably have had a closer look at the circumstances surrounding these transactions. I 
+consider that as a matter of good practice, Monzo shouldve been on the lookout for unusual 
+and out of character transactions. Ive thought about what Monzo could therefore reasonably 
+have had knowledge of at the time these payments were made.
+Ive considered whether the payments made by Mr S were significantly out of character or 
+unusual. While the payments Mr S made went to an intermediary rather than directly to the 
+fraudster, scams involving transfers to cryptocurrency accounts were well known to banks by 
+this time and I therefore think that where payments were also out of character, potential 
+losses were foreseeable to the originating bank. 
+When considering what payments should be considered significantly out of character, its 
+often a finely balanced matter  and banks have a difficult balance to strike between 
+identifying transactions where there are indications of higher fraud risks, and allowing 
+customers to utilise their accounts with minimal unnecessary disruptions. 
+Monzo has commented that it isnt the case that all payments to a cryptocurrency platform 
+are inherently risky. I agree with what Monzo has said here - in that a payment in and of 
+itself to a cryptocurrency platform doesnt mean that a bank should question its customer 
+about every transaction to a cryptocurrency provider. However, it should do so where it 
+identifies a transaction that is otherwise out of character and unusual for the particular 
+customer. 
+Ive looked at Mr Ss account statements from January 2020, up to the scam payments. 
+Having done so, I dont think the first three payments Mr S made to C ought to have flagged 
+with Monzo as potentially suspicious or an indication that he mayve been a risk of financial 
+harm. I say this because I dont find the first three payments to be so remarkable in value 
+that it ought to have put Monzo on notice. However, on balance, I think the fourth payment of 
+£6,237 to C was sufficiently unusual from Mr Ss previous account activity. This is because 
+Im persuaded there was a pattern emerging to the cryptocurrency exchange whereby the 
+value of the payments were increasing within a short space of time. There were numerous 
+incoming credits into the account before the payment of £6,237 was made. And after it was 
+made Mr Ss account balance was significantly reduced. I do note that Mr S had made other payments, prior to the scam payments which were not too dissimilar to the payment of 
+£6,237, but from what Ive seen those were made to longstanding payees which he regularly 
+paid. 
+Here, Mr S had set up a new payee to a cryptocurrency exchange around seven days 
+before. Hed made three previous payments to the cryptocurrency exchange, prior to the 
+payment of £6,237 and it was much larger than the previous payment of £2,370. Our 
+Investigator further acknowledged that Mr Ss account balance regularly fluctuated, which I 
+also note. But when taking everything into account, Im persuaded there were several factors 
+which together was suspicious and indicative of fraud. It follows, that Im satisfied there was 
+enough going on in the specific circumstances of this case that, Monzo shouldve identified 
+that Mr S was potentially at risk of financial harm when he asked to make the payment of 
+£6,237. 
+Having identified when I wouldve reasonably expected Monzo to have intervened, Ive gone 
+on to think about whether intervention would have made a difference in this case.
+If Monzo had fulfilled its duties by asking suitably probing questions, there is no reason to 
+doubt that Mr S would have explained what he was doing  as I can see that he did when 
+reporting the scam. 
+In such circumstances, whilst Monzo had no duty to protect Mr S from a bad investment or 
+give investment advice, it should have asked Mr S some further questions to ascertain 
+whether he was likely to be at risk of financial harm from fraud. Ive thought carefully about 
+the sorts of questions Monzo shouldve asked, bearing in mind the features of investment 
+scams at that time.
+Cryptocurrency scams have become a common type of investment scam and given what 
+regulators and law enforcement have said over the years, Id expect firms (like Monzo) to 
+have more insight into the operation of scams involving crypto from 2019 (i.e. after Mr S 
+made his payments). And by December 2020, dating/romance investment scams were 
+known to the banks.
+Against this backdrop, Id have expected Monzo to ask Mr S some questions to see if there 
+were any signs that this was an investment scam. Had it done so, Im persuaded Mr S 
+wouldve explained that he was intending to purchase cryptocurrency and that the 
+cryptocurrency was to be invested. And from there, Monzo should have identified how Mr S 
+found out about or came across the investment. I think it is likely he wouldve said that he 
+met someone recently online and had encouraged him to invest. Upon receiving this 
+information from Mr S, had he been advised that fraudsters utilise dating apps to entice 
+people  I think it would have resonated with Mr S. Im also persuaded that the likely 
+answers Mr S wouldve given, had he been asked questions about the payments he was 
+making, wouldve highlighted to Monzo that he was investing in a high risk, unregulated 
+trading platform through a broker. This is a hallmark of this type of scam, which I think the 
+bank ought fairly and reasonably to have picked up on. 
+It follows that Im persuaded intervention by Monzo at the point Ive identified would have 
+uncovered the scam and prevented any further loss to this scam. 
+I have also thought about whether Mr S should bear some responsibility for his loss by way 
+of contributory negligence (which might justify a reduction in compensation). And overall, I 
+dont think he should. I say this because, I dont think Mr Ss actions, or inactions, fell far 
+below the standard expected of a reasonable person. Here, Mr S fell victim to a romance/ 
+investment scam. In these types of scams there is an element of separation between the 
+person thats been met online and the broker of the trading platform, which creates the impression that the two parties are not in cahoots with each other  merely that the person 
+thats been met online was sharing an opportunity. Further, Mr S has explained that he 
+believed the broker had helped him set up an account with a legitimate trading platform. This 
+he says further convinced him that the broker was also legitimate. This combined with other 
+aspects, such as, Mr S being able to see his initial trade increasing on the platform and 
+being able to see his further investments reflected on the trading account added to the 
+sophistication of the trading platform. All in all, Im persuaded Mr S was simply the victim of a 
+sophisticated and cruel romance/ investment scam. It follows that I dont think any deduction 
+should be made.
+Paying interest 
+With the above in mind, I think the bank should pay interest on the money Mr S has lost, 
+from and including the payment I have outlined above. I say this because, the money he lost 
+to this scam otherwise would have remained in the accounts the funds originated from, such 
+as his current account with another bank and/or would otherwise have been spent  and so 
+Mr S has been deprived of the use of this money. 
+I am aware the money that was sent to the fraudsters originated from different accounts  a 
+current account with another bank and, Mr S also withdrew funds from another investment 
+hed made. Mr S was asked questions about the investment which he withdrew funds from, 
+but other than a response to say hed put money into the investment no specific detail about 
+the investment has been provided  so in my recommendations, I am making a pragmatic 
+award based on the information available to me. 
+It is on this basis; I think the bank should pay interest on each payment at the relevant 
+interest rate on the account where the funds originally came from. 
+Putting things right
+Monzo Bank Ltd should now:
+Refund the money Mr S has lost from the scam, from and including the payment of 
+£6,237 (I calculate this to be £25,999.82) 
+Pay interest on each payment at the relevant account rate(s) applicable to the 
+account(s) the funds originally came from, from the respective dates of loss to the 
+date of reimbursement. 
+ If Monzo considers that its required by HM Revenue & Customs to deduct income tax from that 
+interest, it should tell Mr S how much its taken off. It should also give Mr S a tax deduction certificate 
+if he asks for one, so he can reclaim the tax from HM Revenue & Customs if appropriate.
+My final decision
+My final decision is that I uphold this complaint in part against Monzo Bank Ltd.
+ 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr S to accept or 
+reject my decision before 10 January 2023.
+ 
+Staci Rowland
+Ombudsman

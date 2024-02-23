@@ -1,0 +1,478 @@
+K821x#15complaint
+I issued a provisional decision in this complaint about Nationwide  Building Society on 21 July 
+2021. It contains the relevant background information and sets out my provisional  findings. 
+For completeness, a copy is annexed  to this final decision. 
+background
+In brief summary, I was minded to uphold this complaint about disputed transactions
+(for the purchase of binary options) on the basis that they ought  reasonably  to have  triggered
+Nationwides potential  fraud alerts. Ifin line with various regulatory duties (and good 
+industry practice)Nationwide  had contacted Mr W before  executing  his payment 
+instructions, most of his losses would probably  have been prevented.  
+For example, a warning  about the high-risk of scams  associated  with binary-options trading 
+and the published warning about  the merchant  (72Option) would probably  have  caused  Mr 
+W to investigate such unlicensed,  unregulated  investments and/or the purported trader more 
+closely  and stopped him from making further  payments.
+I did think Nationwide could reasonably have been triggered by the initial payment, so the 
+total award I had in mind (net of interest  and/or tax deductions) was £2,000.
+The above  is not a substitute for my full reasons, so I would urge the parties to re-read my 
+provisional decision (below) before proceeding.
+responses
+Mr W did not have anything further  to add and accepted the provisional decision.  
+Nationwide disagrees  with my provisional decision and has made  further submissions. I 
+have carefully read and digested those submissions in full and Ive summarised the key 
+points, using Nationwides points of dispute  headings:
+Was it a scam? Mr W invested in a scheme  that involved gambling  in hope of making  
+a profitable return. The non-return of his funds  or any winnings is not, in itself, 
+evidence that it was a scam and there may have  been  another  reason  the disputed  
+payments were not returned to him. In order to fall within  the definition of a scam 
+there needed to have  been dishonest representations to Mr W about the purpose of 
+the payments  or who Mr W was paying.  The IOSCO alerts do not describe or indicate 
+72Option was operating a scam. It is yet to be established conclusively some  four 
+years later that 72Option was operating a scam and so it would not have been  
+reasonable for Nationwide  to conclude this at the time of the payments. 
+Was Nationwide under a duty to intervene? Some of the alerts  postdated  the 
+payments. And the alert that was in place  prior to Mr Ws first payment stated 
+72Option was suspected  of operating without authority under British Columbia 
+legislation and binary options  were  not classed as securities  or regulated  financial 
+products at the time of the payments. Nationwide fails to see how this alert could or 
+should have prompted  the Society to suspect that 72Option  was trading fraudulently. 
+The alert did not reference they were operating a scam. It simply recommended that 
+customers should exercise caution when  dealing with 72Option. The only visible alert 
+was the one registered with British Columbia Security Commission  and this alert was 
+Ref: DRN06963582not published on the IOSCO portal at the time.  
+Constructive notice  the application of the doctrine of constructive notice to a 
+banking transaction  is inappropriate and incorrect. The doctrine of constructive notice 
+is a principle developed through equitable  law whereby a person without actual 
+notice of some matter is, in certain circumstances (and, typically, where they have  
+acted recklessly), treated as if they had actual notice of it. Mr W wanted  to invest in 
+binary options in order  to make money  and had carried  out some  online research. 
+Nationwide cannot be held to have had knowledge of it when Mr W didnt  have the 
+opportunity to research binary  options. Mr W did not realise  that 72Option  had no 
+intention of returning his money until several  months after the payments. 
+The FSAs 2012 consultation paper refers  to gathering timely and detailed 
+intelligence about  investment fraud typologies. It then goes on to list a number of 
+sources which could  feed into an investment fraud  watchlist   including the IOSCO 
+investor alert portal as a non-prescriptive example source for other jurisdictions. 
+Nationwide is a UK based firm without established  international  operations.  In those 
+circumstances, expecting  Nationwide  to monitor and base payment interventions on 
+a specific international database because that database is referenced in an FSA 
+paper aimed at a wide variety of firms  is not suitable  or reasonable. The practicalities 
+of monitoring alerts issued by foreign regulators  and implementing automatic blocks 
+is an onerous requirement and almost  impossible to implement effectively because  
+merchants can and do trade under a variety of names. 
+With a card payment,  the only indication it receives to suggest  the type of merchant  
+is the 4-digit Merchant  Category Code (MCC), in this case  6211 Security  
+Brokers/Dealers. This would be the same  code used by stockbrokers and share  
+trading firms and high value transactions are common. If Nationwide  wanted to block  
+a merchant, it would have to convert the merchant  name on the customers 
+statement to something  unique  it uses a combination of the Visa merchant ID and 
+the acquiring bank  ID. Its the equivalent  of the sort code  and account  number. It 
+wouldnt carry out this activity until it had identified a problem  with a specific  
+merchant affecting  its members. None of the warnings suggested the firm was 
+marketing in the UK and the FCA didnt  issue their warning until March 2018.  
+Nationwide doesnt  think its reasonable to anticipate warnings for its national 
+regulator and act on information  from foreign regulators that may be irrelevant to its 
+members. 
+Unusual transaction  It didnt  find the disputed payments  to be unusual  and it 
+doesnt understand how this was concluded.  In July 2021, 517 Nationwide debit  card 
+members made  a payment of £5,000 or more to MCC 6211 (Security  
+Brokers/Dealers) and 124 of them made  more  than one payment (one in four). The 
+total paid in July was £10m by 4,797 unique cardholders  an average of £2,099 and 
+1.3 transactions per member. None  were fraud  or scams, so its a very low risk MCC. 
+Did Nationwides failure  to intervene cause the loss  Nationwide does not 
+understand or agree with the basis of my finding  that Mr W wouldnt have continued 
+with the payments if Nationwide  had contacted him. The only information  Nationwide  
+could have provided at the time was derived  from the IOSCO  investor  portal and 
+there is no indication  that Mr W would not have proceeded with the payments based  
+on this, particularly in view of the fact that he had already been considering the 
+investment and carried out his own research. 
+Ref: DRN06963583Did Mr W contribute  to the loss? Mr W had the benefit of researching 72Option prior 
+to entering into the transaction,  whereas Nationwide did not and was not required to. 
+Mr W should have known  there  was a high level of risk and that he would not see a 
+return on his funds  in light of his research. He paid a total of £6,000  to 72Option  
+which was a sizeable sum. There was no indication  that Mr W was pressured into 
+making a large payment at short  notice.  Therefore, the redress that Nationwide is 
+required to pay should be reduced on the grounds  that he contributed  to his loss. 
+findings
+I have reconsidered  all the evidence and arguments in light of Nationwides  response in 
+order to decide  what is fair and reasonable in all the circumstances of this complaint. Having 
+done so, I remain  of the view that this complaint should be upheld   for the reasons that 
+follow:
+1.I addressed whether  72Option had operated  a scam under point 3 of my provisional 
+findings (below). I have  taken  account of Nationwides response on this preliminary  
+point. But it is wrong to suggest that the issue has to be determined  conclusively. 
+Even though considering issues of fraud or deceit, this is still ultimately a civil 
+dispute, not a criminal trial  so I only have to decide  matters  on the balance  of 
+probabilities, not beyond  reasonable doubt. It is a relatively low threshold. So Im still 
+persuaded that there is enough credible data for me to conclude, on balance, that 
+72Option was running a scam.  
+2.At the time of Mr Ws payments, binary  options  companies operating within  the UK  
+whether physically or remotely   required licensing by the UKs Gambling  
+Commission. In December 2016, the Gambling Commission said An unlicensed 
+operator is likely to be acting illegally. They will not abide by any code of conduct  and 
+have no incentive  to deal fairly with you. Unlicensed operators are likely to use false 
+names, false addresses and contact  numbers  they can disappear  with your money 
+and without a trace, making recovery impossible.  Ive noted 72Option was not 
+licensed by the UKs  Gambling Commission, or in any other jurisdiction (so far as Im 
+reasonably aware),  at the time it contracted with Mr W. Ive also noted  that several 
+regulators published warnings about 72Option,  including the FCA. Im satisfied a 
+regulator would require enough credible  information to publish a warning about a 
+company operating  without registration. Registering an IOSCO warning would also 
+require an additional step for that particular regulator as to warn other jurisdictions of 
+its warning of a particular company. So Im satisfied enough effort  has been taken by 
+various regulators to alert potential  investors/regulators across multiple jurisdictions 
+about dealing  with 72Option. 
+3.I also pointed out in the provisional decision  which Nationwide  has not contradicted  
+ that there is quite  a lot of hearsay or circumstantial evidence about  this trader 
+operating a scam. It would be unfair and unreasonable  for an informal ombudsman 
+scheme, not bound  by strict rules of evidence, to ignore so much credible 
+information. Again, this is not a criminal trial but semi-formal alternative dispute  
+resolution. Taking all of this together,  I am still persuaded 72Option was operating a 
+scam.
+4.The IOSCO  states: The date next to the name  of the IOSCO member is the date 
+when the alert or warning was posted  on this list. The British Columbia Securities 
+Commissions warning about  72Option  was published on the IOSCO investor alert 
+Ref: DRN06963584portal on 13 December  2016, so I do not accept Nationwides assertion that the alert 
+post-dated the disputed  transactions in April 2017.  
+5.Nationwide suggests that it would be unreasonable and onerous for it to review 
+information published by foreign regulators because it is a UK-based firm without 
+international operations and this information may be irrelevant to its members. I 
+reviewed ten Nationwide complaints  relating to payments taken between 2016-
+2018  at random that fall within the category of a binary options scam. Of those ten 
+complaints, nine related to merchants operating overseas (including another  
+72Option complaint) and one complaint related to a merchant operating in the UK. I 
+think its safe to conclude that most scams that relate to binary options and 
+Nationwide customers (that occurred within a particular timeframe)  related to 
+merchants based overseas.  So at the very least, Nationwide  ought to be aware of 
+credible information  that is published  by its own regulator and regulators overseas. 
+6.I agree  it would be an onerous task for Nationwide to trawl through  each international 
+regulators individual register. But international regulators, as well as Nationwides  
+own regulator, regularly  publishes  warnings on a central list  being the IOSCOs 
+investor alert portal and Nationwides regulator  (the UKs FCA) suggested this was a 
+good source for firms  to build their own watchlists. I dont  think  it is an onerous  task 
+for Nationwide  to update its own internal watchlist within one month of regulator 
+warnings being published as this ought to give it enough time to carry out the 
+necessary steps internally. I take Nationwides point that sometimes merchants 
+operate under various names  but this point isnt relevant to Mr Ws case as 
+72Option was the name listed on Mr Ws transaction statements. Having concluded 
+binary options scams were well documented by credible sources at the time of Mr 
+Ws payments and there was a published warning about  72Option on the IOSCOs 
+investor alert list several months  prior to his payments,  I still find that Nationwide had 
+constructive if not actual  notice  that the payee  may not be legitimate and ought to 
+have reasonably taken steps to flag the payment  and investigate it further, including  
+making contact with Mr W.   
+7.Regarding Nationwides comments on the application of the equitable principle  of 
+constructive knowledge, this service has a broad fair and reasonable jurisdiction  
+which takes account of equitable  principles (amongst other things). It is fair and 
+reasonable (or equitable) for regulated firms to be deemed to have notice of certain  
+facts in the public domain  and this is a stance ombudsmen have been taking since  
+the inception of our statutory  scheme  in 2001 (and prior to that under relevant 
+predecessor schemes). 
+8.In relation to the unusual and uncharacteristic payment,  I found  the payments ought  
+reasonably to have  triggered alerts because they were being made to a suspected  
+scammer on an international watchlist, not because the amounts were particularly 
+large. It is also important to appreciate that some  smaller transactions  may still flag 
+as unusual or uncharacteristic for that particular  customer and/or account depending 
+on the relevant,  recent history. Here, we had a near-octogenarian customer  who 
+suddenly started  spending not insignificant sums with a high-risk  merchant  abroad  
+that was subject to an international alert. This was out of character for him and, in my 
+view, ought reasonably to have raised suspicions at Nationwide given its wide-
+ranging regulatory obligations  to guard  against the risks of fraud and financial crime. 
+Ref: DRN069635859.Nationwide reference a review of several  hundred customer payments made  in July 
+2021 that were  processed using the MCC 6211  (which was the MCC used  in Mr Ws 
+transactions). Of these cases Nationwide didnt find any reported scams. As I 
+explained in my provisional decision  at point 8, Visa required all unregulated  and 
+unlicensed binary options merchants  (like 72Option) to re-code under a high-risk  
+gambling MCC from 1 December 2018.  Visa explained that appropriately licensed 
+binary options merchants could continue  to operate under MCC 6211. Based on this, 
+Nationwides findings of the payments it reviewed was unremarkable  and not relevant 
+to the matter at hand as Mr Ws payments  occurred  in 2017, prior to Visas re-coding 
+expectation. 
+10.Nationwide suggests a warning  from it would not have made  Mr W do anything  
+differently. Thats because all it could have warned him about was the IOSCOs 
+investor alert about 72Option. I dont agree. Im satisfied  the mention of Mr W trading 
+in binary options  ought to have sounded  alarm  bells for Nationwide.  It ought to have  
+been aware of common binary-options  scams  through  its own customer complaints 
+and information  published by other credible sources as referenced in point 17 of my 
+provisional decision, to have enabled  it to have given Mr W an appropriate warning. 
+11.Ive considered Nationwides  final point that Mr W should bear some of the loss 
+because he researched  72Option  at the time he transacted with it, so ought to have  
+been aware of the high risks involved with binary-options trading. I dont place much 
+weight on this point  from Nationwide  because of the information  imbalance between  
+financial professionals  and ordinary consumers. Mr W was almost 80 years of age at 
+the time he transacted with 72Option  and I dont  think he could have  reasonably 
+known it was a scam.  Nationwide is more familiar with the level of sophistication 
+involved with this type of scam and Mr W was prompted to pay more money onto his 
+platform after seeing his trading account making profits. I dont think  he could have 
+reasonably known that what  he was likely  seeing was no more than a simulation. In 
+Nationwides submissions, it provided email  conversations  between 72Option and Mr 
+W. In these conversations, Luke from 72Option told Mr W on 13 April 2017 (prior to 
+his Nationwide  payments)  that his funds  will be insured under our risk free trade 
+agreement. Meaning that if we experience any losses  throughout the trades, the 
+funds will be injected  back into your account as a bonus from the firm. Making this a 
+win win scenario . Unless prompted to think otherwise by a trusted  source (such as 
+his building society), I think Mr W was sufficiently satisfied  at the time he deposited 
+money with 72Option  that his funds  would be safe and managed  by who he believed 
+to be a financial professional. It follows that I remain unpersuaded  that Mr W shares 
+blame for what happened, so make  no reduction  in his award. 
+Ref: DRN06963586final decision
+For the reasons  set out above and before, I have decided to uphold this complaint. I 
+therefore require  Nationwide  Building Society  to refund to Mr W all of his stolen payments 
+(totalling £2,000). 
+This was a current account,  so Nationwide should add interest  to that sum (less any tax 
+properly deductible) at 8% simple per year, from the respective dates of loss to the date of 
+refund. 
+Under the rules  of the Financial Ombudsman Service,  I am required to ask Mr W to accept 
+or reject my decision before 3 October  2021. 
+Dolores Njemanze
+Ombudsman
+Ref: DRN06963587copy of provisional decision dated 21 July 2021  -
+complaint
+Mr W complains about his building society, Nationwide  Building  Society.  He says Nationwide 
+failed to protect him from financial harm caused by a company called 72Option.
+He alleges they were scammers  posing as binary-options traders, as a result of which he
+lost around £6,000. 
+Nationwide denies  responsibility for the loss. Its position, broadly,  is that Mr W authorised  all 
+the payments  to 72Option  and by the time he contacted it to report the scam, it was too late 
+for a chargeback claim  to be processed.
+There were two disputed  transactions of £1,000 each debited from Mr Ws current  account 
+with Nationwide   linked  to his Visa debit card. The remaining £4,000 was taken from an 
+account Mr W held with another banking provider. Mr W believed he was trading in binary
+optionsessentially a win-or-lose bet on the performance of commodities (etc)and that he
+was making very good profits based  on the information shown on his 72Option  online
+platform. When Mr W tried to withdraw funds from his trading platform, he was unable to. Mr 
+W now believes  the platform was nothing  more than manipulated software or a video game  
+and not linked to real-life trades. The total amount in consideration in this decision is the 
+disputed Nationwide  transactions  totaling  £2,000. 
+my findings
+Upon reading  all the available evidence and arguments from both parties, I have  
+concluded that it would be fair and reasonable partly to uphold this complaint  for the 
+following reasons:
+1.Not every complaint  referred to us and categorised as a binary-options scam is in 
+fact a scam. Some cases simply involve high-risk investment  bets  on the 
+performance of (e.g.) commodities or stocks that resulted in very disappointing 
+returns or losses. Some binary-options  traders promoted these productswhich 
+were not regulated by the Financial  Conduct Authority (FCA) or its predecessor  at 
+the timeusing  sales methods that were arguably  unethical and/or misleading. 
+However, whilst  customers  who lost out may understandably  regard such acts or 
+omissions as fraudulent,  they do not necessarily meet the high legal threshold or 
+burden of proof for fraud, i.e. dishonestly making  a false representation and/or 
+failing to disclose  information with the intention of making a gain for himself  or of 
+causing loss to another or exposing another to the risk of loss (Fraud Act 2006).
+2.Banks, building societies and other Payment Services Providers (PSPs) have  
+duties to protect customers against  the risk of financial loss due to fraud and/or to 
+undertake due diligence on large transactions to guard against money laundering 
+(see below). But when simply executing authorised  payments, they do not have  to 
+protect customers against the risk of bad bargains or give investment advice  and 
+the FCA has confirmed that a fraud  warning would  not constitute  unauthorised 
+investment advice (see its predecessors  2012 consultation paper on investment 
+fraud, below). So, the first question to resolve is whether this particular retailer/trader  
+was actually a fraudster.
+Ref: DRN069635883.I am satisfied that 72Option were not carrying out legitimate binary-options trades  
+but were instead  dishonestly  defrauding  customers,  e.g. by not actually making 
+trades/bets with the money  received  from clients but simply manipulating their online 
+trading platform to show purported gainswith  initial token pay-outsin order  to 
+induce further investments from victims such as Mr W. In the absence  of evidence 
+to the contrary,  I have  concluded this because:
+a.In 2017, binary-options traders operating in the UK were required to be 
+licensed by the UKs  Gambling Commission  whereas Markets Cube were  
+not. Nor were they regulated in any other jurisdiction so far as I am 
+reasonably aware. This indicates they were operating  illegally, probably with 
+dishonest intentions. Legitimate  firms tend to comply  with regulatory 
+requirements.
+b.On 13 December 2016, a warning about  72Option was placed on the 
+Investor Alerts Portal of the International Organization of Securities  
+Commissions (IOSCO). The British Columbia Securities Commission  of 
+British Columbia reported that they were offering financial services  in its 
+jurisdiction without  authorisation.  Warnings  from Australia and Hong Kongs 
+regulators also published warnings in 2017 and the FCA published a 
+warning in March 2018. 
+c.There are several reports in the public domaine.g. foreign press and 
+online forumsstating  that 72Option were scammers. This hearsay is not in 
+itself sufficient evidence  of fraud. But in the context of known regulatory  
+facts, it may fairly and reasonably be regarded as circumstantial  evidence  
+that helps build an overall picture  of scammers dishonestly seeking  gains at 
+the expense of others.
+4.Having concluded  that this was a scam rather than just a bad bargain or poor 
+investment advice, I must now go on to consider four more issues in order to 
+determine the outcome of the complaint:
+a.Did Nationwide deal with Mr Ws chargeback claims fairly?
+b.If so, were any of the disputed transactions still so unusual or 
+uncharacteristic for Mr W and/or his account  that Nationwide  fraud  alerts  
+ought reasonably  to have triggered  some  sort of intervention?
+c.If triggered, would Nationwides  intervention have made a difference and 
+prevented or reduced the loss?
+d.And if so, was Mr W partly to blame for what  happened such  that it would 
+be fair and reasonable to reduce compensation proportionately?
+chargeback
+5.Chargeback is a voluntary scheme run by Visa whereby it will ultimately  arbitrate on 
+a dispute between the merchant  and customer if it cannot be resolved between them 
+after two presentments.  Such  arbitration  is subject to the rules  of the scheme   so 
+there are limited grounds on which a chargeback can succeed. Our role in such 
+cases is not to second-guess Visas arbitration decision or scheme rules, but to 
+determine whether  the regulated card issuer (i.e. Nationwide)  acted fairly and 
+reasonably when presenting (or choosing not to present)  a chargeback  on behalf of 
+its cardholder.
+6.Mr W is upset  because Nationwide refused to process his chargeback because it 
+Ref: DRN06963589says he was outside the 120-day time limits set by Visa. 
+7.In my judgment, it was not unreasonable of Nationwide to not attempt a chargeback. 
+First, it was clear  that Mr W reported  his problem to Nationwide  too late as he 
+reported the problem in October 2017 which  was more  than 120 days  after the date 
+of his transactions. Its also clear that the problems  Mr W experienced (that he 
+couldnt withdraw his available funds) were not yet covered by the Visa chargeback 
+rules. I am mindful that the Visa chargeback rules did not cover  problems  with 
+withdrawals relating to binary-options (or forex) trading until 14 October  2017,  i.e. 
+prior to the disputed  transactions: see Visa Business News, 26 October  2017:
+Effective 14 October 2017, issuers may use Reason Code 53 to address cases  whereby 
+a binary options (or forex) merchant has imposed obstacles to prevent cardholders from 
+withdrawing funds. This chargeback right is limited to the amount available in the binary  
+option account at the time funds are requested. Issuers cannot charge  back  more  than 
+the original  transaction amount, so capital  gains from binary options trades cannot be 
+paid out via the chargeback process
+..The 120-day chargeback time limit will be counted from the date the cardholder 
+expected to receive the merchandise or services, rather than the date of the transaction, 
+up to 540 days  from the date of the original transaction.
+8.Though not material to the circumstances  of this case, it is worth adding  for 
+completeness that, from 1 December 2018, Visas rules  changed  again  to require 
+binary-options merchants  (and other high-brand  risk merchants ) to be coded under 
+Merchant Category Code (MCC) 7995Betting, including  Lottery  Tickets,  Casino  
+Gaming Chips, Off-Track Betting,  and Wagers at Race Tracks. Visa Business News 
+dated 6 September 2018 stated:
+Visa has discovered that certain binary  options, rolling  spot forex  trading, financial spread  
+betting and contracts for difference merchants are being acquired in markets  that do not 
+require licensing or regulate merchant trading platforms. In addition,  some of these  
+merchants are selling into countries where  local laws prohibit such transactions  or require  
+licensing by the relevant financial  services  authority.
+9.Given that the disputed transactions in this case occurred in April 2017, before the 
+changes to Visas rules were published,  Nationwide could only have successfully 
+presented a chargeback claim if 72Option had expressly promised Mr W a guaranteed  
+return contrary to the realities of such high-risk  trading. And there was no evidence 
+they had. So, declining  to process  a chargeback claim in circumstances where there  
+was no dispute  right available to Nationwide  was neither an unfair  nor unreasonable  
+exercise of Nationwides discretion.
+10.For the reasons  set out above, I am not persuaded that Nationwide acted unfairly or 
+unreasonably in connection  with the chargeback claim at the time Mr W presented 
+his case, so I cannot uphold this complaint on that ground.
+unusual or uncharacteristic activity
+11.Nationwide is aware of our general position  on a PSPs safeguarding and due-
+diligence duties  to protect customers  from the risk of financial harm due to fraud. We 
+have published  many decisions on our website setting out these principles and 
+quoting the relevant  rules and regulations. It is unnecessary to rehearse them again 
+Ref: DRN069635810here in detail.
+12.It is common ground that the disputed payments were authorised by Mr W for the 
+purposes of the Payment Services Regulations  2009 (the Regulations),  in force at 
+the time.  This is because they were made  by Mr W using the legitimate security 
+credentials provided to him by Nationwide. These  must be regarded  as authorised 
+payments even though Mr W was the victim of a sophisticated scam. So, although 
+he did not intend the money to go to scammers, under the Regulations, and under 
+the terms and conditions of his account, Mr W is presumed liable  for the loss in the 
+first instance.
+13.However, taking into account  the law, regulatory rules and guidance, relevant 
+codes of practice and what  I consider to have  been good industry practice at the 
+time, I consider Nationwide  should fairly and reasonably:
+Have been monitoring accountsand any payments made  or received to 
+counter various  risks, including anti-money-laundering, countering  the financing  
+of  terrorism, and preventing fraud and scams;
+Have had systems in place to look out for unusual transactions or other  signs 
+that might indicate its customers were  at risk of fraud (amongst other things). 
+This is particularly so given the increase in sophisticated fraud and scams in 
+recent years, which banks  and building societies are generally more  familiar 
+with than the average customer; and
+In some circumstances,  irrespective of the payment channel used, have taken 
+additional steps, or made additional checks, before processing a payment, or in 
+some cases  declined  to make a payment altogether, to help protect customers  
+from the possibility  of financial harm from fraud.
+14.I am satisfied there were enough triggers in this case  to have alerted a responsible 
+regulated firm such as Nationwide that Mr Ws account was being subjected  to 
+unusual and uncharacteristic  activity. There were reasonable grounds to suspect a 
+fraud or scam, and therefore justify an intervention  (such as phoning him in order  to 
+ask discreet questions about  the nature and purpose of the payments).
+15.First, regulated firms  ought reasonably to take notice of common types  of scams. As 
+long ago as June 2012, the FCAs predecessor indicatedin its consultation paper 
+entitled Banks Defences Against  Investment Fraud: detecting perpetrators  and 
+protecting victims that it was good  industry  practice for firms to build up an updated 
+watch-list of types of scams and potential perpetrators; and regularly to share timely  
+and detailed intelligence with other banks, UK and overseas regulators, the police, 
+etc. Whilst the regulator gave  no specific timings, it is not unreasonable  in my view to 
+expect a large firm to update its watch-list and communicate internally to staff within, 
+say, one month of an alert being  posted  by the FCA or IOSCO. In my judgment, such 
+alerts should automatically trigger alarm-bellsand lead to the payment being 
+pausedpending further enquiries (and a possible scam warning) to the payer.
+16.In Mr Ws case, there was a warning  about 72Option on IOSCOs Investor Alerts 
+Portal from 13 December 2016, which was before the first payment on 16 April 2017. It 
+is not unreasonable to expect a large  firm that regularly updates  its internal  alerts to 
+include information about payees who had tried to carry out regulated  activities  without 
+permission. I accept  that the warning did not specifically relate to binary-options 
+Ref: DRN069635811trading; and it did not necessarily follow from the nature  of the warning in isolation that 
+these were fraudsters. But given the timing  of the alert relative to the first payment, I 
+think Nationwide ought to have automatically  blocked it. Nationwide  had constructive if 
+not actual notice that the payee might not be a legitimate merchant  therefore, it 
+would have been reasonable for it to have properly questioned Mr W before 
+processing his first payment in order to satisfy itself that all was well.
+17.If Nationwide had fulfilled its duties and carried out due diligence  by contacting Mr W 
+and asking suitably  probing questions, there is no reason to doubt that he would 
+have explained  what he was doing.  In such circumstances, whilst Nationwide  had no 
+duty to protect  him from a bad bargain  or give investment advice, it could have 
+invited him to check whether the payee was registered with the Gambling 
+Commission. It could have also explained  its own customer experiences  with 
+merchants like 72Option  in that customers would  often be prevented  from 
+withdrawing available balances. After all, at that time, there was information in the 
+public domainwhich a building society ought to have  known even if a lay consumer 
+ought notabout the very high risks associated with binary  options  including  many 
+warnings of potential  fraud (e.g. Action Frauds June 2016 warning; the European 
+Securities and Markets Authoritys July 2016  warning; the Financial  Conduct  
+Authoritys consultation paper of December 2016;  and the Gambling Commissions  
+December 2016 scam  warning that an unlicensed operator is likely  operating 
+illegally, and so forth).
+18.There is no evidence that Nationwide provided Mr W with any meaningful 
+warnings or gave him other reasons to doubt  the legitimacy of the payments he 
+was making. It was a missed opportunity to intervene.
+causation
+19.If Nationwide had asked Mr W what the payments were for and the basic  
+surrounding context,  it is likely he would  have fully explained what  he was doing and 
+that everything had been done  over the phone and online with his broker. 
+Nationwide did not need to know for certain  whether Mr W was dealing  with a 
+fraudulent binary options trader or investing  in a legitimate  (albeit highly speculative) 
+product; reasonable grounds  for suspicion are enough to trigger a firms  obligations 
+under the various  regulations and principles of good  practice.  I consider there were 
+such grounds here and, therefore,  that Nationwide  ought reasonably to have 
+provided a scam  warning in light of all the information then known to financial 
+professionals about the risks associated with unregulated,  overseas binary  options.  
+20.If Nationwide had given a warning, I believe that Mr W would have  paused  and 
+looked more closely  into 72Option before proceeding.  There is no evidence  that he 
+was willing to take high risks or had a history of speculative investments or 
+gambling. It seems more probable that he would  have  made  further enquiries into 
+binary-options scams and whether or not 72Option  were regulated  in the UK or 
+abroad. He could  have discovered they were not and the various regulatory 
+warnings about the risk of binary-options scams (see above). In other  words,  I am 
+satisfied that a warning from his trusted building society would probably have 
+exposed 72Options smoke and mirrors, causing him to stop and prevent any 
+losses.
+Ref: DRN06963581221.Even if he had not worked out that this was a scam, it is likely that a warning  would 
+have prompted  greater research into binary options,  which in turn would have 
+revealed the truth behind his supposed brokers (mis)representations  i.e. that 
+they were not really  regulated UK investments but highly-risky  international bets 
+more akin to a wager in which  the broker must lose if he is to win. This would 
+probably have  stopped  him in his tracks.  But for Nationwides failure to act on clear 
+triggers of potential  fraud or financial harm, Mr W would probably have lost no 
+money. 
+contributory negligence
+22.Despite regulatory  safeguards, there is a general principle that consumers must still 
+take responsibility for their decisions (see s.1C(d) of our enabling statute, the 
+Financial Services and Markets Act 2000). In this case, I do not think that Mr W was 
+to blame for what happened;  that he did not foresee the risk of this sort of harm or 
+any harm. At the time of his trading,  there was information in the public domain 
+about this particular trader but you needed to understand  how to locate such  
+information, as 72Option  were still in operation. In any event, I do not place  too much  
+weight on general but arcane information  in the public domain for reasons previously 
+alluded to about the information imbalance  between  financial professionals  and 
+ordinary consumers.
+23.Up until the point Mr W was prevented from withdrawing funds from his 72Option 
+platform, his account  had seemingly been  steadily earning profits  and he had no 
+cause for concern.  Unaware that this was one of the common deceptive tactics  of 
+scammers, I do not think he could have  foreseen the risk that the company he was 
+dealing with was a scam  and the trading account  he was viewing  was likely to be a 
+simulation.
+24.In the circumstances, I do not think it would be fair to reduce compensation on the 
+basis that Mr W should share blame for what happened.
+Ref: DRN0696358

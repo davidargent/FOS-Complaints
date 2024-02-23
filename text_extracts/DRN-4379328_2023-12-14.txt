@@ -1,0 +1,214 @@
+DRN-4379328
+The complaint
+Mr W is unhappy Monzo Bank Ltd wont reimburse him for the money he lost when he fell 
+victim to a scam.
+What happened
+Mr W was contacted unexpectedly by someone on a messaging app and struck up a 
+friendship with them. They discussed cryptocurrency investments  which Mr W says he had 
+dabbled in previously  and this person told Mr W about a trading platform they used which 
+was making them significant profits. Mr W did an internet search and the platform appeared 
+to be legitimate  although there was no information available about the particular 
+investment scheme he would be using  so Mr W was reassured that this was a good 
+investment opportunity and agreed to invest himself. He says he was put in touch with 
+someone who would help him with his trading account and in November 2022 he began to 
+invest. Unfortunately, and unknown to Mr W at the time, the people he was dealing with were 
+scammers. So the payments he was making from his Monzo account to a cryptocurrency 
+account he held were then being sent on to the scammers, and not to a legitimate 
+investment.
+In total, Mr W made payments of over £27,000 to the scammers from his Monzo account.  
+£15,000 of this was funded by a loan that Mr W took out with Monzo. However, when he was 
+told hed need to pay more fees  which he could not afford  before he could make any 
+withdrawal from his investment he did some further searching online and discovered other 
+people who had fallen victim to the same scam. Its at this stage that Mr W realised he had 
+not been dealing with a legitimate investment firm. 
+Mr W contacted Monzo to tell it what had happened. Monzo wrote off the loan that Mr W had 
+taken out as a gesture of goodwill, but ultimately it told him it would not be able to refund the 
+rest of the money he had lost as it felt that the loss had been incurred from Mr Ws 
+cryptocurrency account, not from his Monzo account, and so it felt it was not responsible for 
+the loss. It did though pay him £150 to recognise that it could have handled his concerns 
+better as there were delays in Mr W being provided with a response to his claim.
+Mr W was unhappy with Monzos response and so he referred his complaint to our service. 
+One of our Investigators looked into what had happened, and ultimately they felt that Monzo 
+should have stepped in to question Mr W about the second payment he made  which was 
+for £7,500. They felt that, if Monzo had done so, then the scam would have been uncovered 
+and the majority of Mr Ws loss could have been prevented. However, the Investigator also 
+felt that Mr W should bear some responsibility for what had happened. They did not consider 
+he had done enough to ensure the people he was dealing with were legitimate, and felt there 
+were some red flags which should have indicated to him that something may be amiss.
+So our Investigator recommended that Monzo refund 50% of the payments made from the 
+second payment onwards, plus some interest.
+Mr W accepted the Investigators findings, Monzo did not. It maintains that it is not 
+responsible for the loss given that the payments from Mr Ws Monzo account were made to 
+a cryptocurrency account in his own name.
+As no agreement could be reached, this case has been passed to me for a decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so Ive reached the same conclusion as our Investigator, and for the same 
+reasons.
+The starting point under the relevant regulations (in this case, the Payment Services 
+Regulations 2017) and the terms of Mr Ws account is that Mr W is responsible for payments 
+he has authorised himself. And, as the Supreme Court has recently reiterated in Philipp v 
+Barclays Bank UK PLC, banks generally have a contractual duty to make payments in 
+compliance with their customers instructions.
+In that case, the Supreme Court considered the nature and extent of the contractual duties 
+owed by banks when making payments.  Among other things, it said, in summary:
+The starting position is that it is an implied term of any current account contract that, 
+where a customer has authorised and instructed a bank to make a payment, the 
+bank must carry out the instruction promptly. It is not for the bank to concern itself 
+with the wisdom or risk of its customers payment decisions. 
+The express terms of the current account contract may modify or alter that position. 
+For example, in Philipp, the contract permitted Barclays not to follow its consumers 
+instructions where it reasonably believed the payment instruction was the result of 
+APP fraud; but the court said having the right to decline to carry out an instruction 
+was not the same as being under a duty to do so.   
+In this case, Monzos December 2021 terms and conditions (which applied at the time of the 
+payments in dispute here) gave it rights (but not obligations) to:
+Block payments if it suspects criminal activity on a customers account. It 
+explains if it blocks a payment it will let its customer know as soon as possible, 
+using one of its usual channels (via its app, email, phone or by post)
+So, the starting position at law was that:
+Monzo was under an implied duty at law to make payments promptly.
+It had a contractual right not to make payments where it suspected criminal activity 
+It could therefore block payments, or make enquiries, where it suspected criminal 
+activity, but it was not under a contractual duty to do either of those things.
+It is not clear from this set of terms and conditions whether suspecting a payment may relate 
+to fraud (including authorised push payment fraud) is encompassed within Monzos definition 
+of criminal activity. But in any event, whilst the current account terms did not oblige Monzo to 
+make fraud checks, I do not consider any of these things (including the implied basic legal duty to make payments promptly) precluded Monzo from making fraud checks before 
+making a payment.  
+And, whilst Monzo was not required or obliged under the contract to make checks, I am 
+satisfied that, taking into account longstanding regulatory expectations and requirements, 
+and what I consider to have been good practice at the time, it should fairly and reasonably 
+have been on the look-out for the possibility of APP fraud and have taken additional steps, or 
+made additional checks, before processing payments in some circumstances  as in practice 
+all banks, including Monzo, do. 
+I am mindful in reaching my conclusions about what Monzo ought fairly and reasonably to 
+have done that:
+FCA regulated banks are required to conduct their business with due skill, care and 
+diligence (FCA Principle for Businesses 2) and to pay due regard to the interests of 
+its customers (Principle 6)1.  
+Banks have a longstanding regulatory duty to take reasonable care to establish and 
+maintain effective systems and controls for compliance with applicable requirements 
+and standards under the regulatory system and for countering the risk that the firm 
+might be used to further financial crime (SYSC 3.2.6R of the Financial Conduct 
+Authority Handbook, which has applied since 2001). 
+Over the years, the FSA, and its successor the FCA, have published a series of 
+publications setting out non-exhaustive examples of good and poor practice found 
+when reviewing measures taken by banks to counter financial crime, including 
+various iterations of the Financial crime: a guide for firms.2. 
+Regulated banks are required to comply with legal and regulatory anti-money 
+laundering and countering the financing of terrorism requirements. Those 
+requirements include maintaining proportionate and risk-sensitive policies and 
+procedures to identify, assess and manage money laundering risk  for example 
+through customer due-diligence measures and the ongoing monitoring of the 
+business relationship (including through the scrutiny of transactions undertaken 
+throughout the course of the relationship).
+The October 2017, BSI Code, which a number of banks and trade associations were 
+involved in the development of, recommended firms look to identify and help prevent 
+transactions  particularly unusual or out of character transactions  that could 
+1 Since 31 July 2023 under the FCAs new Consumer Duty package of measures, banks and other 
+regulated firms must act to deliver good outcomes for customers (Principle 12), but the circumstances 
+of this complaint pre-date the Consumer Duty and so it does not apply. 
+2 For example, both the FSAs Financial Crime Guide at 4.2.5G and the FCAs 2015 Financial crime: 
+a guide for firms gave examples of good practice in relation to investment fraud saying: 
+A bank regularly assesses the risk to itself and its customers of losses from fraud, including 
+investment fraud, in accordance with their established risk management framework. The risk 
+assessment does not only cover situations where the bank could cover losses, but also where 
+customers could lose and not be reimbursed by the bank. Resource allocation and mitigation 
+measures are informed by this assessment. 
+A bank contacts customers if it suspects a payment is being made to an investment fraudster. 
+A bank has transaction monitoring rules designed to detect specific types of investment fraud. 
+Investment fraud subject matter experts help set these rules.involve fraud or be the result of a scam.  Not all firms signed the BSI Code, but in my 
+view the standards and expectations it referred to represented a fair articulation of 
+what was, in my opinion, already good industry practice in October 2017 particularly 
+around fraud prevention, and it remains a starting point for what I consider to be the 
+minimum standards of good industry practice now.    
+Monzo has agreed to abide by the principles CRM Code.  This sets out both 
+standards for firms and situations where signatory firms will reimburse consumers   
+The CRM Code does not cover all authorised push payments (APP) in every 
+circumstances (and it does not apply to the circumstances of the payments this 
+complaint is about), but I consider the standards for firms around the identification of 
+transactions presenting additional scam risks and the provision of effective warnings 
+to consumers when that is the case, represent a fair articulation of what I consider to 
+be good industry practice generally for payment service providers carrying out any 
+APP transactions.  
+Overall, taking into account the law, regulators rules and guidance, relevant codes of 
+practice and what I consider to have been good industry practice at the time, I consider 
+Monzo should fairly and reasonably: 
+Have been monitoring accounts and any payments made or received to counter 
+various risks, including anti-money laundering, countering the financing of terrorism, 
+and preventing fraud and scams. 
+Have had systems in place to look out for unusual transactions or other signs that 
+might indicate that its customers were at risk of fraud (among other things). This is 
+particularly so given the increase in sophisticated fraud and scams in recent years, 
+which banks are generally more familiar with than the average customer.  
+In some circumstances, irrespective of the payment channel used, have taken 
+additional steps, or made additional checks, or provided additional warnings, before 
+processing a payment  as in practice all banks do.
+Have been mindful of  among other things  common scam scenarios, the evolving 
+fraud landscape (including for example the use of multi-stage fraud by scammers) 
+and the different risks these can present to consumers, when deciding whether to 
+intervene.
+Should Monzo have fairly and reasonably made further enquiries before it processed Mr Ws 
+payments?
+Mr Ws Monzo account had been open for some time and was used regularly for day-to-day 
+expenditure, so Monzo had a fairly significant background against which to compare any 
+payments. 
+I acknowledge that the payments in dispute here were to an account Mr W had paid before, 
+and to an account in Mr Ws own name, and so would have seemed less risky to Monzo. But 
+just because a payment is to an account in the consumers own name or to an account they 
+have paid before, that does not mean it bears no risk at all, and I would still expect Monzo to 
+keep an eye out for particularly high payments or those that bore other hallmarks of potential 
+fraud, even if those payments were made to another account belonging to their customer or 
+one that their customer had paid previously. 
+I say this because this kind of payment journey  where payments are made from an 
+account with one bank, to accounts in the same consumers name at other banks, e-money providers or cryptocurrency wallets, and then on to the scammer  is increasingly a feature 
+of this kind of investment scam. And I would expect Monzo to have an awareness of how 
+these scams operate and be aware of what it should be looking out for to help protect its 
+customers.
+The first payment made by Mr W was for only £10, a low amount considering how the Monzo 
+account usually operated, and so I dont think there was anything about that payment that 
+ought to have suggested to Monzo that Mr W was at risk of financial harm. But I agree with 
+our Investigator that the next payment, which was for £7,500, should have flagged as 
+potentially suspicious to Monzo, despite the fact that it was a payment to an existing payee, 
+and the account it was being paid into was Mr Ws own cryptocurrency account. I say this 
+because £7,500 was significantly higher than any other payment made from the account in 
+the previous six months, and this payment was being made to a cryptocurrency provider, 
+which  given the prevalence of cryptocurrency scams  would have been another indicator 
+that something untoward could have been going on. So, with this in mind, I think Monzo 
+should have contacted Mr W directly to ask him some questions before allowing this 
+payment to go through.
+Had Monzo done this, then I think it is more likely than not that the scam would have been 
+uncovered. Mr W doesnt appear to have been given a cover story to use by the scammer, 
+so I think that if Monzo had asked what the payments were for then he would have been 
+open and honest. And what Mr W would likely have told Monzo about what he was doing 
+should have rung alarm bells for Monzo, given that these types of investment scam are 
+becoming increasingly common. Monzo could then have explained the risks Mr W was 
+exposing himself to, and I consider it likely that the spell of the scam would have been 
+broken and Mr W wouldnt have proceeded with the payments. So I think Monzo could have 
+prevented the losses Mr W incurred from the second payment onwards.
+I do, however, agree with our Investigators finding that Mr W should share some 
+responsibility for what has happened here. The manner in which he was initially contacted by 
+the scammer was unorthodox, and Im not satisfied that Mr W took reasonable steps to 
+ensure that the money he was investing was going to a legitimate investment platform. So 
+with this in mind, I think its fair and reasonable for Mr W to bear responsibility for 50% of the 
+loss.
+Ive also thought about whether Monzo could have done more to recover the funds after 
+Mr W reported the fraud, but given that the money was paid to Mr Ws own cryptocurrency 
+account and was then immediately moved on to the scammers, I dont think it could have 
+done more.
+Monzo, by its own admission, did not handle Mr Ws complaint as well as it could have. And 
+as a result, it paid him £150 to recognise any distress and inconvenience caused. I consider 
+this to be fair and reasonable compensation in the circumstances of this complaint.
+Putting things right
+To resolve this complaint Monzo should:
+- Refund 50% of the outstanding loss of £12,585  representing a refund of £6,292.50
+- Pay 8% simple interest per annum on that amount calculated from the date of each 
+transaction until this complaint is settled.My final decision
+I uphold this complaint. Monzo Bank Ltd should put things right in the way Ive set out above.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr W to accept or 
+reject my decision before 11 January 2024.
+ 
+Sophie Mitchell
+Ombudsman

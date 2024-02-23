@@ -1,0 +1,118 @@
+DRN-3907384
+The complaint
+Miss Y complains that Monzo Bank Ltd (Monzo) wont reimburse payments sent from her 
+account which she didnt authorise.
+What happened
+The full details of this complaint are well known to both parties, so I wont repeat them again 
+here. Instead, Ill recap the key points and focus on giving my reasons for my decision.
+Miss Y was looking to sell an item through an online marketplace. She received a 
+notification from what she thought was its online chat service, telling her that 
+someone had purchased her item. Miss Y was told she needed to click on a link to 
+confirm details which would then allow her to receive the payment. She was also told 
+that information would be checked with her bank, and shed receive a notification on 
+her banking app, but she wouldnt be charged. 
+Miss Y followed the instructions but, rather than receiving the expected payment, 
+£364.05 had left her Monzo account. She queried this with the agent and was 
+advised that this had happened due to a system error following the website crashing. 
+Miss Y was told the money was frozen and she needed to enter the data again to 
+enable all the funds to be received. She followed the instructions and realised a 
+further £364.05 had debited her bank account. 
+Miss Y contacted Monzo and realised shed been scammed. It looked into her claim 
+and said it wouldnt refund her as shed consented to the payments by approving 
+them in the app. 
+Our investigator concluded that Miss Y didnt authorise either payment but had acted 
+with gross negligence in relation to the second transaction. They asked Monzo to 
+refund the initial payment, along with interest, and pay £100 compensation for not 
+refunding her sooner. 
+Miss Y accepted the investigators assessment, but Monzo didnt.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I agree with the conclusions reached by the investigator for these reasons:
+In line with the Payment Services Regulations 2017 (PSRs), broadly speaking, 
+Miss Y isnt liable for payments she hasnt authorised, unless she failed with intent or 
+gross negligence to comply with the terms of the account or keep her personalised 
+security details safe. And Miss Y is liable for payments shes authorised. The PSRs 
+explain that authorisation depends on whether the payment transaction was 
+authenticated correctly and whether the consumer consented to them.
+There doesnt appear to be any dispute over whether the payment transactions were 
+properly authenticated  Miss Ys security credentials were used on both occasions. 
+Thinking about consent next, the PSRs state how consent is given. It must be in the 
+form and in accordance with the procedure agreed between the consumer and the 
+payment service provider (Monzo in this case). In other words, consent is provided 
+when the consumer completes the agreed steps for making a transaction or allows 
+someone else to complete them.
+It is my understanding that Miss Ys card details and other payment information (such 
+as the amount) were entered to initiate the transactions. Then, her PIN was entered 
+on the banking app to complete the transactions. Having considered the available 
+information, Im not persuaded that it was Miss Y who entered her card details and 
+other payment information to initiate the transactions. She did share her card details 
+on the link the scammer sent her, but she did so with the understanding that these 
+were needed in order to receive the payment. 
+Monzo argues that Miss Y consented to the payments as she entered her PIN on the 
+app on both occasions. It submits that its terms and conditions, which Miss Y agreed 
+to, set out how a customer can consent to making a payment, and entering the PIN is 
+one of the methods. But Miss Y didnt enter her PIN with the understanding that she 
+was consenting to a payment. Rather, she thought that this was part of the procedure 
+to receive payment for an item she was selling. Its also important to note that 
+entering the PIN alone isnt enough to execute a payment  additional steps, such as 
+entering the card details and payment amount, are needed. And I can see that 
+Monzos terms appear to acknowledge this (see Info the merchant may need to take 
+the payment). 
+Given that I find Miss Y didnt complete all the steps to make the payments or 
+consent to someone else completing them on her behalf, despite Monzos position on 
+the matter, the payments are unauthorised. 
+Miss Y could still be held liable for payments she didnt authorise if she failed with 
+intent or gross negligence to comply with the terms of the account or keep her 
+personalised security details safe. I dont find that Miss Y intentionally failed to keep 
+her account or security details safe. She entered her card details to receive a 
+payment, not realising that this information could be used by the scammer to initiate 
+a payment. And she didnt share her PIN; she entered it into her own banking app.
+In relation to the first payment, I dont find that Miss Y failed with gross negligence 
+either. She was selling an item through a marketplace that shed not used before. 
+She provided her card details to receive payment for an item she believed shed sold. 
+The scammer told Miss Y that entering her PIN on the app was part of the payment 
+receipt process. In the context of what Miss Y was told by the scammer, I can see 
+why in that moment she was persuaded to enter her PIN to receive the payment. 
+Monzo argues that the app notification clearly set out that the payment was 
+outbound. It has provided a sample screenshot which it says is just like the one 
+Miss Y would have seen. Ive carefully reviewed it, but the screenshot makes no 
+reference to the transaction being outbound. And while it displays an amount, its 
+unclear whether a transaction executed in a different currency (as happened in 
+Miss Ys case) would have shown the amount in that currency or the amount 
+converted in sterling. Miss Y has told us she recalls seeing an amount in a different 
+currency. This might explain why she may not have realised that the transaction amount was higher than what she was expecting to receive when she entered her 
+PIN. Regardless, I dont think Miss Ys actions in that moment fell so far below what a 
+reasonable person would have done such that I think they amount to gross 
+negligence. And so, Miss Y isnt liable for this transaction, meaning Monzo needs to 
+reimburse her alongside interest to compensate her for the time shes been out of 
+pocket.
+Thinking next about the second payment, the scammer told Miss Y to follow the 
+instructions again as the system had crashed. This time, they instructed her to make 
+a payment equal to the amount that had erroneously debited her account. The 
+scammer went as far as to suggest that Miss Y top-up her Monzo account to enable 
+the payment. These were red flags, and they ought reasonably to have given Miss Y 
+cause for concern that her Monzo account was at risk. But she disregarded that 
+obvious risk by proceeding with the scammers instructions and that led to the money 
+being taken from her account. I find that Miss Ys actions were significantly careless, 
+and so shes liable for this transaction. That means Monzo doesnt need to reimburse 
+her.
+Monzo ought to have reimbursed Miss Y the first transaction much sooner and this 
+caused her inconvenience as she was left without money for a period. Additionally, 
+shes been put through the time and trouble of pursuing this matter and thats caused 
+her to worry about getting her money back. I agree with the investigator that £100 
+compensation is a fair reflection of the impact of that.  
+Putting things right
+To put things right, Monzo Bank Ltd needs to:
+reimburse Miss Y the first unauthorised payment transaction of £364.05;
+pay 8% simple interest per year on that amount, from the date of the unauthorised 
+transaction to the date of settlement (less any tax lawfully deductible); and 
+pay Miss Y £100 compensation for her distress and inconvenience.
+My final decision
+For the reasons given, my final decision is that I uphold this complaint. I require Monzo Bank 
+Ltd to put things right for Miss Y as set out above.
+Under the rules of the Financial Ombudsman Service, Im required to ask Miss Y to accept 
+or reject my decision before 2 March 2023.
+ 
+Gagandeep Singh
+Ombudsman

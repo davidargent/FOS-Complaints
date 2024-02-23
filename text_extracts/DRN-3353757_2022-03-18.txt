@@ -1,0 +1,185 @@
+DRN-3353757
+The complaint
+Mr G says Barclays Bank UK PLC (Barclays) is using incorrect formulas on its Smart 
+Investor platform. Consequently, certain important data is incorrect meaning he cant use the 
+platform to its full potential and so he must conduct his own calculations.
+What happened
+Barclays moved Mr G from its Stockbrokers to its Barclays Smart Investor platform. He says 
+this relatively new facility had many teething troubles but most have now been sorted out. Mr 
+G complained to Barclays in October 2019 about several issues related to the new platform. 
+It sent him its final response in November 2019. But he remained concerned about one issue 
+in particular.
+Mr G used the Smart Investor platform to manage his Self-invested Personal Pension (SIPP) 
+and Individual Savings Account (ISA). He said the analysis section wasnt correctly 
+displaying the Capital Return (CR) and Gross Return (GR) percentages relating to the 
+individual investments held in his pension plan.
+Mr G said this made it difficult for him to know how his investments were performing. He said 
+the GR percentage was probably the most important figure for managing his portfolio. And if 
+the figures were correct it would make it much easier for him to manage his investments, 
+save him a lot of time calculating the figures manually and improve the performance of his 
+SIPP.
+Barclays investigated the issue further and on 26 March 2020 it said:
+[your] examples were extensively reviewed by our developers, and having completed 
+their own investigation, they believe, from their perspective, the formula is performing exactly 
+how they would have expected.
+The formula used in the calculation was signed off by senior management, the business 
+and our developers. I appreciate you have your own formula for calculating the Gross Return 
+and Capital Return, and you have an expectation of how that should be done. However, 
+what youre asking us to change is a business model to suit an expectation that you have.
+To manage your expectations, the formula will not change at this time; however, I want to 
+assure you I have passed your feedback, and your simplified calculation over to our 
+developers for further review. I cant tell you how long this will take; however, I can tell you 
+our research centre is reviewed regularly, and your feedback will be included as part of any 
+future review.
+You highlighted in your email, you previously told me to refer to a qualified accountant; 
+however, Im sorry to advise this is not something we would do. The analysis section is not 
+designed to be an accountancy tool. It is simply a tool to research and compare your assets 
+against each other. I escalated your examples to the highest level possible, and I have been 
+unable to evidence there has been any error by Barclays.
+Mr G wasnt satisfied with Barclays response, so he brought his complaint to this Service. 
+The Investigator didnt uphold his complaint. He thought Barclays had looked into the issue 
+and found that its calculations worked as it wanted them to. Mr G didnt think wed got to 
+grips with his case properly and he disagreed with the outcome.
+Mr Gs complaint has been passed to me to review. Given the to and fro on his case, to be 
+fair to both parties I issued a provisional decision which gave them two weeks to make any 
+final representations in response to my initial findings. Mr G disagreed with my conclusions 
+and reiterated his arguments. Ive considered his submission in arriving at this final decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Where theres conflicting information about what happened and gaps in what we know, my 
+role is to weigh the evidence we do have and to decide, on the balance of probabilities, 
+whats most likely to have happened.
+Ive not provided a detailed response to all the points raised in this case. Thats deliberate; 
+ours is an informal service for resolving disputes between financial businesses and their 
+customers. While Ive taken into account all submissions, Ive concentrated my findings on 
+what I think is relevant and at the heart of this complaint.
+Im not upholding Mr Gs complaint. I know he will be disappointed. But Ill explain why Ive 
+arrived at my conclusion.
+Mr G says he pays for Barclays services and the analysis section of its platform is a part of 
+its offering. He needs it to work correctly. Mr G says its difficult to assess the financial 
+impact the problem has had on him, but that its made it more difficult and time consuming to 
+manage his portfolio.
+Mr G says it should be a simple matter to look down the column showing the GR percentage 
+to compare the performance of his individual investments but this isnt possible because 
+Barclays is using the wrong calculations. Mr G says hes provided Barclays with what he 
+says are the correct formulae, so it should be easy for it to implement a change to the 
+computer program to correct its mistakes.
+Barclays provides users of its platform with definitions for the measures in its report. CR and 
+GR are described in the following terms (bolding is my emphasis):
+Capital Return  Percentage rate of return on the investment within the selected date range. 
+Excludes any interest, dividends and capital gain distribution payments. Calculated as the 
+true time-weighted rate of return (TTWRR)
+Gross Return  Percentage rate of return on this investment within the selected date range. 
+Includes any interest, dividend and capital gain distribution payments. Calculated as the 
+true time-weighted rate of return (TTWRR)
+Both parties have sought to get at the nub of the discussion by simplifying the CR and GR 
+formulae to understand the differences between them.
+Barclays technical team has confirmed its formula for CR and GR are as follows:
+Capital Return = (Closing Value - Opening Value - Income) / Opening Value * 100
+Gross Return = (Closing Value  Opening Value) / Opening Value * 100Mr G says the formulae are wrong and so produce incorrect information. He says the 
+simplified formulae should read:
+Capital Return = [ (Closing Value - Opening Value) / Opening Value] * 100
+Gross Return = [ (Closing Value + Income - Opening Value) / Opening Value] * 100
+I note Mr G has sought professional advice on this matter from a financial firm he subscribes 
+to for investment insight services. He set out the two sets of formulae without attribution and 
+asked for its advice about which approach was correct.
+The guidance he received was in the following terms:
+Capital return shows how much a share price has risen or fallen over a specific period. This 
+is the correct calculation: [ (Closing Value - Opening Value) / Opening Value] * 100
+Total return is capital return + any income paid, such as dividends.
+Gross returns show the total return from an investment before expensesIt can get a bit 
+confusing as some people talk about return of capital which is either dividends or share 
+buybacks and not the capital return.
+I think this opinion from the third party firm is interesting for two reasons. It seems to endorse 
+Mr Gs understanding of the definition of capital return. But it also shows that labels and 
+definitions vary across the sector. For example, what Mr G considered GR (albeit using 
+Barclays label) was understood by this separate firm as Total Return.
+Ive also read the internal investigation notes from Barclays complaint team. It seems to me 
+it did try to obtain a comprehensive answer from colleagues within the business for Mr G, but 
+was somewhat pushed back on several occasions. The following responses from the 
+technical side mustnt be taken out of context, but they do help illustrate the issues the 
+complaint handling team were having:
+19 March 2020 apologies for delay with providing you the explanation but as noted before 
+these calculations are too complex and time consuming for investigation.
+27 March 2020 I appreciate that there has been a lot of information and debate on this 
+[matter], however the process that the platform currently uses has been signed off by 
+Barclays and would require any change to be directed through your own Programme Team 
+[We] will not be amending the current coding / logic on the platform as this is a fundamental 
+part of the platform which has had no issues raised previously.
+I should note at this point our Service isnt a checking service, we dont employ accountants 
+to check platform calculations.
+I did ask Barclays to provide Mr G with a better explanation of how the investment 
+performance data definitions it has set out on its platform, marry with how the formulae work. 
+It responded by stating it had already given him the information it could. And it stood by its 
+approach.
+Mr G says he isnt making any claim of financial loss flowing from the issue he has with how 
+the Smart Investor platform works. He says while Barclays hasnt provided the full service it 
+shouldve, the incorrect CR and GR percentages are only a very small part of the service. He 
+says its the only part of his online account that doesnt work correctly.
+Mr G went on to tell us the analysis section of Barclays platform and the CR and GR data 
+are a useful, but not a critical part of Barclays overall services. Hes told us the figures he 
+needs are easy to calculate. He noted that in his experience all online platforms have their drawbacks and there is no perfect platform. And thats why he continues to be a customer of 
+Barclays.
+The outcome Mr G is seeking is for Barclays to change its Smart Investor Platform so the 
+that the analysis section incorporates the formulae he says are correct.
+Theres an argument that if Mr G had used the information from the platform as the basis for 
+decision making and had suffered a financial loss because hed relied on incorrect 
+information, then Barclays might have a case to answer. Was the information it was 
+providing through its platform clear, fair and not misleading?
+But much would hang on the terms and conditions on which the analysis facility was held out 
+to Mr G. And we know Barclays has said the purpose of the analysis section of the Smart 
+Investor platform is as a tool to aid users to compare assets performance against each 
+other. Its not an accountancy tool. 
+Consideration of Mr Gs own actions and judgements would also need to be taken into 
+account. For example, he says Barclays has already told him he mustnt take any investment 
+decisions based on the analysis section of the website.
+In any event, Mr G has made clear hes not alleging financial loss. He recognises the 
+analysis section is a small component of his overall service package. Mr G hasnt evidenced 
+how he couldve achieved improved performance of his SIPP had Barclays platform 
+operated differently. Indeed, hes aware of the issue and can use the basic data to derive the 
+information he requires.
+This Service is not the keeper of industry investment performance data definitions or the 
+approver of formula used in firms platforms. What Mr G considers is the correct formula for 
+a given calculation, isnt necessarily universally accepted. What seems clear is that there are 
+a range of different approaches to these matters across the sector.
+I think its a business decision for Barclays how its investment platforms should work. 
+Presumably it will be aiming for a facility which is useful to customers, highly rated by them 
+and provides it with some competitive advantage.
+In his last submission Mr G said:
+The basic formulas I have given you are correct and this has been corroborated by an 
+external source. Barclays are wrong. For some reason Barclays are defending this 
+indefensible position but this is not unusual for a large bureaucratic organisation. I refer 
+you to the current scandal regarding the Post Office and its insistence that their Horizon 
+Computer System was infallible which resulted in innocent people going to jail! Are you 
+falling into the same trap?
+Mr G refers to the failure of the Post Office accounting system. A well-publicised scandal 
+which led to the wrongful suspension and prosecution of hundreds of sub-postmasters. The 
+system underpinned fundamental business processes. It had to be used by postmasters in 
+their day to day work. And they wouldnt have been informed about how formulae in the 
+software worked.
+In contrast, Mr Gs case concerns a tool Barclays has made available to its investment 
+customers, which hes aware doesnt produce calculations related to the performance of his 
+funds in the way hed like. Hes been told about how the formulae are constructed. It hasnt 
+caused him financial detriment. And hes been told not to rely on the tool for his investment 
+decisions.I think the average person would tend to disagree with the comparison Mr G seeks to make.
+I dont think Barclays would knowingly provide a service which had the potential to cause 
+harm to its customers. If financial detriment was caused then its likely it would face many 
+complaints and if shown to be at fault, would have to put matters right.
+Barclays says its not received any complaints like those raised by Mr G about the analysis 
+section of its Smart Investor platform. Its logged his feedback and keeps the operation and 
+functionality of its facility under review.
+I recognise Mr G wants Barclays to change its platform so that the calculations he wants are 
+available because this will help how he manages his SIPP and ISA investments. But its not 
+unreasonable for Barclays to take into account its business needs, including the interests of 
+all its customers.
+Finally, Id note an important aspect of our Service - whether a complaint is upheld or not - is 
+that it provides a good source of intelligence to businesses about operational issues that 
+they will often reflect on. Further, all our decisions are published, ensuring these matters are 
+in the public domain.
+My final decision
+For the reasons Ive already set out, Im not upholding Mr Gs complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr G to accept or 
+reject my decision before 15 April 2022. 
+Kevin Williamson
+Ombudsman

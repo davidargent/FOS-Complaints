@@ -1,0 +1,156 @@
+K822xcomplaint
+Mr Q complains that Barclays  Bank  UK PLC (Barclays) rejected an international payment 
+into his UK account.
+background 
+I issued a provisional decision on 11 December 2018. Barclays have agreed to my 
+provisional findings. Mr Q said he agreed  with my findings and also mentioned some 
+additional points  for me to consider, which Ive done.
+my findings
+Ive considered all the available  evidence  and arguments to decide  whats  fair and 
+reasonable in the circumstances of this complaint.
+In his response to my provisional decision,  Mr Q says that, early  on while Barclays were  
+investigating the transaction, he worked out that the SWIFT code had changed without  him 
+realising. He says he raised this with Barclays as the possible cause of the problem. I have 
+no reason to doubt this. Indeed, later on, Barclays themselves said that the change in 
+SWIFT code was the reason  the transaction failed. But as I set out in my provisional 
+decision, I dont  think it was the SWIFT code which caused the problem here.  I think it was 
+the change to the International Bank  Account Number (IBAN).
+Mr Q has also said that he couldnt  see any manual  intervention  or any difference in the data 
+entry between the failed transaction and the previous successful transactions.  This is 
+because the manual intervention happened within Barclays, during the processing of the 
+transaction. The information  supplied  by Mr Q / his bank in Saudi Arabia was the same  as 
+for previous transactions, as Mr Q has said. So the new IBAN wasnt input by the sending  
+bank and ultimately that is what led to the manual intervention by Barclays.
+Mr Q has also said that the funds were put on hold for six days before arriving back  in his 
+bank account  in Saudi Arabia. I appreciate Mr Qs frustration  here,  but when I looked into 
+this I found that the delay wasnt caused by Barclays so it wouldnt be fair for me to ask them  
+to do anything about that.
+Ive taken into account all of these points as well as the other issues  Mr Q has raised. But I 
+havent seen anything which changes my view of what needs  to be done  to put things right 
+here. So I still think that additional  compensation of £100 is the fair outcome here.
+my final decision
+For the reasons  above, and as set out in my provisional decision (attached  below), my final 
+decision is that Barclays Bank UK PLC must now pay £100 to Mr Q (in addition  to the £100 
+in total already paid) as compensation  for the further distress and inconvenience caused  to 
+him.
+Under the rules  of the Financial Ombudsman Service,  Im required to ask Mr Q to accept or 
+reject my decision  before 1 March 2019.
+Ref: DRN71191842Katy Kidd
+ombudsman
+Ref: DRN71191843Copy of provisional  decision
+Complaint
+Mr Q complains that Barclays Bank plc (Barclays)  rejected an international payment  into
+his UK account.
+Background
+In April 2018,  a payment of 95,000 Saudi Arabian Riyals  (SAR) was sent by Mr Qs bank in
+Saudi Arabia  to his Barclays  account in the UK. But the payment was returned by Barclays
+before it reached  Mr Qs account. The money left the Saudi Arabian  account  on 25 April
+2018 but didnt arrive back there until 2 May 2018. At that point  the funds  were converted
+back from Sterling into SAR.  Due to the change in exchange rate over those few days, the
+amount Mr Q received  back  was only 88,533.89 SAR, a difference of around £1,250 from
+the amount originally transferred.
+Mr Q contacted Barclays to find out why the money had been returned.  Barclays werent
+able to trace  the funds  at first and then werent  able to explain why they had been returned.
+Mr Q made a formal complaint  and was given differing information over the course of that
+complaint as to why the money didnt reach his UK bank  account.
+Mr Q believes the money was returned due to a mistake by Barclays and would like them to
+cover the loss of £1,250.  He had previously  received payments into his Barclays account
+from Saudi Arabia without any problem, the most recent one being  in December 2017.
+Barclays issued a final response  letter in June 2018. In that letter  they said that the money
+didnt arrive because  the bank in Saudi Arabia used the wrong SWIFT  code. Also, the
+address quoted in the beneficiary address field didnt  match the address Barclays hold for Mr
+Q. So they sent the money  back and asked  the remitting bank to resend it using the correct
+SWIFT code and address.
+Barclays also said in their final response letter that the transfer in December 2017 was
+successful because  the remitting bank hadnt quoted the wrong SWIFT code.  That meant
+the payment wasnt picked up for any additional checks to be made.
+They said they hadnt made a mistake but acknowledged  their poor customer service in
+dealing with the issue and the time it took the find out what had happened. They credited
+£50 to Mr Qs account as an apology  for the distress and inconvenience caused and another
+£50 to cover  his call costs, in recognition  of the time he had spent  trying to find out what  had
+happened. Mr Q wasnt happy with this outcome and brought his complaint to this service.
+When our adjudicator looked into it, he thought that Barclays had dealt with the complaint
+fairly and he didnt ask them to do any more.  Mr Q wasnt  satisfied with that view and asked
+for the case to be referred to an ombudsman.
+my provisional  findings
+Ive considered all the available evidence and arguments to decide whats fair and
+reasonable in the circumstances of this complaint.
+Barclays have said that use of the wrong  SWIFT code was the main  reason  the payment
+was rejected. They said the wrong  SWIFT  code  wasnt  used for the payment in December
+2017. But the paperwork shows that the same SWIFT  code was quoted by the Saudi
+Arabian bank on both occasions. And that code was out of date on both occasions, as the
+bank statements from the time show.
+Barclays told our adjudicator  that the December payment was successful because it was
+Ref: DRN71191844sent to a third party UK bank  first and then forwarded  as a CHAPS payment to Barclays.
+They said that with CHAPS  payments, the SWIFT code isnt needed. Instead  the information
+relied on was Mr Qs account number  and sort code which were shown  correctly.  So in
+December, it didnt  matter  that the SWIFT code was wrong.
+I asked Barclays a bit more  about this to understand why the April payment wasnt treated in
+the same way, particularly as the paperwork indicated that this had also come via a third
+party bank. Barclays confirmed  that the April payment  did come through  the same third party
+UK bank. It was also passed  on by CHAPS.  But it was rejected  and sent back  to the third
+party bank.
+Barclays have told me that a structural reform process took place after December 2017. As
+part of that, International Bank  Account Numbers (IBANs) were  changed. As a result,
+international payments to Barclays  customers in the UK which use the wrong (old) IBAN are
+stopped for repair. This means that there is manual  intervention by a processing  team at
+Barclays, who can correct the IBAN. At the same time they check the beneficiary details.
+Barclays have told me that the wrong IBAN was used on the April transfer.  The payment was
+therefore stopped for repair but was rejected because there was no address  given and the
+account name  didnt match their records. This differs from what they said before,  which was
+that the address was wrong. They hadnt previously  said anything about the account  name.
+And they had said it was the wrong SWIFT code which  caused the payment to be rejected.
+So there are a number of inconsistencies in what Barclays have said. However, they have
+been consistent about the fact that manual intervention was needed  for the April payment
+but not the December  payment. So Im satisfied  that it was the change  in IBAN and
+introduction of the repairs  process following  the structural  review which led to the April
+payment being returned.
+This leads to the question of whether Mr Q knew about the changes to the IBAN. Barclays
+have told me that letters were sent out to customers with their statements before  the
+structural reform process, advising them of the IBAN  changes.  Mr Q doesnt appear to have
+received such  a letter. However, I can see from his bank  statements that the IBAN did
+change between December  2017 and April 2018.  The statement dated  5 February 2018
+shows the new IBAN. Statements  before that date show the old IBAN,  which was used on
+the April transfer.
+Section 5 of the terms and conditions of Mr Qs account says:
+If we have to change your sort code or account number, well tell you were going to do this
+and how this will affect payments sent to, or paid from, your old sort code or account
+number. If we can, well redirect  the payment and give your new account details to the
+person or the bank making the payment so they can use them in the future .
+I would expect  Barclays  to apply this approach to changes to the IBAN.  I cant be sure
+whether a letter confirming the new IBAN  was sent to Mr Q, but he clearly wasnt aware  of
+the change. Barclays did try to direct the payment to the right account via the repair process.
+Unfortunately though,  the discrepancies of the address and account name  meant that the
+payment was returned.  Whilst  I appreciate how frustrating that would have been for Mr Q, I
+think its reasonable  for Barclays  to have these checks in place.
+I think  Barclays approach to the change in IBAN was reasonable. I also think  the additional
+checks they had in place  for verifying payments were sensible. So I dont think they have
+acted unfairly  in the way they handled the payment. There were too many discrepancies for
+them to be able to direct  those funds to Mr Qs account.
+Ref: DRN71191845As to the fact that the money wasnt received back in Mr Qs Saudi Arabian account until 2
+May, Barclays have confirmed that they returned it to the third party UK bank on 26 April. So
+I cant  do anything about the delay  as it wasnt caused  by Barclays.
+However, Im thinking of reaching a different conclusion from our adjudicator  because I dont
+think the way Barclays have dealt with this complaint has been fair. The reasons they have
+given for why the payment was rejected have been inconsistent and the explanation given in
+the final response letter  now appears to be incorrect. Mr Q should  have been able to rely on
+that so that he knew what he needed to do to ensure future  payments could be made
+successfully.
+I think  Barclays should  have  looked into this more thoroughly at the outset and explained to
+Mr Q about  the IBAN much  earlier. Instead, he has had to pursue the complaint this far in
+order to get to the bottom of the situation.  That has taken up his time and been an ongoing
+inconvenience.
+Im aware that Barclays have paid £50 to Mr Q for distress and inconvenience,  but I dont
+think thats enough  to reflect  whats  happened  here and hes had more  inconvenience since
+then. (Im aware they have also paid £50 for call costs.) Ill look at any further information  I
+receive from the parties but, unless anything changes my mind, my decision is likely to be
+that Barclays should pay a further £100 to Mr Q for the ongoing  distress and inconvenience
+caused to him by the poor handling of the complaint and wrong information given in the final
+response letter.
+my provisional  decision
+For the reasons  above, and subject to any further information I receive from the parties, my
+provisional decision  is that Barclays Bank plc must pay £100 to Mr Q as compensation for
+the distress and inconvenience caused  to him.
+Katy Kidd 
+ombudsman
+Ref: DRN7119184

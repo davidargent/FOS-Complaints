@@ -1,0 +1,111 @@
+DRN-3832756
+The complaint
+Mr E has complained that Monzo Bank Ltd held him liable for cash which he says did not 
+dispense.
+What happened
+In early 2022, Mr E requested £400 from a cash machine. He explained that the last note 
+which dispensed came out skewed sideways, and the last £20 did not dispense at all. So he 
+found hed only been given £380 when both he and the nearby shop owner counted it.
+Mr E reported this to Monzo on the same day. Monzo tried a chargeback, and when it wasnt 
+successful it held Mr E liable for the £20 he said was missing.
+Our investigator looked into things independently. They asked Monzo for further evidence to 
+show what really happened. But Monzo refused to gather it, saying it had already followed 
+the guidelines for the chargeback scheme. Our investigator upheld the complaint.
+Monzo asked for an ombudsman to review things afresh, so the complaints been passed to 
+me to decide.
+I sent Mr E and Monzo a provisional decision on 15 November 2022, to explain why 
+I thought the complaint should be upheld. In that decision, I said:
+Monzos arguments have been based primarily on MasterCards chargeback scheme rules. 
+But MasterCard are not deciding this complaint, we are. And we are not bound by the 
+chargeback scheme rules. Chargebacks are just a voluntary scheme, and are just one 
+possible way a bank can try to get a customers money back.
+As Monzo should know, we look at cases based on the relevant laws and regulations  the 
+most relevant here being the Payment Services Regulations. These require that Monzo 
+prove the disputed withdrawal was executed properly and was not affected by any technical 
+breakdown or other deficiency  i.e. that it dispensed fully and correctly, not just that it 
+debited the account successfully. And of course, we ultimately look at cases based on what 
+is fair and reasonable. Under those considerations, Monzo must be able to show that it was 
+entitled to debit the full £400 from Mr Es account, otherwise it cannot fairly hold him liable 
+for it all. I would also remind Monzo that under the Financial Services and Markets Act, it is 
+required to provide the specified evidence we consider necessary.
+So with the above in mind, the chargeback scheme rules are not really relevant here.
+Monzo has provided a journal roll for the ATM, showing that £400 was requested and that 
+the transaction was authenticated. But contrary to what Monzo has argued, it does not 
+appear to show what notes were actually dispensed, only the amount that was requested. It 
+also does not appear to specify what errors there were either way. Its main focus seems to 
+be on the authentication and cryptography, rather than what was or was not dispensed. And 
+its notable that the codes in Mr Es withdrawal differ significantly from the successful 
+withdrawals before and after  which tends to indicate that something may have gone wrong 
+with Mr Es transaction. So this journal roll does not satisfy me that the transaction executed 
+correctly, nor that Monzo was entitled to hold Mr E liable for the full amount.
+The other evidence weve asked for is standard evidence that other businesses do not have 
+such issues providing. Monzo indicated it may have its own difficulties gathering it, as its not 
+signed up to the Link scheme. But if that is the case then Im afraid thats a problem Monzo 
+needs to work out for itself  its not a problem it can fairly pass on to customers.
+The evidence weve asked for is very relevant. For example, we asked for evidence of 
+whether the ATM balanced and whether any cash was held in the purge bin, but Monzo did 
+not provide this. And without this, I cannot be satisfied that the ATM actually dispensed all 
+the cash it thought it did, or that the disputed £20 did not get stuck or otherwise fall into the 
+purge bin, and so on. We also asked for evidence from the ATM owner of whether there 
+were any other reported issues with this machine around the time, but again Monzo did not 
+provide this. So I cannot be satisfied that the machine was in full working order at the time.
+On the other hand, Mr Es testimony is  in and of itself  evidence. And his testimony has 
+been consistent and credible. Ive not found any good reason to disbelieve him. What hes 
+described  a note or two failing to dispense  can and does happen from time to time, for a 
+variety of reasons.
+In summary, Monzo has not proven that that the disputed withdrawal was executed properly 
+and without deficiency, nor has it sufficiently evidenced that it was entitled to debit Mr Es 
+account for the full amount. On the other hand, it seems both likely and plausible that Mr E 
+really did not receive the disputed £20. It follows that I currently think Monzo must refund it. 
+Really, I am unsure what else Monzo expect to achieve by refusing to evidence its own side 
+of the case.
+Monzo pointed out that there were other cases where it did not lose. But as it knows, we look 
+at each case on its individual merits. Ive explained above why I think Monzo is not entitled to 
+hold Mr E liable for the disputed amount in this case.
+Lastly, I can see that Mr E was caused some real trouble and stress in trying to get this 
+sorted out. He described how he had to explain himself repeatedly, only to get the same 
+generic responses back, and how upset it made him feel to be disbelieved based on so little. 
+And hes had to wait almost a year for this issue to be resolved, not least due to Monzos 
+incorrect approach. That needs to be put right, too. 
+I said Id consider anything else anyone wanted to give me  so long as I received it before 
+29 November 2022. Both sides replied, which Ill talk about below.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and reasonable in the circumstances of this complaint.
+Monzo explained that it had difficulties accessing the information wed asked for, and that it 
+was working things out on that front, but in the meantime it agreed to settle this particular 
+case in the way Id suggested. I appreciate Monzos point of view and Im grateful for its 
+agreement to settle things.
+Mr E reiterated how disappointed he was with Monzo  and particularly with a manager hed 
+spoken to who chose not to refund him.
+I understand Mr Es point of view, and why he may have felt like the manager was implicitly 
+accusing him of lying. I should explain, though, that in cases like these a refund isnt a matter 
+of judging the customers character; its a matter of whether the evidence supports a refund 
+or not. Monzo felt that they had strong enough evidence that they could debit the £20 from 
+Mr Es account, whereas I felt that their evidence wasnt strong enough and that it was more 
+likely Mr E had lost out. I hope I can reassure Mr E that this was not a personal matter and 
+his character was not being called into question.
+I also understand that Mr E would like that manager to acknowledge they got things wrong 
+by way of apology. The problem is that if I were to tell them to do so, it would seem forced 
+rather than genuine  theyd be saying sorry because I told them to. So we dont normally tell 
+businesses or their specific employees to do that, as it doesnt often tend to help much. 
+Instead, we commonly tell businesses to pay compensation, to acknowledge what they got 
+wrong and the impact it had. Thats why Ive awarded the additional £100 compensation 
+here  to help put right the upset Mr E felt. And as standard, banks will give their staff 
+feedback on complaint outcomes.
+Putting things right
+I direct Monzo Bank Ltd to:
+refund the disputed £20;
+pay simple interest to Mr E on the £20, at the rate of 8% simple a year, payable from 
+the date it was last debited until the date its returned. This is to compensate Mr E 
+for the time he didnt have that money.
+pay Mr E £100 compensation for the trouble and upset it caused.
+ HM Revenue & Customs requires Monzo to take off tax from this simple interest. Monzo must give 
+Mr E a certificate showing how much tax its taken off if he asks for one. Mr E may be able to claim 
+the tax back from HMRC if he does not normally pay tax.My final decision
+I uphold Mr Es complaint, and direct Monzo Bank Ltd to put things right in the way Ive set 
+out above.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr E to accept or 
+reject my decision before 27 December 2022.
+ 
+Adam Charles
+Ombudsman

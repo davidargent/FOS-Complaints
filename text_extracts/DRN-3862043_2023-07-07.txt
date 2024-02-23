@@ -1,0 +1,161 @@
+DRN-3862043
+The complaint
+Mr and Ms T complain that Citibank, N.A. did not refund a series of disputed transactions.
+ 
+What happened
+Both parties are aware of the circumstances surrounding the complaint, so I wont repeat 
+them in detail here. In summary, Mr and Ms T were scammed when attempting to sell 
+furniture online. The scammer asked for their debit card details so they could pay for a 
+courier to collect the furniture. When Ms T was told she would receive a code she says she 
+got suspicious and blocked the scammer. Despite this, three lots of £1,000 left their current 
+account with Citibank. 
+As the payments that went through were authorised using One Time Passcodes (OTPs), 
+Citibank determined that the payments were authorised. This is because the OTPs were 
+required in order for the payments to succeed. As they had reason to believe Ms T either 
+passed on or entered the OTPs herself, they felt the payments were therefore authorised 
+and did not agree to refund them. They pointed to the terms and conditions that state they 
+will not refund authorised transactions. 
+Our Investigator agreed with Citibank and did not think that they needed to refund the 
+£3,000. Mr and Ms T disagreed with this. They said that they received the texts for the OTPs 
+after the funds had already debited the account so felt the complaint should be upheld. 
+I issued a provisional decision which read as follows:
+Ive first considered if I think the payments were authorised or not. Generally, Citibank is able 
+to hold Mr and Ms T liable for the disputed transactions if the evidence suggests its more 
+likely than not that they made or authorised them themselves. This position is confirmed in 
+the Payment Service Regulations 2017 (PSRs) and the terms and conditions of the account.
+From what Ive seen, the payments were made using the genuine card details. While this is 
+important, it isnt enough on its own to say Mr and Ms T are liable for the transactions. 
+Citibank also has to show its more likely than not that Mr and Ms T made or otherwise 
+authorised the transactions themselves.
+It is not in dispute that Ms T passed her card details onto the scammer and this is how her 
+genuine card details were used to initiate the payment. There is a dispute over whether or 
+not Ms T also passed on the OTPs which were required to process the payment and this will 
+be discussed in more detail later.
+ For the purposes of this part of the complaint about authorisation, Ive considered whether I 
+think Ms T authorised for the payments to be made regardless of whether or not she passed 
+on the OTPs. 
+Ultimately, regardless of whether or not Ms T passed on or entered the OTPs herself, I dont 
+think this means, in this particular circumstance, that she therefore consented to the 
+transactions. The PSRs state how consent is given  its not something thats open to 
+interpretation. They say it must be given in the form, and in accordance with the procedure, 
+agreed between Mr and Ms T and carried out but Citibank. However, in Ms Ts case, there 
+was no agreed form and procedure between herself and Citibank as she was unaware that 
+the transactions were occurring. And she was not reasonably aware that she was consenting 
+to a payment being authorised when passing on or entering the OTPs, particularly as she 
+was expecting to receive money. So, on balance, regardless of whether or not the OTP was 
+shared by Mr and Ms T, I dont think the payments were authorised. This means Citibank 
+cannot automatically hold Mr and Ms T liable for the transactions.
+There are some circumstances, however, in which Mr and Ms T can be held liable for 
+unauthorised transactions made from their account. The PSRs say that Citibank can hold Mr 
+and Ms T liable for disputed unauthorised transactions where theyve been grossly negligent 
+in failing to comply with their obligations relating to their account. Among other things, those 
+obligations are that they must take all reasonable steps to keep safe their personalised 
+security credentials. Looking at the account terms and conditions, Citibank states they will 
+not refund an unauthorised transaction if you have deliberately or very carelessly failed to 
+keep the personalised security features of your Payment Instrument or your Account safe. 
+And I think the personalised security features includes the OTPs.
+Ive firstly considered whether I think its more likely Ms T shared the OTP with the scammer 
+or entered it herself to validate the payment. Ms T has said she received the texts containing 
+the OTPs after the funds had already debited her account, so could not have passed them 
+on or used them. Citibank has said the timings for the OTP texts being sent correspond with 
+the transactions being approved and any issues with the timing of the texts is likely due to an 
+issue with the time and date setting on Ms Ts mobile phone. 
+Ive considered the evidence available to me. Citibank has provided evidence showing that 
+OTPs were used in order to validate the three transactions. And they have provided 
+evidence that these were sent to Ms Ts mobile phone number. This alone is enough to 
+make me think its more likely Ms T passed on the OTPs or used them herself to validate the 
+payments, as it was not possible for the transactions to be completed without them. 
+Ive gone on to consider the chat log that Ms T provided between herself and the scammer. 
+In this I can see that at one point the scammer asks if Ms T had received a code, and then 
+asks her to try typing it in again. This suggest Ms T may have received the OTPs at that 
+point and was being asked to input them into the link she received.  
+Ive listened to the phone call between Ms T and Citibanks fraud department after her 
+account was blocked. In this, Ms T is asked if the transactions appear on her online banking 
+and she confirms there are three payments of £1,000 pending. The call handler asks Ms T if 
+she had received any OTPs and she confirms she had received a lot. This contradicts what 
+Ms T has said to us, that she received the OTPs after this call and after the payments 
+debited the account. I understand that memories can fade over time, but this makes it 
+difficult for me to rely on Ms Ts version of events. Based on the phone call that Ive listened 
+to, Ms T had received a number of OTPs and at that point the payments were pending, so  I 
+think its likely that the OTPs were therefore used to process the transactions. 
+Considering everything available to me so far, I currently think its more likely Ms T did pass 
+on the OTPs or use them herself to process the three transactions of £1,000. So, Ive gone 
+on to consider whether or not I think she did so very carelessly, or with gross negligence.
+In the phone call between Ms T and the fraud department at Citibank, Ms T explained that 
+she was trying to receive £50 using her Citibank card, but the message said she was trying to send £1,000. Its more likely Ms T was referencing the OTP text messages that read Citi 
+will never ask you to share this code. Your One Time Password for your transaction to 
+[merchant] for GBP 1,000 is.
+Considering this, Im satisfied that Ms T read the text message and identified there was a 
+potential risk, as she mentioned to the fraud team that the texts said she was trying to send 
+£1,000 when she was expecting to receive £50 into the account. Its therefore clear Ms T 
+noticed the discrepancy before passing on the OTPs.
+Looking at the chat logs between Ms T and the scammer, there was no time pressure placed 
+on the situation, meaning she was not being pushed to complete the sale within a specific 
+time period. So, I dont think there was a specific urgency to the transaction.
+Despite the identified risk, alongside the clear message within the texts warning her never to 
+share the code, I think its more likely Ms T passed on or entered the OTPs herself. Based 
+on what Ive seen so far, I dont consider the scam to be particularly sophisticated and with 
+the lack of urgency as well as the risk that had been identified by Ms T, I think the passing 
+on of the OTPs amounts to gross negligence. So, I dont currently think Citibank needs to 
+refund the £3,000 to Mr and Ms T.
+Ive considered if there is any other reason why it would not be fair to hold Mr and Ms T 
+liable for the unauthorised transactions, and having carefully considered everything available 
+to me, Ive not identified anything. So, for the reasons outlined above, I currently do not 
+intend to uphold Mr and Ms Ts complaint.  
+Citibank responded to the provisional decision and agreed with the findings. 
+Mr and Ms T responded with the following additional points:
+Ms T blocked the scammer prior to receiving any OTPs.
+In the initial phone call with Citibank in which Ms T was asked if she had authorised 
+any payments, she had not received any OTPs and told them that. She rang back 
+once she had received the OTPs several hours later.
+Ms T has asked how Citibank managed to stop several payments succeeding but did 
+not manage to stop the three lots of £1,000. 
+Ms T has provided evidence from her phone company stating that the time of arrival 
+of messages is as per the phone records. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Ill respond to Mr and Ms Ts additional comments. 
+Ive firstly focussed on the telephone call recording I listened to, which Ms T has indicated 
+was the second phone call that day which she made after she received the OTPs. However, 
+Im satisfied this was the initial phone call, as both the call handler and Ms T confirm she had 
+missed the previous attempted call, meaning this was the first contact made about the 
+transactions. 
+In this call, Ms T is asked whether she authorised the transactions, which Ms T has indicated 
+occurred in the initial phone call. As mentioned in my provisional decision, Ms T confirmed in 
+that initial phone call that she had received several OTPs and the payments were pending 
+on their online account. And I think its likely the OTPs were therefore used to authorise the payments. 
+Mr and Ms T have asked how Citibank managed to stop several payments but were unable 
+to stop the three lots of £1,000. This is because the OTPs were used to authorise the three 
+transactions in question, but were not used for the other attempted transactions, which is 
+why there were not authorised and therefore were unsuccessful. So, it isnt the case that 
+Citibank stopped the other payments, instead the added layer of security in the form of the 
+OTPs were not inputted to authorise the other transactions. 
+We have sent Mr and Ms T the evidence from Citibank showing the transactions were 
+authorised using the OTPs and that these were sent from 11:50am GMT. I appreciate there 
+has been some confusion caused as the statements Mr and Ms T provided show the times 
+as British Summer Time (BST), which is +1hour when compared to GMT. 
+Ms T has questioned some of this information, including that the transactions had an alert 
+level. The alert level is what prompts OTPs to be sent to the consumers mobile phone 
+number as an added layer of security, which is what happened in this case. Ms T has also 
+questioned what happened to the initial transaction of 73p, as this also had the OTP entered. 
+As this did not form part of the £3,000 loss Mr and Ms T raised a complaint about, this hasnt 
+been looked into further. And I dont think any possible issues with this payment affect my 
+findings that the OTPs were entered as the evidence suggests.
+While I appreciate that Mr and Ms T have sent correspondence from their phone provider 
+that says the timestamp on a mobile phone shows the arrival time of a message, and they 
+feel this shows they received the OTPs after the payments had been authorised, I have to 
+look at all of the evidence as a whole. Having done so, as the payments were authorised by 
+OTPs, and the only way this is possible is by the OTPs physically being used to authorise 
+the payments, Im satisfied its more likely Mr and Ms T passed on or otherwise used the 
+OTPs to authorise the payments. 
+I explained in my provisional decision why I therefore feel the passing on of the OTPs 
+amounts to gross negligence on Mr and Ms Ts part and why Citibank is able to hold them 
+liable for the payments. So, for the reasons outlined in my provisional decision, I dont think 
+Citibank needs to refund the £3,000 to Mr and Ms T.
+My final decision
+I do not uphold Mr and Ms Ts complaint against Citibank, N.A. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr T and Ms T to 
+accept or reject my decision before 4 August 2023. 
+Rebecca Norris
+Ombudsman

@@ -1,0 +1,350 @@
+DRN-4008048
+The complaint
+C, a limited company, complains that Barclays Bank Plc wont reimburse refunds processed
+through its card machine after a member of Cs staff committed fraud against it.
+Mrs E, a director of C, represents C in its complaint.
+What happened
+The detailed background to this complaint is well known to both parties and was outlined in 
+the provisional decision I issued on 3 February 2023. As such, I shall outline the key points. 
+C is a small family run business specialising in commercial catering equipment. Barclays
+provides C with merchant services. This means it processes card payments made by, and
+refunds made to, customers of C. As part of this service, Barclays issued C with a card
+machine.
+Over a three-year period, an employee of C (who Ill refer to as D) used the card machine
+Barclays supplied to C to process refunds totalling over £75,000 for their own benefit. D
+made over 300 refunds during this time with the same card details featuring repeatedly.
+Mrs E explained D worked in the accounts administration team but carried out these refunds
+without Cs knowledge or authority. She said the payments went undetected because D was
+associating the refunds to genuine clients in Cs records and processing amounts equal to
+the value of products that C sold.
+Mrs E discovered the transactions when conducting a review of Cs accounts in August 2018
+and immediately contacted Barclays to make them aware of the issue. The matter was also
+investigated by the Police. D was prosecuted and found guilty of fraud by false
+representation, resulting in a custodial sentence and almost £2,600 being recovered through
+a confiscation order. In January 2020 Mrs E complained to Barclays. She felt the bank had
+failed in its duty of care to C because it did not pick up and stop these refunds.
+Barclays concluded it was not liable to refund C, so Mrs E referred the complaint to this 
+service. Our Investigator considered the matter but didnt recommend that it should be 
+upheld. She was not persuaded that Barclays ought to have been concerned about the ebb 
+and flow of refunds through the account. She looked at the number of refunds C made 
+between November 2014 and August 2018 and didnt think the volume of refunds or the total 
+amount of money refunded was suspicious enough to require contact from Barclays. She 
+also thought that because of Ds role within the business, they could have concealed any 
+attempt Barclays could have made to intervene. She made no comment as to whether the
+transactions had been authorised by C.
+Mrs E did not accept the Investigators position. She said Barclays systems and algorithms 
+should have detected that refunds were being made to a card not previously used for any 
+incoming payment and felt that the total number of refunds, as well as their value against Cs 
+monthly turnover, ought to have caused concern to Barclays.
+As no agreement could be reached, the matter was referred for an Ombudsmans decision. 
+When the complaint was referred to me, I contacted both sides with further questions. 
+I asked Mrs E about Ds role in the business and also asked her about where the card 
+machine and its associated equipment, such as the supervisor card, were stored.
+Mrs E responded to say that D had never been given permission to process returns and was
+not originally set up to do so in Cs accounts software. She said that Ds role had been
+purely administrative. Mrs E suspects D accessed the office managers computer and 
+changed settings themselves within the accounts system, but she had no idea how D 
+obtained the log in details to do this. Mrs E added that D had never had access to any of Cs 
+bank information or emails. She said the card machine was in the middle of the office on its 
+own desk between the sales and accounts staff as that desk had its own secure phone line 
+in order to take payment from customers over the phone. Mrs E was not persuaded by what 
+had been said about it being likely that D could have intercepted any potential intervention
+from Barclays and concealed it.
+I also had further questions for Barclays. I pointed out there were notes in the banks file 
+from when it investigated that appeared to broadly recognise that Cs refund volume was 
+high and provided the relevant extract. I asked the bank to comment on why it did not detect 
+this behaviour looked very unusual at the time. I explained I felt the disputed refunds 
+represented a significant departure from the way the account for a business of this nature 
+might typically be expected to run.
+Barclays responded and provided a copy of the card machines user guide and explained
+that all of the disputed refunded were keyed in as cardholder not present transactions and
+would have required the use of a supervisor card. It explained that its system does not check 
+to ensure that only refunds matching a credit payment are processed and whilst it does have 
+system in place to monitor transactions, it would not be able to specifically check low level 
+and low value refunds. It explained that it would not be workable in practice to expect a 
+merchant acquirer to review all instances of multiple refunds being made to the same card 
+details and gave examples of when it is legitimate that multiple refunds could be made to the 
+same cardholder over an extended period of time, such as when a cardholder uses the 
+same fashion retail stores and returns items.
+It said that C ultimately has to bear responsibility for the use of the equipment and who in the
+business has access to use it, and highlighted the tools and instructions that were provided
+to C to help with reconciliation.
+I then issued a provisional decision setting out why I didnt think Barclays ought to refund the 
+disputed transactions. My provisional findings were as follows:
+Ive considered all the available evidence and arguments to decide whats fair and
+reasonable in the circumstances of this complaint.
+When doing so, Im required to take into account: relevant law and regulations, such as the
+Payment Services Regulations which apply to the refunds in dispute (the PSRs), the contract
+C has entered into, including the terms and conditions of that agreement and the card
+machine operating instructions, as well as regulators rules, guidance and standards; codes
+of practice; and, where appropriate, what I consider to have been good industry practice at
+the relevant time. Where theres a dispute about what happened, Ive based my decision on
+the balance of probabilities. In other words, on what I consider is most likely to have
+happened in the light of the evidence.
+There is no question that D utilised funds belonging to C for their own personal gain. But that
+alone doesnt mean that Barclays must refund some or all of the loss that C has suffered.
+There are two main issues that impact whether Barclays has any responsibility for refundingC. The first being whether the refunds were authorised by C and the second being whether
+Barclays ought to have intervened to question the refunds debiting the account, and, if it
+should have done, whether that intervention would have made a difference to C. Ill address
+these matters below.
+Were the refunds authorised by C?
+As provider of merchant services to C, Barclays was acting as payment service provider.
+The disputed refunds were payment transactions carried out through Cs card machine,
+which was a payment instrument.
+Both the Payment Service Regulations 2009 and Payment Service Regulations 2017 (which
+came into force from January 2018 onwards) are relevant to my consideration of this
+complaint. For ease, Ill refer to the relevant regulations as the PSRs as both regulations use
+similar wording for the key provisions that apply here.
+The PSRs provide as follows:
+A payer authorises a payment transaction when they consent to that transaction in
+line with the form and procedure agreed with the PSP.
+If a payer denies having authorised a payment transaction that has taken place, their
+PSP must prove the payment was authenticated.
+A payment service user to whom a payment instrument (a card machine, in this case)
+has been issued must:
+o Use the payment instrument in accordance with the terms and conditions
+governing its issue and use; and
+o Take all reasonable steps to keep its personalised security credentials  i.e.
+any passcodes and/or any other PINs safe.
+Where a payer did not authorise a payment transaction, the PSP must refund the
+payer. But the PSP will not be required to do so  and the payer will be liable for all
+losses  where the payer has:
+o Acted fraudulently; or
+o With intent or gross negligence failed to comply with their duty to keep safe
+all payment instruments and personalised security credentials or to use the
+payment instrument in accordance with the terms and conditions governing its
+issue and use.
+Whether a payment transaction has been authorised or not is important because account
+holders will usually be liable for payments theyve authorised and, generally speaking,
+payment service providers will be liable for unauthorised payments. If C had authorised D to
+make payments on its behalf, it would not be fair to ask Barclays to refund them.
+Neither party disputes that D followed the steps required to make the refunds using the card
+machine that had been issued to C. This means the transactions have been authenticated
+using the form and procedure for making a refund as agreed between C and Barclays in the
+terms and conditions that C agreed to when it took merchant services from Barclays. But the
+use of the card machine and its associated security processes such as the supervisor card
+to process the disputed refunds isnt in and of itself necessarily sufficient to prove that C
+authorised a payment or failed to keep its details secure.
+I also need to consider whether consent has been given by C for D to have authority to debit
+its account. The concept of giving consent to a payment is a formal one. If C permitted D to
+use its payment tools, so that it looks to Barclays like the payment transaction has been
+authorised by C, the payment can be considered authorised for the purposes of the PSRseven if C didnt ask D to make the payments and did not know anything about them. C does
+not have to give its express and explicit permission to D making each specific refund. If D
+makes the refunds by following steps that they have been given broad permission by C to
+undertake, that could result in the transactions that D went on to put through being
+technically authorised by C, even if D went further than C anticipated and in circumstances
+that had not been discussed. The question I have to decide is whether when D made the
+transactions that are in dispute, they should be treated as acting as Cs agent.
+When I contacted Mrs E recently, she explained that D had not been given any permission to
+use any of Cs payment tools and that doing so was not part of Ds role. She explained that
+D inputted invoices from suppliers and only very rarely took phone orders when other
+members of staff were busy. She added that D was not given any access to the supervisor
+card as part of their duties and suspects that D had stolen information to be able to override
+Cs accounting software.
+But when Mrs E first made the complaint, in the complaint form she explained:
+We had tried to put procedures in place for safe security and when you read [Barclays
+employee] letter he mentions that the tool for end of day readings that cross reference for
+reconciliation, this was part of [Ds] job so [they] were never going to bring that up
+My role is to determine whether Barclays is entitled to hold C responsible for the disputed
+refunds, so I have not currently seen any of the paperwork from the court case that stemmed
+from these same events. Neither Barclays nor C has provided specific details of the times
+each disputed refund was processed, which makes it harder to build a picture of exactly
+what was going on.
+If D was undertaking daily reconciliation tasks involving the end of day readings, it seems
+their role within C was more extensive and had a greater level of autonomy and
+responsibility than what Mrs E has most recently described. For D to have been able to
+access the card machine so many times across such a long period of time without arousing
+any suspicion, I consider that Ds actions when committing fraud against C must have been
+very closely aligned to their genuine duties. It does not seem feasible that D would not have
+been challenged at any point if they were repeatedly accessing a card machine kept on its
+own desk in an open plan office when they had no legitimate business reason to use it. The
+large number of refunds made, and the length of time D went undetected, makes it seem
+less likely to me that D was accessing the card machine by stealth.
+Theres no question in my mind that D abused the trust that was placed in them. But that
+does not automatically mean that the transactions are unauthorised. On balance, I think its
+more likely than not that D had been given apparent authority to transact because they were
+allowed to use and access Cs payment tools. By giving D access to its payment tools for the
+purposes of performing their duties, C has effectively put D in the situation where they can
+complete the steps required to transact on Cs behalf. But once D was given access in this
+way, any transactions D made would be seen by Barclays as being authorised and treated
+as legitimate transactions made on Cs behalf. As such, based on the evidence that
+I currently have, I can only fairly conclude that the disputed refunds were technically
+authorised by C.
+Should Barclays have prevented the refunds from being processed?
+I have thought about whether Barclays ought to have allowed all of these refunds to be
+processed. I consider it good industry practice to say that Barclays has a duty to protect
+businesses like C that use its merchant acquiring services against the risk of fraud and
+scams so far is reasonably possible. But I am also mindful that Barclays has to balance that
+with the requirement to execute payment instructions without undue delay, especiallyconsidering the many millions of card transactions made each day. It would not be possible
+or appropriate for Barclays to individually check each one.
+Mrs E has raised concerns that Barclays did not notice that the transactions being made
+were well out of line with Cs normal trading patterns and also that Barclays failed to spot the
+refunds didnt match a sale for the same amount. Shes suggested that Barclays ought to
+have contacted C about this and that doing so would have uncovered what was happening.
+I do appreciate why Mrs E feels let down. The pattern developing on Cs account does
+display risk factors, in particular the amounts being refunded were increasing in value, the
+volume of refunds increased in frequency and funds were being refunded back to the same
+card numbers repeatedly.
+However, I must also be careful not to apply the rules and standards that we might expect of
+a merchant acquirer today to the events of this case, which date back well over five years
+now. Im also mindful that merchant acquirers are predominately dealing with business
+customers and as such, the tools and techniques that the merchant acquirer uses to prevent
+fraud are weighted towards identifying transactional risk factors that may alter the original
+level of risk that a merchant represented when they were initially onboarded. I consider this
+to be a fair approach for a merchant acquirer to take.
+In our experience, merchant terminal fraud is relatively uncommon compared to consumer
+scams and a merchant acquirer is typically looking for the risk of abuse by a merchant itself
+(rather than a rogue employee). I cannot fairly say that a merchant acquirer is subject to
+exactly the same expectations to detect and prevent financial harm as a personal customer
+might expect from their retail bank or building society.
+Looking back on the way Cs account ran, and with the knowledge of how things ultimately
+unfolded, it is possible to spot early signals that could be interpreted as indications that
+things were not well. But I dont think it would have been immediately apparent to Barclays
+that there was something untoward going on.
+Whilst I agree Barclays should have identified changes in the way the account was running
+as the fraud developed, (especially by late 2017 and into 2018 when approximately £6,000 a
+month was being refunded) and that it ought to have done more to intervene to explore what
+was happening at that time, I am not currently persuaded that its intervention would have led
+to C uncovering what was really going on.
+Even if Barclays had contacted C at the point when the potential risk factors in the way Cs
+account was running were more prominent and a much clearer change in expected
+behaviour given what Barclays knew about C and its trading history in the time that it had
+been a customer, I am mindful that D covered her tracks successfully and evaded detection
+for a very long time. This fraud against C was perpetuated for a number of years. C had
+been through several annual accounting cycles over its duration and nothing concerning had
+been identified. I think C ought reasonably to have been aware that the number of refunds it
+was processing had increased significantly compared to what it would typically expect to
+refund, especially given what Mrs E said about the amount of expected refunds being
+minimal, if any at all, across a trading month. The daily reconciliation information and
+monthly statements Barclays made available to C was not onerous for it to access. If C had
+scrutinised this information with a critical eye, it ought reasonably to have been aware that
+something was amiss. By saying this, I have taken into account that businesses do vary in
+size and sophistication and that C is a small, family owned operation. But I dont think it is
+disproportionate to Cs size to say that the steps it took to monitor its own transaction activity
+did not go far enough to meet the terms and conditions of the agreement it had entered into
+with Barclays.So whilst I agree that Barclays ought to have done more than it did, I am not persuaded that
+its intervention would have led to C uncovering what was really going on. Had Barclays
+contacted C to express concern at the volume of refunds being made, it seems more likely
+than not that C would have confirmed that it was undertaking reconciliation and that the
+refunds were being made to legitimate clients. There would have been no reason to suspect
+D or to distrust any information that D may have provided as D had linked the refunds to
+genuine records. Im also mindful that C did not do enough to mitigate the risk of loss.
+I am sorry to have to disappoint Mrs E. This incident and all that has stemmed from it has
+been incredibly unpleasant. Not only has C lost a considerable amount of money, she has
+been betrayed by someone that trusted and worked closely with. Its callous that anyone
+should have to lose out in that way. But I am only able to consider whether Barclays has any
+responsibility to refund the loss. For the reasons I have explained, I am not currently
+persuaded that I can fairly conclude it does.
+Barclays did not respond to my provisional decision.
+Mrs E, on behalf of C, did not accept my provisional decision. In summary, she said:
+Wrongful assumptions had been made and it was concerning that Barclays should 
+not be held liable at any point when it is very clear this fraud could have been easily 
+stopped.
+Barclays terms require a refund to be made on the same card that was used for 
+original payment, but this term is pointless in practice because Barclays is not 
+validating the transactions. She disagreed that the refunds were small and felt it was 
+relevant to consider how these transactions were reconciled, and the level at which 
+Barclays algorithms work, as very clear patterns were missed. Mrs E explained that 
+most of the payments were over £100 and not smaller amounts like £20. She 
+suggested that a smart criminal would never make larger amounts because it would 
+be detected easily. 
+She said it was surmising to say that if Barclays had contacted C, D would have 
+concealed it. Mrs E pointed out that because Barclays never actually flagged it at the 
+time, we will never know. Mrs E said the moment the refunds were raised with her, D 
+was caught and the matter reported, so this opinion couldnt be further from the truth.
+D did not have an extensive level of autonomy and responsibility. The end of day 
+readings would have been done by the manager and Ds job was to organise the 
+receipts and attach the end of day readings together. D never did reconciliation. She 
+added that no-one doubted D enough to question her movements around the office, 
+she was very confident and trusted and, as such, no-one would have taken any 
+particular notice of what she was doing. Mrs E also pointed out that there were only 
+two computers that had specific administrative functions access in the office, but 
+there were more computers overall. 
+Mrs E stressed that D was never given authorisation to issue refunds and was never 
+given the supervisor card. Mrs E felt I had surmised and requested proof that this 
+was the case. She felt she was being called a liar. 
+Mrs E wanted to know what the rules and standards were and how they differ to now. 
+She pointed out C has not been supplied with any updated terms and conditions and 
+all of the terms and conditions she had been able to find online were from the same 
+era. 
+Mrs E felt Barclays were hiding behind its terms and conditions when it should have 
+flagged and stopped this fraud by enforcing its own obligations under the agreement. 
+She pointed out that Barclays had stopped sending statements and that it was unfair 
+that merchants were being expected to adhere to the terms and conditions but 
+Barclays were not. What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I still cant fairy instruct Barclays to refund the disputed transactions. I am 
+sorry to have to disappoint Mrs E. This is not a conclusion that I have reached lightly, and 
+I am mindful of how bearing a loss of this magnitude will impact C. 
+Some of Mrs Es points are matters that I have already considered and addressed in my 
+provisional findings. Mrs E is concerned that wrongful assumptions have been made. But in 
+cases such as this one, where the events complained about took place many years ago and 
+where the evidence is incomplete or inconclusive, as some of it is here, I must reach my 
+decision on the balance of probabilities  that is, what I consider most likely to have 
+happened given the evidence that is available to me and the wider surrounding 
+circumstances. I have thought carefully about what Mrs E has described about Ds role in the 
+business and I have no reason to doubt that what she is saying is what she genuinely 
+thought and intended for Ds role to be. But I cannot ignore that this fraud took place over 
+several annual accounting periods and was not detected by other members of staff involved 
+in reconciliation. I think it is more likely than not that Ds role in C was more extensive for D 
+to be able to hide in plain sight and access the payment tools they needed to perpetuate this 
+fraud without detection for as long as they did. 
+Mrs E is concerned that Barclays algorithms did not pick up on anything at the time. Its 
+clear from what shes said in response to my provisional decision that she considers 
+Barclays has failed C because she considers it could and should have done more. But as 
+I explained in my provisional decision, merchant acquirers are predominately dealing with 
+commercial customers and as such, the tools and techniques that the merchant acquirer 
+uses to prevent fraud are weighted towards identifying transactional risk factors that may 
+alter the original level of risk that a merchant represented when they were initially 
+onboarded. 
+The terms and conditions of merchant acquiring agreements often contain provisions that 
+are intended to prompt merchants to put in their own processes and protections at the front 
+end, such as terms requiring a refund to be made on the same card that was used for 
+original payment. Merchants are required to carry a lot of risk themselves when entering into 
+an agreement to be able to accept card payments. Whilst I appreciate Mrs Es point that this 
+could not have happened if Barclays were proactively checking refunds were being made to 
+the same card that was used for a payment, the obligations placed on the merchant and the 
+obligations of the merchant acquirer are not the same. I have to also be mindful that a lot of 
+the checks and balances that are required of merchants under the terms and conditions of 
+merchant acquiring agreements are intended to support the merchant to identify for itself 
+when there has been a potential problem with a card payment. 
+As I explained in my provisional decision, merchant acquirers are not subject to exactly the 
+same expectations to detect and prevent financial harm as a personal customer might 
+expect from their retail bank or building society. It is not unusual for a merchant acquirer to 
+place a higher level of responsibility onto a merchant for establishing and applying security 
+systems and processes. Mrs E wanted to know what the rules and standards were and how they differ to now. At the 
+time the disputed transactions took place, merchant acquirers like Barclays had to bear in 
+mind a number of regulatory initiatives, but it is only in more recent times that those systems 
+and processes are likely to impact a merchant acquirers relationship with a smaller 
+merchant. It is difficult for me to say that Barclays algorithms were not extensive enough 
+when balanced with the commercial realities of the merchant acquiring market, of which Cs 
+transactions would only form a negligible proportion of. But I dont feel I need to address 
+these points in any great detail because, ultimately, the crux of this complaint is whether any 
+intervention from Barclays would have made a difference and prevented the loss.
+I do accept that there was a marked change to Cs transactional behaviour, and I do agree 
+there was a pattern developing that was out of keeping with what Barclays knew about C 
+and the nature of its business. But even if Barclays had identified this and contacted C to 
+follow up, which could have been with the intention of protecting Barclays from potential 
+financial crime rather than C from financial harm, I am not as sure as I would need to be that 
+this intervention would have made a difference. 
+From what Mrs E has said, D was masterful at covering their tracks. Nothing that Mrs E has 
+said in response to my provisional decision has made me think it is more likely than not that 
+Ds actions would have been revealed if Barclays had intervened. Mrs E said that when the 
+accounts were prepared, D worked it to her advantage and provided any information 
+requested. I am mindful that C did not uncover what was happening for quite some time and 
+as a result missed opportunities to mitigate its losses. Its also clear that D was trusted within 
+C. I still think it is more likely than not that D would have been able to provide explanations 
+confidently and convincingly for any questions that may have been asked.
+I know this wasnt the answer Mrs E was hoping for. I can appreciate that it must seem 
+deeply unfair given what has happened and I do sympathise with all that she has been 
+through. But for the reasons I have explained above, along with the reasons set out in my 
+provisional decision and reproduced above, I am unable to fairly instruct Barclays to refund 
+the remainder of Cs loss.
+My final decision
+My final decision is that I do not uphold this complaint. 
+Under the rules of the Financial Ombudsman Service, Im required to ask C to accept or 
+reject my decision before 18 April 2023.
+ 
+Claire Marsh
+Ombudsman

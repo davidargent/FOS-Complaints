@@ -1,0 +1,125 @@
+DRN-4271703
+The complaint
+Mr S complained that hed had problems with Curve UK Limited when he disputed a 
+payment made abroad.
+What happened
+On 25 November 2022, Mr S contacted Curve to dispute a transaction for $468.58 US, 
+which had debited his account on 19 November. In the chat with Curve, Mr S said that he 
+had blocked his card, which he still had in his possession; that he hadnt transacted with the 
+merchant before; and he hadnt shared his PIN with anyone else. 
+Curve replied saying the transaction had been authorised using chip and PIN, so the person 
+using Mr Ss card knew his PIN. Mr S said no-one else would have known the PIN. He said 
+hed initially thought it was the deposit for the hotel room, but his partner later said they 
+hadnt used Mr Ss card for the room. Curve also asked why Mr S had later unblocked his 
+card, and he said hed continued using the card for a few transactions, then blocked it again. 
+Curve told Mr S the name of the merchant, which was a theme park. 
+There were further chat messages over the next few weeks. On 15 December, Curve told Mr 
+S that it couldnt treat the transaction as fraudulent because the method used for the 
+transaction was chip and PIN. So the physical card had been present for the transaction. Mr 
+S had asked what PIN had been used, but Curve replied that it couldnt view customers PIN 
+numbers, to safeguard their accounts. But there were safeguards in place to monitor card 
+transactions, which it couldnt disclose to Mr S for security reasons.
+Mr S replied that hed discovered someone he was travelling with had made the transaction. 
+That person had commented that theyd made a transaction which hadnt come out of their 
+account yet. Mr S said it appeared this person had used Mr Ss card by mistake, but with 
+their own PIN.
+Curve replied that it could see that Mr Ss correct PIN had been used. Mr S said it had been 
+the incorrect PIN and complained.
+On 11 January, Curve issued its final response to Mr Ss complaint. This set out what had 
+happened, and said the transaction would have been rejected by Curve if the incorrect PIN 
+had been used. It sent him a screenshot of the transaction. Curve told Mr S that as hes said 
+he hadnt shared his PIN with anyone, and the Curve card had been in his possession the 
+whole time, Curve couldnt treat the transaction as fraudulent.
+Curve also referred to a separate chargeback request which Mr S had made some months 
+earlier, but that complaint doesnt form part of Mr Ss complaint to us. So this decision is only 
+about the $468.58 US disputed transaction.
+Mr S wasnt satisfied with Curves final response and contacted this service. In his complaint 
+form, he said it had caused a lot of arguments between family and friends while they tried to 
+figure it out. Hed had to ask others if theyd used his card, which hadnt gone down well. 
+Hed been left with a transaction on his credit card, which was the card underlying his Curve 
+card, and as he was allowing the other person to pay it off monthly, he was having to pay 
+interest. Mr S said he wanted to know why and how his card had been used without his PIN 
+for such a large amount, and said Curves system showed the PIN was used when it hadnt 
+been. Mr S said he wanted a gesture from Curve to compensate for the stress and anger it 
+had caused. He said he doubted if Curve would reverse the transaction but it would be nice.
+During discussions, Mr S later told the investigator that his friend had said he hadnt input 
+any PIN. Hed started to, but the transaction had already been approved. He said that what 
+he really wanted to know was how and why the card could be used in this way, for such a 
+large amount, without an actual correct / physical PIN number. He said it looked as if the 
+merchant was set up so it could take a swipe or a contactless payment, and surely he should 
+have some protection for such a large amount.
+Our investigator didnt uphold Mr Ss complaint. He noted that Mr S originally said his friend 
+took his card and verified the transaction using his own PIN, not Mr Ss PIN. But Mr S then 
+told this service that his friend took Mr Ss card by mistake  but wasnt asked for a PIN at 
+all, and instead swiped the card to authorise the disputed transaction. And Mr S had also 
+sent a screenshot from the theme park saying the purchase of park tickets didnt need a PIN. 
+But Curve had provided computer evidence proving that the disputed transaction had used 
+Mr Ss PIN. And Curve had also told the investigator that any transaction over £100 would 
+be declined if it hadnt been authorised by chip and PIN. Mr S had also told the investigator 
+that his friend had taken the card from the safe they both accessed  which showed that Mr 
+S had failed to keep the card adequately secure.
+Mr S didnt accept this. He said hed been honest throughout. He said hed also told the 
+investigator that he wasnt concerned about a refund, so hed have expected that to be 
+included in the investigators view. He said the transaction hadnt been authorised with his 
+knowledge and something had genuinely gone wrong between the merchant, card scheme, 
+and Curve. He said that it appeared that it was standard practice in the country where hed 
+been, for a PIN only to be required at a cash machine. He said he felt failed by Curve, and 
+asked for an ombudsmans decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+The key information in this complaint is the computer record of the disputed transaction, and 
+Ive looked at this document carefully. The code for the relevant part of the transaction 
+record consists of a multi-digit code of letters and numbers. Each letter or number provides a 
+different sort of information. Two of these relate to how the authentication was carried out. 
+And for the disputed transaction, these codes both show that the correct PIN was entered. 
+So its not correct that the transaction went through without a PIN, or with an incorrect PIN.
+I recognise that Mr S says that it was standard practice in the country where they were 
+staying, for PINs not to be required. Hes also said that the merchant there said it didnt 
+require a PIN. But this doesnt mean that PINs are never required on any card, because the 
+card issuer (here, Curve) can require it. Thats what happened here.
+Curve told this service that cards issued in that country tend to use either a magnetic stripe, 
+or chip and signature, instead of a PIN  but that Curves cards have different requirements. 
+Curve uses a contactless limit. Transactions for more than that, including the disputed 
+transaction here, would be declined if they were attempted contactless. Curve said that the 
+disputed transaction exceeded the limit for a single contactless payment, which was why the 
+correct PIN was required. So I find that there wasnt an error by Curve. Mr Ss PIN was required in line with Curve policies, and the computer evidence shows it was entered 
+correctly by whoever carried out the transaction.
+Mr Ss version of events has varied over time, which isnt persuasive, but I recognise that 
+might have been because he was asking around about which of his travelling companions 
+used his card to carry out the transaction, and perhaps getting different responses. His most 
+recent version is that a friend carried out the transaction but didnt enter a PIN, so thats what 
+Ive considered.  But the computer evidence shows that his genuine card with its chip was 
+used, and that the correct PIN was entered. There are 10,000 possible combinations of a 
+four-digit PIN. So either Mr S had it recorded somewhere where his friend could access it; or 
+hed told the friend; or the PIN was something  such as Mr Ss birthday  which was easily 
+guessable by someone close to him.
+ Mr S said that his friend is paying him back monthly, and he isnt concerned about a refund. 
+For completeness, however, Ill explain that there are regulations which govern disputed 
+transactions. The relevant regulations here are the Payment Services Regulations 2017. In 
+general terms, the organisation is liable if the customer didnt authorise the payments, and 
+the customer is liable if they did authorise them. Here, the disputed transaction was 
+authorised using Mr Ss genuine card and correct PIN.   
+Ive considered Curves terms and conditions, to which Mr S would have signed up when he 
+opened the account. The relevant section says:
+When well be responsible. Well refund you any money youve lost as a result of:
+-any unauthorised transaction which youve promptly reported (and within 13 months 
+of the transaction), provided youve not acted fraudulently or carelessly 
+Here, I accept that its more likely than not that Mr S didnt authorise the disputed transaction 
+himself. Hes said that his friend used his card, having picked it up accidentally from the safe 
+they both used. The fact that his friend was able to access Mr Ss card, and that the friend 
+must have also known Mr Ss PIN, means that its reasonable to consider Mr S acted 
+carelessly and breached this term by not keeping his card and PIN sufficiently details 
+secure. So Curve wasnt responsible for the disputed transaction.
+Finally, in his complaint form to this service, Mr S asked for a gesture to compensate him for 
+the stress and anger this had caused him. Ive found that the transaction was correctly 
+processed in line with Curves authentication requirements, and Mr S didnt keep his card 
+and details secure in line with the terms and conditions. So I find that no compensation is 
+applicable in all the circumstances of this case.
+My final decision
+My final decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr S to accept or 
+reject my decision before 8 September 2023.
+ 
+Belinda Knight
+Ombudsman

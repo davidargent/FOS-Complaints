@@ -1,0 +1,110 @@
+DRN-3692121
+The complaint
+Miss P complains that Monzo Bank Ltd did not refund a payment she says she did not 
+authorise.    
+What happened
+Miss P advertised her sofa for sale on a website and received interest from a potential buyer. 
+The buyer sent Miss P a link and explained she would receive the funds to her debit card 
+and a courier would be in touch to arrange collection. 
+Miss P says the link asked for her card details, which she entered. It then asked for her 
+personal identification number (PIN) and she became suspicious. She declined to carry on 
+with the sale and instead insisted they use PayPal. Before she could continue, a payment of 
+£1,140.59 was taken out of her Monzo current account without her authority. Miss P raised a 
+disputed transaction claim with Monzo for the transaction.
+Monzo issued a final response letter in which it explained that payment disputes are a 
+voluntary scheme for banks, and they arent obliged to raise a dispute for a consumer. In this 
+case, based on the information available to them, they had decided not to pursue a dispute.
+Miss P referred her complaint to our service. She reiterated that she did not make the 
+transaction, which appeared to have occurred in Ukraine. 
+Our investigator looked into the complaint and upheld it. They explained that it appeared the 
+buyer, who I will refer to as the scammer, used the card details Miss P entered to add her 
+card to a Google Pay wallet. They said that while Miss P has said she didnt approve the 
+transaction, its more likely she would have approved for her card to be added to the Google 
+Pay wallet. But that she did so under the false impression she was approving for a payment 
+to be sent to her for the sofa. While this may have been careless, they did not feel it 
+amounted to the high bar of gross negligence. 
+Monzo did not accept the outcome of the investigator. They felt that the information provided 
+did not support that Miss P was the victim of a scam. As Miss P had denied entering her PIN 
+in the Monzo app to approve the Google Pay token (which would allow her card to be added 
+to the scammers Google Pay wallet), Monzo were unwilling to consider Miss Ps claim. 
+As an informal agreement could not be reached, the complaint has been passed to me for a 
+final decision.  
+  
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I uphold this complaint and direct Monzo to refund Miss P the disputed 
+transaction of £1,140.59. Ill set out my reasoning. 
+The first thing Ive considered is whether the payment itself was authorised by Miss P. 
+Generally, the starting point is that Monzo is able to hold Miss P liable for the disputed 
+transaction if the evidence suggests its more likely than not that she made or authorised it 
+herself. This position is confirmed in the Payment Service Regulations 2017 (PSRs) and the 
+terms and conditions of her account.
+In this case, Monzo has shown that the payment was made using Miss Ps genuine card 
+details, but this isnt enough on its own to say Miss P is liable for the transaction as this does 
+not necessarily show she made or authorised the transaction herself. The transaction was 
+approved via a Google Pay wallet on a separate device to Miss Ps phone. Miss P has 
+confirmed that she entered her card details after she clicked a link sent by the scammer, and 
+this would explain how they came to have her card details to add to the Google Pay wallet. I 
+therefore think Miss P did not make or otherwise authorise the individual payment of 
+£1,140.59 and this was instead authorised by the scammer.
+Monzo has shown that in order for Miss Ps card to be added to the Google Pay wallet,   
+Miss P would have had to approve this using her Monzo app. This is the point at which there 
+is a disagreement over what has happened. Monzo has said Miss P has denied approving a 
+request for the card details to be added to a Google Pay wallet. But that this is the only way 
+her card could have been added to the wallet, and as a result, they feel Miss P is 
+purposefully lying. When we asked Miss P about this, she said she didnt recall anything like 
+that happening, but she could not be sure.
+Where there is a disagreement over what happened, I have to consider all of the evidence to 
+determine what I think is more likely in the circumstances. Miss P provided screenshots of 
+the text exchange with the scammer. I can see that the scammer said they had sent the 
+money and Miss P had to click on the link to confirm the order and receive the money for the 
+sale. They also said that Miss P would have to confirm something and she would then be 
+credited with the money for the sofa. Shortly after that point, Miss P became suspicious and 
+said she would only accept PayPal to process the sale. This part of the conversation 
+occurred between 12:09 and 12:25. And the card was set up on the e-wallet at 12:11. 
+Based on the evidence above, I think the more likely scenario is that Miss P entered her 
+Monzo card details onto the fake link and then approved for the card to be added via the 
+Monzo app on her phone, thinking that she was approving for a payment to be received into 
+her Monzo account. The timing of the conversation and the adding of the card to the wallet 
+supports this, as does the nature of the scam that has evolved. I appreciate Monzo has said 
+it would have been clear Miss P was approving for a her card to be added to an e-wallet, but 
+I have to consider that she was expecting at that moment to be receiving funds on a website 
+she had not used before and was unfamiliar with. And she was not expecting to be 
+scammed or for her debit card to be added to an e-wallet. So, I can understand how she 
+could mistakenly authorise the Google Pay token.
+I think it therefore follows that while Miss Ps actions may have led to her debit card being 
+added to an e-wallet on the scammers device, she did not do so knowingly. But most 
+importantly, following that moment, I do not think Miss P then gave her authority for her debit 
+card to be used to make the purchase of £1,140.59. As she did not make or otherwise give 
+her authority for the individual payment, as per the PSRs, Monzo is unable to hold her liable 
+for it. 
+Monzo have said that Miss Ps actions were grossly negligent when she approved the 
+request for her card details to be added to the e-wallet. However, the relevant regulation 
+here is section 77(4)(d) of the PSRs. This sets out that, except where a payer has acted 
+fraudulently, they arent liable for unauthorised transactions where the payment instrument 
+has been used in connection with a distance contract (other than an excepted contract). A distance contract is a transaction that is completed without the merchant or consumer 
+being physically present. Here, the transaction was made via an e-wallet for goods in 
+Ukraine. So Im persuaded that Miss Ps debit card was used in connection with a distance 
+contract and Ive seen nothing to suggest that its an excepted contract.  
+As Ive explained, section 77(4) establishes that Miss P is only liable for unauthorised 
+transactions in connection with a distance contract where shes acted fraudulently. Based on 
+what Ive seen, theres no indication that Miss P has acted fraudulently here. I note Monzo 
+feels she has not been truthful about what she remembers when she approved for the debit 
+card to be added to the e-wallet via the app. But I dont think any possible misremembering 
+about what happened when Miss P added the debit card to the e-wallet is then relevant to 
+the following unauthorised transaction that occurred later. So, taking everything into account, 
+Im satisfied this was an unauthorised transaction, where Miss Ps debit card was used in 
+connection with a distance contract (that wasnt an excepted contract). And I therefore do 
+not have to consider if she was grossly negligent in the circumstances. 
+Based on my findings above, I uphold this complaint and direct Monzo to refund the 
+£1,140.59 and pay 8% simple interest from the date of the transactions to the date of 
+settlement.  
+My final decision
+I uphold this complaint and direct Monzo Bank Ltd to refund Miss P the £1,140.59 and pay 
+8% simple interest from the date of the transactions to the date of settlement. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Miss P to accept 
+or reject my decision before 16 December 2022.
+ 
+Rebecca Norris
+Ombudsman

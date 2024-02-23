@@ -1,0 +1,128 @@
+DRN-3982104
+The complaint
+Mrs M complains that CB Payments Ltd (CB) wont reimburse the money shes lost to a 
+scam.
+Whats happened?
+Mrs M has fallen victim to a cryptocurrency investment scam. In 2020, she says that she:
+1. transferred funds from her CB account to her Coinbase account.
+2. transferred cryptocurrency from her Coinbase account to a company Ill refer to as 
+(M).
+Mrs M subsequently discovered that M was operating a scam and shes unhappy that 
+Coinbase didnt protect her from financial harm.
+Coinbase sent a final response to Mrs M in which it said that she sent cryptocurrency to an 
+external blockchain address which it had no information about or relationship with, and the 
+transaction is irreversible.
+What did our investigator say?
+Our investigator explained that when a customer opens a Coinbase account, they enter into 
+a contract with two firms  CB and Coinbase  as explained in the terms and conditions of 
+the Coinbase account.
+CB is a regulated business and one this Service can consider complaints against, but he 
+didnt think CB had made any errors here.
+Coinbase isnt regulated by the Financial Conduct Authority (FCA) because it only deals 
+with cryptocurrency, and the transfer of cryptocurrency is not a regulated activity in the UK. 
+So, he said this Service does not have the power to consider a complaint about the payment 
+of cryptocurrency from Mrs Ms Coinbase account to M.
+In responding, Mrs M said she is a client of CB. She does not have a Coinbase UK account 
+ she resides outside of the UK in an EEA country and opened her Coinbase account in that 
+country. She asked for her complaint to be considered by an ombudsman, so it was passed 
+to me to decide.
+My provisional decision
+I issued my provisional decision on 23 January 2023. Ill set out what I said below.
+I note that Mrs M has said she does not have a Coinbase UK account. But it is my 
+understanding that at the relevant time, all EEA customers were customers of CB and 
+Coinbase UK. The user agreement and other evidence Coinbase has provided in this case 
+supports this. Although I appreciate that may not be the position now.
+The rules in the Dispute Resolution: Complaints (DISP) section of the FCA handbook set 
+limits on the extent of this Services jurisdiction. We are bound to follow these rules and so 
+we can only look at a complaint if the rules allow it. I can only apply the rules as they exist  I 
+have no discretion to change or set them aside on a case-by-case basis. When considering 
+our jurisdiction, I have no power to decide whats fair or reasonable either  I only have that 
+power if a complaint is in our jurisdiction.
+Mrs Ms complaint needs to arise from a customer relationship with a firm regulated in the 
+UK. And if that criteria is met, the complaint then also needs to be about a type of activity 
+which is regulated by the FCA  or an activity that is closely connected to that. Mrs Ms 
+complaint about Coinbase relates to the loss shes suffered as a result of cryptocurrency 
+services.
+When Mrs M opened her CB account, she entered into an agreement with CB and Coinbase 
+ a separate, but closely linked company. CB is a regulated business which carries out 
+regulated activities. But those activities are isolated to e-money and include the placing and 
+withdrawing of cash onto an account. The activities of Coinbase arent ancillary to those of 
+CB, even though the cash credited with CB may ultimately be used to trade cryptocurrency 
+with Coinbase.
+The relationship between the different businesses can appear confusing, but the terms and 
+conditions of the relevant user agreement do set out the distinct roles of each party. They 
+state:
+In reviewing these terms you will see that some text is coloured in green. These clauses set 
+out the details of the FCA regulated services provided to you by CB Payments, Ltd. All 
+clauses not coloured in green relate to the unregulated services provided to you by 
+Coinbase
+Mrs M lost control of the cryptocurrency she purchased when she made the transfer from her 
+Coinbase account to the wallet of the scammer. As Coinbase is not an FCA regulated 
+business, I am unable to reach any conclusions about whether Coinbase should bear any 
+responsibility for that.
+Given the above, its important to be clear that my considerations are limited to the actions of 
+CB.
+Ive first considered whether there was anything about the opening of Mr Ms CB account or 
+the depositing of funds that ought to have caused CB concern. Mrs M has said she provided 
+CB with a valid identity document when she opened her account (a considerable time before 
+the fraud occurred), and its not in dispute that the source of funds she deposited was 
+legitimate.
+Moving on, Mrs M, rather than CB, is responsible for payments shes made. However, in line 
+with good industry practice, CB should monitor its customers accounts for activity that might 
+suggest a customer is at risk of financial harm on an ongoing basis. This should include 
+monitoring account activity for transactions that are unusual or out of character. In some 
+circumstances, CB should take additional steps, or carry out additional checks, before 
+processing a payment, or decline to make a payment altogether, to help protect customers 
+from the possibility of financial harm from fraud. But theres no obligation on CB to intervene 
+with each and every payment a customer makes. So, the question is whether the activity 
+which took place on Mrs Ms CB account in relation to the scam was so unusual and out of 
+character that CB ought to have realised Mrs M was at risk of financial harm and intervened 
+ providing a warning about scams before letting her proceed.It's important to note that, from the statements Ive seen, I cant trace the cryptocurrency Mrs 
+M lost to the scam back to a corresponding euro transaction. The last euro transactions on 
+Mrs Ms CB account took place a few weeks before she transferred cryptocurrency from her 
+Coinbase account to the scammers wallet. The evidence doesnt suggest that the scam took 
+place over such a protracted timeframe, and I think its unlikely that it did. So, Im not 
+currently satisfied that there is any activity on Mrs Ms CB account relating to the scam and, 
+in that case, CB could not have prevented the fraud.
+In any event, the primary purpose of a CB account is to facilitate the purchase of 
+cryptocurrency. Mrs M had been using her CB and Coinbase accounts for several years by 
+the time the scam took place, and whilst the transactions which took place on Mrs Ms CB 
+account in August 2020 did not involve insignificant sums, from looking at her statements, I 
+dont think the activity wouldve appeared particularly unusual to CB or represented a 
+remarkable change from how she normally operated her accounts. In the absence of any 
+other cause for concern, activity of this nature is unlikely to stand out as being unusual to 
+CB.
+The purchase of cryptocurrency using Mrs Ms CB account was, in effect, a transfer between 
+two accounts which Mrs M controlled and, therefore, much less likely to be considered a risk 
+by CB.
+Mrs M has said she was vulnerable at the relevant time, but I havent seen any suggestion 
+that CB was aware of this or that it had any indication that she was at particular risk of harm 
+from fraud. And there is no obligation for CB to find out about a customers personal 
+circumstances.
+Overall, even if I were to accept that there is activity on Mrs Ms CB account relating to the 
+fraud, I cant see a reason why CB should have been concerned about the activity, and I 
+dont think it made a mistake by allowing Mrs M to proceed without question.
+Finally, there was no prospect, or practical method, of CB recovering the funds for Mrs M as 
+they were sent to an anonymous blockchain address through the Coinbase platform.
+I am really sorry to hear about the negative effects this scam has had on Mrs M. I have a 
+great deal of sympathy for her. But, having considered this matter carefully, I am not 
+persuaded that the regulated financial business here  CB  is responsible for her loss.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Ive carefully considered Mrs Ms response to my provisional decision, and I would like to 
+reassure her that, in reaching my provisional decision, I took account of the law; regulators 
+rules and guidance; relevant codes of practice and guidance; and what I consider to have 
+been good industry practice at the time. 
+Neither party has provided any new information which I havent already had the opportunity 
+to consider. So, I see no reason to depart from the conclusions set out in my provisional 
+decision.
+It remains the case that, even if I were to accept there is activity on Mrs Ms CB account 
+relating to the fraud, I cant see a reason why CB should have been concerned about the 
+activity, and I dont think it made a mistake by allowing Mrs M to proceed without question.My final decision
+For the reasons Ive explained, my final decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mrs M to accept or 
+reject my decision before 28 March 2023.
+ 
+Kyley Hanson
+Ombudsman

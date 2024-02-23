@@ -1,0 +1,89 @@
+DRN-3431506
+The complaint
+Mr M complains that HSBC UK Bank Plc trading as first direct (first direct) wrongly declined 
+his credit card payment causing him to lose out on a discounted purchase.   
+What happened
+Mr M holds a credit card account provided by first direct. In November 2021, he attempted to 
+make an online purchase. The online retailer was offering the item Mr M wished to purchase 
+with a substantial discount. Mr M attempted to complete the purchase using his first direct 
+credit card for payment. He says hed successfully used this card with this retailer before and 
+his card details were securely stored for future payments.
+Despite this, Mr M wasnt able to complete the purchase. The retailer screen flow displayed 
+a message indicating his payment authorisation had failed. The message suggested he 
+check his billing details, try a new card or contact his bank. Mr M knew his card and billing 
+details were correct. So, he called first direct to find out what had gone wrong.
+First direct checked their systems to establish the reason for his failed payment. But they 
+couldnt find any record of Mr Ms transaction being referred to them. They suggested there 
+may have been a communication problem which stopped the authorisation request reaching 
+them.
+Having attempted a further unsuccessful transaction Mr M called first direct again. He said 
+hed received a message saying his card was blocked. Hed previously had a similar 
+problem but had then received an SMS text message asking him to contact them. He said 
+hed received no such message this time and thought first direct werent treating him fairly. 
+First direct again confirmed they hadnt declined a transaction and there was no block 
+recorded on his card or account with them. Mr M thought first direct had problems with their 
+systems and wanted to raise a complaint.
+First direct responded to Mr Ms complaint in writing two weeks later. They said there was no 
+record of them declining a transaction on the date in question. They also said there were no 
+outstanding security checks which would prevent his card from being used. First Direct 
+acknowledged such situations werent uncommon where the network between retailers and 
+banks sometimes fails.
+Mr M wasnt happy with their response to his complaint. So, he decided to refer matters to 
+this service. He wanted first direct to pay him the amount of discount hed lost out on and 
+implement improvements to ensure customers are treated fairly in such situations.
+Having considered all the information available, our investigator didnt think first direct had 
+acted unreasonably or unfairly. Mr M disagreed with our investigators findings. He said hed 
+provided images of the authorisation failure messages that clearly showed first direct had 
+declined the transaction.
+As an agreement couldnt be reached, Mr Ms complaint has been passed to me to consider.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+When making a payment Mr M is, in effect, giving the card issuer - in this case first direct - 
+authority to pay the retailer, and to debit his credit card account.  Mr Ms instruction is routed 
+from the retailer to a merchant acquirer. The merchant acquirer is the financial business that 
+provides the retailer with the facility to accept payments. With an online payment, its then 
+routed through a payment gateway to the card scheme (e.g. Visa or Mastercard). And then 
+sent on to the card issuer  here thats first direct. 
+The success of a payment is reliant upon a number of variables. These may include fraud 
+checks and authentication together with confirmation of the availability of funds. But a 
+successful transaction is also reliant upon the payment network to ensure the payment 
+request reaches each party in the chain. Any failure within that network may result in the 
+failure to authorise a payment. This can happen at any stage.
+First direct have checked all their systems and records in an attempt to identify whether 
+payment authorisation requests were received for the transaction(s) Mr M refers to. Theyve 
+confirmed they have no record of any such requests. Further, first direct have confirmed 
+there were no blocks recorded against Mr Ms credit card account or card. So, it appears 
+there may have been a failure in the network chain. Unfortunately, as that chain involves 
+several parties, it isnt possible to identify where the breakdown may have been. But as first 
+direct were at the end of the process, and no request was received, I cant reasonably say 
+that the failure of Mr Ms payment was due to anything first direct did. They wouldnt have 
+had any control over the transaction until a request was received.
+Mr M has provided this service with images of the messages he received on his computer 
+screen when the payment failed. The Authorisation Failed image isnt very clear. But I can 
+clearly see the first direct logo displayed. Mr M believes this is evidence that the 
+authorisation request reached first direct suggesting the payment was declined by them. 
+Credit and debit cards all include an individual Primary Account Number (PAN), often 16 
+digits long. The first six digits are the Bank Identification Number (BIN). Each bank has its 
+own BIN which enables the retailers card system to identify the bank the card is issued by. 
+Dependent upon the system used, this will often result in that banks logo being displayed 
+when an online payment is made. But this doesnt necessarily mean that the card issuing 
+bank received the authorisation request. Only that the card processing system has identified 
+that bank from the card details.
+I understand and appreciate why Mr M might think that first directs logo appearing on his 
+computer screen suggests it was they who refused his payment authorisation. But thats not 
+necessarily the case for the reasons above. I also appreciate that Mr Ms experience will 
+have been very frustrating, particularly as it resulted in him losing out on a significant 
+discount on his purchase.  But having completed my investigation, I cant reasonably 
+conclude that first direct did anything wrong here. Having not received the request, they 
+wouldve had no control over what happened.
+I want to reassure Mr M that Ive carefully considered all the information and facts available 
+when looking into his complaint. And while I realise he will be disappointed; I havent found 
+anything to suggest first direct acted inappropriately or treated him unfairly.
+My final decision
+For the reasons set out above, I dont uphold Mr Ms complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr M to accept or 
+reject my decision before 14 September 2022.
+ 
+Dave Morgan
+Ombudsman

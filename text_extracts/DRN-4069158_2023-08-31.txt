@@ -1,0 +1,85 @@
+DRN-4069158
+The complaint
+Mr M is unhappy that Monzo Bank Ltd didnt do more to help stop him losing money to 
+gambling via payments made from his current account.
+What happened
+The circumstances that led to this complaint are well known to both parties, so I wont repeat 
+them in detail here. But, in summary:
+Mr M has a gambling disorder and is unhappy that hes been able to circumvent Monzos 
+gambling-prevention blocks. He thinks Monzo should do more to help customers, like 
+him, who are unable to stop gambling and have no other means of support. And, if 
+Monzo had done more when he sought help in September 2021, he wouldnt have lost 
+£4,500 to gambling between November and December 2022. So hes asked the bank to 
+refund this money.
+Monzo refused to refund Mr Ms losses. It said the gambling block had prevented some 
+transactions from going through. But some merchants processed Mr Ms payments using 
+non-gambling merchant codes which prevented it from identifying and blocking them. 
+Mr M didnt accept the banks response and asked us to look into the matter.
+Our investigator didnt think Monzo had done anything wrong in allowing the disputed 
+payments to go through. And they thought the ban had offered Mr M appropriate support 
+relating to his gambling disorder. Mr M disagreed, so the complaint has come to me.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, and while I appreciate this will come as a disappointment to Mr M, Ive 
+reached the same outcome as the investigator for much the same reasons.
+I first want to acknowledge and thank Mr M for being so open, with both this service and the 
+bank, about his gambling disorder. It can be far more difficult to provide appropriate, tailored 
+support if the consumer isnt (or, for whatever reason, feels they cant be) open and honest 
+about the unfortunate situation theyve found themselves in.
+Mr M brought a previous complaint to this service about the support Monzo offered when he 
+contacted it in September 2021 about his disorder, after hed lost £400 to gambling. In July 
+2022, the investigator concluded that Monzo ought to have done more and encouraged it to 
+get in touch with Mr M to explore what further support he needed at that stage. But Mr M 
+remains unhappy with the service hes received overall. He says the losses he suffered 
+between November and December 2022 occurred because Monzo hadnt warned him about 
+the limitations of the gambling block and because the block doesnt go far enough to protect 
+consumers from gambling-related harm.
+I appreciate Mr Ms strength of feeling and I wont be revisiting the conclusions we reached 
+on his previous complaint. But I would note Monzos records show that, as far back as 
+December 2020, Mr M was aware the gambling block couldnt prevent all payments to 
+gambling websites. Hed contacted the bank then because a gambling payment had been 
+processed and, at that point, the bank told Mr M how the gambling block worked as well as 
+that some merchants find a way around it. I can also see that Monzo explains on its website 
+how the gambling block works, with reference to MCCs.
+To be clear, gambling blocks like Monzos work by identifying the merchant category code 
+(MCC) that has been applied to the merchant/retailer. And some merchants have multiple 
+codes to account for the different types of products and services they offer. There is a 
+specific MCC that gambling merchants (including those offering their services online) are 
+supposed to use when processing card payments. But if a gambling merchant doesnt use 
+the correct code then the gambling block wont work. 
+Unfortunately, this limitation is something that impacts all gambling blocks, across all the 
+financial institutions that offer them, and isnt unique to Monzo. The merchants who use non-
+gambling MCCs tend to do so precisely because it allows their customers to circumvent 
+MCC-based gambling blocks. And I dont think, as Mr M suggests, its proportionate to 
+expect Monzo to search the entire internet on a regular basis to try and find gambling 
+merchants who are processing payments using non-gambling MCCs.
+I also note that, at times, it seems Mr M has managed to gamble by sending money from his 
+Monzo account to e-money institutions, or payment gateways, before sending it on to a 
+gambling website. So I think its possible that Mr M would still have found a way to gamble 
+his money even if Monzo had blocked other merchants.
+What Im pleased to see is that:
+Monzo has, on more than one occasion, identified and blocked payments that Mr M has 
+authorised to gambling websites which have used the correct gambling MCC.
+Monzo offers the facility for individual consumers to block certain merchants by name 
+and it has done so on at least one occasion for Mr M after he told the bank a merchant 
+was actually a gambling operator.
+Mr M has proactively got in touch with Monzo on a number of occasions in an attempt to 
+limit his exposure to gambling. In-app chats have taken place about limiting his overdraft 
+facility, bank transfers and ATM withdrawals. I think, on most occasions, Monzo has 
+replied in a timely and sensitive manner and enquired how else it can support him. But, 
+on more than one occasion, Mr M told the bank that he didnt need further assistance 
+because he was receiving sufficient support from elsewhere.
+In all the circumstances, I cant fairly conclude its Monzos fault that Mr M found a way to 
+gamble through his current account. I appreciate Mr M has a disorder and this type of 
+addiction will drive individuals to behave in ways that are harmful to themselves. But I cant 
+hold Monzo responsible for unscrupulous gambling merchants who deliberately 
+miscategorise their MCCs in a way that allows them to prey on vulnerable people like Mr M. 
+With all of the above in mind, I cant fairly instruct Monzo to refund any of the money Mr M 
+has spent on gambling or make any other award of compensation.
+My final decision
+My final decision is that I dont uphold this complaint.Under the rules of the Financial Ombudsman Service, Im required to ask Mr M to accept or 
+reject my decision before 28 September 2023.
+ 
+Ruth Hersey
+Ombudsman

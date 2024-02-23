@@ -1,0 +1,202 @@
+DRN-3453665
+The complaint
+Mr C complains that Marks & Spencer Financial Services plc (M&S) wont refund the money
+he lost when he fell victim to a scam.
+What happened
+The details of this complaint are well known to both parties, so I wont repeated them all
+again here. But in summary, the scam unfolded as follows:
+Mr C was looking online for trading opportunities. He decided to investment with a 
+merchant, F, after speaking to them via online chat and over the phone.
+Mr C made the following payments to F in May 2018 from his M&S credit card:
+Date Amount
+4 May 2018 £2,500
+16 May 2018 £2,500
+23 May 2018 £2,000
+Total £7,000
+In June 2018, Mr C called M&S to raise his credit limit from £7,400 to £11,400. He 
+specifically told M&S this was so he could keep paying F  but he made no further 
+payments to them following this.
+Shortly after, Mr C tried to withdraw some funds. F said he couldnt do so until he 
+reached a certain level of trading. He says this was never set out to him verbally or in 
+writing before he started trading. And the trading threshold was so high, he was 
+unlikely to ever reach it. He contacted M&S to raise a dispute about F. But it said it 
+wasnt liable, and that neither a chargeback claim nor a Section 75 claim would cover 
+these types of transactions. It did pay £75 compensation for failing to call Mr C back 
+promptly during the claim. Ive not weighed in on the compensation as Ive seen no 
+suggestion theres an outstanding dispute about it.
+Unhappy with M&Ss response, Mr C referred the matter to our service. The 
+investigator upheld the complaint, but M&S disagreed. So the matter was escalated 
+to me to determine.
+I issued my provisional decision in March 2022 explaining why I was minded to 
+uphold the complaint. Mr F has responded to confirm that hes never received any 
+funds back from F. M&S has responded that it will accept my proposed settlement as 
+a gesture of goodwill.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+As neither party has disagreed with my provisional decision, I see no reason to depart from 
+that. I therefore uphold this complaint for the following reasons:
+M&Ss actions at the point of the transactions
+Regardless of whether Mr C was tricked into making these payments, the starting 
+position is that hes liable for them  as, in line with the Payment Service 
+Regulations, firms are expected to process payments authorised by their customers.
+There are some situations where we believe firmstaking into account relevant 
+rules, codes and best practiceought to have identified a fraud risk, so should have 
+looked at the wider circumstances surrounding the transaction before making the 
+payment.
+Im not persuaded M&S ought to have identified a fraud risk. I dont consider the level 
+of the payments high enough to have warranted further questioning. Particularly as 
+they were spread apart over several weeks, showing Mr C wasnt being immediately 
+pressured into paying F, and were within his credit limit. Ive not found any reason 
+why M&S ought to have been concerned about the merchant he paid either. Although 
+the FCA did go on to issue a warning about F, this happened several months later. 
+Ive seen a suggestion from Mr C that M&S may have flagged one or some of these 
+payments. But Ive not got enough to support that.
+Overall, Im not persuaded M&S ought to have identified the fraud risk at the point 
+Mr C made these payments. So I dont hold it responsible for failing to stop the scam.
+Section 75 Consumer Credit Act 1974
+When Mr C reported this scam, M&S says it considered a section 75 claim  but the 
+transactions werent covered as they were classified as gambling transactions. But I 
+think section 75 does apply. The Act says:
+75(1) If the debtor under a debtor-creditor-supplier agreement falling within 
+section 12(b) or (c) has, in relation to a transaction financed by the agreement, 
+any claim against the supplier in respect of a misrepresentation or breach of 
+contract, he shall have a like claim against the creditor, who, with the supplier, 
+shall accordingly be jointly and severally liable to the debtor
+(3) Subsection (1) does not apply to a claim
+(a) under a non-commercial agreement,
+(b) so far as the claim relates to any single item to which the supplier has 
+attached a cash price not exceeding £100 or more than £30,000
+In summary, for M&S to be liable under a section 75 claim, there must be:
+1. a debtor-creditor-supplier agreement falling under section 12(b) or 12(c); and
+2. a transaction financed by the agreement; and
+3. a claim for misrepresentation or breach of contract related to that transaction;
+4. but not a claim which relates to any single item which the supplier has attached 
+a cash price below £100 or in excess of £30,000
+Ill address each requirement or exclusion in turn:a debtor-creditor-supplier agreement falling under section 12(b) or 12(c)
+This point doesnt seem to be in dispute. Mr C is the debtor; M&S is the credit and F is the 
+supplier  as shown on the statements.
+a transaction financed by the agreement
+Transaction isnt defined in the Act, but its generally been given a wide interpretation by the 
+courts  to include whatever bilateral exchanges may be part of a deal. Here, Mr C has 
+deposited funds to open an account in exchange for being able to use those funds on an 
+investment platform and, in turn, being able to withdraw from that platform. On this basis, Im 
+satisfied this was a transaction in line with section 75. There was an exchange of money in 
+return for certain contractual promises.
+Finance also isnt defined in the Act. An ordinary definition would be to provide funds to do 
+something. In Office of Fair Trading v Lloyds TSB Bank plc [2004], Miss Justice Gloster said 
+in a passage with which the Court of Appeal agreed, The phrase to finance approaching 
+the matter in a common sense way must mean provide financial accommodation in respect 
+of  A credit card issuer clearly provides financial accommodation to its cardholder, in 
+relation to his purchases from suppliers, because he is given time to pay for his purchase 
+under the terms of the credit card agreement.
+Applying that ordinary definition here, if Mr C hadnt used his credit card agreement to pay 
+for these transactions, he would have had to find cash from his own resources to fund them. 
+So, its clear that the transactions were financed by the agreement.
+a claim for misrepresentation or breach of contract related to that transaction;
+Mr Cs claim is that F was a scam which tricked him into depositing these funds by 
+misleading him about how/whether he could withdraw his funds.
+If F gave Mr C untrue information to trick him into making the transactions, his claim would 
+be for misrepresentation. Or, if they made binding promises to him as part of the 
+transactions and went on to breach these, that would amount to a claim for breach of 
+contract. Im satisfied there is a relevant claim to be considered here, which clearly relates to 
+the transactions Mr C made.
+but not a claim which relates to any single item which the supplier has attached a 
+cash price below £100 or in excess of £30,000
+The cash price here is the value of the deposit-transaction; its both the consideration and 
+subject matter of the contract. And each transaction falls within the values set out above.
+Im aware M&S says section 75 doesnt apply as the transactions funded Mr Cs account 
+rather than paying for the services of F, so theyre more akin to cash withdrawals on the 
+card. But I dont agree that loading funds onto a trading account is necessarily just a transfer 
+of money between accounts. It may also have been paid in return for something. In this case 
+F has made contractual promises in exchange for the deposit. Section 75 doesnt use the 
+term purchase of goods or services, nor is there anything within the Act that would exclude 
+the present type of transaction.
+Each payment was made as a result of an elaborate deception that occurred subsequent to 
+simply the initial deposit-transaction. F was trying to convince Mr C that he was profiting from 
+the investment and therefore had reason to expect better returns if he paid more. So, Im 
+satisfied each deposit should be considered as a separate deposit-transaction under section 
+75. Overall, for the reasons set out above, Im satisfied that section 75 applies to these 
+transactions. Ill therefore go on to consider whether Miss A has a valid claim for 
+misrepresentation and/or breach of contract.Misrepresentation
+For the claim to succeed on this basis, it needs to be shown that F made a false statement 
+of fact which induced Mr C into entering the agreement.
+Mr C says he was told hed be able to withdraw his money easily and quickly, within a few 
+weeks of starting trading. But when he tried to do so, he was then told hed only be able to 
+make a withdrawal when he reached a certain trading turnover. And this hadnt been put 
+to him previously, verbally or in writing.
+Having reviewed Mr Cs written submissions and calls with out service, I find his account of 
+what he was told to be credible and persuasive. Hes provided a detailed account along with 
+records from F to support this. And Ive found further evidence which backs this up.
+F seem to no longer exist, but Ive been able to access a historic version of the website from 
+around when Mr C made the payments. The terms relating to withdrawing funds refer to it 
+being a fast process, which can take up to 3 business days to approve and process the 
+request, and up to 5 business days for the funds to show in your account. This supports 
+the account Mr C has given about what he was told, which Ive found to be plausible and 
+persuasive.
+When Mr C requested the withdrawal, he says this was the first time he was told about the 
+required trading turnover. F said there were terms connected to the bonuses they paid when 
+he made his deposits. According to the account information Mr C has provided from F, he 
+deposited £10,000 (£7,000 from his M&S credit card) and they paid bonuses totalling 
+£16,271.
+Ive checked this against Fs historic website. Whilst this requirement isnt set out in the 
+standard terms and conditions, or the section titled withdrawal methods, Ive found a 
+separate section for terms and conditions for bonuses. This sets out that when a bonus is 
+paid, an amount of points must be accrued, calculated in relation to trading volume, before 
+any withdrawals can be made. It gives the example that if a bonus of €100 is paid, a trading 
+volume of €1,250,000 must be reached. Given the bonuses Mr C received, hed need to 
+reach a trading volume exceeding €200,000,000 before any withdrawals could be made.
+On this basis, Im persuaded that what F told Mr C about his ability to make withdrawals was 
+false. And Im persuaded that this induced him into making the deposits. Had he been told 
+about the actual withdrawal terms, I consider it very unlikely he would have made these 
+payments, given how much hed need to trade before any possibility of withdrawing.
+Id also point out that there is a wider misrepresentation F may well have made: that they 
+were a legitimate trading platform. The way in which they conducted themselves calls this 
+into question. I base this not only on what Mr C has told us about his experience, but on 
+further information Ive found about F. This includes the warning issued by the FCA that F 
+was operating within the UK without being regulated as required. This is a sign it was acting 
+with dishonest intentions.
+Additionally, Im mindful that the account information suggests F paid a substantial £16,721 
+on top of the £10,000 Mr C paid into the account. And also that, within around six weeks, he 
+was able to generate a balance exceeding £40,000 (albeit a balance that F wouldnt allow 
+him to withdraw). This seems an unlikely amount of profit to be able to generate given the 
+amount Mr C paid in.
+Ive seen some limited information from M&S suggesting Mr C was offered a £3,000 refund 
+by F  far less than he deposited, and far less than the balance F allegedly held for him. It 
+also appears this wasnt paid, so I dont know if it was a genuine offer. Im therefore not 
+persuaded this is enough to suggest F was in fact operating legitimately, given the evidence 
+to the contrary. And it doesnt detract from my findings about Fs misrepresentation of the 
+withdrawal terms.Ive also found reviews online for F of other customers reporting issues similar to those Mr C 
+experienced  i.e. being prevented from using or withdrawing their funds. All of this, along 
+with the stringent terms for withdrawing funds (which Ive found were misrepresented), 
+strongly suggests that, in practical terms, Mr C would never have been able to make money. 
+Whereas F represented itself as company offering the opportunity to make money through 
+investing. Again, if Mr C had realised that F werent operating legitimately, there seems little 
+doubt that he wouldnt have paid these funds. So Fs misrepresentation about this inducted 
+him into the contract.
+Breach of contract
+On similar grounds, it seems there may well have been a breach of contract compared to Fs 
+contractual and written promises, as its unclear that it ever legitimately traded Mr Cs funds. 
+That said, Im mindful that the onerous withdrawal term was set out within the wider terms 
+and conditions F had on its website which could reasonably be seen to form part of the 
+contract. So, as the grounds for a misrepresentation claim are stronger, my conclusion is 
+that M&S should meet Mr Cs claim for misrepresentation.
+Putting things right
+Im satisfied Mr C has a claim for misrepresentation on the grounds that F misrepresented 
+that he could readily access the money he deposited and earn a profit from his deposit 
+transactions. And that, but for these misrepresentations, he wouldnt have made these 
+deposits. So M&S should put him back in the position he would have been in had he not 
+made these payments. As Ive seen no credits from F into Mr Cs credit card account, and 
+hes confirmed that hes not received anything back from F, it appears hes due a full refund 
+of his payments.
+ 
+My final decision
+For the reasons given above, I uphold this complaint. To put things right, Marks & Spencer 
+Financial Services plc should refund Mr Cs payments to F (less any amounts hes received 
+directly from F), plus 8% simple interest per year from the dates of payment to the date of 
+settlement.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr C to accept or 
+reject my decision before 1 June 2022.
+ 
+Rachel Loughlin
+Ombudsman

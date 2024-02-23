@@ -1,0 +1,142 @@
+DRN-4515932
+The complaint
+D, a limited company, complains that HSBC UK Bank Plc hasnt refunded the losses it 
+incurred when it was the victim of an invoice interception scam.
+What happened
+D holds a business account with HSBC. In October 2021, D received a request for payment 
+of invoices which appeared to have come from one of Ds established suppliers. 
+The email correspondence was part of a chain of prior emails. It asked D to make remittance 
+for invoices using new bank account details. When Ds accountant attempted to add the new 
+payment details to their HSBC account, an error message resulted. D emailed the supplier 
+back to confirm the details, then sent the payment.
+Four payments were made to the specified account, on 18 October and 5 November. These 
+payments apparently were made between sterling denominated accounts but were sent 
+using the SWIFT payment mechanism in Euros. In total this amounted to £41,198.76.
+D subsequently received an email from the genuine supplier asking for payment at which 
+point it came to light that the earlier emails hadnt been legitimate. 
+D reported the scam to HSBC. HSBC attempted to recover the funds that D had lost, but 
+only a nominal sum remained to be recovered. It didnt refund D, explaining that D had 
+authorised these payments and HSBC had carried out Ds instructions. These payments 
+hadnt been particularly unusual or suspicious compared to Ds usual account activity. HSBC 
+was not liable for the loss due to the scam. D didnt accept this outcome. 
+Our Investigator reviewed what had happened. She explained that the payments werent 
+within the scope of the Lending Standard Boards Contingent Reimbursement Model Code 
+(CRM Code) because that didnt apply to SWIFT transfer payments. 
+However, the Investigator thought HSBC ought to have identified that the first payment was 
+significantly out of character and unusual for D. On that basis HSBC ought to have 
+intervened prior to processing the payment instruction, and had it done so should have 
+prompted D to take steps to verify the payment through another channel  thereby 
+preventing the scam and resultant losses.
+HSBC didnt agree, arguing in response that the payment was not one requiring it to have 
+taken these steps. As a result, the matter was referred to me to review everything afresh and 
+reach a final decision. 
+I issued my provisional findings on the merits of Ds complaint on 15 November 2023. In my 
+provisional findings, I explained why I didnt intend to uphold Ds complaint and offered both 
+sides the opportunity to submit further evidence or arguments in response. An extract of that 
+decision is set out below and forms part of this final decision:
+In deciding whats fair and reasonable in all the circumstances of a complaint, Im 
+required to take into account relevant: law and regulations; regulators rules, guidance 
+and standards; codes of practice; and, where appropriate, what I consider was good 
+industry practice at the time. 
+Upon reading all the available evidence and arguments, I have reached a provisional 
+finding that the fair and reasonable outcome, in all the circumstances, is that HSBC is 
+not liable to refund the losses D sustained through this scam. I will explain why.
+Both sides accept that D was the victim of a scam and has lost a significant sum as a 
+result. What needs to be determined here is whether HSBC should reasonably be held 
+liable for the amount that was lost to the scam.
+As a starting point in law, HSBCs primary obligation to carry out correctly authorised 
+payment instructions given to it by its customers, and to do so without delay. D is 
+therefore responsible for the payments it instructed HSBC to make for it.
+However, that isnt the end of the story. As a matter of good industry practice, Id expect 
+HSBC to have been on the lookout for significantly unusual or out of character 
+transactions that might be indicative of the risk of loss through fraud or scam.
+Here HSBC says that the relevant transactions werent significantly unusual for D. It 
+therefore had no reason not to carry out its primary obligation to process the payment 
+instructions it was given.
+Ive considered whether this was reasonable in the circumstances. I find it relevant that 
+Ds account was a business account. And I accept HSBCs point that the pattern of 
+typical usage on a business account might typically be expected to differ from that of a 
+consumer account.
+Looking at the payment history here, I can see D had made several international transfer 
+payments within the previous year. These ranged in value, with the largest (presumably 
+legitimate) payment being for the sum of around £11,000. The fact that the scam 
+payments were made as international payments wouldnt on the face of it have seemed 
+unusual for Ds account.
+I dont consider that the first payment of £17,166.87 was significantly different to this 
+amount. While the payment was larger than the prior international payments, I dont 
+consider it was larger to an extent that ought to have caused HSBC particular concern  
+it was not a remarkable sum in the context of Ds other account usage.
+Of course, there is one aspect that was unusual. The start and end points of these 
+payments were sterling denominated accounts and UK based. It would therefore be less 
+usual for a payment between two such accounts to have been made using SWIFT rather 
+than the Faster Payments system.
+However, I dont consider that in itself that would be sufficient reason for HSBC to have 
+refused the instructions. Its not clear that it would (or could) have known that the 
+destination account would be sterling denominated. So, I cant fairly say the bank ought 
+to have been concerned about this when the payment was being made using SWIFT.
+The third payment was for a slightly larger sum, £22,198.90. However, for similar 
+reasons as above, while this was larger than prior payments, I dont consider it was 
+significantly larger to the extent that it should have concerned HSBC.
+In summary then, I dont find the evidence here leads me to conclude that HSBC was at fault for not blocking or delaying any of these payments and intervening before it would 
+allow them to be made. There simply wasnt enough reason for HSBC to have taken that 
+step. 
+When HSBC was made aware of the scam it attempted to recover the funds from the 
+recipient bank, but little remained. It appears that the funds had largely been removed 
+before the scam came to light.
+I know this will not be the answer D wants me to give, but I dont find HSBC was at fault 
+here. I therefore cant fairly hold it liable to refund D for the losses incurred through this 
+scam. HSBC was obligated to carry out Ds payment instructions and there wasnt 
+sufficient reason for it to have done otherwise.
+With that in mind, and based on what Ive seen, I dont find HSBC is responsible for the 
+losses D suffered here and it doesnt need to refund D.
+In my provisional decision, I asked both sides to provide any further arguments or 
+information by 12 December 2023, after which point, I said I would issue my final decision on 
+the matter.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+HSBC did not provide a substantive response to my provisional conclusions. 
+D responded to the provisional decision saying it didnt agree this was a fair outcome. In 
+summary, D said:
+- It thought the payments were enough out of character in terms of amount and being 
+a new payee that HSBC should have carried out additional fraud checks. The highest 
+foreign payment D had made in the prior six months was for around £11,000.
+- This should have been identified by HSBC as both a sudden increase in spending 
+and a payment to a new payee
+- The payment being to another UK account but not in sterling should have also 
+prompted concerns. HSBC would have definitely known the beneficiary account was 
+a Sterling denominated account.
+- Based on these factors the payment should have been flagged as potentially 
+fraudulent and HSBC should have investigated further to prevent the fraud.
+I have considered Ds further representations. But Im not persuaded that these change the 
+outcome I reached or the reasons for that. While I appreciate that the referenced payment 
+was larger than the earlier international transfer D had made, I dont consider the difference 
+was sufficient to have prompted concern on HSBCs part  even allowing for this being the 
+first payment to that beneficiary account. 
+In considering the actions of HSBC I need to take into account that the banks primary 
+obligation is to carry out payment instructions given by its customers and to do so without 
+delay. That said, as a matter of good industry practice, Id expect a bank such as HSBC to 
+intervene, and thus delay the payment, where there is sufficient reason to believe the 
+payment is likely to result in loss through fraud or scam. But any such expectation has to be 
+balanced against the banks primary obligation. The bank cannot unduly interfere with 
+legitimate payment instructions (which of course, the vast majority of payment instructions 
+will be). This is a difficult balance to strike. If a bank was to delay a payment instruction 
+which turned out to have been wholly legitimate in nature, then its business customer incur suffer a financial or reputational loss  and HSBC could risk a claim that it was in breach of 
+mandate. 
+Based on the evidence available to me here, I dont find HSBC was at fault in relation to 
+these payments.
+The beneficiary account wasnt held by HSBC so it would not have known the details of that 
+account  including whether it was denominated in Euros or in Sterling. The fact of a 
+beneficiary account having a UK sort-code does not require that it is Sterling denominated. 
+I have not seen any evidence HSBC would have known the account was a Sterling account, 
+and I do not consider that was a factor HSBC could have taken into consideration.
+In short, I do not find HSBC is liable to refund D for these payments, and I consider that 
+outcome to be fair and reasonable in all the circumstances for the reasons I have set out. 
+My final decision
+For the reasons set out in my provisional decision and above, I do not uphold Ds complaint 
+about HSBC UK Bank Plc.
+Under the rules of the Financial Ombudsman Service, Im required to ask D to accept or 
+reject my decision before 19 January 2024.
+ 
+Stephen Dickie
+Ombudsman

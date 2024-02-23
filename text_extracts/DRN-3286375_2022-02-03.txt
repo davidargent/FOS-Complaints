@@ -1,0 +1,146 @@
+DRN-3286375
+The complaint
+A company, which Ill refer to as S, complains Hiscox Insurance Company Limited turned
+down a claim it made on its business protection insurance policy. S is represented by its
+director, Mr T.
+What happened
+S holds business protection insurance with Hiscox. In September 2020 Mr T met with
+someone who he thought was a potential investor in S. During the meeting Mr T says he
+handed his business phone to that individual who he believes compromised the security of
+the bitcoin wallet application on that phone.
+Later that day Mr T used £40,000 from Ss business bank account to add bitcoin to the wallet
+to facilitate the business investment. That was taken from the wallet shortly afterwards; Mr T
+believes that was by the individual hed met earlier that day. He reported this to the police
+and engaged a specialist company to investigate what happened.
+In early October Mr T called Hiscox and asked for details of his policy as he said he might
+need to make a claim. During that call he added cover for cyber data  financial crime and
+fraud to his existing policy. On 27 November Mr T contacted Hiscox to make a claim.
+Hiscox turned this down in early December. It said the claim had been considered under the
+financial crime and fraud extension to Ss policy. However, the incident had taken place prior
+to this being added. As the policy didnt covers pre-existing problems it didnt think what
+happened was covered under this part of the policy. And it didnt think Ss existing policy
+covered this either.
+Mr T argued it should be covered under the cyber and data section of the policy. Hiscox said
+the section hed quoted only applied where a claim had been made against S (in the
+circumstances described in the policy) and that wasnt the case here. It considered whether
+the claim could be considered under the your losses part of the cyber and data section but
+didnt believe that was the case. Thats because the policy required there to have been
+unauthorised acquisition, access, use or disclosure of, or the loss of theft of, personal data
+or confidential corporate information. It didnt think that was the case here.
+Our investigator agreed S wasnt covered under the financial crime and fraud extension to
+the policy because this had been taken out after the incident giving rise to the claim took
+place. And she didnt think there was a valid claim under the cyber and data your losses
+section. So she didnt think Hiscox had done anything wrong in turning down the claim.
+Mr T didnt agree. He said the police had confirmed the case could not be considered a fraud
+or financial crime but the policy nevertheless covered claims against S which arose from the
+unauthorised access of confidential information. The loan S had taken out was now due and
+was being claimed from it. So he thought the policy should cover this. He said the section of
+the policy which related to directors cover hadnt been considered and should in itself
+provide cover of up to £10,000 for what happened. He didnt feel hed been given a proper
+explanation as to why cover wasnt being provided.
+I issued a provisional decision on the complaint last month. In summary I said:
+The relevant rules and industry guidelines say Hiscox has a responsibility to handle claims
+promptly and fairly. It shouldnt reject a claim unreasonably.
+I appreciate Mr T doesnt feel the claim would fall within the fraud and financial crime section
+of the policy because the police told him the case wouldnt be considered as such. However,
+I dont think that is whats been said. The letter hes provided from Action Fraud says it has
+not been possible to identify a line of enquiry which a law enforcement organisation in the
+United Kingdom could pursue. That isnt the same as saying a crime hasnt been
+committed.
+But I agree with our investigator the claim wouldnt in any case be covered under the fraud
+and financial crime extension. That section of the policy contains a general exclusion for pre-
+existing problems which it defines as anything likely to lead to a claim, loss or other liability
+under this section, which you knew or ought reasonably to have known about before we
+agreed to insure you. Its clear Mr T was aware of the loss to S when this section of the
+policy was added.
+Ive gone on to consider whether there are other areas of the policy which might cover the
+claim S made. In correspondence with Hiscox, Mr T first argued the claim should be
+considered under the claims against you section of the professional indemnity part of Ss
+policy.
+The professional indemnity section of the policy does, in principle, provide cover for claims
+made against S. And I appreciate because the money S lost was from a loan then the
+company providing that loan might make a claim against it for non-payment (though I havent
+seen specific evidence of such a claim being made).
+But the policy only provides cover where the third-party claim relates to a specified set of
+actual or alleged events. I think any claim Ss loan provider made against it would be for
+non- payment. That isnt one of the specified events this section of the policy covers.
+Mr T went on to argue the claim should be covered under cyber and data  your own losses
+and claims and investigations against you. He specifically referenced the privacy liability
+section of this part of the policy. But I think theres a similar issue. Even if the loan provider
+has made a claim against S, cover is only provided where that claim is for one of the
+specified privacy breaches in the policy. Those are:
+a) breach, violation or infringement of any right to privacy, consumer data protection
+law, or other legal protection for personal data;
+b) breach of duty to maintain the security or confidentiality of personal data;
+c) breach of any duty of confidence, including in respect of any commercial
+information; or
+d) breach of any contractual duty to maintain the security or confidentiality of personal
+data, including under a payment card processing agreement with any bank or
+payment processor or under your public facing privacy policy;I havent seen anything to show any claim the loan provider made against S was for one of
+those things. And a claim for repayment or non-payment of a loan wouldnt fall within them 
+or any of the other things this part of the policy covers.
+However, this section of the policy also covers your losses. Ive thought about whether S
+has a valid claim under that. The policy provides cover:
+If during the period of insurance, and in the course of your business or advertising, you
+discover or reasonably suspect any:
+1. breach;
+2. security failure;
+3. illegal threat; or
+4. cyber attack against you;
+Ive reviewed the report Mr T provided from the specialist company who investigated what
+happened. Their conclusion was when Mr T handed his phone to the individual he met this
+either enabled them to access the backup seed phrase (a list of words which provide access
+to the bit coin wallet) or capture its secret QR code. That then enabled them to access it
+after the bit coins were purchased.
+Looking at the definitions in the policy and what happened I dont think any illegal threat or
+cyber attack has been made against S. However, Mr T has argued there has been
+unauthorised access to confidential information. And the definition of breach in the policy is
+The unauthorised acquisition, access, use or disclosure of, or the loss or theft of, personal
+data or confidential corporate information.
+The policy definition of personal data is individually identifiable information about a data
+subject. Based on the information in the specialist report I dont think any personal data has
+been used in this case. The report says it was either the seed phrase or QR code which was
+used to access the bitcoin wallet and I havent seen anything to show that was personal data
+as defined by the policy.
+Ive thought about whether this could be regarded as confidential corporate information. That
+term isnt defined in the policy but Hiscox has argued its intended to cover things like
+business plans, operating strategies and product information. However, while I appreciate it
+might well cover that, I think corporate passwords which enable someone to access
+sensitive business related information might reasonably be regarded as confidential
+corporate information.
+Mr T told us that both the phone and the bitcoin wallet were in the name of his business. So I
+think this section of the policy could potentially be engaged. I also think its possible that
+what happened might be considered a security failure. Thats defined as any failure by you
+or by others on your behalf (including but not limited to your sub-contractors and
+outsourcers) in securing your computer system against unauthorised electronic access or
+use.
+But even if whats happened could meet one or both of those definitions what S wants is for
+Hiscox to reimburse the loss of £40,000 its incurred. I dont think thats covered by this part
+of the policy. For example, although the policy will pay for Breach costs thats defined as
+the reasonable and necessary costs incurred by you with our prior written agreement in
+direct response to an actual or suspected breach. And it goes on to set out what that
+includes. But S isnt claiming for costs incurred in responding to an actual or suspected
+breach. Its claim is for the loss suffered as a result of it. I cant see thats covered by this
+section of the policy.Finally, Mr T has said the directors section of the policy should provide cover for what
+happened. But I dont agree. I appreciate the cyber and data section of the policy does
+include directors personal cover. But that only applies where the insured person (Mr T in this
+case) has suffered a direct financial loss or a claim has been brought against him. I havent
+seen anything to show either of those things apply here. In any case this section only applies
+where the claim would otherwise have been covered if brought against S.
+As a result, and for the reasons Ive explained, I dont think the claim S has made is covered
+by its policy. And I dont think Hiscox acted unfairly in turning this down.
+Responses to my provisional decision
+Hiscox didnt have any comments. Mr T asked some questions (which our investigator 
+responded to) but didnt provide any comments on the provisional decision itself. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+As neither side has provided any further comments for me to consider I dont have any 
+reason to change the findings I set out in my provisional decision. 
+My final decision
+Ive decided not to uphold this complaint. Under the rules of the Financial Ombudsman 
+Service, Im required to ask Mr T (on behalf of S) to accept or reject my decision before 3 
+March 2022.
+ 
+James Park
+Ombudsman

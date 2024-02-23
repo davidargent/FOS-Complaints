@@ -1,0 +1,187 @@
+DRN-3242488
+Complaint
+Mr S is unhappy that Lloyds Bank PLC is holding him liable for a series of payments from his 
+accounts that he says he didnt make or otherwise authorise.
+Background
+Unfortunately, the background facts surrounding this case are opaque. Ive read everything
+submitted by both sides and listened to the calls Mr S had with our Investigator and with the
+business. Ive set out my understanding of the background circumstances below.
+Mr S had a current account and a savings account with Lloyds. On 25 July 2019, he was at a
+social gathering at a busy pub in central London with friends. After he left the pub, he used
+an ATM in the same area before he took a taxi home. He said a group of people approached
+him at that ATM. The last activity on the card that Mr S says was carried out by him was a
+payment in the pub at 12:42am and a balance enquiry at a nearby ATM at 2:51am. There
+were two ATM withdrawals around 3:15am and two relatively low value card payments at
+3:55am and 5:08am.
+There were then concerted attempts to use the card for high value withdrawals and
+payments from 8:53am until 2:53pm that day. These were predominantly cash machine
+withdrawals, payments for taxi fares and many payments to high-street betting shops. In
+response to the first of these payments at 8:53am, Lloyds says it sent a text message to the
+number associated with the account. This message asked for confirmation that these first 
+attempted withdrawals had been made by Mr S and it received an affirmative response.
+During the period that this activity was taking place, Mr S told us he had already returned
+home. When he awoke the following morning, he says that he took a taxi to work. He said
+hed overslept and felt unusually disoriented. Hes speculated that he might have had his
+drink spiked in the pub as part of the fraud, because its rare that he responds to alcohol that
+way.
+In the taxi to work, he noticed that his mobile phone said it didnt have a SIM card. This had
+escaped his attention while he was at home because the phone still had the normal
+functionality when it was connected to his Wi-Fi network. He says he didnt make a
+connection in his mind between the missing SIM with the events of the previous night. This
+handset had had persistent technical difficulties and he thought it could simply be an error.
+It was a work phone, so when he arrived at work he requested and obtained a new handset
+and a new SIM. He asked a colleague to port his number onto the new SIM. He
+redownloaded the Lloyds banking app and realised that there were a large number of
+transactions that had been made from his account without his knowledge or authorisation.
+He called Lloyds to let it know what had happened. He said that it was only after noticing
+these transactions that he realised that there were two cards missing from his wallet. He
+suspected that the SIM had been taken from his phone while he was out that evening so that
+the fraudsters could intercept any potential confirmatory text messages sent by Lloyds. He
+later said that hed been approached at the ATM by a group of people but didnt say more
+about this interaction.
+Lloyds said it wouldnt refund the payments to Mr Ss account. It said that there was no
+obvious point at which his PIN couldve been compromised and that it had sent him a text
+message to check that he authorised the spending. It wasnt persuaded that any fraudulent
+activity had taken place. It also said it would close Mr Ss accounts and gave him notice of its
+intention to do so.
+Mr S was unhappy with the response from Lloyds and so he referred a complaint to this
+service. It was looked at by an Investigator who didnt uphold it. Mr S disagreed with the
+Investigators opinion and so the complaint was passed to me to consider.
+I asked Mr S for further information to try and identify how the fraud couldve taken place. He
+confirmed that his wallet wouldve been kept in his jacket throughout the evening, except
+when making payments. He told us he had three other cards for accounts with other financial
+businesses in his wallet. He also said that he wouldve most likely kept his phone on his
+person that evening.
+I also asked about the apparent interaction Mr S had with strangers at the ATM which had
+been mentioned in passing in his letter of complaint. Mr S said he had hoped that the police
+investigation would be able to shed light on what happened at the ATM, but the police didnt
+investigate.
+I also asked him if he could provide evidence that would place him geographically in a
+different location to that where the disputed payments were made. He said this should be
+possible because he took a taxi to work that morning and hed provide evidence of card
+activity in the area of London he worked in. Unfortunately, he didnt provide anything up until 
+the point I issued my provisional decision. He has since provided a screenshot of the taxi 
+app on his phone showing a taxi journey to work on the morning that this activity was taking 
+place. 
+I issued my provisional findings on this case on 14 December and said:
+In this case, the relevant regulations are the Payment Services Regulations 2017 
+(PSR 2017). These say that a payment transaction is regarded as authorised by the 
+payer only if the payer has given consent to the execution of the payment 
+transaction.
+If a payment transaction was not authorised, then the payment service provider must 
+refund the unauthorised payment transaction to the payer and, where applicable, 
+restore the debited payment account to the state it would have been in had the 
+unauthorised payment transaction not taken place.
+The regulations also say that the payer will be liable for losses in respect of 
+unauthorised transaction where the payer has with intent or gross negligence failed 
+to comply with their obligations in relation to any payment instrument or personalised 
+security credentials. This includes using the payment instrument in accordance with 
+the terms and conditions governing its issue and use; notifying the payment service 
+provider following the loss of the card; and taking reasonable steps to keep any 
+personalised security credentials safe.
+Mr S says that he didnt authorise these payments. And while I dont doubt or 
+disbelieve him, the evidence on the circumstances surrounding the payments is 
+unclear. I cant know with complete certainty what happened. And in the light of such 
+uncertainty, I must reach a decision based on the balance of probabilities  that is, does the available evidence (including Mr Ss own recollections) show that its more 
+likely than not that Mr S authorised the activity on his card?
+Lloyds has provided technical evidence showing that each of the payments was 
+properly authenticated  i.e. that the chip on the card was read and the correct PIN 
+was entered. Of course, that doesnt show that Mr S authorised the payments. I dont 
+agree with the investigator that there was no point at which Mr Ss PIN might have 
+been compromised. It was quite possible for someone to have observed him entering 
+his PIN either in the pub or at the ATM just before he got the taxi home.
+However, its still not clear how a fraudster couldve removed two cards from his 
+wallet without him noticing if it was kept in his jacket pocket throughout the evening. I 
+dont think its likely that a fraudster would choose to take only two cards when Mr S 
+says there were five cards in his wallet. Its not uncommon for someone to use the 
+same PIN across multiple payment cards and so Id have expected an opportunistic 
+fraudster to attempt to make payments or withdraw cash on all five if the opportunity 
+presented itself. In addition, if someone had stolen Mr Ss wallet during the evening 
+then attempting to place it back inside his jacket meant theyd unnecessarily be 
+taking the risk of being detected. For the same reason, theres no credible 
+explanation as to how a fraudster could remove the SIM card from Mr Ss phone 
+without him noticing (assuming the phone was on his person throughout
+the evening) or indeed why they would do so.
+Its also noteworthy that there was a long delay between uses of the card  if Mr Ss 
+card had fallen into the hands of an opportunistic fraudster, Id have expected them 
+to try to obtain maximum benefit in the shortest possible time knowing that, once the 
+cardholder notifies their bank that the card is missing, the stolen cards would no 
+longer be of use.
+A great deal of the spending on this card took place in high street betting shops. I 
+asked the investigator to contact one of those businesses which confirmed that, as a 
+matter of company policy, if a customer places a bet using a bank card the any 
+winnings will be loaded back onto the card that placed the bet and that no winnings 
+would be paid out as cash. In view of that, its not clear why a fraudster would use a 
+stolen card to place bets, rather than to buy high-value goods.
+Finally, Mr S has told us that these transactions took place in an area of London that 
+hes never visited and that he was in an entirely different location. Hes shared with 
+us a work email he sent to a colleague asking for his number to be swapped onto a 
+new SIM  but theres no reason to assume that he couldnt have sent an email like 
+that remotely. I also asked him whether there was anything else he could show us to 
+demonstrate that hed travelled to the office the following day  evidence of fares, 
+card payments in the local area and so on, but Mr S hasnt provided these.
+As I explained above, I cant know with certainty what happened here and must 
+decide this case on the balance of probabilities. And from everything Ive seen so far, 
+the weight of the evidence supports the conclusion that its fair and reasonable for 
+Lloyds to hold him liable for these transactions.
+Mr S disagreed with these findings. He reiterated that he hadnt authorised any of these 
+transactions. He said that Lloyds shouldve regarded this sudden increase in account activity 
+as suspicious and intervened or blocked the payments and argued that text message 
+authentication isnt sufficiently secure.
+He sent a screenshot taken from the taxi app showing that a journey was taken from his home to his workplace. This showed that he wasnt in the same geographic location as the 
+card. Mr S also referred to a news article in which someone lost money to fraud in broadly 
+similar circumstances. 
+Findings
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I remain of the view that its fair and reasonable for Lloyds to hold Mr S 
+liable for these transactions. To reiterate, I have to decide this case on the balance of 
+probabilities  so I must consider whether the evidence shows its more likely than not that 
+Mr S didnt authorise these payments.
+And while he has now been able to provide evidence to show where he was at the time, 
+there are other factors that persuade me that, on balance, these transactions werent 
+unauthorised or werent carried out without Mr Ss knowledge.  I say that because:
+I find it unlikely that a fraudster would take specific cards from his wallet (rather than 
+just taking the whole wallet) because the risk of being detected would be so much 
+greater. 
+I find it unlikely that a fraudster would choose specific cards from his wallet. I 
+understand there were five cards in there, but only two were taken. From the cases 
+weve seen, Id expect a fraudster to maximise their potential gains from the fraud 
+and attempt to use all of the cards if possible  particularly given that its common for 
+people to use the same PIN across multiple cards.
+For similar reasons, I find it unlikely a fraudster could remove the SIM card from the 
+phone and leave it in his possession without his noticing and unlikely that theyd want 
+to do so, given the risk of detection.
+If the card was taken in the bar or at the ATM near the bar, I find it surprising that 
+there was so little urgency in its use and significant spending didnt occur for many 
+hours. From the cases weve seen, a fraudster will typically look to maximise the use 
+of a stolen card in the knowledge that the card can blocked at any time.
+In my provisional findings, I referred to the fact that many of these transactions were 
+made at high street betting shops. As a matter of policy, one of those shops insists 
+that any winnings on a bet placed using a card could only be repaid onto the same 
+card that had placed the bet. There would therefore by no real value to a fraudster in 
+placing bets using a stolen card. Mr S has pointed out that perhaps individual betting 
+shops dont follow this policy or find ways around the rules to allow for cash winnings 
+to be paid out. And while I agree that cant be ruled out, Im mindful of the fact that its 
+still an ineffective way for a fraudster to take advantage of a stolen card given the 
+inherent uncertainty of gambling and the fact that theyd have had other opportunities 
+to use the card to (for example) buy high value goods for resale. 
+Mr S has made a number of comments about whether Lloyds systems are sufficiently secure 
+and whether it was appropriate for it to use a text message to verify that he was behind 
+some of the earlier transactions. Hes also said that that this was sudden change in the use 
+of account and so it shouldve intervened to question the payments or block the card. But 
+because Im satisfied that its more likely than not that Mr S authorised these transactions, I 
+dont think any intervention on its part wouldve made a difference here.I read the news article that Mr S shared. Each complaint that is referred to this service is 
+considered on its own merits. Nonetheless, there are clear distinguishing facts  not least 
+the unlikely act of stealing a SIM card, rather than a phone. I know how strongly Mr S feels 
+about his case and I realise this will be a hugely disappointing outcome. I cannot know for 
+certain what happened here, and I have to be guided by the available evidence. Regrettably, 
+I find that the weight of that evidence doesnt demonstrate that these payments were 
+unauthorised.
+Final decision
+For the reasons Ive set out above, I dont uphold this case.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr S to accept or 
+reject my decision before 4 February 2022.
+ 
+James Kimmitt
+Ombudsman

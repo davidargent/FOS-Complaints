@@ -1,0 +1,161 @@
+DRN-4339807
+The complaint
+Miss E complains that HSBC UK Bank Plc (HSBC) failed to refund transactions from her 
+account that
+she didnt recognise.
+What happened
+Miss E reported numerous unusual transactions from her account and initially believed it was
+someone who she knew who was responsible. She later didnt think this was the case and
+asked HSBC to look into the matter.
+Various payments were made from her account, some were bank transactions involving
+payments into her account from another bank and payments to that same bank (where Miss
+E also held an account). Other unrecognised payments were to a variety of gambling
+merchants and used Miss Es debit card to carry out the transactions.
+Miss E denied any involvement in the payments made to and from her account. Based on
+Miss Es claims at the time, HSBC made a refund to her. The amount paid was to ensure
+Miss Es account was in balance after the movement of funds. Essentially she was put back
+to the same position she started with in relation to the unrecognised banking transfers.
+Miss E continued to deny any knowledge about the debit card payments made from her
+account. In total, the disputed transactions amounted to £8,085.98 which also included a few
+small transactions to a non-gambling merchant. Miss Es account received £7,000 from the
+gambling merchants in payments (presumably winnings). This meant that Miss Es account
+was £1,085.98 in debit based on the payments and credits to her account.
+Miss E sought a refund from HSBC who looked into what had happened. Miss E explained
+that she was out of the country when most of the disputed transactions took place and only
+noticed them towards the end of her trip. She was told that another phone had been using
+her account and Miss E denied it was hers (it was a different model phone to her own).
+HSBC thought that Miss E was responsible for the payments and declined to make any
+further refunds to her. Unhappy with their response, Miss E brought her complaint to the
+Financial Ombudsman Service for an independent review. Her complaint was assigned to an
+investigator who asked both parties for information about what had happened.
+Miss E repeated her story and continued to deny any involvement in the gambling
+transactions. She said that the other phone using her account was unknown to her. At the
+time, shed thought it may have been a close friend, but later didnt think this was the case.
+Miss E confirmed her phone was protected with security and she hadnt given it or her
+banking details to anyone else.
+HSBC continued to believe Miss E was responsible and carried out enquiries with the
+gambling merchants. Information from them indicated that accounts had been set up using
+Miss Es name and her address details. But the phone and email addresses used to open
+the accounts were different to ones used by Miss E.
+HSBC argued that the additional device registered on Miss Es banking couldnt have been
+added without her knowledge. They said that in order to add another device required actions
+on the original device, so it was unlikely Miss E wouldnt have been aware of this second
+device being authorised to use the account. Also, that most of the disputed transactions
+were made using additional security. This security required a One Time Passcode (OTP) to
+be agreed to before the transactions went through. In each case, the OTP was accepted,
+and HSBC say that this would have gone to Miss Es original registered device.
+After reviewing the information about the complaint, the investigator thought that Miss E
+wasnt responsible for the disputed transactions, and it was plausible for someone to have
+obtained her banking details (such as her close friend) and additional authentication wasnt
+required for the transactions.
+It was also remarked that the disputed transactions took place over the same period as the
+other disputed bank transfers which were refunded, Miss E hadnt previously used gambling
+merchants and some of the details didnt match her usual email or phone number.
+HSBC disagreed with the investigators outcome and continued to argue there was no
+evidence to suggest Miss Es account had been compromised. They highlighted data that
+showed a common IP address used prior to the disputed transactions that was linked to Miss
+Es usual use of the account and those that were made by the additional device to make the
+disputed transactions.
+Note: IP addresses are a means to identify physical locations that online transactions are
+connected to and can be the actual physical location or other locations connected to the
+provider of the data services.
+HSBC argued that their evidence pointed to Miss E receiving the OTPs (although here Miss
+E denies receiving any of them). HSBC said that if the additional device had received them
+using the banking app, they would expect to see evidence of it logging in. No such evidence
+was present and the only device to log in was Miss Es which they thought would have
+alerted her to these transactions being made from her account.
+I issued my provisional findings on the merits of Miss Es complaint on 4 September 2023. In 
+my provisional findings, I explained why I didnt intend to uphold Miss Es complaint and 
+offered both sides the opportunity to submit further evidence or arguments in response. An 
+extract of that decision is set out below and forms part of this final decision:
+Ive considered all the available evidence and arguments to decide whats fair and
+reasonable in the circumstances of this complaint.
+The relevant law surrounding authorisations are the Payment Service Regulations 2017. The
+basic position is that HSBC can hold Miss E liable for the disputed payments if the evidence
+suggests that its more likely than not that she made them or authorised them.
+HSBC can only refuse to refund unauthorised payments if it can prove Miss E authorised the
+transactions, but HSBC cannot say that the use of online payment details conclusively
+proves that the payments were authorised.
+Unless HSBC can show that consent has been given, it has no authority to make the
+payment or to debit Miss Es account and any such transaction must be regarded as
+unauthorised. To start with, Ive seen the banks technical evidence for the disputed
+transactions. It shows that the transactions were authenticated using the payment tools
+issued to Miss E. Ill now need to consider the information provided by both parties to
+determine whether theres sufficient evidence to hold Miss E responsible for the disputedtransactions or not.
+There are differences between both partys version of events, in summary Miss E states she
+knew nothing about the disputed transactions and HSBC believe she was responsible. Its
+not our role to say exactly what happened, but to decide whether HSBC can reasonably hold
+Miss E liable for these transactions or not. In doing so, and where theres a disagreement, Ill
+be considering what is most likely to have happened based on a balance of probabilities.
+HSBCs evidence shows that two devices were being used with Miss Es account. Some of
+the disputed transactions were made whilst she was abroad and IP evidence shows the
+disputed transactions were being made in the UK. So, here I accept that it was someone
+else who was making the transactions. But, that doesnt automatically mean that Miss E
+wasnt liable for them. If, on balance, the evidence shows that these transactions were made
+with her knowledge, she would generally still be held liable. If on the other hand, theres a
+plausible explanation for someone else being responsible then Miss E would be due a
+refund.
+HSBC have said they made the banking transfer refunds based on what they knew at the
+time. Theyve confirmed they dont intend to take those refunds back and as Miss E was left
+in the same position she started with (in relation to those specific refunds) I dont currently
+intend to look into them any further.
+In relation to the card payments Miss E has disputed, they were carried out using a second
+device. Miss E denies any knowledge of that device, but evidence from HSBC shows the
+same IP address used to make transactions to the gambling merchants was also used by
+Miss Es usual device some months earlier. I think its unlikely that the same IP address
+could have been used randomly by someone who later carried out these transactions
+without Miss Es knowledge.
+HSBC have confirmed their system is designed to prevent the registration of another device
+without the user being aware of it. The user is also required to carry out certain actions
+before the second device can be authorised. Miss E has also stated she hadnt provided her
+banking details to anyone else. So, I cant see how someone unknown to Miss E could have
+carried out the registration without access to Miss Es device and the security information to
+log in to her account.
+Regarding the OTPs, HSBC believe that Miss Es phone would have received them whilst
+she herself says she hadnt received anything. The OTPs can be delivered via a message to
+the registered phone or via an in-app procedure. HSBC cant definitively say which method
+was used, but they believe it was via message to Miss Es registered phone number. They
+dont think it was via an in-app procedure because that would generally need the device to
+log in to the banking app at the time. If, as Miss E believes, it was the other phone that was
+responsible, then Id expect to see log ins to the banking app that correspond with the OTPs
+being sent out.
+Theres no such activity from the other device and the only one to log in is Miss Es usual
+device she had with her whilst abroad. So, the evidence points to those OTPs being sent to
+Miss Es device and the transactions couldnt have been carried out without the codes being
+actioned at the time. As Miss E was checking her online banking throughout the period of the
+disputed transactions, Im also surprised they werent seen sooner and reported to HSBC.
+I accept that the email address and the phone number attached to the gambling merchants
+was different to Miss Es normal ones, but this on its own doesnt provide sufficient evidence
+that the disputed transactions were carried out without her knowledge as its also apparent
+that there were others involved here making the transactions.I also considered the fact that these payments were made to a gambling merchant. Its
+general practice for these merchants to only pay winnings back to the account they came
+from (as they did here), so those winnings would usually be locked away from an
+unauthorised user of the bank account.
+I havent looked into the refund made by HSBC related to the bank transfers any further
+because they were refunded. I did note though that the bulk of the winnings paid into the
+account were available if anyone else had unauthorised access to the account. By that I
+mean they were paid into the account and could have been transferred to another account if
+someone else had access to it without Miss Es knowledge. What actually happened is that
+further gambling took place until the account was run down and entered a small overdraft.
+Its difficult to imagine a realistic scenario where unknown third parties were able to gain
+access to Miss Es account. I think its implausible to conclude they werent authorised
+without stronger evidence to the contrary. My current thoughts are that its more likely than
+not that Miss E had knowledge of these transactions and that its reasonable for HSBC to
+hold her liable for them. Im currently not intending to uphold this complaint.
+I invited Miss E and HSBC to give me any more evidence and information they wanted me to
+consider before issuing my final decision. HSBC didnt have anything further to add. Miss E 
+responded but didnt have any new information to add. Miss E continued to deny any 
+knowledge of the additional phone connected to her account.  
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, and as neither party had anything further to add that would change my 
+provisional decision, I see no reason to reach a different conclusion. So, this final decision 
+confirms the findings set out in my provisional decision.
+My final decision
+My final decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Miss E to accept 
+or reject my decision before 10 October 2023.
+ 
+David Perry
+Ombudsman

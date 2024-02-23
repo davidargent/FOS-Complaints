@@ -1,0 +1,116 @@
+DRN-2604352
+The complaint
+Mr A complains that Halifax Share Dealing Limited incorrectly executed his order to sell his 
+shares in an Exchange Trade Fund (ETF). As a result he claims he made a financial loss 
+and has asked to be compensated. 
+What happened
+Mr A opened a share dealing account with Halifax in 2014. On 15 January 2020 he placed a 
+stop loss order to sell his holding in HPRO (an ETF) if the share price reached 1960p. 
+Halifax accepted this order and Mr A received confirmation that it had been validly set up. 
+The following day trading in HPRO shares largely traded at between 1983p and 1985p until 
+1.29pm, when Halifax received a bid price of 1944p. At this point Mr As Tradeplan order 
+triggered, and his trade was eventually executed at 1951p. The next price was about half an 
+hour later, and HPROs share price had risen again to around 1985p. The share price 
+continued to increase until the end of the day. 
+Mr A complained via Halifaxs online chat facility. He said that his Tradeplan order should 
+never have been triggered because HPROs share price had never dipped below 1984p. He 
+asked for compensation. Halifax didnt think it had done anything wrong. It explained that the 
+price it received was lower than the price he had set his stop loss at, and as a result his 
+order was validly triggered and executed. So Mr A referred his complaint to this service. 
+One of our investigators looked into his complaint, but didnt think it should be upheld. He 
+considered Mr As evidence of screenshots from the London Stock Exchanges (LSE) 
+website which indicated that his trade was the only one that had been executed at such a 
+low price. But he didnt think there was anything Halifax couldve done about that. He 
+thought that Halifaxs terms were clear about when a Tradeplan order would be triggered, 
+and in any event, Halifax didnt set the share price. 
+Mr A didnt agree. In short he said:
+The evidence he had submitted from the LSE showed that HPROs share price never 
+dropped below 1984p. In any event, Halifaxs own pricing evidence showed that the 
+bid-ask spread for every transaction apart from his was 5p. For his transaction the 
+spread rose to 88p and this is what caused the bid price to drop below his stop loss. 
+He didnt agree that the bid price which Halifax received of 1944p was the market 
+price. He considered the market price was around 1985p  the price of the last trade 
+in the market before his. As a result, he said that Halifax was wrong to execute his 
+stop loss. He said that he didnt accept that a rogue low bid offer can be taken as 
+market price for the purposes of this contract. 
+As agreement couldnt be reached, the matter was passed to me to decide.
+ 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, Ive reached the same conclusions as the investigator and for broadly the 
+same reasons. 
+I should start by saying that I completely understand Mr As frustration at this particular trade 
+going through. I agree that the prices Halifax received at the relevant time were significantly 
+different to any of the available prices before and after the trade was executed. But that 
+doesnt of itself mean Halifax has treated him unfairly. And whilst I appreciate Mr A will 
+disagree, much of his argument is based on him having a benefit of hindsight which Halifax 
+didnt have at the time. 
+Section 18.23 of the terms and conditions of Mr As account explain how Tradeplan orders 
+work. It says that these orders are designed to be executed when the market price of an 
+investment meets, falls below, or rise above a specified price. Further, it highlights the very 
+risk Mr A experienced when it says that specific events may cause the market price of an 
+investment to move to an unusually high or low price, which may cause your order to 
+execute at that unusual price. 
+The key issue here is that Halifax wasnt setting the share price - it was acting as his agent 
+in the market. By creating a Tradeplan order, Mr A had specifically instructed Halifax to 
+automatically take action as soon HPROs share price reached a particular level. Halifax had 
+no discretion over whether to execute or otherwise his order. 
+The evidence Ive seen shows that Halifax did receive a quote which triggered the Tradeplan 
+order he had set  and it executed that order in the market at the best price available to it 
+after his Tradeplan order was triggered. I would note that this was in fact marginally higher, 
+at around 1951p, than the bid price it had received of 1944p.  
+I understand Mr As feels strongly that the evidence he has provided in the form of 
+screenshots from the LSE is persuasive and ought to mean his complaint is upheld. But I 
+dont agree. The evidence Mr A has provided doesnt change the reality that at the time his 
+order was triggered, the best available price was in fact the one he received. I accept that 
+the screenshot Mr A has provided doesnt show the low price as being 1944p (or the price 
+he received of 1951p). But that same screenshot also shows a high of 1990p  when there 
+were at least two prices higher than that at 3.24pm and 3.28pm. This demonstrates that the 
+screenshot is not in fact conclusive or even persuasive evidence of HPROs high and low 
+prices of the day. 
+The likely reason for the discrepancy is the type of trade and how it was reported to the 
+exchange. Automatic or algorithmic trades are reported automatically  and both the high 
+and low trades of the day as seen on Mr As screenshot are in fact automatic or algorithmic 
+trades. But off-book trades of the type that Halifax carried out in Mr As case are reported via 
+an authorised avenue called TradeEcho. This makes no difference to the trade itself, nor the 
+fact that it was executed in line with the Exchanges rules  and therefore as is clear from 
+evidence Mr A himself has provided, the execution venue was still the London Stock 
+Exchange. But its clear when looking at the pricing data on Mr As screenshot, as well as 
+the earlier prices which Halifax has provided, that the off-book trades are not reflected in 
+what the LSE was saying were the high and low prices of the day. For example there are 
+at least two prices which were lower than 1984p from around 10.30am, and three prices 
+higher than the high of 1990p. All these trades were labelled off-book. 
+The reason Ive set out the above is purely to explain to Mr A that his evidence doesnt show 
+what he thinks it does  there was no rogue quote. It was simply a reality of the market, as 
+it was trading at that moment in time, in line with all applicable rules. If Mr A had attempted to trade himself, he wouldve been in a position to decide whether or not to accept the price, 
+or to wait for a more favourable quote. But as he had placed an automated order, designed 
+to trigger as soon as a particular price was reached, that option wasnt available. 
+Even if I thought Halifax ought to have checked the price in some way (and to be clear, thats 
+not a finding Im making), the nature of this particular ETF meant that prices werent being 
+continually streamed. This means that at that moment in time, Halifax couldnt have known in 
+advance whether the significantly increased spread and the drop in price was a mere blip in 
+that days trading, or whether it was the beginning of a slide in this ETFs share price. A stop 
+order is an explicit instruction to carry out a market order  it does not allow the broker any 
+scope or discretion on whether to execute that order. If Halifax had somehow decided not to 
+execute Mr As order at that moment in time, and the next available price was even lower 
+than that the one that was quoted, it wouldnt have been providing with him with best 
+execution and wouldnt have been adhering to the terms. 
+Mr A now knows that the trade immediately after his, around 30 mins later, was executed at 
+a better price  and I do understand his frustration. But this was also a risk of creating the 
+TradePlan order. By essentially specifying an automatic trigger point he was protecting 
+himself against sharp drops in price at times when he was unable to react. But he was also 
+removing his ability to ride out short but significant drops  as well as removing any 
+discretion he or Halifax had to assess a given price drop or market event. 
+For all these reasons, whilst I fully understand why Mr A has raised his complaint, I dont 
+agree he has been treated unfairly, nor that Halifax incorrectly executed his order. I 
+understand Mr A will likely be disappointed by my decision, but I hope he understands the 
+reasons why Ive reached it. 
+My final decision
+My final decision is that I dont uphold this complaint.
+ 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr A to accept or 
+reject my decision before 5 April 2021.
+ 
+Alessandro Pulzone
+Ombudsman

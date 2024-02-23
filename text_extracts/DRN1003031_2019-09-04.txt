@@ -1,0 +1,137 @@
+K821x#15complaint
+Company A is a business that sells goods online.  They use PayPal Europe  Sarl & Cie, SCA 
+to process their online payments. Company A has complained that PayPal will not reimburse 
+them almost  £5000 - the value of chargebacks applied to their account. 
+background
+I issued my provisional decision on this complaint on 29 July 2019,  a copy of which  is 
+attached below and forms part of this decision.
+In summary  I said it was likely that Company A wouldve registered for 3D Secure if PayPal 
+had told them about this. But I hadnt  seen anything to show  me that 3D Secure wouldve 
+stopped any transactions that resulted in chargeback  requests being  made.  Company  A 
+were able to challenge these chargeback requests, but these challenges  were  unsuccessful.  
+Because of this their bank has refunded almost £5,000  to customers Company A say theyve 
+sent goods to.
+I didnt think it was fair to ask PayPal to reimburse  Company A almost £5,000 but I could  see 
+that Company  A had been affected  by what had happened  this is money they couldnt 
+afford to lose. As they would never know if having 3D Secure wouldve stopped any of the 
+transactions from being approved, I felt  it was fair that PayPal compensate  Company A for 
+the inconvenience of their not knowing if any of the transactions couldve been stopped had 
+3D Secure been in place.  I considered £150  to be fair and reasonable in all of the 
+circumstances.
+Both Company A and PayPal have been given the opportunity to comment on my provisional  
+decision.
+Both PayPal  and Company A have rejected my provisional decision. Company A have said 
+they were approached by PayPal and, by not telling them about 3D Secure,  the payment 
+portal was mis-sold to them. They say they never had any successful chargeback  requests 
+with their previous  payment portal but, within days of using PayPal,  they were  targeted  by a 
+person or group who knew  to go onto our website and purchase items  then implement  
+charge backs for the delivered items. Company  A feels its PayPals  responsibility  to 
+implement solid security measures  and the poor security lead to a devastating  loss of 
+almost £5,000. 
+Company A also feel that my provisional decision,  by offering £150 compensation, means I 
+accept PayPal are liable for these transactions. Because of this, they feel PayPal should 
+reimburse them the almost £5,000 they lost.
+PayPal have said they dont agree they should pay Company A £150 for the inconvenience 
+of not knowing  what wouldve  happened if 3D Secure had been in place, because it cant  be 
+determined if 3D Secure  wouldve  stopped  the transactions and subsequent  chargebacks.
+my findings
+Ive reconsidered  all the available evidence and arguments to decide  whats  fair and 
+reasonable in the circumstances of this complaint.  Ive responded to the points raised by 
+Company A and PayPal below.
+Ref: DRN10030312chargebacks
+As I said in my provisional decision,  3D Secure  adds an additional layer of security on some  
+card transactions  but it doesnt stop customers from making chargeback requests. I 
+havent seen anything to show me that, had 3D Secure  been  in place, then the transactions 
+that resulted in chargeback requests wouldve definitely failed the additional layer of security  
+3D Secure provides.  Because of this I cant say that, even with 3D Secure in place, 
+chargeback requests wouldnt  have been made.
+Chargebacks arent guaranteed and Company A were able to challenge these requests. 
+But because the challenges were unsuccessful,  Company As bank has refunded almost 
+£5,000. For the reasons above  I remain satisfied that PayPal cant  be held responsible  for 
+the successful  chargebacks, and Company As comments dont change my view. So I wont 
+be asking PayPal to reimburse Company A almost £5,000.
+compensation for inconvenience
+Its not disputed  that PayPal  didnt tell Company A about 3D Secure, and its clear from 
+Company As comments that they believe  the chargeback transactions  wouldnt have 
+happened if 3D Secure had been  in place. While, for the reasons already given, 3D Secure 
+wouldnt have stopped a chargeback being made, it may have stopped  a transaction  from 
+going through in the first place. This is something Company A will never know  and I feel that 
+PayPal should  compensate them for the inconvenience  of their not knowing and as they 
+have spent a considerable amount of time attributing their loss to the lack of a secure 
+platform.
+Company A dont  think £150 adequately compensates  them  for the £5,000 theyve lost, but 
+as Ive said wont be asking PayPal to reimburse the value of the chargebacks. In my 
+provisional decision I considered £150 to be fair, and the comments  Ive received dont 
+change my view on this. 
+my final decision
+For the reasons  explained above I uphold Company As complaint. PayPal Europe Sarl & 
+Cie, SCA must pay Company A £150 to compensation for the inconvenience  resulting from 
+them not being advised about 3D Secure when they signed up for PayPals services.
+Andrew Burford
+ombudsman
+Ref: DRN10030313copy of provisional decision
+complaint
+Company A is a business that sells goods online. They use PayPal Europe Sarl & Cie, SCA to 
+process their online payments. Company A has complained that PayPal will not reimburse them  
+almost £5000 - the value  of chargebacks applied to their account. 
+background
+Mr M and his son are directors of Company A. After  bring  contacted  by PayPal they agreed to use 
+them as the payment portal on Company  As website. A number of successful chargebacks have 
+been made by customers claiming that they didnt authorise payment to Company A.
+Company A has complained  that PayPal didnt tell them they needed to register for 3D Secure, 
+which wouldve meant these  chargebacks wouldnt have happened. Because  of this they want  PayPal 
+to reimburse the value  of the chargebacks.
+Our investigator found that PayPal hadnt  acted  reasonably. She felt that having protection against 
+fraudulent transactions was important to Company A, and PayPal hadnt told them  about  3D Secure 
+when they signed up for PayPals payment portal. She thought it was likely that Company A wouldve 
+signed up for 3D Secure  earlier, had they known about it, and felt this wouldve protected them 
+against the chargebacks. Because of this she recommended  that PayPal reimburse Company  A for 
+the chargebacks  and any associated charges.
+PayPal didnt  agree with the investigator. Theyve said chargebacks are a risk associated with 
+accepting card payments, and its crucial to have sufficient fraud filters in place to prevent potential  
+losses through fraudulent activity. PayPal feel its Company  As responsibility  to ensure  these filters 
+are in place,  and that they cant be held responsible  if they dont.
+my provisional  findings
+Ive considered all the available evidence and arguments to decide whats fair and reasonable  in the 
+circumstances of this complaint.
+When goods or services  are purchased using a card, theres  some consumer protection  in place. If 
+the goods  or services  were  not supplied, or if the customer didnt authorise the payment in the first 
+place, they can ask their card provider  to refund the money. This is called  a chargeback and its dealt 
+with by the card providers,  not by payment  portal providers such as PayPal. A chargeback is not 
+guaranteed and there is a process in place that allows  businesses such as Company A to challenge  
+the request.
+Company A received a number  of chargeback  requests from customers claiming not to have 
+authorised payments. Ive seen from the evidence that Company A challenged these requests,  but 
+these challenges were unsuccessful. Because of this their bank has refunded almost £5,000 to 
+customers Company  A say theyve sent goods to.
+PayPal offers seller protection, and may reimburse a seller for a chargeback where this results from 
+an unauthorised payment. But this protection doesnt cover payments  made through  the payment 
+portal they supplied to Company A. This was made  clear  in the online user agreement  Company A 
+accepted when they signed up with PayPal.
+As a PayPal customer, Company A was also eligible for 3D Secure.  PayPals  website confirms  this 
+adds an additional  level of card payment security  on some  transactions   either  when a card is 
+registered for use with PayPal or if the transaction is considered to be risky.  This security process and 
+what is or isnt a risky transaction is determined by the card issuer and not PayPal.
+Ref: DRN10030314Its not disputed that PayPal didnt tell Company A about 3D Secure when they signed up for their 
+service, and I agree  that its likely Company A wouldve registered for this at the outset had they 
+known about it. But I dont think this means PayPal should reimburse  Company A for the value of the 
+chargebacks.
+3D Secure wouldve added  an additional layer of security on some transactions. Ive not seen 
+anything to show  that the chargeback transactions would definitely have had this additional  level of 
+security applied,  or that the customers would  definitely have failed this check had it been in place. For 
+that reason I cant say that not having 3D Secure  was the only reason why the transactions, and 
+subsequent chargebacks, were successful. Because of this it wouldnt be fair to ask PayPal to 
+reimburse Company A almost £5,000.
+I can see that Company A have been inconvenienced by what has happened  this is money  they 
+cant afford to lose. They will never know if having 3D Secure would have stopped any of the 
+transactions from being approved, which wouldve  reduced  the financial impact to them. I feel its fair 
+that PayPal  should compensate Company  A for the inconvenience of their not knowing if any of 
+transactions couldve  been  stopped had 3D Secure been in place. I consider  £150 is fair in the 
+circumstances.
+my provisional  decision
+My provisional  decision  is that PayPal Europe Sarl & Cie, SCA should  pay Company A £150 to 
+compensation for the inconvenience resulting  from them not being  advised about 3D Secure when 
+they signed  up for PayPals services.
+Andrew Burford
+ombudsman
+Ref: DRN1003031

@@ -1,0 +1,155 @@
+K820x#14complaint
+Miss M complains that Assurant General Insurance Limited declined  her mobile phone 
+insurance claim and about  the time it took to assess her claim. My references to Assurant 
+include its agents.
+background
+Miss M claimed  on her mobile phone insurance  for a stolen mobile phone.  Assurant is the 
+insurer.
+Assurant declined the claim on the basis of the following policy  term:
+It is important that when applying for insurance,  or submitting a claim you or anyone 
+acting on your behalf must take reasonable care to answer all questions  honestly and 
+to the best of your knowledge.  Failure to do so may affect the validity of your policy  or 
+the payment of your claim.
+Miss M had reported the theft as occurring on 27 October 2018. Assurant had evidence  from 
+the phone  manufacturer that the Find My iPhone  application was removed  from the phone  a 
+few weeks after the reported theft, allowing potential further  use of the mobile phone.  It said 
+the application could only be removed by someone with access  to Miss Ms security 
+information. It was also concerned  that the proof  of usage information from the phone 
+network provider showed  the phone had been used after the theft, which shouldnt have 
+been possible given  the level of security  on the phone Miss M said was in place.
+Miss M later provided a report from the phone  manufacturer  saying it appears that the 
+customer was the victim  of a phishing scam  to acquire their  ID password. As the thief had 
+access to the SIM, they would have also been able to bypass 2 step verification. Miss M 
+also provided a revised proof of usage from the phone network provider showing the last 
+usage around the time of the theft of the phone. Assurant still declined the claim.
+Miss M complained to us. She wants Assurant to accept her claim for a new phone and 
+shes unhappy about the time it took to assess her claim.
+Our investigator said Assurant hadnt unreasonably delayed  the claim assessment. But she 
+thought Assurant had unreasonably  declined the claim  as there wasnt enough evidence to 
+support that only Miss M or someone  she provided the phones security  information to could 
+have removed the phone from Miss Ms iCloud account. Miss M had sent us emails  that 
+shed got in December 2018 and February 2019 from email addresses  she said were posing 
+to be the phone manufacturer. She said shed deleted earlier emails but our investigator said 
+the later emails showed Miss M was the target of a phishing scam. Our investigator thought  
+Assurant should  reassess  the claim and pay Miss M £50 compensation for distress and 
+inconvenience.
+Assurant didnt agree and wanted an ombudsmans decision. It said the course of events  
+that would  have allowed someone without  Miss Ms authority  to access her iCloud and 
+remove the phone from her account were very unlikely to happen.
+my provisional findings
+I made  a provisional decision  that I was intending to not uphold  the complaint.  I said:
+Ref: DRN37274892delays and accessories cover
+Miss M submitted the claim form on 31 October 2018 and Assurant declined  the claim 
+around 20 November  2018. During  that time it requested various documents  from Miss M 
+and spoke to her about her claim. Assurant had concerns about the claim and it made 
+investigations, which I think were  reasonable. I don't think  Assurant unnecessarily  delayed  
+the claim assessment.
+Assurant accepts it incorrectly  told Miss M that her phone accessories claim had been 
+accepted, even though  this couldnt be done  unless the phone  claim had been  accepted  
+first. That was confusing  for Miss M, but Assurant did clarify the correct position  when she 
+spoke to it shortly after the incorrect email  was sent to her.
+claim
+I think the updated usage report from the phone network provider should satisfy Assurant 
+that the Miss M didnt make a call after the reported  theft. Shes also sent us proof of 
+blacklisting from the phone network provider showing the blacklisting date as 27 October 
+2018, which ties in with the date of the theft.
+But Assurant  also took into account  that someone  had access to Miss Ms iCloud and 
+removed the phone  from her iCloud account  several weeks  after she says the phone was 
+stolen. Assurant says given the security  Miss M said was on the phone the details used to 
+remove the feature  would only be known  to Miss M, or someone  she had trusted with the 
+information.
+The phone manufacturers report says it appears  Miss M was the victim of a phishing scam 
+to acquire her password  and as the thief had access to the SIM they would have also been 
+able to bypass  the two step verification process.
+Assurant says there's  no evidence Miss M was the victim of a phishing  scam; she says she 
+deleted the earlier emails from people posing  as the phone manufacturer  and shes not said 
+she entered the relevant  security information  in response to those emails.
+In summary,  Assurant says for Miss M's claim to be valid one of the following two scenarios 
+would have happened:
+1. Miss Ms phone was pickpocketed by someone that had the technical ability  to 
+create malicious emails  and send them to her (although  it was unclear how her email 
+address was obtained). Miss M was persuaded to enter her login details, even 
+though the phone had been stolen, in order for these to be captured  by the thief 
+allowing them  to access her iCloud  and remove the device from her account. Miss M 
+had deleted the relevant emails.
+Or
+2. The thief realised that Miss Ms phone network provider allegedly  reactivated her 
+SIM card temporarily by mistake. As the phone was reported as stolen the 
+reactivation would be very unusual  and not something the thief would  anticipate. The 
+SIM didnt connect  when the police  attempted to call the phone, suggesting it wasnt 
+active. The thief then hacked the device within the period of time that the SIM was 
+Ref: DRN37274893reactivated. That would have required the thief to have  specialised advanced 
+technical ability to bypass the phones  activation  lock.
+Assurant says on the balance of probabilities, neither scenario is likely.
+Im persuaded by Assurants evidence. I dont think either of the above scenarios are 
+probable. I think Assurant can reasonably believe that details used to remove  the feature 
+would only be known  to Miss M, or someone she had trusted  with the information.  As the 
+phone was removed  from her account  several weeks after she says the phone was stolen its 
+reasonable for Assurant to believe that its more likely than not Miss M didnt gave an 
+accurate account  of the theft.
+On the evidence I have Assurant fairly and reasonably relied on the above policy term to 
+decline the claim.
+responses to my provisional  findings
+Miss M said she was disappointed and upset by my provisional decision. She provided new 
+evidence: 
+emails from her phone  manufacturer about logging into iCloud after the phone theft, 
+the activation lock being requested  on the stolen device  and Find my iPhone  being 
+disabled on the stolen phone
+emails allegedly  from the phone manufacturer that she received after her phone was 
+stolen. She said she hadnt opened  any of the attachments to the emails or replied to 
+them but the emails showed there  were  attempts to get her login details 
+a list of previous  emails received  from her phone manufacturer
+emails from her mobile phone network  provider to show it did reactivate the SIM card 
+for several hours  after she reported her phone stolen.  She said the thief would have 
+been able to gain access to the phone and find her email  address and other personal 
+information. 
+We asked Miss M to confirm whether  or not she logged into iCloud after the theft of her 
+phone to disable the Find my iPhone feature and if so why. She replied that she would only 
+have taken actions  as advised  by the phone manufacturer  and she believed the thief 
+disabled the function when they stole the phone.
+We sent the new evidence to Assurant  for its comments. It said some of the emails  Miss M 
+now provided did look suspicious. However she had said she hadnt opened or responded to 
+any of those emails. So the question remained of how someone gained access to the 
+personal information in her phone to disable Find my iPhone and gain access  to her iCloud 
+to remove the phone from her account.
+Assurant accepted the mobile phone network provider admitted to reactivating  the SIM card 
+in error  for several hours. However Assurant still thought  it unlikely that the thief would have 
+realised the networks  error and relied on the error to hack the phone. And it said the phone 
+had Find My iPhone active at the time it was allegedly stolen so the phones activation  lock 
+was active, which is a security feature to prevent unauthorised use of the phone.
+Ref: DRN37274894Assurant also provided screenshots from the phone  manufacturers system  which  it said 
+showed the phone was taken into the phone manufacturers store  three times for diagnostic  
+checks after Miss M reported the phone as stolen. Assurant said that for the phone  
+manufacturer to gain access to the device  to do these tests the ID and passcode would be 
+needed. It said Miss M told it previously that she had spoken  to the phone manufacturer who 
+told her someone had pretended to be her. Assurant  queried how the phone manufacturer  
+would know the person  wasnt Miss M. And it noted  that the diagnostic report  showed a 
+'presence test' was carried out on 'face ID', one of the security  features of the phone, and the 
+test passed.  Assurant said it had fairly declined the claim.  
+my findings
+Ive considered all the available  evidence  and arguments to decide  whats  fair and 
+reasonable in the circumstances of this complaint.
+Im sorry  to disappoint Miss M but the new evidence shes provided hasnt changed  my 
+mind. I dont  uphold her complaint. 
+Even with her new evidence I think the issue remains  of how someone  other  than Miss M, or 
+someone she had trusted with the information,  accessed all her personal  security 
+information to be able to disable Find my iPhone and gain access to her iCloud to remove  
+the phone  from her account.  Theres also the issue of how someone was able to pass  
+Miss Ms facial  recognition security  after the phone had been reported stolen. 
+Miss M told us that she didnt respond to the emails that were allegedly from the phone 
+manufacturer. So its not clear to me how anyone who stole  her phone could have accessed 
+all the information  required to bypass all the security  features. 
+The phone network provider did temporarily reactivate the phone after it was stolen. But 
+Assurant says that still means  the thief would have to realise the unlikely event occurred  and 
+still wouldnt  explain how a thief would get access to the information needed to do the 
+actions that were taken  after the phone was reported stolen.
+Looking at the evidence overall  for the reasons Ive given in my provisional findings  and 
+these findings  I think Assurant can reasonably believe  its more likely than not Miss M didnt 
+gave an accurate account of the theft.  It fairly and reasonably declined  the claim.
+my final decision
+I dont uphold this complaint.
+Under the rules  of the Financial Ombudsman Service,  Im required to ask Miss M to accept 
+or reject my decision before 21 December 2019.
+Nicola Sisk
+ombudsman
+Ref: DRN3727489

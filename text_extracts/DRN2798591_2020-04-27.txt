@@ -1,0 +1,97 @@
+K820x#14complaint
+Mr C complained because  Skrill Limited  refused to refund him for a debit of €2949.43 from 
+his account, which he said he hadnt authorised.
+ 
+background
+In June 2017, Mr C set up an account with Skrill. A Skrill account  is an electronic money 
+account, which enables  customers  to send and receive electronic payments. Mr C opened 
+his account, which was in euros, because he wanted to use it for gambling.
+On 28 March 2019, Mr C received  a phone notification that €2949.43 had been debited  from 
+his account, and sent to another Skrill account.  Mr C got in touch with Skrill and said he 
+hadnt authorised  this debit. He asked Skrill to refund him, and also offer a gesture of 
+goodwill for the inconvenience.
+Skrill didnt uphold Mr Cs complaint. It said that it had looked at Mr Cs account  history, login 
+activity, and all related information which Mr C had provided during the investigation. Skill 
+explained that if what Mr C said was true, it would mean that whoever  had carried out the 
+transaction had direct  access to Mr Cs Skrill account. For that, the person would have had 
+to be aware of his email  address,  account password, and the additional six-digit  
+authentication number. Skrill concluded that if that was true, Mr Cs Skrill account  had been  
+compromised as a result  of intent  or gross  negligence. It said its rules  about security 
+practices were clear,  so it wouldnt be refunding Mr C.
+Mr C wasnt satisfied and complained to this service.
+The investigator didnt  uphold Mr Cs complaint.  She looked  at Mr Cs Skrill account, which 
+he used regularly. She noted  that to log into a Skrill  account, a customer  would need their 
+email address and password. Sometimes a log on is challenged by Skrills anti-fraud 
+provider, and an extra level of security is required.  This is a six-digit number which was set 
+by the customer when the account  was opened,  which they can change  at any point. 
+On 22 March 2019, Skrills anti-fraud  provider had challenged a log on. This was because  a 
+different device was being used to log on. Mr Cs correct six-digit number was entered, and 
+payments were then sent to two people.  Mr C hasnt  disputed these payments. After this 
+point, there  were no changes to Mr Cs PIN number. On 27 March, there had been an 
+attempted log on from an IP address in a different country. This was challenged by the anti-
+fraud system, and the correct six-digit  number was entered.
+The investigator also looked at the email address for the recipient of the money. Their 
+address was very similar to three to which Mr C had previously sent genuine payments. The 
+investigator didnt  think  that an unauthorised third party who obtained access to Mr Cs 
+account would have transferred money to an account which  was very similar to ones which 
+had previously been used for genuine payments.
+So the investigator considered it was most likely  that Mr C had authorised the transactions 
+himself.
+Mr C wasnt satisfied. He said he was particularly  disappointed that the six-digit  code was 
+key to the investigators decision, because this was a fundamental flaw in Skrills security.  
+He said that it was incredible that the investigator had said it was most likely that Mr C had 
+Ref: DRN27985912consented to the transaction,  because  Skrill had accepted that Mr Cs account had been 
+compromised.
+my findings
+Ive considered all the available  evidence  and arguments to decide  whats  fair and 
+reasonable in the circumstances of this complaint.  I note that Mr Cs partner had a similar 
+issue, but as the accounts are in individual names,  I cant consider her complaint as part of 
+Mr Cs complaint about the account in his sole name.
+The relevant  regulations  for Mr Cs complaint are the Payment Services  Regulations  2017.  
+Broadly speaking, these  say that if customers have  authorised a payment, theyll  be liable for 
+it. If they havent, the bank will be liable. But the regulations also set out that customers have  
+to meet  certain obligations,  primarily about  keeping their details secure.
+Skrill has provided evidence to show that Mr Cs registered email address and password 
+were used to log on to carry out the disputed transaction. So it was authenticated,  which  is 
+the technical part of the transaction. The next stage for me to consider is whether or not Mr 
+C consented to the payment, which is called authorisation.  And if he didnt,  I need  to decide 
+whether or not Mr C met the requirements within the regulations about keeping information  
+secure.
+Mr C has told us that he believes  someone  hacked into his email account, which he said was 
+all that was necessary  to access a Skrill account, and that a new PIN could  be set up without 
+knowing the old one.
+Skrill, however, has said that whoever carried out the disputed transaction  would have had 
+to have had access  to Mr Cs email address, account password, and the extra authentication  
+number. 
+If someone hacked into Mr Cs email address as he believes, hed have had to have written 
+down his Skrill password for the hacker to be able to access  it. And although Mr C says that 
+a new PIN could be set up without  knowing  the old one, theres no record that his PIN was 
+changed after the events of 22 March  which Ive set out above. Mr C carried out genuine 
+transactions after that. So any hacker  didnt change the PIN before making  the disputed  
+transaction, as Mr C believes.
+I consider this means that either Mr C carried out the transaction  himself, or hed written his 
+Skrill security  information down which meant a hacker could access it. 
+I note that the recipient of the disputed transaction had an email address which was very 
+similar to three other addresses to which Mr C had previously sent undisputed payments. It 
+seems unlikely that a hacker would use an account similar to a genuine one.
+I also note that Skrill  told us that Mr C completed  a questionnaire about his dispute, in which 
+he said he used the same password for his accounts, saved passwords to his browser and 
+stored his Skrill account information in his email.  When Mr C replied to our investigator,  
+however, he said he hadnt written  down his Skrill account details.
+In practice, it makes no difference whether Mr C carried  out the disputed transaction himself, 
+or whether he failed  to keep his information  secure.  The outcome under the Regulations is 
+the same. If he carried out the transaction  himself, he authorised it and is therefore liable for 
+Ref: DRN27985913it. If he failed to keep his information  secure, he didnt comply  with Regulation 72. This says 
+that The payment service user must take all reasonable steps to keep safe personalised 
+security credentials relating to a payment. This is reflected in Skrills terms of use.
+So I find that the evidence shows that either  Mr C carried out the transaction  himself, or it 
+was carried out by a third party who was able to do so because  Mr C hadnt  complied  with 
+the rules about  keeping  his personalised security credentials secure.  In either  case, the 
+Regulations dont  require Skrill to refund Mr C.
+my final decision
+My final decision is that I do not uphold this complaint.
+Under the rules  of the Financial Ombudsman Service,  Im required to ask Mr C to accept or 
+reject my decision  before 27 May 2020.
+Belinda Knight
+ombudsman
+Ref: DRN2798591

@@ -1,0 +1,106 @@
+DRN-2442409
+The complaint
+L, a limited company, complains about chargebacks debited from its account by First 
+Merchant Processing (Ireland) Limited trading as AIB Merchant Services. 
+What happened
+AIB acts as payment processing business, or merchant acquirer for L, who run a store 
+selling luxury items. 
+In early 2020 AIB debited Ls account with four large transactions due to chargebacks saying 
+they had been disputed by the card holders. They said the transactions had been keyed into 
+the card terminal rather than using chip and PIN.   
+L didnt accept the chargebacks saying it thought the genuine cardholders were in the shop 
+and that the transactions were made using chip and PIN. AIB disagreed so L brought its 
+complaint to our service.
+One of our investigators looked into what happened. They thought AIB was entitled to reach 
+the decision they did based on the available information. L provided a lot of information in 
+defence of the complaint which our investigator considered, but they were still of the opinion 
+that AIB hadnt done anything wrong by processing the chargebacks. L remained unhappy 
+so the complaint has come to me for a decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+L has provided quite a lot of information about this complaint. I want to assure L that Ive 
+read and carefully considered everything it has provided. Ive summarised the complaint and 
+condensed what happened which reflects the informal nature of our service. If I dont 
+mention a particular point raised by L it isnt because I havent considered it; I have, its 
+because I feel I dont need to comment on every point to reach an outcome which I think is 
+fair and reasonable.
+I think its important to start by saying that its not my role to decide what happened at the 
+time the transactions were completed in the store. Its my role to see whether I think AIB 
+acted fairly and reasonably when processing the chargebacks and debiting Ls account. This 
+is an important distinction as a lot of the information provided by L surrounds how the 
+transactions happened.
+I think its also important to say that I have no doubt L has been the victim of fraud and this 
+has cost it money. But being a victim of fraud doesnt necessarily mean AIB was wrong to 
+process the chargebacks.
+The chargebacks are for four transactions all made on the same day in Ls store using two 
+different cards for a total of £19,730. Since bringing the complaint to our service two of the 
+chargebacks have been refunded by the card scheme. This leaves two chargebacks 
+outstanding for a total of £7,500 both made on the same card. 
+The evidence shows that all the transactions were keyed into the terminal. This means that 
+the card details were entered manually, or swiped, rather than using the Chip and PIN 
+functionality. Keyed, or Cardholder Not Present (CNP), transactions dont come with the 
+same level of security as Chip and PIN. 
+CNP transactions are at a higher risk of fraud as PIN verification isnt checked. CNP 
+transactions produce an authorisation code which confirms that the card hasnt been 
+reported lost or stolen, and that there are available funds in the account. But this 
+authorisation isnt a guarantee of payment.
+The Merchant Procedure Guide (MPG) contains the following information about CNP 
+transactions:
+Do not key a Card number into your Terminal for a Transaction where the Card and 
+Cardholder are present, this leaves you open to the risk of chargeback
+Remember you may be liable for a Chargeback, in some circumstances, even if you 
+obtained Authorisation for a Transaction
+Please remember that Authorisation is not a guarantee of payment. If a sale appears too 
+good to be true, it probably is.
+Under no circumstances should a card sale be split between two or more vouchers for the 
+same Card 
+Additionally if a customer presents more than one Card for payment please take care and 
+complete additional checks to validate the Transaction.
+CNP and ecommerce Transactions are taken totally at your own risk.
+L says that the customer with the cards was in the store at the time of the transactions; so 
+keying the transactions goes against the MPG.
+The transactions on both cards were split; which also goes against the MPG.
+The MPG says to make extra checks if a customer presents more than one card; but I 
+havent seen any evidence this was done.
+The documentation shows the transactions were keyed, so L was at risk for the transactions. 
+Considering all of this Im satisfied that AIB correctly processed the chargebacks when the 
+genuine cardholder disputed the transactions. 
+L has provided a lot of information about what happened when the transactions were 
+processed. In summary it says the transactions were started by store staff as Chip & PIN, 
+but somehow the customer changed the transaction to keyed on the terminal.
+When talking about the terminal the MPG says: 
+Take care that the customer does not interfere with the Terminal or PIN pad.If I was to accept Ls theory about the customer interfering with the terminal and changing 
+the transaction type I would still be of the same mind that AIB acted fairly and reasonably by 
+debiting the chargebacks. If a customer was able to interfere to such an extent that the type 
+of transaction was changed then I couldnt say that care was taken with the terminal as the 
+MPG says it should be.
+L has suggested that there is a flaw in the software or system which allowed the customer to 
+change the transactions from Chip and PIN to keyed. However Ive seen no evidence this is 
+the case. 
+AIB says that what happened shouldve been noticed by store staff at the time as the 
+terminal receipts say KEYED. L says that this is a subtle difference on the receipt that it 
+wouldnt expect a salesperson to notice when then transaction started as Chip and PIN.
+About staff using the terminal the MPG says:
+It is your responsibility to ensure that all staff are properly trained in how to use your 
+Terminal(s) and the security checks associated with checking Cards for payment
+So whilst I agree the wording on the receipt is small, the MPG is clear that staff should be 
+properly trained in how to use the terminal and conduct security checks.
+Ive also taken into consideration that in its dealings with our investigator L said:
+The procedure for the keyed transaction is completely different, we have done it knowingly 
+many times 
+Somewhat confusingly in later correspondence with our investigator L said:
+ you are assuming that it is likely that our store manager on that day decided to perform 
+four times in a row a type of payment that was never done before or after.  
+These statements from L are contradictory. Whilst neither statement conclusively shows 
+what actually happened that day in the store, they do show that the store staff were aware of 
+the procedure for keyed transactions. 
+Having considered everything carefully Im satisfied that AIB acted fairly and reasonably 
+when processing the chargebacks and debiting Ls account. Thats not to say that L hasnt 
+been affected by what happened; it clearly has, but Ive seen no errors in how AIB acted.
+My final decision
+For the reasons explained above, my decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask L to accept or 
+reject my decision before 26 February 2021. 
+Warren Wilson
+Ombudsman

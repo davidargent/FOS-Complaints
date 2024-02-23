@@ -1,0 +1,147 @@
+DRN-4260161
+The complaint
+Mrs M, who is represented by her husband, complains she couldnt access her funds for a 
+considerable period following National Savings and Investments implementation of strong 
+customer authentication.
+What happened
+Mrs M has held a cash ISA with National Savings and Investments for many years. Her 
+husband has told us that shes hearing impaired and doesnt own a mobile phone.
+Mrs Ms husband has told us that Mrs M started having problems accessing her cash ISA in 
+August 2022 after National Savings and Investments had made changes to its processes in 
+order to implement strong customer authentication. Mrs M complained.
+National Savings and Investments looked into Mrs Ms complaint and sent several 
+(inconsistent) responses. Mrs M was unhappy with National Savings and Investments and 
+so complained to us.
+One of our investigators looked into Mrs Ms complaint and said that although it wasnt 
+unreasonable of National Savings and Investments to make changes to its processes, its 
+responses had been inconsistent. For example, at one stage National Savings and 
+Investments told Mrs M that she needed a mobile phone in order to receive one-time 
+passcodes so she could log onto her account when, in fact, one-time passcodes could also 
+be sent to a landline. Our investigator didnt think National Savings and Investments had 
+done enough for Mrs M between August 2022 and October 2022, but from October 2022 
+onwards our investigator thought that it had offered Mrs M alternative ways of authenticating 
+and had also offered to re-open her ISA and backdate the tax-free status of her account  
+shed moved her funds out of the ISA. And they awarded an additional £100 on top of the 
+£205 National Savings and Investments had already paid.
+National Savings and Investments accepted our investigators recommendations. Mrs M 
+didnt. She said she hadnt moved her funds back as shed only been given 20 days to 
+consider this and that the compensation didnt put things right given all the worry shed been 
+through. Mrs Ms husband told us that National Savings and Investments should, amongst 
+other things, acknowledge that it had had an IT meltdown and that its executive team ought 
+to respond saying what action they were taking to put matters right. Mrs Ms complaint was, 
+in the circumstances, referred to an ombudsman for a decision. Her complaint was, as a 
+result, passed to me.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+I can see that Mrs Ms husband feels very passionately that something has gone badly 
+wrong at National Savings and Investments and that it needs to acknowledge this publicly. 
+Im satisfied that our investigator has already explained our role  to look at complaints 
+individually and to look at complaints from eligible consumers  so Im not going to repeat 
+what theyve said here. Im looking solely at Mrs Ms complaint. Before doing so, its worth 
+explaining a bit about strong customer authentication.
+background
+NS&I has told us that it made changes in July 2022 to the way its customers log into their 
+online account. NS&I has told us that its customers now need to enter a six-digit one-time 
+passcode  which are sent by text message or an automated call  when they first log into 
+their account and each time they log in from a different browser. NS&I has told us that it 
+made these changes in order to implement new regulations that came into effect in 
+September 2019  namely the Payment Services Regulations 2017 (PSRs). These 
+regulations required payment service providers (PSPs) to apply strong customer 
+authentication in certain circumstances. Those circumstances are set out in in
+Article 100 of the regulations which says:
+A payment service provider must apply strong customer authentication where a 
+payment service user
+(a) accesses its payment account online, whether directly or through an account 
+information service provider;
+(b) initiates an electronic payment transaction; or
+(c) carries out any action through a remote channel which may imply a risk of payment 
+fraud or other abuses.
+The FCA gave PSPs until March 2020 to implement strong customer authentication for 
+online banking and gave the e-commerce industry until March 2022 to implement strong 
+customer authentication for online payments. The e-commerce industry includes card 
+issuers, payment firms and online retailers. There was, of course, nothing to stop firms 
+bringing in strong customer authentication sooner than that, if they wanted to do so.
+The Payment Services Regulations  which implemented an EU Directive from 2015 
+commonly known as PSD2  define strong customer authentication as:
+authentication based on the use of two or more elements that are independent, in that 
+the breach of one element does not compromise the reliability of any other element, and 
+designed in such a way as to protect the confidentiality of the authentication data, with 
+the elements falling into two or more of the following categories
+(a) something known only by the payment service user (knowledge);
+(b) something held only by the payment service user (possession);
+(c) something inherent to the payment service user (inherence);
+In short, strong customer authentication involves, amongst other things, checking that the 
+person accessing a payment account online or initiating an electronic payment is permitted 
+to do so. PSPs have to authenticate the person in question using factors based on 
+knowledge, inherence or possession and must use at least two independent factors 
+when doing so. They cant, for example, check using only knowledge based factors, but 
+they can check using one or more knowledge based factors and one or more possession 
+based factors. The changes that NS&I made to its processes  and the way they were implemented  are at the heart of this complaint.
+NS&Is approach to implementing strong customer authentication
+NS&I has said that it made changes to its processes in order to implement strong customer 
+authentication  and that the changes were important measures designed to combat fraud. 
+In addition, NS&I has said that its provided several alternative ways of authenticating, 
+including sending one-time passcodes to landlines  an option that would have worked for 
+Mrs M from October 2022 onwards.
+What has the FCA said about strong customer authentication and its expectations?
+The Financial Conduct Authority (the FCA) has published several papers about strong 
+customer authentication and its expectations, and it has written to firms about this too. In a 
+paper published in June 2019  Payment Services and Electronic Money  Our Approach  
+the FCA described its approach to the PSRs and payment services and e-money related 
+rules in its Handbook. The FCA said the paper provides guidance for a practical 
+understanding of the requirements, our regulatory approach and how businesses will 
+experience regulatory supervision. The FCA added that its guidance is intended to illustrate 
+ways (but not the only ways) in which a person can comply with the relevant regulations and 
+rules.
+In paragraph 20.21 of its paper the FCA said:
+We encourage firms to consider the impact of strong customer authentication 
+solutions on different groups of customers, in particular those with protected 
+characteristics, as part of the design process. Additionally, it may be necessary for a 
+PSP [Payment Service Provider] to provide different methods of authentication, to 
+comply with their obligation to apply strong customer authentication in line with 
+regulation 100 of the PSRs 2017. For example, not all payment service users will 
+possess a mobile phone or smart phone and payments may be made in areas without 
+mobile phone reception. PSPs must provide a viable means to strongly authenticate 
+customers in these situations.
+The FCA has, in my opinion, made it clear in its paper and elsewhere that businesses 
+shouldnt rely on mobile phones alone to authenticate their customers and should provide 
+viable alternatives for different groups of customers. The FCA has, in my opinion, also made 
+it clear in this paper and elsewhere that this includes people in areas with limited mobile 
+reception. The FCA has talked, for example, about managing the potentially negative impact 
+of strong customer authentication on different groups of customers particularly the 
+vulnerable, the less digitally engaged or located in areas with limited digital access. And the 
+FCA has also talked about the need for firms to develop strong customer authentication 
+solutions that work for all groups of consumers and has said that this means they may 
+need to provide several different authentication methods for your customers.
+The FCAs guidance is, in my view, aimed principally at current accounts and savings 
+accounts that customers can reasonably expect to be able to access easily and quickly. In 
+this case Im dealing with an ISA where that isnt necessarily the case. Thats something  
+along with the regulations and guidance, amongst other things  that I have to take into 
+account when deciding whats fair and reasonable in the circumstances of this complaint.
+Should NS&I have done more for Mrs M when she originally complained?
+I dont think anyone is disputing that National Savings and Investments could have done 
+more for Mrs M when she complained in August 2022. And that its responses between August 2022 and October 2022 were inconsistent. In the circumstances, I can understand 
+that Mrs M was having second thoughts about leaving her substantial investment with 
+National Savings and Investments. I can, therefore, also understand why she moved her 
+money. I do, however, agree with our investigator that National Savings and Investments 
+offered to re-open her account and backdate it once viable alternatives were in place. More 
+importantly, I think that offer  including a period within which to accept it  was reasonable. 
+Mrs M decided not to take up the offer  which is her right  but I agree it means she hasnt 
+mitigated losses shes now claiming.
+I also agree that National Savings and Investments responses  particularly about Mrs M 
+needing a mobile phone when it knew she didnt own one due to disability  were poor. But I 
+agree the compensation our investigator has recommended is a fair outcome having taken 
+the impact on Mrs M into account.
+Putting things right
+Given what Ive just said, Im going to require National Savings and Investments to pay an 
+additional £100 to Mrs M in compensation on top of the £205 it has already paid.
+My final decision
+My final decision is that Im upholding this complaint in part and requiring National Savings 
+and Investments to pay an additional £100 to Mrs M in compensation on top of the £205 it 
+has already paid. This additional payment is in full and final settlement of her complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mrs M to accept or 
+reject my decision before 13 September 2023.
+ 
+Nicolas Atkinson
+Ombudsman

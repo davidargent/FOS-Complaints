@@ -1,0 +1,102 @@
+DRN-4397626
+The complaint
+Mr J and Mr O have complained that Monzo Bank Ltd wont refund a transaction they say 
+they didnt make or otherwise authorise.
+What happened
+Both sides are most familiar with the case, so Ill summarise things in brief.
+Mr Js card details were used to register for Apple Pay. Someone then used this Apple Pay 
+token to attempt several online payments and one payment in person in a shop. There was 
+only enough money for one of the online payments to go through, which was for £175. The 
+other payments were declined.
+Mr J reported the payment after paying some money in later that day. Mr J and Mr O have 
+explained they were both at work at the time, hours away from the shop where the in-person 
+payment was attempted. Only they had access to their respective phones, which were 
+protected by their biometrics. Mr Js card was in his wallet, which was with him at all times 
+and didnt go missing. He hadnt clicked any suspicious links, downloaded any new software, 
+received any suspicious communication, or been asked to set up Apple Pay around that 
+time. Their security details were not written down, no one else knew them, and theyd not 
+been tricked into giving them out.
+Monzo held them liable for the payment in dispute, on the basis that the Apple Pay token 
+had been approved in Mr Js app on his phone.
+Our investigator looked into things independently and didnt uphold the complaint. Mr J and 
+Mr O didnt agree, so the complaints been passed to me to decide.
+I sent Monzo, Mr J, and Mr O a provisional decision on 26 September 2023, to explain why 
+I didnt think the complaint should be upheld. In that decision, I said:
+First, I do understand why Mr J and Mr O would like a breakdown of the technical data and 
+the various codes involved. But the data is extensive, complex, requires proper knowledge 
+and experience to appropriately interpret, and involves commercially sensitive information 
+about things like fraud and security systems. So it would not be reasonable for us (or Monzo) 
+to train Mr J and Mr O on how to interpret the data, or to explain things down to individual 
+lines of code. Its also worth bearing in mind that were here to resolve disputes more quickly 
+and informally than the courts. So I will instead focus my decision on what Ive found to be 
+the key points of the case, and Ill explain in plainer terms what Ive found in the evidence.
+In response to Mr J and Mr Os queries, I will clarify that once you set up Apple Pay on a 
+device (i.e. set up a token) you dont need to go through the full setup security process 
+again for every single payment. And while the records say MasterCard, thats just because 
+Mr Js card was a MasterCard type of card (as opposed to, say, Visa or American Express) 
+and it was Mr Js card which was registered to the Apple Pay token.
+Broadly speaking, Monzo can hold Mr J and Mr O liable for the payment in dispute if the 
+evidence suggests that it was authorised. I should clarify that this is not a criminal case, so 
+Monzo does not need to prove things beyond reasonable doubt, as Mr J and Mr O 
+suggested. Were just looking at whats most likely.
+In order to register Mr Js card for Apple Pay, the person doing so needed his full card 
+details. Mr J then needed to approve this new Apple Pay token on his Monzo app using 
+either his PIN or biometrics. According to the technical evidence, this token was approved on 
+Mr Js phone, at his IP address  the same phone and IP address which Mr J used for 
+genuine activity both before and after. This phone was the only active device on the account 
+at the time, and Mr J confirmed it was protected by his biometrics, it didnt go missing, and 
+only he had access to it. So we can be reasonably satisfied that it was Mr J who approved 
+the setting up of the Apple Pay token which was used here.
+The data doesnt detail whether it was Mr Js PIN or biometrics that were used to set up 
+Apple Pay  we just know it was one of the two. But only Mr J could reasonably use his own 
+biometrics. And Mr J confirmed only he knew his PIN and it wasnt recorded anywhere. 
+Theres no indication in the evidence that Mr J was hacked, no other device was involved, 
+and from what Mr J and Mr O have told us there wasnt a likely way they couldve been 
+hacked. So there doesnt seem to be a likely or plausible way that someone couldve set up 
+this Apple Pay token without Mr Js permission.
+A text was sent to Mr Js number to confirm that hed set up Apple Pay, and from the 
+screenshot Mr J sent I can see he received it. But he didnt tell Monzo anything was wrong at 
+that time. This also indicates that the Apple Pay token was set up with Mr Js consent.
+Now, I do accept that Mr J and Mr O were not present in the shop where the in-person 
+payment was attempted. Their workplaces have confirmed that they were both at work at the 
+time, some hours away in a different part of the country. But even if I accept that Mr J and 
+Mr O didnt physically try to make the payments themselves, it was still possible for them to 
+have given someone else permission to make them. And given that Mr Js card was 
+registered for Apple Pay in a way that only Mr J couldve realistically approved, its much 
+more likely that the disputed payment was made by someone hed given his permission to, 
+as opposed to it being unauthorised.
+I cant say for certain why Mr J mightve authorised someone else to use his card with Apple 
+Pay. There have been cases where people gave a friend or family member permission to 
+use their card, or where they were scammed and were too embarrassed to say so, or where 
+they authorised a fraudsters attempted activity because they were distracted and didnt pay 
+attention to what they were authorising, and so on. The point is that there are many reasons 
+why Mr J may have authorised someone to use his card details for Apple Pay. And based on 
+what Ive seen so far, its not likely or plausible that anyone other than Mr J approved the 
+setting up of this Apple Pay token.In summary, Mr Js card details, phone, app, and security credentials were used to add his 
+card to this Apple Pay token and then make the disputed payment. There isnt a likely or 
+plausible way this couldve been done without his consent. So Im reasonably satisfied that 
+Mr J consented to setting up this Apple Pay token with his card details  even if perhaps he 
+didnt realise thats what hed done. This meant that he effectively gave someone permission 
+to use his card details and make payments on his behalf, in such a way that to Monzos 
+system it would have looked like it was Mr J himself authorising them. And Im afraid that 
+means Mr J and Mr O (as the joint accountholder) are liable for the disputed payment, rather 
+than Monzo. This is a difficult message for me to give, and I know its a difficult message for 
+Mr J and Mr O to receive. But given what both sides have sent so far, and the balance of 
+probabilities, Im unable to reasonably reach any other conclusion.
+So based on everything Ive seen so far, I currently think its fair for Monzo to decline a 
+refund in this case.
+I said Id consider anything else anyone wanted to give me  so long as I received it by 
+10 October 2023. But neither side sent me anything new to consider.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Neither side have sent me any new evidence or arguments. So having reconsidered the 
+case, Ive come to the same conclusion as before, and for the same reasons as set out in 
+my provisional decision above.
+My final decision
+I dont uphold this complaint.
+This final decision marks the end of our services consideration of the case.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr J and Mr O to 
+accept or reject my decision before 9 November 2023. 
+Adam Charles
+Ombudsman

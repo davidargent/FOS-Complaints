@@ -1,0 +1,79 @@
+DRN-4116817
+The complaint
+A company, which Ill refer to as A, complains that Advanced Payment Solutions Limited 
+(trading as Cashplus Bank) wont refund a payment it didnt make. 
+Mr B, who is a director of A, brings the complaint on As behalf.
+What happened
+The details of this complaint are well known to both parties, so I wont repeat them again 
+here. The facts are not in dispute, so Ill focus on giving the reasons for my decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, Ive reached the same outcome as our investigator for these reasons:
+Cashplus hasnt disputed this concerns an unauthorised payment. However, in line 
+with the Payment Services Regulations 2017, it refused to refund it because it 
+asserts Mr B failed with gross negligence to comply with the terms of the account and 
+keep As personalised security details safe.
+In saying this, its pointed out how Mr B shared a one-time passcode (OTP) with a 
+fraudster from a message he received from Cashplus which said: XXXXX is your 
+code to verify the payment [amount] at [merchant] with card ending XXXX
+Mr B accepts he shared the code. Hes said he did so as he genuinely believed he 
+was speaking with Cashplus, given that the number appeared to belong to his bank, 
+and they knew several pieces of sensitive information about him and A. He explained 
+he focussed on the code in the message without reading the rest, as he was told it 
+was needed to stop a fraudulent transaction. 
+Having considered these circumstances, I can see how Mr B trusted the call was 
+genuine  I think lots of people wouldve done. And while its arguably careless not to 
+stop and read the message carefully, the test Im considering is whether Mr B acted 
+with a very significant degree of carelessness to conclude he failed with gross 
+negligence. Here, I can understand how Mr B simply shared the code when he 
+trusted the caller was from his bank, the message came through as he expected, and 
+he thought he was acting to sort out fraud on As account. 
+It follows that I dont think he seriously disregarded an obvious risk in the 
+circumstances. And taking everything into account, Im not persuaded that Cashplus 
+has shown Mr B failed with gross negligence. 
+Cashplus submit that to not hold Mr B liable for sharing an OTP negates a purpose 
+behind two factor authentication (2FA)  to stop fraud. It says that most people 
+wouldnt share OTPs, so those that do are grossly negligent. 
+2FA is indeed a mechanism to better protect against fraud. Afterall, without it, 
+fraudsters couldve simply used Mr Bs stolen card details to make the payment. But I 
+dont see how not holding Mr B liable takes away from this better protection. And I 
+dont think it follows that all payments made using 2FA demonstrate gross 
+negligence. 
+Indeed, regulation 75 of the PSRs states that the recorded use of a payment 
+instrument (which would include 2FA in this case) isnt enough to show gross 
+negligence. 
+And the FCA, in its guidance on its approach under the PSRs explains that gross 
+negligence must be assessed on its merits to ascertain whether the customer has 
+acted with gross negligence. In line with the recitals to PSD2, we interpret gross 
+negligence to be a higher standard than the standard of negligence under common 
+law. The customer needs to have shown a very significant degree of carelessness.
+It follows that sharing an OTP isnt enough to show gross negligence  its got to be 
+assessed against all the circumstances of what happened. Here, Mr B was duped 
+into sharing an OTP when he was cleverly and plausibly tricked into believing he was 
+talking with his genuine bank and it was needed to stop a fraudulent transaction. In 
+these circumstances, Ive not been persuaded that he acted with a very significant 
+degree of carelessness. 
+Cashplus also submit that our approach is open to abuse, as all customers can claim 
+refunds for payments by simply stating they were coerced into revealing OTPs. My 
+role is to decide whats a fair outcome to Mr Bs complaint. And Cashplus hasnt 
+submitted evidence to show that Mr B has acted fraudulently here, which it could do 
+in line with PSRs to deny liability for an unauthorised transaction. So this point 
+doesnt change my mind. 
+So, while Ive considered Cashpluss points carefully, Im not persuaded its shown 
+Mr B failed with gross negligence in the circumstances of this case. It follows that, in 
+line with the PSRs, I dont consider A can be fairly held liable for this unauthorised 
+payment and Cashplus needs to put things right  by refunding the unauthorised 
+payment alongside 8% simple interest per year to compensate it for the time its been 
+out of pocket.
+My final decision
+For the reasons Ive explained, I uphold Cs complaint. Advanced Payment Solutions Limited 
+must:
+Pay C the total of the unauthorised payment, less any amount recovered or refunded 
+ I understand this to be £420.80.
+Pay 8% simple interest per year on this amount, from the date of the unauthorised 
+payment to the date of settlement (less any tax lawfully deductible).
+Under the rules of the Financial Ombudsman Service, Im required to ask A to accept or 
+reject my decision before 11 August 2023.
+ 
+Emma SzkolarOmbudsman

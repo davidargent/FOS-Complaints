@@ -1,0 +1,108 @@
+DRN-3375090
+The complaint
+Mr L complains that Hargreaves Lansdown Asset Management Limited (HLAM) sold units he 
+had in Wisdom Tree Sugar Exchange Traded Commodity (ETC) at an off-market price. This 
+caused him a financial loss for which hed like compensation. 
+What happened
+In December 2020 Mr L bought over 3,700 units in Wisdom Tree Sugar ETC (the ETC) at a 
+total cost of just under £20,000. On 7 January 2021, in order to manage his risk, Mr L set a 
+stop loss at 548p, or roughly 6% lower than the prevailing price at the time. At around 
+1.28pm the same day, his stop loss was triggered and his units in the ETC were sold at 
+around 511p. Mr L said that shortly after the bid/offer price went back to 575/598. He 
+complained to HLAM that it had failed to protect him from what was, in his view, market 
+abuse and it did not look after his interests. 
+HLAM looked into his complaint but didnt think it had done anything wrong. It explained 
+what had happened in his case  namely that at 1.28pm the ETC suffered from a particularly 
+wide spread which triggered his stop loss. HLAM executed the stop loss in line with his 
+instructions, and said that his order was executed in line with the terms. It said the risk of 
+gapping had been clearly explained to him and was inherent in the use of a stop loss. 
+Mr L remained unhappy and referred his complaint to this service. One of our investigators 
+looked into Mr Ls complaint, but didnt consider it should be upheld. In summary, she 
+explained that HLAM had explained the risks of gapping to Mr L on its website and it wasnt 
+responsible for the ETCs price, or where it was trading at. She explained that the pricing 
+data Mr L had referred to wasnt conclusive evidence, because that only referred to certain 
+trades in the particular ETC Mr L held, not all of them. The evidence provided by HLAM 
+showed that it had correctly executed Mr Ls stop loss, and it did not have the discretion to 
+ignore it once it was triggered  if it had, and the price had continued to drop, HLAM 
+wouldve failed in its obligation to provide Mr L with best execution. 
+Mr L didnt agree with the investigator. He said that hed not received a satisfactory 
+explanation that market abuse hadnt taken place. He said he accepted that HLAM wasnt 
+directly responsible for the loss, but he said that it should have checks in place to ensure 
+that suspicious settlements are investigated. He agreed that HLAM had no discretion over 
+when to execute a stop loss once the price had been reached, but he said that this didnt 
+stop it from investigating unusual activity on his behalf. He said when he reported this 
+unusual activity to HLAM, it dismissed it as normal. 
+Mr L said that the pricing data he supplied showed that there was no evidence of any 
+market occurrence that would support a move over milliseconds to the extent of 14.2%. He 
+said it wasnt reasonable to suggest that the lowest price ought to have prevailed. And he 
+said that there was nothing to suggest that the stock he had a stop loss on had suffered from 
+a market event that would explain such a drop in price. Mr L said that in his view, this was 
+straightforward profiteering. He said that this was an off book trade and meant that 
+someone decided to see what would happen if they made a very low bid of 15% below the 
+offer price which resulted in them making an excessive profit out of all those investors who 
+had stops in that particular ETC. In Mr Ls view, it was unacceptable to suggest that this 
+was the reality of the market at that time and instead, he said it was a glitch or market abuse 
+unless it can be proved otherwise. 
+Mr L said that if this were to go unchecked, it would make a mockery of the security offered 
+by the stop loss system. He said that given HLAM offer a service to protect the investors, 
+surely they have a responsibility that such service is fit for purpose. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having read Mr Ls submissions very carefully, Id like to make it clear that I understand his 
+frustration  and I sympathise with his disappointment at the level his stop loss was 
+executed at. But my role is to consider HLAMs actions in line with what is fair and 
+reasonable  and this includes the extent of HLAMs responsibility when executing a client 
+order. 
+Mr L has said that HLAM ought to have looked into the price discrepancy and in some way 
+protected his interests given what he calls the market abuse that occurred. But I dont agree 
+this is something that HLAM was required to do at the time. HLAM facilitates the trades of 
+many thousands of investments, for many thousands of clients, and executes trades on 
+behalf of all these clients in significant volumes. I dont agree its fair and reasonable for Mr L 
+to have expected HLAM to second guess the market quote it received on the ETC from the 
+market makers it uses  and Im not clear how it would have gone about doing so, when the 
+prices were fluctuating in real time. 
+What HLAM was required to do was execute Mr Ls trade in line with its terms and best 
+execution policy and the relevant rules in Conduct of Business Rules (COBS  and 
+specifically, COBS 11). This required HLAM to execute Mr Ls instruction and obtain for him 
+the best available price at that time, taking into account execution factors. In Mr Ls case, 
+the evidence Ive seen is persuasive evidence that his stop loss was triggered, and 
+executed, at the best available market price. I acknowledge that shortly after the price 
+increased again to a level above his stop loss  but as the investigator and HLAM have both 
+explained, and as Mr L himself has acknowledged, the risk of gapping, even for a very short 
+amount of time, is inherent in trading. Its also a particularly relevant risk when placing 
+automatic orders, such as stop losses, because it removes the traders ability to assess the 
+price and decide whether to sell, or hang on to the investment with the expectation that the 
+price will recover. 
+Ultimately, once HLAM received a price from its market makers which was below the level of 
+the stop loss Mr L had set, it had an obligation to execute it as soon as possible. Having 
+done this, HLAM had discharged its obligations towards Mr L and was required to do nothing 
+else. 
+HLAM has also provided a detailed explanation about the specific ETC Mr L had invested in 
+and what it said caused the bid/offer spread to widen. It said that the ETC Mr L was invested 
+in was order driven stock, which meant that its prices were based on the best buy and sell 
+orders which were placed on its order book by market makers. On the day in question, a number of orders were removed from the order book which caused 
+the bid/offer spread to widen significantly, thereby triggering Mr Ls stop loss. As a result, 
+HLAM executed Mr Ls trade (in the end at a slightly improved price) in line with its terms 
+and its obligation to provide him with best execution. The fact that the ETCs price improved 
+shortly afterwards wasnt something HLAM could anticipate or do anything about.  
+I acknowledge that during our investigation Mr L provided some evidence that he said 
+showed that the price of the ETC didnt reach the level his stop loss was executed at. The 
+investigator correctly explained that the evidence Mr L had was not conclusive, as it didnt 
+show all the executed trades in the ETC Mr L had. HLAM has provided persuasive, and in 
+my view conclusive, evidence of the ETCs prices at the time  and these corroborate the 
+reasons why Mr Ls stop loss was triggered, and the price that his units were sold at. 
+I understand why Mr L thinks that HLAM ought to have investigated or otherwise looked into 
+the price volatility, given the absence of any particular news or market event that would 
+explain it. However, I dont agree that this was something HLAM needed to do for Mr L. Mr L 
+is entitled to raise his concerns with the London Stock Exchange if he thinks theres been 
+market abuse, or with any other relevant institutions tasked with investigating stock market 
+irregularities. But in terms of this specific order, and the price it was executed at, Im satisfied 
+HLAM have treated Mr L fairly and did not cause him the loss he is claiming. 
+My final decision
+My final decision is that I dont uphold this complaint. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr L to accept or 
+reject my decision before 5 May 2022.
+ 
+Alessandro Pulzone
+Ombudsman

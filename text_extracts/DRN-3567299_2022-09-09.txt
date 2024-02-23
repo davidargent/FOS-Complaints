@@ -1,0 +1,71 @@
+DRN-3567299
+The complaint
+N, a limited company, complains that New Wave Capital Limited trading as Capital on Tap is 
+holding it responsible for a payment on its revolving credit account that it didnt make.
+What happened
+N disputes making an online payment of £4,900 on 9 May 2021. It says that its card details 
+must have been compromised. This has resulted in significant borrowing that it is having 
+difficulty paying. It has been in touch with the merchant which is willing to assist but only if 
+contacted by Capital on Tap.
+Capital on Tap said it wouldnt be refunding the money. The payment was authenticated with 
+the 3DS (3D secure) verification. This meant that a one-time passcode was sent to the 
+mobile phone registered to the account. And this had to be input on the merchant payment 
+page. The director of N had told it that his mobile phone and laptop were secure and that no 
+one else involved with N could have made this payment. So, it held N liable for it.
+Our adjudicator didnt recommend that the complaint be upheld. She said that the payment 
+was authenticated with Ns details. The information from Capital on Tap was that 3DS was 
+used. Although the director had told Capital on Tap that his mobile was secure he now said 
+that it didnt have a password. And while he said that he may he left this unattended at lunch 
+he also said he always had it with him. His wife had access to the card, and he had also not 
+mentioned to this service that there was a business manager at the time for N. The dispute 
+wasnt raised until 18 July 2021 and the director could have reported this earlier.
+N didnt agree and wanted the complaint to be reviewed. The director said it wasnt now 
+easy to remember what happened. He had three mobile phones and was running a business 
+so this might account for differences in his version of events. He did have someone else 
+working at N at the time but let them go and so didnt mention this. He wanted to know why 
+Capital on Tap wouldnt contact the merchant. This debt was causing difficulties for N.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+I need to take into account the Payment Services Regulations 2017 in considering this 
+complaint. These state that a payment can only be authorised if it was consented to. So, its 
+not enough for it to be authenticated with security details. And if a payment wasnt 
+authorised N wouldnt generally be responsible for it.
+So, I will be thinking about the following areas in looking at this complaint:
+- What is the most likely explanation of what happened regarding this payment?
+- Did the director authorise the payment on the account, or allow someone else to use the 
+card details?
+Im satisfied that this payment was authenticated with the details for Ns account. Ive seen 
+an audit log showing that the payment was successfully authenticated. And so, the payment 
+was verified for the merchant and Capital on Tap states that a one-time passcode was used 
+for this as part of 3DS.
+I need to think about whether N consented to and so authorised the payment. I note that 
+there were no other reported fraudulent attempts to use the card. And this significant 
+payment had been made without issue and based on what Capital on Tap says there was 
+still an available credit limit of some £1,800 remaining on the account. This card was used 
+after that for genuine payments. This payment was shown in a statement issued for the 
+period ending 24 May 2021 with a minimum payment due by 15 June 2021 and which N 
+made by direct debit. Ive also seen evidence that N was sent a text message about the 
+balance and minimum payment on 25 May 2021. Im unclear why given the size of the 
+payment N didnt report the dispute until 18 July 2021.
+The director has said that no one else with access to the card and account made this 
+payment. If another individual had been allowed access to the security information then N 
+would in my view be fairly responsible to Capital on Tap for what that person did.
+I appreciate that the directors memory of events may not be as good now. And so, I rely 
+more heavily on what he said when he reported things. And that was clearly that his phone 
+and laptop were kept secure, and his card wasnt lost. Its not impossible that an unknown 
+third party discovered the card details. But there is no explanation of how that person would 
+have been able to receive a security code  and especially given that the payment was 
+timed at 01:28. I think it most likely that N consented to and so authorised this payment.
+N wanted Capital on Tap to contact the merchant. But it took the view that the payment was 
+authorised and there wasnt a valid basis to challenge it using chargeback as 3DS was used. 
+So, I dont think it acted unreasonably in holding N responsible for this payment. 
+I appreciate that this will be a disappointment for the director given whats at stake and what 
+hes said about his own financial position.
+My final decision
+My decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask N to accept or 
+reject my decision before 7 October 2022.
+ 
+Michael Crewe
+Ombudsman

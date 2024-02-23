@@ -1,0 +1,120 @@
+DRN-4404052
+The complaint
+Ms I complains that Revolut Ltd failed to refund a transaction she didnt identify.
+What happened
+What Ms I has said
+Ms I was out shopping and had difficulty with her Revolut account. After spending some time 
+logging into it and answering various security questions, she noticed a large payment had 
+left her account which she didnt recognise. This payment had been made to a crypto 
+currency merchant and nearly emptied her account. The payment was for £2,500.
+Ms I asked Revolut to refund this as she didnt make the transaction herself. She said that 
+someone had hacked her email and been able to obtain the necessary details to register 
+another device on her account which was responsible for stealing the funds. Ms I said that 
+based on the timings of the transaction (very early in the morning), she was asleep and in a 
+different part of the country to the new device registered to her account. Revolut declined the 
+refund, believing shed carried out the payment herself. Ms I complained to Revolut who 
+again considered the circumstances but didnt change their position. 
+Ms I then brought her complaint to the Financial Ombudsman Service for an independent 
+review where it was assigned to an investigator.
+What Revolut have said
+Revoluts system restricted the account after an automatic alert was created. Once theyd 
+confirmed Ms Is identity, they considered whether they could use the chargeback system to 
+challenge the payment, but after reviewing their information and based on what Ms I told 
+them, they didnt think it would be successful. 
+Ms I had confirmed that she hadnt given her account details to anyone else or lent her 
+phone to another person. Revolut didnt think that her account had been compromised. They 
+did consider if the payment was the result of a scam, but Ms I said she knew nothing about 
+the purchase of crypto currency. Revolut declined to make a refund, believing that Ms I was 
+responsible for the payment.
+The investigation so far
+Both parties were asked to provide evidence and information about the disputed transaction. 
+Ms I described how shed noticed emails (from Revolut) in her account that she hadnt 
+actioned. She believed that someone had hacked her email and removed the emails from 
+her inbox, but theyd failed to fully destroy the emails. She said that shed seen notices 
+from Revolut but hadnt acted on them as she often received spam from them.
+Ms I denied any knowledge of the disputed transaction and remarked that the payment had 
+caused her some distress as shed had to obtain a loan from her employer.
+Revolut provided technical information concerning how the payment was made and an audit 
+of actions carried out on the account. They explained that there was a new device registered 
+to use the account around the time of the disputed transaction and location information 
+indicated it was some distance from where Ms I was living at the time. 
+But, they said that the crypto currency merchant had requested an additional level of security 
+when the payment was made known as 3DS. This meant that a message was sent to the 
+primary device registered with Revolut  and that was the one used by Ms I. It wasnt the 
+one that was newly registered that morning. That message required the user to open the app 
+and confirm the payment was genuine before the crypto merchant would accept the 
+payment.
+After the investigator reviewed the evidence from both parties, he concluded that it was likely 
+that Ms I made the payment herself. It was noted in his report that:
+No one else had access to the account apart from Ms I.
+Her primary device, which had been registered and used without issue, was 
+responsible for confirming the 3DS message.
+There was another device, but Revoluts information stated it was registered after the 
+disputed transaction had already happened.
+Ms I strongly disagreed with the investigators outcome, commenting that:
+She was asleep at the time and knew nothing about the transaction.
+The automatic restriction on her account (after the disputed transaction had already 
+occurred) is evidence the account was compromised.
+Ms I recovered emails she believes were evidence of the hacker gaining access to 
+Revolut codes used to defraud her and an email account she believes belonged to 
+the hacker.
+As no agreement could be reached, the complaint has now been passed to me for a 
+decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+This complaint has been considered based on the assertion by Ms I that she knew nothing 
+about the payment. Essentially shes saying it was unauthorised. Revolut considered if Ms I 
+was caught up in a scam which often involves payments to crypto currency merchants. Ms I 
+told them this wasnt the case. The relevance of whether the payments were unauthorised or 
+a scam is that theyre treated slightly differently when assessing the merits of the situation 
+and what wed expect of either party. So here, as Ms I denied any involvement in the 
+transaction, its been treated as an unauthorised complaint.
+The relevant law surrounding authorisations are the Payment Service Regulations 2017. The 
+basic position is that Revolut can hold Ms I liable for the disputed payments if the evidence 
+suggests that its more likely than not that she made them or authorised them. 
+Revolut can only refuse to refund unauthorised payments if it can prove Ms I authorised the 
+transactions, but Revolut cannot say that the use of the card details for an online payment 
+conclusively proves that the payments were authorised.  Unless Revolut can show that consent has been given, it has no authority to make the 
+payment or to debit Ms Is account and any such transaction must be regarded as 
+unauthorised. To start with, Ive seen the banks technical evidence for the disputed 
+transactions. It shows that the transactions were authenticated using the payment tools 
+issued to Ms I. Ill now need to consider the information provided by both parties to 
+determine whether theres sufficient evidence to hold Ms I responsible for the disputed 
+transactions or not.
+Whilst theres evidence of a new device recorded on Revoluts system, that device didnt 
+receive the 3DS security message generated by the crypto merchant. Revolut have 
+confirmed that only the primary device (here Ms Is own phone) would receive the 3DS 
+message. In order to activate that confirmation, it required a log in to the app installed on Ms 
+Is device (her mobile phone).
+In order to do that, someone had to have access to her physical phone, know the security 
+details to access it (biometric/or personal identification number (PIN)), then open the banking 
+app and login with another set of security information, before confirming the message to 
+authenticate the transaction with the merchant.
+Each of those steps requires discreet information known only to Ms I. As shes confirmed no 
+one else uses her phone or has access to the information about it or her Revolut account, it 
+seems unlikely that an unknown hacker could obtain the entirety of that information. 
+Ive also thought about the compromise of her email account. If someone had access to the 
+account in order to intercept the messages about the new device logging into it, as Ms I 
+stated, why would they then send those details (which werent relevant to the disputed 
+transaction) to another email account? They would have all the information they needed at 
+the point the account was compromised because they would essentially be in control of it 
+and could see the messages from Revolut. Ive not seen anything that would persuade me 
+the email account was linked to the disputed transaction.
+Overall, there are a number of steps required in order to authenticate the 3DS message sent 
+to Ms Is primary device, particularly the requirement to open the app on the device itself. If, 
+as Ms I states, she was asleep and had the device with her, it seems unlikely to me that 
+someone unknown to her could get hold of the phone, bypass several levels of security on 
+the phone and the Revolut app itself, before authenticating the transaction, before returning 
+the phone to Ms I at her home.
+Based on an objective review of the evidence, I think its more likely than not that Ms I was 
+responsible for these transitions or allowing someone else to do them with her knowledge. In 
+either case, I think its both fair and reasonable that Revolut held her liable for the disputed 
+transaction and I wont be asking them to do anything.
+My final decision
+My final decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Ms I to accept or 
+reject my decision before 1 December 2023.
+ 
+David Perry
+Ombudsman

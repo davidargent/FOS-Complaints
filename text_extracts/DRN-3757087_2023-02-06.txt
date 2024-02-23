@@ -1,0 +1,123 @@
+DRN-3757087
+The complaint
+Mr L complains that Barclays Bank UK PLC did not action his international transfer 
+instruction correctly.
+What happened
+Mr L says that on 29 December 2021, he contacted Barclays to transfer £25,000 from his 
+Barclays account to an overseas account and he paid a fee to do this. He said he provided 
+Barclays with the transfer address requirements of the recipient bank, the name of the 
+clearing bank, the banks Society for Worldwide Interbank Financial Telecommunications 
+(SWIFT) code, account number and the International Bank Account Number (IBAN).
+Mr L travelled overseas and visited the bank on 6 January 2022, who should have received 
+the funds and he provided them with the receipt of the transfer, however, they had not 
+received the funds and the money could not be traced. He says the overseas bank informed 
+him that the address on the receipt was incorrect and incomplete. He says they sent 
+Barclays an interbank message for them to trace the transfer, but Barclays responded to say 
+the transfer could not be located. Mr L made a complaint to Barclays. 
+Barclays did not uphold Mr Ls complaint. They said it is the responsibility of the receiving 
+bank to ensure all their standard settlement instructions for payment routing remained up to 
+date in the SWIFT register and they are advised of any updates. They explained how the 
+transfer was routed. Barclays said that even if they were able to add a correspondent bank 
+to the payment instruction, this did not guarantee that the payment will be routed via that 
+bank and that is why it is so important for the receiving bank to keep the payment routing up 
+to date. Barclays said that the funds were returned to them by one of the banks involved in 
+the transfer on 7 January with the reason internal policy, Barclays said they were unable to 
+provide him with any further information on this. 
+Mr L brought his complaint to our service. He said he wanted compensation for his 
+expenses, stress and inconvenience caused and he would like a full refund of his financial 
+losses during his overseas trip and compensation for the psychological trauma he suffered.
+Our investigator did not uphold Mr Ls complaint. He said Barclays confirmed that they sent 
+the payment correctly and using the information they had available to them. He said the 
+money needed to be sent to a correspondent bank for the recipient bank, but for this to 
+happen, they needed to transfer the funds through a third party UK bank, which Barclays did, 
+who returned the funds due to their internal policy. He said the third party bank returning the 
+funds was not in Barclays control. Our investigator said that Barclays also provided 
+additional evidence in the form of screenshots from the SWIFT register, which confirms that 
+the corresponding bank for transfers from the UK was the bank they had routed it to. 
+Mr L asked for an Ombudsman to review his complaint. He made a number of points. In 
+summary, he said that Barclays claimed that they followed the right procedure in line with 
+their internal system, but if the information input was wrong then the outcome of the process 
+would be wrong. He said if the information he gave them was not in line with what they 
+claimed they had on their system then that should have flagged up at the point of transaction 
+and he said that Barclays failed to use the SWIFT address that he gave them on the day of 
+the transfer. He said the recipient bank undertook an interbank communication directly 
+referencing the transfer with the same reference that was reflected on the customer 
+confirmation receipt, but Barclays said they couldnt locate the item to which the recipient 
+bank referred to.
+Mr L said that SWIFT addresses, swift codes and IBAN numbers are a standard format of 
+Bank Identifier codes (BIC) and it is a unique identification code for a particular bank. He 
+says his friend sent him $225 to the same details from a different UK bank when Mr L was 
+overseas and it reached his account, therefore if a different bank can process the payment 
+successfully, this proves that Barclays got it wrong. He said the recipient bank had signed 
+and stamped correspondence to him confirming they have been using the SWIFT process 
+for over ten years without strong challenges or default. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Mr L has made a number of points to this service and Ive considered and read everything 
+hes said and sent us. But, in line with this services role as a quick and informal body Ill be 
+focusing on the crux of his complaint in deciding whats fair and reasonable here. 
+I must make it clear that I will only be able to look into the actions of Barclays here as this is 
+who Mr Ls complaint is solely about. So I wont be able to make any finding against any 
+other bank who may have been involved here, including any correspondent banks, recipient 
+banks or any other financial institutions who may have been involved.
+Ive looked at the customer confirmation receipt that Barclays provided to Mr L. Im satisfied 
+that the details of the beneficiary bank including the address, the SWIFT/BIC account 
+number/IBAN etc all match the details of the recipient bank and the recipient bank details Mr 
+L says he gave Barclays. He has also placed his initials next to each section and he has 
+signed the form to confirm that he has checked the payment details and he confirms they are 
+correct and he understands that a failure to provide the correct details could lead to the 
+payment being delayed, cancelled or incur additional costs. 
+So if Mr L was in any doubt that Barclays had not used any correct details or were missing 
+any specific details, he shouldnt have initialled and signed to confirm the details were 
+correct. As there is no confirmation of payee system for international payments, Barclays 
+would not be aware if any information that Mr L gave them was incorrect. Ive looked at the 
+original SWIFT message and this also confirms the correct details of the recipient.
+So Im not persuaded that a different SWIFT code/recipient bank address etc has been used 
+to what should have been used. But the funds did not reach the intended account. So Ive 
+considered why the funds did not reach their intended destination. 
+Not every bank has a direct business relationship with all other banks, and so in some 
+cases, there may need to be one or more intermediary banks, known as correspondent 
+banks, used during the process to join up the sending and receiving bank. This is what has 
+happened here as Barclays and the recipient bank did not have a direct business 
+relationship in order to send the money from Barclays direct to them without any other bank 
+involved. 
+So Ive looked at the route that Barclays have sent the payment. Barclays have provided me 
+screenshots of the SWIFT register, which is an industry standard of how financial institutions instruct international transfers to be routed. The SWIFT register shows that for the SWIFT 
+code Mr L gave Barclays that when the payment is made in Pound Sterling (GBP) that a 
+different bank is used to the one Mr L was told by the recipient bank that it would need to go 
+through. 
+It is only if the payment was sent in United States Dollars (USD), that the SWIFT register 
+shows that the payment could be routed through the correspondent bank that the recipient 
+bank had told Mr L that the payment needed to go through. Ive noted the photograph that 
+Mr L provided us dated 11 December 2021, which is a printout of the recipients details, does 
+not show a currency in how this money should be sent to them, so if they thought the 
+payment was going to be sent in USD then this would match up with the SWIFT register. As 
+the recipient bank would be responsible for the information on the SWIFT register to be 
+accurate, Im not persuaded that Barclays have made an error by routing the payment 
+through the route that the SWIFT register shows for the currency the money was sent in. 
+While the recipient bank had sent Barclays a message with details of how the funds should 
+be routed after the payment had not been received by them, and Barclays couldnt initially 
+locate the reference and told them to use a different reference when they responded to 
+them, this was after the funds had been sent back to Barclays by a bank who was involved 
+in the transfer. So I would not expect Barclays to make another international transfer (which 
+could incur fees) without Mr Ls instruction. Barclays would have no control over the payment 
+when it left them, so if a correspondent bank had returned the payment due to their internal 
+policy, it wouldnt be proportionate to hold Barclays responsible for this when they had 
+processed Mr Ls signed instructions and they used the SWIFT register to route the payment 
+as it is industry standard to do so. 
+Ive considered what Mr L has said about his friend sending him $225 to the same details 
+from a different UK bank which proves that Barclays got it wrong. But here, I can only focus 
+on this specific transfer, as this is the crux of his complaint. But I would point out that the 
+photograph he sent us on 16 December shows the currency as USD, so that is why it could 
+have been routed a different way to his GBP payment he is complaining about here. So as 
+Im satisfied that Barclays acted in line with Mr Ls signed instructions and routed the money 
+in the way I would expect them to for a GBP payment, it follows I dont require Barclays to do 
+anything further.
+My final decision
+I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr L to accept or 
+reject my decision before 6 March 2022.
+ 
+Gregory Sloanes
+Ombudsman

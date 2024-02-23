@@ -1,0 +1,168 @@
+DRN-3616170
+Complaint
+Ms L is unhappy that Monzo Bank Ltd hasnt paid her a refund after she was the victim of an 
+authorised push payment (APP) scam.
+Background
+In January 2021, Ms L received phone call from someone who claimed to be an employee of 
+HMRC. She was told that someone had created accounts using her name and was using 
+them for money laundering purposes. She was told that, as a result, her genuine bank 
+account would be frozen. She therefore needed to move her money out of it into a new bank 
+account that had been set up for her. She made two payments for £998 and £4,000 
+respectively from her Monzo account. Unfortunately, the person she was speaking to was 
+not an HMRC employee, but a scammer.
+Once she realised, she notified Monzo. Monzo considered her complaint but declined to pay 
+her a refund. It said it didnt think shed done enough to verify the legitimacy of the caller. Ms
+L was unhappy with this and so she referred a complaint to this service.
+It was looked at by an Investigator who upheld it. The Investigator said:
+- Monzo should pay Ms L a full refund under the terms of the Contingent 
+Reimbursement Model (CRM) code. He thought that none of the exceptions to 
+reimbursement under the code were applicable.
+- Monzo shouldve identified a clear fraud risk associated with the £4,000 payment. 
+This payment was unusual and out of character and it shouldnt have allowed it to be 
+processed without questioning Ms L about it first.
+Monzo disagreed with the Investigators conclusions. It said that:
+- It didnt have to reimburse Ms L if she made the payments without a reasonable 
+basis for believing that they were in connection with a legitimate purpose. For a 
+multitude of reasons, it thought Ms L shouldnt have taken the claims of the 
+scammers at face value. It therefore thought this exception was applicable.
+- It didnt have to reimburse Ms L if she made the payments after ignoring an Effective 
+Warning. It displayed a warning at the time the payments were made, but Ms L 
+proceeded with the payment  and so it thought that this exception applied too.
+- It didnt agree that it needed to intervene in response to the £4,000 payment. If it 
+were expected to intervene in connection with payments of this size, this would 
+cause significant disruption to the processing of thousands of legitimate payments.
+As Monzo disagreed with the Investigators opinion, the complaint was passed to me to 
+consider. I issued my provisional findings on 18 May 2022. I wrote:
+The starting point in law is that Ms L is presumed liable for any transactions on her 
+account that she authorises. She did authorise the two payments that are the subject 
+of this complaint, even though she did so under false pretences and as a result of a 
+scam. But thats not the end of the story. Monzo has agreed to follow the the CRM 
+Code. This code of practice says signatories should refund victims of scams like this 
+one in all but a limited number of circumstances.
+The circumstances where a firm may choose not to reimburse a customer under the 
+CRM Code are limited. Monzo says that two exceptions to reimbursement apply in 
+Ms Ls case.
+The relevant exceptions to reimbursement are:
+-where the customer made payments without having a reasonable basis for 
+belief that the person they were paying was legitimate.
+-where a customer ignored an effective warning given by the bank.
+Ive considered these potential exceptions in turn.
+Reasonable basis for belief
+Monzo isnt required to pay a full refund under the code where the customer made 
+the payments without having a reasonable basis for belief that the recipient was 
+legitimate. Ive considered this point carefully and Im not persuaded Ms L did have a 
+reasonable basis for belief here. I say that for the following reasons:
+The calls Ms L received werent from spoofed numbers  that is, they were 
+made from ordinary mobile numbers and the scammers hadnt made any 
+effort to make it appear that they were calling from a genuine HMRC number.
+Many of the messages Ms L received from the scammers were sent to her via 
+WhatsApp. A genuine HMRC employee wouldnt have communicated with 
+her in this way and Im surprised that she didnt regard this with more 
+suspicion.
+Ms L made her payments to a private individuals account. A genuine HMRC 
+employee wouldnt have accepted payments in this way. I think Ms L 
+shouldve regarded this as suspicious.
+Its clear from the account Ms L has given to us and the business that she 
+was apprehensive and doubted the truth of what she was being told by the 
+scammers. She says she was told by the scammers that they wouldnt send 
+her anything to prove who they were until she sent over the payments.
+Overall, I think there were clear warning signs that this contact hadnt come from a 
+genuine employee of HMRC. Ms L had her suspicions that the call related to a scam, 
+but she proceeded regardless. I know that she did so out of fear of what she believed 
+wouldve been very serious consequences of not cooperating with an HMRC 
+investigation. Nonetheless, Im not persuaded that it was reasonable for her to 
+believe that she was genuinely communicating with an HMRC employee. Im 
+therefore satisfied that Monzo can rely on this exception to reimbursement. This 
+means it doesnt have to refund her in full under the terms of the code.
+Should Monzo have done more?Ive also considered whether Monzo met its standards under the code. The code 
+says that, where a firm identifies a risk of fraud, it should provide a warning. Monzo 
+has said that Ms L wouldve seen a warning when making these payments. It 
+wouldve said:
+Could someone be trying to scam you?
+Stop if  You were told your account is at risk, to make an unexpected 
+payment, or to take out a loan.
+The CRM code says that for a warning to be an Effective Warning it must be (at a
+minimum) understandable, clear, impactful, timely and specific. While I agree that 
+this warning was an impactful one, I dont think it was specific enough to the type of 
+scam that Ms L had been targeted by to meet the test set out in the CRM Code. The 
+way that the scam was framed by its perpetrators made Ms L think that she was 
+personally at risk, not that her accounts were at risk. Overall, Im not persuaded that 
+Monzo can opt to not pay a refund to Ms L on the basis that she ignored an Effective 
+Warning.
+The Investigator also pointed out that good industry practice required Monzo to be on 
+the lookout for unusual and out of character transactions that might indicate their 
+customer is at risk of financial harm from fraud. Where such a risk is identified, it 
+should intervene to satisfy itself that there is no meaningful risk of fraud before 
+allowing any payment to be processed.
+We know now that Ms L was the victim of fraud. The question I must consider is what 
+Monzo shouldve done in the light of what it knew at the time. Unfortunately, I dont 
+think a payment of £4,000 is large enough to say that Monzo ought to have 
+recognised the risk of fraud.
+I accept that, if it had intervened, it might have uncovered that Ms L had been 
+targeted by scammers. But it isnt practical or realistic to expect Monzo to intervene 
+on or question all payments. There is a balancing act to be struck between 
+monitoring accounts for fraud and allowing legitimate payments to be made. I know 
+that my decision will be hugely disappointing to Ms L and I dont say any of this to 
+downplay or diminish the fact that she has been the victim of a cruel and cynical 
+scam. But in all the circumstances of this case, Im satisfied Monzo made no error in 
+processing these payments without questioning them further.
+Finally, I can see that Monzo did everything it could to recover Ms Ls funds from the
+receiving bank. It contacted that bank promptly after it learned that Ms L had fallen 
+victim to a scam. Unfortunately, there were no funds left in that account.
+[]
+Monzo Bank Ltd should pay Ms L 50% of the money she lost to the scam. It should 
+add 8% simple interest per annum to this sum calculated between the date it 
+declined her claim under the CRM until the date it pays a settlement.
+Ms L didnt respond to my provisional findings. Monzo responded to question the finding Id 
+reached in respect of the warning displayed when Ms L made the payment.
+It didnt find it fair and reasonable to say that the warning wasnt effective on the grounds 
+that it lacked specificity. It pointed out that the CRM code says that warnings should be tailored to the APP scam risk indicators and any specific APP scam types identified through 
+the user interface with which the Customer is initiating the payment instructions. 
+While it gathered information from the customer as part of the payment process, it wasnt 
+possible for Monzos system to have identified that the scam that had targeted Ms L had 
+been framed in such a way that it would reduce the effectiveness of the warning. It also 
+pointed out that there is such a wide range of scams and so it isnt possible or realistic to 
+include every potential scenario within a warning without diminishing its effectiveness. 
+Findings
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Ive received no further comments from either side regarding the finding I reached on 
+whether Ms L made these payments without having a reasonable basis for belief that the 
+recipient was legitimate. I therefore find that Monzo is entitled to rely on this exception to 
+reimbursement in the CRM code. 
+Ive also reconsidered my position in respect of the warning that Monzo provided during this 
+payment journey. And having done so, Im not persuaded to depart from the conclusions I 
+set out in my provisional decision. I accept the difficulty that Monzo has described regarding 
+the need for warnings to relate to the specific features of every scam in order to be effective. 
+There is such a multiplicity of scams that it can be difficult for warnings to be meaningfully 
+tailored. As a consequence, there may be circumstances where a warning deals with a scam 
+typology, rather than a specific scam. 
+However, Id expect warnings to be specific enough to cover common scam types. These 
+can be tailored based on the reason given for the payment or any other indicators of a 
+specific scam. HRMC scams such as this one are very common, so Id expect Monzos 
+warning to adequately cover them. Im not persuaded it did in this instance. 
+Nonetheless, I dont think the warning was effective even when making allowances for the 
+lack of specificity. The text that I quoted in my provisional findings was one of four bullet 
+points set out on the warning screen. The other three relate to entirely different types of 
+scam. For example, drawing the customers attention to the importance of recognising if an 
+offer sounds too good to be true. This will only occasionally be relevant in scams such as 
+this one. Attempting to cover multiple scam types in one warning meant realistically that the 
+warning would have less impact on the consumer.
+It doesnt say anything about how impersonation scams tend to work or what scammers will 
+do to convince their victims that theyre dealing with a legitimate communication. The 
+specific information regarding social engineering and impersonation scams is restricted to a 
+blog post that is linked in the warning, but I think this lacked prominence and so undermined 
+its effectiveness and impact.
+Overall, Im satisfied that Monzo didnt meet the standards expected of it by the CRM code. 
+It ought to have recognised that there was a meaningful risk of an APP scam and therefore 
+provided an effective warning. And for the reasons Ive set out above, I dont think it did that. 
+I therefore think it ought to share responsibility for loss with Ms L.  
+Final decision
+For the reasons Ive set out above, I uphold this complaint.Monzo Bank Ltd should pay Ms L 50% of the money she lost to the scam. It should add 8% 
+simple interest per annum to this sum calculated between the date it declined her claim 
+under the CRM until the date it pays a settlement.
+Under the rules of the Financial Ombudsman Service, Im required to ask Ms L to accept or 
+reject my decision before 29 August 2022.
+ 
+James Kimmitt
+Ombudsman

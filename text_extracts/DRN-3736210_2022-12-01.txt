@@ -1,0 +1,172 @@
+DRN-3736210
+The complaint
+Mr Os complaint concerns his Contracts for Difference (CFD) trading account held with 
+Trading 212 UK Limited (T212). He says that:
+Failures of its system prevented him from partially closing his positions and caused 
+him a loss and additional interest expenses. 
+A customer adviser tried to influence his decision on what positions to close. 
+Funds he deposited didnt reflect on his account, resulting in him being margin called. 
+He feels these issues have caused him stress and a financial loss.
+ 
+What happened
+Mr O opened his account with T212 in October 2021 and traded regularly until January 
+2022. On 5 November 2021, he experienced issues while proposing partial closures of his 
+existing positions. He contacted T212 on the same day through the online chat feature and 
+spoke with a member of T212s customer service staff. 
+Mr O provided screenshots of the issue he was experiencing and further explained that he 
+was unable to take partial profits on a long CFD position as the value on the order was 
+showing as £0.00. One of the screenshots Mr O provided demonstrated that he was trying 
+to sell 60 of his 367 shares held in AMC Entertainment (AMC). But the value beneath the 
+quantity was showing as £0.00. Mr O said that this meant he had no idea how much he was 
+selling and missed out on taking profits. The customer adviser confirmed that it seemed the 
+monetary value was not calculating upon placing the sell order and told Mr O that this was 
+definitely not right and escalated the issue. 
+Mr O contacted T212 again via the online chat feature later that day. He spoke to a different 
+customer adviser and explained that their system wasnt allowing him to take partial profits, 
+which was causing him distress. Mr O provided further screenshots to demonstrate the 
+issue. The customer adviser explained that the £0.00 below the quantity shows the charges 
+for the trade and explained that because Mr O was placing a market sell order to partially 
+close an existing position, there is no such charge. 
+The customer adviser further suggested that Mr O could calculate the profit based on the 
+current price and quantity. But Mr O continued to express his distress regarding this issue 
+and asked to speak to a supervisor. The customer adviser then suggested that Mr O should 
+be able to liquidate part of his holding in AMC and provided articles which explained how to 
+place take profit and stop loss orders, and how to close positions. 
+Mr O remained dissatisfied with this explanation and noted that the articles provided showed 
+how to close a position in full, rather than partially, and reiterated his request to speak to a 
+supervisor. A senior staff member then joined the chat to confirm that his complaint had 
+been escalated and he would receive a confirmation email within several business days.  
+During this conversation on 5 November 2021, Mr O also raised his concern that the funds 
+hed deposited that week hadnt reflected on his account. The customer adviser explained 
+that the funds should arrive within three business days. Mr O explained that he deposited the 
+funds into his invest account and when they reflected, he transferred them to his 
+CFD account, but there was a delay in the funds showing. The customer adviser confirmed 
+the funds were successfully transferred into his CFD account. 
+T212 issued a final response to Mr O on 29 December 2021. It acknowledged his frustration 
+and reliance on the order value calculation to make his trading decision. As a result, it 
+offered him a goodwill gesture of £75. Mr O initially accepted this offer, but later declined, 
+saying that he couldnt view the attachment, so was unaware of the amount itd offered. 
+He asked for the complaint to be re-opened in January 2022 as he was still experiencing 
+issues with the platform, causing him financial loss and distress. T212 re-opened his 
+complaint and issued a second final response on 8 March 2022. This response reiterated its 
+initial findings and noted that it had requested additional information from Mr O, but didnt 
+receive his response. It added a description of the difference between their two trading 
+modes, aggregating and hedging mode, and explained that aggregating mode only allows 
+one position to be open in a particular instrument. It noted that it was Mr Os responsibility to 
+determine which mode is set, as per his personal preferences. 
+Mr O remained dissatisfied with the outcome of his complaint and subsequently raised his 
+complaint with our service. He raised some additional complaints points, which included:
+The confirm button being greyed out when trying to place a limit sell order.
+He felt pressured by the customer service staff member to close a position that he 
+wished to keep open. 
+He paid additional interest because he had to keep the positions open while his 
+complaint was being investigated.
+In response to the complaint made to our service, our investigator didnt think that T212 
+needed to take any further action. In brief, he said:
+The information provided by the first customer adviser Mr O spoke to was incorrect. 
+But the second customer adviser he spoke to on the same day provided accurate 
+information, although he felt it could have been explained more clearly. 
+The investigator explained that the value on the proposed order that Mr O was 
+referring to didnt represent the profit or loss to be realised by the partial sale. Rather, 
+it represented the margin requirement and wasnt applicable when placing an order 
+to partially close an existing position. And with reference to the screenshot of Mr Os 
+proposed order in AMC, he explained that as he was proposing a partial sell order to 
+reduce an existing long position, this wouldnt require additional margin to place the 
+order. So, the value was shown as £0.00. The investigator also demonstrated by 
+way of an example how Mr O could calculate the profit to be realised by the proposed 
+order. He concluded that this wasnt the result of an error or failure of T212s platform 
+and didnt prevent Mr O from submitting the partial market sell order. 
+The confirm button was greyed out on Mr Os proposed limit sell order because the 
+order was incomplete as he hadnt specified a limit price. He concluded that this 
+wasnt a result of an error or failure of T212s platform.  
+The funds Mr O deposited had reflected on his account by 7 November 2021. And 
+the margin closures on his account occurred between 10 November 2021 and 6 
+January 2022. Therefore, the alleged delay in these funds reflecting didnt cause the 
+margin closures. This is because they reflected three days prior to the margin 
+closures which first occurred on 10 November 2021. 
+The customer adviser Mr O spoke to on 5 November 2021 suggested that as he had 
+a profitable position in AMC, he should be able to set up a limit order to liquidate part of the holding. The investigator emphasised that the customer adviser only 
+suggested that Mr O liquidate part of his AMC holding, which is what Mr O was 
+intending to do. The investigator concluded that the customer advisers suggestion 
+was in line with the intention that Mr O had expressed earlier in the conversation, 
+which was to take partial profits on his position in AMC. 
+Mr O shouldve been able to place his orders without the value showing. This is 
+because the value represented the margin requirement and isnt applicable when 
+partially closing open positions. Therefore, the investigator didnt think that T212 
+should be held responsible for the additional interest expense Mr O incurred from 
+keeping his positions open. 
+Mr O didnt accept the investigators view and provided further submissions in support of his 
+case. He noted that his friend who was with him at the time was able to place the same limit 
+sell order without experiencing the issue Mr O had experienced. 
+However, this didnt persuade the investigator to alter his position, as he felt that the 
+additional screenshot provided wasnt relevant to Mr Os current complaint, as it related to a 
+separate issue  temporary suspension of trading in another CFD instrument. 
+The investigator acknowledged Mr Os statement that his friend didnt experience the same 
+issues. But he noted that his friend may have completed the limit sell order by specifying the 
+limit price, which Mr O had omitted from his order. The investigator also suggested that Mr O 
+try to replicate the same orders on T212s practice mode to verify his findings. 
+However, Mr O remained dissatisfied and reiterated that he felt his ability to trade without 
+bias was negatively affected as he was given suggestions on what to trade. In addition, he 
+reiterated that he was initially told that there was an error on the system.  
+As the investigator wasnt persuaded to change his view, the matter has been referred to me 
+to review.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, Ive come to the same conclusions as the investigator and for broadly the 
+same reasons. 
+I understand that Mr O feels strongly about his complaint and that the matter caused him 
+distress. However, I note that he hasnt disputed all the investigators findings. Rather, it 
+seems Mr Os primary concerns are that he felt his ability to trade without bias was impacted 
+as he was given suggestions on what to trade. And that he was initially told that there was 
+an error on the system. 
+I appreciate that the concerns Mr O has raised above are important to him, so Id like to 
+address these in more detail. And although I am not addressing all his complaint points with 
+the same level of detail, Id like to reassure Mr O that Ive read all his comments carefully as 
+part of my consideration of the matter. And I trust that he wont take it as a discourtesy that 
+my findings focus on what I consider to be the central issues, being the primary concerns 
+that Mr O has raised with the investigator. 
+The purpose of my decision isnt to address every point raised. Rather, its to set out my 
+conclusions and the reasons for reaching them. Turning to Mr Os primary concerns, I know 
+that hes unhappy that the first customer adviser he spoke to on 5 November 2021 told him that thered been an error. I can appreciate that this may have caused him concern and 
+possibly contributed to his distress. However, I agree with the conclusions of the investigator 
+in that Mr O was provided with the correct information later the same day and, therefore, 
+without unreasonable delay. In addition, I think T212s offer of an apology and goodwill 
+gesture of £75 is sufficient to compensate him for this. 
+Regarding Mr Os concerns that he was given suggestions that affected his ability to trade 
+without bias, having reviewed the chat transcript Ive come to the same conclusion as the 
+investigator. The customer adviser provided only factual information about how to place the 
+various order types available because it was evident that Mr O was having difficulty placing 
+an order. The customer adviser also suggested that Mr O could partially liquidate his AMC 
+position by placing a limit sell order. It wasnt suggested that Mr O liquidate his AMC holding 
+in full.
+Its worth explaining that T212s platform offers two trading modes  aggregating mode and 
+hedging mode. And the investigator previously confirmed that Mr O mostly used the 
+aggregating mode. When trading in aggregating mode, Mr O was able to reduce his long 
+position by placing a limit sell order. In contrast, a limit sell order wouldnt achieve the same 
+result in hedging mode, as this would result in him having a long position as well as a short 
+position alongside it. However, as Mr O mostly used aggregating mode, the suggestion to 
+place a limit sell order to partially close his long position was relevant and ultimately in line 
+with what Mr O had explained he was trying to achieve  to take partial profits on his holding 
+in AMC. 
+That said, I acknowledge that the customer adviser provided links to articles which outlined 
+how to place take profit and stop loss orders, as well as how to close positions. I appreciate 
+that these articles didnt explain how to partially close a position. However, I think the 
+customer adviser provided sufficient explanations and guidance on how Mr O could partially 
+close his position. And although the articles he shared only explained how to close a position 
+in full, he didnt make any statements that could reasonably have affected Mr Os ability to 
+trade without bias. Im satisfied the customer adviser was acting in good faith in trying to help 
+Mr O.
+In summary, I dont think the difficulties Mr O experienced were a result of failures of T212s 
+system. And although he received incorrect information at first, he was then provided with an 
+accurate explanation the same day, of how to place the partial orders as he intended. In 
+addition, Mr O wasnt given suggestions to trade, other than guidance on how to place the 
+partial sell orders that he was having difficulty executing. As such, I find that T212 dont need 
+to do anything beyond paying Mr O the goodwill gesture of £75 previously offered. 
+My final decision
+For the reasons given, my final decision is that I dont uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr O to accept or 
+reject my decision before 29 December 2022.
+ 
+James Harris
+Ombudsman

@@ -1,0 +1,153 @@
+K820x#14Complaint
+Mr S has complained that Barclays Bank  UK Plc wont  refund payments to an online casino, 
+which he says he didnt  make.
+Background
+Mr S has an account with an online casino. I will refer to the casino as the merchant. 
+He said the merchant took payments of around £4,000 from his bank account from 
+December 2013  to January 2014. He said he didnt  authorise these payments.
+Below is a list of transactions he made to the merchant made during this period.
+Date of 
+transactionTime Disputed/
+GenuineStatement Date Amount
+26 December 2013 05.15.46 genuine 30 December 2013 £50.00
+26 December 2013 05.25.06 genuine 30 December 2013 £50.00
+28 December 2013 07.32.15 genuine 31 December 2013 £50.00
+28 December 2013 07.36.55 genuine 31 December 2013 £50.00
+28 December 2013 07.38.46 genuine 31 December 2013 £100.00
+28 December 2013 07.40.13 genuine 31 December 2013 £200.00
+29 December 2013 07.42.43 genuine 2 January 2014 £100.00
+2 January 2014 20.32.42 disputed 6 January 2014 £100.00
+2 January 2014 20.36.27 disputed 6 January 2014 £100.00
+2 January 2014 20.37.34 disputed 6 January 2014 £200.00
+2 January 2014 20.42.05 disputed 6 January 2014 £500.00
+2 January 2014 20.45.47 disputed 6 January 2014 £500.00
+2 January 2014 20.47.17 disputed 6 January 2014 £500.00
+3 January 2014 08.59.51 disputed 6 January 2014 £500.00
+3 January 2014 09.14.28 disputed 6 January 2014 £1000.00
+What Mr S told us
+Mr S told us hed downloaded the merchants app to his mobile phone and had placed bets 
+during December 2013.
+He stopped playing after hed won £1,146. He withdrew his winnings on 3 January 2014 and 
+logged out of the app. He said he returned his phone  to his pocket. The disputed payments 
+were made after hed logged off.  
+He told us hed had friends over at the time,  but none of them  wouldve used his phone to 
+place the bets.  
+He also said he hadnt revealed his username or password  for his account with the merchant 
+to anyone else and he didnt keep a written  record of it. He said his mobile phone was 
+password protected with a four-digit  code. He hadnt  shared his password with anyone else 
+but someone known  to him might  know  it, as hed had the same password  for around two 
+years.
+Ref: DRN34772612He said he didnt make  the disputed payments to the merchant. He asked Barclays for a 
+refund.
+Barclays response
+Initially, Barclays couldnt find the transactions to the merchant. This was because the 
+merchant used a payment  platform, Aquapay. It advised Mr S to contact the merchant  
+directly, which  he did but without success.  After three years, Mr S contacted  Barclays  again. 
+However, Barclays didnt  investigate his fraud complaint because of a mix up with another  
+merchant. It did pay him £115.00 compensation for his travel  and call costs.
+Mr S wasnt  happy with this outcome and so he brought  his complaint to this service.
+Eventually, this service  identified that the disputed payments had been  made  to Aquapay.  
+After further investigations, Barclays decided not to refund Mr S.
+It believes he authorised  the transactions. It says the merchants evidence  shows  that:
+the bets were  placed from his account  with the merchant
+his log in details  were used to access the account
+the log in was from the same IP address  as the one used for genuine transactions
+the CVV number from his debit card had been  entered 
+the merchant  paid winnings into his bank account.
+Adjudicators view
+An adjudicator looked into his complaint and decided not to uphold it. She concluded that, 
+hed authorised the payments and Barclays was entitled to hold him liable for them.  Her 
+reasons are set out in her lengthy view, which both Mr S and Barclays  have seen so I wont  
+repeat them  here. 
+She also considered  that the compensation payment  was reasonable in the circumstances.
+Mr S disagreed with the adjudicators view. Hes asked  for an ombudsmans  final decision.
+Evidence Ive seen
+Barclays investigation notes
+Bank statements
+Screenshots  of the electronic audit  trail for all transactions to the merchant showing:
+ogenuine payments
+odisputed payments
+owinnings
+oIP addresses
+odevice ID.
+My findings
+Ive considered all the available  evidence  and arguments to decide  whats  fair and 
+reasonable in the circumstances of this complaint.  Having done so, Ive decided not to 
+uphold the complaint, for broadly the same reasons as those given by the adjudicator.
+In short,  Barclays is required to refund the amount of an unauthorised transaction.  The 
+relevant regulations, to this effect, are the Payment Services  Regulations  2009  (the PSRs  
+Ref: DRN347726132009). Mr S says he didnt  make the disputed payments to the merchant and he wants 
+Barclays to refund him. So, my primary concern is to come to a view about whether or not I 
+think he authorised  the payments. 
+The merchants reports show that the transactions were made  from Mr Ss mobile phone and 
+with his debit card. The merchant has also sent us its instructions for making a deposit in the 
+account. These confirm  that the CVV number must be entered for each deposit,  (thats  the 
+three-digit number  on the back of a debit or credit card). Based  on this evidence,  Im 
+satisfied that the disputed  transactions were authenticated.
+So now,  I need to think about whether its more likely than not that Mr S authorised the 
+disputed transactions.
+Mr S admits  he has an account with the merchant and that he has the mobile app on his 
+phone. The notes from the merchant  say he registered with it on 26 December 2013. Hed 
+also registered his debit card with the account.
+The audit trail shows he used his card to make deposits into his account with the merchant 
+from his bank account. The deposits  are shown in the table above. Mr S doesnt dispute the 
+payments he made from 26 to 29 December 2013. 
+The audit trail also shows that hed instructed the merchant to pay the winnings back to his 
+card on the following dates:
+Date Time Winnings
+31/12/2013 £126
+31/12/2013 £400
+01/1/2014 £720
+02/1/2014 £2,550  
+instruction cancelled on 
+3/1/2014
+So, its clear he had an account with the merchant, he made  deposits,  he played games and 
+won and hed transferred some  of his winnings back to his bank account.
+Its important I set this out because  the evidence, which  links him to the genuine payments, 
+also links him to the disputed ones. And from what Ive seen, I dont think  its unreasonable  
+for Barclays to conclude that Mr S authorised the transactions. This is because:
+the merchants  evidence shows the same  mobile  device was used to log in to his 
+account when  both the genuine  and disputed payments were made. This was an 
+iPhone. Mr S confirmed hed been  using  his iPhone to place bets. I consider its more 
+likely than not that his phone was used for the disputed payments
+the evidence  also shows that the logins for the disputed payments were made from 
+the same  IP addresses as those  used for genuine ones
+the correct username  and password were  used to access  the account with the 
+merchant. The merchant  confirmed it doesnt  allow auto login and these details  must  
+be entered each  time a customer logs in
+Ref: DRN34772614the same  game was played for all bets  European Roulette
+the CVV number on the back  of Mr Ss debit card was entered  for each deposit
+transfers totalling £4,500.00 were made from Mr Ss savings account to his current 
+account on 3 January  2014. He used  this money to fund the bets.
+I have considered whether a third party made the disputed  transactions but I dont think  this 
+is what happened. A third party wouldve needed to get hold of Mr Ss phone  to make the 
+bets. They would also need to know his four-digit code for his phone,  his username and 
+password for the account with the merchant and the CVV number on his debit card.  Mr S 
+told us that he hadnt  shared this information with anyone else,  although he thought  
+someone close to him might know his phone password. However, he hadnt  reported  his 
+phone as missing  and even if someone had taken it, there is still no explanation for how a 
+third party would know his account details. Also, he hadnt reported his debit card as 
+missing.
+Similarly, its unclear how a third party would  benefit from placing bets on his account as the 
+merchant paid winnings  into his bank account. I understand there are some online casino 
+games, which may be exploited by fraudsters to gain access  to other  players funds, but 
+European Roulette isnt one of them.
+For these reasons, I think its unlikely that a third party  made the disputed payments. And the 
+evidence of the transfers from Mr Ss savings account into his current  account demonstrates  
+its more likely he authorised the payments.
+The only other explanation  and one that Mr S originally suggested  is that the merchant 
+either made a mistake or acted fraudulently.  However,  I cant  see any evidence of error or 
+fraud by the merchant.  
+On balance, and after considering everything, I find that Mr S authorised the disputed 
+payments and that Barclays is entitled  to hold him liable for them. I wont be asking  it to 
+refund him. And I agree with the adjudicator that the compensation that hes already  
+received is fair and reasonable in the circumstances.
+Im sorry  to send disappointing  news, especially after a long wait. I am very grateful  to Mr S 
+for his patience while we looked into his case.
+My final decision
+My final decision is that I am not upholding this complaint.
+Under the rules  of the Financial Ombudsman Service,  Im required to ask Mr S to accept or 
+reject my decision  before 23 January 2020.
+Razia Karim
+ombudsman
+Ref: DRN3477261

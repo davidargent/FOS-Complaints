@@ -1,0 +1,184 @@
+DRN-3295640
+The complaint
+Mr F complains that Monzo Bank Ltd wont refund the money he lost when he was the victim 
+of a scam.
+What happened
+Mr F was called by someone claiming to be an investment broker and asked if he wanted to 
+make money from bitcoin. Unfortunately, we now know the caller was a scammer.
+Mr F was told he just needed to invest £250 to get started and was shown evidence of 
+successful trades the caller had made. The caller then said that, if Mr F could invest more 
+money, he guaranteed he would be able to pay off his mortgage in a year. And that, if Mr F 
+borrowed money so he could invest more, he would be able to pay it back in two weeks.
+Mr F then made a series of payments, firstly to a cryptocurrency wallet the caller helped him 
+set up, and then transferred direct to bank account details the caller gave him. Ive set out 
+the payments Mr F made below:
+Date Amount Details
+5 August 2020 £2.00 To cryptocurrency wallet
+6 August 2020 £1,650.00 To cryptocurrency wallet
+11 August 2020 £2,311.00 To cryptocurrency wallet
+11 August 2020 £2,202.00 Bank transfer
+14 August 2020 £7,650.00 Bank transfer
+20 August 2020 £4,010.00 Bank transfer
+After two weeks, Mr F asked if he could withdraw some of his money to pay back what he 
+had borrowed. But he was told he couldnt, and the caller then stopped responding to his 
+calls and texts. Mr F then realised it was a scam and contacted Monzo to report it.
+Monzo isnt a signatory of the Lending Standards Boards Contingent Reimbursement Model 
+(the CRM code) but has explained it is committed to applying the principles set out in it. The 
+CRM code requires firms to reimburse customers who have been the victims of authorised 
+push payments scams, except in limited circumstances. Monzo investigated Mr Fs case but 
+said one or more of the exceptions applied. It said Mr F had made the payments without a 
+reasonable basis for believing they were legitimate, so he wasnt entitled to a refund under 
+the CRM code. It did offer him £200 as compensation for delays in its response to his 
+complaint. Mr F wasnt satisfied with Monzos response, so brought a complaint to our 
+service.
+One of our investigators looked at Mr Fs complaint. They felt the CRM code didnt apply to 
+the first three payments, as the cryptocurrency wallet they were sent to was in Mr Fs own 
+name. They also felt Mr F had made the last three payments without a reasonable basis for 
+believing they were legitimate. But they also felt Monzo had failed to meet its obligations 
+under the CRM code by not providing Mr F with effective warnings when he made the last 
+two payments. So they felt Monzo should refund 50% of the fifth and sixth payments, under 
+the CRM code. They also felt Monzos offer of compensation for the delays in its response to 
+Mr Fs complaint was fair. Monzo disagreed with our investigator, so the complaint has been 
+passed to me.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+In deciding whats fair and reasonable in all the circumstances of a complaint, Im required to 
+take into account relevant: law and regulations; regulators rules, guidance and standards; 
+codes of practice; and, where appropriate, what I consider to be good industry practice at the 
+time.
+In broad terms, the starting position at law is that a firm is expected to process payments 
+and withdrawals that a customer authorises, in accordance with the Payment Services 
+Regulations and the terms and conditions of the customers account. However, where the 
+consumer made the payment as a consequence of the actions of a fraudster, it may 
+sometimes be fair and reasonable for the bank to reimburse the consumer even though they 
+authorised the payment.
+When thinking about what is fair and reasonable in this case, Ive considered whether Monzo 
+should have reimbursed Mr F under the provisions of the CRM code and whether it ought to 
+have done more to protect him from the possibility of financial harm from fraud.
+The CRM code
+As I mentioned above, Monzo has committed to follow the Lending Standards Board 
+Contingent Reimbursement Model (the CRM code) although it isnt a signatory. The CRM 
+code requires firms to reimburse customers who have been the victims of Authorised Push 
+Payment (APP) scams like this, in all but a limited number of circumstances. And it is for the 
+firm to establish that a customer failed to meet their requisite level of care under one of the 
+listed exceptions set out in the CRM code.
+Under the CRM code, a firm may choose not to reimburse a customer if it can establish that:
+ The customer ignored an effective warning in relation to the payment being made
+ The customer made the payment without a reasonable basis for believing that:
+o the payee was the person the customer was expecting to pay;
+o the payment was for genuine goods or services; and/or
+o the person or business with whom they transacted was legitimate
+There are further exceptions within the CRM code, but these dont apply here.
+Does the CRM code apply to these payments?
+Ive first considered whether the CRM code applies to all the payments Mr F made as a 
+result of this scam.
+The CRM code covers payments where a customer paid funds to another person for what 
+they believed were legitimate purposes, but which were in fact fraudulent. But the first three 
+payments Mr F made werent sent to another person, but to a cryptocurrency wallet in Mr Fs 
+own name.I recognise that Mr F only set up the cryptocurrency wallet under the direction of the 
+scammer and that the scammer also had access to the wallet. But I think the way the CRM 
+code is written means that it doesnt apply to these first three payments.
+The last three payments were all sent directly to bank account details Mr F was given by the 
+scammer, and this account was not in Mr Fs name. So I think the CRM code does apply to 
+last three payments and Ive gone on to consider whether Monzo should have refunded the 
+money Mr F lost as a result of these payments, under the provisions of the CRM code.
+Did Mr F have a reasonable basis for belief?
+This was clearly a cruel scam and Im sympathetic towards Mr Fs position. But I need to 
+consider not just whether Mr F believed what he was being told, but whether it was 
+reasonable for him to do so.
+Mr F says he was called by the scammer and asked if he wanted to make money from 
+bitcoin, rather than their contact being the result of Mr F going out and looking for investment 
+advice. And I think this should have caused Mr F some concern, as I think its unusual for a 
+legitimate investment broker to be approaching potential clients in this way.
+Mr F also says he was sent evidence of successful trades the scammer had made. But this 
+evidence appears to just be screenshots of lists of completed trades, with no way for Mr F to 
+confirm the scammer had made the trades themselves or that the trades were actually 
+carried out. So I dont think this evidence should have been very convincing.
+I also think what the scammer told Mr F about the returns on his investment was too good to 
+be true. Mr F says he was told he could make enough to pay back anything hed borrowed 
+within two weeks, which effectively means hed have doubled his money in that time. And he 
+says he was told he could make enough to pay off his mortgage in a year, which would 
+mean hed get back around ten times what hed invested after a year. I appreciate Mr F may 
+not have invested previously, but I think a reasonable person would still find these returns 
+unusually high  particularly over relatively short periods of time.
+The scammer also doesnt appear to have given much of an explanation of exactly what kind 
+of trading or investment was involved or why they were able to offer such significant returns. 
+And Mr F doesnt appear to have asked for any evidence or done any checks into who the 
+scammer was or who they worked for.
+So I dont think Mr F had a reasonable basis for belief that the payments he was making 
+were for genuine services or that the person he was paying was legitimate.
+Did Monzo meet its obligations under the CRM code?
+Even though I dont think Mr F had a reasonable basis for belief when making the payments, 
+he may still be entitled to a refund of 50% of the money he lost if Monzo didnt meet its 
+obligations under the CRM code  one of which is to provide effective warnings.
+The CRM code says that, where firms identify APP scam risks, they should provide effective 
+warnings to their customers. It sets out that an effective warning should enable a customer 
+to understand what actions they need to take to address a risk and the consequences of not 
+doing so. And, as a minimum, the CRM code sets out that an effective warning should be 
+understandable, clear, impactful, timely and specific.
+The fourth payment Mr F made wasnt for a particularly large sum of money and didnt leave 
+the balance of the account in a particularly unusual position. So I dont think Monzo was obliged to provide an effective warning in relation to this payment. But the fifth and sixth 
+payments Mr F made were for much larger amounts, and were significantly larger than any 
+other payments out of the account in the previous six months. So I think Monzo should have 
+identified a scam risk and provided an effective warning for these fifth and sixth payments.
+Monzos records show no warning was provided when Mr F made the fifth and sixth 
+payments. But Monzo says that, as a warning was provided for the fourth payment, it has 
+met its obligations under the CRM code.
+As I said above, one of the requirements the CRM code sets out for effective warnings is 
+that they be timely. And the fourth payment was made three days before the fifth payment 
+and nine days before the sixth payment. So I dont agree the warning given for the fourth 
+payment can be an effective warning for the fifth and sixth payments, or that Monzo has met 
+its obligations to provide effective warnings as a result.
+I also dont think the warning Mr F was shown for the fourth payment would have been 
+effective if it had been shown for the fifth and sixth payments. The warning message Mr F 
+was shown when making the fourth payment said:
+Stop, dont pay. Its very likely this is a scam.
+Remember:
+Bank transfers arranged online or over social media are at a higher risk of fraud
+Bank transfers arent protected in the same way as card payments
+Pay by card if you can
+You might not be able to get your money back if this does turn out to be a scam. Find a 
+legitimate seller who lets you pay by card.
+And after he clicked to continue with the payment, Mr F was then shown another warning, 
+which said:
+Are you sure?
+Once you make a payment, its almost impossible for us to get the money back.
+And while these warnings do explain the consequences of proceeding with the payment and 
+give an example of steps Mr F could have taken to try to avoid the risk, they dont give any 
+examples of what the scam might look or feel like. They dont explain possible warnings 
+signs this could be a scam or how Mr F could identify whether it was a scam. And talking 
+about a seller isnt relevant to the specific type of scam Mr F had fallen victim to.
+So I dont think these warnings were specific enough to be effective in Mr Fs circumstances. 
+And so I dont think Monzo has met its obligations under the CRM code in relation to the fifth 
+and sixth payments Mr F made.
+Overall then, I dont think Mr F had a reasonable basis for belief that any of the payments he 
+was making were for genuine services or that the person he was paying was legitimate. But I 
+think Monzo failed to meet its obligations under the CRM code in relation to the fifth and 
+sixth payments. And so I think Monzo should refund 50% of the fifth and sixth payments, 
+under the provisions of the CRM code.Should Monzo have done more to protect Mr F?
+In addition to its responsibilities under the CRM code, when Mr F made this payment, Monzo 
+should fairly and reasonably have had systems in place to look out for unusual transactions 
+or other signs that might indicate that its customers were at risk of fraud (among other 
+things). And for the same reasons I think it should have given effective warnings, I think it 
+should have identified that Mr F could be at risk of fraud as a result of the fifth and sixth 
+payments.
+And if Monzo had stepped in and asked further questions before processing the fifth and 
+sixth payments, as I think it should have, I think its likely the scam would have been 
+uncovered and Mr F wouldnt have been without his money. So I think Monzo should pay 
+interest on the refund from the date the payments were made.
+Delays
+Monzo has offered Mr F £200 as compensation for the delays when it was initially looking 
+into his complaint. And, based on the evidence Ive seen, I think this offer is fair and 
+reasonable in the circumstances.
+My final decision
+For the reasons set out above, I uphold this complaint and require Monzo Bank Ltd to:
+Refund Mr F 50% of the fifth and sixth payments he made as a result of the scam, for 
+a total of £5,830
+Pay 8% simple interest on this refund from the date of the payments until the date of 
+settlement
+Pay Mr F £200 compensation, if it has not already done so
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr F to accept or 
+reject my decision before 1 June 2022. 
+Alan Millward
+Ombudsman

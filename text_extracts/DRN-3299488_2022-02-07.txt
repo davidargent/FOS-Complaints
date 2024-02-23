@@ -1,0 +1,170 @@
+DRN-3299488
+The complaint
+Mr E complains that Santander UK Plc (Santander) failed to refund money he lost as part 
+of a cryptocurrency scam. 
+What happened
+The details of this complaint are well known to both parties, so I will not repeat everything 
+again here. In brief summary, Mr E decided to invest in cryptocurrency after seeing an 
+advertisement about a cryptocurrency broker (AB Capitals) featuring Bill Gates. He set up 
+an account with the broker (who subsequently turned out to be fraudulent) and was 
+contacted by an individual claiming to be an investment manager.
+Mr E registered his debit card details with AB Capitals in order for them to make trades on 
+Jubiter.com  a legitimate cryptocurrency exchange. The scammer showed him evidence of 
+the trades and profits that were supposedly being made and Mr E even received some 
+return on his investment to entice him to invest further sums.
+Between 12 October 2019 and 29 November 2019, the following payments were made to 
+Jubiter.com from Mr Es debit card:
+Date Merchant Amount Running total
+12 October 2019 Jubiter.com £250 £250
+24 October 2019 Jubiter.com £10,000 £10,250
+27 November 2019 Jubiter.com £5,000 £15,250
+27 November 2019 Jubiter.com £10,000 £25,250
+29 November 2019 Jubiter.com £10,000 £35,250
+29 November 2019 Jubiter.com £15,000 £50,250
+Total £50,250
+Mr E eventually realised he had been scammed when AB Capitals refused to allow him to 
+make any withdrawals and ceased all further contact, at which point he reported the matter 
+to Santander. However, Santander declined to refund the money Mr E lost, and also said 
+they would be unable to raise a chargeback as Jubiter.com provided a legitimate service. 
+Unhappy with this, Mr E referred his complaint to this service and the matter was escalated 
+to me to determine.
+I issued my provisional decision on this complaint in February 2022. I said I was minded to 
+uphold it and set out the following reasons:
+Its common ground that the disputed payments were authorised by Mr E for the 
+purposes of the Payment Services Regulations 2017 (PSRs), in force at the time. 
+This is because he had authorised AB Capitals to make trades on his behalf and 
+had given the scammer his debit card details in order for them to do so.
+As a starting position, banks are under an obligation to follow their customers 
+instructions. But there are some situations where we believe that banks  taking into 
+account relevant rules, codes and best practice  ought to have been on alert or 
+notice that something wasnt right or should have looked at the wider circumstances 
+surrounding the transaction before making the payment. So, Ive looked into what this 
+means for this case and whether the bank should have done more here to prevent 
+the payments in dispute.
+Unusual or uncharacteristic activity
+Having considered this together with the particular circumstances of this case, I am 
+satisfied there were reasonable grounds for Santander to suspect fraud or a scam, 
+and therefore justify an intervention. In light of the frequency of the payments and 
+sums involved in relation to how Mr E normally operated his account, I think that 
+Santander ought to have identified the risk of harm. In other words, this was an 
+unusual and uncharacteristic pattern of spending for Mr E due to multiple payments 
+being made to a cryptocurrency exchange in quick succession  which indicated that 
+something untoward might be happening.  
+However, I do not consider that the first three payments of £250, £10,000 and £5,000 
+listed in the table above would have been enough to trigger Santanders fraud 
+detection systems. Mr E had a history of making large payments, such as those he 
+made on 24 July 2019 and 25 July 2019 of £10,000 and £25,000 respectively for the 
+purchase of premium bonds. He also made two payments of £10,000 to Paragon 
+bank on 23 and 24 October 2019, which is around the same time he then made a 
+£10,000 payment to Jubiter.com as part of the scam he fell victim to. So, I dont think 
+the first three payments to Jubiter.com would have appeared unusual when 
+compared to Mr Es usual account activity and spending patterns. 
+However, the point at which I consider his payment activity did become unusual is 
+when Mr E made two large transactions of £5,000 and £10,000 to Jubiter.com on the 
+same day on 27 November 2019. I do not think that the first £5,000 payment on that 
+date ought to have triggered any intervention in itself, as this had been made around 
+a month after the previous scam payment of £10,000 on 24 October 2019. But I do 
+think that Santander ought to have intervened after a second payment of £10,000 
+was attempted to the same crypto merchant on the same day. Santander ought to 
+have known that large payments being made in quick succession to the same 
+merchant is a common sign that a scam is unfolding. Overall, I consider it would have 
+been reasonable for Santander to have properly questioned Mr E before processing 
+the payment of £10,000 on 27 November 2019 in order to satisfy themselves that all 
+was well. 
+Causation
+Had the bank contacted Mr E to ask relevant questions, Im satisfied it would have 
+been apparent that he was falling victim to a scam. In other words, but for the banks 
+failure to make further enquiries, it would have been on actual notice that Mr E was 
+going to suffer financial harm from fraud. 
+If Santander had asked Mr E what the payments were for and the basic surrounding 
+context, it is likely he would have fully explained what he was doing and that 
+everything had originated from his broker i.e. the fraudsters. So, whilst Santander 
+may have known that Mr E was sending money to a legitimate crypto trader, I think 
+they still should have provided a scam warning in light of all the information known to 
+banks about the increasing number of scams associated with fraudsters selling what 
+is made out to be cryptocurrency.
+After all, at the time, there was information in the public domain  which a bank ought 
+to have known even if a lay consumer ought not  about the very high risks 
+associated with crypto trading, including many warnings of potential fraud. For example, the FCA and Action Fraud published warnings about cryptocurrency scams 
+in mid-2018. Regulated businesses ought reasonably to take notice of such insight. 
+By the time Mr E made these payments, cryptocurrency scams had risen greatly in 
+frequency and its reasonable to conclude that banks, such as Santander, had also 
+had time to digest these warnings and put mechanisms in place to detect and 
+prevent this type of fraud. 
+Even if an intervention by the bank wouldve identified that the payment was going to 
+the consumers own account with Jubiter.com, the conversation should not have 
+stopped only on the basis that the money appeared to be going somewhere safe and 
+within the consumers control.  
+I say this because, by the time Mr E made these payments, I think Santander had or 
+ought to have had a good enough understanding of how these scams worked to have 
+been able to identify the risk of harm from fraud. Including, that the consumer often 
+first purchases the crypto asset and moves the money on to the fraudster under the 
+assumption theyre moving the money into their own wallet.  
+With this in mind, I would have expected Santander to have asked questions about 
+the context and true purpose of the payment. While it is not up to our service to 
+dictate which questions a bank should ask, Santander couldve, for example, asked 
+how Mr E had been contacted, whether he had parted with personal details in order 
+to open a trading account, whether the investment opportunity was linked to a 
+prominent individual, or advertised on social media etc. These are all typical features 
+of cryptocurrency scams  and form part of a reasonable line of enquiry to protect a 
+consumer from the potential risk of a prominent type of scam. 
+Although there is no reason to doubt that Mr E would have explained what he was 
+doing, I accept it was possible that he might not have revealed enough information to 
+lead the bank to understand whether he was at risk of financial harm from this 
+particular type of fraud (or any type for that matter). I cant know for certain what 
+wouldve happened. However, I reach my conclusions not based on mere 
+possibilities, but rather on what I find most probable to have happened in the 
+circumstances. And on balance, Im satisfied Mr E wouldve likely shared information 
+which aligned with the hallmarks of this type of scam, as he had been given no 
+reason to think he had to hide this information from his bank, and neither had he 
+been coached to tell them something different.
+In light of this, I think Mr Es losses were foreseeable to Santander despite the 
+payment on the face of it not leaving the consumers control. And Im satisfied that, 
+had the bank, having identified the payments as unusual and suspicious, asked 
+relevant questions of Mr E, it would have been apparent that he was falling victim to 
+a cryptocurrency scam. In other words, but for Santanders failure to make further 
+enquiries, it would have been on actual notice that Mr E was going to suffer financial 
+harm from fraud.  
+Further, even if they had not worked out that this was a scam, it is likely that a 
+warning would have alerted Mr E to the common issues arising in relation to so-
+called crypto currency brokers. Which, in turn, would probably have led them to 
+second guess their supposed brokers credentials, i.e. whether they were in fact 
+professionally linked to a prominent individual such as Bill Gates. The result of which, 
+would likely have stopped Mr E in his tracks. 
+So, in any case, Mr Es losses, though not arising from the initial transfers, ought to 
+have been within the contemplation of, and foreseeable to, Santander. Therefore, 
+and taking into account whats fair and reasonable in all of the circumstances, Im 
+satisfied the bank can be held responsible for the loss Mr E has suffered.Finally, I accept that, when simply executing authorised payments, banks such as 
+Santander do not have to protect customers against the risk of bad bargains or give 
+investment advice. However, the FCA has confirmed that a fraud warning would not 
+constitute unauthorised investment advice  so I do not think the bank wouldve 
+acted out of line, had it warned Mr E along the lines that Ive described.
+Contributory negligence
+Theres a general principle that consumers must take responsibility for their 
+decisions. I have duly considered whether Mr E should bear some responsibility by 
+way of contributory negligence. However, in this case, I do not think he could have 
+foreseen the risk that the company he was dealing with was a scam and simply did 
+not appreciate what he was doing or the consequences of his actions.
+All in all, I am satisfied there was no contributory negligence on this occasion and Mr 
+E was simply the unwitting and blameless victim of a clever fraudster. The bank was 
+the professional in financial matters; Mr E was a layperson.
+I invited further comments and evidence from both parties. Both Mr E and Santander 
+accepted my provisional decision and had no further comments to add.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Given that both parties accepted my provisional findings and had nothing further to add, I 
+see no reason to depart from the conclusions set out in my provisional decision above. 
+My final decision
+For the reasons given above, Im currently minded to uphold this complaint and intend 
+directing Santander UK Plc to refund Mr Es stolen payments from the £10,000 payment he 
+made on 27 November 2019 onwards (totalling £35,000), less any credits he received into 
+his account from Jubiter.com. 
+As this was a current account, Santander should add interest to the above sum (less any tax 
+properly deductible) at 8% simple interest per year from the respective date of loss to the 
+date of refund.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr E to accept or 
+reject my decision before 7 March 2022.
+ 
+Jack Ferris
+Ombudsman

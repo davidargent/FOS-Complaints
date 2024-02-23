@@ -1,0 +1,132 @@
+DRN-2965212
+The complaint
+Mr A complained TSB Bank plc had put him at risk through their procedures and provided 
+unsatisfactory service.
+What happened
+Mr A complained, having tried to log on to his account online when he had forgotten his 
+password. He is unhappy with the procedure used by TSB when it comes to seeking a one-
+time use passcode when logging in online. He thinks its unsatisfactory for TSB to display the 
+last four digits of the customers phone number to which the one-time use password will be 
+sent.
+Mr A thinks this system is open to abuse by fraudsters and he said a one-time password 
+should only be sent if the correct information (account username and password) is entered.
+Mr A noticed that when hed entered the wrong password, the system told him he had five 
+attempts before being locked. However the system didnt update this information when he 
+continued to enter the wrong password numerous times and he continued to be told he had 
+five attempts. Mr A felt this meant a fraudster might have infinite attempts and as such might 
+guess his password.
+TSB didnt uphold all of Mr As complaint. They let him know they felt the system for 
+requesting a one-time password was sufficiently safe and ensured personal information was 
+protected. TSB acknowledged an ongoing technical problem that had caused people to 
+receive messages that they still had a number of attempts left to enter a password, even 
+when they continued to enter the wrong password or had used up the number of attempts.
+ 
+TSB said that although this message appeared as part of the technical issue, the number of 
+attempts had always been limited. They accepted the technical problem meant the wrong 
+message had been displayed to Mr A and they arranged to pay £30 into his account to 
+reflect the distress and inconvenience caused. In their letter they also acknowledged Mr A 
+could contact them if he had incurred any costs in respect of this matter and they let him 
+know they were able to offer additional support to customers who might be assisted in this 
+way.
+Mr A didnt think TSB had offered enough. He felt TSB hadnt taken his concerns seriously 
+enough or provided satisfactory customer service. He said hed been petrified by the 
+experience; he hadnt slept for some days and had become a shell of a man. Mr A thought 
+TSB ought to pay him £900; he said this would enable him to move his banking.
+An investigator at this service thought TSB had offered enough in the circumstances, so he 
+didnt uphold Mr As complaint. He understood Mr A had been concerned, but the 
+investigator accepted TSBs explanation they display only the last four digits of a customers 
+number instead of the full number to keep the number secure. And he noted this step was 
+only required where a customer cant remember their password, and TSB need to send a 
+one-time password to the customer allow them to log in. 
+In respect of Mr As concerns around being able to make more than five incorrect password 
+attempts, the investigator thought TSB had done enough. TSB had acknowledged they were 
+experiencing a technical issue and had explained that although the number of attempts 
+didnt reduce on the screen, a customer did only have five valid attempts.
+The investigator didnt think TSB had taken Mr As concerns lightly. Overall Mr A hadnt 
+suffered a financial loss, and the investigator concluded the £30 paid to Mr A was enough.
+Mr A didnt agree. He thought the investigator had failed to appreciate the emotional distress 
+hed been caused; and he didnt think the investigator had properly understood his 
+complaint. He said the investigator had:
+Failed to understand that Mr A had tried to log in more than five times, but his 
+account hadnt been blocked.
+Failed to understand or take into account that the text message sent with the one-
+time password didnt mention it had been requested.
+Failed to understand that a fraudster could use the text message sent by TSB to 
+persuade a person they were TSB.
+Failed to see how knowing the last four numbers of a phone number along with a 
+username could lead to the identification of a person and this was a clear breach of 
+the rules around data protection.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Im not upholding Mr As complaint about TSB. I think the £30 TSB paid Mr A to 
+acknowledge the impact of their technical problems was enough in the circumstances. 
+Mr A is unhappy about some of TSBs security measures. These are measures put in place 
+for people who forget their passwords, and are commonplace measures used by many 
+services. I havent seen anything here that persuades me Mr A was exposed, or 
+unreasonably exposed to any significant or unwarranted additional risk. I dont accept the 
+display of the last four digits of Mr As phone number put his identity at risk. The message 
+that a one-time use passcode is being sent to a particular number will only appear when 
+someone with Mr As username tries to log in but doesnt have the password. The one-time 
+use password will be sent to the number already associated with the account holder. 
+Mr A would be expected not to share his username with anyone else. Even if a fraudster 
+obtained the username and tried to log in, they would need to have control of the phone 
+number already associated with the account, to obtain the one-time use password. This isnt 
+a reasonably foreseeable risk, such as to make TSBs approach unreasonable or unusual 
+here.
+Ive seen Mr A comments that the prompt message that comes out to the phone with the 
+one-time use password, doesnt mention that this has been sent in response to a request. 
+Im not persuaded this demonstrates any error or failure on the part of TSB. I dont think it 
+unreasonable that if a customer receives a one-time use password from their bank, they will, 
+in the majority of instances, know this is in response to their request. If such a password 
+arrives unexpectedly to a customer, this will not put their account at risk as the code has 
+been sent to the genuine customer, who can then contact the bank to query why this has 
+been sent. It might be considered an additional security measure, as the customer trying to 
+log in, will be able to check that the password is going to be sent to their own known phone 
+number.I acknowledge what Mr A says about a fraudster who might contrive to persuade a customer 
+they are a bank and share a password. But I dont accept this makes the process used to 
+provide a one-time password fundamentally flawed or unreasonable. This is speculative and 
+implies additional impersonation or fraudulent activity to reach this possibility. In any event it 
+isnt what happened here. 
+Ive seen Mr A says his account wasnt blocked after he made a number of failed guesses at 
+his password. Im not persuaded TSB were required to block Mr As account and I am 
+satisfied that the number of valid attempts was limited, despite the incorrect message 
+appearing, so further attempts were being blocked.
+I dont consider the security measures around the provision of the one-time use password 
+unusual or unreasonable. Any wider concerns about the approach may be a matter for the 
+regulator, but I dont accept the measures exposed Mr A to unreasonable risk.
+Nor do I accept Mr As submission that knowledge of the username in conjunction with 
+knowledge of the last four digits of the phone number associated with the user name, could 
+either lead to the identification of a person or creates any breach around the data protection 
+rules. This is not the main thrust of the complaint, and I have not reached any finding here 
+about personal data. But I dont accept from what Ive seen, the matter complained about, 
+was an activity in contravention of the laws on data protection. If Mr A has wider concerns 
+around this type of security measure, it would not be a matter for this service.
+TSB experienced problems with the information displayed when customers tried to enter 
+their password, at the time Mr A tried to log in. TSB say that although this meant it looked 
+like someone had additional attempts after the specified number of failures, this wouldnt 
+actually have been the case. In other words, Mr A might have thought he was continuing to 
+enter various guesses at his password, beyond the number of attempts allowed, but in the 
+background, his attempts would not have been valid attempts beyond the set number. I can 
+understand why Mr A was concerned that it looked like multiple attempts to guess a 
+password were possible, but it wasnt the case. I think £30 was enough here to meet the 
+impact of his concern, even though ultimately, he was concerned about an activity that 
+wasnt possible.
+Mr A initially felt a one-time password should only be sent if someone correctly entered their 
+username and account password. I hope he understands why that isnt practicable, as this is 
+a system designed to support customers who have forgotten their password.
+Mr A told us hed been so concerned about the events, that hed immediately transferred his 
+funds away from TSB.  And he told us how events had made him feel and why he didnt 
+think TSB had taken his concerns seriously enough. I am sorry to hear Mr A was so 
+distressed by what happened when he forgot his password. This doesnt mean TSBs usual 
+process, adopted here, was flawed or wrong. 
+Ive seen how TSB responded to Mr A in respect of what happened and his complaint, and 
+although the complaints handling element isnt something we generally consider at this 
+service, I havent seen anything that makes me think TSB failed to take Mr A seriously, or to 
+acknowledge his concerns and provide their answer and additional information.
+My final decision
+For the reasons given, Im not upholding Mr As complaint against TSB Bank plc.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr A to accept or reject my decision before 2 May 2022.
+ 
+Louise Wilson
+Ombudsman

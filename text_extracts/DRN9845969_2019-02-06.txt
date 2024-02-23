@@ -1,0 +1,165 @@
+K822xcomplaint
+Mr L has complained  that FXPRO UK Limited (FXPro) misrepresented asset  valuations  on 
+its trading platform.  He said this made  his trading decisions difficult  and as a result  he 
+incurred losses.
+background 
+Mr L had been  trading  currency and commodities through FXPros platform, MetaTrader 5 
+(MT5) on an execution-only  basis.
+In March 2018 Mr L complained that the spreads the platform  showed  on the screen were 
+different from what he actually received on his trades. Mr L provided an analysis of his 
+trading history from 5 February 2018  to 28 March 2018 and believed  he had lost around  
+€4,200.
+FXPro considered Mr Ls complaint and acknowledged that there was a mismatch  between 
+the price shown and the candlestick on the MT5 platform. It said the reason for the 
+mismatch was due to a numerical  rounding error with the MT5 terminal, which  it was 
+investigating. FXPro  reviewed Mr Ls trades during  this period and identified  nine trades that 
+it thought could have been  affected by the mismatch. As a gesture of goodwill, it offered him 
+€843.30 for the losses he incurred on these trades.
+Mr L didnt accept the offer and referred  his complaint to our service. He said he ought to be 
+compensated for all of his losses during this time as the trades had been affected by the 
+same issue.  He also said FXPro should compensate him for other direct and potential 
+losses. This was because the losses on the trades he initially identified had led to several 
+long-term positions being closed prematurely due to the triggering of stop losses  and margin  
+calls. Mr L estimated these losses to be between €500,000 and €4,000,000.
+Mr L added  to his complaint  that hed experienced further issues trading gold on Friday 
+11 May 2018. Hed placed a buy trade  earlier in the day and when he attempted to close  it 
+just before the market closed, it was rejected. On Monday 14 May 2018 Mr L opened extra 
+trades to try and offset losses as a result of his position in gold. But this resulted in further  
+losses, totalling around €900.  Mr L thought FXPro  was responsible  for these losses.
+FXPro said Mr L had tried to close his gold positions  seconds before the market closed. It 
+said this failed because  there wasnt any pricing  coming from its liquidity providers at the 
+time. FXPro said that because Mr L was technically trading within  market  hours,  it offered to 
+zero out his gold position as a gesture of goodwill. However, it said it wasnt  responsible  for 
+his other  losses because it was his decision  to take this additional risk.
+An investigator considered the complaint but he didnt recommend that FXPro  should do any 
+more to put things  right.  He considered the redress offer from FXPro was reasonable in the 
+circumstances. The investigator  accepted  that FXPro had acknowledged  a minor mismatch 
+between the true market price and what the chart package  service  on the MT5 system was 
+showing to him. But, the client  agreement Mr L agreed to when he signed up for his account 
+says that FXPro couldnt guarantee  the platform was free of any errors or deficiencies.  And 
+Mr L was solely responsible for his trading losses when  operating  an execution-only  
+account and for monitoring  his trades.
+Ref: DRN98459692In the investigators  opinion,  the price mismatch  was minimal and couldve also worked in 
+Mr Ls favour. But overall, he didnt think it was reasonable for Mr L to base his trading 
+decisions on the charts alone. This was because of the lag between the chart  prices  being 
+updated and because it was based  on the last price rather  than the bid price. He also 
+didnt think Mr L had provided evidence showing that the closure levels of any of his trades 
+were incorrect. So, he didnt think there was any basis  for increasing the compensation.
+The investigator also didnt think FXPro was responsible for the other losses Mr L had 
+claimed in relation to the long-term positions  that were closed due to triggering  stop losses  
+or margin calls. He considered FXPro had closed  these positions in line with its order  
+execution policy. If Mr L wanted to avoid this, the investigator said he needed to provide 
+increased funds or operate with wider stop loss levels. The investigator also thought FXPros 
+offer to zero out Mr Ls gold position in May 2018 was reasonable as it couldnt be held 
+responsible for Mr Ls decision to try and offset  his losses  the next working day.
+Mr L didnt accept the investigators  findings. He said hed based his trading  strategy  on what  
+he saw in the charts. And hed shown hed lost money because of FXPros mistakes. Mr L 
+maintained the errors were not minimal.  He said his trades were highly leveraged and he 
+had little margin, so any difference in the spread  shown in the charts had a bigger impact.  If 
+there hadnt been a mistake then his positions  wouldnt have been  closed automatically by 
+margin call and would be open  today with large profits of which he has been deprived. Mr L 
+said hed needed  to take a loan to cover his studies. He also wanted  to know who was 
+responsible for the errors in the MT5 platform,  if not FXPro. 
+As no agreement could be reached, the complaint  was referred to me to make a final 
+decision.
+my findings
+Ive considered all the available  evidence  and arguments to decide  whats  fair and 
+reasonable in the circumstances of this complaint.  Having done so, Im not upholding Mr Ls 
+complaint, for largely the same reasons given by the investigator.
+The relevant  terms of the agreements Mr L agreed  to when he opened an account  with 
+FXPro are as follows:
+Client Agreement
+4.3 We do not provide investment, financial,  legal, tax or regulatory advice nor do we provide 
+any other form of recommendation. You understand that you shall make your own 
+assessment of any transaction prior to entering into a trade or a bet, and shall not rely on 
+any opinion, material or analysis provided by us or any of our affiliates, employees, or other 
+related parties  as being advice or recommendation
+7.3 The Software,  which may have been developed by a third party, is provided 'as is'. We 
+will ensure,  but cannot guarantee, that the Software  supports data security protocols  
+compatible with those used by FxPro.  We also cannot guarantee that the Software is free of 
+any errors or deficiencies.
+FXPro has acknowledged  that there was a slight inaccuracy with regard to the price  shown 
+on the platform and the level of the chart. It explains that the mismatch occurs  when the 
+digits taken by its price aggregator are greater than those taken by MT5. By way of an 
+Ref: DRN98459693example, it said if the resulting price on its aggregator is 65.346, the price  on MT5 would 
+show only 65.35. It said this could account  for the difference  shown in the chart.  
+Furthermore, FXPro explains that the candlestick is built from the last price.
+Taking the above into account, as well as the lag between the chart  prices  being updated, 
+I think this explains the differences between the prices  Mr L saw in the charts and the actual 
+market price he traded at. While  I appreciate Mr L says this caused him losses, I dont think 
+FXPro is responsible for these losses. I say this because the charts Mr L was using were  a 
+visual aid intended to be used for information only. And as per the above terms, FXPro didnt 
+provide any guarantee that the platform was free of deficiencies. So, I think  Mr L ought  
+reasonably to have  known  not to his base decisions solely on the charts.
+I know Mr Ls trades were highly leveraged, so a minimal difference in price could mean a 
+large loss to him overall.  But I havent seen enough evidence to say the difference  in price 
+meant Mr L wouldve  made different decisions or that he wouldve avoided those losses. 
+Ultimately, when he executed the trades, he wouldve  seen the true market value and what  
+this represented  in terms of profit or loss. So, I think he wouldve known  what  the chart  
+showed wasnt the price  he was getting. And although Mr L experienced losses because of 
+the price mismatch, he also couldve benefitted  from it. The fact he experienced losses alone 
+doesnt demonstrate a mistake on FXPros part.
+FXPro offered Mr L compensation of €843.30  as a gesture  of goodwill. This is because it 
+identified nine trades that it believed couldve been  affected by the price mismatch  and this 
+was the total of the losses Mr L incurred on those trades.  I dont think  Mr L should receive 
+any additional compensation  above  this sum because  I dont think FXPro was responsible  
+for any of his losses.
+losses on closed long-term  positions
+Mr L complained that because  of his initial losses FXPro closed out some long-term 
+positions and he feels he wouldve enjoyed  a substantial profit if these had remained open.  
+The relevant  terms of the Order Execution Policy say:
+8.4 MetaTrader 5: at Margin Level of less than 40% we have the discretion to begin  closing  
+positions starting from the most  unprofitable one. At Margin Level of less than 30% we will 
+automatically close positions at the current market price, starting with the position requiring 
+the most  margin. If the account Margin Level is still below 30% the same  procedure is 
+repeated for the next applicable position;  if the Margin  Level  continues  below 30% the server  
+will close  the position with the largest loss. Positions will be closed until the Margin  Level  
+becomes greater than 30%.
+Mr Ls margin dropped  below the required level, so FXPro was entitled  to close  these  
+positions as per the above terms. And as Mr L operated an execution-only account he was 
+solely responsible  for the profits and losses and for monitoring his positions. He was also 
+responsible for providing adequate margin and for changing stop losses  to support his 
+positions. So, I dont  think I can hold FXPro responsible for these additional  losses  claimed 
+by Mr L.
+Ref: DRN98459694inability to close gold positions
+Mr L complained that he was prevented  from closing  out his gold positions on Friday 11 May 
+2018. He said this meant he made  a loss when he was eventually able to close the positions 
+on Monday 14 May 2018. However,  he made additional trades that day to try and offset this 
+loss, which  also closed  at a loss. He considers FXPro is responsible for all of these  losses  
+as he wouldve avoided  them entirely  if hed been able to close his gold positions on 11 May 
+2018.
+FXPro has said according to the journal Mr L provided, he attempted  to close his gold 
+position four times (CET):
+22:59:44
+22:59:46
+22:59:48
+22:59:49
+FXPro says these attempts failed as there was no pricing coming from its liquidity providers 
+for that instrument at that time. As this was seconds before the market closed, it thought it 
+was possible that liquidity may have dried up. And without pricing, Mr Ls close  orders  were 
+rejected automatically  by the system.
+While FXPro operates its service until 22:00:00  GMT, section 10.5 of the Client Agreement 
+says:
+Likelihood of Execution: We rely on third-party LPs for prices and available volume of the
+different financial instruments we offer. Therefore, the execution of Clients  orders  will
+depend on whether there  are prices  and liquidity available at the time these orders  are
+received
+While it was made just inside operating hours,  I dont think  Mr L was given  any guarantee 
+that his order  would be executed. And I think its understandable that no pricing was 
+available given how little time was left before the market closed. So, I dont think FXPro  is 
+responsible for this loss or any other  loss that Mr L considers flows from it. That said,  FXPro 
+made an offer to zero out Mr Ls gold position  as a gesture of goodwill. I think thats fair in 
+the circumstances. But I wont  be asking FXPro to do any more to cover the additional  
+losses Mr L made the next working  day.
+Ref: DRN98459695my final decision
+Im aware that FXPRO UK Limited  has made an offer to pay Mr L €843.30 and to zero out 
+his gold position associated with order number 9580615. I conclude that such  an offer is fair 
+and reasonable in all the circumstances.
+My decision  is that FXPRO  UK Limited  should pay Mr L €843.30 and zero out his gold 
+position associated  with order number 9580615.
+ 
+Under the rules  of the Financial Ombudsman Service,  Im required to ask Mr L to accept or 
+reject my decision  before 6 March 2019.
+Hannah Wise
+ombudsman
+Ref: DRN9845969

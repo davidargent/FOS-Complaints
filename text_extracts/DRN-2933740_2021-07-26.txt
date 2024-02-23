@@ -1,0 +1,147 @@
+DRN-2933740
+The complaint
+Mr K complains about an exchange applied to a transaction with Skrill Limited. He said that
+there shouldve been no need to exchange this currency.
+  
+What happened
+The Skrill service is an electronic money service, which allows users to hold balances
+(effectively, linked sub-accounts) in different currencies.
+Mr K told us that he opened an account with Skrill in April 2020. The account was in Czech
+Koruna (CZK). Then on 4 May he set up a Skrill virtual prepaid debit card in Euros (EUR).
+On 11 May he received a payment in EUR into his Skrill account from another user.
+Mr K complains that the payment was converted from EUR to CZK, which meant that he lost
+money on the conversion and also had to pay Skrills conversion fee.
+Mr K said if hed paid money into his account in EUR, Skrill wouldve created a balance in
+that new currency. It had only converted this money because someone else paid it in. Mr K
+thought that automatically converting funds sent by another user was unfair, and different to
+what other similar services did. He said that if Skrill wanted to do this, it shouldve either
+warned him about it, or asked him first. And he said that because he had an active Skrill
+virtual card in EUR, the money couldve been paid there instead.
+Skrill said that Mr Ks account only had one active currency on it when the payment was
+received, which was CZK. If Mr K wanted to have a second currency on his account, he had
+to activate that himself. In this case that second currency  EUR  was only activated after
+this third party payment was credited to his account. Mr K then moved the balance from CZK
+to EUR, and this created an EUR balance.
+Skrill set out the relevant terms which apply to transfers between different Skrill users. Those
+say that if a Skrill user pays another user in a currency they already hold, then that currency
+balance will be credited. But if a user pays another user in a currency they dont already
+hold, then the money will be converted into a currency they do hold. So incoming third party
+payments dont create a balance in a new currency.
+Skrill didnt think it had done anything wrong. But as a gesture of goodwill, it offered to refund
+the charge that was applied when Mr K moved his money back from CZK to EUR, which was
+€34. It also offered to move some money around for Mr K, to cover the fee of €10 required
+for the prepaid debit card which he had applied for. Skrill said that Mr K had opened a new
+account to get the debit card, and it would have to close one of his two accounts, as they
+were duplicates. It offered to transfer his money to the new account, and close the old one.
+Mr K was unhappy with what Skrill had done, and what it had offered him. So he asked us to
+look into this.
+The first investigator who looked at this thought the complaint should be upheld. He didnt
+think Skrill made it entirely clear to Mr K that an account opened for a secondary currency
+would need to be activated before it was used. And our investigator said this didnt seem to
+be in the terms of the account either. So he thought that Skrill should reimburse the original
+currency exchange commission that was charged when Skrill converted the inward payment
+on 11 May from EUR to CZK, as well as the commission charged when Mr K exchanged this
+money back to EUR. And our investigator said Skrill should pay Mr K £50 compensation for
+the inconvenience caused.
+Our investigator also asked if Mr K wanted to take up Skrills offer to move the balance from
+his old account, which didnt have a card, onto the new account which did.
+But Skrill didnt agree. It replied to correct what it said were a number of inaccuracies in our
+investigators view.
+Skrill said that our investigator thought that when Mr K opened his account, he had chosen a
+CZK account as his primary currency and EUR as secondary. It appears as if our
+investigator thought this because thats what Skrill told our service, in a submission dated 30
+October 2020. But now Skrill said that wasnt right. It said customers only select a primary
+currency when they register. They then have the option to choose a second currency after
+registration.
+Skrill said that Mr K couldve created a secondary balance in EUR by depositing
+funds from his card and selecting EUR as the processing currency. But he hadnt done that,
+and receiving money in a different currency would not automatically create a secondary
+balance.
+Skrill also said that it didnt understand what our investigator meant when he said Mr K
+hadnt understood that he could only activate a second currency by paying in money himself.
+Skrill said Mr K didnt have a secondary balance when he received money into his account.
+And Skrill thought Mr K had understood that he needed to pay in EUR himself if he wanted
+to create a secondary balance.
+Skrill thought that our investigator had also misunderstood Mr Ks second account, which
+had an EUR debit card attached to it, because our investigator thought that Mr K had an
+EUR wallet open at the time, and was expecting his EUR transfer from another user to be
+paid in there.
+Skrill said that Mr K opened a second Skrill account, under a different email address, a few
+hours after he got this incoming EUR transfer. This account was never activated, it was
+eventually closed as a duplicate.
+This case was then passed to a different investigator. Because Skrill thought our first
+investigator got some facts wrong, our second investigator asked it for some more
+information. Mr K had told us he created a Skrill EUR prepaid card on 4 May, but Skrill said
+this wasnt done until 11 May, so our investigator asked Skrill to show us that. He asked for
+evidence that Skrill wouldnt create a new currency balance unless a deposit was made by
+the account holder  so transfers in another currency would be automatically converted. And
+he wanted to check why Skrill thought that Mr K knew he could only create a new balance
+account if he made a deposit himself.
+Skrill said that Mr K did create his new card on 4 May, but just applying for a new card didnt
+create a balance in the currency of that card. It said that creating a new balance is set out in
+a help article, which it shared the link for. And that article didnt suggest that an incoming
+transfer from another user would create a balance. Skrill said it had made a business
+decision not to auto create a secondary balance when someone received money from a third
+party in a different currency. It didnt send us the evidence our investigator asked for, to
+show that Mr K understood this part of the Skrill terms. It sent the relevant terms again,which are expressed as dealing with transfers from an account, not to an account.
+Our second investigator also produced a view on the case. And he didnt think this complaint
+should be upheld. He said he understood why Mr K was frustrated, but Skrill didnt have to
+follow the same process as other businesses Mr K had used in the past. It had followed its
+own process here, and had followed the terms of the account. Our investigator didnt think
+the incoming payment Mr K received was made to an active EUR balance, otherwise he said
+Mr K wouldnt have been charged.
+Our investigator didnt think that Mr K had created an active EUR balance. The Skrill card he
+set up in EUR wouldnt have been activated until a balance was placed on it, and Mr K
+hadnt done that.
+Because our investigator said that Skrill had only followed its own terms, he didnt think that
+it had to do any more now.
+Mr K didnt agree. He said that he had agreed with the first view, and he had expected that
+an ombudsman would be asked to reach a final decision after that. Mr K thought our service
+should already have sent this case to an ombudsman.
+This case was then passed to me for a final decision.
+My provisional decision
+I issued a provisional decision on this complaint and explained why I did propose to uphold 
+it. This is what I said then: 
+Mr K hasnt shown us that he had an active balance in EUR when his payment was
+received. So I do think that, in converting a payment into Mr Ks account into the 
+primary currency of his account, that Skrill has followed its own terms.
+But I dont agree that this is a straightforward issue, or that it was easy for Mr K to
+understand this before he received this payment. The article on creating secondary 
+balances which Skrill showed us doesnt explain that an incoming payment from a 
+third party in a different currency wont create a new balance.
+I think its also important that the Fees section of the Skrill website repeatedly says 
+simply Receiving money is always free of charge. Those sections do not go on to 
+explain the ways in which fees may be automatically and instantly applied by Skrill to 
+the money received.
+So, in order to be aware of the cost to him of receiving this payment, Mr K would 
+have had to ignore a number of short, simple explanations of fees on Skrills website, 
+and instead, read very carefully and in full a paragraph in the terms which is 
+expressed to apply to transfers out of the account, not to transfers in.
+Because it is so difficult to find information on the costs Mr K incurred, and because I 
+think that parts of Skrills website may be actively misleading on this point, I dont 
+think that Mr K has been treated fairly. I think that Skrill should reimburse Mr K the 
+fees he was charged when his currency was converted from EUR to CZK, and the 
+fees he was charged when he opted to convert this money back. And Skrill should 
+pay Mr K €100 to make up for the inconvenience.
+I invited the parties to make any final points, if they wanted, before issuing my final decision. 
+Both parties replied. What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Mr K said that he was glad that Id seen this case in the way hed tried to explain from the 
+beginning. He said he didnt have anything to add, and was happy to accept my provisional 
+decision.
+Skrill said it didnt accept my provisional decision, as per the details already provided. It has 
+offered no further evidence or argument. 
+Ive reviewed my provisional decision, and I havent changed my mind. So Ill now make the 
+award I previously proposed. 
+  
+My final decision
+My final decision is that Skrill Limited must reimburse Mr K the fees he was charged on both 
+currency exchanges, from EUR to CZK and back, and pay Mr K €100 to make up for the 
+inconvenience. 
+  
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr K to accept or 
+reject my decision before 23 August 2021.
+ 
+Esther Absalom-Gough
+Ombudsman

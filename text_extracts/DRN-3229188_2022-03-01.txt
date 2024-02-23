@@ -1,0 +1,113 @@
+DRN-3229188
+The complaint
+Mr R1 has a trading account with Gain Capital UK Limited trading as Forex.com. His son, Mr 
+R2 is authorised to trade on the account and has brought the complaint on Mr R1s behalf. 
+He says that the US_OIL product available for trading through Gain Capital UK Limited 
+trading as Forex.com was not clearly labelled as an expiring futures contact. 
+What happened
+On 20 April 2020, Mr R2 placed a number of trades in Gains US_OIL product using its MT4 
+mobile platform. At around 17:42 GMT he instigated an on-line chat, eventually connecting 
+with an operator at around 18:34 GMT. He asked if there were any overnight charges 
+associated with the product and whether his positions would roll over.
+The operator, speaking generally, said there were charges and that positions would remain 
+open, but he also stressed that Gain offered both expiring and non-expiring contracts. Mr R 
+said hed traded the US_OIL product on Gains MT4 platform and the operator confirmed 
+that it would therefore have been the expiring futures contract. He directed Mr R2 to where 
+information about expiry could be found, under the Company tab, and Mr R2 confirmed 
+back that he could see that the expiry was 4 exchange days before the 25th of every 
+month. The operator then confirmed that, in line with this, expiry for the contract in question 
+was that day, at 14:30 EST  19:30 GMT (he did initially say 15:00 EST, but then clarified).  
+Mr R2 asked some further questions about what would happen if he didnt close his position 
+before expiry, and also where he would be able to trade non-expiring contracts. The 
+conversation then turned to the current position and the fact that during the chat the price 
+had greyed out. The operator explained this was likely due to a lack of liquidity given that it 
+was now less than 20 minutes before the contract expiry time. The expiry then passed, and 
+the positions were closed out. 
+Several days later, on 22 April 2020, Gain emailed Mr R2 to tell him about an adjustment it 
+had made to Mr R1s account in response to the price of oil having gone negative on 20 April 
+2020. It explained that due to settlement issues related to the negative price, the contracts 
+had settled at $0.01, which didnt reflect the actual price of the underlying market. So, to 
+ensure proper alignment with it, Gain had reviewed all impacted long and short positions to 
+see whether any adjustment was required to correctly reflect the negative pricing. For long 
+positions such as Mr R1s, it had calculated the effective liquidation level that wouldve 
+applied. This showed that for Mr R1s account a cash adjustment of £2537.18 was required, 
+which Gain had deducted. 
+Mr R2 then complained to Gain. He said it had provided misleading information about the 
+US_OIL product, as its system had failed to make clear that it was an expiring contract. He 
+said that in the circumstances all the trades he placed on 20 April 20202 should therefore be 
+voided, and the adjustment refunded to Mr R1s account.  
+Gain didnt uphold the complaint, as it felt the information regarding expiry had been 
+available to Mr R2 through the MT4 platform and it noted that the details of expiry had also 
+been explained to him by the chat operator. It highlighted that when Mr R2 had been given 
+this information he hadnt opted to close the positions. So, it considered the adjustment to 
+have been correctly applied. 
+The complaint was referred to this service, but our investigator reached broadly the same 
+conclusion as Gain. She was satisfied the details concerning the product and the contracts 
+expiry had been available. She also noted that the terms of the account provided for Gain to 
+make adjustments when trades were impacted by pricing issues. So, she felt its actions to 
+determine the position the account would most likely have been in had its systems been able 
+to reflect the negative price were fair.
+Mr R2 didnt accept the investigators view. He maintained that the information provided by 
+Gain had been unclear and incomplete. He provided documentary evidence that he felt 
+supported that position, along with comparisons with other providers information. 
+As the investigator wasnt persuaded to change her opinion, the matter was referred to me to 
+review.   
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Ive noted Mr R2s comments about the way information concerning the US_OIL product was 
+presented. Ive looked at the documentation hes provided, alongside Gains explanation of 
+how the information is presented and where details of the expiry could be found. 
+Gain was providing an execution-only service. This meant its responsibility was to ensure 
+that information about its products was presented in a manner that was clear, fair, and not 
+misleading. It was down to Mr R2 to ensure that he was fully informed about what he was 
+choosing to trade in.  
+Mr R2 has provided some comparisons with other providers platforms and he strongly feels 
+that Gain failed to make it sufficiently clear that the product in question was an expiring 
+contract. I accept that Gain could have presented the information in a different manner, 
+which didnt involve navigating to separate tab to view the expiry details. But there was no 
+requirement that it did so, or that it present its information in the same way as other 
+providers. Mr R2 was not new to the service, with Mr R1 having opened his account in 
+January 2018. He was also aware of how additional information about the service or 
+particular products could be obtained through the chat service.
+Mr R2 didnt instigate his chat with the operator on 20 April 2020 until after he had deposited 
+into the account and made the trades in question. When he did make contact, it was to 
+obtain further information about the product hed traded in. Ive not seen that he was 
+prevented from asking these questions, or from seeking any other information or clarification 
+that he needed, prior to placing the trades. 
+In short, Im not persuaded that Gain provided any misleading information about the product 
+or prevented Mr R2 from obtaining information about it. Ultimately, it was his decision to 
+trade and I dont think I can fairly hold Gain responsible if he invested in a product which 
+wasnt as he envisioned.
+This being so, as I dont think Gain did anything wrong in respect of the way it presented the 
+product, theres no basis on which I can direct Gain to void the trades and refund the 
+account. But, that said, the account was unusually impacted by the unprecedented situation with the 
+negative oil price. If Mr R2 hadnt traded in the product on that day, the account wouldnt 
+have been subject to the adjustment Gain made. But I think it was fair for Gain to treat the 
+account as it did any other that held a long position at the point of the price going negative.  
+While it was not quite the position Mr R2 intended the account to be in, that was, as Ive 
+said, not the fault of Gain. It seems clear Mr R2 intended to trade in oil, albeit not with an 
+expiring contract, so even if hed had the type of contract he wanted, Mr R1s account would 
+still have been subject to consequences of the price of oil going negative.
+The approach that Gain took to adjusting accounts seems broadly fair as it looked to 
+replicate the position accounts would otherwise have been in based on the movement in the 
+price of oil on the day in question. As the investigator highlighted, its terms provide for it 
+taking such steps in response to market disruption events. But I appreciate that if its 
+systems had been able to handle negative pricing, account holders wouldve had a clearer 
+picture of what was happening and as a result, may, in specific circumstances, have taken 
+steps to mitigate their situation  for instance, by actively closing out their positions, or 
+increasing their margin. Although given the volatility created by the unprecedented 
+circumstances, this seems unlikely. 
+While Mr R2 wasnt initially aware of the imminent expiry, the situation was confirmed to him 
+by the chat operator and he did then have some opportunity to close the positions himself, 
+prior to the expiry. In all the circumstances, I dont think theres sufficient evidence for me to 
+conclude that if Gains systems had been able to handle negative pricing Mr R2 wouldve 
+acted differently, in such a way as to prevent the positions being closed out in any event. As 
+such, Im satisfied it was fair for Gain to apply the adjustment to Mr R1s account. 
+My final decision
+For the reasons given, my final decision is that I dont uphold the complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr R to accept or 
+reject my decision before 29 March 2022.
+ 
+James Harris
+Ombudsman

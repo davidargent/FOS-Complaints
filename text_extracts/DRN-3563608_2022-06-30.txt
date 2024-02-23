@@ -1,0 +1,438 @@
+DRN-3563608
+The complaint
+A complains that PrePay Technologies Limited t/a Counting Up failed to refund several
+transactions that they didnt recognise from their account. A also complain a payment
+was delayed and Counting Up were rude in their communications.
+What happened
+The background to this complaint has already been explained in some detail, but, for
+completeness, Ill replicate the full provisional decision here which sets out the details of the
+complaint and my initial thoughts on it.
+A held an account with Counting Up and when they checked their mobile app they
+noticed the account had almost been emptied overnight. A contacted Counting Up about
+this who confirmed theyd registered a change on the account to allow another device to
+have access to it.
+A told Counting Up that they hadnt made any of these changes or transferred or spent
+the funds from the account. Counting Up looked into what had happened and told A that
+theyd sent emails notifying A about the change to the address that A had registered with
+them. It was this email that allowed the changes to be made to the account. A said they
+hadnt received them and couldnt find them within their email system.
+Counting Up told A that in order for a payment to be made from the account, someone
+would need access to As device and be able to receive a message to verify the transfer.
+A confirmed to Counting Up that no one else had access to their device.
+A told Counting Up that theyd received a message from them about a new payee that
+was being set up and had clicked on a link to say no to this. Counting Up investigated
+the issue and the next morning asked A to check that all their details were correct,
+including the registered phone number. When A looked at their app, the phone number
+had been changed from the one that A had originally registered with Counting Up. A
+changed the number back and also changed the password on their email account on the
+advice of Counting Up.
+Counting Up contacted the banks responsible for receiving the transfers from As
+account and secured £4,160.35 for eventual return to A. Counting Up declined to refund
+the remaining money and told A they believed they were in breach of their terms and
+conditions. This was because A had allowed their email address to be compromised,
+which in turn allowed an unauthorised third party to gain access to the Counting Up app
+and take over the account.
+A told Counting Up that they werent aware their email had been compromised, they said
+that the operator of the email had confirmed it hadnt been hacked and As own anti
+intrusion software hadnt detected anything on their mobile phone that used the app.
+Counting Up told A that if the email wasnt hacked, then the only other way to make the
+transfers was to have access to the app on As mobile phone. A contacted Counting Up
+a week or so after the original event and said someone was trying to register a new
+device which wasnt them. Counting Up prevented any new devices for being registered
+for a period of time.
+A complained to Counting Up about the loss of their funds, how theyd been dealt with
+and that there had been a delay when their funds were returned. A also believed that
+Counting Ups systems had been breached. Counting Up didnt change their opinion and
+declined to refund A, apart from returning the recovered funds. Counting Up held A liable
+and said:
+Unfortunately, we are not able to refund the remaining missing sums. This is
+because Countingup is not liable for those transactions under 10.5.1 of our Terms
+and Conditions and 10.6.
+This is because once they gained access to your email address, a 3rd party was able
+to access either your card details or your Countingup up app in order to set up the
+app on their own device.
+As such, either access to the card itself or to your device (and therefore, the
+Countingup app) was not made secure, which constitutes gross negligence under
+our Terms.
+A was unhappy with how Counting Up had dealt with their losses and brought their
+complaint to the Financial Ombudsman Service for an independent review. It was looked
+into by one of our investigators who asked for evidence from both parties. A explained
+that no one else had access to either their mobile phone or laptop, they were password
+protected and had anti-intrusion software fitted. A said no one else had been told the
+passwords to access these devices or the Counting Up app. A confirmed that no one
+had approached them about their account or tried to obtain details about it. A confirmed
+theyd received a text message from Counting Up about a new payee and had replied
+no to this because they didnt recognise setting up any new payee. A confirmed theyd
+notified the police about the fraud.
+A later explained that prior to the transactions happening, theyd noticed an email
+arriving in their inbox but then couldnt locate it. A said theyd received a message via a
+popular messaging app that contained a video which had been briefly viewed but later
+thought was unusual.
+Counting Up provided a timeline of the events including their contact with A when they
+were notified about the losses and details of the process needed to add a new device to
+the account. Counting Up told A theyd sent an email to the registered address held for A
+and because theyd received an appropriate response to it, which included details (last
+four digits) from As Mastercard, theyd made changes to the account.
+Counting Up explained that the transfers couldnt have happened without access to As
+device and knowledge of the password. New bank transfers also triggered a text
+message which needed to be verified before the transfers could happen. One of the
+disputed payments was also made with As Mastercard details. Counting Up said these
+details werent available in their app and could only be found on the physical card.
+Counting Up explained theyd asked A to change their email account password and to
+check their details on their Counting Up account. It was later found that the mobile
+phone number had been changed.
+Counting Up believed theyd acted appropriately when theyd dealt with A and recovered
+their money in a timely manner.
+Our investigator thought that A hadnt authorised the transactions and had been thevictim of a technical hack on his phone as a result of opening a video file which led to
+the compromise of As Counting Up account. Our investigator didnt think that A had
+been grossly negligent and upheld As complaint.
+Counting Up disagreed with the investigators outcome and questioned the hack, they
+hadnt seen any evidence of this and believed it was speculation. They didnt believe this
+was the reason for the loss of As money, but they accepted that A .may not have
+authorised the transactions.
+Counting Up didnt think their position had been correctly represented because the
+investigator had only relied on the gross negligence aspect of the Payment Service
+Regulations and hadnt considered the terms and conditions used by Counting Up to
+deny A the refund. Counting Up considered their terms and conditions went beyond
+gross negligence. They said:
+(The investigator) appears to focus their reasoning on gross negligence
+over the correlation between Clause 10 of Counting Ltds Terms and
+Conditions and 72 (1) of the Payment Services Regulations 2017
+They continued to question how the Mastercard disputed transaction(s) could have
+taken place because there was no explanation how the card details could have been
+obtained by the fraudster. Counting Up asked for a further review of the complaint which
+has been passed to me for a decision.
+Ive issued two provisional decisions for this complaint, the first of which said:
+Ive considered all the available evidence and arguments to decide whats fair and
+reasonable in the circumstances of this complaint.
+The main thrust of Counting Ups case is that A breached their terms and conditions. But
+before I can consider that, I need to satisfy myself regarding the question of authorisation.
+Authorisation
+Counting Up said in their initial response to the Financial Ombudsman that A .may not
+have authorised the transactions. In a later response they said it was unknown to them
+if A authorised the transactions or not.
+So, the question of authorisation hasnt yet been sufficiently considered. Ive previously
+asked Counting Up for evidence of authentication related to all the disputed transactions
+but have yet to receive a full response to this request.
+The relevant law surrounding authorisations is the Payment Service Regulations 2017
+(PSRs). The basic position is that Counting Up can hold A liable for the disputed payments if
+the evidence suggests that its more likely than not that they made them or authorised them.
+Authorisation is made up of two parts. Authentication and consent. Authentication is usually
+referred to as the technical evidence and in this case I havent yet seen sufficient evidence
+to satisfy myself that the transactions were authenticated. Without that evidence, that makes
+it very difficult for me to say that they were authorised in the way the rules say.
+Because A have denied authorising the disputed transactions and Counting Up have yet to
+show they were properly authenticated, that would usually mean Counting Up are liable to
+make a refund to A.Whilst I appreciate that Counting Up have focused on the fact that they believe A has been
+grossly negligent in how these payments were made  it remains that the regulations here
+explain that its for a payment service provider to prove that a payment transaction was
+authenticated and accurately recorded. So, viewed purely on the basis of whether these
+transactions were authorised, Id be thinking of upholding the disputed transaction aspect of
+this complaint based on the lack of authentication data. This is relevant here, based on what
+Ill go onto say about the basis for Counting Ups refusal to refund A.
+Gross negligence
+Counting Up have relied on their terms and conditions to deny A a refund. Essentially, they
+make the case that because their terms and conditions go beyond gross negligence, A
+have breached them because their email system was hacked.
+Counting Ups terms state:
+10.5 You will be liable for all unauthorised transactions that arise from the use
+of a lost or stolen Card or Account security information or the misappropriation of the
+Card if you fail to:
+10.5.1 keep the Card and/or security features of the Card and Account
+Safe
+Counting Up argue that clause 10.5.1 allows them to deny A a refund because they believe
+this term covers the circumstances of this complaint, i.e. that if As account was hacked
+then this means it wasnt kept safe and therefore in breach of this term.
+Counting Up have quoted parts of S 72 (1) of the Payment Service Regulations in their
+submission, specifically:
+72.(1) A payment service user to whom a payment instrument has been issued
+must
+(a)use the payment instrument in accordance with the terms and conditions
+governing its issue and use;
+(1) A payment service user to whom a payment instrument has been issued
+must
+(a) use the payment instrument in accordance with the terms and
+conditions governing its issue and use
+S 72 contains further parts, so Ive replicated the complete section here:
+Obligations of the payment service user in relation to payment instruments and
+personalised security credentials
+72.(1) A payment service user to whom a payment instrument has been issued
+must
+(a)use the payment instrument in accordance with the terms and conditions governing its
+issue and use; and
+(b)notify the payment service provider in the agreed manner and without undue delay onbecoming aware of the loss, theft, misappropriation or unauthorised use of the payment
+instrument.
+(2) Paragraph (1)(a) applies only in relation to terms and conditions that are objective,
+non-discriminatory and proportionate.
+(3) The payment service user must take all reasonable steps to keep safe personalised
+security credentials relating to a payment instrument or an account information service.
+Whilst its accepted that account users must follow the terms and conditions governing the
+use of a payment instrument (which includes the use of an app), those terms must be
+objective, non-discriminatory and proportionate.
+This is reinforced by the FCAs approach document Payment Services and Electronic
+Money which says (8.175 on page 120):
+The customer is obligated by the PSRs 2017 to abide by the terms and conditions for
+the use of the payment instrument. A customer does not, however, need to abide by
+any term unless it is objective, non-discriminatory and proportionate. We would
+consider terms and conditions which, for example, require customers to open and
+destroy a PIN notification immediately or which prohibit customers from writing down
+or recording their PIN in any form not to be permitted.
+The FCA expands on that in 8.179:
+The PSRs 2017 also obligate the customer to take all reasonable steps to keep the
+personalised security credentials relating to a payment instrument or an account
+information service safe. This would include the PIN or password for the instrument
+or other piece of information known only to the issuing PSP and the customer. It does
+not include, for example, a credit card number itself, as this would be known to any
+business where the card was used.
+8.180 What constitutes reasonable steps will depend on the circumstances, but
+PSPs must say what steps they expect customers to take in their pre-contract
+disclosure information 
+So here, Counting Ups use of beyond gross negligence to describe their terms and
+conditions isnt something contained in the PSRs. The specific term they rely on is quite
+generalised, but Im not persuaded their interpretation of this term and the wider regulations
+and guidance has led to a fair outcome here.
+In saying this, Ive considered that The FCA says:
+we interpret gross negligence to be a higher than the standard negligence under
+common law. The customer needs to have shown a very significant degree of
+carelessness. (Payment Services and Electronic Money: Our Approach).
+So, to prove that A were grossly negligent, Counting Up have to show that they acted in
+such a way as to be so careless that they have met the above interpretation of this term. If a
+third party was responsible for these disputed transactions without the knowledge of A, and
+they (A) hadnt done anything to obviously facilitate that hack or had been legitimately
+tricked into it, then I currently find it difficult to accept that it meets the definition.
+I appreciate that the introduction of a possible hack through a message opened by A was a
+surprise to Counting Up and Ive not seen any evidence that clearly supports this as thereason for how the account was compromised here. I cant say with any certainty what
+happened at this point, but A have been consistent in their version of the events and cant
+offer any explanation other than it wasnt them that carried out the transfers or used the card
+to make a payment.
+If Counting Up consider that A were grossly negligent, the PSRs require them to provide
+supporting evidence to the payer (A) that demonstrates this:
+S 75 (4) says:
+If a payment service provider, including a payment initiation service provider where
+appropriate, claims that a payer acted fraudulently or failed with intent or gross negligence to
+comply with regulation 72, the payment service provider must provide supporting evidence to
+the payer
+So, what the regulations require is that Counting Up demonstrate to A with evidence, their
+belief that they were grossly negligent. What appears to be the case here is that Counting
+Up are relying on an absence of evidence to show that A were grossly negligent - because
+of a non-specific compromise of As electronic systems. I think it would be difficult for
+Counting Up to satisfy S75 on that basis. Put simply, gross negligence must be based on
+something rather than nothing.
+Ive looked at the basis on which Counting Up say that A has been grossly negligent here.
+But for the reasons given above, Im not persuaded by their current argument as to why or
+how A has been grossly negligent.
+10.6 T&C
+Counting Up also relied on this section of their terms to deny A any refund. Counting Up
+werent specific about which parts of this section they were referring to as it covers aspects
+of authorisation and app/device/information security, including the use of their card in an
+Automated Teller Machine. So, as its unclear what they were referring to and Ive already
+considered the issues of authorisation and gross negligence, I dont intend to comment
+further about this. If Counting Up wish to clarify any points then Ill be happy to consider
+them.
+So, it falls to Counting Up to show the payments were either authorised by A or they were
+grossly negligent. My current thinking is that because Counting Up havent demonstrated
+that the payments were authenticated, Im intending to uphold this complaint on that basis.
+But, if evidence is produced that demonstrates proper authentication, including the receipt of
+the email verifying the new device, Ill then consider whether it was more likely than not that
+A authorised the payments.
+Security
+System security is a feature of each partys positions whove both claimed their respective
+systems were operating properly at the time. A stated that their email provider and anti
+intrusion software reported their systems were working ok and Counting Up stated 
+(Counting Up) did not partake, actively or passively, in the compromising of A's credentials.
+So far, neither party have supplied evidence to support these claims which makes it difficult
+for me to make any assessment about it.
+The PSRs (S75) state it is for the payment service provider to prove that the payment
+transaction was  not affected by a technical breakdown or some other deficiency in theservice provided by the payment service provider.
+I dont think its unreasonable for Counting Up to demonstrate that their systems were
+working properly as theyve specifically defended this aspect of the complaint and theres an
+obligation under the PSRs to do so. I appreciate theres an element of proving a negative
+here, but I think it would be helpful to see that their systems were operating properly at the
+time of As loss.
+Similarly, A havent yet provided evidence of their own claims about the security of their
+systems (email integrity and phone security report), so I think in the interests of a fair and
+reasonable outcome, evidence should be, where available, provided to support this.
+Card payment data
+Counting Up provided authentication data for one Mastercard transaction, which Ive had
+chance to review. Counting Up have stated that the CVV (three-digit security number) would
+have likely been required to make the transaction and that information is only available from
+the physical card. Theres no evidence that the CVV was entered when the payment was
+made, so Im not convinced this point is relevant.
+Return of funds
+A complained that the recovered funds took too long to be repaid into their account. I havent
+seen evidence of how long this took but Counting Up supplied evidence that theyd
+requested it and informed A that theyd chased it up. I appreciate that theres a link between
+the companies, but its the responsibility of the receiving bank to return the funds and to an
+extent, Counting Up have little control over this. From the evidence Ive been able to
+consider, Im currently intending not to uphold this aspect of the complaint.
+Counting Ups treatment of A
+A also complained that Counting Up were rude when they communicated with them. Ive
+read through all the correspondence between A and Counting Up that has been supplied by
+both parties and couldnt see that theyd been rude to A. Counting Up responded to As
+questions and chased up the receiving banks once A had notified them about the fraud. I
+dont think the correspondence between them shows that Counting Up were rude to A and
+Im currently thinking that I wont uphold this aspect of the complaint.
+Summary
+Because authentication hasnt been satisfactorily dealt with, Im currently intending to uphold
+As complaint concerning the disputed transactions and to instruct Counting Up to refund
+them with simple interest at 8% added from the date of loss to the date its repaid. Im
+currently intending not to uphold the other aspects of the complaint. But, if the question of
+authentication is satisfactorily answered, Ill then consider the broader question of
+authorisation. Depending on the outcome of that, Ill then need to decide if gross negligence
+is relevant to the outcome of the complaint.
+I invited A and Counting Up to give me any more evidence and information they wanted me
+to consider before issuing my final decision. A didnt respond and Counting Up provided
+additional evidence concerning the operation of their systems and authentication data about
+the disputed payments.
+I then issued a second provisional based on receipt of the authentication data and 
+addressed the issue of authorisation.Ive considered all the available evidence and arguments to decide whats fair and
+reasonable in the circumstances of this complaint.
+As mentioned in my first provisional decision, I hadnt been able to assess the issue of
+authorisation because evidence hadnt been provided at that point. Counting Up have since
+sent me that evidence so I can now address this aspect of the complaint.
+The relevant law surrounding authorisations are the Payment Service Regulations 2017. The
+basic position is that Counting Up can hold A liable for the disputed payments if the evidence
+suggests that its more likely than not that they made them or authorised them.
+Counting Up can only refuse to refund unauthorised payments if it can prove A authorised
+the transactions but Counting Up cannot say that the use of the card and banking app
+conclusively proves that the payments were authorised.
+This is in line with the FCAs position, as outlined in its document setting out its role under
+the Payment Services Regulations 2017. The FCA says:
+To avoid doubt, it is not sufficient for the PSP to assert that the customer must have
+divulged the personalised security features of the payment instrument, and to effectively
+require the customer to prove that he did not. The burden of proof lies with the PSP and if a
+claim that a transaction is unauthorised is rejected, the rejection must be supported by
+sufficient evidence to prove that the customer is guilty of fraud, gross negligence or
+intentional breach and the reason for the rejection must be explained to the customer.
+Unless Counting Up can show that consent has been given, it has no authority to make the
+payment or to debit As account and any such transaction must be regarded as
+unauthorised. To start with, Ive seen the banks technical evidence for the disputed
+transactions. It shows that the transactions were authenticated using the payment tools
+issued to A.
+Because the transactions were properly authenticated by the payment tools issued to A, Im
+satisfied that Counting Up had the appropriate instructions with which to carry out the
+transactions. But, Ill now need to consider if sufficient evidence has been provided to show
+that A consented to the transactions.
+Part of the evidence supplied by Counting Up relates to three devices registered to As
+account, including IP address data about them.
+Note: IP addresses are a means to identify physical locations that online transactions are
+connected to and can be the actual physical location or other locations connected to the
+provider of the data services.
+Counting Up have explained that in order to register a new device, an email is sent to the
+registered address for the account and details from the Mastercard are required to be
+entered to confirm the action. Counting Up have provided evidence that they sent emails to
+As registered email address. The new device was registered because the correct process
+was followed, including the details taken from the Mastercard. Once the new device was
+registered, it was used to set up new payees and send funds to other accounts.
+The details from the Mastercard arent contained in the app, so it would seem that access to
+the physical card was required, or knowledge of the details contained on it plus access to As
+email before the new device was registered. A have explained that their email account
+provider confirmed that the account wasnt compromised, although A have also said there
+was an email (from Counting Up) that later couldnt be found. Counting Up have alsosupplied evidence that their own systems were operating normally at the time of the disputed
+transactions.
+Data shows that three devices were registered to the account. A explained they only used
+one device, but it wasnt responsible for setting up the new payees and transferring funds to
+different bank accounts. A second device was used to complete all these steps, which again
+needed specific security details known only to A. There was also a third device which was
+briefly registered on the account but wasnt used to make any disputed transactions. A
+confirmed they didnt pass security details to anyone else. So, its difficult to think of a
+plausible scenario where an unauthorised third party could complete all the steps necessary
+to register a new device/set up new payees and make several disputed transactions without
+access to As email and knowledge of details known only to A.
+A mentioned opening a video message via a messaging platform which our investigator
+thought could be responsible for the later compromise of As account. Some evidence of a
+general weakness in the messaging platform was produced which explained how such
+compromises could work. But, theres no evidence of any compromise (hack) of As system,
+which was backed up by their email providers confirmation. Of course, its possible that such
+technical compromises of As systems could have taken place without it being evidenced,
+but I dont think its the likely explanation.
+In order to complete the registration of a new device, the Mastercard details would be
+required which arent available on Counting Ups app  so its likely whoever set up the new
+device had access to the Mastercard.
+Ive also examined IP address data linked to the three devices using the app. As regular
+device and the new device use the same broadband provider, although the bulk of activity
+took place over different IP addresses. But, As regular device logged on from the same IP
+address used by the new device. This took place the same day as the disputed transactions.
+This would indicate that whoever made the disputed transactions did so from the same
+location that A were also logged on from. It seems unlikely that an unidentified third party
+would be using the same location as A on the day the disputed transactions were made.
+Ive also considered the single disputed transaction that used the Mastercard. The user of
+the card needed to either have the physical card or obtain the card number and other
+relevant security details. A didnt lose the card and Ive already made a finding that I dont
+think a technical hack was responsible for acquiring the details of it. I think that its more
+likely than not that A were responsible for using the card or allowing someone else to use it.
+So, taking everything into account, my current thinking is I think its more likely than not that
+A were responsible for making these disputed transactions. Whilst Im sure A will disagree
+with me, theres currently no plausible explanation how an unauthorised third party could
+obtain access to As email system, acquire the Mastercard details from the card and use the
+same IP address as A. Because Ive made a finding about authorisation, I dont currently
+need to consider whether A breached their terms and conditions or the issue of gross
+negligence.
+I see no reason to change my first provisional decision regarding the other aspects of As
+complaint.
+My provisional decision
+My current thinking is that I do not intend to uphold this complaint.I invited A and Counting Up to give me any more evidence and information they wanted me 
+to consider before issuing my final decision. Counting Up didnt have anything further to add 
+and A provided information concerning contact with his mobile phone supplier and 
+comments about the IP address data. A also provided screenshots from his email provider 
+relating to possible changes with their account.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+A provided an analysis of the IP data that Counting Up had supplied and information from 
+their mobile phone and email supplier. A have argued that theres evidence of third parties 
+attempting to access their mobile phone and email account. They also believe theres no 
+evidence of matching IP address data.
+Ive looked at the information A provided in relation to the information from their mobile 
+phone and email provider, which consists of text messages dated after the disputed 
+transactions took place. Both sets of texts relate to attempts to change information about 
+their accounts. As mobile phone provider asks A to bring identity information in following 
+their enquiry. It goes on to say that once identity has been confirmed  access to the 
+account can be granted. A replied to the text stating that someone has been trying to 
+impersonate them.
+The text seems to indicate someone contacted the mobile phone supplier  but they werent 
+able to gain any access to the account. This text is dated after the disputed transactions had 
+already taken took place and also confirms that no one was able to access it because they 
+couldnt satisfy the providers security requirements. 
+Regarding the text from As email provider, this also relates to attempts to change 
+information about the account, specifically the mobile phone number. This also happened 
+after the disputed transactions had already taken place. 
+So, whilst A may have been subject at some point to an attempt to gain access to their 
+accounts, these attempts happened following the movement of the funds out of the account. 
+If, as A state, that third parties were responsible for the disputed transactions, I cant think 
+why they would then need to try to change details having already taken control of the 
+account and emptied it?
+Ive also considered the possibility that As mobile phone was successfully cloned. Its 
+possible to take over someones mobile phone account and clone their device. But, that 
+would likely only provide access to the number and not any other details contained on the 
+original device. Whilst any texts sent to As device could be accessed by a cloned device, it 
+doesnt explain how the account was accessed in the first place and details changed on the 
+Counting Up account. Thats because an email sent to As email address would also need to 
+be responded to  which is unlikely to be available on a cloned device, so I dont think this 
+is the explanation for how the disputed transactions were made.
+A couldnt identify where IP address data was matching  but in the audit data provided by 
+Counting Up for the 29/08/19 it says:
+2019-08-29T10:21:04.000Z 213.205.240.135 D5824205-CC14-40BB-969A-4283641BF8BB2019-08-29T16:24:54.000Z 213.205.240.231 59865c39-ec54-4020-9586-f9abc0647632
+As usual device ends in .7632 and the device used to make the transactions ends with 
+F8BB. What this data shows is that both devices were present using the same IP address 
+on the same day. The first three sets of numbers  here 213.205.240 relate to the location 
+data and the last three ( 135/231 ) relate to the different devices used to connect to the 
+internet services. So, the evidence points to the same IP address being used by both 
+devices on the same day  something which Ive already covered in my second provisional 
+decision.
+A's position is that unknown third parties breached their security and were responsible for 
+the disputed transactions, but the evidence Ive examined leads me to the objective 
+conclusion that I think A were more likely than not responsible making these transactions or 
+allowing someone else to do it with their authority. Whilst A have provided evidence of 
+contact with their mobile phone & email provider from unknown third parties- the activity took 
+place some days after the disputed transactions had already taken place. Theres no 
+evidence that explains how someone could obtain access to As emails before the disputed 
+transactions took place, identify the debit card details to confirm payments and be using the 
+same IP address on the day of the disputed transactions. 
+My final decision
+My final decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask A to accept or 
+reject my decision before 28 July 2022.
+ 
+David Perry
+Ombudsman

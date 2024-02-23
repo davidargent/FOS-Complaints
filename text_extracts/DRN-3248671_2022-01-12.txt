@@ -1,0 +1,124 @@
+DRN-3248671
+The complaint
+ Mr K complains that Lloyds Bank PLC failed to refund a transaction he didnt recognise.
+What happened
+ Mr K noticed a payment leaving his account to merchant Ill refer to as D. The merchant was
+based abroad and supplied health supplements. Mr K has said that he hadnt ordered
+anything from D and contacted Lloyds about it. Lloyds made a temporary credit to Mr K while
+they looked into the issue. Lloyds used a chargeback to find out about the payment from
+the merchant. The chargeback process is run by the payment scheme responsible for
+processing the payment. It requires the merchants bank to supply information from the
+merchant about the payment in order to defend the transaction.
+D defended the payment and sent information back to Lloyds about the transaction. The
+evidence they sent was considered by Lloyds and they thought it was sufficient to hold Mr K
+responsible for the transaction. The information included the name/address/email address/
+phone number for Mr K and used his debit card number with the expiry date. The payment
+details were authenticated using a match to Mr Ks home address  called an AVS match but
+didnt include the three-digit security number (CVV) from the card.
+Mr K explained that hed had a previous disputed transaction with another merchant and
+thought that this was where D had obtained his details from because they were a linked
+business. In their chargeback response, D referred to this previous transaction as evidence
+that Mr K was responsible for the current payment because he hadnt disputed it at the time.
+Lloyds records showed that Mr K had disputed it and received a refund.
+D also stated that the items they said Mr K had ordered had been delivered , but the
+evidence they included didnt show any details about the delivery, only a reference to a
+postal service and a tracking number. D also referred to an IP address match  this is a
+system that identifies physical locations for internet-based transactions.
+Mr K made a complaint about this to Lloyds and they wrote to him and set out the evidence
+theyd relied on, which was that the transaction had Mr Ks home address for the delivery of
+the items, that it was shipped to that address and that the IP address for the disputed
+transaction matched records held by Lloyds for online banking activity carried out by Mr K.
+The temporary credit was taken back from Mr Ks account.
+Mr K was unhappy with being held responsible for the transaction and brought his complaint
+to our service for an independent review where it was looked into by one of our investigators.
+He thought that Lloyds had enough information to hold Mr K responsible for the transaction,
+including the use of the IP address and didnt uphold the complaint.
+Mr K disagreed with the outcome and maintained that he hadnt made the transaction. Mr K
+commented that hed tried to order an item some months before this disputed transaction.
+But the item wasnt delivered, and he thought the merchant may have been connected to the
+current disputed transaction. He confirmed hed raised the transaction with Lloyds at that
+time and received a refund.
+The complaint was passed to me and I issued a provisional decision where I said:
+Ive considered all the available evidence and arguments to decide whats fair and
+reasonable in the circumstances of this complaint.
+The relevant law surrounding authorisations are the Payment Service Regulations 2017. The
+basic position is that Lloyds can hold Mr K liable for the disputed payments if the evidence
+suggests that its more likely than not that he made them or authorised them.
+Authorisation is made up of two parts. Authentication and consent. Authentication is usually
+referred to as the technical evidence and in this case, Lloyds have supplied evidence that
+shows Mr Ks debit card details were used to make the payment and Im satisfied the
+evidence shows the disputed transaction was authenticated.
+Consent refers to the way in which Lloyds and Mr K agreed to operate the account to allow
+Lloyds to make payments on Mr Ks behalf. For example, Lloydss terms and conditions set
+out that if a payment is arranged through the use of a device ( Mr Ks debit card), then
+Lloyds accept that the instruction to make the payment is authorised by the account holder.
+So, because Mr Ks debit card details and matching address were entered, Im satisfied that
+consent was given, and the disputed transaction was authorised. But, there are exceptions
+where it wouldnt be appropriate for Lloyds to hold Mr K responsible, for example if his card
+details were used without his permission.
+Mr K has pointed out that hed previously made a purchase to a merchant with a different
+name (to D), for an item that wasnt delivered, and hed received a refund from Lloyds about
+this. Lloyds own records show that a refund was made to Mr K, but they dont have any
+further details about the transaction. D referred to this transaction in their evidence for the
+current chargeback and described it as undisputed  so I think it likely that the previous
+transaction Mr K referred to is connected to D, although their description is misleading
+because it was successfully disputed by Mr K.
+D also claimed in their chargeback response that the IP address matched, and Lloyds relied
+on this in part to deny Mr K a refund. But, the only IP address data supplied by D refers to
+the previous transaction that Mr K said hed had problems with. There was no IP address
+data for this disputed transaction. If the current transaction had recorded IP address data,
+then I would have been less convinced the transaction was unauthorised  thats because
+this type of data is usually automatically recorded and because it wasnt, I think its less likely
+the transaction was an authentic one carried out by Mr K.
+The information that D relied on to defend their case was essentially the same information
+theyd obtained when Mr K had previously tried to order a product from the other merchant,
+so its no surprise that they had recorded the personal details about Mr K, including his debit
+card. I noted that the CVV wasnt entered when this transaction was put through Lloyds
+system, and whilst some transactions can be successful without its use, that usually
+happens when theres already an arrangement with the merchant in place, which wasnt the
+case here. Lloyds records show that there was an AVS match, and because D already had
+this information from the previous transaction, its not surprising that it matched.
+Lloyds told Mr K , in their final response letter, that they were satisfied the item had been
+shipped and that the merchant had the correct address. As Ive explained, the presence of
+the address is no surprise, but the evidence presented by D of the shipment is a tracking
+number and the name of a postal service. The tracking number doesnt seem to be
+recognised and theres no evidence that the item was delivered. As this was coming from a
+third country, it would have been required to have additional checks and paperwork when itentered the country, so I would have thought there would have been some evidence of this
+journey, but that wasnt provided by D.
+Taking everything into account, I dont think the evidence presented by D shows that Mr K
+was more likely than not responsible for authorising this transaction and the information
+Lloyds relied on was misinterpreted  there was no matching IP address data and no
+evidence the items were shipped beyond the tracking number which couldnt be identified.
+Theres a plausible explanation for how D obtained the information about Mr K and Ds own
+evidence was misleading.
+Im currently minded to uphold this complaint and my intention is to instruct Lloyds to refund
+Mr K the cost of the disputed transaction, add 8% simple interest from the date of the redebit
+to the date its settled and pay Mr K £75 for the worry and unnecessary inconvenience.
+I invited Mr K and Lloyds to give me any more evidence and information they wanted me to
+consider before issuing my final decision. Both Lloyds and Mr K accepted my provisional 
+decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, and as both parties accepted my provisional decision, I see no reason to 
+reach a different conclusion. So, this final decision confirms the findings set out in my 
+provisional decision.
+ 
+Putting things right
+In order to put Mr K back into the position he was prior to this transaction, Ill be instructing  
+Lloyds to refund Mr K the cost of the disputed transaction, add 8% simple interest from the 
+date of the redebit to the date its settled. Also, to pay Mr K £75 for the worry and 
+unnecessary inconvenience caused.
+My final decision
+ My final decision is to uphold this complaint against Lloyds Bank Plc, who are instructed to:
+Refund £46.79 to Mr K and add 8% simple interest from the date of the redebit to the 
+date its settled. If Lloyds considers that it is required by HM Revenue & Customs to 
+withhold income tax from that interest, it should tell Mr K how much its taken off. It 
+should also give Mr K a tax deduction certificate if he asks for one, so he can reclaim 
+the tax from HM Revenue & Customs if appropriate.
+Pay £75 for the worry and inconvenience caused to Mr K.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr K to accept or 
+reject my decision before 9 February 2022.
+ 
+David Perry
+Ombudsman

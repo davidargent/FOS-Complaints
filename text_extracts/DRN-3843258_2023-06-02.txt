@@ -1,0 +1,136 @@
+DRN-3843258
+The complaint
+Mr C complains Nationwide Building Society (NBS) wont refund a deposit he paid for his 
+daughters wedding dress.
+What happened
+Mr Cs daughter was going to get married and she ordered a wedding dress from a shop Ill 
+call B in February 2019. Mr C used his NBS credit card to pay a deposit for the dress, of 
+£825. The wedding had been due to take place in June 2020 but it was postponed until the 
+summer of 2022 due to the COVID-19 pandemic.
+In the meantime, B had got into financial difficulties and was unable to supply the wedding 
+dress. This became apparent in May 2022. Mr C was unable to get the deposit back from B 
+and so he contacted NBS on 9 June 2022 for assistance.
+NBS said it couldnt help. In short, it said this was because it was unable to claim a refund 
+via the Visa chargeback scheme due to the time which had passed since the purchase, and 
+Mr C didnt have a valid claim under section 75 of the Consumer Credit Act 1974 (CCA) 
+because his daughter had ordered the dress, not him.
+Mr C complained about NBSs decision but it stood by what it had said. Dissatisfied with this 
+response, Mr C referred the matter to the Financial Ombudsman Service for an independent 
+assessment.
+One of our investigators looked into the matter. She came to essentially the same 
+conclusions as NBS. She noted Visa had set a time limit of 540 days from the date of a 
+transaction, in which chargebacks had to be made. Mr C had contacted NBS outside of this 
+window. In terms of the section 75 claim, there was no debtor-creditor-supplier (DCS) 
+agreement which allowed Mr C to make a claim against NBS. His daughter had bought the 
+dress and he had paid for it, but it was she who had the contractual relationship with B.
+Mr C was not convinced by our investigators findings. His research had indicated the 
+chargeback time limit was 120 days from when the dress should have been received, and he 
+had contacted NBS well within that time. He had also read that buying gifts was a grey area 
+and that if he had got the benefit of the purchase (which he considered that he had  
+vicariously through his daughter) then he should be covered.
+Ultimately, no agreement could be reached and Mr C asked for his complaint to be reviewed 
+by an ombudsman. So the matter has been passed to me to decide.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+When someone pays for something using their credit card, and something goes wrong, 
+theres no general obligation on the credit card company to provide a refund or assist in any 
+way. However, the credit card company may have a legal obligation to their account holder 
+under section 75 of the CCA, or be able to help through the dispute resolution mechanisms 
+administered by the card schemes (known as chargeback).
+Section 75 of the CCA gives a legal right for the account holder (the debtor) to claim 
+against their credit card issuer in respect of breaches of contract or misrepresentations by a 
+supplier of goods or services, so long as certain conditions have been met.
+Chargeback allows for a refund to be made of money paid with a credit or debit card in 
+certain scenarios, such as when goods have been paid for and not received. A consumer 
+cannot insist on their card company attempting a chargeback, but I would expect it to 
+attempt one, as a matter of good practice, if there was a reasonable prospect of succeeding 
+and to do so would be compliant with the rules of the card scheme to which the card belongs 
+(most commonly, Mastercard or Visa).
+The underlying dispute in Mr Cs case could hardly be more straightforward. An agreement 
+was made and a deposit was paid to B for a wedding dress to be provided at a certain time, 
+and B neither provided the dress nor refunded the deposit paid. This is a typical scenario 
+where a chargeback would have a reasonable prospect of succeeding, and its a scenario 
+which can be covered by section 75 (i.e. a breach of contract).
+So why did NBS say it was unable to help via a chargeback or a section 75 claim? And was 
+it right to say this? I will deal with each avenue separately.
+Chargeback
+As our investigator noted, chargebacks are subject to the rules set out by the relevant card 
+scheme whose logo appears on the card (in this case, Visa). The card schemes are not 
+within the jurisdiction of the Financial Ombudsman Service and we are unable to require 
+them to run their chargeback schemes in a particular way. However, we can consider 
+whether a card issuer has applied the rules correctly and conducted the chargeback process 
+in a competent manner.
+In this case the window of time in which a chargeback could be attempted under the card 
+scheme rules has been a key point in dispute. The current version of the Visa rules is 
+published online1, and while it would have been an earlier set of rules which would have 
+applied at the time Mr C contacted NBS, having compared the two I can see they are the 
+same in all material respects.
+On the question of time limits in scenarios where goods or services have not been received, 
+the rules say the following:
+A Dispute must be processed no later than any of the following:
+120 calendar days from the Transaction Processing Date
+120 calendar days from the last date that the cardholder expected to receive the 
+merchandise or services
+
+After the second bullet point is a link to a footnote which provides the following additional 
+restriction:
+1 https://usa.visa.com/content/dam/VCOM/download/about-visa/visa-rules-public.pdf Not to exceed 540 calendar days from the Transaction Processing Date.
+This means there is effectively a long stop under Visas rules which prevents a chargeback 
+of this type from being made more than 540 days from the date of the transaction. Given the 
+original transaction took place in February 2019 and Mr C did not approach NBS until June 
+2022, unfortunately he was squarely outside of the window in which a chargeback could 
+have been attempted.
+Mr C has referred to the idea of exceptions being made to the time limits given the disruption 
+and problems caused by the pandemic. This was something which it appears Visa 
+considered. In a (non-published) FAQ document dated 21 April 2020, the following question 
+and answer appeared:
+Will Visa make any exceptions or issue any waivers for dispute time frames for clients?
+No. Upon thorough review of the dispute process, we have decided not to change the time 
+frames for dispute processing or grant exceptions/waivers.
+In light of the above, I have to conclude that NBS was not wrong to decline to pursue a 
+chargeback for Mr C. It would not have been possible of it to do so in compliance with the 
+card schemes rules.
+Section 75
+When someone makes a payment on their credit card, in order to make a valid section 75 
+claim against their credit card issuer they need to have used the credit card to pay a 
+company they have a claim against for breach of contract or misrepresentation. Section 75 
+gives the debtor (the credit card account holder) the same claim against their credit card 
+issuer as they would have against the supplier of goods or services, so long as that claim is 
+for breach of contract or misrepresentation.
+This is because section 75 itself is worded in the following way:
+If the debtor under a debtor-creditor-supplier agreement falling within section 12(b) or (c) 
+has, in relation to a transaction financed by the agreement, any claim against the supplier in 
+respect of a misrepresentation or breach of contract, he shall have a like claim against the 
+creditor who, with the supplier, shall accordingly be jointly and severally liable to the debtor.
+The debtor in this case is Mr C, because he paid the deposit for the dress using his credit 
+card account. The transaction financed by the credit card account was the order of the 
+wedding dress, and the supplier was B, the shop. Section 75 says that it is the debtor who 
+needs to have a claim against the supplier in respect of a misrepresentation or breach of 
+contract.
+A parent paying for part of their childs wedding  be that a venue or a dress or something 
+else  is a common enough scenario. But the difficulty this presents for Mr Cs claim against 
+NBS is that he doesnt appear to be a party to the contract with B. His name doesnt appear 
+on it (his daughters does) and the dress is clearly being made for his daughter, to her 
+measurements and personalised to her, following a consultation with B. Mr C may have 
+provided the money to buy the dress, and it may be correct (as Mr C has suggested) that 
+bridal shops always put the brides name on invoices, but in my view it is difficult to find that 
+it was anything other than his daughters purchase, for which she was the contracting party. I 
+find Mr C was not a party to the contract with B.I appreciate Mr Cs interest in the purchase going well for his daughter and in her wedding 
+being a success, and the vicarious enjoyment he would have experienced, means he would 
+have felt close to the transaction. But that doesnt make him a party to the contract. Similarly, 
+Mr Cs suggestion that the purchase was a gift (and therefore his purchase) doesnt reflect 
+the circumstances. His daughter made the purchase from B. The gift was providing the 
+funding for that purchase.
+What all of this means is that Mr C does not have a claim against B in respect of a breach of 
+contract. His daughter may have such a claim, but he as the debtor needs to have a claim in 
+order for him to be able to hold NBS liable under section 75 of the CCA. As he does not, he 
+is unable to require NBS to refund the deposit, and I find NBS did not act unreasonably in 
+declining to honour his section 75 claim.
+My final decision
+For the reasons explained above, I do not uphold Mr Cs complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr C to accept or 
+reject my decision before 30 June 2023.
+ 
+Will Culley
+Ombudsman

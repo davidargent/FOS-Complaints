@@ -1,0 +1,118 @@
+DRN-3113765
+The complaint
+Miss A complains that Bank of Scotland plc trading as Halifax failed to refund two 
+transactions she didnt recognise.
+What happened
+Miss A explained that someone accessed her account and made two bank transfers to 
+another account without her authorisation. Miss A called Halifax after she received a text that 
+shed registered for mobile banking. 
+Halifax blocked the account and asked Miss A to bring her identification into a branch, which 
+she did. She was told that two payments had left her account but Miss A denied it was her 
+that had authorised them.
+Once Halifax had looked into the transactions, they believed Miss A had authorised them 
+and declined to refund her. Miss A made a complaint and Halifax re-looked into their 
+investigation and didnt change their position. Miss A remained unhappy and brought her 
+complaint to the Financial Ombudsman for an independent review.
+Miss As complaint was looked into by one of our investigators who asked both parties for 
+evidence. Miss A explained she hadnt known anything about the two payments or the 
+person they went to. In a call to Halifax via her representative, she said that she hadnt 
+received other texts sent to her phone about payees set up on her account or any calls 
+about them. Miss A hadnt given her log-in details or passwords to anyone. She confirmed 
+shed kept her phone with her throughout the time the disputed transactions took place, so 
+couldnt understand how theyd been made. Miss A said shed spent some time in shared 
+accommodation and used their facilities to access the internet. 
+Halifax presented audit data about a second device that registered on Miss As mobile 
+banking account. This device used Miss As registered phone number and a consistent IP 
+address throughout the transactions.
+Note: IP addresses are a means to identify physical locations that online transactions are
+connected to and can be the actual physical location or other locations connected to the
+provider of the data services.
+Halifax stated that security messages were sent to the new phone which confirmed the 
+payments. Together with the security information needed to access Miss As account, they 
+believed she was responsible for authorising the transactions. Halifax supplied statement 
+information showing that there were additional funds available in the account after the two 
+disputed transactions had been made.
+Our investigator thought it was reasonable for Halifax to hold Miss A liable for the two 
+transactions and didnt uphold the complaint.
+Miss A disagreed and maintained that she hadnt anything to do with the two transactions 
+and asked for a further review of her complaint. Its now been passed to me for a decision.
+Ive asked Miss A for further information concerning the registration of the second mobile but 
+havent received any response.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Coming to the question of authorisation, this is made up of two parts. Authentication and 
+consent. Authentication is usually referred to as the technical information about the  
+transactions. Halifax have supplied that evidence and Im satisfied it shows the disputed 
+transactions were authenticated.
+Consent is a formal step in the payment process and refers to the way in which Halifax and 
+Miss A agreed to operate the account. For example, when using the security details to log in 
+to Halifaxs mobile app, Halifax agree to accept that this is a legitimate payment instruction 
+made by the account holder or another approved user and make the payment on their 
+behalf.
+Because the transactions in this case have been shown to be properly authenticated and 
+they used Miss As security details to log in to her account - Im satisfied that consent was 
+given, and the disputed transactions were authorised. But, there are exceptions where it 
+wouldnt be appropriate for Halifax to hold Miss A responsible, for example if the card was 
+used without her permission. 
+Miss A has reported that the first she was aware of a problem was when she saw a message 
+from Halifax about a new payee set up on her account. Halifax confirmed that theyd 
+registered a new device prior to the new payee being set up using Miss As mobile phone 
+number, which had logged in to her account using her security details. 
+Halifaxs system sent a message to Miss As registered phone about the new device and the 
+new payee and received confirmation which allowed the device to be set up and the 
+payments to leave her account. Miss A has denied it was her who set up or sent these 
+payments and believes it was someone else who was responsible. 
+Ive examined the information surrounding the payments and what happened to Miss As 
+online account. Halifaxs records show that two devices attempted to login to Miss As mobile 
+banking app within a couple of minutes of each other. The second device was registered on 
+Miss As account just prior to the disputed transactions taking place. This triggered a 
+message to Miss As phone and the system records show that confirmation was received. 
+Further confirmation was recorded when the new payee was set up. So, Halifax had 
+registered a new device and made payments after receiving appropriate confirmation from 
+Miss As mobile phone that was used to access Halifaxs mobile banking app.
+In order for someone unknown to Miss A to have done that, they would have needed other 
+private security information from her and access to her mobile phone without her knowledge. 
+Miss A has said she was on a trip when this happened and her phone was with her. Ive 
+asked Miss A about the second phone but havent received any explanation from her about 
+it. So, it seems unlikely that an unknown third party could have acquired the relevant security 
+information in order to access Miss As account  and used her genuine phone number to do 
+it. 
+Ive considered if Miss As phone number was cloned, which would likely divert Halifax 
+messages to the second phone, but I dont think this is the case. Thats because the same 
+phone number was still being used by Miss A when she sent those messages to the 
+Financial Ombudsman. I think this was because it was Miss A who was in possession of the 
+phone at the time, otherwise the messages would have been unlikely to have been received if they were sent to cloned device. The main point of cloning a phone number is to divert 
+such messages  but the evidence here appears to show that it was Miss As phone that 
+received them.
+If her phone was cloned, I would have expected Miss A wouldnt have been able to use it at 
+all, but that wasnt the case because she called Halifax from it later that evening. Halifax 
+stated that the IP address was consistent with earlier undisputed use, but due to the time 
+thats passed that evidence is no longer available to examine. 
+I also examined the account when the two payments were made. There was a large balance 
+left in the account after the two disputed transactions were made. If they were made by an 
+unauthorised third party who had access to Miss As mobile banking, then they would likely 
+have been aware of the remaining balance. I think its unusual that these funds were left 
+untouched in the account. Ordinarily Id expect any thief who had access to someone elses 
+account would try and take everything from it that they could, but that didnt happen here. It 
+would have been a simple matter to send a further payment to the same account or set up a 
+different payee and take the remaining funds. 
+Of course, its possible that when Miss A used the shared internet facilitates at her 
+accommodation, something happened to compromise the security of her phone and banking 
+app, but I dont think this is the likely explanation. Thats because Miss A received the 
+messages from Halifax on her phone, even though her representative denied this during a 
+call to Halifax. There were two logins using different devices two minutes apart and this 
+seems quite coincidental if the second device was used by an unknown third party. Also, 
+Halifax received confirmation from Miss As phone after sending those messages and there 
+were funds left in the account which doesnt follow the usual pattern of theft.
+Whilst Im sure Miss A will disagree with me, my objective assessment based on the 
+available evidence is that I think its more likely than not that Miss A was responsible for 
+making the disputed transactions or allowing others to do so on her behalf. 
+My final decision
+My final decision is that I dont uphold this complaint against Bank of Scotland plc trading as 
+Halifax.
+Under the rules of the Financial Ombudsman Service, Im required to ask Miss A to accept 
+or reject my decision before 17 May 2022.
+ 
+David Perry
+Ombudsman

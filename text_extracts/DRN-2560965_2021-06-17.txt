@@ -1,0 +1,117 @@
+DRN-2560965
+The complaint
+Mr W says Trading 212 UK Limited (T212) wrongly suspended trading in the Oil21April20 
+futures contract he held a Contract for Differences (CFD) position in and wrongly rolled over 
+his position  from the April contract to the May/June contract  before it expired and without 
+his consent. 
+What happened
+One of our investigators looked into the matter and found mainly as follows:
+She referred to Mr Ws claim that he lost around £7,500 from T212s mishandling of 
+his position.
+She concluded that the complaint should not be upheld.
+She referred to Mr W opening the position on 20 April 2020; to US oil prices going 
+into negative territory for the first time in history on this date; to Mr Ws position 
+expiring on the following day (21 April) and being exposed to the market events that 
+resulted from the negative prices; to the key market events being illiquidity and 
+increased volatility in the underlying for Mr Ws position, thereby causing unreliability 
+of prices; to the terms agreed for Mr Ws account which gave T212 the ability to 
+suspend trading in such circumstances; and to Mr Ws evidence about prior industry 
+notice that was available to T212 and what it should have done  but did not do  in 
+preparation for the event.
+She concluded that T212s conduct was reasonably within the terms for the account 
+and that the rollover resulted in a margin requirement breach in the account which 
+entitled T212  based on the terms for the account  to close the position.
+Mr W disagreed with this outcome. He maintained that T212 failed to prepare for the 
+negative market pricing despite having received prior warning from the industry about what 
+to do to prepare for it; that it remains a fact that T212 rolled over his position before it expired 
+and such rollover was supposed to happen only upon expiry (not before); that the early 
+rollover led directly to his loss, because the price differential between the April and May 
+contracts on 20 April was more than it became the following day; that this meant the rollover 
+related price adjustment was also more detrimental than it would have been if the rollover 
+had happened the following day; and it is this detrimental price adjustment that led to the 
+margin breach in his account.
+The matter was then referred to an ombudsman. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+The margin breach that happened in Mr Ws execution only account is not in dispute. The 
+same applies to the margin requirement/maintenance/call regime that operated for the 
+account. That too is not in dispute, especially as section 9 of the agreed terms sets out the 
+minimum margin level required in the account, sets out that it was the account holders 
+responsibility to monitor and maintain that margin level and sets out T212s right to close 
+positions in the account upon a breach of an accounts minimum margin level. It is agreed 
+that such a breach happened in Mr Ws account, leading to closure of his position.
+The fall, into negative territory, of US oil prices on 20 April 2020 is also not in dispute. Mr W 
+is correct in saying the futures market/sector anticipated, beforehand, the possibility or 
+probability of an event like that and provided guidance to firms in the sector on how to 
+prepare for it. I accept his evidence in this respect and I understand his argument that his 
+experience could or would have been different, and better, if T212 had taken the 
+precautionary measures suggested by the guidance.
+T212s reaction to guidance within the sector was at its discretion. I have not been referred 
+to any relevant regulatory order(s) prior to 20 April 2020 that T212 breached, so the 
+guidance that anticipated the event was for T212 to consider if it wished, but it was not 
+obliged to follow the guidance. This finding is supported by the fact that T212s account 
+terms made provisions for what could be done in cases of market unrest and unreliability, so 
+whilst Mr W says T212 should have followed the guidance it cannot fairly be said that T212 
+did not have a meaningful alternative to rely upon.
+That alternative  extending to the rollover matter  is where dispute exists between the 
+parties. The alternative was suspension of the Oil21April20 contract. Mr W does not accept 
+that the suspension was reasonable because he says there was no corresponding 
+suspension in the underlying market, which continued to trade. I understand this point too, 
+however the relevant term for the account that justifies T212s suspension of the contract did 
+not make suspension in the underlying market a pre-requisite. That term (section 6.10) 
+simply gave T212 sole discretion to suspend the contract.
+In practice, this service would expect a firms contractual discretion to be exercised on 
+reasonable grounds and in a reasonable manner. The state of affairs on 20 April 2020 was 
+such that whilst the underlying futures oil market might not have been suspended it was a 
+volatile and illiquid market. I accept the evidence T212 has submitted to this service to prove 
+this and it does not appear that Mr W has much, if any, of a dispute about how volatile the 
+market was at the time. 
+The combination of illiquidity (the scarcity of participants in the market prepared to trade and 
+low trading volume) and price volatility usually leads to unreliable market prices and I am 
+persuaded that this was the case in relation to the Oil21April20 contract. T212 has presented 
+market pricing evidence showing how this led to extreme market spreads and evidence 
+showing a drastic drop in trading volume. For these reasons, it says it could not safely 
+execute orders for the contract and that led to the suspension and rollover action it applied.
+I am satisfied, on balance, thatT212 had reasonable grounds  as summarised above  to 
+exercise its discretion to apply the suspension. 
+The next consideration is whether (or not) it applied the suspension in a reasonable manner. 
+As stated above, it coupled suspension of the contract with rollover into the next months 
+contract, so the rollover matter features here. Mr W is correct in saying that the rollovers 
+applied only upon expiry of the initial contract. It does not appear that T212 disputes this, 
+what it appears to have said is that, overall, its decision to suspend the contract and to roll it 
+over was reasonable, when viewed as a single reaction on its part to the market event at the 
+time. On balance, I agree.
+Mr Ws argument about how his position/account would have been better off if the rollover 
+happened upon expiry on 21 April, instead of before expiry on 20 April, benefits from 
+hindsight. As events were unfolding on 20 April neither he nor T212 knew, with certainty, what would transpire the following day. As such, I do not consider that T212 was responsible 
+for knowingly or recklessly creating Mr Ws loss or was aware its action would create a larger 
+loss for Mr W than would have been the case if it acted in the same way the following day. It 
+also follows, that in a different set of circumstances where prices for the position were worse 
+on 21 April than on 20 April, T212s action on 20 April could, arguably, have benefitted Mr W.
+The April contract was suspended because T212 could no longer quote prices for it on 20 
+April and in order to maintain Mr Ws open position the rollover was immediately applied. I 
+accept that this was done without his knowledge and consent  and that it was done a day 
+early. However, it should be noted that the rollover facility applied automatically for CFDs on 
+futures in the account  section 17.5 of the terms confirmed this  so the argument about 
+knowledge and consent falls away somewhat; and whilst it was supposed to apply 
+automatically on 21 April and not manually on 20 April, the latter happened because T212 
+was having to react to market events in which prices in the underlying were volatile, the 
+underlying was illiquid and the April contract had been suspended because reliable prices 
+could not be quoted for it. The impact does not appear to have extended to the next contract 
+to follow, so it rolled the position over into the next contract in this wider context. 
+The automatic effect, at the point of a positions expiry (and not before), of rollover provisions 
+should not be taken lightly and action outside of such provisions is not something that should 
+normally be condoned. However, in some cases particular facts and particular 
+circumstances mean that this service can apply a fair and reasonable approach to 
+determining such a matter in the contexts of the relevant circumstances. I consider  without 
+creating or suggesting any precedent  that this can be applied in the present case. Overall, 
+on balance and for the reasons given above, I do not consider that T212 was wrong to apply 
+the rollover a day early.
+My final decision
+For the reasons given above, I do not uphold Mr Ws complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr W to accept or 
+reject my decision before 15 July 2021.
+ 
+Roy Kuku
+Ombudsman

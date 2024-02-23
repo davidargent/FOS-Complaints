@@ -1,0 +1,122 @@
+DRN-2807550
+The complaint
+Mrs F complains that PayPal Europe Sarl & Cie, SCA debited £3,500 from her account 
+following a chargeback raised by one of her customers, and refuses to refund her.
+What happened
+Mrs F had an account with PayPal which she used for her business. In August 2019, one of 
+her customers paid her £3,500 by way of a card payment to PayPal, and then in September 
+he raised a chargeback claim for that payment. Mrs F says this claim was fraudulent, and 
+she complains that PayPal did not do enough to defend it  specifically, that it did not lodge 
+her evidence in time. She also argues that, after the chargeback was successful, PayPal 
+should have refunded her under its seller protection policy.
+PayPal says that the outcome of the chargeback process was outside of its control. It says 
+the seller protection policy did not apply to the transaction. Our investigator accepted 
+PayPals arguments, and so he did not uphold this complaint.
+Mrs F did not accept that opinion. She said that the card scheme had told her that it would 
+not have upheld the chargeback claim if PayPal had provided it with her evidence within its 
+time limit, but PayPal had not met the deadline. She also insisted that the seller protection 
+policy did apply. She asked for an ombudsmans decision.
+I wrote a provisional decision in which I said I did not intend to uphold this complaint, but for 
+different reasons to those our investigator gave. That decision read as follows.
+What Ive provisionally decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+PayPal is not responsible for deciding the outcome of a chargeback claim  that is a matter 
+for the card scheme  but it should forward its customers evidence to the card scheme in a 
+timely manner so that it can be taken into account when a decision is made. In Mrs Fs case, 
+the card scheme asked PayPal for its response to the claim on 30 September, and gave it 
+20 days to reply. Mrs F has said that the deadline was 7 days, but I have seen the 
+chargeback dispute form, and it gives a response date of 20 October, so I accept that this 
+was the deadline given. (I am reinforced in that opinion by the fact that various websites 
+report that 20 days is the deadline usually given.) PayPals response is dated 8 October, so 
+I am satisfied that it was sent in time. I have seen the evidence which accompanied the form, 
+which is the same evidence which Mrs F had sent to PayPal. So I am not persuaded that the 
+chargeback claim was upheld as a result of any failure or shortcoming by PayPal.
+I regret that that finding will come as a disappointment to Mrs F. But it is not within my remit 
+in this complaint to comment on the card schemes decision to uphold the chargeback claim.
+In some circumstances, PayPal may still refund a seller a payment which has been debited 
+as a result of a chargeback, under its own seller protection policy. I have considered whether 
+that should have happened here.
+Our investigator thought that the policy did not apply because Mrs F had only supplied digital 
+goods, and because digital goods are never covered by the policy. However, I dont agree 
+with that, because digital goods are sometimes covered by the policy, provided that certain 
+additional criteria have been met.1 
+PayPal originally gave a different reason for why it said the seller protection policy did not 
+apply. It said it had asked Mrs F for tracking information, to show that the goods were indeed 
+delivered. This is an essential condition for the policy to apply, even if the transaction is 
+described as eligible on PayPals website  that is to say, an eligible transaction ceases to 
+be eligible if this condition has not been met. PayPal told us that Mrs F did not provide the 
+information it had asked her for. However, I was not persuaded that this was a fair reason, 
+because Mrs F had provided other evidence to prove that she had fulfilled her end of the 
+contract. So I asked PayPal why it had not accepted that evidence. I also asked whether the 
+digital goods she had sent would have been covered by its intangible goods clause.
+PayPal referred me to some of the relevant clauses in the terms and conditions of Mrs Fs 
+own contract with her customer. It said that according to the contract, Mrs F had only 
+contracted to provide services, not goods (whether digital or otherwise). But after I referred it 
+to some other clauses, PayPal accepted that this was a contract to supply digital goods as 
+well. However, it claimed that Mrs F had failed to supply them. In support of that position, it 
+referred me to what her customer had said when he had raised a claim under PayPals 
+buyer protection policy, four days before he raised his chargeback claim. He had told it he 
+had never received anything from Mrs F. PayPal had never made a decision about that 
+claim, because it had been superseded by the chargeback claim (the buyer protection policy 
+doesnt apply to transactions which become the subject of a chargeback dispute). PayPal 
+maintained that Mrs F had not performed the contract.
+The evidence which Mrs F submitted to PayPal includes an email from her customer to her, 
+dated 13 August 2013, in which he acknowledges that he has received 34 files, with a total 
+memory of 240 megabytes. The email he was replying to suggests (based on the filenames) 
+that these files were images, which is what I would expect them to be, having regard to the 
+nature of the goods and services Mrs F was providing. There is also a form, dated 11 August 
+and signed by the customer, in which he acknowledges that I have received all my images 
+today on a Disc and have checked that it is in working order.
+As Ive said, the seller protection policy has some additional requirements for intangible 
+goods, which includes digital goods. These do not appear to be onerous. The most relevant 
+one here is the one about proof of delivery. That reads as follows:
+For intangible or digital goods, proof of delivery means compelling evidence to show the 
+item was delivered or the purchase order was fulfilled. Compelling evidence could 
+include a system of record showing the date the item was sent and that it was either:
+Electronically sent to the recipient, including the recipients address (email, IP, etc.), 
+where applicable.
+Received or accessed by the recipient.
+On the face of it, the evidence I have described so far would appear to be compelling, and to 
+satisfy the terms of the seller protection policy. Taken on its own, it would have been enough 
+1 See https://www.paypal.com/uk/webapps/mpp/ua/useragreement-full#intangible-goods-arfor me to uphold this complaint on the basis that Mrs Fs claim under the policy should have 
+succeeded.
+However, I have serious doubts as a result of some other evidence I have seen, which casts 
+a more dubious light on the matter.
+According to the contract, Mrs Fs business is a limited company. The company is listed at 
+consumeractiongroup.co.uk where there are numerous reviews alleging bad faith and fraud 
+by the business.2
+Another business has a large number of negative reviews at TrustPilot (83% bad reviews out 
+of 153, at time of writing). Most of these reviews also allege that the business is a scam. 
+Several reviews mention that the business has changed its name, and two of them mention 
+that it has also been called by the same name as Mrs Fs company.
+Another company, based at the same address as the one where Mrs Fs company is 
+registered, received similar reviews on TrustPilot.
+For these reasons, I am not persuaded that Mrs Fs claim under PayPals seller protection 
+policy ought to have succeeded.
+Responses to my provisional decision
+Mrs F did not accept my provisional findings. Firstly, she pointed out that the contract was 
+not only to provide digital goods, but physical goods as well  the disc containing the digital 
+files, and there was proof that the customer had received that. Secondly, the negative 
+reviews were all about a rival company, which had nothing to do with her own. That rival 
+company had once occupied the same address as Mrs Fs own company, but that was 
+before her own company was established there.
+PayPal had nothing to add.
+My findings
+I dont believe that there is another entirely separate company, with the same name as 
+Mrs Fs company, which is in the same line of work, and which coincidentally used to be 
+based at the same address as her own company. Im sure that its all the same business, 
+and that the negative reviews to which I have referred relate to her business.
+For that reason, I remain of the view that her claim under the seller protection policy would 
+not have succeeded, and that it would not be fair and reasonable of me to uphold this 
+complaint.
+My final decision
+My decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mrs F to accept or 
+reject my decision before 21 July 2021. But there is no need to reply, and if we dont hear 
+from her then we will assume that she rejects it.
+2 In my provisional decision, I named all of the businesses I referred to, and provided links to the 
+relevant online reviews. To preserve Mrs Fs anonymity, I have omitted them from my final decision 
+because it will be published. 
+Richard Wood
+Ombudsman

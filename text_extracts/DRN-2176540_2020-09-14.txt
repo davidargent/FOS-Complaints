@@ -1,0 +1,54 @@
+DRN-2176540
+The complaint
+Mr L has complained that Santander UK Plc did not make a payment to an electronic wallet 
+provider for an app he was trying to set up and use. 
+What happened
+Mr L holds a Basic Top-Up Debit Card with Santander. He tried to make a payment from his 
+Santander account to an electronic wallet hed set up with the Curve app. But this didnt go 
+through. Curve said this was because there was a do not honour marker showing on Mr Ls 
+account when it requested the payment. 
+Santander said payments can be declined because of insufficient funds in the account but 
+also said that Curve was trying to request a recurring payment and recurring payments 
+arent allowed from the type of account Mr L holds with Santander. 
+Our investigator considered the complaint and didnt think Santander had done anything 
+wrong. She said it had acted in line with the terms and conditions of Mr Ls account in 
+declining the payment, and had offered Mr L £65 for poor service when he had to keep 
+chasing Santander for a response, which she thought was fair. 
+Mr L disagreed and said one payment had gone through to his Curve app from a different 
+account he holds with Santander, and he couldnt understand why another had been 
+stopped. So the complaint has come to me for a decision. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Ive looked at the terms and conditions of Mr Ls account with Santander. I can see that 
+under the Key Facts section, it says theres no overdraft facility on the account and that if 
+there are insufficient funds in the account, then requested payments wont be honoured. 
+It also says under Other Important Information about your account that the type of account 
+Mr L holds doesnt allow recurring payments to be made from it. And we know from speaking 
+to Curve that it was trying to request a recurring payment as thats its normal process once 
+an initial verification payment has failed. 
+Mr L has said another payment he made to his Curve app went through from a different 
+Santander account, and he doesnt understand why this payment was blocked when both 
+the Santander accounts were of the same type. 
+Ive seen a screenshot of Mr Ls bank statement which shows a pending charge of 77p. But 
+it looks as though this may have been an initial verification payment, which isnt actually 
+taken from the account. And this was not requested by Curve as a recurring payment but as 
+a one-off Three-Domain-Secure payment (also known as 3DS)  something Curve has 
+said isnt unusual for the first time it tries to verify a new card for use with the app. 
+Curve has explained that when that initial 3DS verification fails, which is what happened 
+here for reasons which arent clear, Curve would then request a recurring payment from the 
+card issuer. In this case, the card issuer, Santander, was unable to honour the recurring 
+payment request as these arent allowed from the account Mr L holds.
+So I dont think Santander has done anything wrong in not sending the requested payment 
+to Mr Ls Curve wallet app. And I think its acted in line with the terms and conditions of 
+Mr Ls account. Ive also considered the £65 payment Santander has offered Mr L for poor 
+service  and I think given the time Mr L spent pursuing his complaint and chasing 
+Santander for a response, the amount offered is fair. It follows that I wont be asking 
+Santander to do anything further.
+My final decision
+My final decision is that I do not uphold this complaint. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr L to accept or 
+reject my decision before 12 October 2020.
+ 
+Ifrah Malik
+Ombudsman

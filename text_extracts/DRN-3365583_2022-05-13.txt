@@ -1,0 +1,112 @@
+DRN-3365583
+The complaint
+Mrs H complains that Bank of Scotland plc (trading as Halifax) has failed to refund over 
+£17,000 she lost as part of an investment scam.
+What happened
+The details of this complaint are well known to both parties, so I will not set out everything 
+again here. In summary, Mrs H lost £17,115.11 to a fraudulent merchant named Royal Trust 
+Group (RTG). 
+She made several payments from her Halifax debit card, which were first paid to Ownr wallet 
+(a legitimate cryptocurrency platform). The cryptocurrency was subsequently transferred to 
+the scammer from the Ownr wallet platform.
+The following transactions were made from Mr Hs Halifax debit card:
+Date Merchant Amount Running total
+12/03/2021 Ownr wallet £215.61 £215.61
+15/03/2021 Ownr wallet £721.45 £937.06
+15/03/2021 Ownr wallet £1442.90 £2379.96
+15/03/2021 Ownr wallet £1731.48 £4111.44
+22/03/2021 Ownr wallet £723.17 £4834.61
+22/03/2021 Ownr wallet £940.12 £5774.73
+22/03/2021 Ownr wallet £2892.68 £8667.41
+26/03/2021 Ownr wallet £3658.18 £12,325.59
+29/03/2021 Ownr wallet £2966.04 £15,291.63
+31/03/2021 Ownr wallet £729.71 £16,021.34
+01/04/2021 Ownr wallet £1093.77 £17,115.11
+  Total £17,115.11
+Mrs H subsequently realised she had been scammed by RTG on or around 5 April 2021 
+after they failed to provide her with the money she wanted to withdraw, at which point she 
+stopped communicating with them. Mrs H raised a dispute with Halifax for help in recovering 
+her lost funds, but the bank declined to provide her with a refund. She complained that 
+Halifax ought to have done more to prevent the payments from being made.
+Our investigator didnt uphold Mrs Hs complaint. He didnt think the transactions were 
+unusual enough to have prompted any intervention by Halifax, and he also didnt think a 
+chargeback claim would have been successful given the payments Mrs H made from her 
+debit card were paid to a legitimate company. Mrs H disagreed, so the matter has been 
+escalated to me to determine.  
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I agree with the conclusions reached by the investigator and have decided 
+not to uphold it. Ill explain why.
+It isnt in dispute that Mrs H authorised the disputed payments she made to Ownr wallet 
+using her Halifax debit card (where her funds were subsequently transferred on to the 
+scammers from her crypto wallet). The payments were requested by her using her legitimate 
+security credentials provided by Halifax, and the starting position is that banks ought to 
+follow the instructions given by their customers in order for legitimate payments to be made 
+as instructed.
+However, Ive considered whether Halifax should have done more to prevent Mrs H from 
+falling victim to the scam, as there are some situations in which a bank should reasonably 
+have had a closer look at the circumstances surrounding a particular transfer. For example, 
+if it was particularly out of character. 
+I appreciate that overall, Mrs H has lost over £17,000 which is a significant amount of 
+money. But this amount wasnt paid in one single large or out of character transaction. It 
+was spread over 11 separate smaller increments which, in my judgment, would not have 
+appeared particularly unusual or out of character when compared with Mrs Hs spending 
+history, such that they ought to have been regarded as suspicious or indicating that she 
+might have been at risk of falling victim to a scam. The payments were not of such an 
+amount, for example, that it would represent a significant deviation from the way Mrs Hs 
+account was normally run. 
+I also acknowledge there were occasions where more than one payment was made in the 
+same day to Ownr wallet, such as three payments being made on 15 March 2021. However, 
+by this point, Mrs H had already made a payment to the crypto platform a few days before. 
+So, by the time she came to make these payments, Ownr wallet was already established on 
+her account as an existing payee that she had paid before. The three payments she made 
+on 15 March 2021 also only totalled around £3,900, which cumulatively wouldnt have 
+appeared overly unusual for an amount to be spent in one day. The same would also 
+therefore apply to the payments Mrs H made on 22 March 2021 (by which point Ownr wallet 
+had also been established on her account as a payee that shed sent several payments to 
+before). 
+So, having considered the payments Mrs H made to Ownr wallet, Im not persuaded there 
+was anything that ought reasonably to have triggered Halifaxs fraud monitoring systems, or 
+that would have indicated she was in the process of being scammed. 
+I appreciate that Mrs H never had any contact with Ownr wallet and that she had only 
+corresponded with RTG throughout the scam. But the fact still remains that she did not pay 
+the scammer directly. So, even if warnings had been put in place about RTG by the 
+Financial Conduct Authority at the time, I still would not have expected Halifax to have 
+automatically blocked the payments she was making from her debit card, as these were 
+being made to Ownr wallet  a legitimate cryptocurrency trading platform. Mrs H submits that 
+Ownr wallet are part of RTG. But she hasnt provided any persuasive evidence to 
+substantiate this claim, and neither have I seen anything else that would suggest Ownr 
+wallet is a fraudulent company either.
+Mrs H also says she contacted Halifax to find out some more information and to ask for 
+advice about RTG, but that each time she couldnt get through. I understand it must have 
+been frustrating not being able to reach the bank. But given there was no reasonable basis 
+for the bank to have questioned the payments, Im not persuaded that Halifaxs failure to 
+answer Mrs Hs calls can be considered a missed opportunity for them to have prevented 
+her loss in these circumstances. 
+Mrs H also says she interacted with Halifax staff in branch when she was depositing money 
+into her account in order to pay the scammer. But while a bank would be expected to 
+question its customers over any large or unusual withdrawals being made, the same cannot be said for cash deposits being made into the account (unless there was any reason to 
+suspect money laundering was taking place, which I cant see there would have been here). 
+So, I dont think Halifax acted unreasonably when it failed to ask Mrs H why she was 
+depositing money into her account. Indeed, it wouldnt be practicable to expect a bank to 
+question every customer wishing to make a cash deposit.  
+Ive also thought about whether Halifax could have done more to recover the funds after 
+Mrs H reported the fraud, as in some circumstances the money can be recovered via the 
+bank raising a chargeback dispute. However, in these circumstances, Mrs H used her debit 
+card to pay a legitimate company (Ownr wallet) before the funds were subsequently 
+transferred on to the scammer. So, she wouldnt be able to make a successful chargeback 
+claim in these circumstances because the company she paid had provided the services as 
+intended (i.e. the purchase of cryptocurrency). Therefore, I do not think Halifax were under 
+any obligation to raise a chargeback for Mrs H either.
+I appreciate this will likely come as a disappointment to Mrs H, and Im sorry to hear she has
+been the victim of a cruel scam. Id also like to reassure her that I have taken into 
+consideration everything she had sent us. However, in the circumstances, I do not consider 
+it would be fair and reasonable to hold Halifax liable for her loss.
+My final decision
+For the reasons given above, I do not uphold this complaint. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mrs H to accept or 
+reject my decision before 9 June 2022.
+ 
+Jack Ferris
+Ombudsman

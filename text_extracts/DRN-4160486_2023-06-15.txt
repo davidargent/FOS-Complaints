@@ -1,0 +1,116 @@
+DRN-4160486
+The complaint
+Mr L complains that Revolut Ltd will not refund Apple Pay transactions that he says he didnt 
+make or otherwise agree to. 
+What happened
+Mr L explains he received a phone call from someone claiming to be from Revolut to discuss 
+transactions on his account. Mr L didnt recognise them. He says the caller told him they 
+would be blocked, and a new card would be sent out to his address. Mr L recalls receiving 
+another phone call around an hour later. He recalls the caller told him to open his Revolut 
+app. Mr L says that when he did, he noticed £800 had gone. He says the caller told him to 
+close the app and open it again. Mr L says he followed the callers instructions and more 
+money started leaving his account. A total of seven payments totalling just under £5,000 
+were made in store at a high street retailer that Ill call A. The transactions were authorised 
+using Apple Pay. 
+Mr L reported the matter to Revolut within an hour of the transactions happening. He said it 
+was obvious hed been the victim of a phishing attack. He said hed been called by someone 
+claiming to be from Revolut but he didnt give the caller any information. He told Revolut 
+about his learning difficulties and how he finds it easier to talk on the phone than write in the 
+chat function. Revolut took five days to call him back, resulting in a delay logging the claim.
+When Revolut had the details, it looked into the matter but declined Mr Ls claim for a refund. 
+It said the device involved in setting up Apple Pay for Mr Ls card was the same device that 
+was being used on the in-app chat. It pointed out that Mr L hadnt provided any screenshots 
+of his phone to show the suspicious calls hed received. Revolut concluded if Mr L didnt 
+make the transactions himself, he must have agreed that someone else could. It said it had 
+found no trace of fraudulent activity and the transactions could have only been made by 
+Apple Pay if Mr L had failed to keep his account details safe.
+Mr L complained. Revolut didnt change its position on the refund, but it paid Mr L £100 to 
+recognise it gave poor service by not calling him sooner. As Mr L remained unhappy with 
+how things stood, he referred the complaint to this service. He explained hed been at home 
+when the disputed transactions happened and his housekeeper could confirm this. He said 
+that no-one else had access to his phone. 
+Our Investigator considered the matter but did not recommend it should be upheld. He 
+concluded there was no explanation for how the disputed payments could have been made 
+without at least some involvement from Mr L and he wasnt persuaded things happened in 
+the way Mr L had described. 
+He pointed out Mr L signing in and out of his app had no connection to money leaving his 
+account as making an Apple Pay payment did not require any steps to be taken from within 
+Mr Ls mobile banking app.
+Our Investigator also asked Mr L about the phone calls in case there was more going on 
+than Mr L had initially reported. He was mindful it was possible Mr L could have unwittingly 
+shared information. 
+Mr L replied to say the findings were wrong and that around five payments had already been 
+taken out of his account before he may have given the caller a passcode. He said the 
+outcome wasnt logical and he wouldnt have spent all of his money in 50 minutes and then 
+said it was fraudulent. 
+As Mr L and our Investigator couldnt reach an agreement, the complaint has been passed to 
+me to make a final decision. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I dont think Revolut treated Mr L unfairly by declining his claim. I know this 
+is not the news Mr L is hoping for, so I will explain why. As our Investigator set out the 
+position extensively in his view to both parties, Ive focussed on what I think are the key 
+outstanding issues here. 
+In cases where payments are in dispute, there are some general principles that apply. The 
+Payment Services Regulations primarily require firms to refund customers if they didnt make 
+or authorise payments themselves. Certain other circumstances do apply  specifically in 
+this type of case whether the customer was grossly negligent or what the customer may 
+have consented to. So, when I look at whether a firm has acted fairly in rejecting someones 
+fraud complaint, one of the things I consider is whether the customer made the transactions 
+themselves or allowed them to be made. If they did, then it generally wouldnt be fair to ask 
+the firm to refund them.
+One of the difficulties in this case is its not very clear exactly whats happened. Mr L says he 
+received two phone calls that he thought were from Revolut, but hes not been able to show 
+any specific details about those calls from his phone records and hes not given much 
+information about what was said, particularly during the second call. Mr L explains he 
+couldnt remember if he was speaking to the same person both times due to the stress of the 
+situation. Ive thought about whether Mr L was tricked by a caller into taking steps resulting 
+in payments being made from his account. But one thing Mr L has been very clear on is that 
+payments had already been made from his account before hed potentially given the caller a 
+passcode and before the second phone call took place, so by Mr Ls own recollections this 
+cannot be what happened. 
+Ive looked carefully at Revoluts technical evidence. It shows that the payments were 
+authenticated by Apple Pay involving personalised payment details linked to Mr L such as 
+his virtual card number and its security code. So Ive thought about whether its more likely 
+than not that Mr L consented to the payments being made. 
+Revoluts records show that an Apple Pay token was set up shortly before the disputed 
+transactions happened. A passcode was sent by text to Mr Ls phone number as part of the 
+process to set up Apple Pay. This is the same phone number that Mr L has used when 
+contacting this service and the same number that Revolut has held for Mr L since 2021. Mr L told both this service and Revolut that hed never shared his card details and that no-
+one else had access to his phone. But this means I cant see how anyone else could have 
+had the opportunity to add Mr Ls virtual card details or to find out the passcode that was 
+required to verify Apple Pay when it was only sent to Mr Ls phone. 
+In addition, at the time the disputed Apple Pay transactions were taking place, further unique 
+passcodes were required. There is no question that Mr L received these text messages 
+because hes provided this service with a screenshot of them. It is unclear how an 
+unconnected third party would have been able to obtain these codes which were required in 
+real time to complete the transactions at As retail premises unless Mr L disclosed them. 
+Although Ive thought carefully about everything Mr L said to Revolut and to us, there 
+remains no clear opportunity for someone else to have obtained this information or for Mr L 
+to have unwittingly disclosed it. 
+Whilst I recognise Mr Ls strength of feeling, from what I have to consider, I cant see how 
+the transactions in dispute could have been made without Mr Ls involvement. Revoluts 
+technical evidence shows that things could not have happened the way that Mr L has 
+described. Having looked carefully at the payments and the surrounding circumstances, on 
+balance, I think the transactions were authenticated using Mr Ls payment tools and that 
+Mr L consented to them being made. This means I consider the payments to be authorised 
+and that Revolut did not treat Mr L unfairly by holding him liable for the loss. 
+Given that I consider the payments to be authorised because, on balance, Mr L was involved 
+in their execution, I dont think he would be in a different position now if Revolut had tried to 
+block his account to find out more about the transactions at the time they were being made. 
+In addition, there is no way for Revolut to stop a card payment once it has been made. 
+Finally, Im not persuaded that Mr L has lost out specifically as a result of Revoluts delay in 
+investigating the claim, although I am pleased to see Revolut has already recognised that it 
+should have phoned Mr L when he told it about his personal circumstances. 
+I am sorry to have to disappoint Mr L. I have not reached this position lightly and I am 
+especially mindful that the loss of this money at a time when hes struggling to make ends 
+meet will not be easy to accept. But for the reasons I have explained above, I am unable to 
+fairly conclude that Revolut should take responsibility for the loss. 
+My final decision
+My final decision is that I dont uphold this complaint. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr L to accept or 
+reject my decision before 13 July 2023.
+ 
+Claire Marsh
+Ombudsman

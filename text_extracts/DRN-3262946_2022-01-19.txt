@@ -1,0 +1,136 @@
+DRN-3262946
+The complaint
+Ms J complains that TSB Bank plc have not allowed her access to internet banking using a
+computer/laptop.
+What happened
+Ms J says that TSB have blocked her access to log in to her online account via her personal
+computer from September 2020. She says that when she uses a computer or laptop to
+access the site it brings up an error message. Ms J has used several browsers and has also
+tried to access the website via a Virtual Private Network (VPN). Ms J did have some success
+logging into her online account using a third party browser and a VPN, until she became
+unable to use this method. Ms J is still having issues accessing TSBs online banking pages
+through multiple internet browsers using a computer.
+Ms J complained to TSB. TSB wrote to Ms J and said that they were aware of an issue
+where some customers were receiving an error message when trying to access their website
+using a specific internet browser, but the issue had now been resolved. TSB credited Ms Js
+account with £40 for any inconvenience and frustration which was caused.
+Ms J still had issues logging onto her account via her computer, so she contacted TSB
+again. TSB explained to Ms J that they had not placed any blocks on her account and
+advised her to use a different browser or to use their mobile application if she has a
+smartphone. TSB said that they were aware that some of their customers were still having
+issues logging on and that these were intermittent. TSB apologised and credited Ms J with
+another £50 to her account.
+Ms J brought her complaint to our service. She said that all connections which automatically
+disclose her Internet Protocol (IP) address fail to allow access to her login page. Ms J sent
+our service screenshots from several internet browser companies showing errors accessing
+TSBs internet log in webpage, including one which had the error
+DNS_PROBE_FINISHED_NXDOMAIN. Ms J said that she had also now been blocked from
+accessing her TSB online account, via the only browser that worked by protecting her
+identification since notifying our service of this. She is able to access her accounts through
+her mobile phone but has issues connecting to the log in page using a computer or laptop.
+Our investigator did not uphold her complaint. He said that although it wasnt her preferred
+method, Ms J was still able to access her accounts online via her mobile phone. He also
+explained that we dont have the powers to tell a business to change their procedures and
+processes or to install a new Information Technology system. Our investigator thought that
+the total of compensation TSB credited to her account was fair for the issues shes faced.
+Our investigator acknowledged that Ms J recently told us that she now had issues logging in
+even though she was inputting the correct information. Ms J said that her login failed
+because of errors made by TSBs representative when she was assisting Ms J with the login
+issue. But we are unable to look into this particular issue. This is because as per the rules
+applicable, we need to allow the business to look into and investigate a complaint or concern
+raised first, so that they can provide Ms J with their response. Ms J also told us that she
+spoke to a TSB staff member who promised her a call back from TSBs technical team,
+however, she did not get a call back from them. Ms J asked for an Ombudsman to review
+her complaint.
+As my findings differed in some respects from our investigators, I issued a provisional 
+decision to give both parties the opportunity to consider things further. This is set out below:
+Ive considered all the available evidence and arguments to decide whats fair and
+reasonable in the circumstances of this complaint.
+Ms J has made a number of points to both TSB and this service and Ive considered
+and read everything shes said and sent us. But, in line with this services role as a quick and
+informal body Ill be focusing on the crux of the complaint in deciding whats fair and
+reasonable here.
+As our investigator has previously explained to Ms J, Ill not be able to look into certain
+recent events which have happened, such as the information the call handler told her which
+blocked her logging into her account - as I can only look into the merits of the complaint Ms J
+originally brought to our service. I am unable to look into her comments regarding being
+promised a call back by TSBs technical team in September 2021 for this reason also. Ms J
+will need to make a separate complaint to TSB regarding these issues if she wishes to do
+so.
+Both parties disagree on what is causing the errors here. So I need to decide what I think is
+likely to have happened on the basis of the evidence I have available to me. Where I dont
+agree with a party, this isnt because I dont believe what they have said, its just that I have
+based my decision on the balance of probabilities of whats happened here.
+Im persuaded that the most likely reason that Ms J is unable to access her account using a
+computer or a laptop is the settings of the computer itself. I know the strength of feeling that
+Ms J has regarding this and she has completed the actions that shes been instructed to do
+previously, such as use supported internet browsers which are compatible with TSBs
+webpage and clear her browsing history etc. But Im persuaded this is the most likely reason
+and Ill explain why.
+One of the error messages Ms J received from an internet browser on her computer the
+same internet browser as TSB say she is able to use successfully on her mobile phone, has
+an error message of DNS_PROBE_FINISHED_NXDOMAIN. This suggests that there is an
+error with the domain name server. The various error messages she has received from the
+different internet browser companies recommend that she runs her network diagnostics 
+this also suggests that the issue may lie with a computer she is using, if she may be able to
+fix the problem using a diagnostics tool.
+My understanding is that Ms J does not get any of these error messages on her mobile
+phone from the browser she uses for her online banking as she has been able to log on
+successfully using this method, this also suggests that it is likely her computer/laptop
+settings or software which is causing the issue. Although she has cleared her browsing
+history and has used compatible internet browsers with TSBs webpage, this alone wont
+resolve the problem.
+TSB have invited Ms J into a branch to try logging on to her internet banking using their
+equipment. Im persuaded that it would be highly likely she could log onto her internet
+banking by doing this. While it wont be practical to do this every time she wants to log
+online, I do think that its likely she will be able to log in using a different computer and this
+will evidence that its the software or settings on her computer which is preventing her fromaccessing her accounts by this method.
+I say this because it is likely that Ms J would be logging onto the website on her mobile
+phone the same way that she would do on her computer/laptop. So Im persuaded that the
+only difference here may be that her mobile phone doesnt have the same security settings
+as her computer/laptop. So I think that it is the security settings of the computer that are
+causing her problems and that these security settings and software arent compatible with
+TSBs website.
+Ive considered what TSB have said, about how they believe the issue is to do with Ms J
+using a VPN and as she is unlikely to use a VPN for her phone then this is what is
+preventing her from accessing her details on a computer/laptop. But Im not persuaded that
+a VPN has anything to do with the website issues and Ill explain why.
+Ms J has previously said that she was able to use the VPN with an internet browser to
+access her online account until she was unable to do so. So Im not persuaded that the VPN
+would allow/prevent her to access her online account by itself or she would have been
+unlikely to have been able to access her online account through this method previously.
+Ive also considered what TSB have said about how they had a known issue previously
+regarding their customers using a specific internet browser. Because of this they paid her a
+total of £90 compensation. As TSB believed she may have been affected by this. But Im not
+persuaded that this is the reason that Ms J has problems accessing her online accounts via
+a computer or laptop either. I say this because Ms J has proved that she has issues with
+several browsers as opposed to the one which TSB previously had problems with. TSB has
+also confirmed that this issue has now been fixed and they would have had multiple reports
+from other customers if there was an issue with their servers, which they havent. So I dont
+think that Ms J was affected by the known issue as if this was the reason affecting her, she
+would have access to her accounts online now using a computer.
+Im also not persuaded that TSB have blocked any of the browsers she has tried to access
+her account. I say this as if TSB were to block access to her account for a legitimate reason
+then they would not need to block an internet browser itself. They would be able to simply
+disable her online access to her account. But as Ms J can access her account via her phone,
+even if this is not her preferred method, then I dont believe that TSB have placed any blocks
+or would even be able to place any blocks on her internet browsers themselves. TSB have
+confirmed that there are no blocks on her account and they say that this is proved by Ms J
+being able to use an internet browser on her phone to access her accounts online.
+So while the errors are blocking her access to her online account, using a computer/laptop.
+Im satisfied that this isnt due to a TSB error for the reasons Ive already given. So it follows
+I do not intend to ask TSB to do anything further.
+I invited both parties to let me have any further submissions before I reached a final 
+decision. TSB said they had no further points to add. Ms J did not respond to my provisional 
+decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+As neither party have provided me with any further information to consider, then my final 
+decision and reasoning remains the same as in my provisional decision.My final decision
+I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Ms J to accept or 
+reject my decision before 16 February 2022.
+ 
+Gregory Sloanes
+Ombudsman

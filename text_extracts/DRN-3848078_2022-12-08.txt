@@ -1,0 +1,115 @@
+DRN-3848078
+The complaint
+Mr F is complaining about Capital Com (UK) Limited (CC) closing contract for difference 
+(CFD) trading positions that he didnt want to close.
+What happened
+Mr F opened some long positions in a certain stock, A, in June 2021. He continued to trade 
+in A over the following months. On 6 August 2021, Mr F wanted to open some short 
+positions in A. He went on to the platform and clicked sell, thinking this would open a short 
+position. He confirmed the sale but when he checked his account, he couldnt see a short 
+position, so he tried again. After the second attempt, he realised that instead of opening a 
+short position hed closed 200 units of his long positions. 
+Mr F was upset about this and contacted CC the next day. In response, CC told Mr F that 
+the platform has two trading modes  a normal mode and a hedging mode. A customer 
+has to use hedging mode to open a short position on a stock they already hold a long 
+position on. CC told Mr F he should have seen an alert which would have warned him that 
+the sell instruction would close his long positions. But Mr F said he hadnt seen any such 
+notification.
+After further investigation, CC apologised and said thered been a problem with their 
+systems at the time which had meant that the alert hadnt popped up. They offered Mr F a 
+refund of £233.72  an amount which represents the difference between the price at which 
+he inadvertently sold the units and the price at which he bought 200 more of the same units 
+(on 6 August and 10 August). 
+Mr F wasnt happy with CCs offer so he brought his complaint to our service. He was upset 
+that hed closed positions that he hadnt wanted to close and lost around £4,000 in doing so. 
+He said all he wanted was for CC to re-open the positions hed inadvertently closed and 
+wasnt happy with the refund. He also said that CC had chosen to close the positions which 
+would give them most profit  noting that he had other open long positions which would have 
+left him with a smaller loss if closed.
+Our investigator looked into the matter and said she felt CCs offer was fair. She said it was 
+Mr Fs responsibility to understand the features of his account. And she said it was difficult to 
+say how things would have turned out if Mr F had been able to do things differently. Mr F 
+disagreed with our investigator and asked for an ombudsman to look at the case  so it 
+came to me. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+After reviewing the complaint, I didnt fully agree with our investigator. So I issued a 
+provisional decision on 7 December 2022. In this I said:
+As CC have said, there should have been an alert when Mr F went to try to open short 
+positions. Its their fault that there wasnt, and so Ill think about what would have 
+happened if things hadnt gone wrong and the alert had appeared as it should have. The 
+alert that should have appeared says: You have an open position on this instrument in 
+the opposite direction. Selling it will close it in full or partially. Im persuaded that Mr F 
+didnt want to close his open positions  and so, had there been an alert, I dont think he 
+would have done. 
+I asked Mr F what hed have done if he hadnt inadvertently closed the long positions. He 
+said hed been planning to open a short position for at least the quantity of the long 
+positions and then close the long position later. But he acknowledged that this was with 
+the benefit of hindsight. He also said he thought hed have still opened the additional long 
+positions in A on 6 August and 10 August  saying they werent intended to replace the 
+ones hed inadvertently closed. 
+Looking at Mr Fs trading history, I dont think he would have opened significant quantities 
+of short positions if the alert had appeared. CC told Mr F the next day (on 7 August) that 
+he needed to use hedging mode to hold opposite positions, and explained how to do this. 
+So Mr F had all the information he needed at this point but didnt open any short positions 
+until January 2022. When Mr F did eventually open short positions in A in January 2022, 
+he only held them for a day or two rather than waiting for larger market movements. So 
+Im inclined to say theres no need to factor additional short positions into any potential 
+redress. 
+Thinking about the inadvertent closure, I can see Mr F crystallised a substantial loss 
+because of it. He sold 200 units for around 31.5 cents which hed bought for nearly 58 
+cents  a loss of over $5,200 or nearly £3,800. However, although the unit price of A 
+recovered a little later in the year, it dropped significantly from December 2021 onwards. 
+Mr F still held over 1,700 open long positions in A when the account was closed in May 
+2022  these were sold at a price of just 10.33 cents. So, if Mr F hadnt closed the 
+positions in August 2021, its likely they wouldnt have been closed until May 2022. At that 
+point the units would have lost a further 20 cents in value and Mr Fs total losses would 
+have been even more.
+Ive also thought about Mr Fs comment that CC chose to close the positions that gave 
+them the biggest profit and himself the biggest loss. When I asked CC why this was, they 
+said the platform follows a first in first out system unless the client selects the specific 
+trade to be closed. This seems in contrast to the Execution Policy set out in CCs terms 
+and conditions which says: If there are no specific instructions from the Client on how to 
+execute the order, we will consider several execution factors to ensure that we manage 
+the order on terms most favourable to our Client.
+I havent looked further into this however, as a smaller loss on the closure of these 
+positions would likely have led to a larger loss when closing other positions in A. By 
+taking a first in first out approach, CC would at least have minimised the level of overnight 
+charges paid by Mr F.
+So, in summary, Im inclined to say CCs error (in not displaying the alert) hasnt caused 
+Mr F any financial loss  his losses might well have been larger had he not closed the 
+positions inadvertently.
+CC have offered Mr F £233.72. They explained this is effectively what it cost Mr F to 
+replace the long positions he inadvertently closed. Although I appreciate Mr Fs said that 
+wasnt his intention in opening further long positions, Im still inclined to say its fair for CC 
+to pay this amount to Mr F - it reflects the fact that their error caused Mr F some inconvenience and upset. I dont think they need to pay Mr F any more though  the 
+matter was resolved quickly. 
+CC accepted my decision but Mr F didnt. He explained that he didnt open any short 
+positions until January 2022 because, having experienced problems when he first tried to 
+open short positions, he was anxious that this might happen again. He reiterated that it had 
+been his intention to open more short positions, and that this would have helped reduce his 
+overall losses. 
+Whilst I can understand Mr Fs nervousness, the email from CC on 7 August 2021 clearly 
+explained what had gone wrong, and gave step-by-step instructions on how Mr F could open 
+the short positions he wanted to. So Im satisfied CC did everything they could to help Mr F 
+get into the position he wanted to be in  it wouldnt be fair to ask CC to compensate Mr F 
+further simply because he became nervous about trading. 
+Mr F also commented on CCs adoption of a first in first out approach  saying Based on 
+your observation here, I would like you to request you to take a note that they have violated 
+their terms just because some other scenario caused me a smaller loss doesnt excuse 
+this breach 
+I can understand Mr Fs view here, but I havent investigated this matter in any detail so I 
+cant say for sure that CC have violated their terms  Ive just commented on what appears 
+to have happened at first glance. Thats because were not a regulator and its not our role to 
+fine businesses  instead we focus on informal dispute resolution and putting consumers 
+back in the position they would have been in if things hadnt gone wrong.
+So Mr Fs comments havent changed my view, and my decision is the same as I set out in 
+my provisional decision.
+My final decision
+As Ive explained above, Capital Com (UK) Limited need to pay Mr F £233.72.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr F to accept or 
+reject my decision before 5 January 2023.
+ 
+Clare King
+Ombudsman

@@ -1,0 +1,128 @@
+DRN-4443257
+The complaint
+Mr J, as director of the limited company B, has complained that Advanced Payment 
+Solutions Limited (trading as Cashplus Bank) wont refund transactions he says he didnt 
+make or otherwise authorise.
+What happened
+Mr J has explained that his bag was stolen while on a train abroad. Amongst other 
+belongings, it contained Bs Cashplus debit card. The card and PIN were then used for over 
+£4,300 of cash machine and point-of-sale payments. Mr J said he was travelling alone, the 
+PIN was a random number which he hadnt shared with anyone, and the only written record 
+of the PIN was his PIN reminder from Cashplus, which was safe back at home in the UK and 
+not in the stolen bag. He reported the matter late because he initially forgot that the 
+Cashplus card was in that bag.
+Cashplus held B liable for the payments in dispute, on the basis that they couldnt see a 
+likely way that a thief couldve learned the PIN without consent.
+Our investigator looked into things independently and upheld the complaint in full, on the 
+suggestion that it was technically possible someone couldve guessed the PIN. Cashplus 
+appealed, so the complaints been passed to me to decide.
+I sent Mr J and Cashplus a provisional decision on 30 October 2023, to explain why 
+I thought only the contactless payments should be refunded. In that decision, I said:
+Broadly speaking, Cashplus can hold B liable for the payments in dispute if the evidence 
+suggests that Mr J authorised them, or if he failed to keep the account safe either 
+intentionally or through acting with gross negligence.
+Im satisfied from Cashplus technical evidence that the payments in dispute used Bs 
+genuine card, and for the non-contactless ones: the correct PIN too. This was not a cloned 
+card, and the PIN was not bypassed. So I can see that these transactions were properly 
+authenticated.
+The main issue here is how someone might have learned the PIN. Mr J had not used the 
+card and PIN before the disputed payments started, so there was no opportunity for a thief to 
+watch him enter the PIN and then steal the card. Hed not told anyone the PIN, and it was a 
+random number rather than one which could realistically be deduced. It is exceptionally 
+unlikely that a thief would happen to simply guess the PIN. And no one who Mr J knew was 
+with him at the time, so this could not have been done by a known party.
+This leaves only two likely and plausible possibilities:
+1.) That Mr J authorised the payments, either by making them himself or giving someone 
+else permission to make them; or
+2.) That despite his best recollections, Mr J did keep a record of the PIN with the card.
+I do not think that the first possibility is most likely. Mr J has provided comprehensive 
+evidence that he completed his journey, and so at the times the disputed payments took 
+place, he was far away. Hes also evidenced that he reported the other belongings in the bag 
+as stolen at the time, and paid to replace them. And he gave consistent testimony about the 
+theft in his police reports.
+And so based on the evidence and the balance of probabilities, the most likely explanation 
+for how the PIN was used is that Mr J kept some kind of record of it in the stolen bag along 
+with the card. And that would mean Mr J failed to keep Bs account safe in line with the 
+terms and conditions. It may be that he did this knowingly, or by not taking enough care. But 
+it is widely understood that keeping a note of the PIN with the card is very risky, since 
+anyone who has the card is then able to use it without further checks  which seems to be 
+what happened here. And theres no other plausible conclusion I can reasonably reach.
+That means Cashplus can hold B liable for the payments which used the PIN. The 
+contactless payments which did not use the PIN  totalling around £40  would still need to 
+be refunded as unauthorised. The contactless transactions could be made by anyone who 
+came across the card, and did not need the PIN, so failing to keep the PIN safe is not a 
+relevant consideration for those payments.
+Mr J questioned why Cashplus didnt send a text message or one-time passcode for these 
+payments. As Mr J will know from his other accounts, such one-time passcodes are more 
+relevant for other payments like online banking, rather than card payments. Bs card was 
+already protected by its encrypted microchip and the PIN, which only Mr J shouldve known. 
+I also dont see that Cashplus needed to flag or block these payments  they were each for 
+relatively modest amounts, made using the genuine card and the correct PIN which only 
+their customer shouldve known. So at the time, to Cashplus it would have looked like it was 
+Mr J making the payments.
+In summary, based on the evidence, there isnt a likely or plausible way that someone made 
+these payments without Mr Js consent, unless he failed to keep his PIN safe either 
+intentionally or through acting with gross negligence. This means that Cashplus can decline 
+a refund for the payments which used Bs PIN. This is a difficult message for me to give, and 
+I know its a difficult message for Mr J to receive. But given the evidence I have and the 
+balance of probabilities, Im currently unable to reasonably reach any other conclusion.
+I said Id consider anything else anyone wanted to give me. Cashplus confirmed they had 
+nothing more to add. Mr J said there was no more evidence he could give. But he did have 
+some further points and queries, which Ill talk about below.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.Mr J questioned whether any of the disputed transactions were made online. To confirm, 
+none of them were made online. They were all in-person payments made using the physical 
+card. There were a few contactless payments which only used the cards chip. The majority 
+used both the chip and the correct PIN.
+Mr J reiterated that he was sure he hadnt kept a record of the PIN with the card, saying he 
+was extra security conscious due to his career. He accepted he couldnt prove that he hadnt 
+kept such a record, but he also pointed out it was not proven that he had. I understand 
+where he is coming from and appreciate his strength of conviction about this. I agree with 
+Mr J that I cannot categorically prove what happened one way or the other. Instead, my 
+decision is based on the balance of probabilities. Here, the disputed payments were 
+authenticated properly using the genuine card and, for the bulk of them, the correct PIN. It 
+was not a cloned card and the PIN was not bypassed for any of the chip and PIN payments. 
+The transactions could not have been made by anyone who Mr J knew. There was no 
+opportunity for a thief to watch Mr J entering the PIN beforehand, Mr J had not shared the 
+PIN, and the PIN was a random number that could not realistically be deduced. And the 
+chances of a thief simply guessing the PIN on the first try are about 1 in 10,000, or a 0.01% 
+chance. So we can be about 99.99% sure that that did not happen.
+That means the only likely and plausible possibilities remaining are that Mr J either 
+authorised the payments or kept a record of the PIN with the card. I dont think he authorised 
+the payments, for the reasons I discussed in the provisional decision. So him keeping a 
+record of the PIN with the card, despite his best recollections, is the only likely and plausible 
+possibility remaining. I can then only fairly conclude that thats what most likely happened.
+Mr J reiterated that he thought Cashplus shouldve blocked the payments, and again I do 
+understand his point of view. I accept that the payments totalled a significant amount in the 
+end. But the starting point in law is that banks are expected to process payments that a 
+customer authorises them to make. And to Cashplus, it wouldve looked like it was Mr J 
+making the payments, since they were made using the genuine encrypted card and the 
+correct PIN. I dont find that the payments were sufficiently suspicious that I should say 
+Cashplus shouldve definitely stopped them.
+Lastly, Mr J said Cashplus shouldve stopped further payments from being made when he 
+reported his card as stolen. To clarify, they did. His card was blocked. It may just appear as 
+if some payments were made afterwards as transactions can take time to finish processing, 
+and the statement date will often be later than the date the payment was actually made. And 
+Cashplus were not able to stop card payments which had already been made before the 
+block, even if the payment then took some time to finish processing.
+So having reconsidered the case, Ive come to the same conclusion as before.
+Putting things right
+I direct Advanced Payment Solutions Limited to:
+refund the disputed contactless transactions only; and-
+pay simple interest to B on those contactless transactions, at the rate of 8% simple a 
+year, payable from the date they were last debited until the date theyre returned. 
+This is to compensate B for the time it didnt have its money. If Cashplus considers that theyre required by HM Revenue & Customs (HMRC) to deduct 
+tax from that simple interest, they should tell B how much tax theyve taken off. They should 
+also give B a tax deduction certificate if Mr J asks for one. Mr J may be able to reclaim the 
+tax from HMRC if B doesnt normally pay tax.
+My final decision
+I uphold Bs complaint in part, and direct Advanced Payment Solutions Limited to refund the 
+contactless payments and add simple interest, in the way I set out above.
+If B accepts the final decision, Advanced Payment Solutions Limited must carry out the 
+redress within 28 days of the date our service notifies it of the acceptance.
+Under the rules of the Financial Ombudsman Service, Im required to ask B to accept or 
+reject my decision before 5 December 2023.
+ 
+Adam Charles
+Ombudsman

@@ -1,0 +1,99 @@
+DRN-3330185
+The complaint
+Mr and Mrs K complain Interactive Brokers (UK) Ltd (IB) unfairly closed their trades due to 
+insufficient margin causing them a financial loss.  
+What happened
+On 15 May 2020 Mr and Mrs K had two options open on the price of Amazon shares  a 
+long put and a short put. Shortly before expiry, IB updated the margin requirement for 
+Mr and Mrs Ks account. It used a projected expiration exposure to do this. This projected 
+exposure estimated the likely price of Amazon shares when the options expired, and 
+therefore estimated the accounts equity exposure in light of the options which would be 
+automatically exercised. 
+In Mr and Mrs Ks case, it assumed that the options would expire with only the short put in 
+the money, and the long put out of the money. As a result, it estimated that Mr and Mrs K 
+would end up with a long position for 1000 Amazon shares. It calculated the required margin 
+Mr and Mrs K needed, and concluded that this was around $590,000. As Mr and Mrs K did 
+not have that amount of margin in their account, IB proceeded to close Mr and Mrs Ks 
+positions due to insufficient margin. 
+Mr and Mrs K complained. In short, Mr K said that on expiry his overall position would never 
+have been to take possession of the Amazon shares in light of his long put, and that in 
+reality his risk was limited to the difference between his long and short put strike price. This 
+amounted to $10,000 for which he had the required margin. 
+IB looked into his complaint, and disagreed. It issued a final response letter in which it 
+explained how it had calculated his total projected exposure once his options expired, and 
+why it acted in line with the terms when closing out his positions before expiry. 
+Mr and Mrs K disagreed and referred their complaint to this service. One of our investigators 
+looked into the complaint, and also concluded that IB had done nothing wrong. In short, he 
+agreed that it was for IB to set the relevant margin and take action when accounts were 
+found to have insufficient margin to keep positions open. In this case, whilst he acknowledge 
+Mr and Mrs Ks believe that their risk was limited, he considered that IB was justified in the 
+way it calculated the post expiration exposure  and therefore, it didnt do anything wrong 
+when it liquidated the positions. 
+Mr K didnt agree. He maintained that the maximum risk his account was exposed to was the 
+difference between the two strike prices, and not the $590,000 total exposure that IB had 
+estimated.  
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+I understand Mr Ks strength of feeling on this issue, but Im sorry that I dont have much to 
+add to what the investigator has already said. 
+I should make clear to Mr K that my role isnt to tell IB how it should go about setting its 
+margin requirements for specific products, nor to interfere with what are essentially its 
+commercial decisions about how it manages risks. My role is look at whether Mr K was 
+treated fairly and reasonably in the circumstances, given the terms of the account, what IB 
+was required to do by the regulator and what Mr Ks responsibilities were. 
+IB was required to follow the rules set out by the Financial Conduct Authority (FCA) in the 
+Conduct of Business Rules (COBS). 
+COBS 22.5.10 set out the way in which IB needed to set margin requirements for its retail 
+clients, including Mr and Mrs K. In particular, it specified that IB needed ensure that Mr and 
+Mrs K posted margin of at least 20% of the value of the exposure that the trade provided 
+when the underlying asset is a share  in this case Amazon shares. 
+COBS 22.5.12 explains that exposure refers to the total value of the exposure  in other 
+words, it is not a reference to a loss or potential loss. 
+COBS 22.5.13 explains that in circumstances where a retail clients net equity in an account 
+falls below 50% of the margin requirement, the firm must close the retail clients open 
+positions as soon as market conditions allow. It also explains that net equity is the sum of 
+the retail clients net profit and loss on their open positions and the retail clients deposited 
+margin. 
+In this case, IB has explained that the expiration exposure refers to the overall exposure to 
+options positions that will be exercised or assigned (and are already in the money). It also 
+includes positions that may be exercised or assigned based on a percentage distance from 
+the strike-price. In my view, this is consistent with the minimum requirements outlined in 
+COBS and which IB needed to comply with. 
+Ive also seen the way IB carry out these calculations using these assumptions, and as Ive 
+said above, it isnt for me to make a finding about that  other than to confirm that it applied 
+this methodology to Mr Ks trades. 
+In Mr Ks case, I can see that using this methodology, IB predicted that the only option in the 
+money would be his short put  and therefore, hed be left with a long position on expiry. The 
+value of the shares in question was such that IB predicted hed need $590,000 of margin to 
+be able to keep that long position open. I appreciate that Mr K has made reference to his 
+maximum loss, but thats not what IB was basing its margin calculation on  as Ive said 
+above and is set out in COBS, this total exposure included the possibility of Mr K needing to 
+take possession of 1000 Amazon shares. And whilst Mr Ks loss on expiry of both options 
+may have been limited, IB was essentially using a worst case scenario when deciding how 
+much margin Mr K needed on expiry of the options. 
+In taking into account the rules Ive outlined above and IBs explanations, Im satisfied that 
+this approach was fair and reasonable  and was in line with the commercial discretion the 
+regulator has given firms when deciding what margin to require from retail customers. 
+Ive also taken into account that Mr K was able to monitor this projected exposure on his 
+account, and there are ample resources on IBs website which explain how this calculation is 
+carried out and how to monitor it  including how to mitigate the risk of liquidation. I would 
+add that IB has provided evidence that shows that Mr K has experienced this type of 
+liquidation on two occasions in the past when options he bought were nearing expiry. This means that Mr K was aware at the time that IB would take this approach to his trades  
+and so Im not persuaded it would be fair to ask IB to pay him compensation. Ultimately, as 
+Ive said above, IB has some discretion as to how it decided to calculate the margin it 
+required on specific markets or for specific types of trades, subject to the minimum levels 
+specified by the FCA. Mr K needed to satisfy himself that he was aware of what these 
+requirements were before deciding to trade. Im satisfied that he had the necessary 
+information to be able to do this, and was aware from previous experience that IB would 
+adopt this type of worst case scenario when predicting his account exposure on expiry of 
+his puts. 
+For these reasons, whilst I understand why Mr K is unhappy, Im not persuaded IB has done 
+anything wrong. 
+My final decision
+My decision is that I dont uphold this complaint. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr K and Mrs K to 
+accept or reject my decision before 9 April 2023.
+ 
+Alessandro Pulzone
+Ombudsman

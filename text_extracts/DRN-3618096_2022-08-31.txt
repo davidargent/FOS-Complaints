@@ -1,0 +1,122 @@
+DRN-3618096
+The complaint
+Mr O has complained that Monzo Bank Ltd wont refund a transaction he says he didnt 
+make or otherwise authorise.
+What happened
+In February 2022, a £2,000 transfer was made from Mr Os Monzo account to another UK 
+bank account, using Mr Os mobile phone. This reduced Mr Os balance to £7.92, which he 
+then transferred away the following morning. He then continued using his account.
+The following week, Mr O reported the £2,000 transfer as fraudulent. He said he hadnt 
+noticed it earlier either because he thought hed already transferred £2,000 to his other 
+account, or because the transaction didnt show up on his account for a few days. He 
+confirmed all the surrounding account activity was him, but that he didnt recognise this one 
+transfer. He confirmed he still had his phone, no one else had access to it, hed never given 
+his security details to anyone or let anyone access his account, he may have written down 
+his security details but he never shared this with anyone, and he didnt think anyone he knew 
+would have done this.
+Monzo held Mr O liable for the payment in dispute. They explained it had been made from 
+his mobile phone app, using his security details. They confirmed it showed up instantly on 
+his account, and they noted Mr O would have seen it when he transferred the exact 
+remaining balance away the following day  but he waited a week to report it. They gave 
+Mr O notice they were closing his account.
+Our investigator looked into things independently and didnt uphold the complaint. Mr O 
+didnt agree. He felt that Monzo had treated him poorly, that his mental health hadnt been 
+taken into account, and that the payment might have been made by a Monzo staff member. 
+He asked for his case to be reviewed afresh, so its been passed to me to decide.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+In doing so, I have also considered everything Mr Os told us about his wider circumstances, 
+including the tough time that I understand hes been going through.
+Broadly speaking, the key question here is whether this payment was authorised or not. 
+Monzo can hold Mr O liable for the transaction in dispute if he authorised it.
+Im satisfied from Monzos technical evidence that the payment in dispute was properly 
+authenticated using Mr Os genuine mobile phone app. I also need to think about whether 
+the evidence suggests that its most likely Mr O consented to the transaction, or not.
+First, Ive considered the possibility that the payment was made by someone who Mr O did 
+not know.
+The payment was made using Mr Os mobile app, on the only device that was actively 
+registered to the account at the time. This was the same device Mr O had been using for his 
+online banking since 2020. Further, the payment was made from the same IP address that 
+Mr O used for his genuine activity both before and after the disputed payment. Im satisfied 
+that this was Mr Os genuine mobile phone. 
+Mr O didnt lose his mobile phone, no one else had access to it, and it was still in Mr Os 
+possession after the disputed payment. Indeed, he used it to make genuine payments the 
+very next day  again, from the same IP address used for the disputed payment. Mr O did 
+not appear to have downloaded any suspicious software, and the only suspicious links he 
+could provide was ostensibly a petition about knife crime, or which alternatively led to an 
+investment scheme where Mr O would need to have willingly sent money himself if he 
+wanted to take part.
+Further, the payment needed either Mr Os biometric fingerprint or his accounts PIN. It 
+would not have been possible for anyone else to use Mr Os own fingers to access his 
+account without him noticing. And I cant see a likely way that an unknown party would have 
+learned his PIN.
+So theres not a likely or plausible way that an unknown party could have made this payment 
+without Mr Os permission. Mr O suggested that a Monzo staff member could have done 
+this, but it was not possible for Monzos staff members to have remotely used Mr Os mobile 
+phone and app at his exact IP address. And having investigated this matter, I have not found 
+any evidence which otherwise implicates any Monzo staff members in any way.
+It is possible that someone known to Mr O may have made the transactions without his 
+permission, such as a friend or family member. For example, they might have found the 
+written record of his security details. But I dont think this is likely, either. Its still not clear 
+how they then would have accessed Mr Os phone without him noticing. And importantly, 
+Mr O said there wasnt anyone he knew who would have done this, so it seems he has 
+effectively ruled out this possibility himself. 
+The last possibility is that Mr O authorised the payment, either by making it himself or by 
+giving someone else permission to make it.
+This possibility fits well with the fact that the payment was made from Mr Os normal IP 
+address, on his genuine app, using his registered mobile phone, which did not go missing 
+and which he still had afterwards and which no one else had access to, using his correct 
+security details on the first try, which hed also not given to anyone else.
+Further, the disputed transfer brought Mr Os account balance from over £2,000 to just 
+£7.92. And the following morning, Mr O transferred the remaining £7.92 away, which he 
+confirmed was him. So it looks like he was aware that almost all of his balance had gone, 
+and exactly how much was remaining. Mr O then continued to use his account regularly, and 
+had to wait for further money to be transferred in to make up for the £2,000 that was lost  
+so again, he wouldve clearly been aware that his balance had gone. But he didnt tell Monzo 
+anything was wrong until a full week later. It is not plausible that Mr O would wait so long to 
+report this £2,000 transfer if it was made without his consent.Mr O has said alternately that the £2,000 payment didnt show up or change his balance at 
+first so he didnt see it, or that he did see it but thought it was his own transfer to his other 
+account. I need to note that this testimony is contradictory, which makes it difficult for me to 
+support either version of events. Further, the £2,000 payment would have shown up straight 
+away and Mr Os balance was updated live, so Mr O would have seen this as soon as he 
+used his account the next morning. It was also clearly displayed where the payment went, so 
+he would have seen it hadnt gone to his other account. And Mr O didnt attempt any large 
+payments to his other account around that time, so he wouldve known he didnt make any. 
+Lastly, Ive not seen any evidence that makes it seem implausible or unlikely that Mr O 
+couldve authorised this payment or given someone else permission to make it.
+In summary, Im satisfied that Mr Os genuine mobile phone app was used, from his IP 
+address, using his correct security details on the first try. Based on the evidence, there isnt 
+a likely way an unknown person did this, or that someone known to Mr O did this without his 
+permission. That leaves only one likely possibility  that Mr O made the transaction or gave 
+someone else permission to make it. And this possibility is supported by the evidence at 
+hand. This is a difficult message for me to give, and I know its a difficult message for Mr O 
+to receive. But given the evidence I have, and the balance of probabilities, Im unable to 
+reasonably reach any other conclusion.
+I do appreciate that Mr O has been going through a tough time in general. And I appreciate 
+that hes been candid with us about his mental health. Ive taken on board everything hes 
+said. However, while I have taken into account what Mr Os told us, Im afraid this doesnt 
+change the fact that the evidence here is clear, in that there is no likely or plausible way that 
+this payment was unauthorised, but that it is both likely and plausible that it was made with 
+Mr Os authority. So based on everything Ive seen, I think its fair for Monzo to decline a 
+refund in this case. 
+I understand that Mr O is also unhappy with Monzos customer service. He feels they took 
+too long to investigate and that they were making fun of him. Ive gone through Mr Os 
+contact with Monzo, and I can see they investigated things, dealt with his dispute, and 
+responded to his complaint within a few days, which is very quick relative to the normal 
+timescales. For example, banks normally have up to 8 weeks to deal with complaints. I cant 
+see anywhere where they made fun of him or otherwise acted inappropriately  as far as 
+I can see, Monzos staff kept things polite and appropriate, and they dealt with the matter 
+well. They took Mr Os situation seriously and referred him to suitable organisations in case 
+he needed further help. I dont think Monzo got anything wrong there.
+I also understand it was frustrating for Mr O to have his account get closed. But in much the 
+same way that Mr O can choose who he banks with, Monzo can also choose who banks with 
+them. So Monzo can close a customers account, so long as they give them enough notice. 
+And I can see that Monzo gave Mr O the right amount of notice here.
+My final decision
+For the reasons Ive explained, I dont uphold Mr Os complaint in this particular case.
+This final decision marks the end of our services involvement in the complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr O to accept or reject my decision before 28 September 2022.
+ 
+Adam Charles
+Ombudsman

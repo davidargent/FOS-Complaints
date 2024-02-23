@@ -1,0 +1,138 @@
+DRN-2784152
+The complaint
+Mr K is the director of a limited company (Y), who complains that National Westminster 
+Bank Plc (NatWest) processed a transaction from his business account without 
+authorisation.
+What happened
+Y is a merchant that holds a business account with NatWest. It had a direct debit 
+arrangement set up with Worldpay UK Limited, who were Ys merchant acquirer for its card 
+payments. Y cancelled its direct debit with Worldpay on 4 June 2019.
+Y is unhappy because NatWest allowed a payment of £14,778 to be debited from its account 
+by Worldpay on 11 June 2019, despite having cancelled its direct debit arrangement a week 
+earlier. It says that NatWest had no authority or legal basis to allow the payment to be 
+debited. 
+The money has since been reimbursed by Worldpay, but Y submits that NatWest should 
+apologise and cover its legal costs as well as paying compensation. It also wants NatWest to 
+disclose any documentation or agreement it had with Worldpay that allows the merchant 
+acquirer to debit payments in these circumstances. 
+NatWest explained that Worldpay has a relationship with all banks under which it allowed the 
+amount to be debited and said that any dispute about this would have to be taken up with 
+Worldpay directly. Y disagreed and said the money had been taken fraudulently from its 
+account. It said its dispute was with NatWest for allowing the funds to be paid with no 
+authority.
+During the course of our investigation, it came to light that the £14,778 was debited by 
+Worldpay in order to cover its potential liability for several chargeback claims made against 
+Y by its customers, seemingly due to alleged fraudulent activity where payments were taken 
+without the customer being present; and the goods paid for had been sent to an address not 
+linked to the customers payment card.
+Our investigator didnt uphold the complaint. She didnt think NatWest had acted 
+unreasonably or unlawfully by allowing Worldpay to debit the amount, as Y had a separate 
+agreement with Worldpay that allowed it to debit funds from its business account to cover 
+any chargeback liability. Y disagreed, so the matter has been escalated to me to determine. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, Ive decided not to uphold it. 
+Y submits that NatWest has acted unreasonably by allowing Worldpay to debit the payment 
+from its account. It submits that the only way in which a payment could be made to Worldpay 
+without its direct authorisation is via a direct debit arrangement, which it had already 
+cancelled with NatWest by the time the payment was taken. 
+Direct debits can be identified on Ys statements by the code D/D. However, the payment 
+of £14,778 made on 11 June 2019 was not taken under a direct debit mandate as can be 
+seen from the statements; it was an international transfer coded ITL. So, Y cancelling its 
+direct debit arrangement with NatWest would not have prevented this payment from being 
+collected, as it was instead taken in line with the contract Y still had in place with Worldpay 
+at that time.
+I appreciate that Ys complaint concerns the actions of NatWest and the legitimacy of it 
+allowing the amount to be debited. But as part of these considerations, its also necessary to 
+consider Ys relationship with Worldpay as its merchant acquirer and the contractual terms 
+and conditions that govern that relationship. 
+Worldpay has sent us a copy of its merchant services agreement, that it says Y was still a 
+party to at the time the payment was debited. It has explained that Ys merchant account 
+was set up in March 2018 and has evidenced that it was closed on 2 August 2019 following 
+a 30-day notice period (with Y giving notice on 3 July 2019). So when the chargeback 
+payment was debited on 11 June 2019, the agreement was still in force, and Ive seen 
+nothing that would suggest the cancelling of a direct debit would immediately terminate this 
+agreement or Ys potential chargeback liability to Worldpay either. Indeed, it would 
+undermine the integrity of the entire card payment services scheme if merchants could 
+escape potential chargeback claims brought on behalf of their customers simply by 
+cancelling a direct debit through their bank. Merchants benefit from being able to sell goods 
+and services via plastic cards  and ought reasonably to understand from the outset that 
+potential chargebacks are simply a feature of the scheme. 
+Ive considered the merchant services agreement between Worldpay and Y, and its clear 
+that the merchant acquirer had a mandate to collect the payment (whether rightly or wrongly, 
+which isnt the subject of the dispute here). The below clauses (amongst others) entitle 
+Worldpay to recover sums from Y with regards to chargebacks. For example:
+6.1 Each Chargeback and each Assessment represents a debt immediately due and 
+payable by you to us.
+6.2 You acknowledge and agree that you may be required to reimburse us for 
+Chargebacks in circumstances where you have accepted payment in respect of the 
+relevant Transaction, even if you are under no legal liability in respect of the supply of 
+the goods or services concerned.
+
+10.1 You hereby irrevocably authorise each of us and any Other Financial Institution, 
+from time to time without notice and both before and after demand, to set off by 
+whatever means the whole or any part of your liabilities to us or any Other Financial 
+Institutionagainst any Remittance due to you or against any sums (whether or not 
+related to the Transaction that gave rise to the liability) held by us or any Other 
+Financial Institution or owed to you under the Agreement
+Having considered the provisions of this legal agreement, Im satisfied that Worldpay had a 
+mandate to collect the chargeback claim from Y, as it has ultimately consented to the 
+merchant acquirer recovering any sums relating to potential chargeback liability. So, I do not 
+think NatWest has acted unfairly or unreasonably by allowing the amount to be debited from 
+Ys account, as Worldpay clearly had authority to do so by virtue of its merchant services 
+agreement, which was still in force at the time the payment was collected. I understand that Ys primary concern in this complaint is what mandate NatWest had to 
+release the payment. But all major banks have commercial agreements in place with 
+merchant acquirers such as Worldpay to allow for chargebacks to be collected, so as to give 
+business efficacy to the card payment services system. I appreciate that NatWest has not 
+disclosed the particular provisions of the agreement it has in place with Worldpay that allows 
+for chargeback sums to be collected. But I am satisfied that such information is commercially 
+sensitive and, given that Y is not party to that agreement, I do not consider that NatWest has 
+acted unreasonably by failing to disclose it. 
+I believe it is normal, with chargeback claims, for the disputed transactions to be credited 
+back to the customer pending resolution of the claim (which, by way of example and 
+depending on the scheme rules, might involve up to two presentments and, ultimately, 
+independent arbitration by Visa or MasterCard). If the merchant successfully defends the 
+claim(s), the disputed sums are then debited once again from the customers account and 
+credited back into the merchants. 
+I understand that Y doesnt think it had any chargeback liability, or that any funds were due 
+to Worldpay. But this goes to the heart of Ys dispute with Worldpay, i.e. whether it had 
+correctly processed the chargeback requests in the first place. It was not for NatWest as the 
+card issuer to question the validity of the chargeback claim, as it is not the party responsible 
+for this (that being the card scheme operator, such as Visa or MasterCard).
+I also understand that Y disputes the total amount of the chargeback sum, as it doesnt 
+consider the total of £14,778 that was debited by Worldpay to be correct. But again, this 
+concerns the acts and omissions of Worldpay, which is not the subject of this complaint 
+given that it is not the respondent. I can only consider the acts or omissions of NatWest in its 
+capacity of allowing Worldpay to debit the payment. Chargebacks are decided based on the 
+card schemes rules and Im not persuaded that NatWest ought to have second-guessed or 
+obstructed what appeared on the face of things to be a legitimate chargeback request. The 
+proper process for disputing a chargeback of this nature is for the merchant to defend it or 
+proceed to arbitration with the card scheme operator  it cannot expect its bank to defend 
+chargeback requests on its behalf; and neither can it avoid its chargeback liability simply by 
+cancelling the direct debit mandate it gave to the merchant acquirer under that contract. 
+ 
+In summary, the amount of £14,778 was an international payment (not a direct debit) 
+requested by Worldpay, for which it had a mandate to collect as a result of the merchant 
+services agreement with Y to cover its potential chargeback liability. Given that it had such a 
+mandate  and given that NatWest also has its own commercial relationship and agreement 
+with Worldpay to allow chargeback payments to be collected  I do not consider that the 
+bank acted unfairly by allowing the payment to be debited. Indeed, it is fundamental to the 
+efficient operation of the chargeback system (and therefore, the trust that consumers place 
+in making card payments) that their sums can be returned without obstruction on the part of 
+the merchant or its bank  and without the need for legal proceedings  if theyve made a 
+successful claim.
+I understand that Y has since had the full amount reimbursed by Worldpay in any event. But 
+while I appreciate it would have inconvenienced Y to be without this money for a certain 
+period of time, this is not something I consider NatWest can fairly be held liable for. Indeed, 
+such consequential losses strike me as being an inevitable and unavoidable feature of 
+agreeing to participate in such a scheme. Y is a commercial complainant, not a consumer, 
+so can fairly be assumed to have understood the pros and cons of entering into a legally-
+binding contract of this nature. So, I will not be asking NatWest to take any further action in 
+these circumstances.
+My final decisionFor the reasons given above, I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr K  on behalf of 
+Y  to accept or reject my decision before 25 August 2021.
+ 
+Jack Ferris
+Ombudsman

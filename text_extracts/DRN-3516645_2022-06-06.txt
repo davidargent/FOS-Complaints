@@ -1,0 +1,126 @@
+DRN-3516645
+The complaint
+Mr J complains that Marks & Spencer Financial Services Plc (M&S) wont refund the 
+money he lost when he fell victim to a scam.
+What happened
+Mr J was contacted by a company, R, purporting to offer investment services. On
+6 August 2019, Mr J attempted to pay them £250 using his credit card. M&S 
+blocked the payment and asked him to call. He rang and confirmed that he had his 
+card in his possession, and that hed requested the payment. M&S explained it had 
+removed the block but hed need to remake the payment.
+Following this, Mr J proceeded to pay the following from his M&S debit and credit 
+cards. Some of these payments went direct to R. Others went through C first, 
+which appears to have been a legitimate cryptocurrency merchant. Mr J has 
+explained that he was directed by R to set up an account with C, and that these 
+payments then went straight on to R:
+Within a couple of months, Mr J realised it was a scam. He reported this to M&S, 
+but it wouldnt refund him. It said hed authorised the payments and his dispute 
+didnt meet the criteria for a valid claim through either the voluntary chargeback 
+scheme, or Section 75 of the Consumer Credit Act 1974.
+Unhappy with this, Mr J referred the matter to our service and our investigator 
+upheld the complaint. She didnt think M&S had responded appropriately when it 
+flagged the first payment. If it had done so, she thought it would have uncovered 
+and prevented the scam. She therefore thought M&S was liable for his loss.
+M&S disagreed. It said Mr J had authorised the payments, including calling him to 
+confirm he wanted the credit card payment to R to go through. And that he could 
+have done more to protect himself. The matter was escalated to me to determine. I 
+asked M&S for some further information. As it didnt respond by the deadline I set, 
+Im proceeding to consider this complaint.
+Date Merchant Card type Amount
+07/08/2019 R Debit £250
+12/08/2019 C Debit £2,100
+16/08/2019 C Credit £735
+16/08/2019 C Credit £735
+16/08/2019 C Credit -£735
+19/08/2019 R Credit £250
+20/08/2019 R Credit £250
+Total £3,585I issued my provisional decision in May 2022, upholding the complaint but 
+proposing different redress to that recommended by the investigator. I invited both 
+parties to submit any further evidence or comments. Theyve now responded to 
+confirm that they accept my provisional findings. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+As both parties have accepted my provisional findings, and neither has submitted anything 
+new, I see no reason to depart from my provisional decision. For the following reasons, I 
+uphold this complaint: 
+In line with the Payment Service Regulations and general banking terms, M&S is 
+expected to execute authorised payment instructions without undue delay. So the 
+starting position is that Mr J is liable for the payments he made  even though its not 
+disputed that he was scammed and tricked into making these.
+Mr J says he authorised all but the last two payments. I can see that hes been 
+consistent on this point since first submitting his dispute to M&S. Hes also explained 
+that he sent R a picture of the front and back of his card, which he was told he needed 
+to do to verify his identity. That explains how R could have made these payments 
+without his consent. I asked M&S for further information about these payments, such as 
+the security steps followed. It hasnt provided anything. So in the absence of evidence 
+to the contrary (such as that he was sent an OTP code to his phone to authorise the 
+payments), I accept the last two payments were unauthorised.
+As the unauthorised transactions were paid for using credit, Mr J isnt liable for them 
+unless he gave R consent to take possession of the credit token. And he didnt give R 
+consent to use his credit card. He simply thought the picture was part of its security 
+procedure to verify him. So I dont consider it fair to hold Mr J liable for these 
+transactions.
+Even for the authorised payments, there are some situations where we believe that 
+bankstaking into account relevant rules, codes and best practiceought to have 
+identified a fraud risk, so should have looked at the wider circumstances surrounding 
+the transaction before making the payment. If they failed to do so, and that failure led to 
+a fraudulent loss for their consumer, it may be fair to hold the bank liable.
+Here, we know M&S did flag the first attempted scam payment (£250 directly to R) as 
+suspicious. But Im not persuaded it took appropriate action in response to the risk it 
+identified, which it says was because it was experiencing a high rate of fraud with this 
+type of retailer. Despite requiring Mr J to call, all M&S checked was that hed made the 
+transaction. Whereas a key feature of these types of scams is that the consumer is 
+tricked into making the payment, believing the investment to be genuine. So Im not 
+satisfied it was enough to simply check he knew about the payment.If M&S had asked relevant questions of Mr J, I think it likely would have uncovered the 
+scam. Hed been told he could double his money in a short space of time, and was 
+directed to use remote access software to allow R to control his trading account. It also 
+claimed to trade in forex and binary options  but wasnt regulated in the UK, as it was 
+required to be for those activities. M&S ought to have recognised these as common 
+scam indicators and warned Mr J about this. He wasnt an experienced investor and Ive 
+no reason to doubt that he would have heeded a firm warning from his bank about this, 
+speaking from a position of knowledge about scams. So, if M&S had responded 
+appropriately, Im persuaded he wouldnt have re-made this payment  or the other 
+payments that ultimately went to the scammers.
+But for M&Ss failure to respond appropriately, it would have been on actual notice that 
+Mr J was going to suffer financial harm from fraud. The losses ought to have been 
+within the contemplation of, and foreseeable to, M&S. So its fair to hold it liable for this.
+Ive also considered if Mr J was partly to blame. Initially, I dont think he foresaw the risk 
+this was a scam. Rs contact and website made it appear legitimate. But on 
+8 August 2019, his request for a £20 withdrawal was denied. He thinks he was either 
+testing the ground or trying to withdraw the profit he thought hed made  and cant 
+remember why it was declined. I think this ought to have been a warning sign that 
+something might be wrong, yet he continued to trade with R. From that point, I therefore 
+think he ought to bear some responsibility for the payments he went on to authorise, 
+and that his compensation should be reduced accordingly. In the circumstances, I find 
+20% to be a fair reduction.
+I dont need to consider a chargeback or Section 75 claim as Mr J already isnt liable for 
+the unauthorised payments. And but for M&Ss error, he wouldnt have authorised the 
+remaining payments  meaning there would have been no payments to recover.
+Putting things right
+Marks & Spencer Financial Services Plc should refund Mr J the following £3,018, 
+constituting the following:
+Date Merchant Card type Payment Refund Reasoning
+07/08/2019 R Debit £250 £250 No contributory negligence
+12/08/2019 C Debit £2,100 £1,680 20% contributory negligence deduction
+16/08/2019 C Credit £735 £588 20% contributory negligence deduction
+16/08/2019 C Credit £735 - -
+16/08/2019 C Credit -£735 - -
+19/08/2019 R Credit £250 £250 Unauthorised
+20/08/2019 R Credit £250 £250 Unauthorised
+Total £3,585 £3,018
+For the credit card payments, M&S should rework the account so that any interest 
+or charges caused by those payments are refunded. It should also pay 8% simple 
+interest on an any sums repaid towards the credit card balance arising from those 
+payments, from the date they were repaid to the date of settlement (less any tax 
+properly deductible);
+For the debit card payments, it should add 8% simple interest to those amounts 
+from the date of payment to the date of settlement.My final decision
+For the reasons given above, my final decision is that I uphold this complaint and direct 
+Marks & Spencer Financial Services Plc to put things right as set out above.
+ 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr J to accept or 
+reject my decision before 4 July 2022.
+ 
+Rachel Loughlin
+Ombudsman

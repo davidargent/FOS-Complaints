@@ -1,0 +1,86 @@
+DRN-3784674
+The complaint
+U, a limited company complains that Stripe Payments UK Limited misled it into buying a 
+service that wasnt suitable for its needs.
+U wants Stripe to apologise, explain what happened and pay compensation. U is 
+represented in its complaint by Mr M, a director.
+What happened
+In 2021, U decided to move to Stripe from its current merchant service provider that I will 
+refer to as G. Mr M says that U was attracted to Stripe because it thought it offered the 
+same level of customisation as G but at a better rate.
+U opted to pay a monthly fee to Stripe to custom brand statements, payment pages and 
+emails. But once the integration with Stripes API had taken place, S was unhappy to note 
+that its account was displayed as Stripe re U rather than just Us name. U was concerned - 
+due to previous experience - that this might lead to chargebacks from customers and asked 
+Stripe to remove its name.
+Stripe said it couldnt remove its name from the Service User Number (SUN) as the service 
+user had to be identified on the direct debit instruction (DDI). Stripe did approach the bank 
+involved, but the bank said that the SUN must include Stripes name.
+After U complained, Stripe agreed that its documentation could have been clearer and 
+offered to process £25,000 of card payments at no fee to U. Stripe also refunded the £50 
+charge to U.
+U was unhappy with the proposed outcome as it had spent many hours of developer time 
+trying to make the service work for it.
+The investigator didnt recommend that Us complaint be upheld. He didnt think that Stripe 
+had misrepresented its service to U. The investigator thought that Stripes offer of fee-free 
+processing and refund of £50 was a fair way to resolve Us complaint.
+U disagreed with the investigators recommendation. Mr M thought that Stripe did give U a
+false statement of fact. He said Stripes dashboard says that for a monthly fee Your
+business name will be shown on your customers bank statements, Stripe Checkout and
+customer emails for Direct Debits. Mr M said it was possible to remove Stripes name from
+the SUN.
+After considering all the available evidence and arguments, I issued a provisional decision 
+on this complaint to U and Stripe on 3 October 2022. I said:
+I realise that Ive summarised this complaint in less detail than the parties and Ive 
+done so using my own words. Ive concentrated on what I consider to be the key 
+issues. The rules that govern this service allow me to do so. But this doesnt mean 
+that Ive not considered everything that both parties have given to me.
+I think its accepted by Stripe that it couldve been clearer in the way that it presented
+information about the custom branding option. Although I agree with the investigator 
+that Stripe didnt intentionally mislead U, I dont think this automatically prevents me 
+from upholding Us complaint. It does seem likely that, along with the competitive 
+price, the level of customisation seemingly offered by Stripe prompted U to make the 
+switch.
+Although U feared it might happen, I dont have evidence to suggest that U 
+experienced a loss due to customers raising chargebacks because of Stripes name 
+appearing on the DDIs. So, I cant require Stripe to compensate U for this kind of 
+direct loss. I also dont think its fair to make Stripe cover the salary costs of Us 
+developer who was trying to integrate Stripes product with Us systems. This was a 
+liability that U had regardless of which tasks the employee was carrying out.
+I do however consider it reasonable to require Stripe to compensate U for some of 
+the inconvenience it experienced when trying to carry out the integration. As U has 
+said  it had previous experience of customers raising chargebacks because of the 
+way that its name appeared on DDIs. So, having the option to only show Us name, 
+rather than Stripe re U, was very important to it.
+Stripe already offered U fee free processing which I understand was worth about 
+£250. But as U decided not to remain with Stripe after it couldnt deliver the level of 
+customisation it expected, the offer was of no benefit to U.
+U was engaged in attempts to try and get Stripe to deliver the outcome it had 
+expected when it switched from G. My award reflects the impact of several weeks of 
+wasted effort, together with the inconvenience involved when U moved back to G. 
+Taking account of our published guidelines about compensation and applying my 
+own judgment, I consider the appropriate amount is £350.
+This service is dealing with an almost identical complaint about Stripe made by a 
+company related to U. So, my award of compensation takes account of the fact that 
+the inconvenience to U was effectively shared by the other company.
+Further submissions
+U didnt reply to my provisional decision. Stripe accepted my provisional decision but wanted 
+to double check that I meant for it to pay U £350 as well as £350 to the other company 
+related to U. The investigator has confirmed that if U accepts my decision, Stripe should pay 
+U £350. And if the related company accepts my provisional decision in that complaint, Stripe 
+should pay that company £350. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+As Ive not been asked by U to consider any additional evidence or arguments and as Stripe 
+accepted my proposed outcome, I consider it reasonable to make my final decision along the 
+same lines as my provisional decision.
+Putting things right
+Stripe Payments UK Limited should pay U £350 compensation. My final decision
+My final decision is that I uphold this complaint. In full and final settlement, Stripe Payments 
+UK Limited should put things right as outlined above.
+Under the rules of the Financial Ombudsman Service, Im required to ask U to accept or 
+reject my decision before 1 December 2022.
+ 
+Gemma Bowen
+Ombudsman

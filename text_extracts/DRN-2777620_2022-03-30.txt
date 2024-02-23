@@ -1,0 +1,149 @@
+DRN-2777620
+The complaint
+Mr M complains about his Contract for Differences (CFD) trading account with Trading 212 
+UK Limited. He says Trading 212 incorrectly closed two Oil positions he held causing him 
+increased losses, as well as impacting other positions he had open.
+What happened
+Mr M opened two CFD October 2020 WTI Crude Oil positions  900 lots at $35.185 and 210 
+lots at $35.630. Trading 212 closed these positions on 28 May 2020 at $32.183 saying that 
+the stop orders Mr M placed at $33.297 and $33.047 respectively had exercised. The close 
+out led to losses of around £2,800. 
+Trading 212 said that the order type Mr M placed was a stop order which when triggered, 
+placed a trade at the next available market price. Mr M thought his losses were caused by 
+issues with Trading 212s systems  he said the closures caused him loss, left him unable to 
+open other trades and impacted his account by other positions being closed out causing 
+further losses.
+Trading 212 looked into the concerns raised by Mr M  initially it made an offer to recognise 
+the difference in Mr Ms stop and the price he achieved. It then reconsidered its position and 
+made what it called a goodwill offer to refund the c£2,800 hed lost. Mr M didnt accept the 
+offer as he wanted compensation too, so he asked for our help. Trading 212 later withdrew 
+its offer following further investigation. 
+One of our investigators looked into the complaint, but she didnt think Trading 212 had done 
+anything wrong. She explained that the price Trading 212 closed Mr Ms positions at, 
+factoring other aspects such as the spread and slippage in prices, followed the market and 
+so was in line with its terms and conditions.
+Mr M didnt agree, he said the Bloomberg pricing data Trading 212 was relying on was for 
+another product and that there was no evidence that showed the price reached $32.183  
+especially on Trading 212s platform, which was crucial as it was the respondent business 
+here, not Bloomberg  instead the evidence showed the price only reached $32.20. He 
+shared charts which highlighted the price hadnt ever fallen so far. He also disputed the 
+screenshots Trading 212 said he wouldve seen when setting his order instructions. Our 
+investigator thought about what had been said but wasnt persuaded to change her view of 
+the complaint. 
+Mr M still didnt agree so, as an agreement wasnt reached, the matter was passed to me to 
+decide. Mr M sent an email for my consideration and said, in summary:
+I ought to ignore the investigators assessment as despite him pointing out her 
+oversights, she had not shown she was willing to change her position.
+Trading 212s investigation took several weeks  but not once had it been able to 
+show that the price reached $32.183 on the Oil-Oct 20 chart on 28 May 2020 at 
+10:58am GMT. Instead, he had provided us with screenshots showing it didnt reach 
+that level. If Trading 212 could show this, he would concede.
+He wasnt pursuing a case against Bloomberg, so sharing their data was irrelevant  
+even if Trading 212 used Bloomberg at the time, its prices ought to have reflected the 
+same movements.
+The investigator didnt understand that Bloombergs price of $32.20 was still higher 
+than the $32.183 he was closed at  so this proved the low he was closed at wasnt 
+reached. 
+The Bloomberg data was for the November contract, not the October contract  this 
+was wrong as the contracts roll over on the last day of the month, not 11 days prior. 
+With reference to the message our investigator said appeared when putting in a stop 
+order, set a price below the current price that converts your order to a market order 
+he didnt agree this appeared and said it wasnt anything to do with a stop loss  
+instead it was likely to do with placing an order when the market was closed. So this 
+wasnt relevant here.
+He didnt think it was fair that Trading 212 took 10 weeks to investigate and had then 
+withdrawn its offer, yet he had eight weeks to refer the matter to us. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I would like Mr M to know that I appreciate his strength of feeling about his 
+complaint and I assure him that my review is based on what I consider to be fair and 
+reasonable in all the circumstances. However, although I appreciate this will disappoint him, 
+I also dont think Trading 212 has done anything wrong here. Ill explain why. 
+Mr Ms Trading 212 account records show that he entered into the two Oil positions he 
+complains of and that a stop had been set on the trades to sell at levels of $33.297 and 
+$33.047. These levels arent in dispute, but the type and execution of the order is  including 
+the price subsequently used to close the position.
+At 11 in the Customer Agreement, it says:
+11. Making Deals: Types of Orders.
+11.5.2.1 Stop Loss order - it is used to close the open position at a certain 
+loss. The platform may show you the target loss in the currency of your 
+account. This information is indicative and not guaranteed.
+11.5.3.1 Stop/Limit  this is either a Stop order or a Limit order. The 
+trading platform shall automatically set the type of the order according to the 
+current market price and the specified price.
+Looking at the records of the order the type is stop with the price set at $33.297 and 
+$33.047 to trigger the orders  Ive not seen anything to suggest this order was incorrectly 
+recorded by Trading 212 and so on balance, Im satisfied this is the order Mr M entered  
+whether he intended to or not.The terms of the account, order execution policy, as well as the information on Trading 212s 
+website is sufficiently clear in setting out the difference and what happens for each of these 
+order types. The stop order Mr M set on this trade would set a market order for these 
+positions once the price met or fell through the price he set. So, when the market price fell 
+below this level, the order was executed according to the next available market price at the 
+time. And at 6.6 in the Customer Agreement it says:
+6.6. You agree that all pending Orders ('Stop' Orders) placed by you may be 
+executed at a price different from the specified one in the case of sharp fluctuations 
+in the price of the instrument.
+This is further explained within the Order Execution Policy, at 2 Execution Factors it says:
+The Company obtains the price from third-party external reference sources. The 
+Companys prices can be found on the Companys trading platform. The prices are 
+updated as frequently as the limitations of technology and communications links 
+allow but should be considered an indication of the live market price rather than a 
+quotation The Company reviews its third-party external reference sources from day 
+to day to ensure that the data obtained is as timely and accurate as can be. When 
+the price reaches an order set by you, for example: Stop Loss, Take Profit, Trailing 
+Stop, Market Order, Limit Order, these orders are executed immediately. However, 
+under certain trading conditions there is a possibility that these orders (Stop loss, 
+Take Profit, Trailing Stop, Market Order, Limit) cannot be executed at the Client's 
+requested price. When this happens, the Company has the right to execute the order 
+at the first available price. This may occur, for example, at times of rapid price 
+fluctuations if the price rises or falls in one trading session to such an extent that, 
+under the rules of the relevant exchange, trading is suspended or restricted. Such 
+fluctuation can result in a better or worse price being received. (my emphasis)
+Trading 212 says the next available price was $32.183, which Mr M disputes as being a fair 
+price. When thinking about this, I think its important to note that the key point here is that 
+Mr Ms position was a CFD with Trading 212. Broadly speaking, Trading 212 can set its 
+prices for its CFDs as it has commercial discretion to do so, we would just expect the prices 
+it quotes to broadly reflect the underlying market  here the October 2020 Crude Oil futures 
+contracts  and this is in line with its terms. 
+At 17 in the Customer Agreement, it says:
+17. Trading with CFDs on Futures.
+17.1. Clauses 16.2 to 16.3.5 shall apply to trading with CFDs on Futures.
+Which includes:
+16.3. Prices, interests and commissions
+16.3.1. The price of the CFD changes on an intra-day basis and is close or 
+equal to the exchange price of the respective base instrument (being a Stock, 
+Index or Futures).
+Trading 212 provided market data from Bloomberg to show how the market was trading at 
+the time. While I understand Mr Ms concerns around this pricing information, Bloomberg is 
+widely regarded as an independent and reliable source for pricing in financial markets. 
+Though based on the November contract given availability of data when the complaint was 
+made, I consider it a fair representation of the market trading of his Oil futures position at the 
+time the stop order was triggered. Our consideration of the Bloomberg data doesnt mean 
+were considering this complaint about them rather than about Trading 212 as Mr M implies 
+ instead, were considering the data as its from a third-party external reference source 
+which is what Trading 212 said it would rely on and base its prices on. The information from Bloomberg does show immediately before Mr Ms positions were 
+closed that the market was trading around $33.93 and $33.94  above the stop price set. It 
+then for a moment fell to $32.20  as this was below Mr Ms stop price, the order went to 
+market and when taking into account Trading 212s spread, was filled at $32.183. As I 
+highlighted above, the Order Execution Policy accounts for when orders are not filled at set 
+levels and gives Trading 212 the right to execute at the next available price. Mr M wouldve 
+agreed to these terms  as well as the other relevant policies  when opening the account, 
+and Ive not seen that Trading 212 has unfairly applied them here as the order was executed 
+as Mr M set it.
+I appreciate Mr M has shared charts with us which dont show the price having gone quite so 
+low, but I am mindful that the trade was based on CFDs, which are derivatives and are not 
+expected to bear identical prices to the underlying. Trading 212 is entitled to rely on its third-
+party provider and its price was within reasonable proximity of the underlying market. So 
+although I acknowledge Mr Ms strength of feeling on this issue, I havent seen any evidence 
+that Trading 212 has done anything wrong here.
+Though Im sorry to see Mr M lost money on these trades, I dont think Trading 212 is 
+responsible for the losses given the order was executed as it shouldve been and wasnt 
+caused by any technical issues.
+My final decision
+For the reasons given above, I dont uphold Mr Ms complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr M to accept or 
+reject my decision before 27 April 2022.
+ 
+Aimee Stanton
+Ombudsman

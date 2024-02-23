@@ -1,0 +1,140 @@
+DRN-4190353
+The complaint
+A partnership, which Ill refer to as C, complains that Lloyds Bank PLC shouldnt have paid 
+one of its cheques. The partners say the cheque in question had been fraudulently 
+amended, so the funds werent paid to the correct payee.  
+C is represented by an employee in bringing this complaint, although some submissions 
+have also been made by the partners. For ease of reading, Ill refer to all submissions as 
+being from the partners or simply from C. 
+What happened
+Cs partners told us:
+On 9 September 2021, C issued a cheque for £29,142 to its rental company and 
+posted it recorded delivery. 
+The cheque was intercepted and C/O and a name added to the end of the payees 
+name. The cheque was then paid into a bank account, which was not that of the 
+rental company, at a different bank (the receiving bank). 
+The cheque was debited from Cs Lloyds bank account on 10 September 2021. 
+On 8 October 2021, C phoned up Lloyds and asked to stop the cheque. Lloyds said 
+that they would do so. 
+C then sent a second cheque to its rental company, which was received and paid in 
+without issue. 
+Lloyds said:
+They were unable to stop the cheque as it had already been paid. They are sorry 
+they gave the incorrect information about stopping it and have paid C £200 in 
+compensation for this error. 
+They didnt think they had done anything wrong in paying the cheque. 
+They had referred the matter to the receiving banks fraud department, as they 
+considered this to be a case of cheque conversion, that is, where the cheque has 
+been paid into an account not in the payees name.  
+They passed on the comments of the receiving bank, which also considered it hadnt 
+done anything wrong. The receiving bank said the cheque had been paid into an 
+account in the same name as the cheque and the correct procedures for opening an 
+account had been followed. 
+I issued a provisional decision on 6 June 2023. I provisionally upheld the complaint and said:
+My provisional conclusion is that there are legal grounds for concluding that the 
+cheque in question was not a valid payment instruction at the point when it was 
+presented to Lloyds for payment. Ill explain why below and Ill give both sides a 
+chance to consider my provisional findings and provide further evidence.
+A cheque is a written order from a customer (the drawer), instructing their bank to 
+pay a specified sum of money to a named beneficiary (the payee). Cheques are legal 
+documents and their use is governed by the Bills of Exchange Act 1882 (BOE), as 
+well as some later Cheques Acts. I dont think the latter Acts are relevant here, but I 
+do think the BOE is relevant. 
+Section 64 of the BOE covers alteration of bills and says:
+(1) Where a bill or acceptance is materially altered without the assent of 
+all parties liable on the bill, the bill is avoided except as against a party who 
+has himself made, authorised, or assented to the alteration, and 
+subsequent indorsers.
+Provided that, where a bill has been materially altered, but the alteration is 
+not apparent, and the bill is in the hands of a holder in due course, such 
+holder may avail himself of the bill as if it had not been altered, and may 
+enforce payment of it according to its original tenor.
+This section of the Act says that, if a cheque has been materially altered, it is 
+avoided. Case law confirms that avoided in this context means that it becomes a 
+worthless piece of paper. A bank would therefore have no right to debit their 
+customers account for the value of the cheque if it was presented for payment after 
+material alteration. 
+No copy exists of the cheque as originally written in this case, but I think theres little 
+doubt about Cs version of events. This was a regular payment to a payee and a 
+replacement cheque was issued to that regular payee when the cheque in question 
+wasnt received by them. Given the knowledge of who the regular payee was, I think 
+its more likely than not that the payee name was altered by adding additional 
+wording to it. 
+Im therefore currently persuaded that this cheque was originally made out to the 
+regular payee. It follows that Im provisionally satisfied that it was intercepted and 
+amended by a third party, who added some wording to the payee line, without the 
+knowledge or authorisation of C. It was then paid in to an account, which was not the 
+recipient intended by C. I dont think Lloyds disputes this version of events, as their 
+argument that the cheque was converted is predicated on it. 
+Section 64 of the BOE gives an exception where the drawer of the cheque has 
+authorised or assented to the alteration. But this doesnt apply in this case. There is 
+also a further exception where the alteration isnt apparent and the bill is in the hands 
+of a holder in due course. A holder in due course is defined in section 29 of the 
+Act as someone who took the bill in good faith and for value, and that at the time the 
+bill was negotiated to him he had no notice of any defect in the title of the person who 
+negotiated it. That again does not apply here, as the person who altered and paid in 
+the cheque was not acting in good faith or for value. 
+The BOE doesnt define material alteration, but I see no reason to conclude that the 
+amendment to the payee name, which has occurred here, would not constitute a 
+material alteration. In reaching my decision, I need to take into account any relevant case law and there 
+are several legal cases, which I consider relevant here. In Slingsby v District Bank 
+Ltd, a cheque had been amended in a similar way to Cs cheque, that is, by the 
+addition of extra words after the payee name. The Judge found that the amendment 
+to the payee was a material alteration and therefore the bank in that case had no 
+right to debit the cheque from the drawers bank account. 
+Similar conclusions were reached in the Court of Appeals consideration of appeals in 
+the case of Smith v Lloyds TSB Group plc [2001] and Harvey Jones Ltd 
+v Woolwich plc, which also deal with the question of the tort of conversion in such 
+cases (which has been argued by Lloyds here). In both cases, which were 
+considered jointly, the Judge found that the claimants couldnt sue for damages in 
+conversion for the face value of the cheque, because the alteration had rendered the 
+cheques in question worthless. 
+I note that in these cases, the question of whether the alteration was apparent and 
+hence whether the paying bank had been negligent was not considered to be a 
+relevant consideration. The cheques were avoided before they reached the paying 
+bank, so the bank had no contractual basis for paying them. 
+I therefore provisionally conclude that the cheque is avoided and Lloyds should 
+therefore not have deducted that amount from Cs bank account. 
+By way of completeness, on the side issue of whether the bank made an error in 
+telling C that they could stop the cheque in question, I agree that Lloyds made a 
+mistake. Lloyds has already acknowledged this and I think the compensation already 
+paid of £200 in total is fair to compensate for the inconvenience caused by this error. 
+My provisional intention is therefore not to award any more for this aspect of the 
+complaint. 
+Finally, my provisional findings above may allay some of Cs other arguments and 
+concerns. In general, it isnt within my power to demand investigations be carried out 
+or change banks procedures, but rather to decide whats fair and reasonable in the 
+specific circumstances of the case, after taking into account relevant law and 
+regulations. I havent addressed Cs specific arguments here, because I consider this 
+case turns on a legal consideration, not on questions of negligence or otherwise by 
+any party. 
+Both C and Lloyds have made comments about the actions of the receiving bank, 
+which I have read. But, as our investigator explained, the Financial Ombudsman 
+doesnt have the power to look into a complaint from C about the receiving bank, 
+because C is not their customer. So it would be wrong for me to comment about the 
+receiving banks actions. And any findings I did make wouldnt be enforceable. 
+I provisionally concluded that the bank should refund to C the value of the cheque, together 
+with interest at 8% simple per year, by way of compensation for being deprived of this 
+amount. 
+Both parties responded accepting my provisional findings. This decision therefore confirms 
+that outcome. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and reasonable in the circumstances of this complaint.
+As both sides accepted my provisional decision, there is no need for me to repeat the above 
+or go into any further detail. For the reasons explained above, my conclusion remains that 
+the cheque is avoided and Lloyds should therefore not have deducted that amount from Cs 
+bank account. 
+Putting things right
+I consider fair compensation would be to put the partnership back in the position it would 
+have been in without the banks error.
+The bank should therefore refund the sum of £29,142 to C. It should also compensate C for 
+being deprived of this amount by adding interest to it at 8% simple per year, calculated from 
+the date the second cheque was paid until the date of settlement.
+My final decision
+For the reasons explained, I uphold this complaint and direct Lloyds Bank PLC to pay 
+compensation as set out above.
+Under the rules of the Financial Ombudsman Service, Im required to ask the partners of C 
+to accept or reject my decision before 13 July 2023.
+ 
+Louise Bardell
+Ombudsman

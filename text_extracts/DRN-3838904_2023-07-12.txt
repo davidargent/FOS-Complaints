@@ -1,0 +1,220 @@
+DRN-3838904
+The complaint
+Mr P complains that American Express Services Europe Limited declined his claim for a 
+refund under section 75 of the Consumer Credit Act 1974 in relation to his purchase of some 
+graphics cards.
+What happened
+In September 2017 Mr P bought some graphics cards from a third party which I will call C. 
+He wanted to use them for cryptocurrency mining. He paid €766.90 for them with his 
+American Express credit card (which in sterling came to £701.28). One month later, C 
+refunded him €548:30, or about 71% of what he had paid. Mr P says this refund includes 
+£30 of shipping costs; if these are deducted then the refund comes to about 67%.
+In October 2020 Mr P contacted American Express to ask for a full refund of his purchase 
+under section 75, a law which (where it applies) makes the provider of credit liable for certain 
+problems involving goods bought on credit. Mr P said the graphics cards hash rate 
+(performance) had been declining, and that they were not fit for the purpose he had bought 
+them for. However, American Express told him that section 75 did not apply to his purchase, 
+because his credit card payment had not been made directly to C; it had been made to his 
+PayPal account, and then from there to C.
+Being dissatisfied with that answer, Mr P brought this complaint to our service. Our 
+investigator disagreed with American Express on the subject of whether section 75 applied: 
+he said that the involvement of PayPal did not make a difference. But he still did not uphold 
+this complaint, because he did not think that there was anything wrong with the graphics 
+cards, or that C had misrepresented them. Mr P did not accept that opinion, and made 
+detailed representations about why. He asked for an ombudsmans decision.
+I wrote a provisional decision which read as follows.
+What Ive provisionally decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+In this case, I dont think it is actually necessary for me to decide whether section 75 applies, 
+whether the graphics cards were defective, or whether C misrepresented them to Mr P. That 
+is because even if I were to decide these points in Mr Ps favour, I would not require 
+American Express to refund him more than it already has.
+As Ive said, the refund was made only one month after the purchase, so it was not paid for 
+the same reason that Mr P is asking for a refund now. Nevertheless, if I upheld this 
+complaint I would not require American Express to refund the entire purchase price. That is 
+because although he is disappointed with the performance of the product, he nevertheless 
+used it successfully for over three years before raising a complaint. Section 24(8) of the 
+Consumer Credit Act 2015 says that any refund to a consumer may be reduced by an 
+amount to take into account the use the consumer has had of the goods since they were 
+delivered. I think it is fair to apply that rule here, and to say that a reduction of one third of 
+the original price would have been a fair reduction for use.
+I have considered whether I should apply that rule to the net price Mr P had effectively paid 
+after deducting the refund, and then to ignore the original price. If the refund had been 
+smaller, then I might have done that. But as Mr P has bought these goods for about one third 
+of their original price, and they had lasted for longer than the warranty period before he 
+reported that he was dissatisfied with them, I think it is reasonable for me to say that he has 
+not paid too much for the use he has had of them. For that reason, I would not have required 
+American Express to do anything.
+I am currently not minded to uphold this complaint.
+Responses to my provisional decision
+Mr P did not accept my provisional decision. He made the following points:
+The partial refund already received had been for another issue, and not related to 
+durability.
+He had bought six graphics cards, and had been refunded for two of them, which he 
+had returned. He had paid for them with two credit cards, but the refund had been 
+made to one of them, the American Express account. This complaint is about the four 
+other cards.
+He had not used the cards for three years as I had stated, but for a bit less than two 
+and a half years, as he had packed them away in preparation for moving house, and 
+then the move had been delayed.
+That was not a reasonable length of time for the cards to last. He had expected the 
+cards to last for five to six years. The cards had not been durable, and this had been 
+a defect at the point of sale. He would not have bought them if he had known about 
+this.
+American Express did not reply.
+My findings
+Since the refund in 2017 did not relate to the graphics cards Mr P is complaining about now, 
+but to cards he no longer has, I agree that it should not affect the outcome of this complaint.
+However, I am not persuaded that the graphics cards were defective at the point of sale, or 
+that they were misrepresented. I will explain why.
+The graphics cards were Nvidia GeForce GTX 1060 6Gb cards. These were launched in 
+2016 and, as Ive said, purchased by Mr P in 2017. He says (and I accept) that when he 
+began using them, their performance or hash rate was around 24 or 25 MH/s (megahashes 
+per second), but that by 2020 this had declined to 22 MH/s, a rate which he described as 
+unacceptable.
+The reason for this, putting it as simply as I can, is that over time, the DAG file (software 
+which is indispensable for mining cryptocurrency) incrementally increased in size until it 
+eventually became too large for the TLB (hardware pertaining to each graphics cards 
+memory) to cope with. This resulted in a significant decline in the speed at which the cards 
+could operate, as measured by the hash rate. There is nothing the purchaser can do about 
+this. As this was inevitably going to happen at some point, Mr P says that the cards were not 
+designed to be durable (particularly since it took less than two and a half years).
+Mr P also says that a similar problem developed with another kind of graphics card made by a different manufacturer. That other manufacturer developed a fix for that issue, but Nvidia 
+didnt. He argues that Nvidia ought to have foreseen that this problem would occur sooner or 
+later, and so should either have taken steps to pre-empt it or should never have marketed it 
+as suitable for crypto mining. (When he raised that matter with Nvidia in 2020, it told him that 
+it could not assist him, and referred him to a forum for developers who were discussing the 
+issue. I have looked at that forum and have seen a message from Nvidia saying that they do 
+not plan on doing anything about it.)
+My opinion about all of this is as follows.
+Firstly, I have seen a number of websites1 which say that the standard hash rate of these 
+cards at the point of sale is actually around 18 or 19 MH/s. This rate can be increased to 22 
+MH/s or higher by overclocking  that is, improving their performance by increasing their 
+clock rate to a higher rate than the manufacturers design. So Mr P must have achieved his 
+much higher hash rate by overclocking the cards.
+There is nothing necessarily wrong with overclocking, and many websites recommend it for 
+a variety of reasons. However, the reduction of Mr Ps hash rate from 24 or 25 MH/s to 22 
+MH/s, viewed against a standard (not overclocked) hash rate of around 18 MH/s, does not 
+amount to a defect in and of itself. The cards are still performing much better than the 
+manufacturer designed them to.
+Nevertheless, that point alone is not fatal to Mr Ps complaint. The decline of the hash rate 
+over time is still probative evidence of the alleged defect, as it could indicate that the hash 
+rate would still have declined whether they were overclocked or not. That is, without 
+overclocking, the hash rate might have declined from 18 or 19 MH/s in 2017 to around 16 
+MH/s in 2020. So this point is not necessarily determinative of Mr Ps case.
+However, I am not persuaded that a decrease of two or three MH/s is as disastrous as Mr P 
+suggests it is. It is a decline in performance by, at most, 12% after over two years of 
+continuous use. That is not insignificant, but I still think it is relatively minor. And the 
+detrimental effect is entirely off-set by the overclocking, since the current overclocked hash 
+rate is still better than it would have been without overclocking.
+That links to my second topic. It is not possible to know very far in advance of time how 
+much computing power will be needed for crypto mining to be profitable, as that will change 
+from time to time. Just because it ceases to be profitable one day does not necessarily mean 
+that the hardware was unfit for purpose all along. It is still mining. It may not be mining 
+profitably, but that does not mean the graphics cards were defective at the point of sale.
+Thirdly, the decline in the hash rate is not solely because of something internal to the 
+graphics cards. There is an external influence. As Ive said already, the issue is that the size 
+of the DAG file has gradually increased over time, until it became too big for the cards to 
+handle efficiently. But the size of the DAG file necessarily and unavoidably increases as a 
+function of the process of crypto mining becoming more complicated over time. So this 
+increasing complexity adversely affects the hash rate. This makes it difficult to infer that the 
+declining hash rate means there is a defect in the graphics card. It is happening because 
+each graphics card is having to do more than it had to at the outset.
+This was always going to result in the DAG file becoming too big eventually. I agree that this 
+1 For example https://wccftech.com/nvidia-geforce-gtx-1060-cryptocurrency-mining-65w-detailed/ 
+https://www.legitreviews.com/silent-ethereum-mining-evga-geforce-gtx-1060-22-mhs_195529 
+https://www.pyramidreviews.com/bitcoin-mining/gtx-1060-mining-speed-hash-rate-tweaks-and-
+adjustments/ was foreseeable by the manufacturer. But it was also foreseeable by anyone who bought it. 
+It was necessary for consumers to buy a product which had not only the capacity to mine 
+cryptocurrency at the time of purchase, but also with the additional capacity to continue 
+doing so in the years to come. Every graphics card, not just Nvidias, will become obsolete at 
+some point (whether it is used for mining or just for gaming). So what was suitable for a 
+given purpose in 2017 will not always continue to be suitable. I accept that Mr P believed 
+that the cards would last him for five or six years. But just because he turned out to be wrong 
+about that does not necessarily mean that they were defective. On the balance of 
+probabilities, I am not persuaded that they were.
+I shared a draft of the above findings with Mr P. He did not accept them. He made the 
+following submissions in response:
+I had raised new points which had not been argued by the bank;
+I had confused DAG file size with the memory limitations of the cards themselves and 
+an (alleged) defect in the TLB size;
+The real problem is an inherent flaw in the design of the cards, which took two years 
+to manifest and was triggered by the increase in the size of the DAG file;
+That design flaw is the limited size of the TLB buffer, according to an online article2;
+This defect would still have affected the cards even if he had only used them for 
+gaming, and not for mining;
+Nvidia has acknowledged that there is a problem;
+It is legitimate to compare Nvidias cards with cards made by another manufacturer 
+which dont have this issue;
+Without this defect  which was of course present at the point of sale  if the cards 
+had operated at normal hash rates then he could have continued mining for about six 
+years;
+A 12% drop in performance is not acceptable, and performance would have dropped 
+by 20% by 2022;
+He had expected to get at least six years of use out of the cards, instead of two, and 
+therefore he should get a refund of 67% of what he had paid for them.
+I realise that Nvidia has acknowledged that the problem exists, but it has not gone so far as 
+to concede that it is a fault. So I have still had to consider the evidence and decide for myself 
+whether the cards were faulty at the point of sale.
+Proceedings before the Financial Ombudsman Service are not adversarial, as in a court, 
+where each party pleads its case and presents its evidence, and then the court reaches a 
+verdict based only on what has been pleaded and led in evidence. Rather, our proceedings 
+are inquisitorial, which means that I can consider evidence and arguments which have not 
+been advanced by the parties. So I can consider points which have not been raised by 
+American Express  although everything that I said in my provisional decision was still 
+related to the banks defence that the cards were not defective.
+I accept that if the limited size of the TLB buffer amounts to a defect, as alleged, then the 
+cards would have been defective at the point of sale, notwithstanding that the problem did 
+not become apparent until a couple of years later.
+The message Nvidia left on the developers forum reads as follows:
+Weve confirmed that the performance drop is due to the size of the DAG 
+exceeding the total on-chip TLB capacity  As a result, there is an 
+2 https://cryptoage.com/en/2824-the-reason-for-the-hashrate-drop-in-mining-on-nvidia-pascal-video-
+cards-gtx-1070,-gtx-1080,-gtx-1080-ti.html (June 2022)increased number of TLB misses, which affects performance. Because the 
+TLB is a fixed capacity hardware resource  we dont believe there are any 
+software optimizations that could reduce the TLB miss rate.3
+So although the issue described here concerns the TLB capacity, the problem is still 
+triggered by the DAG file reaching a certain size.
+As I explained in the fourth topic set out in my provisional decision, the DAG file was always 
+going to reach a size at which the cards would cease to function properly one day. But 
+Mr Ps point is that this was not supposed to happen because of anything to do with the TLB, 
+but rather because of another limiting factor  the 6Gb of memory on each card. Once the 
+DAG file size reached 6Gb  the cards maximum capacity  then it could not get any larger. 
+Mr P estimated that this would happen after about six years, and he has no problem with 
+that. But instead, the TLB acted as another limiting factor which made its effect felt much 
+earlier, and before the DAG file could reach the size the cards had been built to 
+accommodate. And that would clearly be a fault, because it would mean that the cards would 
+never reach their intended potential of 6Gb, due to a stricter limiting factor intervening.
+As I have said, Mr P provided a link to an online article on the subject, which I have read. It 
+is titled The reason for the hashrate drop in mining on Nvidia Pascal video cards (GTX 
+1070, GTX 1080, GTX 1080 Ti). However, the second paragraph says:
+It is worth noting that the hashrate decreases not only for the GTX 1070 
+video card, but also for the GTX 1080 and GTX 1080 Ti, although not so 
+catastrophically. More interestingly, no such problems were seen with the 
+GTX 1060 and GTX 1070 Ti from the same 1000 series. (Emphasis added.)
+Since Mr Ps cards were GTX 1060 cards, this article does not prove that his cards were 
+affected by this problem. Neither does the Nvidia message I have quoted above, which was 
+a response to a question posed specifically about GTX 1070 and 1080 cards.
+That is not to say that Mr P has not been experiencing a decline in the hash rate of his GTX 
+1060 cards (and I accept that he has), only that the TLB is not necessarily the cause.
+Another article4 explains that a decline in the hash rate is to be expected when crypto mining 
+with a GTX 1060 card, due to a different reason: insufficient VRAM memory in the cards 
+GPU, which is the problem I described in my provisional decision. (That article then goes on 
+to discuss TLB problems, but separately.) 
+So on the balance of probabilities, I am not persuaded that the issue is that the TLB was 
+defective, but rather that the DAG file increased in size faster than Mr P had expected, which 
+affected performance. And I am not persuaded that that is a fault which was present at the 
+point of sale.
+I am therefore unable to say that American Express erred in its response to Mr Ps section 
+75 claim.
+My final decision
+My decision is that I do not uphold this complaint.
+3 https://forums.developer.nvidia.com/t/blockchain-drivers/110847/14 
+4 https://www.techpowerup.com/234482/eth-mining-lower-vram-gpus-to-be-rendered-unprofitable-in-
+time?cp=2 (This mentions a GTX 1060 card with only 3 Gb of memory, but I expect that a 6 Gb card 
+would be no different.)Under the rules of the Financial Ombudsman Service, Im required to ask Mr P to accept or 
+reject my decision before 9 August 2023.
+ 
+Richard Wood
+Ombudsman

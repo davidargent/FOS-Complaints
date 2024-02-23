@@ -1,0 +1,181 @@
+DRN-2972732
+The complaint
+Mr F complains that when TSB Bank plc implemented a security measure known as Strong 
+Customer Authentication (SCA), he was locked out of his account online and could not pay 
+his bills. Hes since moved his current account to a bank he says, have implemented SCA 
+adhering to the FCA requirements. Hed like TSB to change their SCA process and pay him 
+compensation for all the inconvenience and hassle he suffered.
+What happened
+In or around August 2020 Mr F was prompted to enter a one-time passcode (OTP) when he 
+tried to log in to online banking. He was abroad at the time and found he couldnt receive the 
+OTP as he didnt have his UK mobile phone with him. Eventually he had a relative access 
+his UK phones and pass on the required OTPs to him, but this didnt completely resolve the 
+problem.
+Mr F complained to TSB and said card readers would be a better option for generating OTPs 
+as they can be used abroad. Mr F said hed transfer his balance elsewhere if TSB continued 
+to require OTPs sent to phones.
+In their final response, TSB explained that theyd changed their security processes in March 
+2020 in line with regulations and that customers would now be asked to enter an OTP 
+received to their mobile or UK landline number when logging in. TSB added that customers 
+shouldnt need to enter an OTP for 90 days if logging in from a trusted device. They went on 
+to explain that theyd had some difficulty sending OTPs to customers abroad, but said they 
+were working on rectifying this. TSB paid Mr F £40 for the distress and inconvenience hed 
+experienced.
+Mr F continued to experience a problem whereby the calls his relative in the UK received 
+from TSB either produced OTPs which didnt work or there was no OTP spoken. He also 
+found he was asked for an OTP every time he tried to log in; in his experience there was no 
+90 days period where one wasnt required.
+In December 2020 Mr F closed his TSB account.
+What Mr F told us
+Mr F told us that the relevant regulations are clear that customers without mobile phones or 
+mobile reception should not be disadvantaged by the implementation of SCA. He said TSBs 
+SCA process is heavily reliant on mobile phones when they could send the OTPs by email or 
+provide customers with a card reader to generate OTPs. He explained that his problems 
+began when he was trying to log in to online banking from abroad, but that he also 
+experienced the problem when he was in the UK in areas of poor mobile phone reception. 
+He added that hes abroad quite frequently and takes a mobile phone registered to the 
+country hes visiting, not his UK mobile phone. And he told us that hed not given TSB his 
+international mobile phone number.
+What TSB told us
+TSB said that customers are sent an OTP to their mobile or UK landline number to 
+authenticate a range of online banking and payment activities. They explained that they offer 
+an automated voice call to a landline, as an alternative to OTP to mobile, to support 
+customers who don't have mobile phones. Customers can also authenticate using TSBs 
+mobile banking app.
+TSB explained that for logging in to internet banking using a web browser, customers are 
+asked to enter an OTP each time they log in, unless they're using a trusted device; then they 
+need to enter an OTP every 90 days. TSB also explained that whilst they couldnt initially 
+send OTPs to some international mobile phone numbers, this was resolved by the end of 
+2020. They also explained that customers with a UK mobile phone can receive OTPs when 
+travelling. They recognised that Mr F had been unable to receive OTPs when he was 
+overseas in July/August 2020, but pointed out that hed still have been able to access his 
+account through telephone banking.
+TSB also confirmed that before he closed his account, they held a UK landline and UK 
+mobile phone number for Mr F. They said when Mr F was having difficulty receiving an OTP 
+it may have been because he was using a desktop computer abroad, but the phones they 
+were sending the OTPs to were located in the UK.
+Finally, TSB explained that their internet banking services are designed for use in the UK as 
+their business is focussed on local banking.
+Our investigators view
+Our investigator didnt uphold Mr Fs complaint. She said that TSB send OTPs to landlines 
+as well as mobile phones, and so she didnt think TSB were failing to provide a non-mobile 
+phone based method of authentication. She also said that if Mr F had had his UK mobile 
+phone with him when he was abroad, hed likely have had no issues with receiving the 
+OTPs. She said Mr Fs decision to move to a bank that uses card readers for authentication 
+was a personal one. Overall, she didnt think TSB had done anything wrong.
+Mr F disagreed. He said the only way hed been able to log in to online banking while abroad 
+was to get his relative to relay the OTPs received to his UK landline or mobile via text 
+message to his international mobile phone. He said, rather than strengthening security it 
+weakened it. He also repeated that hed been asked for an OTP at every log in even though 
+hed been using the same desktop computer abroad. And he didnt think having his UK 
+mobile phone with him abroad would have made a difference when he experienced the 
+problem in July/August 2020. Mr F added that his mobile phone signal coverage in the UK is 
+variable and said, I am therefore continuously at a disadvantage where a OTP sent via 
+mobile is demanded by a bank. 
+As no agreement could be reached, the complaint has come to me to decide.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, Ive reached the same outcome as our investigator did and for broadly the 
+same reasons.
+TSB were required by the Payment Services Regulations 2017 (the PSRs 2017) to 
+implement SCA (also known as two-factor authentication). This means that when a payment service user accesses their payment account online, initiates an electronic payment, or 
+carries out any action through a remote channel which may imply a risk of payment fraud, 
+TSB must check that the payment service user is genuine by using something known to 
+them (knowledge check), something only held by them (possession check), or something 
+inherent to them (inherence check). As a minimum, the elements or factors used in SCA 
+must derive from two of the three categories. For example, to login to online banking a 
+payment service user will commonly need a password (knowledge) plus an OTP sent to a 
+mobile phone held by the payment service user (possession).
+Regulation 100(5) of the PSRs 2017 refers to exemptions from strong customer 
+authentication. These say payment service providers (PSPs) can allow access to limited 
+payment account information without requiring strong customer authentication. But where 
+either the customer is accessing the payment account information online for the first time or 
+it is more than 90 days since the customer accessed the online information and strong 
+customer authentication was applied, strong customer authentication will be required.
+The Financial Conduct Authority (FCA) issued guidance to businesses required to implement 
+SCA. This was principally set out in their publication Payment Services and Electronic 
+Money  Our Approach. This made clear that the FCA expected payment service providers 
+(PSPs) to develop SCA solutions that worked for all groups of consumers. The guidance 
+said:
+It may be necessary for a PSP to provide different methods of authentication, to 
+comply with their obligation to apply strong customer authentication in line with 
+regulation 100 of the PSRs 2017. For example, not all customers will possess a 
+mobile phone or smart phone and payments may be made in areas without mobile 
+phone reception. PSPs must provide a viable means to strongly authenticate 
+customers in these situations.
+UK Finance has also issued guidance to businesses detailing a non-exhaustive list of 
+authentication methods a PSP can employ to satisfy the possession element of SCA. 
+These include:
+Possession of a device evidenced by an OTP generated by, or received on a device 
+(such as OTP by SMS text message)
+Possession of a device evidenced by a signature generated by a device (hardware or 
+software)
+App or browser with possession evidenced by device binding
+Card or device evidenced by QR code scanned from an external device
+Possession of card evidenced by a card reader
+Possession of card evidence by a dynamic card security code
+OTP received by email account associated, bound or linked adequately to the 
+cardholder
+OTP received by landline number associated, bound or linked adequately to the 
+cardholder
+Im aware that TSB do provide more than one method of authentication. Personal account 
+holders can strongly authenticate by receiving an OTP to their mobile phone (any type 
+capable of receiving SMS text messages) or landline (where the OTP is spoken), or use 
+biometric authentication if their mobile phone is set up for that. Im also aware that TSBs 
+Personal Banking Terms and Conditions say that to hold a current or savings account, You 
+must be resident in the UK . So, I don't agree with Mr F that TSB only send OTPs to 
+mobile phones. I also dont think it's unreasonable that TSB designed their SCA process principally with their UK customer-base in mind, and based on the assumption that their 
+customers would likely have a UK phone number (either mobile or landline).
+Its clear that Mr F had problems logging in to online banking from abroad after TSB 
+implemented their SCA process in March 2020, and I dont doubt that was frustrating and 
+caused him some inconvenience. But I cant say thats because of anything TSB did wrong. 
+The problem seems to have stemmed from the fact that Mr F didnt travel abroad with his UK 
+mobile phone, and also didnt provide TSB with his international mobile phone number. If 
+hed done either of those things, I think its more likely than not hed have received the OTPs 
+he needed to log in to online banking directly. I say this because the country he was in was 
+not one TSB had trouble sending OTPs to.
+I appreciate that Mr F would have preferred TSB to adopt a card reader for generating OTPs 
+or to send him OTPs via email. But whilst I think the regulations, and the associated 
+guidance mean that TSB are required to offer authentication methods which are workable for 
+customers who dont use mobile phones, I dont think theyre prescriptive about the 
+authentication methods a payment service provider must offer. Its clear there are a range of 
+ways PSPs can authenticate customers and not all PSPs will adopt the same range. TSBs 
+standard alternative to mobile OTPs is landline OTPs. Landline OTPs are by their very 
+nature static and best serve customers who do their online banking and online shopping at 
+home. But I dont think the static nature of landlines makes them an unreasonable method of 
+delivering OTPs for SCA purposes.
+Mr F has said that he was even at a disadvantage when in the UK because when travelling 
+in an area of poor mobile phone reception, he was unable to receive mobile OTPs. Whilst I 
+appreciate what Mr F is saying here, I cant say that makes TSBs SCA methods 
+unreasonable or unfair. If Mr F had stayed with TSB, I dont think his online banking access 
+would have been significantly limited by TSBs SCA process. When banking at home hed 
+have been able to receive OTPs to landline, and when travelling (in the UK or abroad) hed 
+have been able to receive an OTP to mobile. If, when travelling, he was out of mobile 
+reception range I think this would have been no more than a temporary situation, during 
+which his account would have remained accessible through telephone banking. He could 
+also have considered using TSBs mobile banking app (which is available on tablet devices 
+and smartphones) if online banking was something he needed regularly to do away from 
+home.
+Mr F has also raised the issue that TSBs systems were requiring him to enter an OTP every 
+time he logged in to online banking. I think the explanation for this is likely to be that TSBs 
+systems werent recognising Mr Fs desktop computer as a trusted device. If hed remained 
+a TSB customer, the reason for that could have been investigated and possibly resolved. But 
+as he didnt and Ive seen no evidence as to why Mr Fs desktop computer didnt 
+successfully become trusted, I cant say TSB did anything wrong here. I accept that TSB 
+did indicate theyd only require an OTP to be entered every 90 days if a trusted device was 
+used, and that wasnt Mr Fs experience. But I cant say it was unfair or unreasonable for 
+TSB to require an OTP more frequently than that. SCA was introduced as a security 
+measure and is required whenever a payment service user accesses their payment account 
+online unless a specified exemption is applied. TSB werent under any obligation to apply the 
+permitted exemptions and I dont think they acted unreasonably by requiring Mr F to receive 
+an OTP at each log in.
+Overall, I dont think TSBs implementation of SCA unfairly or unreasonably prevented Mr F 
+from accessing TSBs online banking and payment services. I think the methods TSB offered 
+Mr F to complete SCA were reasonable for him to use.My final decision
+My final decision is that I dont uphold Mr Fs complaint against TSB Bank plc.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr F to accept or 
+reject my decision before 5 May 2022.
+ 
+Beth Wilcox
+Ombudsman

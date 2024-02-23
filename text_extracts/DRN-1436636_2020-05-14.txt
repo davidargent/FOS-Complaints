@@ -1,0 +1,136 @@
+DRN-1436636
+ 
+The complaint
+Miss C complains that Barclays Bank UK PLC wont refund two cash withdrawals made 
+using her debit card and which she says she didnt make or authorise.
+What happened
+Miss C says she either lost her card or it was stolen without her knowledge. As soon as she 
+realised it was missing, she phoned the bank to report it and it cancelled her card.
+The following transactions had taken place which Miss C says she didnt authorise:
+11.18am ATM cash withdrawal £300.00
+11.19am ASD cash withdrawal £300.00
+11.20am ASD cash withdrawal £300.00
+11.23am Point of sale transaction 
+(POS)£498.96
+(An ASD is an assisted service device  an ATM in a bank branch.)
+The bank only investigated the two ASD withdrawals  it says its systems had automatically 
+refunded the ATM withdrawal and the POS transaction. It would not refund the ASD 
+transactions as it said the genuine card was used and that Miss Cs PIN and date of birth 
+had to be entered to obtain the money. There was no obvious point of compromise, such as 
+shoulder surfing, where a third party could have obtained Miss Cs PIN. So the bank 
+concluded Miss C must have carried out the transactions herself, or authorised someone 
+else to do so.
+Miss C didnt accept that and referred her complaint to this service. One of our investigators 
+considered it. He didnt think Miss C had carried out the transactions, but could find no 
+reasonable explanation as to how a third party had obtained Miss Cs PIN, unless shed 
+given it to someone or written it down. So for this reason he couldnt recommend the bank 
+refund her.
+Miss C didnt agree and felt the bank was questioning her honesty and integrity. She said, in 
+summary, that she couldnt explain how someone had obtained her PIN but said she hadnt 
+given it to anyone and that shed never written it down. She said that, when she called the 
+bank its systems werent working, and she had to call back. She thinks this might have 
+impacted on its ability to detect the fraud.
+What Ive decided  and whyIve considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint. I have however come to broadly the same 
+conclusions as the investigator.
+Where the evidence is incomplete, inconclusive, or contradictory (as some of it is here), I 
+reach my decision on the balance of probabilities  in other words, what I consider is most 
+likely to have happened in light of the available evidence and the wider circumstances.
+There are several possible explanations for what happened here. And in reaching my 
+decision, Ive considered the likelihood of each if them. These are:
+Miss C carried out the transactions herself.
+A third party carried out the transactions with Miss Cs consent.
+A third party found out her PIN number  by guessing it or seeing Miss C enter it 
+before they acquired the card.
+A third party stole or obtained her card and found out her PIN number because it was 
+written down and kept with the card.
+ 
+Im satisfied the disputed transactions were made using Miss Cs genuine card, rather than a 
+copy of it. And I dont find it likely that Miss C carried out the transactions herself. Shes told 
+us about her personal circumstances which leads me to conclude she physically wouldnt 
+have been able to carry out the transactions herself.
+Ive not seen anything to suggest Miss C gave her card to someone else to use. Ive no 
+reason to believe her card wasnt lost or stolen, although Miss C doesnt know exactly how 
+or when this happened. So I think it most likely that someone stole or found the card and 
+used it without Miss Cs consent. Miss C has suggested when and how this might have 
+happened. I think its most likely to have happened very shortly before the first transaction 
+was carried out. I say this because the transactions were all carried out very close to where 
+Miss C was at the time.
+Im satisfied that the card was used with the PIN associated with it. The PIN isnt kept in 
+unencrypted form on the card itself, and its unlikely that anyone would have been able to 
+guess it. Apart from an online transaction made from her home, the last time Miss C used 
+her card with her PIN was at an ATM on 16 November  so nine days before the disputed 
+transactions took place. I think it very unlikely that someone saw Miss C enter her PIN at the 
+ATM and then waited until there was an opportunity to steal or obtain her card. So I cant find 
+that her PIN number was compromised.
+And I dont think the person who obtained the card would have been able to guess the PIN. 
+The number was the one issued by the bank. So it was random, meaning it would not have 
+been easy to guess. And there were no failed PIN attempts. So the person who used the 
+card knew the PIN.
+Like our investigator concluded, the only explanation that remains is that the PIN must have 
+been written down and kept with the card. I appreciate Miss C is adamant she would not 
+have done this. She also told us she always cut up her old cards when a new one was 
+issued. But her old card must have been with her current one when the third party obtained 
+it, because there was also an attempted transaction using this old card. So I think Miss C is 
+mistaken about this. And I think she is probably also mistaken about not recording her PIN 
+anywhere.
+This explains how someone could have used Miss Cs card so easily once they had it. Barclays intially told us that the ASD withdrawals rquired Miss C's date of birth to be entered, 
+as well as the PIN. And this added to Miss C's concern as she couldn't work out how 
+someone had obtained this information. But Barclays recently clarified to us that a date of 
+birth is only required for transactions over £300. So, whoever used the card, only needed 
+Miss C's PIN to make the withdrawals.
+Did Mrs D fail with intent or gross negligence to comply with the obligations set out in 
+Regulation 57 of the Payment Services Regulations 2009?
+I dont think it was unreasonable for Miss C to have kept a written note of her PIN. She had 
+other cards with different PIN numbers and she may not have been able to remember this 
+one.
+But I do find she acted against the account terms and conditions in failing to do enough to 
+disguise her PIN. If that were the case, Id expect to have seen a number of failed attempts 
+that would be in line with someone trying to guess or work out the number if it were 
+disguised.
+Although she acted against the account terms and conditions, it doesnt automatically follow 
+that this means she acted with gross negligence. Ive considered this carefully. In all 
+likelihood Miss C wrote down the four digit PIN undisguised and put it in the same wallet that 
+she says contained her card. I dont think she anticipated that her wallet would be stolen or 
+that shed lose it when she did this. But I think she reasonably should have considered that 
+this might be a possibility. I think a reasonable person would have had some regard of the 
+risk of keeping an undisguised written record of the PIN with their card.
+In the circumstances, I dont find Barclays is obliged to refund Miss C.
+Should the bank have stopped the transactions?
+Barclays, like all financial businesses, have a fraud detection system in place to identify and 
+stop any potential fraud. But no system can stop all disputed transactions as it is often 
+difficult to differentiate between genuine and fraudulent spending.
+Barclays says its system would not have identified these transactions as fraudulent for a 
+number of reasons, the main ones being that: the genuine card and PIN were used and the 
+ASD withdrawals were significantly below the maximum withdrawal amount. But repeated 
+use of the card did trigger Barclays fraud detection system because there was a further 
+attempted point of sale transaction at 11.45am for £129.99. This transaction was declined.
+Overall, I think Barclays did enough here  it had a fraud detection system in place and it did 
+identify a suspicious pattern of transactions and put a stop to them. Clearly this was after a 
+considerable sum had already been withdrawn from Miss Cs account, but I dont find 
+Barclays could reasonably have identified there was a problem any sooner.
+Miss C suggests she may have been disadvantaged because Barclays systems werent 
+working when she phoned it to report her card missing. But Ive not seen anything to 
+persuade me that, whatever problem stopped Barclays initially taking Miss Cs call, also 
+affected its fraud detection system  as noted above, this system did seem to be working 
+with no issues at the time of the transactions.
+There are four disputed transactions here. But, as outlined in the what happened section 
+above, Barclays only investigated the two ASD withdrawals  it says its systems had 
+automatically refunded the ATM withdrawal and the POS. Understandably, this has led to 
+some confusion for Miss C. The four transactions were carried out within minutes of each other, must have been carried out by the same individual, and have all been disputed by 
+Miss C. So it wasnt clear to Miss C why the bank chose to refund only two of the 
+transactions. Barclays has explained to us that disputed ASD withdrawals are investigated 
+by a separate system to the one used to investigate ATM withdrawals and POS transactions. 
+Barclays wrongly refunded the ATM and POS transactions. But it wont be correcting its 
+mistake.
+I appreciate this has been a very distressing experience for Miss C and I do sympathise. And 
+I think Barclays' mistakes - in refunding some transactions and not others and in telling Miss 
+C that whoever carried out the transactions knew her date of birth - have not been helpful. 
+But, after very careful consideration, and for the reasons Ive explained, it wouldnt be fair to 
+require Barclays to refund the transactions.
+My final decision
+My final decision is that I do not uphold this complaint. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Miss C to accept 
+or reject my decision before 11 June 2020.
+Elizabeth Dawes
+Ombudsman

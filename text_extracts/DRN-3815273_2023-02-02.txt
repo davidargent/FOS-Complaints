@@ -1,0 +1,149 @@
+DRN-3815273
+The complaint
+Mr M complains that Revolut Ltd wont refund a transaction he says he did not make and
+does not recognise.
+What happened
+On 13 August 2021, a payment of just over €1000 was made using Mr Ms debit card. The
+merchant appeared on Mr Ms statement as Cie Pari Mutuel and its address was given as
+Paris.
+On 17 August 2021, the payment was debited from Mr Ms account. There wasnt a sufficient
+balance to cover the payment at that time so it left his account with a negative balance.
+Mr M thinks his bank account has been hacked. He says that he could not have made this
+payment himself as he was at work in Switzerland and has provided his work schedule to
+support this. In addition, Mr M says that the payment should never have been accepted as
+he didnt have enough money in his account to cover it.
+Mr M contacted Revolut and asked to be reimbursed. It declined Mr Ms claim. It concluded
+there was no reasonable explanation as to how the payment could have been made without
+Mr Ms involvement. In its final response letter, it said that no fraudulent activity had been
+found and suggested that Mr M should contact the retailer.
+Unhappy with Revoluts position, Mr M referred the complaint to this service. Our
+Investigator looked into it but did not recommend that it should be upheld. He said the
+disputed transaction had been made on 17 August 2021 at 5.32am and referred to
+undisputed payments also being made in Paris on 16 and 17 August 2021. He thought the
+transaction was authorised because he could not see how someone could have accessed
+Mr Ms card and PIN without him knowing given what hed said about not losing the card,
+living alone and not giving the PIN to anyone. He explained that the transaction was made
+offline which is why it was not declined due to insufficient funds.
+Mr M disagreed. He said hed been a victim of fraud and did not carry out this transaction.
+He referred to newspaper articles about card cloning. He thought it was dishonest for
+Revolut to allow an offline transaction to go through when the account does not have credit
+facilities. He asked for the complaint to be reconsidered.
+As no agreement could be reached, Mr Ms complaint was referred to me. I issued my 
+provisional decision on 20 December 2020. In it, I explained why I was minded to reach the 
+save overall conclusion as our Investigator, but for different reasons. An extract of that 
+decision is set out below:
+Ive considered all the available evidence and arguments to decide whats fair and
+reasonable in the circumstances of this complaint. When considering what is fair and
+reasonable, I am required to take into account: relevant law and regulations; regulators
+rules, guidance and standards; codes of practice; and, where appropriate, what I consider to
+have been good industry practice at the relevant time.
+In cases when it is not clear what happened, I base my decision on the balance of
+probabilities. In other words, what I consider is most likely to have happened in the light of
+the available evidence.
+Theres a lot of money involved in this dispute so I can understand why Mr M is concerned.
+But having considered everything thats been said and provided, I currently think Revolut can
+fairly hold Mr M liable for the disputed transaction. I will explain why.
+When and where was the disputed transaction made?
+When Mr M referred his complaint to this service, he said the disputed transaction had been
+made on 13 August 2021. But our Investigator said the transaction had been made on
+17 August 2021 and at a time when Mr M appeared to have been in Paris. Clearly both of
+those positions cannot be correct.
+Having looked carefully at Revoluts technical information, the transaction history shows it
+was completed on 17 August 2021 at 05:32:49. But the point of sale information says the
+transaction was made on 13 August 2021 at 15:23:58. I consider the difference between the
+two dates to be because the transaction was made offline. What this means is that the
+merchants terminal does not have internet connection in order to verify the transaction in
+real time, so the account holder wont see the charge on their bank statement straight away.
+Offline transactions are not uncommon and can include transactions made in locations such
+as underground ticket machines or on aeroplanes. Revolut has no control over whether an
+individual merchant is online or offline when a transaction is made.
+From what I have seen, I am satisfied that the disputed transaction was actually made on 
+13 August 2021 but did not debit Mr Ms account until later. I have considered the disputed
+transaction alongside the genuine transactions before and after that Mr M agrees he made.
+I have detailed them below:
+Date Time Merchant
+13/8/2021 14:36 Cash withdrawal in 
+Lausanne
+13/8/2021 15:23 Cie Pari Mutuel
+13/8/2021 20:17 McDonalds Lausanne
+I agree its not possible for Mr Ms card to have been in Switzerland at 14:36 when he used it
+to withdraw cash, in Paris at 15:23 when the disputed transaction was made and then back
+in Switzerland at 20:17 when he used it at McDonalds.
+But the address of the merchant is not necessarily the same place where this transaction
+was initiated. It is possible that the merchant is registered in Paris but operates elsewhere.
+Revolut is unable to provide any further information about precisely where the card was
+used.
+From my own research, Pari Mutuel is a betting agency, PMU. PMU appears to be available
+in Switzerland as well as in France. The merchant that received the money, Cie Pari Mutuel,
+provides technological solutions for the pari-mutuel betting service.
+I will never know for certain exactly where Mr Ms card was used. But it seems more likely
+than not that it was used at a PMU in Switzerland and not Paris. In further support of this is
+the Cie Pari Mutuel transaction appears on Mr Ms bank statement in Swiss Francs and not
+Euros. Revoluts technical evidence shows the transaction was made in Swiss Francs.Having established the transaction was unlikely to have been made in Paris, I have gone on
+to consider whether Revolut can fairly hold Mr M responsible for it.
+Can Revolut hold Mr M responsible for the disputed transaction?
+Whether a payment transaction has been authorised or not is important because account
+holders will usually be liable for payments theyve authorised and, generally speaking,
+payment service providers will be liable for unauthorised payments. If Mr M made the
+disputed transaction himself or agreed it could be made on his behalf, it would not be fair to
+ask Revolut to refund it. But Mr M says he does not recognise this payment and has
+explained that his card and PIN were always in his control.
+Mr M has suggested that his card has been cloned. But I can rule that out because Im
+satisfied from Revoluts technical evidence that Mr Ms genuine card and PIN were used to
+make the disputed transaction. But the regulations relevant to this case say that is not, on its
+own, enough to enable Revolut to hold him liable. So, I also need to think about whether the
+evidence suggests that its more likely than not that Mr M consented to the payment being
+made.
+Ive thought about the possible scenarios for how this transaction could have been made. Its
+possible that Mr M made it himself and perhaps did not initially recognise it as he thought it
+had taken place in Paris. If this is what happened, it would be an understandable mistake for
+him to have made, but Mr M has not referred to making any transaction for this kind of
+amount at that time.
+If Mr M did not make it himself, it was either made by an opportunistic thief, or someone
+closer to him either with or without his permission. I dont think its likely that an opportunistic
+thief would have taken Mr Ms card and then taken steps to return it back to him. They would
+have to know where he was located and returning a card would increase the risk of their
+actions being detected.
+If Mr M had given someone closer to him permission to use his card, Revolut could still treat
+any transaction that they went on to make whilst they had the card as being authorised by
+him.
+So Ive thought about whether this transaction could have been made by someone closer to
+Mr M but without his knowledge or wider agreement. But I cannot see how this opportunity
+would have arisen in the circumstances that Mr M has described.
+Hes explained to us that the bank card has not moved from his home and he did not give his
+PIN to anyone. Hes explained that it was not possible for anyone else to have accessed his
+card because he lives alone.
+Its clear that whoever carried out the transactions knew Mr Ms PIN because there werent
+any incorrect PIN entries. Im unable to find a plausible explanation for how someone else
+would have known this information. It is also hard to see how anybody other than Mr M could
+have carried out the spending when hes explained the card was always in his possession
+and no one else could have accessed it.
+Overall
+I am sorry to have to deliver this news to Mr M. I know this wasnt the outcome he was
+hoping for. Hes explained how stressful the situation has been and how he has had to
+borrow money from friends. But having considered everything, all of the available evidence
+points to it being more likely than not that Mr M made the transaction himself. There is noexplanation for how someone else could have used his card without his knowledge or
+agreement. I realise that is a very difficult message to give, but that is what the available
+evidence leads me to conclude. This means that Mr M is considered to have authorised the
+transaction in dispute and it was not unfair of Revolut to hold him responsible for it.
+I also havent seen anything to suggest that Revolut acted incorrectly when it processed the
+disputed payment.
+Responses to my provisional decision 
+Revolut responded to my provisional decision and said it had no further points to add. 
+Mr M did not respond. As the deadline for both parties to respond has now passed, I will 
+review the complaint afresh. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, and as nether party has sent any new evidence or arguments for me to 
+consider, I see no reason to depart from the conclusions set out in my provisional decision 
+and reproduced above.
+In this case, in all the circumstances, I cant fairly or reasonably say that Revolut is 
+responsible for refunding Mr M. 
+My final decision
+For the reasons Ive explained, my final decision is that I dont uphold Mr Ms complaint. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr M to accept or 
+reject my decision before 2 March 2023.
+ 
+Claire Marsh
+Ombudsman

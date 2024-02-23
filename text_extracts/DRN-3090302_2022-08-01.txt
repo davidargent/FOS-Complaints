@@ -1,0 +1,133 @@
+DRN-3090302
+The complaint
+Mr Z complains that Metro Bank PLC have unfairly refused to reimburse money he lost as 
+part of a scam.
+What happened
+The details of this complaint are well known to both parties so I will not repeat everything 
+again here. In summary, Mr Z fell victim to a scam where he gave remote access to his 
+online banking to a scammer purporting to be from his broadband company Sky. The 
+scammer knew his name and details and said they were calling to test the speed of his 
+connection. 
+The scammer said that Mr Z was due a refund due to his sub-par connection speed. He was 
+instructed to download remote access software on his mobile and access his online banking 
+so the refund could be verified. However, Mr Z was unaware that by doing this, he had 
+allowed the scammer access to his online banking, where the following payments were then 
+made from his account without his knowledge:
+ 
+Date Event Amount
+18/03/2021 Outward SWIFT Payment
+gopinathan nair jayasankar
+SW- INGBPLPW€1990.00
++€20 transaction 
+fee
+18/03/2021 Outward SWIFT Payment
+gopinathan nair jayasankar
+SW- INGBPLPW€1970.00
++€20 transaction 
+fee
+18/03/2021 Outward SWIFT Payment
+gopinathan nair jayasankar
+SW- INGBPLPW€1965.00
++€20 transaction 
+fee
+18/03/2021 Outward SWIFT Payment
+gopinathan nair jayasankar
+SW- INGBPLPW€1969.00
++€20 transaction 
+fee
+18/03/2021 Outward SWIFT Payment
+gopinathan nair jayasankar
+SW- INGBPLPW€1900.00
++€20 transaction 
+fee
+  Total (including transaction fees) €9,894.00
+Metro offered to refund the transaction fees Mr Z was charged, but declined to refund the 
+money he had lost to the scammer, as it believes that Mr Z initiated and authorised the 
+payments, even though he was duped into doing so, such that he is liable for loss. 
+Our investigator upheld the complaint. He didnt think Mr Z had likely authorised the 
+transactions, and neither did he think he was grossly negligent in allowing the payments to 
+be made. Metro Bank disagreed, so the matter has been escalated to me to determine.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I agree with the conclusions reached by the investigator and have decided 
+to uphold it. 
+Metro Bank are aware of the relevant considerations and approach this service takes to 
+unauthorised scams and its obligations under the Payment Services Regulations 2017 
+(PSRs 2017). It has had several decisions setting this out in the past, so I do not intend to 
+repeat it all again here. 
+Metro submit that Mr Z authorised the payments that were made from his account on 
+18 March 2021. But in order for a payment to be regarded as authorised it is necessary for 
+Mr Z to have given his consent to the execution of the relevant payment transactions. And, 
+according to Regulation 67 of the PSRs 2017, consent must be given in the form, and in 
+accordance with the procedure, agreed between the payer and its payment service 
+provider.
+In this instance, the scammers asked Mr Z to input a series of codes into his phone. It turns 
+out that these codes were in fact payment amounts being entered into his online banking for 
+the payments to be made. But Mr Z was unaware that he was inputting details for a 
+transaction to be made from his account. He was told that the codes would allow the refund 
+to be paid to his account once the digits had been entered. Metro has also said itself that it 
+was part of the scam to mislead Mr Z into believing he was following a process rather than 
+making a transfer. So, it follows that he cant have given his consent to the execution of the 
+payment transactions, as he was under the impression that money would be paid into his 
+account, not being transferred out of it. 
+The payment services directive itself (which the PSRs 2017 implement) states that in the 
+absence of such consent, a payment transaction shall be considered to be unauthorised. 
+Therefore, given I dont consider Mr Z provided his consent for these payments to be made 
+from his account, Im satisfied they are to be considered as unauthorised for the purposes 
+of the PSRs 2017.
+I note that Metro has cited certain provisions of the Contingent Reimbursement Model (CRM 
+Code). However, the CRM Code only applies to authorised push payments where the 
+customer has given consent for a payment to be made. As outlined above, I do not consider 
+there was any consent given in this instance, so the payments cannot be regarded as 
+authorised, meaning the CRM Code does not apply. Even if these payments could be 
+considered as authorised, the Code would not apply in any event given Mr Zs account was 
+not denominated in GBP. So, Ive therefore considered these payments as unauthorised in 
+line with the regulations set out in the PSRs 2017.
+Did Mr Z act with intent or gross negligence  particularly taking into account the 
+terms and conditions of his relationship with Metro Bank and the obligations set out 
+in the PSRs 2017?
+I dont think Metro Bank have suggested that Mr Z failed to comply with his obligations under 
+Regulation 72 of the PSRs with intent, and neither have I seen any evidence that would 
+suggest this either. So I do not intend to explore this point any further.
+However, I have considered whether the actions Mr Z took fell so far below the standard of a 
+reasonable person that he could be said to have failed with gross negligence to take all 
+reasonable steps to keep his security information safe or to comply with the terms and 
+conditions of his account. Gross negligence is not an abstract concept. Its important to take into account all the 
+circumstances when considering whether an individuals action amount to gross negligence. 
+Scams such as the one experienced by Mr Z are very sophisticated, and its likely the 
+fraudster used a range of social engineering techniques to trick, deceive and manipulate him 
+into following their instructions and inadvertently allowing access to his internet banking and 
+confidential security information.
+Mr Z has explained that Sky is his broadband provider. So, when they contacted him to test 
+his connection speed and explained that he was due a refund, he didnt think he had any 
+reason to doubt the legitimacy of the person he was speaking to, particularly as they already 
+knew his name when the contacted him. Mr Z had also said that the scammer sounded very 
+convincing, and that it sounded like they were in a real call centre. I dont think it was entirely 
+implausible for Mr Z to think he might be due a refund if his connection speed was operating 
+below an acceptable standard. And it was all of these circumstances combined that led Mr Z 
+to trust the person he was speaking to, and to follow their instructions to download the 
+remote access software and input codes in order for his refund to be processed. 
+So, while I appreciate Mr Z followed the fraudsters instructions and downloaded the apps to 
+his phone that likely allowed them to take control of his device, I dont think he knew this 
+software would allow the fraudster to do this. And given Mr Z thought he was dealing with a 
+business he knew, trusted, and had dealt with before, I think a lot of people would have 
+believed what the scammer was saying. 
+So, I think its most likely that Mr Z thought the apps he was downloaded and the codes he 
+was inputting were to assist him in obtaining the refund he thought he was due from Sky. It 
+was in this context he took the steps that he did, and I think a lot of people in a similar 
+position wouldve behaved in a similar way in those circumstances. It therefore follows that I 
+dont think the actions Mr Z took fell so far below the standards of a reasonable person, such 
+that he failed with gross negligence to keep his personalised security details safe or to 
+comply with the terms and conditions of his account. And so I conclude that it would be fair 
+and reasonable for Metro Bank to provide a full refund to Mr Zs account. 
+My final decision
+For the reasons given above, I uphold this complaint and direct Metro Bank PLC to refund 
+the full amount Mr Z lost to the scammer, including any associated transaction fees. Metro 
+Bank should also add 8% simple interest per year on this amount from the date of loss until 
+the date of settlement.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr Z to accept or 
+reject my decision before 29 August 2022.
+ 
+Jack Ferris
+Ombudsman

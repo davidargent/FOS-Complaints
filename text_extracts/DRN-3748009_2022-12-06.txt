@@ -1,0 +1,111 @@
+DRN-3748009
+The complaint
+Miss C has complained that Nationwide Building Society wont refund transactions she says 
+she didnt make or otherwise authorise.
+What happened
+In July 2021, several payments were made from Miss Cs mobile banking to an individual 
+and several companies, over the course of over a week.
+Miss C says this wasnt her. She says her card and phone did not go missing in 2021, and 
+neither did any of the other valuables she kept in the same place. She didnt give anyone 
+else access to her card or phone, and her phone was protected by a password. She hadnt 
+told anyone her PIN, it was a random number assigned by the bank, and the only record of it 
+was in a file at home amongst other banking paperwork. She had not written down her online 
+banking passcode or shared it with anyone. She lived and worked at home, where only her 
+immediate family lived. She was certain that no one she knew could have done this.
+Nationwide held Miss C liable for the payments in dispute. They found theyd been made on 
+her phone, at her usual IP address, authenticated by her genuine card and PIN.
+Our investigator looked into things independently and didnt uphold the complaint. Miss C 
+didnt agree, so the complaints been passed to me to decide.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+In doing so, Ive taken into account everything both sides have said, though Ive focused on 
+the key points. And Im grateful to Miss C for being candid and open with us in her testimony 
+ I understand that shes been through a tough time, for which she has my sympathy.
+I need to decide whether Nationwide can hold Miss C liable for the disputed transactions or 
+not. Broadly speaking, Nationwide can hold Miss C liable for the payments in dispute if the 
+evidence suggests that she authorised them.
+Im satisfied from Nationwides technical evidence that the payments in dispute used 
+Miss Cs genuine mobile banking app, on her phone, with two-factor authentication. So I can 
+see that these transactions were properly authenticated. The question, then, is whether the 
+evidence suggests that its most likely Miss C consented to the transactions, or not.
+First, Ive considered the possibility that an unknown fraudster used Miss Cs account.
+The only device registered to Miss Cs account was her genuine phone  the same one she 
+used for her normal activity. This was the device that was used for the disputed payments. 
+Miss C did not lose this phone or give anyone else access to it, it was password protected, 
+and she was still using it for genuine activity in between the disputed payments. So there is 
+no likely or plausible way that an unknown party couldve had repeated physical possession 
+of Miss Cs phone for over a week without her noticing.
+Miss C brought up the possibility of hacking, saying that she found a virus on the phone 
+afterwards. But shes not been able to provide any evidence of this virus. And while hacking 
+does happen sometimes, theres no evidence which shows or substantiates that her phone 
+was hacked here. Indeed, from what Miss C told us, she didnt download any suspicious 
+apps or click any suspicious links or anything like that. And the only suspicious call she 
+received was when someone called from a blocked number and shouted at her before she 
+ended the call  but thats not a possible method for hacking a phone. You cant hack 
+someones phone by calling from an unknown number and shouting at them. So there 
+doesnt seem to be a likely way that her phone was hacked. And importantly, the disputed 
+payments were made from the exact same IP address that Miss C used for her other 
+genuine spending  which also supports that this was not a case of hacking.
+Further, the person using Miss Cs phone used her online banking passcode. And Miss C 
+had not recorded the passcode anywhere or told it to anyone. So theres no likely or 
+plausible way that an unknown fraudster wouldve known it.
+Even more importantly, these payments required Miss Cs genuine physical card to be put in 
+a card reader, along with her correct PIN, as a second form of authentication. And I can see 
+from the electronic records that this was done successfully here in order to put through the 
+disputed payments. To clarify, it does not matter which individual card reader was used; but 
+this did require Miss Cs real, physical card. It could not be done with a cloned card, nor with 
+just her card details as she suggested. So Im satisfied that Miss Cs real physical card was 
+used, along with the correct PIN, to make the disputed payments.
+Miss Cs card did not go missing  which I can see since she was using it for genuine 
+spending in between the disputed payments. And an unknown fraudster would not have 
+been able to repeatedly find Miss C, steal her card, use it for a payment, then find her again 
+and give her card back to her, again and again for each new payee, without her ever 
+noticing. There would also be no good reason for a thief to give Miss C her card back  it 
+would drastically increase their chances of getting caught while substantially cutting down 
+the amount they could steal.
+I also dont see a likely or plausible way that an unknown party couldve learned Miss Cs 
+PIN without her permission. It was a random number, she hadnt entered it recently before 
+the disputed payments started so there was no recent opportunity to watch her putting it in, 
+she hadnt told it to anyone, and the only record of it was safe at home. 
+As such, there is not a likely or plausible way that an unknown party did this.It is possible that someone known to Miss C may have made the transactions without her 
+permission, such as a family member. But I dont think its likely. It still would have been very 
+difficult for them to have gained access to all of Miss Cs phone, her phones password, her 
+card, and her PIN. Its not clear how they couldve learned her online banking passcode. And 
+its not especially likely that theyd be able to repeatedly use Miss Cs physical card and 
+phone without her ever noticing. Further, Miss C was certain that no one she knew could or 
+would have done this  so it seems shes effectively ruled out this possibility herself.
+Lastly, Ive considered the possibility that the disputed payments could have been made with 
+Miss Cs consent.
+I mightve expected a thief to try to withdraw as much money as possible, as quickly as 
+possible, before the account gets blocked. But here, there were very large gaps between the 
+disputed transactions  up to several days. And the person using Miss Cs account did not 
+take nearly as much as they could have, leaving significant money still available. There were 
+even credits into Miss Cs account from the disputed payees.
+Further, there were no further attempts to pay the disputed payees after Miss C blocked her 
+account  so it seems the person using the account knew it was blocked.
+I also note that in between the disputed payments, Miss C logged into her online banking 
+and carried out genuine activity, like paying a family member. So she wouldve seen the 
+disputed transactions while they were still happening. But she didnt report them until after 
+they were finished. Its unlikely that Miss C would wait to report the disputed payments if they 
+were made without her consent.
+Lastly, Ive not seen any evidence that makes it seem implausible or unlikely that Miss C 
+couldve authorised these payments or given someone else permission to make them. 
+Miss C pointed out that the payments used a name thats not the one she usually goes by. 
+But it was a genuine alias of hers, so I dont find that to be significant.
+In summary, Im satisfied that Miss Cs genuine mobile phone, IP address, online banking 
+passcode, card, and PIN were used to make the disputed payments. Based on the evidence, 
+there isnt a likely way an unknown person did this, or that someone known to Miss C did this 
+without her permission. Indeed, Miss C herself seems to have ruled out that possibility. That 
+leaves only one likely possibility  that Miss C made the transactions or gave someone else 
+permission to make them. This is a difficult message for me to give, and I know its a difficult 
+message for Miss C to receive. But given the evidence I have, and the balance of 
+probabilities, Im unable to reasonably reach any other conclusion.
+So based on everything Ive seen, I think its fair for Nationwide to decline a refund in this 
+case.
+My final decision
+For the reasons Ive explained, I dont uphold Miss Cs complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Miss C to accept 
+or reject my decision before 3 January 2023.
+ Adam Charles
+Ombudsman

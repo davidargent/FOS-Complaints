@@ -1,0 +1,113 @@
+DRN-2874615
+The complaint
+Mr M says he opened a trading account with Plus500UK Ltd (Plus500) on 11 May 2020 
+with a deposit of £5,000; that he traded on the same day; that his positions were wrongly 
+closed by an invalid margin call caused by a Plus500 pricing system defect; that Plus500 
+eventually upheld his complaint about the matter and restored his account to its pre margin 
+call state (along with a payment of £100 for trouble and upset); and that he considers the 
+matter unresolved, he considers the account correction to be inadequate and he should be 
+compensated for the profit (around $30,000) he would have made on his positions but for the 
+margin call closures. 
+Mr M also says he was not given the opportunity to address the margin call before his 
+positions were closed.
+What happened
+One of our investigators looked into the complaint and concluded that it should not be 
+upheld. He referred to pricing data, related to some of Mr Ms positions, that Plus500 
+accepts was wrong and he agreed that the relevant prices were incorrect, but he explained 
+why the account would still have fallen into negative equity (and a margin call) even if the 
+price feed was correct. The investigator said Plus500s restoration of the account to its pre 
+margin call state and its payment of £100 for trouble and upset amount to more than this 
+service would have awarded Mr M, given that the margin call would have happened 
+irrespective of the inaccurate price feed.
+Mr M disagreed with this outcome and he objected to the investigators finding that the 
+margin call would have happened in any case. He said Plus500 has already conceded the 
+opposite, that the margin call would not have happened but for the inaccurate prices and its 
+system fault, so the only issue in dispute is his claim for lost potential profits in the positions 
+that were closed. He regards them as positions Plus500 has unreasonably refused to 
+reopen. He also insists that Plus500 is wrong to say his claim for lost potential profit is 
+hypothetical (and could instead have been losses) and he believes his calculations help to 
+show otherwise. 
+Mr Ms response was shared with Plus500 and it clarified its position mainly as follows  it 
+does not accept Mr Ms suggestion of a system fault and it disputes any suggestion that it 
+manipulated its pricing model; it has not accepted that the margin call would not have 
+happened but for the inaccurate prices; it previously said Mr Ms positions may have stayed 
+open and it said this because it had not conducted calculations to confirm how the account 
+would have behaved without the inaccurate prices; it had not conducted those calculations 
+because it had already agreed to restore the account to its pre margin call state so it was not 
+necessary to verify how the account would have behaved; it has since conducted those 
+calculations and can confirm that the margin call would have happened irrespective of the 
+pricing error.
+The investigator was not persuaded by Mr Ms arguments and he did not change his view. 
+The matter was referred to an ombudsman.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+The main issues to determine in this complaint are Mr Ms claim that Plus500 should have 
+given him prior notice of the margin call  which is what he has referred to as being deprived 
+the opportunity to address the margin call before his positions were closed  and then his 
+compensation claim for the lost potential profit he asserts. I acknowledge that the relevant 
+price feeds, the suggestion of a system failure and the way his accounts equity level would 
+have behaved but for the margin call are additional issues that have been debated and I do 
+not suggest that they are not issues that can be determined. They can be determined, but as 
+I explain below the redress that Mr M has already been given essentially renders these 
+additional issues redundant  which is why the aforementioned two issues are my focus. 
+The matter of margin call notice can be addressed with reference to the terms and 
+conditions for Plus500s accounts. We do not appear to have a 2020 version of those terms, 
+but I have consulted the 2021 version that is publicly available. On balance, I consider that it 
+provides a reasonably reliable indication of the margin related terms that applied last year. 
+The Key Facts Summary of the terms confirms that Plus500 is not obliged to send margin 
+call notices to account holders. Section 18 of the terms says it may send such alerts but 
+nothing in this section  a margin related section of the terms  says Plus500 had a duty to 
+do so. Primarily, the terms make clear that the monitoring and management of an accounts 
+margin is the accountholders sole responsibility. 
+Overall, on balance and for the above reasons I do not consider that Plus500 was supposed 
+to give Mr M prior notice of a margin call, instead I am satisfied that he was obliged to 
+monitor and manage his accounts margin level at all relevant times.
+The pre margin call account restoration that Plus500 applied to Mr Ms account  with the 
+payment of almost £4,700 (almost his initial account deposit) in the process  reflects the 
+notion that the margin call closures did not happen. Therefore, in real terms and with regards 
+to events up to those closures, it no longer matters whether (or not) the margin call would 
+have happened with or without the inaccurate prices. Plus500s response to Mr Ms claim for 
+lost potential profit does not seek to reverse the above notion, so there is no need to debate 
+it. 
+The question that remains is about events after the margin call closures and about Mr Ms 
+claim that his positions would have made around $30,000 profit which he has lost and 
+should be compensated for. Plus500s rejection of this claim is based on its views that it is 
+inherently speculative and that it cannot reasonably pay compensation for a loss claim on 
+such a basis. 
+I agree with Plus500. I acknowledge the calculation that Mr M has produced to support his 
+claim, but it is inevitably based on hindsight of the markets that he did not have at/around the 
+relevant time in May 2020; on hindsight of the markets that he has gained long after the 
+relevant events; and on an arguably convenient portrayal of how he would have managed 
+the closed positions. Overall and on balance, I am not persuaded that it establishes a 
+credible claim for lost profit.
+In other words, if the margin call did not happen, if the relevant positions remained opened at 
+the end of 11 May 2020 (and/or into 12 May 2020) and based on the fact that Mr M would 
+not have known then what he knows now about the relevant markets, there does not appear 
+to be a credible basis to conclude how Mr M would certainly or probably (or even possibly) 
+have managed the positions. He was engaged in trading in the account, not long-term investing. He could have held the positions over any period, from short to medium term or in 
+between. He could have liquidated any or all the positions at any time to pursue any 
+alternative opportunity or to safeguard against the risk loss, depending on liquidation timing 
+he could have crystalized either a profit or loss in the process  and any alternative trades 
+that were made could also have ended in either profit or in loss. 
+It is fair to conclude that a number of uncertain variables apply to what could have happened 
+if Mr Ms positions were not closed out, and they combine to show that a persuasive 
+argument cannot reasonably be made in his case that potential future net profit has been 
+lost. These variables do not appear to be reflected and/or addressed in his submissions 
+about the lost profit he alleges.
+Overall, on balance and for the above reasons, I am not persuaded by Mr Ms claim for lost 
+potential profit and I am not persuaded that he is entitled to more than the redress that 
+Plus500 has already given him (including the £100 trouble and upset payment). I note his 
+view that Plus500 has not adequately compensated for the distress the matter caused him. I 
+disagree and I believe that the £100 payment was reasonable. I appreciate the distress he 
+would likely have faced when he thought he had lost almost all of his account deposit on 
+what seems to have been the first day of his trading in the account, but Plus500s redress 
+returned that amount to him, which ought reasonably to have eased and then resolved such 
+distress.
+My final decision
+For the reasons given above, I do not uphold Mr Ms complaint. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr M to accept or 
+reject my decision before 25 November 2021.
+ 
+Roy Kuku
+Ombudsman

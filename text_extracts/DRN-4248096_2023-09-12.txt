@@ -1,0 +1,114 @@
+DRN-4248096
+The complaint
+Mr V complains that Revolut Ltd wont refund payments sent from his account which he 
+didnt make or otherwise authorise.
+What happened
+The full details of this complaint are well known to both parties, so I wont repeat them again 
+here. Instead, Ill provide an overview of the key events and focus on giving my reasons for 
+my decision. I would, however, like to reassure both Mr V and Revolut that Ive read and 
+considered everything thats been submitted to this office.
+Mr V received a text from someone purporting to be the post office saying that he 
+had missed a delivery and needed to click on a link to rearrange it. Mr V says he was 
+expecting a delivery, so he clicked on the link and entered his card details to pay a 
+re-delivery free believing this was necessary.
+Around a week later, Mr V received a call from a scammer impersonating Revoluts 
+fraud detection department. He was told suspicious transactions had been detected, 
+one of which  a card payment for £25.98  had been successfully transacted. 
+Under the guise of protecting his money, the scammer got Mr V to share a One Time 
+Passcode (OTP) which they claimed had been sent to him by Revolut to initiate the 
+process of closing his account. Mr V realised hed been scammed when he 
+discovered two card payments  £1900 and £440  to a cryptocurrency exchange 
+had been made shortly after he shared the OTP.
+Mr V reported the matter to Revolut and it refunded the initial transaction of £25.98, 
+which it deemed valid for a chargeback. But for the remaining two transactions, it 
+said they were made using Apple Pay and as Mr V had enabled the fraudster to set 
+up Apple Pay on their device by sharing the OTP, it considered the transactions 
+authorised and didnt refund or raise a chargeback.
+The matter was then referred to our service and our investigator was satisfied that 
+Mr V didnt authorise the transactions. But they concluded that hed failed with gross 
+negligence by not keeping his security details safe. The investigator also concluded 
+that Revolut didnt miss an opportunity to prevent Mr Vs loss So, it didnt need to do 
+anything further regarding the two transactions still in dispute.
+Mr V didnt agree and asked for his complaint to be reviewed by an ombudsman.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I agree with the outcome reached by the investigator for these reasons:
+In line with the Payment Services Regulations 2017 (PSRs), broadly speaking, Mr V 
+isnt liable for payments he hasnt authorised, unless he failed with intent or gross 
+negligence to comply with the terms of the account or keep his personalised security 
+details safe. And Mr V is liable for payments hes authorised. 
+To consider a payment authorised, the PSRs explain that Mr V must have given his 
+consent to the execution of the payment transaction  and that consent must be in 
+the form, and in accordance with the procedure, agreed between him and Revolut.
+To establish the agreed form and procedure, Ive reviewed the terms and conditions 
+that Revolut has referred us to. These dont set out in detail how Mr V consents to 
+making payments using Apple Pay. They simply say that Mr V can make payments 
+using his Revolut Card, which also includes a virtual card added to Apple Pay. So, 
+Ive thought about what practical steps are needed to make these payments. It 
+seems Mr V would have needed to use his Apple device and its associated 
+biometrics to make the payments via Apple Pay.
+Here, its not disputed that the transactions were authenticated correctly. But it wasnt 
+Mr V who used the Apple device to make these disputed payments with the 
+merchant. Instead, its agreed a fraudster set up Apple Pay on their own device with 
+Mr Vs card details and then used it to make the payments. But Mr V didnt consent to 
+these payments being made  I dont think he used the agreed form and procedure 
+to provide his consent to them being made. As such, under the PSRs, these payment 
+transactions are considered unauthorised.
+Mr V could still be held liable for payments he didnt authorise if he failed with intent 
+or gross negligence to comply with the terms of the account or keep his personalised 
+security details safe. I dont find that Mr V intentionally failed to keep his account or 
+security details safe. I say this because hes told us he was sceptical when the 
+fraudster asked him to share the OTP. Mr V initially told them he preferred to call 
+back before proceeding. Hes also said he considered messaging Revolut through its 
+in-app chat function. These arent actions of someone who would intentionally 
+disclose their personalised security details.
+I do, however, consider that Mr V failed with gross negligence to keep his 
+personalised security details safe. From what hes told us, he was aware the OTP 
+that Revolut sent him was for setting up Apple Pay on an Apple device. Indeed, just a 
+week prior he had received the same message (with a different OTP) when he was 
+genuinely setting up Apple Pay on his new Apple device. Whats more, Ive seen the 
+text message containing the OTP as Mr V has forwarded a screenshot. It says, 
+Dont share this code with anyone, even if they claim to be from Revolut. 
+I find that there were red flags  the OTP wasnt for initiating the account closure as 
+the fraudster had claimed, and there was a warning not to share it with anyone  and 
+they ought reasonably to have given Mr V cause for concern that his Revolut account 
+was at risk. By his own admission, he was sceptical at various points during the call. 
+In addition to what Ive already mentioned, hes told us he moved funds from his 
+Vaults into his main account under the fraudsters instructions, but not before 
+freezing all active cards. But the fraudster told him to unfreeze them, resulting in what 
+he refers to as his greatest hesitation. Mr V has explained that happened because 
+he understood the implications of someone having access to his card and the Apple 
+Pay OTP code. While I fully acknowledge the fraudster had created a sense of panic, it is also clear 
+that Mr V was sufficiently aware of the risks involved in divulging his personalised 
+security credentials. I think most people in that situation would not have gone ahead. 
+But Mr V disregarded an obvious risk by proceeding with the scammers instructions 
+and that led to the money being taken from his account. On this occasion, I find that 
+Mr Vs actions were significantly careless, and so hes liable for the disputed 
+transactions. 
+Ive also considered Revoluts responsibility to protect customers from financial harm 
+when theres an identifiable risk that they might be subject to fraud or scam. While I 
+recognise that Mr V lost just over £2,300 in two transactions, and I know he feels 
+strongly that they were uncharacteristic for his account activity, I dont consider the 
+transactions were that unusual such that I think Revolut ought to have paused them 
+and made further enquiries. Considering Revoluts wider responsibilities as an 
+electronic money institution, I dont think it ought to have regarded the transactions 
+as suspicious or an indication that Mr V might have been at the risk of falling victim to 
+a scam. So, I dont consider it was unreasonable for Revolut to have released the 
+payments.
+Ive also thought about Revoluts actions in relation to the recovery of payments after 
+it became aware of the situation. As these were debit card transactions, the only 
+avenue here would have been a chargeback. And given the merchant the payments 
+were made to would have provided the service  conversion of money into 
+cryptocurrency  even if Mr V didnt benefit from it, its unlikely that a chargeback 
+would have been successful.
+In summary, I recognise that this will come as a considerable disappointment to Mr V. But in 
+the circumstances, Im not persuaded that Revolut can fairly or reasonably be held liable for 
+his loss. 
+My final decision
+For the reasons given, my final decision is that I dont uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr V to accept or 
+reject my decision before 10 October 2023.
+ 
+Gagandeep Singh
+Ombudsman

@@ -1,0 +1,136 @@
+DRN-3475717
+The complaint
+Mr A complains to LMAX Broker Limited about charges for his overnight positions as well as 
+problems updating his payment method which resulted in him having to close positions and 
+incur losses.
+What happened
+Mr A had a trading account with LMAX. In March 2021, he tried to update an expired 
+payment card that was linked to his account. As he had trouble in doing so, he asked LMAX 
+for help, but it wasnt able to make the changes Mr A required  instead, errors prevented 
+any changes from being made and suggested a transaction was still pending on the card. 
+As he wasnt able to add his new card, Mr A says he was prevented from carrying out his 
+preferred trading strategy and was unclear when the problem would be resolved. He says 
+the frustration that followed led him to close his positions earlier than he intended, resulting 
+in losses of over $7,000. 
+Mr A complained to LMAX about whatd happened. He also raised concerns about the 
+charges incurred for holding overnight positions which he felt were excessive. He said he 
+was told by LMAX that depending on the direction of his trade, he would receive a credit 
+rather than be charged  but this hadnt ever happened. And he highlighted that in one week 
+alone hed paid around $2,100 in fees on an account worth $12,400. 
+LMAX considered Mr As complaint but didnt agree itd done anything wrong. It said it wasnt 
+responsible for the losses Mr A said hed incurred due the issues in updating his card details. 
+It also said the swap charges had been applied in line with its charging structure. Mr A didnt 
+agree and felt charges at a rate of 17% a week were too high. He also said that LMAX noting 
+charges within its terms was one thing, but incurring them was another  he thought all 
+clients would be shocked with how charges worked in practice. And he made reference to 
+his trading strategy which involved multiple daily deposits from card, so he didnt think a 
+bank transfer was a viable option for him given the delay involved. 
+As Mr A remained unhappy with LMAXs answer, he asked for our help. One of our 
+investigators looked into whatd happened, but he didnt think the complaint should be 
+upheld. He said, in summary:
+- LMAX wasnt responsible for the card payment issues and the availability of its 
+services had been explained in its terms and conditions, 
+- Mr A didnt attempt other payment methods prior to closing his positions,
+- and the swap fees had been applied in line with LMAXs charging terms and were 
+payable due to the type and direction of position he had open.
+Mr A explained that he hadnt tried other payment methods as there was a 10 day delay 
+when he initially deposited money using a bank transfer  so this wasnt a feasible 
+alternative. Our investigator considered that point, but found LMAX had made that money 
+available to trade within a few hours, so he didnt agree there was nothing else Mr A couldve 
+done. Mr A also felt LMAX, as a regulated firm, shouldnt have charged as much as it had  
+he felt the way charges were worked out was unclear and that the regulator ought to 
+intervene in the market. As an agreement wasnt reached, the complaint was been passed to 
+me to consider.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Payment card issues
+LMAXs platform allows a maximum of three payment cards to be saved for use at any time 
+ it reasonably explains that this restriction is in place to help it work in line with anti-money 
+laundering regulations and to reduce the risk of layering. As Mr A already had three cards 
+saved  including the card he wanted to change  he needed to remove at least one card 
+before being able to add another. While Mr A found this maximum of three cards 
+inconvenient, I dont find this to be unfair as LMAX allowed a reasonable number of payment 
+cards to be added at any one time  as well as allowing payments by alternative means, 
+such as bank transfer.
+It isnt in dispute that Mr A had issues updating his card details on LMAXs systems  I have 
+considered the email trails which show Mr A raising the issue, LMAX trying to help and it 
+acknowledging there had been a problem. But it doesnt necessarily follow that LMAX did 
+something wrong and ought to compensate Mr A because of it. Instead, we must think about 
+what could reasonably have happened at the time. 
+Mr A points us to his trading strategy and says its important hes able to add new funds 
+when he needs to. But it appears he was still able to add funds  he had two other cards 
+attached to his account and LMAX tell us that neither of those had expired, so it appears he 
+could have used one of them. I note Mr A withdrew his balance to one of these cards too, 
+which suggests it was in use. 
+Even if he couldnt have used the other two cards to add funds, he could have tried to delete 
+one of those instead and replace it with his new card. I cant see he tried to do this, or that 
+he asked LMAX to do it for him. Mr A could also have done a bank transfer  while this may 
+not have been as instantaneous, it doesnt appear his previous experience with one took as 
+long as he recalls or that it was delayed because of an error or omission on LMAXs part.
+For these reasons, I dont think its fair to say LMAX caused Mr A losses by forcing him to 
+close out his positions. Instead, he chose not to explore alternative ways of funding to keep 
+them viable and his strategy in play. I also cannot see Mr A shared his concerns about his 
+strategy or positions with LMAX, so I dont think it would be fair to say it should have done 
+any more to help in the circumstances. 
+As our investigator pointed out, LMAXs terms account for situations such as these  where 
+technical issues occur. And I think its reliance on those terms is fair. It is unclear as to why a 
+pending transaction appeared  but while this may have been due to a problem with LMAXs 
+system, I dont think this changes things for Mr A given the alternatives he had available. 
+I understand why Mr A feels frustrated by what happened, however, Ive not seen evidence 
+that LMAX did anything wrong. Ive also not seen that Mr A took reasonable steps to fund his 
+account or try replacing another card.  Because of this, it wouldnt be fair to say LMAX is 
+responsible for the losses Mr A experienced when closing his positions. 
+The chargesThe sort of leveraged trading Mr A was doing with LMAX attracted charges for holding 
+positions open overnight and is standard practice. Despite this, what was important was for 
+LMAX to be clear about the charges that applied  including how itd work them out and 
+when theyd apply. From all that I have seen, LMAX did make this clear. I say this because 
+when opening his account, Mr A agreed to LMAXs terms which referenced financing 
+charges  these referred Mr A to both the instrument information document, where these 
+would be set out as well as the trading manual, for examples of these in practice.
+The instrument information document LMAX confirms was in place at the time set out that 
+the finance charge for Energy CFDs as an example was calculated as Swap Point x Tick 
+Value x Number of Open Contracts x Number of Days Rolled.
+LMAX has provided detailed information about how Mr As swap charges were calculated. 
+These show the swap points for the trade, which LMAXs platform wouldve shown prior to 
+the trade being entered into, the number of days rolled over and the quantity  for the crude 
+oil positions the tick value would be 0.01. I have checked LMAXs methodology and am 
+satisfied that it correctly applied the formula to Mr As positions.
+Whether Mr A paid or received the swap charge depended on the swap point and direction 
+of a position as explained in an email hes shared with us  this said:
+If you hold a short position, and swap point is positive  you will receive the financing 
+charge;
+If you hold a short position, and swap point is negative  you will pay the financing
+A similar message in relation to Mr As currency pairs was also conveyed in the trading 
+manual at 8.4:
+A negative swap point if you are net long the FX pair will result in your Account being 
+credited, and you will receive funding. A positive swap point charge when long will result in 
+your Account being debited and you will pay funding. If your position is net short, then a 
+negative swap point charge will result in your Account being debited and you will pay funding 
+and a positive swap point will result in your Account being credited, and you will receive 
+funding.
+I appreciate Mr A doubts it was possible to receive the swap charge given he didnt, but as 
+explained above, whether it was received was dependent on trading activity. Mr A hasnt 
+pointed us to an example of LMAXs failure to credit him in a qualifying position. Instead it 
+appears Mr As activity didnt lead to any of the circumstances where he would receive the 
+charge instead of paying it. When applying the above to the short oil positions that resulted 
+in the higher charges, as these had negative swap points, that meant the swap charge would 
+be charged to his account for holding that position into the next day.
+Most of the swap charges Mr A accrued were fairly small. The charges which were 
+particularly high  prompting his complaint  attracted a swap point of around -9, or in high 
+quantities of around 25 to 35 lots. When taking into account the swap points as well as the 
+direction and size of the positions, these charges became higher than what Mr A 
+experienced before. So though I appreciate Mr A paid some higher fees, these were in line 
+with the positions hed opened rather than any mistakes being made. 
+While I understand and appreciate Mr As frustration, LMAX had clearly set these out and 
+from everything we can see, it applied them fairly too. There are complexities to the way 
+charges work and I acknowledge Mr A may not have fully appreciated the effect theyd have, 
+but that doesnt mean that LMAX has treated him unfairly  instead the charges were 
+disclosed and applied correctly. Because of this, we cannot now say the charges were 
+applied unfairly or were too high.My final decision
+For the reasons explained, I dont uphold Mr As complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr A to accept or 
+reject my decision before 5 January 2023.
+ 
+Aimee Stanton
+Ombudsman

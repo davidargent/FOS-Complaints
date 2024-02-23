@@ -1,0 +1,83 @@
+DRN-2884531
+The complaint
+Miss L complains that Monzo Bank Ltd (Monzo) allowed her to deposit transactions to a 
+gambling company, despite having a gambling block on her account. 
+What happened
+In September 2020 Miss L made several payments to a gambling merchant. She complained 
+to Monzo as she was meant to have a gambling block on her account, but instead they had 
+let all of the transactions go through. As a resolution to her complaint she would like a refund 
+of all the payments made. 
+Monzo explained that they allowed the transactions to go through as the merchant had 
+identified itself as a business not associated with gambling, not because of a fault with 
+Monzos system. 
+They said the gambling block feature works by blocking merchants who identify themselves 
+as being part of the gambling industry. This is done using their Merchant Category Code 
+(MCC) which is set by Mastercard. If the merchants MCC is gambling related any 
+transactions are blocked, but if its not, the payments are allowed to go through. 
+Monzo explained the merchant used by Miss L used a code that identified it as a clothing 
+and accessory shop meaning the payments werent automatically blocked. It was only in 
+September 2020 that it was brought to their attention by a different customer. Following this, 
+all future payments were manually blocked. 
+Miss L has also said the transactions went through because she had used a virtual primary 
+account number (PAN), and not her Monzo cards PAN. She also considered the 
+transactions to be fraudulent as the merchant used the wrong MCC. 
+Monzo explained the transactions would have gone through on either PAN, and it was only 
+because the merchant had mis-declared their MCC that the payments hadnt been blocked. 
+They also said the transactions couldnt be classed as fraudulent as Miss L had authorised 
+them. They explained that if Miss L wanted a refund, she would need to contact the 
+merchant directly, or she could let them know if she wanted to raise a dispute. 
+Following Monzo blocking the payments to the first merchant, Miss L made payments to 
+different gambling merchants as well. These payments were also allowed to go through. 
+However when speaking with Monzo about the first merchant, Miss L didnt advise them of 
+the names of the other merchants she had processed payments with. 
+Our investigator was of the opinion that Monzo had acted fairly. He explained that as the 
+merchant hadnt used the correct MCC, there was little Monzo could do to block the 
+transactions. He also explained that once Monzo were made aware of the merchant, they 
+acted quickly to manually block any future transactions. 
+Miss L disagreed. She explained that while all transactions couldnt be flagged, the amount 
+and frequency of the ones she had made should have raised some alarm with Monzo. 
+Our investigators opinion remained the same. He explained that during a call with Monzo, 
+Miss L had the opportunity to let them know about the other merchants she had gambled 
+with but didnt. Overall he felt Monzo hadnt done anything wrong as they wouldnt have 
+been able to tell which transactions had been made for gambling purposes. 
+Miss L disagreed so the complaint has been passed to me for review. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having considered everything, I agree with the outcome reached by the investigator. I will 
+explain why. 
+When making my decision, I must decide whether or not Monzo have acted incorrectly. 
+When a gambling block is put in place, Monzo put together a list of codes that let them 
+identify gambling merchants. If a payment is made to one of these merchants, they do their 
+best to block it and stop it going through. 
+While I do appreciate it was very unfortunate that the incorrect MCC was used by the 
+gambling merchant, I cant say that Monzo were at fault for not blocking the transactions, as 
+they werent to know what they were. 
+As soon as Monzo were made aware in September 2020, they acted quickly to manually 
+block all future transactions. 
+In relation to the PAN used by Miss L, Im satisfied that the transactions would have gone 
+through regardless of which one she used. This is because the issue was solely with the 
+MCC rather than how the payments were made. 
+I also note that Miss L has said that the merchant has committed fraud by using the incorrect 
+MCC. While I cant look into this in any detail, I would consider that as Miss L has confirmed 
+she made and authorised the payments, knowing they were going to a gambling merchant, 
+they wouldnt be considered fraudulent. However Miss L can raise this directly with the 
+merchant if she wishes to. Monzo have also said they will raise a dispute on her behalf. 
+In relation to the other transactions that were made, I am of the same view. The names of 
+the merchants wouldnt indicate clearly that they were used for gambling. So it wouldnt be 
+fair of me to say that Monzo should have blocked the transactions. I know that Miss L has 
+said they were all the same merchant but with different names, however regardless of the 
+different names, I dont think it would be reasonable for Monzo to spot they were used for 
+gambling purposes. 
+Overall, given everything, I havent seen anything to suggest that Monzo have made any 
+errors here. I do empathise with Miss L and it is very unfortunate that the gambling merchant 
+was using the wrong MCC. But it wouldnt be fair of me to say it was Monzos fault that the 
+transactions went through. As soon as they became aware they blocked any future 
+payments. 
+Because of this, I wont be asking them to do anything further. My final decision
+My final decision is that I do not uphold this complaint. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Miss L to accept or 
+reject my decision before 26 October 2021.
+ 
+Danielle Padden
+Ombudsman

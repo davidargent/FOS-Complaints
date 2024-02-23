@@ -1,0 +1,106 @@
+DRN-4300268
+The complaint
+Mr A complains that Wise Payments Limited (Wise) wont refund over £45,000 he lost to a 
+scam.
+What happened
+The details of this complaint are well known to both parties, so I wont repeat everything 
+again here. Instead, I will provide a brief summary and focus on giving the reasons for my 
+decision.
+Mr A fell victim to scam in September 2022 after he was contacted by someone who said 
+they could help him release the profits of a previous cryptocurrency investment hed made, 
+which was now sat in an account. He downloaded remote access software and allowed the 
+scammer to open an account with Wise in his name, as he was told he had to pay various 
+fees in order to release his profits. Mr A then made the following payments from his newly 
+opened Wise account to purchase cryptocurrency, which was then paid on to the scammer:
+Date Payment method Payee Amount
+19/09/2022 Transfer F (private individual) £7,500
+19/09/2022 Transfer F (private individual) £2,480 
+20/09/2022 Transfer F (private individual) £9,900
+21/09/2022 Transfer F (private individual) £10,500
+22/09/2022 Card Binance £4,995
+22/09/2022 Card Binance £5,000
+22/09/2022 Transfer I (private individual) £4,995
+Total: £45,278
+Mr A realised hed been scammed when he was asked to pay a further fee of £20,000. He 
+reported the fraud to Wise, but it said it wouldnt refund the money hed lost as hed 
+authorised the payments. 
+Our investigator also didnt uphold the complaint. She thought Wise ought to have provided 
+a tailored scam warning in light of the payments Mr A was making, but she didnt think this 
+wouldve ultimately prevented the scam as Mr A hadnt been honest when he was asked the 
+reason why he was making the payment, so it wouldnt have been able to provide an 
+impactful warning as a result. Mr A disagreed, so the matter has been escalated to me to 
+determine. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I agree with the conclusions reached by the investigator and have decided 
+not to uphold it for the following reasons:
+It isnt in dispute that Mr A authorised the disputed payments he made from his Wise 
+account. The payments were requested using his legitimate security credentials provided 
+by Wise, and the starting position is that firms ought to follow the instructions given by 
+their customers in order for legitimate payments to be made as instructed.
+However, Ive considered whether Wise should have done more to prevent Mr A from 
+falling victim to the scam, as there are some situations in which a payment service 
+provider should reasonably have had a closer look at the circumstances surrounding a 
+particular transfer. For example, if it was particularly out of character.
+Wise doesnt consider the payment activity on Mr As account to have been unusual 
+enough to have warranted an intervention. However, Mr A opened his Wise account on 
+13 September 2022. Prior to the first scam transaction of £7,500 on 19 September, he 
+had only made small payments to himself not exceeding £1,000. So, I think Wise ought 
+reasonably to have seen a £7,500 payment to a new payee as higher risk given it 
+marked a change in how the account had been used, such that, at this early stage, it 
+should have provided Mr A with a written warning that broadly covered scam risks. 
+However, Im not persuaded that any such general warning would have likely prevented 
+Mr A from continuing to make the payment. Theres nothing to suggest he was uncertain 
+or sceptical about what he was doing, for example, as he thought he was dealing with 
+genuine firms such as Revolut, Wise and Binance who were asking him to pay different 
+fees. The scam also wasnt a typical investment scam, so I dont think any general 
+warnings about how they tend to operate wouldve resonated with Mr A. Indeed, I can 
+see that he was presented with a general scam warning on 22 September 2022, but he 
+still chose to continue with the payment. 
+Its arguable that Wise shouldve sought to provide a more tailored written scam warning 
+by seeking to narrow down the purpose of the transaction when he made the third and 
+fourth payments, as payments escalating in value being made to the same payee can 
+often be indicative of fraud. However, even if Wise had sought to narrow down the 
+purpose of the payment to provide a more tailored scam warning, Im not persuaded this 
+wouldve ultimately prevented Mr A from falling victim to the scam either.
+I say this because Mr A said he was under the impression that he was paying fees to 
+Revolut, Wise and Binance in order to carry out liquidity checks, as well as paying taxes 
+and money laundering fees. However, when he was asked to select a reason for the 
+payment, Mr A said he was sending money to friends and family. I appreciate this may 
+have been selected by the scammer who was helping Mr A to make the payments via 
+remote access software. But it ultimately means that Wise wouldve been prevented from 
+providing a tailored scam warning. It also means that any further questioning wouldnt 
+have revealed the scam either, as the scammer would have likely been telling Mr A to 
+continue providing misleading answers. 
+Given Mr A was also paying an individual rather than a company, the reason he gave 
+wouldnt have appeared inconsistent with the payee and wouldve given Wise less cause 
+for concern that he was at risk of financial harm. I appreciate he later went on to send money to Binance, but I dont think the value of these payments were significant enough 
+to warrant a further intervention from Wise, as it was less than the amounts hed already 
+paid from the account, so it wouldnt have appeared overly unusual.
+So, in these circumstances, I dont consider it would be fair and reasonable to hold Wise 
+liable for Mr As loss, because it seems more likely than not that he would have always 
+made the payment to the scammers, notwithstanding any scam warnings or intervention 
+Wise couldve given.
+Ive also thought about whether Wise couldve done more to recover the money Mr A lost 
+after he reported the scam. In terms of the transfers, Wise has explained that the 
+individuals he paid were legitimate Wise customers using its platform for peer-to-peer 
+crypto trades. And given they had provided the crypto in exchange for the money Mr A 
+paid, (which he then transferred on to the scammer) there wouldnt have been any fair 
+and reasonable basis on which it could seek to recover the funds from those individuals 
+accounts. 
+Similarly, in terms of the card payments made to Binance, I can see that Wise attempted 
+to recover the funds via a chargeback claim, which was successfully defended by the 
+merchant. And given there wouldve been no reasonable prospect of the claims 
+succeeding (seeing as Mr A received the crypto asset he paid for), I dont think Wise has 
+acted unreasonably by failing to pursue the chargeback claims any further.
+I appreciate this will likely come as a disappointment to Mr A, and Im sorry to hear he has 
+been the victim of a cruel scam. However, Im not persuaded Wise can fairly or reasonably 
+be held liable for his loss. 
+My final decision
+For the reasons given above, I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr A to accept or 
+reject my decision before 12 January 2024.
+ 
+Jack Ferris
+Ombudsman

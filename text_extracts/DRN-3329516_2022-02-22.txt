@@ -1,0 +1,134 @@
+DRN-3329516
+The complaint
+Mr and Mrs V complain that The Royal Bank of Scotland Plc (RBS) denied them access to 
+the money in their combined mortgage and current account when they introduced two-factor 
+authentication. Although Mrs V has consented to this complaint all our communication has 
+been with Mr V. So, for ease of reading, Ill refer only to him.
+Mr V says the changes RBS made were excessive and obstructive and forced them to 
+move their mortgage and current account elsewhere because the RBS account no longer 
+offered the functionality that it would be reasonable to expect a current account to offer.
+What happened
+In November 2019 Mr V found that he couldnt move money from his RBS account to an 
+existing payee (another bank account in Mr Vs name) because the transfer required two-
+factor authentication and he couldnt complete it without a card reader. Mr V complained to 
+RBS.
+On 12 November 2019 RBS rejected Mr Vs complaint. They said theyd introduced two-
+factor authentication in response to new regulations and that customers had been given 
+notice that theyd now need a mobile phone or their debit card and a card reader to access 
+online banking and carry out banking and payment activities online.
+What Mr V told us
+Mr V told us he found the expectation that he should carry a card reader with him 
+ridiculous. He thought it was a symptom of the fact that the type of account he had with 
+RBS was held on a legacy system and there hadnt been sufficient investment in the 
+technology. He said that hed had to stop his salary being paid into his RBS account 
+because he couldnt readily access his money. Hed also moved his mortgage and paid 
+around £880 to do so. He said he wanted to be compensated for that, for the extra interest 
+he was now paying on his mortgage and for the inconvenience hed been caused.
+He told us RBS hadnt offered him another method of authenticating online payments except 
+the card reader, but that hed have been happy with any method that didnt necessitate him 
+having to carry something additional. He said hes a mobile phone user who always has the 
+most up-to-date smart phone, so if RBS had offered him a way of authenticating using his 
+mobile phone, hed have used it. He was adamant he wasnt offered the option of receiving 
+authentication codes (one-time passcodes  OTPs) to his mobile phone, and was only ever 
+presented with the option to generate a code using the card reader.
+What RBS told us
+RBS told us that theyd introduced two-factor or strong customer authentication (SCA) in 
+response to the Payment Services Directive 2 (PSD2). They said theyd made customers 
+fully aware that these changes were coming and what theyd need to do. So, they didnt think 
+theyd done anything wrong. They also said they couldnt explain why Mr V couldnt use 
+mobile phone authentication as this option was available to him.
+Our investigators view
+Our investigator partly upheld Mr Vs complaint. She said RBS hadnt done anything wrong 
+by implementing SCA and requiring two-factor authentication for online banking and 
+payment activities. She also said RBS had given Mr V a viable option for authentication in 
+the form of a card reader. But she thought RBS should have made it clearer to Mr V that 
+using a card reader wasnt his only option and that he could avoid having to carry the card 
+reader and authenticate using his mobile phone. She said she was satisfied mobile phone 
+authentication was offered by RBS but had seen nothing to evidence this option had been 
+offered to Mr V. So, she said RBS should pay Mr V £100 to acknowledge hed suffered some 
+personal inconvenience from having to carry the card reader when he didnt need to.
+Responses to the view
+Mr V didnt accept that outcome. He said a card reader might have been a viable option, but 
+it wasnt a reasonable one. He said hed been forced into a situation where hed not been 
+able to access the money in his account without carrying a card reader around. He said, I 
+simply couldnt access my cash, pay bills, pay for services, move cash between accounts 
+etc. So, he didnt think £100 was fair compensation. He said the changes had made him 
+move his account and mortgage and he wanted to recover the fees hed had to pay to do 
+that.
+He also disputed that RBS had offered all customers the option to authenticate using a 
+mobile phone. And he said he was unhappy customers werent provided with any 
+opportunity to object to this major change.
+RBS agreed to pay the £100 compensation our investigator had recommended. They also 
+confirmed that the option to authenticate with an OTP received to a mobile phone had been 
+rolled out to [their] whole customer base.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, although Im sorry Mr V and Mrs V are likely to be disappointed, I have 
+reached the same outcome as our investigator did and for broadly the same reasons. Ill 
+explain why.
+The Payment Services Regulations 2017 (the PSRs) Reg. 100, which came into force on 
+14 September 2019, says that a payment service provider (PSP) must apply strong 
+customer authentication where a payment service user accesses its payment account 
+online, initiates an electronic payment transaction; or carries out any action through a remote 
+channel which may imply a risk of payment fraud or other abuses.
+Strong customer authentication (SCA) is defined in the PSRs. It means:
+authentication based on the use of two or more elements that are independent, in 
+that the breach of one element does not compromise the reliability of any other 
+element, and designed in such a way as to protect the confidentiality of the 
+authentication data, with the elements falling into two or more of the following 
+categories
+(a)     something known only by the payment service user (knowledge);(b)     something held only by the payment service user (possession);
+(c)     something inherent to the payment service user (inherence);
+The Financial Conduct Authority (FCA) and UK Finance have both issued guidance to PSPs 
+on the implementation of SCA. The FCA in its guidance document Payment Service and 
+Electronic Money  Our Approach says:
+We encourage firms to consider the impact of strong customer authentication 
+solutions on different groups of customers, in particular those with protected 
+characteristics, as part of the design process. Additionally, it may be necessary for a 
+PSP to provide different methods of authentication, to comply with their obligation to 
+apply strong customer authentication in line with regulation 100 of the PSRs 2017. 
+For example, not all payment service users will possess a mobile phone or smart 
+phone and payments may be made in areas without mobile phone reception. PSPs 
+must provide a viable means to strongly authenticate customers in these situations.
+UK Finance has also issued guidance to businesses detailing a non-exhaustive list of 
+authentication methods a PSP can employ to satisfy the possession element of SCA. 
+These include possession of a card evidenced by use of a card reader, and possession of a 
+device evidenced by an OTP generated by or received on a device (i.e. a mobile phone).
+I think these regulations, and the associated guidance, mean that RBS were required to 
+implement two-factor authentication. They were also required to offer authentication 
+methods which are workable (viable) for customers who do not use mobile phones. But 
+neither the regulations nor the guidance is prescriptive about the authentication methods a 
+PSP must offer. Its clear there are a range of ways PSPs can authenticate customers and 
+not all PSPs will adopt the same range.
+So, I dont think RBS acted unfairly or unreasonably by implementing SCA or two-factor 
+authentication and I dont think they did anything wrong by offering a card reader as one of 
+their options for customers to use to satisfy the possession element of SCA. But when Mr V 
+made it clear hed prefer not to carry a card reader I think they could have done more to 
+guide him towards their other option  using a mobile phone to authenticate.
+Whilst Im satisfied that this was an option RBS offered for authenticating online activity for 
+this account, I think its more likely than not this option wasnt made explicitly clear to Mr V. 
+I say this because I think if it had been hed have taken it up. He is, after all, someone who 
+has no difficulty using mobile phone technology. Its for this failing in communication that I 
+think RBS should pay Mr and Mrs V £100 to remedy, because that failing led to Mr V 
+suffering the inconvenience of carrying a card reader when he didnt need to.
+However, I dont agree with Mr V that he should receive more compensation or a refund of 
+the costs he incurred moving his mortgage. Ultimately, RBS were required to implement 
+SCA measures and using a card reader was a legitimate method for them to employ to 
+satisfy the possession element of the regulations. Mr V had no difficultly using the card 
+reader beyond not wanting to carry it with him. So, whilst I appreciate that hes entitled to his 
+preferences about that, I cant say RBSs adoption of the card reader as an SCA method 
+was unreasonable, or unviable, or justified Mr Vs decision to move his mortgage. It follows 
+that I dont think thats something RBS need to compensate him for.
+Putting things right
+As I dont think RBS did enough to let Mr V know he could use his mobile phone to 
+authenticate instead of a card reader, I find he suffered the inconvenience of having to carry a card reader when he could have opted not to. So, I require RBS to pay Mr and Mrs V £100 
+compensation as theyve already agreed to do.
+My final decision
+My final decision is that I partly uphold Mr and Mrs Vs complaint. The Royal Bank of 
+Scotland Plc should pay Mr and Mrs V £100 compensation as theyve already agreed to do.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mrs V and Mr V to 
+accept or reject my decision before 22 March 2022.
+ 
+Beth Wilcox
+Ombudsman

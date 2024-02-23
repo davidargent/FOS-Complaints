@@ -1,0 +1,88 @@
+DRN-4066117
+The complaint
+Miss Z complains that Monzo Bank Ltd failed to refund several transactions she didnt 
+recognise.
+What happened
+Miss Z noticed that several payments had left her account that she didnt recognise. These 
+were to merchants who appeared to sell crypto currency.
+Miss Z told Monzo she didnt recognise the transactions and didnt know how they could 
+have been made. She confirmed that no one had her login details for her account and she 
+hadnt given anyone else access to her card, phone or account.
+Monzo looked into the transactions and determined that all the disputed transactions were 
+made using access to Miss Zs phone and required additional security steps in order to 
+authorise the payments (called 3DS). Monzo declined to refund Miss Z as they didnt think it 
+was possible that anyone else could have made them using Miss Zs phone. Monzo also 
+decided to close Miss Zs account.
+Miss Z was unhappy with Monzos approach and made a complaint to the Financial 
+Ombudsman Service for an independent review. The complaint was looked into by one of 
+our investigators who asked both parties for information about the situation.
+Miss Z continued to deny she had anything to do with the transactions and Monzo supplied 
+details about the payments.
+After considering the evidence, the investigator didnt uphold Miss Zs complaint as he 
+thought she was likely responsible for the transactions. He also thought the pattern of 
+payments wasnt representative of how a thief would utilise a stolen card because funds 
+were left in the account.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+The relevant law surrounding authorisations are the Payment Service Regulations 2017. The 
+basic position is that Monzo can hold Miss Z liable for the disputed payments if the evidence 
+suggests that its more likely than not that she made them or authorised them. 
+Monzo can only refuse to refund unauthorised payments if it can prove Miss Z authorised the 
+transactions, but Monzo cannot say that the use of the card details for online payments 
+conclusively proves that the payments were authorised. 
+Unless Monzo can show that consent has been given, it has no authority to make the 
+payment or to debit Miss Zs account and any such transaction must be regarded as 
+unauthorised. To start with, Ive seen the banks technical evidence for the disputed 
+transactions. It shows that the transactions were authenticated using the payment tools 
+issued to Miss Z. Ill now need to consider the information provided by both parties to 
+determine whether theres sufficient evidence to hold Miss Z responsible for the disputed 
+transactions or not.
+Miss Z has denied knowing anything about these transactions before they happened while 
+Monzo believe the evidence they have shows it could only have been her. 
+Miss Z has confirmed she hadnt given any of her security details to anyone else, so it 
+seems reasonable to conclude that whoever carried out these transactions wasnt someone 
+whod taken her details and phone without her knowledge because it would likely be readily 
+apparent to her at the time.
+Miss Z also confirmed she hadnt clicked on any suspicious links which would indicate that 
+her details werent somehow obtained through some form of social engineering/technical 
+attack on her account.
+Monzos evidence shows that Miss Zs usual device (phone) was used throughout the period 
+when the disputed transactions were taking place. What that means here is that Miss Z was 
+active on her Monzo account around the same time the payments were made.
+Each of the disputed transactions required an extra step to be made before they were 
+authorised and is referred to here as 3DS. This requires the user of the card to complete a 
+separate process to ensure the payment is being made by the appropriate card user. These 
+steps can take various forms, but often require the user to confirm a message through their 
+banking app. The evidence provided by Monzo shows that the 3DS challenge was 
+successful on each occasion.
+Considering this, it appears it would be unlikely that someone without access to the card 
+details and Miss Zs phone could have carried these out. When taking into account the use 
+of Miss Zs phone at the time of the disputed transactions, I think it unlikely the activity was 
+unrelated to the disputed transactions. For example, a payment was made for £799 on 5 
+December 2022 and the 3DS challenge was successfully completed at 23.27 hrs. The 
+corresponding log of activity from Miss Zs phone using the Monzo app shows she was using 
+it at 23.27 hrs  the same time. 
+Ive also thought about the pattern of the payments from the account. They were made in a 
+cluster around the same time but then stopped. The account was left with a healthy balance, 
+but this wasnt taken, which isnt how an unauthorised third party would tend to act. If a thief 
+or fraudster had taken Miss Zs money through some other means, why would they then 
+stop? Miss Z didnt notify Monzo for several hours after these transactions, so whoever 
+made them could have continued to empty the account.
+Taking into account the technical data about the payments, Miss Zs app usage from her 
+phone and the patterns of transactions, I think its more likely than not that she was 
+responsible for them, and it was reasonable for Monzo to hold her liable for them.
+Following Monzos investigation into Miss Zs claim, they decided to close her account and 
+gave two months notice. The account was later closed, although I understand there was 
+some confusion about the actual date of closure. Looking at the chat conversation, Monzo 
+advised Miss Z that it would close in the middle of February 2023 which is when it was 
+eventually closed. The terms of the account allow both parties to close it. In most 
+circumstances, Monzo are required to provide two months notice which they did here. I dont 
+think their decision to close the account was outside the agreed terms, so I wont be asking 
+them to do anything further regarding the closure.My final decision
+My final decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Miss Z to accept or 
+reject my decision before 27 June 2023.
+ 
+David Perry
+Ombudsman

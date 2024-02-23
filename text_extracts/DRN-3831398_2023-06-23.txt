@@ -1,0 +1,118 @@
+DRN-3831398
+The complaint
+Mr W complains that HSBC UK Bank Plc (HSBC) is refusing to refund him the amount he 
+lost as the result of a scam. 
+Mr W is being represented by a third party. To keep things simple, I will refer to Mr W 
+throughout my decision.
+What happened
+The background of this complaint is well known to all parties, so I wont repeat what 
+happened in detail.
+In summary, Mr W saw a breakfast news video on YouTube about a business called 
+Blueprint Capital (X) explaining how someone had made a lot of money using the investment 
+service it offered. After finding positive online reviews Mr W decided to call the number 
+shown on the video.
+X explained the investment process to Mr W and was very convincing. X asked for a large 
+investment to start but agreed with Mr W that he could start investing with a smaller amount.
+X explained that the investment had to be funded through a Coinbase wallet and as Mr W 
+didnt know how to do this X directed Mr W to download the screen sharing application 
+AnyDesk. This gave X access to Mr Ws device.
+X provided Mr W with access to a platform where he could see his investment. When the 
+investment started to fall X explained Mr W would need to invest more to see higher returns. 
+When Mr W explained he didnt have access to further funds X persuaded him to take 
+several loans and take money from his pension to fund the investment.
+By the end of the scam Mr Ws investment was showing a substantial balance. But when Mr 
+W attempted to make a withdrawal, he was asked for a large payment to cover taxes. The 
+website was then taken down and Mr W realised he had fallen victim to a scam.
+Mr W made the following payments to the scam from his HSBC account:
+Date Payee Amount Payment Method
+7 October 2021 Coinbase £550 Debit Card
+7 October 2021 Coinbase £500 Debit Card
+26 October 2021 Coinbase £24,500 Transfer
+18 November 2021 Coinbase £25,000 Transfer
+15 December 2021 Coinbase £25,000 Transfer
+Mr W was able to retrieve a small amount from the Coinbase account (£438.95) but other 
+than this he has been unable to recover any of the payments he made.
+Our Investigator considered Mr Ws complaint but didnt think it should be upheld. Mr W 
+disagreed so this complaint has been passed to me to decide. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+It has not been disputed that Mr W has fallen victim to a cruel scam. The evidence provided 
+by both Mr W and HSBC sets out what happened clearly. What is in dispute is whether 
+HSBC should refund the remaining funds Mr W lost due to the scam.
+Recovering the payments Mr W made
+Mr W made payments into the scam by both his debit card and the method of transfer.
+When a payment is made by debit card the only method of recovery HSBC has is to request 
+a chargeback.
+HSBC was unable to process a chargeback for the payments Mr W made in relation to this 
+scam to Coinbase.
+The chargeback scheme is a voluntary scheme set up to resolve card payment disputes
+between merchants and cardholders. The card scheme operator ultimately helps settle 
+disputes that cant be resolved between the merchant and the cardholder.
+Such arbitration is subject to the rules of the scheme, meaning there are only limited
+grounds and limited forms of evidence that will be accepted for a chargeback to be
+considered valid, and potentially succeed. Time limits also apply.
+Mr W was dealing with X, which was the business that instigated the scam. But Mr W didnt 
+make the debit card payments to the scammer directly, he paid a separate cryptocurrency 
+exchange (Coinbase). This is important because HSBC was only able to process 
+chargeback claims against the merchant he paid (Coinbase), not another party.
+The service provided by Coinbase would have been to convert or facilitate conversion of
+Mr Ws payments into cryptocurrency. Therefore, Coinbase provided the service that was 
+requested; that being the purchase of the cryptocurrency.
+The fact that the cryptocurrency was later transferred elsewhere  to the scammer  doesnt
+give rise to a valid chargeback claim against the merchant Mr W paid. As Coinbase provided 
+the requested service to Mr W any chargeback attempt would likely fail.
+I have considered whether Mr W should have received a refund under the Contingent 
+Reimbursement Model (CRM) code for the payments he made by transfer. But the CRM 
+code only applies when domestic payments (as the result of a scam) are sent to another 
+person. Here Mr W sent the payments to an account held in his own name and the scam 
+occurred when he moved his purchased crypto from that account to the scammer. Im 
+satisfied the CRM code wouldnt apply in this scenario.
+Should HSBC have reasonably prevented the payments Mr W made?
+Mr W has accepted he authorised the payments he made to Coinbase, so the starting point 
+here is that Mr W is responsible. However, banks and other Payment Services Providers 
+(PSPs) do have a duty to protect against the risk of financial loss due to fraud and/or to 
+undertake due diligence on large transactions to guard against money laundering.The question here is whether HSBC should have stepped in when Mr W was attempting to 
+make the payments, and if it had, would it have been able to prevent the scam taking place.
+I have considered the payments Mr W made into the scam. The first two payments, although 
+made to a new payee, were for relatively low amounts. It wouldnt be reasonable for me to 
+say HSBCs fraud prevention systems should be triggered every time a customer pays a 
+new business especially when that business appears to be legitimate as is the case here. 
+So, I dont think these payments would reasonably have triggered HSBCs fraud prevention 
+systems.
+The remaining three payments made into the scam were for significantly higher values. 
+However, the payments were spread out over three months and by the time Mr W made his 
+first payment he had already made two smaller successful payments to Coinbase without 
+complaint.
+In addition to the above I have looked over the payments Mr W has made from his account 
+in the 12 months prior to the payments he made into the scam. Mr W has previously made 
+large payments of up to the amounts he paid into the scam so Mr Ws account had a history 
+of sending large payments, and the sending of large amounts would not be considered 
+unusual when compared to the normal operating of the account.
+Mr W had also previously sent many payments to the business eToro, a platform 
+specialising in trading cryptocurrency and other assets. While Mr W has correctly pointed out 
+the two platforms are different, I think they share some similar attributes and as Mr W had 
+made numerous payments to eToro without any concerns over a long period of time, I think 
+these payments would have caused HSBC to have less concern over the payments Mr W 
+was making to Coinbase.
+Overall, I dont think it was unreasonable that the payments Mr W made into the scam did 
+not trigger HSBCs fraud prevention systems, so HSBC did not miss out on an opportunity to 
+prevent the scam and is therefore not responsible for Mr Ws loss.
+Mr W has said that the pattern of taking loans and incoming payments coming into his 
+account to then be sent directly to Coinbase should have triggered HSBCs fraud prevention 
+systems. But I dont think this is necessarily true as it wasnt unusual for Mr W to receive 
+funds to his account and transfer them elsewhere, and I dont think its reasonable to 
+suggest this should have been considered uncharacteristic behaviour that should cause a 
+trigger either.
+The Investigator in this case has also said the incorrect reasons Mr W gave when he applied 
+for a loan to fund the investment, and the content of a call recording from a separate case 
+showed that even if HSBC had intervened and discussed the payments with Mr W it is 
+unlikely Mr W would have given honest answers allowing HSBC to uncover the scam. 
+However, as I dont think it was unreasonable that HSBC didnt intervene when Mr W was 
+making the payments from his HSBC account, I have not made a finding on these points.  
+My final decision
+I dont uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr W to accept or reject my decision before 21 July 2023.
+ 
+Terry Woodham
+Ombudsman

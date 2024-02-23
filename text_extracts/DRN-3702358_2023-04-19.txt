@@ -1,0 +1,109 @@
+DRN-3702358
+The complaint
+Mr E is complaining that ActivTrades Plc closed his trading account and didnt return his 
+funds to him. 
+What happened
+Mr E started trading with ActivTrades in November 2020. He made some profits and 
+withdrew funds on a few occasions. But in April 2021 he was looking to buy a new car and 
+tried to withdraw the remaining funds in his account, just under £11,000. ActivTrades didnt 
+let him though  they emailed him a termination notice, saying hed breached clause 9.14 of 
+their Client Agreement by undertaking unfair arbitrage activity. They closed his account 
+with immediate effect and reversed all his transactions, setting his balance to nil, saying that 
+clause 27 allowed them to do so.
+Mr E says hes not very experienced in the industry but his understanding is that hes been 
+accused of manipulation. He refutes the allegations and says ActivTrades should have paid 
+out his funds and have treated him unfairly in not doing so.
+Our investigator looked into Mr Es complaint and said there was some evidence that Mr Es 
+trading in April 2021 was concerning. She didnt think ActivTrades had acted unfairly or 
+unreasonably, and instead had acted in line with the terms of the account. So she didnt 
+uphold Mr Es complaint.
+Mr E was unhappy with our investigators view and asked for a decision. In doing so, he 
+said:
+ActivTrades had determined hed breached the agreement by analysing just 110 
+trades out of over 4,000, focusing on his trades on the Nasdaq 100 and not 
+considering his trades on the Dow Jones. The low number of trades analysed is 
+statistically dismissive.
+Hed traded both indices with the same strategy  did ActivTrades find proof of 
+latency arbitrage across both indices? If not, then might this not stem from an internal 
+problem, like a difference in pricing quality across the two indices?
+Hed been sending market orders  if hed been trying to exploit latency hed have 
+used limit orders to ensure he got a specific price.
+Why did ActivTrades not pick up on these concerns before he wanted to withdraw his 
+money  it makes it look as though they didnt want to pay out the money theyd lost 
+on his account.
+ActivTrades have said he traded under an internal threshold  but he wouldnt have 
+known that. His trade sizes varied from 3 contracts up to 9 contracts.
+The assessment that hed exploited latency was based on 60% of 110 trades being 
+in profit after one second. But he calculated that his average holding time for a 
+position across the five months he had an account with ActivTrades was 15 minutes.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, and acknowledging Mr E will be disappointed, Im not upholding his 
+complaint. Whilst Ive considered all the points raised by Mr E, Im not addressing them all  
+I concluded it wasnt necessary in order to reach a decision on his complaint. Ill explain my 
+decision below.
+Did ActivTrades act fairly in deciding that Mr E had been undertaking unfair arbitrage 
+activity?
+My role is not to decide whether or not Mr E was undertaking unfair arbitrage activity  its to 
+consider whether ActivTrades acted fairly in making that decision. 
+Mr Es commented that ActivTrades have considered a very small sample of his trades 
+because theyve only looked at the last 110 of over 4,000 trades. But I dont think this 
+matters  if they were able to prove that Mr E had been using unfair arbitrage methods on 
+just one trade that would be enough to say that hed breached the terms and conditions. 
+ActivTrades didnt pick 110 trades that looked most like they might be unfair  they looked at 
+110 consecutive trades. Im satisfied that if the data in those 110 trades showed a 
+statistically significant trend it would be reasonable to decide Mr E had breached clause 9.14 
+based solely on those trades. 
+ActivTrades have explained that they used a relatively small sample because Mr E traded 
+through a bridge provider that they no longer support so they dont have access to the 
+providers tick data. So they used a smaller sample for the sake of detail, clarity and 
+conciseness. 
+Mr Es also commented that ActivTrades have looked only at his trades on the Nasdaq 100 
+and not on the Dow Jones. But, as I said above, they didnt need to decide that Mr E was 
+using unfair methods across the whole of his trading  so Im satisfied theyve acted fairly in 
+not including Dow Jones trades in their assessment. In response to my questions, 
+ActivTrades said they didnt believe Mr E was exploiting latency in his Dow Jones trades  
+instead they said they thought he was using this index to lock in profits made using latency 
+arbitrage at another broker. They said Mr E was using a method known as hidden two leg 
+latency arbitrage which is offered by various software providers and is difficult to spot. 
+ActivTrades also explained more about how theyd decided Mr E had been trading unfairly. 
+They said they use software to monitor all trades continuously. This classifies an order as 
+latency if it goes into profit in the first five ticks after opening or closing. They then review a 
+clients activity further if its deemed suspicious. ActivTrades said Mr E had appeared 
+consistently on the softwares report for over a month and so further analysis had been 
+carried out. 
+The further analysis showed at least 60% of Mr Es trades had been latency orders, going 
+into profit and overcoming the spread within one second. 
+Ive reviewed Mr Es trading history, and ActivTrades explanation. Im satisfied ActivTrades 
+have carried out a thorough assessment and acted fairly in reaching the conclusion that 
+Mr E had been exploiting latency to gain an unfair advantage.Do the terms and conditions allow ActivTrades to retain Mr Es profits?
+The Client Agreement says that if an Event of Default occurs, ActivTrades are entitled to 
+reverse trades they consider necessary or appropriate to cover, reduce or remove our loss 
+or liability. 
+The same agreement defines an Event of Default as including: any other circumstance 
+where we reasonably believe that it is necessary or desirable to declare an Event of Default 
+to protect ourselves or all or any of our other clients. Its clear from the Termination Notice 
+ActivTrades sent to Mr E that they consider a breach of clause 9.14 to be an Event of 
+Default. 
+Clause 9.14 includes the following:
+We do not permit the use of the Online Facility for unfair arbitrage activity or 
+otherwise taking advantage of internet delayswhich could adversely impact on fair 
+and orderly trading on the Online Facility, according to our judgement 
+you agree that using any device, software, algorithm, strategy or practice in your 
+dealings with us which means you are unlikely to suffer any downside market risk will 
+be evidence that you are taking unfair advantage of us.
+It seems reasonable that unfair arbitrage activity is treated as an Event of Default  it can 
+cause a business significant losses over a short period of time.
+Before his account was closed, Mr E had deposited £4,000 and withdrawn over £25,000. So 
+ActivTrades had already lost a significant amount on his account. He was seeking to 
+withdraw a further £11,000. Im therefore satisfied that ActivTrades acted in line with their 
+terms and conditions in reversing those trades rather than paying out the funds  it was an 
+appropriate action to take to reduce their losses.
+My final decision
+As Ive explained above, Im not upholding Mr Es complaint about ActivTrades Plc.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr E to accept or 
+reject my decision before 17 May 2023.
+ 
+Clare King
+Ombudsman

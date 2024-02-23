@@ -1,0 +1,289 @@
+DRN-4051609
+The complaint
+The complaint is about a number of put options Mr and Mrs G held on their account with 
+Saxo Capital Markets UK Ltd (Saxo), which were bought back by Saxo before their expiry. 
+Saxo says this was because there was insufficient margin available on Mr G and Mrs Gs 
+account. Mr G (who is representing him and Mrs G in this complaint) says there was 
+sufficient money in the account and Saxo made a mistake by buying back the options before 
+their expiry - the options should instead have been exercised at their expiry, and the shares 
+they related to acquired
+Background
+Mr and Mrs G held a trading account with Saxo. At the time of the event subject to complaint 
+they held two shareholdings in that account (long positions), and a number of put options 
+(short positions). Those put options were due to expire on 20 March 2020, at which point 
+they would automatically have been exercised. They were however closed out by Saxo 
+before they expired (I understand they were closed at 15:52 and due to expire at 16:00). 
+Saxo says the options were closed out because Mr and Mrs G did not have sufficient margin 
+(equity) available in their account. Saxo says the margin required was £287,320.55 and the 
+margin available on Mr and Mrs Gs account was £287,212.41. Mr G says those numbers 
+are wrong - that he and Mrs G had more than £287,212.41 margin available. This is the key 
+point of dispute - Mr and Mrs G feel they did have sufficient margin, and that Saxo made a 
+mistake. 
+There has been a lot of correspondence exchanged between Mr G and Saxo on this point, 
+and both have made detailed submissions to this service. I do not think it is necessary to set 
+out what has been said in detail here  but I will set out a brief summary, and I confirm I 
+have carefully considered it all. 
+In brief Saxo has set out in detail how the margin available was calculated. Mr G does not 
+accept these calculations and has provided his own, and has referred to screen shots of his 
+and Mrs Gs Saxo account in support of his calculations.  
+Mr G says there was £287,215.37 cash available on his and Mrs Gs account before he 
+made a £25,000 payment to his and Mrs Gs account at around 13:43 on 20 March 2020  
+(Saxo says this was an addition of £24,973.10 to his account, after a charge was deducted  
+a point Mr G now disputes). So he had £312,188.47 in total after the extra money was 
+added. He thinks that means he and Mrs G had sufficient margin available, and Saxo was 
+therefore wrong to close out the options. Mr G had also referred to a phone conversation he 
+had with Saxo before he made that payment, in which he says he was led to believe he only 
+needed to add a small amount to the account to ensure there was sufficient margin. 
+Saxo agrees £312,188.47 was the cash available on Mr and Mrs Gs account at the time. 
+But it says that was not the amount available for margin - the net equity for margin (NEFM) is 
+a different figure. Saxo says the £312,188.47 cash available figure included things which 
+could not be taken into account when considering what the NEFM was, and so the NEFM 
+was a lower sum (the £287,212.41 mentioned above). 
+Our investigators view 
+Our investigator considered the available evidence and concluded Saxo had not applied the 
+£25,000 Mr and Mrs G had transferred to it on 20 March 2020 to their account before the 
+options were closed out. And so he thought there had been an error, as there would have 
+been sufficient margin if the £25,000 had been applied to Mr and Mrs Gs account. 
+Saxo did not accept this view. It said, in summary: 
+It had provided evidence to show that the £25,000 deposit was applied to the account 
+prior to the close out (it provided further evidence on this point with its response).
+Notwithstanding this, there does not appear to have been proper consideration of the 
+fundamental fact that even with the £25,000 deposit, Mr and Mrs G were still £108.14 
+short of the margin requirements for the acquisition of the underlying assets at expiry, 
+and it is this shortfall that led to the close out.
+Mr and Mrs G could well have been in a worse financial position if had had not closed 
+them out when it did.
+I note, in his response to my provisional decision, Mr G has made a number of comments on 
+the above summary. To be clear, this is only intended to be a summary of what Saxo said in 
+its response to the investigator. I am not, at this point, making any findings  only relaying, in 
+summary form, what Saxo said. 
+Mr G did not accept the investigators view on how matters should be put right. Mr G said he 
+and Mrs G should be compensated by having the debits taken from their account on 20 
+March 2020 when the close outs happened reversed, being given all the shares they would 
+have received had the options been held to expiry (in return for the payments that would 
+have been due from them at the time) and any dividend income they would have received as 
+holders of these shares in the period since. 
+The complaint was then referred to me for consideration.  I asked Saxo for some further 
+information about how the NEFM was calculated, the information available to Mr and Mrs G 
+when they looked at their account online, and its comments on the phone conversation Mr G 
+had with it on 20 March 2020. My request and the response received was shared with Mr 
+and Mrs G when I made my provisional decision on this complaint.
+My provisional decision
+Rather than summarise my provisional findings, I have quoted them in full below: 
+The dispute is essentially about whether Mr and Mrs Gs put options should have been 
+closed out when they were. In my view, to decide what is fair and reasonable in the 
+circumstances, there are therefore two key things to consider  if Saxos calculation of the 
+margin available on Mr and Mrs Gs account was correct, and (if so) if Mr and Mrs G should 
+reasonably have known what the margin requirement was?
+To help me consider this, I asked Saxo for some further information about the calculation of 
+the NEFM, what information was available to Mr and Mrs G, and its comments on the 
+recording of the phone conversation which took place between Mr G and its representative 
+on 20 March 2020. I also shared Mr Gs latest submission to us with Saxo. 
+In its response Saxo has provided full copies of its calculation of the NEFM, example screen 
+prints of online accounts, which show how the cash, account value and margin details are displayed and its comments on the phone conversation Mr G had with it. 
+I know this will disappoint Mr and Mrs G but, having considered this alongside all the other 
+available evidence, I am not persuaded Saxo has done anything significantly wrong here. In 
+my view it has provided sufficient evidence to show the NEFM was correctly calculated and 
+(although I think its representative could have been clearer when Mr G called Saxo) that, 
+overall, sufficient information was available to Mr and Mrs G to allow them to understand 
+how much margin was available (and therefore whether there was enough in their account to 
+ensure the options were not closed out before their expiry) and sufficient steps were taken to 
+put them on notice of the need to monitor their account as the option expiry time 
+approached, and that their positions may be closed if there was insufficient margin. 
+In my view the option close outs happened not because of a mistake by Saxo but because 
+Mr and Mrs G did not fully understand how the NEFM was calculated or because they did 
+not monitor their account as the option expiry time approached; or because of a combination 
+of these two things. 
+I am satisfied the £25,000 sent to Mr and Mrs Gs account at around 13:43 on 20 March was 
+applied to the account by Saxo shortly after it was sent  and certainly before the close outs 
+happened. So I do not think the close outs were a result of Saxos failure to apply that 
+payment to the account. And I note Saxo and Mr G do now appear to agree on the amount 
+of cash (£312,188.47) which was available. 
+I am also satisfied the calculations Saxo has provided are clear evidence of the basis on 
+which the NEFM was calculated and, in my view, they offer a clear explanation of how the 
+relevant figure was arrived at in this case. The calculations set out what was factored into 
+the cash available figure and what was factored into the NEFM figure and, by doing so, 
+explain why the latter was lower than the former. So there is not, in my view, sufficient 
+evidence to show the £287,212.41 NEFM was incorrectly calculated. 
+The recording of Mr Gs call to Saxo suggests Mr G understood the amount available for 
+margin (before he added anything) was £287,215. Although Saxos representative did not 
+confirm that to be the case (nor did he confirm Mr Gs calculation of how much additional 
+money he needed was correct or that his proposed additional payment to the account would 
+be sufficient) I think he could have been clearer in what he said, and have referred Mr G to 
+the online account platform. However, the representative did take some steps to warn Mr G 
+that he and Mrs G may not have enough margin, to make them aware the margin 
+requirement would increase as the expiry approached. I note, for example, he said: 
+I would definitely add funds on the account, erm, because it wont take into the cost, er, 
+commission fees as well
+if you dont have enough funds in the account it will just start buying back your puts
+you would need to have the funds in the account. ..in order tobecause if you dont it will 
+do a kind of calculation  youll see the margin increase just before expiry and in doing so 
+you just need to make sure youve got the funds in the account
+It was ultimately the responsibility of Mr and Mrs G to monitor their account as the option 
+expiry time approached, to make sure they did have a NEFM which was sufficient to ensure 
+they were not closed out. I do not think they could reasonably have assumed, following Mr 
+Gs phone conversation with Saxo, that they were only a small amount short and the 
+proposed additional payment (£5,000) would definitely ensure there was sufficient NEFM. 
+And, as Mr G then decided to pay a much larger sum to the account (£25,000), it may well 
+be the case they did not make that assumption, in any event. I think the screen prints of the information that would have been available on Saxos online 
+platform show that Mr and Mrs G would have easily been able to access clear information 
+about their margin position, as the option expiry time approached. The NEFM is clearly 
+shown as a separate figure to the cash available on the account. So, had they looked at their 
+account at that time, I think it likely it would have been clear that what they now say they 
+understood was the amount available for margin was not the NEFM (i.e. the amount being 
+used by Saxo to asses if there was sufficient margin). 
+I also note Saxo sent a number of emails to Mr and Mrs G to warn them, as the margin 
+requirements increased (and, consequentially, the percentage of their NEFM being used 
+increased). The emails sent when the requirements had reached 75% and then 90% of the 
+NEFM included the following:
+Please be advised that you are now utilizing 75.0% of your available margin for trading 
+purposes. Please note that if your Margin Utilisation exceeds 100%, Saxo Capital Markets 
+UK Limited in accordance with its General Business Terms has the right to close out all open 
+margined orders and positions. Please ensure that you maintain your margin utilisation 
+below 100% to avoid any compulsory close-out by depositing additional funds or reducing 
+the margin exposure on your account. Please be reminded that it is your responsibility to 
+monitor your account at all times
+So Mr and Mrs G were put on notice of the increasing call on the NEFM, what would happen 
+if it went over 100%, and their responsibility to monitor their account at all times as the expiry 
+time approached. I also note (as Mr G has in his submissions on this complaint) that the 
+margin slide in which occurred as the expiry time of the options approached was clearly set 
+out in detail on Saxos website. 
+When all this is considered in conjunction with the call I think it is fair and reasonable to say 
+Mr and Mrs G were on notice of the need to monitor their account and had sufficient 
+information available to them to allow them to work out whether they had sufficient NEFM or 
+needed to add more money, and to understand all their open positions may be closed if the 
+call on the NEFM exceeded 100%. 
+So I do not think it would be fair to now ask Saxo to do anything in relation to the closed out 
+options. However, as mentioned, I do think Saxos representative could have been clearer 
+when Mr G called Saxo. And, at the earlier stages of the dispute Saxo could also have made 
+it clearer that although the £25,000 was not booked at the time of the close outs and does 
+not show on the account statement until the end of the day (i.e. after the close outs had 
+occurred) it had nonetheless been applied to Mr and Mrs Gs account shortly after it was 
+sent, and was taken account of when the NEFM was calculated. So I think some 
+compensation for trouble and upset would be fair. Saxo has offered £250  an amount I think 
+is fair, in the circumstances. 
+Responses to my provisional decision
+Saxo did not make any further submissions, following my provisional decision. 
+Mr G did not accept my provisional decision. I have considered all he said. But I have only 
+set out below a brief summary of what I consider to be the key points he made: 
+He has never talked about margin  the account was always fully cash funded, and 
+the put options which had been sold were fully cash secured. 
+They clearly had ample funds in the account. They had £312,215.37 cash and only 
+£289,100 was needed to acquire the underlying shares. The account statement shows the full £25,000 paid on 20 March 2020 was credited 
+to the account. No deduction was made. 
+There was no basis for Saxo to make any deduction from the £312,215.37 to arrive 
+at the NEFM figure of £287,212.41.
+A Saxo article from April 2020 (of which Mr G has provided a copy) is clear that if you 
+have sufficient cash at option expiry you will be assigned shares at the strike price 
+and the position would only be closed out if there was not sufficient cash. This makes 
+it clear all that matters is the cash, not margin. 
+Once he knew the £25,000 had been added to the account he was satisfied they had 
+considerably more than was needed in the account, and he concluded there was 
+nothing further to be done. This was a reasonable assumption to make, as £289,100 
+was the absolute maximum needed  the strike prices were fixed - and there was 
+more than this in the account. 
+The fact they were closed out at 15:52 proves the £25,000 had not been applied to 
+the account because, if it had, £312,215.37 would have been available and they 
+would not have been closed out. 
+He is concerned I have used the terms cash and margin as if they are exactly the 
+same, when they are not. 
+Mr G also said I should ask a number of questions of Saxo.
+My findings
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+As a preliminary point I think its important for me to highlight to Mr G that we are an informal 
+dispute resolution service. My role is to decide  on an informal basis  what I think is fair 
+and reasonable in the circumstances. And the purpose of this decision  and my provisional 
+decision  is to set out my reasons for arriving at my decision  not to respond to everything 
+which has been said by both parties. So here I have focussed on what I think is key. 
+As a further preliminary point I have noted, and considered, Mr Gs request that I ask various 
+questions of Saxo. However, I am satisfied Saxo has set its position out clearly and provided 
+enough information for me to make a decision. It has set out in detail how it arrived at the 
+conclusion the positions held on Mr and Mrs Gs account should be closed. And I do not 
+think the fact Mr G does not accept what Saxo says is reason, in itself, for me to ask it to 
+reply to further questions. 
+I know this will disappoint Mr G but, having carefully reconsidered everything, I have not 
+been persuaded to depart from my provisional findings. And those findings, quoted in full 
+above, should therefore be considered to form part of my final decision. 
+Turning to the recent submission made by Mr G, I am not persuaded he has said anything 
+substantively new. His submissions largely repeat what he has previously said. I will 
+however comment on what I consider to be the key points he has made. 
+Firstly, on the £25,000 payment to his and Mrs Gs account at around 13:43 on 20 March 
+2020, I remain satisfied this was applied to the account by Saxo shortly after it was sent  
+and certainly before the closure of the positions happened. The available evidence clearly shows this sum was factored into the calculations Saxo made to work out the NEFM amount.  
+I note Mr G disputes whether a £26.90 charge was applied, following the payment, but, 
+whether this charge was applied or not, there was not sufficient NEFM available if Saxos 
+calculations were otherwise correct. 
+Pausing there, what Saxo describes as the NEFM was the amount of money in Mr and Mrs 
+Gs account which it considered needed to be available for the positions to be held until the 
+options they related to expired. And it is the NEFM which is key here. Saxos NEFM 
+requirements were what Mr and Mrs G were obliged to meet. 
+Moving on to the NEFM sum used, it is clear from the available evidence Saxo did not 
+consider the NEFM simply be the cash available sum. Mr and Mrs G sold put options  
+they took a short position. To close that position the options would need to be bought back. 
+And that may entail a cost (i.e. the premium payable to buy the options), depending on how 
+the market moved in the meantime. In this case Saxos systems reserved money to cover 
+that cost (i.e. the premium payable buy back the options), just as they added money to the 
+cash available to reflect the premium paid to Mr and Mrs G when they sold the put Options. 
+That premium, less a closure cost i.e. a total sum of £24,927.34, was deducted from the 
+cash available when calculating the NEFM. 
+Mr G has seen this calculation, and commented on it. I have considered his comments and, 
+having done so, it seems to me Mr G simply does not agree with what Saxo takes into 
+account when calculating the NEFM, rather than being of the view the calculation is wrong, 
+per se. He thinks the £24,927.34 should be disregarded, or reversed. 
+However, that is essentially saying he does not accept the basis on which Saxo operates its 
+platform. Saxo required sufficient money to cover a NEFM which took account of the cost to 
+buy the underlying shares at the option expiry and the cost of buying back the options to 
+close the positions i.e. the cumulative total of these amounts. Mr and Mrs G need to have 
+money to cover the short positions and money to acquire the underlying shares they were 
+obliged to acquire if they held the positions until the underlying options expired. That is the 
+basis on which it operated its platform. 
+Mr Gs view is the cost to buy back and cost to buy the underlying shares are mutually 
+exclusive  so he does not need to cover both simultaneously. However, as I have set out, 
+that is not how Saxo operated its platform. 
+I have not seen sufficient evidence to show Saxo led Mr and Mrs G to believe they only 
+needed to have the cost of buying the underlying shares as the NEFM in circumstances 
+where they had sold a put option. 
+I appreciate Mr G has referred to an article from April 2020. However, as this seems to post-
+date the events Im looking at here, I do not think Mr G can have relied on it. In any event, 
+the article only refers to what is needed to acquire shares when an option expires  it does 
+not refer to what is required to maintain a short position up the expiry time. 
+During Mr Gs call with Saxo its representative does refer to the cost of buying back the 
+options having to be covered over and above the cost of buying the shares:  
+I would definitely add funds on the account.because it wont take into (account) the cost
+Its a case of covering the costs to make sure that (the options being held to 
+expiry)happens, basically
+Mr G was also put on notice that the margin requirements would increase as the expiry time approached: 
+you would need to have the funds in the account. ..in order tobecause if you dont it will 
+do a kind of calculation  youll see the margin increase just before expiry and in doing so 
+you just need to make sure youve got the funds in the account
+And he was made aware the positions would be closed (i.e. the puts bought back) if there 
+was not enough margin: 
+if you dont have enough funds in the account it will just start buying back your puts
+Mr Gs response implies that, after he had paid the £25,000 to the account neither he nor 
+Mrs G monitored the account, as they assumed nothing else needed to be done. I remain of 
+the view Mr and Mrs G could not reasonably have assumed they did not need to monitor 
+their account after this time. What happened up to the expiry time was  insofar as the costs 
+to close the positions was concerned  down to market movements. So they could not 
+reasonably have assumed a fixed amount was certainly enough. 
+I also remain of the view the NEFM would have been clearly displayed on Mr and Mrs Gs 
+online account  so they would have been readily able to monitor it, to ensure it was 
+sufficient. 
+Overall, I remain of the view the option close outs happened not because of a mistake by 
+Saxo but because Mr and Mrs G did not fully understand how the NEFM was calculated or 
+because they did not monitor their account as the option expiry time approached; or because 
+of a combination of these two things. 
+I also remain of the view that Saxo could also have made things clearer at the early stages 
+of the dispute. And that Saxos offer of £250 is fair compensation for this, in the 
+circumstances. 
+I know Mr G is very unlikely to accept this decision, and will be disappointed by it. But our 
+work on this complaint is now at and end  so we will not be able to give any further 
+consideration to it. 
+My final decision
+For the reasons given, my decision is that Saxo Capital Markets UK Limited should pay Mr 
+and Mrs G £250 for the trouble and upset caused, but does not need to do anything else.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mrs G and Mr G to 
+accept or reject my decision before 28 April 2023.
+ 
+John Pattinson
+Ombudsman

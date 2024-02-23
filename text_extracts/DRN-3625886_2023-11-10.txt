@@ -1,0 +1,195 @@
+DRN-3625886
+The complaint
+Mr N complains about actions taken by Saxo Capital Markets UK Limited (Saxo) on his CFD 
+account. He complains that Saxo didnt allow him to receive a scrip dividend in shares 
+instead of cash. And he complains that Saxo closed all of his open positions after a margin 
+call, when it ought to have only closed a small number of his trades. He says if it had done 
+so hed have lost less money.
+What happened
+Mr N held a range of CFD positions in his account with Saxo. In November 2020 these 
+included a long position based on the price of a share Ill call A. The company A announced 
+a dividend which shareholders could elect to receive as a scrip dividend (which meant being 
+allocated more shares) or as cash. Mr N wrote to Saxo to say he wanted to take up the scrip 
+dividend on his holding. 
+Saxo explained to Mr N that it didnt offer scrip dividends for holders of CFDs, and it simply 
+paid him the cash dividend as a credit to his account. 
+Around the same time Mr N exchanged emails with his account manager at Saxo, which 
+included Saxo offering a partial stop out facility  which it said meant if Mr N reached 100% 
+Margin Utilisation on his account, initially Saxo would only close a small portion of his open 
+positions, rather than its usual practice of closing all of a clients trades. Mr N asked to make 
+use of this facility.
+Just under a month later, at the start of the trading day Mr Ns positions moved against him. 
+He tried to close some trades to keep his Margin Utilisation under 100% but wasnt able to 
+do so. His account breached the 100% level and Saxo closed all Mr Ns open positions, 
+crystallising a large loss.
+Mr N complained, saying that under the partial stop out option hed signed up for, Saxo 
+should only have closed a few of his positions. He said if had done that, the market soon 
+moved in his favour and hed have suffered much lower losses.
+Saxo didnt think it had done anything wrong. It said Mr N hadnt been moved to the partial 
+stop out profile, and that because it hadnt confirmed the change, Mr N should have known it 
+hadnt happened and it was his responsibility to manage his positions. Mr N then brought his 
+complaint to our service.
+Saxo continued to say it shouldnt be held responsible for any losses Mr N suffered. 
+Although it did acknowledge it hadnt moved Mr N to the partial stop out profile when he 
+asked, and offered to pay him £1,000 to say sorry.
+Our investigator gave an initial assessment of the matter. She thought it was reasonable for 
+Saxo not to have allowed Mr N to receive a scrip dividend, and Saxo explained on its 
+website it didnt offer that facility for CFD positions.
+Regarding the margin call, the investigator said Saxo should have actioned Mr Ns request to 
+change profiles. She said it should compensate him if hed suffered a loss by not having his 
+account subject to a partial close out.
+Saxo reiterated its position that it didnt need to have carried out a partial close out. It said 
+the overall account terms, and the terms of the partial stop out facility, say that Saxo can still 
+close all open trades when Margin Utilisation breaches 100%.
+It went on to say that it had nevertheless carried out an analysis of what would have 
+happened had Mr Ns account been subject to the partial stop out profile. It explained its 
+algorithm would have closed small portions of Mr Ns holdings to reduce his margin 
+utilisation. But it explained that given the market conditions at the time, Mr N would have 
+experienced 6 consecutive partial stop outs in a very short space of time  because after 
+each one his margin utilisation would quickly have exceeded 100% again. And it went on to 
+say that the way its partial stop out profile worked was that the sixth close out would have 
+been a full closure of all Mr Ns remaining open positions.
+Saxo provided data to show that in its view, had Mr Ns positions been dealt with in this way, 
+not only would all his trades have still ended up being closed a few minutes after they were, 
+but that his overall losses would have been a few thousand pounds more. So Saxo argued 
+that Mr N had in fact not been disadvantaged by the fact his account hadnt had a partial 
+close out.
+Our investigator issued another assessment. She said she was now persuaded that Mr N 
+hadnt suffered a financial loss by being deprived of the partial close out facility. So she 
+didnt think Saxo needed to do anything further.  But she noted Saxos offer to Mr N to pay 
+him £1,000 to settle things remained available.
+Mr N didnt agree with the investigators conclusions and asked for an ombudsman to decide 
+the matter. In summary, he said that Saxos explanation of what would have happened 
+under a partial stop out was wrong. He said that the orders Saxo placed in order to fully 
+close all his positions distorted the market. He said had it closed smaller amounts the market 
+wouldnt have fallen as far, and so he wouldnt have repeatedly experienced margin 
+utilisation over 100% - and all of his trades wouldnt have been closed.
+As the investigator wasnt persuaded to change her mind the complaints been passed to 
+me.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+There are two distinct issues here. Ill first address the scrip dividends part of Mr Ns 
+complaint. Mr N held a long position in A, but he didnt hold A shares themselves. His CFD 
+was a bilateral contract between him and Saxo whose value was linked to the share price of 
+A. This didnt confer any rights of share ownership of A onto Mr N. I would of course expect 
+the value of Saxos CFD to reflect any changes in the value of the underlying quantity of 
+shares  whether that be through market movements or corporate actions. But I dont think 
+holding the CFD meant Mr N had any right to expect to choose what ought to be done as a 
+result of a corporate action on A shares where there were different options. I say this 
+whether or not Saxo had in fact bought A shares to hedge its own exposure to Mr Ns CFD. 
+Any such shares it held werent something Mr N had any rights or direct interest in.
+Here, Saxo has explained that in circumstances where underlying shareholders are entitled 
+to allotments of shares (such as in a scrip dividend) it will simply credit accounts with the cash equivalent. I dont think thats unreasonable. Mr N wasnt deprived of the economic 
+impact of the corporate action in the sense that it affected the value of his CFD derived from 
+the value of the A shares. And I note that Saxo makes the fact it will apportion cash in the 
+event of a scrip dividend clear on its website. So in this matter I dont find Saxo to have 
+acted unfairly or unreasonably towards Mr N, and dont require it to do anything.
+I now turn to the margin call Mr N experienced in late 2020 and the way Saxo closed his 
+positions.
+Its common ground between the parties that Mr N had to maintain a margin requirement on 
+his account, subject to the Margin Utilisation limit Saxo set out on its website, which was 
+100%. In other words, the value of Mr Ns account (made up of cash and the running profit or 
+loss on open positions) needed to remain at or above the level of margin required to support 
+his open positions. The mechanism of this, or the values ascribed to Mr Ns account and the 
+required margin calculations, arent in dispute.
+Whats in dispute is the type of action Saxo ought to have taken once Mr Ns margin 
+utilisation breached 100% on the day in question. Mr N argues it ought to have applied a 
+partial close out policy hed signed up for.
+Saxo does seem to acknowledge it was an error that Mr Ns request to have the partial close 
+out policy applied to his account wasnt actioned. It said Mr N filled in the required form but 
+it was not picked up by his relationship manager and applied to his account. It doesnt 
+seem to have argued there was a question about whether it would have been applied had it 
+been picked up. 
+Saxo has instead argued that the overall account terms gave it the discretion to close all of 
+Mr Ns trades in a margin call situation, and that in any event the terms of the partial close 
+out policy say that Saxo retains the right to close all margin positions fully. It therefore 
+argues it has acted within the scope of its contractual discretion to fully close Mr Ns trades 
+when his margin utilisation passed 100%.
+I dont find these arguments particularly persuasive. By Saxos own admission, it didnt 
+exercise any discretion here. It hasnt suggested it thought about whether or not to fully close 
+Mr N, and decided that was the right course of action. It simply defaulted to that course 
+because it hadnt applied the partial close out policy. As Saxo said itself no decision was 
+made to fully stop [Mr N] out. It was an automated process.
+Saxo is correct to say that within its terms it explains in a few places that theres a chance a 
+clients positions will all be closed in various margin related scenarios. But again these are 
+explained at being at Saxos discretion. Of particular relevance I find clause 12.8 of the 
+terms which say that:
+Unless otherwise agreed in writing, the Client acknowledges that [] Saxo Markets may 
+initiate, on the Clients behalf, compulsory close-out of any and all open Margined positions 
+when the level of Margin Utilisation for the Account reaches or breaches the maximum level 
+provided on the Website.
+Here, I think matters were otherwise agreed in writing. Mr Ns relationship manager had 
+emailed him Saxos partial close out policy. And said Currently when you reach 100% 
+Margin Utilization all margin positions will be liquidated. If youd like to amend this to scale 
+back positions if/when you reach 100%, then please respond to this email stating I have 
+read and understood the terms stipulated in the Partial Close out document (attached).
+Mr N replied to this email giving the required statement. Im therefore satisfied Saxo had agreed with Mr N, in writing, to take a different course of action under margin breaches. 
+The partial close out policy document itself says that If the client has elected that they prefer 
+a partial stop-out, then Saxo Bank will employ an algorithm designed to calculate a reduction 
+percentage [] Once the calculation is complete, the system will place orders to reduce all 
+net margin positions.
+As noted above, the policy did reserve Saxos right to close all margin positions. But the 
+starting point it gave was that after electing to take up the policy, Saxo will carry out a 
+partial close out, rather than a full one. Taking all this together, I find that Saxo had agreed 
+with Mr N that it would employ a partial close out in the event of margin breach. It had given 
+itself the option of still closing all Mr Ns trades  but this wasnt positioned as the default 
+option. I would therefore have expected Saxo to explain why it had deviated from the agreed 
+partial close out path. It hasnt done that, its simply said the policy wasnt applied to Mr Ns 
+account so he was automatically closed out fully.
+It is obviously impossible to say with certainty what would have happened if the policy had 
+been correctly applied. I acknowledge there is a possibility Saxo would have applied its 
+discretion to still fully close Mr Ns positions. But Ive seen no evidence or arguments as to 
+why it would have done so. I therefore find it fair and reasonable to proceed on the basis 
+that, but for Saxos error in failing to pick up Mr Ns request, his account would have been 
+subject to a partial close out when his margin utilisation breached 100%.
+This leads us to the crux of whats in dispute. Saxo has argued, and our investigator agreed, 
+that even had the partial close out algorithm been used, Mr N would have been left no better 
+off. Its said that all his positions would still have ended up being closed out, and in fact his 
+losses would have been slightly larger than they ended up being. To support this Saxo has 
+provided a detailed analysis. It has shown what would have happened at each partial close 
+out, and how much of the orders would have been filled in the market. Its explained how in 
+its view Mr N would have remained above the margin utilisation limit after each close out, 
+and that the partial close out algorithm would have then continued to kick in every ten 
+seconds until after five attempts it would have fully closed Mr Ns positions on the sixth close 
+out.
+Mr N has disputed this, saying it was precisely the large orders generated by fully closing his 
+positions that have led Saxo to its conclusions. He believes that a partial close out would 
+have successfully reduced his margin, while retaining the majority of his positions, which 
+would subsequently have moved in his favour and substantially reduced his losses.
+Ive considered this very carefully. Its impossible to be completely certain what would have 
+happened had events transpired differently. So I have to decide, on the balance of 
+probabilities, what I think is more likely than not to have happened.
+Ive given weight to Mr Ns arguments. Hes said that it was Saxos own orders to close his 
+positions which depressed the market and mean Saxo think hed have remained in breach of 
+his margin requirement. In effect, he says without the weight of those orders, his smaller 
+partial close orders would have been filled, and the market would have risen, which would 
+have negated the need for further close outs.
+The market at the time was very illiquid, and Mr Ns positions were large. I can see the way 
+these orders could potentially have impacted on the market levels, but I dont agree they 
+have likely done so here to the degree its changed what would have happened.
+Saxo has provided persuasive evidence that the lack of liquidity was such that even the 
+partial close out orders to cut 10% of Mr Ns positions wouldnt have been fully filled. Im persuaded by the analysis it has provided which shows that with even those smaller 
+unfulfilled orders in the market, Mr N would have remained in margin deficit for at least the 
+60 seconds (six sets of ten) which it would have taken to eventually result in orders to fully 
+close his trades. Im mindful that in reality it took around 17 minutes to close all Mr Ns 
+trades.
+This means that overall, Im satisfied that on the balance of probabilities, even if Mr Ns 
+account had been subject to partial close out, within a minute hed have been in the same 
+position hes in now in the sense of having had all his trades forcibly closed by Saxo. And 
+that it would have been fair and reasonable for Saxo to do that. Im not persuaded Mr N 
+would have been any better off financially by having had a partial close out. I also find that 
+any distress Mr N suffered as a result of the closure of his positions would have happened 
+anyway, and therefore wasnt caused by Saxos failure to apply the partial close out. So it 
+follows that I dont think it would be fair or reasonable for Saxo to pay Mr N any 
+compensation.
+I note that since Mr N brought his complaint to our service, Saxo has offered him £1,000 by 
+way of apology. Mr N should contact Saxo directly if he now wishes to accept this.
+My final decision
+For the reasons Ive given, I dont think Saxo Capital Markets UK Limited needs to do 
+anything to settle the complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr N to accept or 
+reject my decision before 8 December 2023.
+ 
+Luke Gordon
+Ombudsman

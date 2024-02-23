@@ -1,0 +1,94 @@
+DRN-2480603
+The complaint
+Mr R complained because Barclays Bank UK PLC refused to refund him for a £500 cash 
+withdrawal which he said he didnt make.
+What happened
+On 14 May 2020, Mr R and his wife went to a Barclays branch. Mr R wanted to withdraw 
+£500, but he said that on the first attempt, the machine returned his card but didnt dispense 
+the cash. He tried again, and this time £500 was successfully dispensed. This took place 
+during Covid restrictions, and Barclays wasnt allowing two people together to join the queue 
+to go inside the branch. Mr Rs wife needed to pay in a cheque, so she joined a long queue 
+to go into the branch while Mr R waited outside.
+When Mr R received his statement, he saw that two £500 payments had been debited to his 
+account. One was at the outside cash machine at 10.20 am, and the other at an ASD 
+machine inside the branch at 10.28 am. 
+Mr R complained to Barclays. He said he still had his card, and no-one else knew his PIN. 
+He asked Barclays for CCTV for the transaction inside the branch, which he said would 
+prove he hadnt made it. Barclays didnt uphold his complaint, so Mr R contacted this 
+service.
+The investigator didnt uphold Mr Rs complaint. She said that Barclays had provided 
+evidence that there had only been one withdrawal at the cash machine outside the branch. 
+Shed seen no evidence that there was any cash left in whats called the purge bin of the 
+cash machine. And Barclays had told her that the ASD machine inside the branch had an 
+extra layer of security, so Mr Rs date of birth had had to be entered. The investigator said 
+that as the genuine card, PIN, and Mr Rs date of birth had been entered, she thought it was 
+most likely that Mr R had carried out both withdrawals himself.
+Mr R didnt agree. He raised a number of points. In summary, he went over what he said had 
+happened at the cash machine, and he said he was beginning to believe that someone 
+inside the branch had seized the opportunity to block the first transaction and use the bank 
+details to gain access to his account for the other £500. He said he couldnt have entered the 
+branch at the time of the second transaction because of the long queue. Mr R asked for an 
+ombudsman decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+CCTV isnt available, but in many cases it doesnt show definitely what happened. So Ive 
+considered the other evidence in reaching my decision.
+I recognise that Mr R feels very strongly about what happened, which I can understand. 
+First, Ive looked carefully at the computerised evidence about the two £500 debits to Mr Rs 
+account.
+The computerised transaction evidence for the first £500 withdrawal at the outside cash 
+machine is clear. It took place at 10.20am, and the correct PIN was entered. Mr R says he 
+didnt receive the money at the first attempt. I dont know why that was, but its not relevant 
+to the outcome here. Mr R and Barclays agree that Mr R withdrew £500 at the outside cash 
+machine. Mr Rs account was correctly debited with one £500 debit, for his withdrawal at the 
+outside cash machine. 
+The disputed withdrawal is the £500 withdrawn from the ASD machine inside the branch, so 
+Ive looked particularly closely at this. The computer evidence for that machine is recorded 
+on a separate computer system, and the information is recorded in a different way. Theres 
+an entry at 10:26 which shows Mr Rs card number with a label ID&V/Enq which means his 
+debit card was entered and successfully identified. The next entry is at 10:28 and has a label 
+Withdrawal. The relevant numbers for this entry show Mr Rs sort code and his account 
+number.
+Ive also checked the debit figure recorded. For the10:26 identification entry, there are just 
+zeros, as would be expected for the authentication check. For the 10:28 withdrawal, there 
+are numbers for £500.00. This also tallies with other figures on the spreadsheet for the 
+money held in the machine before and after the 10:28 withdrawal.
+So the evidence shows that a £500 withdrawal inside the branch was carried out using Mr 
+Rs card which had been correctly authenticated using his PIN and date of birth.
+Mr R didnt lose his card. I dont see how any fraudster could have stolen his card, known his 
+correct PIN and date of birth to enter than on the ASD, and then returned the card without Mr 
+Rs knowledge. Any fraudster would also have been likely to have kept the card to try and 
+get more money from the account  and there were no other attempts. So I consider its 
+more likely than not that Mr R, or his wife with his permission, withdrew the money inside the 
+branch, as well as the undisputed withdrawal at the outside cash machine.
+I recognise that Mr R has said he believes a dishonest member of staff somehow 
+manipulated Barclays cash machine so his outside cash machine attempt was moved to the 
+machine inside the bank. Im not a computer expert, but I consider this is very unlikely. Mr R 
+still had his card. There was no link between the two machines. And as Ive discovered from 
+closely examining the evidence, the two computer systems used by the outside and inside 
+machines were completely different. So I think that technically this wouldnt have been 
+possible.
+Both sides agree that at this time the branch was very busy with long queues because of 
+Covid restrictions. So even if it had been technically possible for a dishonest employee to 
+carry out such a fraud, and without Mr Rs card, its highly improbable that theyd have had 
+the opportunity to leave their duties in order to carry it out. And any such activity would have 
+been observed by people in the long queue. So I consider fraud by branch staff is unlikely.
+Mr R told us that he didnt go into the branch at all, and said that the 30 minute queues 
+meant he wouldnt have been able to get to a machine between 6 and 8 minutes after the 
+outside cash withdrawal. But Barclays told us that at this difficult time, anyone who entered 
+the branch just wanting to use an ASD was shown to a separate shorter queue. Anyone 
+needing something else would then have to wait in the longer queue. I consider its possible 
+that Mr R might have forgotten the transaction, or his wife might have withdrawn money for 
+him with his card and with his permission. Either of them would have been able to join the short queue for the ASD, before Mrs R joined the longer queue for her own cashier 
+transaction which was completed at 10:55. 
+Taking all these factors into account, I cant see any explanation for the ASD withdrawal 
+which used Mr Rs genuine card and security details, other than that Mr R, or his wife with 
+his permission, carried it out. So I dont uphold this complaint.
+My final decision
+My final decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr R to accept or 
+reject my decision before 5 April 2021.
+ 
+Belinda Knight
+Ombudsman

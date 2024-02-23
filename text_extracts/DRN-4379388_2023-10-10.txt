@@ -1,0 +1,171 @@
+DRN-4379388
+The complaint
+Mr A complains about poor service from Monzo Bank Ltd when he requested blocks on 
+transactions linked to his gambling addiction. He said this led him to spend £1,839 on a 
+gambling platform.
+What happened
+I set out the background to Mr As complaint in my provisional decision, and here. 
+Mr A held an account with Monzo and said it was aware he was a vulnerable customer who 
+struggled with a gambling addiction. He said he told Monzo that he used crypto currency 
+exchanges for payments to gambling sites and requested blocks. He said hed previously 
+complained about a block that wasn't put in place correctly and received compensation. 
+Mr A asked Monzo in March 2022 to ensure he couldnt make payments to (the crypto 
+service in question) any further. He said he didnt receive a reply and three days later made 
+payments of £1,839 to the crypto service, all spent on gambling. Mr A said this was most of 
+his monthly salary and was incredibly stressful and damaging to his mental health. 
+Monzo messaged Mr A on 18 December 2022, while looking into your recent query we 
+noticed you had a number of crypto payments, and I just wanted to make sure you're alright 
+and not gambling more than you'd like to be? If you're struggling with this in any way, or find 
+yourself in financial difficulties, please let me know. I can talk you through the support we 
+may be able to offer you and point you in the direction of free advice, should you need it.  
+Mr A responded that having noticed the transactions Monzo should have blocked them as 
+requested. Monzo said it hadnt immediately recognised Mr As crypto currency transactions 
+as related to gambling and this had delayed its action. 
+Mr A complained to Monzo that it shouldve monitored his account due to his information 
+about his vulnerabilities, and didnt put in place the block he requested. Monzo apologised to 
+Mr A for not putting a block in place until 22 April 2022 and paid £140 compensation. 
+Monzo said Mr A first raised concerns about crypto currency transactions in January 2021 
+and named two crypto services in March 2021. Monzo explained these didnt fall under 
+gambling as they have a different merchant code, but it blocked payments. This worked 
+until Mr A changed his bank card and his complaint about this was resolved. Monzo said Mr 
+A made payments to a different crypto service from May 2021 which he hadnt asked to be 
+blocked, but was now blocked. 
+As Mr A wasnt satisfied with Monzos response he referred his complaint to our service. He 
+said the block was correctly applied in April 2022 and attempted transactions were blocked, 
+but hed lost £1,839 after he previously requested the block. He said this caused significant 
+stress and embarrassment of being without money at Christmas. He wants Monzo to refund 
+the £1,839 and pay him £500 for the stress and embarrassment caused to him. 
+Our investigator didnt recommend the complaint be upheld. He said Monzo explained that 
+Mr As payments were card tokens, not conventional money, which could be converted to 
+gambling chips and couldnt be blocked because of the initial money to token transfer. The 
+investigator said Monzo explained that Mr A processed the transactions using a payment 
+provider that would bypass the block. He said Monzos compensation for leaving Mr A 
+waiting for responses for long periods of time on the chat function was fair. 
+Mr A disagreed and requested an ombudsman review his complaint. He said Monzo failed to 
+apply the block or show that it wouldn't have worked on the transactions, and he has shown 
+the block was effective once it was put in place, paid via a payment provider. 
+In September 2023, I issued a provisional decision for this complaint and explained why I 
+was minded to partially uphold Mr As complaint as follows; - 
+Mr A expected Monzo to monitor his account as it was aware of his vulnerability. Monzo 
+said it doesnt manually monitor individual accounts. Ive looked at the communications 
+between them to see what Monzo knew about Mr A and whether it should have acted 
+differently. Mr A has complained separately about a block on a specific payment provider, 
+and this involved the method of communication Mr A used. This complaint has been 
+considered separately.  
+Mr A has provided screenshots to show the block operating effectively once Monzo finally 
+applied the block in April 2022. He said Monzo admitted that the block to the merchant had 
+failed to be placed on two occasions between his message of 19 December 2022 and his 
+transactions of £1,839. He said Monzo had told him that it wouldnt refund these payments 
+as it couldn't guarantee that they would've been stopped if the block was in place, as the 
+merchant changed its merchant ID.  
+I understand that the transactions Mr A has complained about involve money to token 
+transfers, which are different from normal payment transactions. Monzo has confirmed that 
+the merchant block worked to the payment provider. However, it said that it couldn't have 
+applied the block any sooner due to the payment rules of the card provider on Mr As 
+account. It said this was because at the time when Mr A initially requested the block, there 
+were pending payments on the account for the merchant. 
+Monzo provided the response about this issue from its payments engineers:  
+Using Payment Cancellation Service blocks clearing messages, so the payment would stay 
+pending until it automatically reverses and merchants arent able to first present on it. This is 
+against the rules.
+ 
+My understanding from this is that payments already into the payment system with the 
+merchant cant be reversed as a new payment post-block would be. I think this helps to 
+explain why Monzo told Mr A that even if it was able to apply the block immediately, the 
+payments already commenced would have bypassed any block. 
+Monzo has also explained that any blocks that could be applied were at best short term and 
+could be bypassed by using particular payment providers, though Mr A said that all his 
+transactions used this method of payment. Monzos point is that even if it applied blocks to 
+the merchant Mr A was using, he could bypass this by using a particular payment provider. 
+Monzo did apply the block, albeit belatedly and this was the correct response to Mr As 
+vulnerability.
+From what I have seen, Monzo did attempt to meet Mr As requests to limit his ability to 
+gamble and did respond to his communications, albeit with some delays. Although Monzos 
+blocks werent comprehensive, it did explain the limitations of these to Mr A. I think Mr A could see Monzos difficulties in blocking his transactions and wouldve known theyd likely 
+not be complete in preventing gambling transactions.    
+I think it was reasonable for Monzo to consider crypto currency transactions to be normal 
+spending, and not to monitor those transactions as a matter of course. It is, of course, where 
+the money was spent after the crypto currency transaction that is the problem and the 
+changed nature of the funds means that this was not entirely within Monzos control. 
+I have concluded that Monzo has treated Mr A fairly and reasonably with regard to his 
+gambling transactions and so I cant require it to refund the money he has lost. Monzo 
+apologised to Mr A that it didnt respond to him twice on the chat function, which amounted 
+to poor customer service and paid him £140 compensation. 
+My provisional decision
+Having considered the circumstances of this complaint and Monzos explanation, I currently 
+think that £250 compensation would be a fairer reflection of the impact on Mr As wellbeing 
+of the poor service he received from Monzo. I say this because Monzo was aware of Mr As 
+vulnerabilities and offered support, and should have followed through on this by giving 
+greater priority to dealing with his concerns about his gambling addiction. 
+The parties responses to the provisional decision
+Monzo accepted the provisional decision, but Mr A did not. 
+Mr A was concerned about inaccurate information. He said on 18 December 2022 Monzo 
+messaged him with its concerns, and by 22 December 2022 hed made a clear request to 
+block further transactions to the specified crypto currency exchange he was using to 
+facilitate gambling transactions. However, Monzo was slow to put a block in place, and he 
+made further gambling transactions, which he now requests to be refunded.  
+Mr A said Monzos other points are incorrect and wouldnt have made a difference. He said 
+with regard to the money to token transfer, that his payments went directly to the crypto 
+currency exchange to be converted to a crypto currency and sent onwards. He said if the 
+block had been in place the payments would not have gone through.
+Mr A said the payments were initiated on 22 December 2022 and would not have been 
+pending or initiated any sooner, as Monzo had indicated. He said it isnt fair for Monzo to 
+consider crypto currency spending as normal spending as its message of 18 December 
+2022 shows a correlation between the crypto currency payments and gambling transactions.
+Mr A said Monzo told him the block could be bypassed when his card was replaced, not that 
+this might be short term and could be bypassed by using particular payment providers. Mr A 
+agreed that where the money was spent after the initial money to token transfer was outside 
+Monzos control, but after his requested block Monzo could have prevented the transfer. He 
+said Monzo admitted the block wasnt in place after it was requested on 19 December due to 
+operation failures and that the block worked subsequently.  
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+I have thought again about my provisional conclusions and the response from Mr A, 
+particularly concerning the period from 18 to 22 December 2022 and the account activity that 
+took place. Having done so I remain of the view that the complaint should be upheld in part 
+and for the reasons I have given. I understand Mr As point that it was Monzos delayed response to his request by 22 
+December 2022 that enabled him to lose money gambling. As I said in my provisional 
+decision, Monzo was aware of Mr As vulnerabilities but failed to respond to him twice on its 
+chat function. Monzo has explained the difficulties it experienced in putting the block in place 
+that Mr A requested, and I have considered its points again.
+Although Mr A dismisses Monzos difficulties, I think there were practical problems that 
+Monzo faced in putting the requested block in place. I think this is borne out by Monzos 
+explanation to Mr A of the limitations of the block. Monzo has also explained that at the time 
+when Mr A initially requested the block, there were pending payments on the account for the 
+crypto service, and these couldnt be blocked as a new payment might be.  
+Mr A applies the logic that since all of the transactions on 22 December 2022 were made to 
+the crypto currency exchange via a payment provider, and this payment method was 
+effectively blocked subsequently, had the block been applied without undue delay these 
+transactions wouldnt have happened, hence Monzo are liable for these. 
+I understand Mr As point, but I also accept Monzos explanation that the process wasnt as 
+straightforward as he suggests. But notwithstanding this our consideration as to what is a fair 
+and reasonable outcome of the complaint is more involved than Mr A has described and 
+touches upon his determination to gamble. Even if Monzo had applied blocks to the crypto 
+service Mr A was using, he could bypass this by using a particular payment provider. This is 
+because of the lack of a direct gambling transaction  Mr A bought crypto currency which 
+might then be used for any transaction he wished. 
+Whilst I take Mr As point that Monzo clearly correlate the gambling problem with the crypto 
+currency payments, that doesnt mean the transactions could have a different less harmful 
+purpose, hence Monzos treatment of crypto currency transactions as normal spending.  
+One of our considerations is the personal responsibility for the transactions of the consumer. 
+I indicated in my provisional decision that I thought Mr A could see Monzos difficulties in 
+blocking his transactions and wouldve known theyd likely not be complete in preventing 
+gambling transactions. It would also have been open to Mr A to have self-excluded for 
+gambling transactions with the gambling operators, and this might have provided a more 
+effective block to the transactions.
+Im pleased that Monzo contacted Mr A and offered support, but it should have followed 
+through on this by giving greater priority to dealing with his concerns about his gambling 
+addiction. And so I remain of the view that Monzo should pay Mr A £250 compensation for 
+the distress and inconvenience he has been caused by its poor service. 
+I sympathise with Mr A for the gambling problems he has faced, and I realise he will be 
+disappointed with this decision, but I hope he understands the reasons I have reached it.
+My final decision
+For the reasons I have given it is my final decision that the complaint is upheld in part. I 
+require Monzo Bank Ltd to pay Mr A total compensation of £250 for the distress and 
+inconvenience its delayed response to his request for blocks caused him. Monzo can deduct 
+from this sum any compensation already paid to Mr A under this complaint.  Under the rules of the Financial Ombudsman Service, Im required to ask Mr A to accept or 
+reject my decision before 7 November 2023.
+ 
+Andrew Fraser
+Ombudsman

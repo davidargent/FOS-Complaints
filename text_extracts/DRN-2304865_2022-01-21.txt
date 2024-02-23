@@ -1,0 +1,100 @@
+DRN-2304865
+The complaint
+Ms G complains that TSB Bank plc didnt help her recover the money she lost to a binary 
+options investment scam company.
+What happened
+Ms G was searching for investment opportunities online after her son advised her to invest in 
+Bitcoin and she was cold-called by a representative from T Ltd (a binary options merchant) 
+in March 2019.
+Ms G decided to invest and deposited two payments to them totalling £4,560 (using her TSB 
+Visa debit card) between 6 March 2019 to 22 March 2019. Ms G discovered her investment 
+had reduced to zero shortly after she made her final payment. She contacted TSB for 
+assistance. 
+TSB said it couldnt help Ms G with chargeback claims and it later confessed it lost some of 
+her correspondence. In recognition of the trouble and upset caused, it credited £29 
+compensation into her current account.
+ 
+Unhappy with TSBs response, Ms G referred the matter to this service. 
+One of our investigators felt that TSB could have attempted chargeback claims which would 
+have likely succeeded, so she suggested that TSB refund the disputed payments. 
+TSB didnt agree, it said in summary:
+T Ltd were a genuine company offering genuine services  albeit may have been 
+acting in a deceitful way and were not regulated within the UK
+It does not treat similar scenarios as fraud. If a bad investment is made, it doesnt 
+automatically follow that the bank should reimburse the customer. 
+Ms G was actively looking to invest online and didnt carry out any due diligence 
+checks on the company or take account of the risks that comes with this type of 
+investment. 
+Visas reason code 13.5 required specific evidence and Ms G did not have the 
+evidence required to process a successful chargeback claim. 
+The complaint has therefore been passed to me for determination. 
+I wrote to TSB asking why it didnt consider processing chargeback claims under another 
+reason code (reason code 12.7  invalid data) which is also suitable for binary options and 
+investment trading disputes. I explained that Visa required unlicensed merchants offering 
+binary options, forex, CFDs etc to re-code using a Merchant Category Code (MCC) 
+identifying themselves as high-risk which took effect on 1 December 2018. I noted that the 
+transactions processed to T Ltd were processed using a MCC that required a merchant to be 
+licensed and I could not locate any evidence to suggest that T Ltd was regulated or licensed 
+anywhere. I suggested that TSB could have processed chargeback claims using reason 
+code 12.7 given that the sale of binary options was illegal in the UK. I invited TSB to provide 
+its comments.
+ 
+TSB didnt provide any additional commentary and instead reiterated its previous position 
+that it had no chargeback options available to it. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I uphold this complaint and Ill explain why. 
+The chargeback process is relevant here. 
+Chargeback is a voluntary scheme run by Visa whereby it will ultimately arbitrate on a 
+dispute between the merchant and customer if it cannot be resolved between them after two 
+presentments. Such arbitration is subject to the rules of the scheme  so there are limited 
+grounds on which a chargeback can succeed or be deemed a valid claim. Our role in such 
+cases is not to second-guess Visas arbitration decisions or scheme rules, but to determine 
+whether the regulated card issuer (i.e. TSB) acted fairly and reasonably when presenting (or 
+choosing not to present) a chargeback on behalf of its cardholder.
+Having considered Visas rules, the possible chargeback reason codes did cover binary-
+options trading at the time of Ms Gs payments. Visa expanded its rules to cover situations 
+whereby binary options/investment traders prevented cardholders from withdrawing their 
+available balances from on or after 14 October 2017. 
+The applicable misrepresentation reason code was 53 (later re-coded by Visa to 13.5) and 
+it required very specific evidence. Ms G needed to present dated evidence that she had an 
+available balance (in the form of a screenshot or confirmation from the T Ltd) and that she 
+tried to withdraw sums equal to, or less than, her available balances on the same day. Im 
+satisfied Ms G did not have this evidence as she explained her balances were quickly lost 
+after she deposited her money onto T Ltds platform. 
+From 1 December 2018, Visas rules changed again to require binary-options merchants 
+(and other high-brand risk merchants) to be coded under MCC 7995Betting, including 
+Lottery Tickets, Casino Gaming Chips, Off-Track Betting, and Wagers at Race Tracks. Visa 
+Business News dated 6 September 2018 stated:
+Visa has discovered that certain binary options, rolling spot forex trading, financial spread 
+betting and contracts for difference merchants are being acquired in markets that do not 
+require licensing or regulate merchant trading platforms. In addition, some of these merchants 
+are selling into countries where local laws prohibit such transactions or require licensing by 
+the relevant financial services authority.
+This change gave a further chargeback right available to the card issuer  reason code 12.7 
+(invalid data). This is where a merchant used an invalid MCC; but it has a much shorter 
+timescale of 75 days for a claim to be processed. 
+Visa has been clear that reason codes 13.5 and 12.7 are the most likely reason codes to 
+succeed in claims like this, providing the evidence requirements have been met. I can see 
+that T Ltd was using an invalid MCC (based on them operating without the required 
+licensing) and Ms G had raised her claim in time for TSB to have processed chargeback claims under reason code 12.7. This is especially so following the ban of the sale of binary 
+options in the UK the previous year. 
+Im therefore satisfied that TSB acted unfairly in not attempting chargeback claims for Ms G. 
+Had it done so, Im not satisfied that T Ltds bank could have defended the claims and so, 
+Ms G would most likely have recovered all of her payments. As TSB did not process 
+chargeback claims for Ms G, it should refund her disputed payments. 
+Ive carefully thought about TSBs concerns around Ms Gs actions contributing to her 
+losses. But these arent relevant to whether a chargeback claim would have likely 
+succeeded, so I dont need to address those concerns here.  
+My final decision
+For the reasons set out above, I have decided to uphold this complaint. I therefore require 
+TSB Bank plc to refund Ms G her disputed transactions paid to T Ltd (totalling £4,560). 
+The funds were paid from Ms Gs current account so TSB should add interest to the above 
+sum (less any tax properly deductible) at our usual rate of 8% simple per year from the 
+date it declined to process chargeback claims to the date of settlement.
+Under the rules of the Financial Ombudsman Service, Im required to ask Ms G to accept or 
+reject my decision before 18 February 2022.
+ 
+Dolores Njemanze
+Ombudsman

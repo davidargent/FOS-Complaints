@@ -1,0 +1,123 @@
+DRN-1406462
+The complaint
+P is a limited company. Its director, Mr T, complains that PayPal Europe Sarl & Cie, SCA 
+unfairly reversed a credit to Ps account following a chargeback claim.
+What happened
+P sells goods online. It receives payments from its customers through its account with 
+PayPal. 
+P processed an order for two items on 12 July 2019, with a card payment of £1,679.98 
+processed online. Mr T says the items were shipped to the buyer the same day.
+Later that month, PayPal received notification from the cardholders card issuer that they 
+were seeking a reversal of the payment on the basis that they hadnt authorised it (in a 
+process known as a chargeback). P provided some evidence to PayPal to challenge this. 
+But that proved unsuccessful, and the payment was returned to the cardholder on 14 August 
+2019. P was also charged a £14 processing fee.
+P complained to PayPal. It said that under the terms of its User Agreement, the transaction 
+was covered by PayPals seller protection policy in the event of a reversal due to an 
+unauthorised payment. As it had fulfilled the order as instructed, it said PayPal should cover 
+the transaction and return the processing fee. But PayPal stood by its decision, so Mr T 
+referred the matter to us.
+In its submission to us, PayPal said that this transaction wasnt covered by the seller 
+protection policy as P had delivered the items to an address that differed from that of the 
+transaction details. It referred us to tracking details from the shipping company which 
+showed delivery to a different country.
+Our investigator looked into things but thought that PayPal had relied on incorrect 
+information. He noted that the shipping company recycled its reference numbers  and the 
+tracking details that PayPal had cited now actually related to a different transaction 
+altogether. So disregarding this, he said there was no evidence that P had sent the goods to 
+a different address  while Mr T had been able to provide other information to show that P 
+had sent the items to the address specified in the transaction details. 
+So our investigator didnt think it was fair for PayPal to have declined cover under the seller 
+protection policy on these grounds. Subject to any other conditions that may apply, he 
+thought PayPal should reimburse the £1,679.98 and £14 fee, and pay P £100 compensation 
+for the inconvenience caused.
+Mr T accepted our investigators view but PayPal didnt. It said that the tracking information 
+provided by Mr T didnt meet its requirements as set out in the User Agreement. It said it 
+wasnt a shipping company, so it relied on the information available on Ps shipping 
+companys website. 
+So with no resolution, the matter was passed to me to decide.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, Ive reached broadly the same conclusion as our investigator and for much 
+the same reasons. Ill explain why in a little more detail.
+Under PayPals User Agreement, it says that sellers may be eligible for reimbursement 
+under its seller protection policy in certain circumstances. This may apply when a buyer 
+claims that they didnt authorise the payment, or when a transaction is reversed because of 
+a successful chargeback or payment reversal by the buyer (or their bank). Here, the buyer 
+said they didnt authorise the payment in question and ultimately the payment was reversed 
+through a chargeback. So Mr T believes he is covered by the policy.
+In its submission to us, PayPal said it declined Mr Ts claim for cover under the policy as P 
+hadnt complied with this term of the User Agreement:
+You must ship the item to the shipping address on the transaction details 
+page in your PayPal account for the transaction.
+But like our investigator, Ive found that P has provided significant documentary evidence to 
+show that it did dispatch the goods to the shipping address on the transaction details page 
+for this transaction. It has explained its process  which is largely automated  for extraction 
+from its warehouse and onward delivery. Its shown us screenshots from the systems of both 
+those providers, that consistently show the correct delivery address  in other words, that it 
+matches that of the transaction details as required by PayPal. And its also shown us 
+confirmation of delivery that was provided by the delivery company. 
+The only evidence to the contrary that PayPal has provided is the tracking details from the 
+delivery companys website. And that does show a different address  indeed a different 
+country  for the delivery. But it also seems most likely that this is a result of the tracking 
+reference number having been reused by the delivery company: as it shows a shipment 
+collected from Mumbai on 25 September 2019 and delivered to Bangladesh a few days later. 
+Putting the same reference into the tracker now will again yield a completely different result 
+(in fact it yields three different transactions over the last month alone). It is common practice 
+for delivery companies to recycle their reference numbers, and the one in question confirms 
+as much on its website:
+We handle over two million shipments a month. That means the eight- or 
+nine-digit numbers used to track parcels get reused every three or four 
+weeks.So bearing in mind that PayPal were reviewing this information two months after P has 
+shown it dispatched the goods, I think its most likely that the tracking reference had been 
+reused and no longer related to Ps shipment at all. And so I dont think that the information 
+PayPal has relied on is relevant in determining whether P shipped the goods to the correct 
+address. From the evidence it has provided, I think it has shown that it did ship the goods to 
+the correct address as required under the terms of the User Agreement.
+In its response to our investigators assessment, PayPal highlighted the further postage 
+requirements in order to be eligible for seller protection. For protection for unauthorised 
+payment, it says that  for goods such as those at issue here  proof of postage or proof of 
+delivery is required. And it says that proof of postage must be online or physical 
+documentation from a postal company that includes all of the following:
+a) A status of shipped (or equivalent) and the date of postage.
+b) The recipients address, showing at least the city/county or postcode (or international 
+equivalent).
+c) Official acceptance from the shipping company (for example, a postmark, a receipt, 
+or online tracking information). Or, if you have Proof of Delivery then you do not need 
+Proof of Postage.
+Weve provided PayPal with the information that P has sent us but it hasnt specified why 
+this doesnt meet these criteria. Rather it has reiterated that it relies on the information on the 
+shipping companys website. I can see why that might be its default option but clearly that 
+didnt obtain the right result here  and is only likely to be helpful if reviewed within a certain 
+(limited) timeframe. I dont think its reasonable to disregard all the other evidence that P has 
+been able to provide to support their position.
+As Ive set out above, P has evidenced that the goods were dispatched to the correct 
+address and has evidence of the postage from its logistics company and proof of delivery 
+from the delivery company. 
+And so taking all of this into account, I think the transaction met the requirements to be 
+covered by the seller protection policy  so PayPal acted unfairly in declining to reimburse P 
+the reversed payment. 
+To put things right then, it follows that I think it should reimburse P now. I dont think it needs 
+to refund the £14 processing fee though, as I understand this related to the chargeback  the 
+costs were passed on from the buyers bank and were not within PayPals control. And I 
+cant see such costs are covered by the seller protection policy, which states that the full 
+purchase amount is protected  with no reference to a refund of other fees or charges 
+connected to the chargeback claim itself.
+P has also been without the funds for some time now. To compensate it for this, PayPal 
+should add 8% simple interest to the amount from the date it was debited from Ps account 
+to the date of settlement. P has also been put to some avoidable inconvenience in trying to 
+recover the funds from PayPal, which declined to engage in a meaningful way until the 
+complaint was referred to us. So for the trouble P was put to, PayPal should also pay it 
+compensation of £100.My final decision
+For the reasons set out above, I uphold this complaint and require PayPal Europe Sarl & 
+Cie, SCA to:
+Reimburse P the reversed payment of £1,679.98;
+Pay 8% simple interest on the above amount from the date it was debited from Ps 
+account to the date of settlement; and
+Pay P compensation of £100.
+Under the rules of the Financial Ombudsman Service, Im required to ask P to accept or 
+reject my decision before 27 October 2020.
+ 
+Ben Jennings
+Ombudsman

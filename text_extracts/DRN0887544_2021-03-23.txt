@@ -1,0 +1,189 @@
+K820x#14complaint
+Mr V complains that TF Global Markets (UK) Limited unfairly withheld profits  he made  when 
+trading Contracts  for Difference (CFDs) on its platform. 
+background
+In June 2018 Mr V opened a CFD trading account  with ThinkMarkets. In his application form 
+he explained  that he had 3 to 5 years trading experience in Forex and CFDs, and around the 
+same amount of experience in other  securities. He indicated that he traded, on average, 10 
+to 50 times  a month on an execution only basis. 
+Mr V invested €2,400  and on 12 July opened two very small trades of 0.01 lots. One was a 
+short position on the EUR/USD currency  pair, and the other  a short  position  on the USD/JPY  
+currency pair. Mr V held those trades open  until the following day  he closed one at a €2.17 
+profit, and the other  at €2.22 loss. 
+Mr V placed  no further trades until 20 July 2018,  when  he placed three short trades  on the 
+USD/CAD currency  pair. 
+2 lots, opened at 15:30:00, at an opening  price of 1.32141, was closed three seconds 
+later at a closing price  of 1.31630,  generating a €664 profit. 
+1 lot opened at the same time and the same  price, but closed 14 seconds later at a 
+closing price of 1.31837  generating a €197 profit. 
+1 lot opened at the same time, and the same price, but closed 22 seconds later at a 
+closing price of 1.31776  at a €237  profit. 
+In total these three trades generated  over €1,000  in profit. 
+Mr V requested to withdraw the money from his account. But shortly after, ThinkMarkets 
+contacted Mr V to explain that it had identified a number of orders  that were trading in an 
+arbitrary manner and explained that it was voiding his profits. It invoked a number of 
+reasons why Mr Vs profits had been voided. In short, it said on 20 July 2018, during an 
+economic announcement, the USD CAD price feed was inconsistent  with the real market  
+price, and hence the system (EA) that you used to trade on your account  identified a price  
+error which it took advantage of, and hence breached our terms. 
+Only the USD CAD orders that were deemed  in breach were nullified  Mr V had carried 
+out two other manual orders which were not in breach  of [the] terms. 
+It referred to a number  of clauses in its terms and conditions which allowed it to revoke 
+trades placed due to price latency, or otherwise clearly outside the prevailing market  price 
+or resulting from arbitrage strategies. 
+ThinkMarkets also said that based  on the user account access  data, a multitude of users 
+were accessing the same  account  this wasnt permitted under its terms. 
+Mr V complained to ThinkMarkets. In short, he asked it to explain which specific  clause he 
+had breached and why. ThinkMarkets looked  into Mr Vs complaint and, essentially 
+reiterated the terms it thought allowed it to do what it did:
+Clause 7 of its terms and conditions allowed it to revoke trades which  had exploited  
+price latency  on the price feed it offered. Having reviewed  the trades Mr V had 
+Ref: DRN08875442placed, ThinkMarkets said it had concluded this is what he had done  on some, but 
+not all, of his trades.
+Clause 7.8 of its terms and conditions also allowed it to refuse trades which  were 
+clearly outside the prevailing market price such that they may be deemed non-
+market price Transactions, whether due to manifest error or stale, incorrect  or broken 
+price feeds.  That clause  allowed  ThinkMarkets  to treat any such trade as void where 
+the issue came to light after the trade  had been  filled. 
+Clause 7.9 allowed  ThinkMarkets to decline any quote  or refuse  to be bound  to any 
+contract, including  those arising from any manipulation of the quoting mechanism of 
+our Services  generally, notwithstanding  our undertaking to provide a clear and fair 
+service to you without barriers at all times. 
+It was apparent from the account access data that there were a number of users 
+using the account,  and that wasnt permitted. 
+Provisional decision
+I issued a provisional decision in February  2021. In it I said:
+Ive carefully looked at what Mr V has said about  his trading and why he opened  the 
+account. Mr V has explained  in his complaint that he traded  daily and traded news  events  or 
+other market  movements. He said that he traded manually and also with a robot. A robot is 
+a computer program that carries out trades  automatically on the basis of parameters set by 
+the user  some such programs are specifically  designed to exploit a brokers price  latency.
+ 
+ThinkMarkets has raised a number  of reasons why it voided Mr Vs profits  including  access 
+to his account by multiple IP addresses. Ive seen insufficient evidence  that this happened 
+on Mr Vs account and so I make  no further  finding  on this issue  here. 
+That said,  ThinkMarkets terms and conditions, which Mr V agreed  to when he opened his 
+account, do cover circumstances which are relevant to this complaint. 
+For completeness, Ive set out the ones  I consider  relevant here:
+Clause 7.8: We reserve  the right to refuse  any trades  placed  by you that we judge to be 
+clearly outside the prevailing market price, such that they may be deemed non-market price  
+Transactions, whether  due to a manifest  error,  or stale, incorrect  or broken  price feeds. 
+Where we have opened  or closed a trade before becoming aware of the price disparity, we 
+may at our absolute discretion [] treat that trade  as void.
+Clause 7.10: Internet  connectivity delays and price  feed errors may create a situation where 
+the prices displayed on the trading  platform do not accurately reflect  market  rates.  
+ThinkMarkets does not permit the practice of arbitrage, nor does it allow Client  to take 
+advantage of price  latency. Transactions that rely on the price  latency or arbitrage 
+opportunities may be revoked at our discretion. ThinkMarkets reserves  the right to make  the 
+necessary corrections or adjustments  on the Account(s) involved, including, but not limited 
+to, withholding any profits made by Client while using these trading tactics.  Accounts that 
+rely on arbitrage strategies may at the sole discretion of ThinkMarkets be subject  to 
+ThinkMarkets intervention and approval  of any Transactions. 
+Im satisfied Mr V was bound  by the terms above  when  he opened his account. And Im 
+satisfied Clause 7.8 allowed ThinkMarkets  to treat trades as void if it judged the trade to 
+have been opened or closed clearly outside  the market price, due to a stale or incorrect  price 
+Ref: DRN08875443feed; and Clause  7.10 allowed it to revoke  transactions which it judged to have been  made  
+in reliance on either price  latency or an arbitrage  opportunity.
+These clauses allow  Thinkmarkets to make the judgments  I have described.   However,  in 
+making those judgements,  the law did not allow ThinkMarkets to act arbitrarily,  capriciously 
+or unreasonably  (in the sense of not taking into account the relevant, and only the relevant, 
+considerations and of not arriving at a conclusion that is outside  the bounds  of what  could be 
+considered reasonable).  It also did not allow ThinkMarkets to act in bad faith. Those 
+constraints were imposed as implied  terms of the agreement; see Braganza v BP Shipping  
+[2015] UKSC  17 and R (On the application  of TF Global  Markets (UK) Ltd) v Financial 
+Ombudsman Service [2020] EWHC 3178 (Admin).     
+So Ive looked  at the three trades which ThinkMarkets voided in order  to determine  whether 
+the actions it took were  contractually permitted and fair and reasonable in all the 
+circumstances. 
+The first question is whether Im satisfied, on balance, that ThinkMarkets was in fact quoting 
+an incorrect price on its platform  when Mr V opened his three USD/CAD trades. 
+Stale or incorrect prices  arent unusual at times  of news announcements (or other  external  
+events), which can cause currencies to fluctuate suddenly  and significantly.  ThinkMarkets  
+derives the prices  it offers on its platform from underlying markets (in the case of currencies 
+usually liquidity providers  that are trading these  currencies  in real time). There  is therefore a 
+potential for occasional delays in its own price  feed adjusting to the underlying  market,  
+particularly if theres  been  a sharp  and sudden  movement. This is what the evidence shows 
+happened here. 
+The evidence ThinkMarkets  has provided  demonstrates that the prices which  Mr V opened 
+his trades  at where  in fact over 44 pips higher  than what  the underlying market was trading 
+at. This is a substantial difference. In other  words,  when Mr V opened these short trades at 
+these incorrect prices,  he was essentially guaranteed an immediate  risk-free  profit  because  
+ThinkMarkets prices were guaranteed  to fall in line with where  the market  was already 
+trading at. In order to benefit from such a price  lag, the trader is required to open  the trade at 
+an exact moment (to the fraction of a second), before the price feed catches up with whats  
+happening in the underlying market. 
+In this case, given  the evidence ThinkMarkets has provided, Im satisfied, on balance,  that 
+ThinkMarkets was displaying clearly incorrect prices  at the time, due to stale  or incorrect  
+price feeds and price latency  and therefore, in principle, clauses 7.8 and 7.10 apply. And 
+Im not persuaded it was acting outside those terms, or the implied terms I have  mentioned, 
+when it decided to reverse Mr Vs trades.  
+However, its clear that the terms allow ThinkMarkets a range of actions  in circumstances 
+such as these. And although I must  take into account the relevant law and the rights  it gives 
+to the parties,  including their contractual rights, I must ultimately  decide  this matter according  
+to what I consider fair and reasonable in all the circumstances. After  all, Mr V had no part to 
+play in ThinkMarkets failure  to display correct prices at the time.  On the face of it, Mr V 
+simply opened three trades at the price ThinkMarkets offered to him. 
+ThinkMarkets terms make it clear, in clause 7.6 that:
+Ref: DRN08875444In executing Transactions for or with you we will always deal with you as principal and in 
+accordance with our Best Execution  Policy  dependent on your MIFID client  classification. 
+In other  words, Mr V wasnt  trading  in the underlying market. He was trading a bilateral 
+contract with ThinkMarkets  at the prices it was offering to him. So its clear to me that it 
+wont always be fair for ThinkMarkets  to simply void trades when it identifies it has made a 
+mistake. Itll need to consider all the circumstances  including the customers trading 
+behaviour and the extent to which it is satisfied, based on the evidence  it has, that the 
+customer was in fact trying to exploit  opportunities for arbitrage  or price latency, whether 
+through the use of software or by themselves. 
+In Mr Vs case, ThinkMarkets  has explained that it considers his trading behaviour 
+demonstrates he was able to exploit  the latent prices it was offering at the time. And that the 
+software he was using identified the pricing  issue, and took advantage  of it. ThinkMarkets in 
+fact has said that Mr V only opened the account in order to specifically take advantage of 
+this issue. Given these  conclusions, it therefore voided the trades. 
+Ive therefore  gone  on to the consider the evidence  available in order  to determine  whether it 
+was fair and reasonable for ThinkMarkets  to have taken this approach  in Mr Vs case.  And, 
+for the avoidance  of doubt,  Im currently persuaded it was. 
+In the particular circumstances of this case,  I dont  think  it was unreasonable  for 
+ThinkMarkets to consider  the following:
+Two very small trades placed  in unrelated  currencies, held over a number of hours, 
+and which netted themselves off almost perfectly. 
+No further trading  at all until the USD/CAD trades. At which point, Mr V essentially 
+used all the equity  available in his account on three individual trades   which  were  
+placed at the precise moment that ThinkMarkets was displaying an old price. 
+These trades were  held for less than 30 seconds (the most  profitable one was closed 
+after 3 seconds). 
+Mr V then attempted  to withdraw the funds and didnt  carry out any further trades.  
+Im satisfied ThinkMarkets was entitled to consider these factors,  when taken together,  to be 
+highly unusual. Especially  when viewed in the context of the high risk nature of this type of 
+trading. As ThinkMarkets explains on its website, over 75% of clients  that trade CFDs lose 
+money. I acknowledge  that simply being  a successful trader would be insufficient to 
+conclude that ThinkMarkets had acted fairly.  But Mr V wasnt  just a successful trader in this 
+instance. The size of the three trades he placed,  the lack of any other trading activity,  as well 
+as the speed at which the trades were closed all point to a remarkable ability  to anticipate  
+how this currency pair was going  to perform. 
+In addition, this was combined with the fact that the prices being displayed  were incorrect.  In 
+other words, Mr V not only appeared to know how the market  would  move, and accordingly 
+invested all the money  in his account, he was also apparently adept enough to have traded 
+at the exact time, and on the exact currency pair, that was suffering from price latency  
+which, as explained  above, meant Mr V was guaranteed an immediate profit  on these very 
+large trades.  
+Given all this, Im satisfied  that it wasnt unreasonable  for ThinkMarkets  to have looked at 
+these circumstances  as a whole and concluded that the most likely explanation was that Mr 
+Ref: DRN08875445V (or the software he was using) knew the prices were not reflective of the underlying  
+market, and for that reason  decided to exploit the error. 
+In circumstances  where its clear that trading was carried out to try to exploit the price 
+latency, and no market  risk is in fact being  taken by the trader, as was the case  here, Im 
+satisfied its fair and reasonable for ThinkMarkets to exercise its discretion to void the trades  
+and cancel any profits in line with the applicable  terms  and conditions. 
+Responses to the provisional decision
+TF Global agreed with my provisional findings.  Mr V did not reply.  
+my findings
+Ive reconsidered  all the available evidence and arguments to decide  whats  fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I see no reason to depart from my provisional conclusions,  and I therefore  
+confirm them  as final. 
+my final decision
+My final decision is that I dont uphold this complaint. 
+Under the rules  of the Financial Ombudsman Service,  Im required to ask Mr V to accept or 
+reject my decision  before 23 April 2021.
+Alessandro Pulzone
+ombudsman
+Ref: DRN0887544

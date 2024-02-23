@@ -1,0 +1,111 @@
+DRN-4084235
+The complaint
+Miss O complained because Metro Bank PLC refused to refund her for transactions which 
+she said she didnt make.
+What happened
+On 3 August 2022, five faster payments debited Miss Os Metro account. They were all to 
+the same new payee, and ranged from £990 to £1,990. The total was £8,660.
+On 13 August, Miss O contacted Metro. She said she hadnt authorised these transactions. 
+Metro asked if shed received any suspicious emails, texts or phone calls, or downloaded 
+anything onto her device, and she said she hadnt.
+The payee was one Miss O hadnt paid before. So before the first payment went out, Metro 
+had sent a one-time passcode to Miss Os registered mobile number, for her to enter the 
+code into the app on her phone. Metros computer systems meant that a new payee could 
+only have been set up if this code had been correctly entered into the app on Miss Os 
+registered mobile. Miss O told Metro that shed never received a one-time passcode. Metro 
+asked Miss O to contact her mobile service provider for documentation to confirm this, and 
+to provide this to Metro. 
+Miss O sent Metro a copy of her phone bill, but not evidence from her phone provider to 
+show she hadnt received the one-time passcode. Metro also said Miss O should take her 
+phone to a phone shop to check for any malware, and said it would need this evidence 
+before it could investigate further.
+In Metros final response to Miss Os complaint, it refused to refund her. It said that Miss Os 
+phone had been registered since February 2022, with multiple undisputed payments from it. 
+Metro said it had sent a one-time passcode to this phone, which was needed to set up any 
+new payee. It said that although Miss O had said she didnt receive this, its records 
+confirmed it had been sent.
+So Metro said there was no clear evidence to suggest that Miss Os account had been 
+compromised. It said it was reasonable to assume Miss O authorised the transactions 
+herself, or didnt take adequate care of her security details. 
+Miss O wasnt satisfied and complained to this service. Among other points, she said that 
+Metro bank had been unprofessional and hadnt shown care for her, and hadnt investigated 
+this without bias. She believed her account had been hacked via the internet but she hadnt 
+downloaded any apps that would have compromised her account. She also said that in one 
+letter, Metro had referred to three transactions when there had been five, which she said 
+meant Metros checks were probably flawed. She said she felt that Metro had falsely 
+accused her and left her very stressed, as well as having to borrow from friends and family.
+Our investigator didnt uphold Miss Os complaint. He said that as Miss O was in possession 
+of the phone, and seemed to be the only person who knew how to access it, he was forced 
+to conclude that the disputed transactions were either done by her, or someone else with her 
+permission.
+Miss O asked the investigator to contact her phone provider for evidence that she hadnt 
+received a text with a one-time passcode. But the investigator explained that regardless of 
+the text, the most important issue was to establish any point of compromise. 
+Miss O said again that she wanted the investigator to contact her phone provider. She said 
+she hadnt received any messages or texts on her phone that day. She also said the 
+transactions were out of character because they were done during the night, and why would 
+she be doing transactions at that time. She said that when shed been to a Metro branch, 
+theyd told her the money went to the black web, and she asked how she could transfer 
+money to the black web which Metro couldnt trace. She said the money was her student 
+loan, which she needed to pay back, and it had affected her and her family, as she wasnt 
+working.
+Miss O asked for an ombudsmans decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+I recognise that Miss O feels very strongly about her complaint, and Ive looked carefully to 
+see what I think is more likely than not to have happened.
+Regulations 
+There are regulations which govern disputed transactions. The relevant regulations here are 
+the Payment Services Regulations 2017. In general terms, the bank is liable if the customer 
+didnt authorise the payments, and the customer is liable if they did authorise them. 
+The regulations also say that account holders can still be liable for unauthorised payments 
+under certain circumstances  for example if theyve failed to keep their details secure to 
+such an extent that it can be termed gross negligence.
+Who authorised the disputed transactions on Miss Os Metro account?
+First, I dont think it would be helpful for this service to contact Miss Os phone provider to 
+ask whether or not the phone received or sent any texts at that time. Thats because the 
+most important point here is how anyone other than Miss O could have authorised the 
+transactions. 
+But to deal with the text issue, the technical computer evidence shows that Metros systems 
+sent the message to the phone which had been registered to Miss Os Metro account some 
+months earlier. That phone had been successfully used for undisputed transactions. 
+Technically, no new payee on the account could be set up without the one-time code being 
+entered, and this happened. So Metros security checks for setting up any new payee were 
+fully completed.
+The technical evidence also shows the IP address (a unique computer identifier) from which 
+the transactions took place. Its the same as the IP address which Miss O had used two days 
+earlier to make an undisputed transaction.The transactions were done at night time. That alone isnt a reason for a bank to block them, 
+but I recognise that Miss O says she wouldnt have done them at that time of day. Ive 
+looked at the timings of logins and transactions on her account for a period around 3 August 
+2022. The timings vary, but I can see another login which also took place during the night.
+Importantly, Miss O said she still had her phone throughout. The IP address links the 
+transactions to a location Miss O had genuinely used just two days earlier. So perhaps 
+someone staying in her accommodation might have had access to the phone. But it would 
+still count as Miss O having authorised the transactions, if shed given permission, or if shed 
+failed to keep her details secure. And as shes said that she used a password, and no-one 
+had access to that, it means theres no clear way that anyone else could have carried out the 
+transactions.  
+Ive also noted that the amounts taken from Miss Os account stopped when her balance had 
+reduced to £67.23. There were no later failed transactions. So whoever carried out the five 
+large transactions knew that there wasnt enough in the account to attempt any more of the 
+same size. This again indicates that they were authorised either by  Miss O herself, or 
+someone close to her who knew the balance of the account. 
+Finally, Ive considered Miss Os argument that a Metro branch had told her that the 
+payments had gone to the black web. Ive seen nothing in Metros notes which indicate 
+this, or that Miss O has previously mentioned this. I appreciate that I wasnt present at the 
+branch where Mis O said she was told this, but I think this is unlikely. In any case, the exact 
+destination of the payments isnt the issue. The issue is  as Ive set out above in the section 
+about regulations - whether it was Miss O, or a third party fraudster, who authorised the 
+outgoing payments.  Thats what determines the outcome, not where the money went to.  
+Having considered all the evidence about the authorisation of the payments, I think its more 
+likely than not that Miss O authorised the payments herself, or that someone close to Miss O 
+had access to her security information and used that and the phone to make the payments. 
+This means that Metro doesnt have to refund her.
+My final decision
+My final decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Miss O to accept 
+or reject my decision before 6 June 2023.
+ 
+Belinda Knight
+Ombudsman

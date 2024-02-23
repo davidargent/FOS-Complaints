@@ -1,0 +1,159 @@
+DRN-3558387
+The complaint
+Mr R says he suffered a loss because Interactive Investor Services Limited (Interactive) 
+gave incomplete and inaccurate information when he placed an order to sell US shares held 
+within his ISA.
+What happened
+Mr R placed his order to sell the shares. It was a limit order, so Mr R set a minimum share 
+price he wanted for the sale and Interactive would try to fill the order only if the shares were 
+trading above this price or when this price was reached. The price Mr R set was in dollars as 
+the shares traded in dollars. 
+The receipt for the order, provided to Mr R after his order but before it was filled, gave a 
+figure for the orders value in dollars. That value should have been at least the dollar share 
+price he set multiplied by the number of shares. But the receipt showed a much lower figure. 
+Mr R says he tried to cancel the order as a result. For limit orders, a lot of time might pass 
+before the conditions are met and the order is filled. Here the price Mr R set was reached 
+less than a minute after hed placed his order, so his shares were sold. Theres no 
+suggestion Interactive was at fault for the order being filled before it could be cancelled.
+It is accepted that the figure on the receipt was the value of the trade if its dollar value (which 
+was a minimum of the limit price times the number of shares) were converted into sterling at 
+Interactives exchange rate at that time. The receipt incorrectly stated it as a dollar figure. 
+The currency the ISA could hold was sterling. So the dollar proceeds from the sale were 
+converted by Interactive into sterling at that point. Mr R has told us the shares he sold were 
+shares hed bought an hour earlier. I dont have details of that trade, but Ive assumed Mr R 
+bought them in his ISA. He hasnt said he didnt. That being the case, Interactive will have 
+converted sterling from his ISA into dollars when he bought them. Mr R hasnt said anything 
+went wrong when he bought the shares. His complaint arises from his order to sell them.
+Mr R says he sold the shares at a profit  that is, the dollar share price rose and he sold at a 
+higher price than hed bought  but he says he lost a substantial sum as a result of the sale. 
+He says the exchange rate remained constant. He says the source of his loss is Interactives 
+exchange rate spread. 
+In general terms, exchange rate spread refers to the difference between the buying and 
+selling price of a currency. A broker will sell a currency to customers for a higher price than it 
+will buy it from them. The difference is effectively a charge made by the broker.
+Interactives terms of service, in the charges section, says it will exchange currencies based 
+on the bid or offer exchange rates to which we apply a spread and it says the spread (that 
+is, the charge added by Interactive to the buying and selling rates) is detailed in its Rates 
+and Charges. This says the spread or margin rate applied to exchange rates are fixed 
+percentages, varying with the value of the transaction, and it sets out the percentage rates.
+Mr R says the trade preview screen for his sale order, shown before he placed his order, 
+didnt show an indicative dollar sterling exchange rate. Interactive thinks one was shown. In 
+any case it is agreed an exchange rate is usually shown on that screen.
+Mr R hasnt got a screenshot of the preview screen of his trade. But in support of what he 
+says about an indicative exchange rate not being shown, he has sent screenshots of an 
+order he previewed two days later. Like his order receipt, this gives a figure for the value of 
+the trade and states this as a dollar value when in fact the figure must be a sterling value. 
+Also there is no indicative exchange rate given. A screenshot he took months later for the 
+same sort of trade shows the value correctly as a sterling value and gives an indicative 
+exchange rate. Mr R says this shows the error was later corrected by Interactive.
+Mr R says if an indicative exchange rate - and/or a sterling value for the trade  had been 
+shown correctly, it wouldve given him an indication of what he was set to gain or lose from 
+the trade, which wouldve helped him make an informed decision. He says his loss was due 
+to the exchange rate spread and he was unaware of this large spread because the screen 
+didn't show an indicative exchange rate. He says the lack of complete information caused 
+his loss and Interactive should reimburse him. 
+Interactive acknowledges Mr Rs receipt gives a figure for the value of the trade stated as a 
+dollar figure when it is actually a sterling one. But it thinks an indicative exchange rate will 
+have been shown on the preview screen as it hasnt knowledge of anyone else having this 
+problem at the time. It says the absence of an indicative exchange rate from the preview 
+screenshot Mr R has sent is because it shows a trade settling in dollars. But the screenshot 
+has the same error as the receipt, with a sterling figure shown as a dollar one. Interactive 
+didnt comment on this or on why, if the figure given indicates the settlement currency was 
+sterling not dollars, an indicative exchange rate wasnt showing.
+I issued my provisional decision in May 2022. I agreed Mr R was most likely not shown an 
+indicative exchange rate like he normally wouldve been. But I didnt think this meant he 
+didnt know about the spread. Interactives terms made clear a spread was applied and its 
+rates and charges set out the rates. The spread applied on this trade was in line with these 
+rates and so not unexpectedly large. If Mr R wished to set a selling price that, allowing for 
+the spread, would get back what he paid for the shares, he had information available to 
+enable him to do this (assuming there was also a stable exchange rate).
+Interactive replied and didnt raise any new points. Mr R replied and didnt agree with my 
+conclusion that Interactive didnt need to compensate him. Ive considered all his points. In 
+brief summary, these included:
+Interactive is bound by the FCA code of conduct but decided to ride roughshod over 
+these rules. The provisional decision condones this and ignores the regulations. It fails to 
+hold Interactive to account for ignoring both the regulations and his evidence. 
+Interactive was required under Conduct of Business Rule COBS 6.1.9 to provide an 
+indication of the currency involved and the applicable currency conversion rates and 
+costs. It did not do this, and this breach of rules was the ultimate cause of his loss. 
+Correct and complete information at the point of a trade is what one would expect to 
+ensure trades are far, avoid doubt and meet the regulatory requirements of the sector.
+Interactives position was to ignore his clear evidence and say an indicative exchange 
+rate had been shown, and then say he had failed to review the rate. So Interactive did 
+expect customers to review the rate. Providing the rate wasnt a matter of convenience. What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, Ive arrived at the same conclusion as I did in my provisional decision and 
+for broadly the same reasons. Ill explain my reasons.
+Interactive offered a share trading facility. Mr R has said hed been happily using it for many 
+years. Interactive didnt undertake to advise Mr R on his trades. 
+The shares Mr R sold were traded in dollars. Due to the shares being in his ISA, when they 
+were sold the dollar proceeds would be exchanged to sterling. Mr R has said he understood 
+this would happen. Also he hasnt suggested that he wasnt aware there would be a spread. 
+I dont think an indicative exchange rate was shown on the preview screen for Mr Rs sell 
+order. He says it wasnt. Interactive says it hasnt anything to show it wasnt, but it also says 
+it has no record of any errors and Mr Rs receipt clearly shows there were errors. Also I think 
+the example screenshot Mr R has sent supports his case, as it shows a dollar transaction to 
+be settled in sterling but with no indicative exchange rate given and with what seems to be 
+the same error that appeared on Mr Rs own order receipt.
+The indicative exchange rate would combine the market exchange rate and Interactives 
+spread. But the rate would be indicative as, amongst other things, exchange rates could 
+change between the order being placed and it being filled. Mr Rs was a limit order so the 
+time between placing it and it being carried out was potentially open ended, as it wouldnt be 
+carried out unless and until the price he specified was reached.
+According to Interactives usual practice, an indicative exchange rate ought to have been 
+shown on the preview screen for the sale order. So there was a failing here. The usual 
+information, if shown, wouldve helped Mr R to know or work out the likely net sterling result 
+of his trade. I say this because although it was a limit order it was apparent it might be filled 
+quickly  like it actually was. I think Mr R had that possibility in mind when he placed it. So, 
+although the rate actually used could vary from any indicative rate, current exchange rate 
+information was still relevant to the decision Mr R was taking to place his order.
+Mr R has said that due to the indicative exchange rate missing from the preview screen, he 
+didnt know about the large spread that would be applied or know that the sale would result 
+in a loss in sterling terms. But Interactives terms of service made it clear any exchange of 
+currencies would be based on exchange rates adjusted for Interactives spread. It also 
+directed Mr R to its rates and charges where the spread rates were clearly set out. 
+So Interactive did tell Mr R about its exchange rate spread and the rates that would be 
+charged for this, which would vary according to the size of the fill. So, he was aware there 
+would be this charge, and I dont agree that he wasnt made aware of its scale.
+That information together with knowledge of the market exchange rate gave Mr R enough to 
+be able to anticipate the net sterling result of his order at the time he placed it  like an 
+indicative exchange rate would have. For example, exchanging the dollar proceeds of the 
+sale at the rate Mr R has said was current at the time and then deducting the spread set out 
+in the rates and charges gives a result in line with the result on Mr Rs receipt.
+So I think the spread applied was in line with the rates disclosed to Mr R in the rates and 
+charges. I dont agree the result couldnt have been anticipated by Mr R due to Interactive 
+imposing an unexpectedly large spread  which was the essence of his complaint. The net sterling result of the trade was calculable with knowledge of market exchange rates and the 
+spread. Mr R appears at the time to have been monitoring the applicable exchange rate.
+Mr R needed to decide himself whether a trade was right for him and whether he knew 
+enough about it before doing it. If he considered an indicative exchange rate essential to his 
+trade, he couldve queried its absence from the preview screen and sought help or 
+information about this from Interactive rather than proceeding without it. With this in mind, I 
+dont agree that the absence of that information was the ultimate cause of his loss.
+Ive considered carefully what Mr R has said about Interactives error also being a breach of 
+the regulatory rules. But I dont think this or the rule he has quoted changes what is fair and 
+reasonable in all the circumstances of this complaint. He knew the currencies involved, the 
+market exchange rate and had been made aware of the spread. It wasnt possible to give the 
+actual exchange rate or sterling value of the transaction or the amount of the spread (rather 
+than just its rate), as the value of the trade and exchange rate applicable wouldnt be known 
+until the order was filled. But Interactive had indicated to Mr R the basis on which this would 
+be calculated, including the rates of the spread that would be deducted.
+It is accepted that the order receipt issued afterwards had incorrect information, showing a 
+dollar value when the figure shown was actually the sterling value. Mr R had already placed 
+his order when he got the receipt and his request to cancel the order after getting the receipt 
+wasnt successful. So the error on the receipt made no difference to the order he placed or 
+to what he got back as a result of that order.
+In conclusion, I think its likely the sell order preview screen didnt show Mr R everything it 
+shouldve. But given the information and options Mr R still had available, I dont think it would 
+be fair and reasonable for Interactive rather than Mr R to bear responsibility for the results of 
+his sell trade  and I dont think Interactive was responsible for the loss he made as a result 
+of the pair of trades that concluded when that sell order was filled.
+In light of this and all Ive said above, I dont uphold Mr Rs complaint. Im grateful to Mr R for 
+his courtesy throughout and for all his points and the time he has taken to provide these. 
+My final decision
+For the reasons Ive given, I dont uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr R to accept or 
+reject my decision before 22 July 2022.
+ 
+Richard Sheridan
+Ombudsman

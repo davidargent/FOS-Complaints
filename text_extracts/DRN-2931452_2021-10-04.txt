@@ -1,0 +1,88 @@
+DRN-2931452
+The complaint
+Mr W complains that Barclays Bank UK PLC failed to refund a transaction that he disputes 
+making.
+What happened
+Mr W noticed a payment had left his account that he didnt recognise. Mr W notified Barclays 
+about the transaction and told them he didnt make it. Mr W said he didnt know the person 
+who the money was sent to. Mr W also made a report to Action Fraud about the loss.
+Mr W confirmed that no one else had access to his phone, knew the pass codes to his 
+phone or the banking app and he still had his debit card in his possession.
+Barclays looked into the transfer and told Mr W that they were holding him responsible for 
+making the payment. They said that there was no point of compromise. Barclays produced 
+evidence that Mr Ws nominated device was used to make the payment, using the correct 
+passcode and it was the same one that had been registered with Barclays to make previous 
+payments from the account. They also said the Internet Provider (IP) address matched 
+previous use by Mr W and that the details from Mr Ws debit card were needed to confirm 
+the payment because it was set up as a new payee.
+Mr W continued to disagree with Barclays and thought his identity had been hijacked. He 
+made a further complaint to Barclays about how theyd dealt with the investigation and 
+brought his complaint to our service for an independent review.
+One of our investigators looked into the details of the complaint and thought that it was 
+reasonable for Barclays to hold Mr W liable for the transaction. She also referred to an 
+incoming payment from another of Mr Ws accounts that funded the outgoing payment.
+Mr W disagreed with the outcome and stressed that when hed tried to enter the details of 
+the recipient into a different banking app, the details couldnt be confirmed, and Mr W 
+thought this was suspicious.
+The complaint has now come to me for a final decision. Mr Ws second complaint is a 
+continuation of his first and my decision takes that into account.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Mr Ws complaint is that he didnt make the transaction and Barclays case is that they think 
+he did. The relevant law surrounding authorisations are the Payment Service Regulations 
+2017. The basic position is that Barclays can hold Mr W liable for the disputed payment if the 
+evidence suggests that its more likely than not that he made it or authorised it.
+Authorisation is made up of two parts. Authentication and consent. Authentication is usually 
+referred to as the technical evidence and in this case, Barclays have supplied evidence that 
+shows the new payee was set up and the payment authorised using the mobile banking app 
+and the passcode. Theyve confirmed that it also required the details from Mr Ws debit card. 
+Because Barclays have been able to provide this information, Im satisfied the disputed 
+transaction was authenticated.
+Consent refers to the way in which Barclays and Mr W agreed to operate the account to 
+allow Barclays to make payments on Mr Ws behalf. For example, Barclays terms and 
+conditions set out that if a payment is arranged through mobile/internet banking and the 
+account holder uses their security details to confirm the payment, then Barclays accept that 
+the instruction to make the payment is authorised by the account holder. So, because the 
+passcode and debit card details were used to open the mobile app and confirm the payment- 
+Im satisfied that consent was given and the disputed transaction was authorised. But, there 
+are exceptions where it wouldnt be appropriate for Barclays to hold Mr W responsible, for 
+example, if the mobile app was used without his permission.
+Mr W continued to make the case that he didnt make the transaction. There was a transfer 
+into the account just prior to the disputed transaction, which took the account out of the 
+agreed overdraft and funded the transaction. Mr W has said it was coincidence the payment 
+arrived into his account to pay rent, but I think the timing is very fortuitous because the 
+disputed transaction couldnt have happened without this transfer. Mr W thought he was a 
+victim of identity theft, but I havent seen any evidence to support that.
+Mr W was adamant that no one knew his security details, or the information contained on his 
+debit card. All of this information was needed to make the payment and I dont think its likely 
+that an unknown third -party could obtain all of this information to make the payment. Also, 
+when I consider the timing of the incoming transfer, I think its more likely than not that Mr W 
+was responsible for making the payment himself or enabled someone else to do it with his 
+knowledge. I say that because the payment from the account wasnt made until it was 
+funded with the incoming transfer and its unlikely someone without access to the account 
+could have known that it had funds in it.
+Mr Ws online records also show that hed accessed his banking app in the days following 
+the payment from the account but didnt notify Barclays about the disputed transaction for 
+three days after it was made. I dont think its usual for someone who was a victim of a theft 
+to fail to notice the payment from the account when it was a substantial part of the balance 
+and they were using their banking app. 
+Mr W has stressed that when he tried to use the details of the beneficiary account in other 
+banking apps, they couldnt confirm the details and he thought this suspicious. At the time of 
+the disputed transaction in 2020, the beneficiary bank in question wasnt part of the 
+Confirmation of Payee scheme. What this means is that when an attempt is used to confirm 
+a new payee whose account is held with a bank thats not part of the system, the return 
+message shows that it wasnt possible to confirm the details. This doesnt necessarily mean 
+there is anything suspicious about the account, just that the bank isnt signed up to the 
+Confirmation of Payee system.
+Taking everything into account, I think its more likely than not that Mr W was responsible for 
+making the transaction or enabling someone else to do it with his knowledge. Im sure Mr W 
+will disagree with me, but the evidence Ive considered leads me to that conclusion. Because 
+I think it was reasonable for Barclays to hold Mr W liable for the transaction, I wont be 
+asking them to do anything.My final decision
+I dont uphold this complaint against Barclays Bank UK PLC.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr W to accept or 
+reject my decision before 3 November 2021.
+ 
+David Perry
+Ombudsman

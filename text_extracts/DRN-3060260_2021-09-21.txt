@@ -1,0 +1,309 @@
+DRN-3060260
+The complaint
+Mr J complains that National Westminster Bank Plc declined his claim under Section 75 of 
+the Consumer Credit Act 1974.
+  
+What happened
+In 2013 Mr J entered an arrangement with a company (Firm A) based abroad with regard 
+to Timeshare services it provided. In July 2013 Mr J paid it £800 using his NatWest credit 
+card. Mr J says he never got the services he paid for from Firm A. So after a period of time 
+where he was trying to speak to Firm A he realised it was being uncooperative. So he spoke 
+to NatWest in order to try and get his money back. 
+NatWest considered this but said the money had been paid to Company B (not Firm A -the 
+supplier of the service of Timeshare services) and that as such the required relationship 
+between the parties set out in the Consumer Credit Act 1974 wasnt in place (often referred 
+to as the DCS relationship). And accordingly NatWest said it wasnt liable for the £800 and 
+so wasnt going to refund it to Mr J.
+Mr J feels this is unfair, so he brought his complaint to this service. Our Investigator looked 
+into the matter and noted that the transaction was more complicated than previously thought. 
+Through their investigations they identified that NatWest made the payment which then went 
+to Company B which then passed it onto another Company (Company C) who took hold of 
+the payment. It said it would then remit the funds to Firm A. Our Investigator concluded that 
+as Company C took possession of the money this broke the DCS chain of relationships. 
+Accordingly the Investigator said that NatWest hadnt treated Mr J unfairly.
+I issued a provisional decision in favour of Mr J earlier this month. Both Mr J and NatWest 
+accepted my decision. Neither party chose to make any comments whatsoever. Accordingly 
+I see no reason to amend any part of my decision, and Mr Js complaint is successful. I set 
+out my reasoning in full below as it is important to my mind that this services approach to 
+these matters is understood more broadly.
+  
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Section 75
+Here I must consider what NatWest should do. To do this, I have to decide what I think is fair 
+and reasonable, having regard to, amongst other things, any relevant law. In this case, the 
+relevant law is s75 of the Consumer Credit Act 1974 (the Act) which says that, in certain 
+circumstances, if Mr J paid for goods or services on his credit card and there was a breach 
+of contract or misrepresentation by the supplier (Firm A), NatWest can be held responsible.
+I appreciate what Im about to say is similar to what Ive said in decisions previously. But I 
+think these matters are complex and consistency in approach and rationale is important. 
+Nevertheless I do appreciate some of the background to these issues Im about to explain 
+may be familiar.
+Historically credit cards worked within a commonplace three-party structure. Specifically that 
+there was:
+an agreement between the card issuer (the creditor) and the cardholder (the debtor) 
+to extend credit by paying for goods or services purchased by the cardholder from 
+suppliers who had agreed to honour the card; 
+an agreement between the card issuer and the supplier under which the supplier 
+agreed to accept the card in payment and the card issuer agreed to pay the supplier 
+promptly;
+an agreement between the cardholder and the supplier for the purchase of goods or 
+services.
+And accordingly this three-way relationship is often referred to as DCS as it represents the 
+interrelationships between Debtor, Creditor and Supplier.
+As time went by a new type of party entered the market and specifically these types of 
+transactions, known as the Merchant Acquirer. This led to the creation of four party 
+relationships where instead of the agreement being between the card issuer and the 
+supplier, there were two agreements:
+an agreement between the merchant acquirer and the supplier, under which the 
+supplier undertook to honour the card and the merchant acquirer undertook to pay 
+the supplier; and 
+an agreement between the merchant acquirer and the card issuer, under which the 
+merchant acquirer agreed to pay the supplier and the card issuer undertook to 
+reimburse the merchant acquirer.
+The impact of this development on the application of s75 was considered by the Court of
+Appeal in the case of Office of Fair Trading v Lloyds & others [2006] (the OFT case).
+The Court of Appeal first considered whether the introduction of the four-party structure
+meant that the system had evolved significantly beyond the state of affairs to which s75 had
+been directed. They concluded that it had not, stating at paragraph 55 of their judgment:
+From the customer's point of view  it is difficult to see any justification for drawing a
+distinction between the different [three-party and four-party] situations. Indeed, in the case of
+those card issuers such as Lloyds TSB, who operate under both three-party and four-party
+structures, the customer has no means of knowing whether any given transaction is
+conducted under one or other arrangement. Similarly, from the point of view of the card
+issuer and the supplier the commercial nature of the relationship is essentially the same:
+each benefits from the involvement of the other in a way that makes it possible to regard
+them as involved in something akin to a joint venture, just as much as in the case of the
+three-party structure.
+ They went on to say;
+It is clear that, whether the transaction is entered into under a three-party or four-party 
+structure, the purpose of the credit agreement is to provide the customer with the means to 
+pay for goods or services. It follows that in both cases the card issuer finances the 
+transaction between the customer and the supplier by making credit available at the point of 
+purchase in accordance with the credit agreement. The fact that it does so through the 
+medium of an agreement with the merchant acquirer does not detract from that because it is the card issuer's agreement to provide credit to the customer that provides the financial 
+basis for the transaction with the supplier.
+Having provided some important context to the circumstances in Mr Js case, I need to now 
+establish the exact nature of Company Bs role and involvement. And then what Company 
+Cs role was and whether or not that meant that there were the relevant arrangements 
+between NatWest and the supplier under which Mr Js purchase was financed, and therefore 
+whether or not there was the DCS link. NatWest hasnt disputed Mr Js position that Firm A 
+didnt provide the service agreed to. So I think establishing the situation with DCS here is 
+paramount. 
+The DCS issue
+I have considered the particular facts of Mr Js case. In order for s75 to apply there has to 
+have been arrangements between NatWest and the supplier to finance transactions between 
+NatWests cardholders and the supplier. Its clear that there was no direct arrangement 
+between them, but this isnt necessarily fatal to the application of s75.
+I say this because the Judge who heard the OFT case at first instance ([2005] 1 All ER 843) 
+had also considered the meaning of the word arrangements, as used in section 12, and 
+whether there existed relevant arrangements between creditors and suppliers in the four-
+party situation. She said that the use of the word showed a deliberate intention on the part of 
+the draftsman to use broad, loose language, which was to be contrasted with the word
+agreement. She went on to say at paragraph 26:
+In my judgment, in the natural ordinary sense of the word, there are clearly arrangements in
+place made between the card issuers and the suppliers, notwithstanding the absence of any
+direct communication between them, or any direct contractual relationship, or even of
+knowledge on the part of the issuer of the identity of the particular supplier. The fact that
+there are a number of different arrangements, reflecting the various roles, contractual or
+otherwise, played by different participants in the network, does not mean that there is not an
+arrangement in place between the issuer and the supplier. I consider that it is unrealistic to
+look merely at the individual links in the chain; rather one should stand back and look at the
+whole network of arrangements that are involved in the operation of the schemes. If one
+does so, one can, in my judgment, properly conclude that, by virtue of the supplier and the
+issuer being subject to the rules and settlement processes common to all participants in the
+card network, there is indeed an arrangement (albeit indirect) between them.
+In the Court of Appeal, the creditors argued that arrangements should be given a narrower
+meaning that took the four-party structure outside the definition. But the Court of Appeal
+agreed with the Judge that arrangements had been used to embrace a wide range of
+commercial structures having substantially the same effect. They held it was difficult to resist
+the conclusion that such arrangements existed between credit card issuers and suppliers
+who agreed to accept their cards, and stated;
+Moreover, we find it difficult to accept that Parliament would have been willing to allow some
+consumers to be disadvantaged by the existence of indirect arrangements when other
+consumers were protected because the relevant arrangements were direct.
+Accordingly to arrive at a fair outcome I need to stand back and consider the whole network 
+of arrangements that were involved in Mr Js transaction and, in particular, what Company 
+Bs and then Company Cs roles were within that network.
+Ive considered Visas rules regarding the scheme it operates. I note from its rules from 2013 
+it says that financial institutions, payment data processors, and other qualified business entities may participate in the its system by meeting the conditions outlined in the 
+agreement. In my provisional decision I went on to describe part of its terms which in 
+summary deal with the inter-relationships and obligations of those participating in its 
+scheme. I have not quoted those terms here but both parties are aware of the specific terms 
+I mean as they are quoted in my provisional decision. But in short it is clear from those terms 
+that participants are responsible for all errors, acts and omissions of such third parties 
+including their agents and vendors.
+Does Company B break the DCS chain?
+So our Investigator looked into Company B to try and get confirmation of its role in this 
+transaction which included talking to Company C. Company B is now in liquidation, so our 
+Investigator contacted the Liquidators of Company B who confirmed it did not have access 
+Company Bs books and records, nor its historic financial data. It was therefore unable to 
+provide any information in relation to this transaction or indeed any real detail of the services 
+provided by Company B at all. It is of note that Companies House lists Company Bs nature 
+of business as being Data processing, hosting and related activities. Ive also listened to 
+the call between this service and Company C. In that call the Company C representative 
+said in relation to this specific transaction that Company B was acting as its bank in this 
+transaction. In essence it said Company B was merely processing the payment rather than 
+being a party to the transaction, a gateway if you will. So although the evidence here is far 
+from all encompassing, Im satisfied on balance of probabilities that the presence of 
+Company B doesnt break the DCS relationship.
+But does Company Cs presence break the DCS chain?
+However I note that during that call with Company C the representative of Company C made 
+clear she was talking about Mr Js transaction specifically as she, during the course of the 
+call, asks for details about it and then says shes found it on her system. She also describes 
+the service that Company C provides and how that it receives payments on behalf of its 
+account holders (Firm A in this case). She also describes how it then holds such payments 
+until it remits it to its account holders in due course. 
+Ive considered Company Cs role here carefully. And I can see it provides different services 
+to different parties. And in some cases (albeit according to its current website) it seems clear 
+that it has and can act as a gateway (and in such a case it would appear that it wouldnt 
+break the DCS chain). 
+It is clear this transaction was a long time ago and evidence about it is scant. Company C 
+stated it didnt have all the information it would have done at the time of the transaction. And 
+NatWest couldnt provide more evidence about it either when asked to do a trace by this 
+service. However I note that on Mr Js credit card statement it appears that Company C was 
+the intended recipient of the transaction rather than Firm A. And Company C says it would 
+have taken possession of the money and held it. On balance Im satisfied that Company C 
+was more than a merely a gateway/processor of the payment and rather was providing a 
+service where it held and managed this payment on behalf of Firm A. But is that enough to 
+break the DCS chain?
+As Ive stated already Im obliged to consider the law in making determinations that I think 
+are fair and reasonable.
+The High Court considered s75 in the case of Governor and Company of the Bank of 
+Scotland v Alfred Truman (a firm) [2005] EWHC 583, (the Truman case). In this case the 
+High Court held that its the nature of the role that each party plays and the nexus between 
+the supplier and creditor thats the relevant consideration. I do not propose to recount all the details of the case here. However I would note the following; the Truman case involved the 
+court considering a five-party structure in which the fifth party, had no contractual or other 
+direct relationship with the relevant scheme. But it was held that it did not matter that the 
+card issuers had no direct contractual or other relationship with the fifth party or that the card 
+issuers had no idea of the existence of the fifth party. There still existed arrangements 
+sufficient for the requisite DCS link which were not too tenuous.
+In Mr Js case, I think there are stronger indications of relevant arrangements than those in
+the Truman case given that Company B and Company C were both independently, 
+specifically and publicly in the business of processing or facilitating financial transactions. 
+After all, in the Truman case one of the connecting parties was a solicitors firm who had the 
+facilities to enable the transaction. The solicitors acted for the car company in the Truman 
+case and provided a variety of legal services to them. The solicitors were only part of the 
+transaction chain in the Truman case because it had a machine to take the payment. Their 
+primary commercial offering was legal services, it was not in the commercial enterprise 
+providing financial transactional services. 
+Here Company C is specifically a company providing a number of services specifically in 
+relation to financial transactional activities on behalf of its clients. The transactional services 
+provided by Company C here are those that Firm A had in essence outsourced to it. And 
+clearly the network (Visa) had arrangements with Company C and NatWest would be able to 
+know of Company C and its offering prior to the transaction in this case by dint of both being 
+users of the Visa network.
+I would also note that both NatWest and Firm A undoubtedly benefit commercially
+from the involvement of the other, through the intermediations of Company C and Company 
+B, in a way that makes it possible to regard them as in something akin to a joint venture. 
+Specifically, by financing purchases from the supplier NatWest are able to lend money to 
+their customer and make interest and/or other charges for that service, whilst the supplier 
+(Firm A) is able to obtain payments from NatWests credit card holders and so benefit from 
+the credit NatWest extended (albeit indirectly).
+I note that in the paperwork Mr J received from Firm A it described that its name would 
+appear on Mr Js credit card statement as the billing descriptor. And it is clear that this was 
+the paperwork that was used by Firm A in its in-person meeting with Mr J. So it would seem 
+likely that it was an up to date description of the intended transaction. So it is unclear why 
+the transaction appears differently (mentioning both Company B and Company C). However 
+considering the timing of the transaction and what Mr J has told us it seems unlikely to have 
+been an E-money type of service provided here by Company C (which could break the DCS 
+chain). It seems more likely that Company C provided more back office type services on 
+behalf of Firm A than the straight through type service Company B provided.
+Company C has said that it can hold money on behalf of its clients (Firm A) and that Firm A 
+was the final recipient of this transaction amount. But Im not persuaded on balance that this 
+is enough to break the chain. And I think it fair that if businesses such as Natwest are going 
+to argue that the DCS chain is broken it should provide evidence to support this in its 
+submissions from the outset. But NatWest hasnt provided evidence to support its 
+submission here-even when this service has asked more about the transaction (albeit after 
+the event). 
+Mr J has felt for some time that NatWest shouldnt get out of being liable here just because 
+of the presence of other parties in the chain. Which echoes the position of the court cases 
+that Ive mentioned. And, after all, the intention of the originating legislation (the Consumer 
+Credit Act) was to provide consumer protection in certain circumstances rather than to 
+protect creditors. And Ive seen no persuasive evidence that Company C didnt pay Firm A the amount Mr J agreed to or that it was held for an unreasonably long time or was split up, 
+aggregated with other payments or went through any form of exchange mechanism (whether 
+currency or E-money). On balance I think the money went from Mr J to Firm A as intended, 
+as per the arrangements in place without sufficient change to alter the nexus of the 
+relationship between the supplier (Firm A) and the creditor (NatWest).
+In short, and on balance Im satisfied that Company C operated at the time a formal and 
+structured system which enabled parties, such as Firm A in this case, to receive payments 
+made by credit card to pay for the supply of goods and services to the cardholders such as 
+Mr J. Further, both NatWest and Company C were bound to the same network rules through 
+the arrangements here and therefore subject to the rules and settlement processes of the 
+network (albeit indirectly). These features are all consistent with the existence of the required 
+arrangements, for the purposes of s75, between NatWest and Firm A.
+NatWest could have argued that although Company C could be known to it, Firm A is not. 
+But I dont think this makes a difference. Clearly both Firm A and NatWest benefit 
+commercially from the arrangements in place here through though the intermediations of 
+Company B and Company C. And the law doesnt require them to be known to one another. 
+And considering they both benefit from the arrangement in place here and such 
+intermediations and such transactional services are provided to facilitate such mutually 
+beneficial arrangements I think whether or not they are known to one another beforehand 
+doesnt make a difference.
+Taking this into account, and looking at the principles outlined in the OFT case and what we 
+know of the situation here, it seems to me that NatWest provided finance to Mr J which
+enabled him, through the mediums of Company B and Company C, to pay for services from 
+Firm A. The purpose of the credit agreement between NatWest and Mr J is to give him the 
+means to pay for goods and services, which is what he did when he agreed to pay Firm A for 
+its services. So, following the reasoning in the OFT case, NatWest financed that transaction
+by making credit available to Mr J at the point of purchase in accordance with his credit
+agreement.
+Ive not seen any persuasive evidence that the services that either Company B or Company 
+C provided here were sufficient to break the DCS chain. It is clear from the court cases Ive 
+described the mere presence of another party in the chain is insufficient to break the chain. 
+There has to be more than this to break the chain, for example an e-money transaction 
+within the transaction or something that makes the linkage too tenuous. 
+And just because NatWest say either Companys presence breaks the chain doesnt make it 
+so. And NatWest hasnt been able to demonstrate through evidence from the transaction 
+that the service either provided broke the chain or that the arrangements in this situation 
+were too tenuous. And on balance I dont consider the arrangements to be more tenuous 
+than those examined by the court in the Truman case, but rather the opposite due to the 
+nature of the services provided by Company B and Company C as described. 
+Neither Mr J nor NatWest has sought to comment on my rationale here. So I find that the 
+DCS chain is not broken here and Mr J can make a claim to NatWest under s75 in relation to 
+the £800 payment made for services to be provided by Firm A. 
+Further issues including liability
+Another requirement under s75 is that the cash price needs to be within certain financial 
+limits. Mr J paid £800 here to Firm A. And that falls within the financial limits. So I dont think 
+there is any issue on that aspect of this claim.From the evidence Ive seen relating to the payment it is clear that the card transaction was 
+ultimately destined for and received by Firm A. It is also clear that the service Mr J bought 
+was that of getting him out of his timeshare arrangement. But Firm A didnt provide this 
+service, indeed it didnt provide any service to Mr J. (However Mr J did manage to extricate 
+himself from the timeshare arrangement by separately agreeing terms with the timeshare 
+company he had a relationship with).
+It is also clear from what Mr J has said that representations were made to him about this 
+service provided by Firm A which he relied on to his detriment in entering the agreement. 
+Similarly there is a breach in relation to the issue of the processing fee (which is what he 
+paid) being fully refundable if Firm A didnt take the matter forward (as is described in the 
+terms and conditions). So considering what we know here I think on balance that Mr J was 
+misrepresented to by Firm A and the contract was breached. And under s75 and for the 
+reasons Ive described I think Mr J can make a valid claim against NatWest for the £800 he 
+paid for the services he wouldnt have paid for unless hed been misrepresented to.
+Since my provisional position outlined about NatWest has chosen not to dispute my rationale 
+on these issues either. Accordingly my position on the liability issue stands. And thus 
+NatWest should put things right.
+  
+Putting things right
+For all of these reasons, I think that a fair and reasonable outcome is for Mr J to be refunded 
+the payments of £800. I think that NatWest should also pay Mr J 8% annual simple interest 
+on this amount. The calculation should be from the earliest opportunity that NatWest had to 
+refund
+Mr J  namely the date at which Mr J provided all necessary supporting information to
+support his claim to it. 
+For all of these reasons, my final decision is that there were arrangements
+between NatWest and Firm A under which NatWest financed this transaction between
+Mr J and Firm A. I think this transaction meets the financial requirements under the Act. And 
+DCS is intact and s75 applies. And as Im persuaded on balance Mr J was misrepresented 
+to by Firm A and the contract was breached and under the Act NatWest can be held 
+responsible, I think it fair that NatWest pay Mr J £800 plus interest as Ive described.
+  
+My final decision
+For the reasons set out above, I uphold the complaint against National Westminster Bank 
+Plc and direct it to put things right as I have set out above.
+  
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr J to accept or 
+reject my decision before 19 October 2021.
+ 
+Rod Glyn-Thomas
+Ombudsman

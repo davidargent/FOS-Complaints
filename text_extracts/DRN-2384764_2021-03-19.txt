@@ -1,0 +1,147 @@
+DRN-2384764
+The complaint
+K, a partnership which Ill refer to as K complain that WorldPay (UK) Limited (WorldPay) 
+unfairly deducted payments from Ks account after a chargeback was raised against it. Mr B, 
+who is a partner, brings the complaint on Ks behalf. 
+What happened
+WorldPay act as Ks merchant acquirer and in 2017, A entered into a merchant processing 
+agreement with WorldPay whereby WorldPay provided a card terminal for transactions to be 
+processed by K. 
+In October 2019, Mr B was telephoned by a customer who placed an order for goods 
+totalling £8,700. The goods were paid for over the phone in three instalments using a Visa 
+debit card. The payments were processed as card not present (CNP) transactions. 
+On the day of the transactions, and because the customer wanted to collect the goods rather 
+than have them delivered, Mr B has told us that he checked Ks WorldPay dashboard to see 
+if the payments were showing. When they werent, he spoke to a member of WorldPay 
+customer services team. He says he was told the payments would not show up immediately 
+but that if the payments were made using a debit card and were authorised there shouldnt 
+be a problem. After a few days Mr B checked the dashboard again and, noticing the 
+payments were now showing, the goods were delivered. 
+A further order came in from the same customer the day after the delivery and payment for 
+that order was also taken. But before the second order could be delivered, K was contacted 
+by WorldPay advising the first payment was being disputed and reclaimed through a 
+chargeback. K didnt go through with the second order. 
+WorldPay later debited Ks account with the payments. And although the payments were 
+temporarily recredited the day after, a further and final deduction took place a few days after 
+that. 
+Mr B complained to WorldPay about what had happened. But WorldPay didnt think theyd 
+done anything wrong. Mr B didnt agree and brought Ks complaint to this service.  
+One of our investigators looked into the complaint. And after considering the terms and 
+conditions of Ks agreement with WorldPay, as well as the associated Customer Operating 
+Instructions (COI), concluded WorldPay acted in accordance with those agreements and 
+therefore hadnt done anything wrong. 
+Mr B didnt agree. Both he and a representative have made a number of points as why  
+which Ill summarise: 
+The goods werent delivered until after WorldPay were contacted and the payments 
+were showing on Ks dashboard.    
+K has a delivery note demonstrating the goods were in fact delivered. And a VISA 
+slip stating Verification Response All Match. In such circumstances, Mr B believes a 
+chargeback can be defended. 
+As the affected party, K had the right to contest the chargeback. WorldPay didnt 
+contest it nor did they help K to do so.  
+WorldPay didnt follow their own policy when debiting the disputed funds from Ks 
+account. Worldpay had asked for bank statements evidencing K had no affordability 
+concerns. And yet WorldPay went ahead with the deduction despite K not providing 
+the statements. The deduction could have been disastrous financially for K.   
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so I find Im in broad agreement with the investigator for reasons Ill come to in 
+a moment. 
+But first, I should say how sorry I am to hear that in essence, K has been the victim of fraud 
+and has lost money as a result. The person who was ultimately responsible for Ks loss 
+managed to take a significant amount of goods from it and the payments K thought had been 
+made legitimately were returned through a chargeback. So, I need now to consider whether 
+WorldPay treated K unfairly in the way they dealt with that chargeback. 
+Its worth noting that chargeback payments are governed by the specific rules of the relevant 
+card scheme  in this case VISA. And the expectation is that WorldPay will abide by those 
+rules when dealing with chargeback claims. The obligations WorldPay have towards K when 
+dealing with such claims are set out in the agreements, they entered into with K. 
+In respect of the transactions that were completed by K, it would seem that the card holder 
+whose account was debited wasnt the person who carried them out. And on that basis the 
+account holders bank instigated the chargeback through VISA.  Under VISA rules there 
+does seem to have been a valid reason for raising the chargeback. In other words, the 
+genuine cardholder didnt carry out the transactions.  
+Ive looked at the terms and conditions of the agreement K entered into with WorldPay, as 
+well as the COI which set out the risks for CNP transactions. Ive done so particularly to 
+determine whether WorldPay could fairly require K to bear responsibility for the chargeback 
+arising from the disputed transactions. Having looked at the terms and conditions of these 
+agreements Im satisfied they can. 
+Section 6 of the terms and conditions which deal with Chargebacks and Assessments says:  
+6. CHARGEBACKS AND ASSESSMENTS
+6.1 Each Chargeback and each Assessment represents a debt immediately due and 
+payable by you to us.
+6.2 You acknowledge and agree that you may be required to reimburse us for Chargebacks 
+in circumstances where you have accepted payment in respect of the relevant Transaction, 
+even if you are under no legal liability in respect of the supply of the goods or services 
+concerned.
+6.4 In the event you wish to dispute a Chargeback it is your responsibility (i) to prove to our 
+reasonable satisfactionthat the debit of the Buyers account was authorised by such 
+Buyer; and to provide us with such other evidence as we may require you to provide in 
+support of your claim. 
+6.5 Subject to the Scheme Rules, neither we nor any Other Financial Institution shall be 
+obliged to investigate the validity of any Chargeback or Assessment.So, the terms and conditions of Ks agreement with WorldPay make it clear that K will be 
+liable for any successful chargeback. I do not find it was unfair for WorldPay to rely on them. 
+Mr B has fairly highlighted the steps that were taken by K before the goods were delivered in 
+order to try and prevent the situation K later found itself in. They included contacting 
+WorldPay on the date payments were accepted for the goods to find out the position 
+regarding the payments. I know Mr B believes he was poorly advised on that call. Like the 
+investigator Ive also listened to the call.  
+I agree with the investigator that at no time did WorldPay confirm that the goods could be 
+safely released. In fact, he twice said that he couldnt confirm this and asked Mr B to call 
+again the following day. 
+Ive considered whether WorldPay should have been more helpful on the call and whether 
+they should have mentioned the possibility of a chargeback. But it was a brief conversation 
+and Mr B didnt directly ask if he would be safe releasing the goods when payments showed 
+up on Ks WorldPay dashboard. In the context of that call, I dont think it was unreasonable 
+of WorldPay not to give more guidance. 
+I appreciate Mr B delayed delivery until after the payments were showing on WorldPays 
+dashboard, which hed checked a few days after the transaction. And he might also have 
+taken comfort from the fact the transaction receipts showed an authorised notification and 
+an All Match verification.  
+But because these were CNP transactions they were inherently risky as the COI made clear. 
+And they highlighted the need to be cautious even in circumstances where a merchant 
+receives the type of notifications K did.  
+COI states:
+Does receiving an Authorisation mean I will be paid 
+No. Receiving an Authorisation for a Transaction is no guarantee of payment. It does not 
+confirm the authenticity of the Card presenter or the Card, nor does it guarantee payment. 
+In fact, authorisation means that there is no known problem with the payment at that time 
+and the related card has not been reported lost or stolen. And the data match verification 
+doesnt prove that the genuine cardholder authorised the transaction as it could be that 
+someone has had access to their details. Its because of these inherent risks when it comes 
+to CNP transactions, that the COI sets out what are in my view appropriate steps that should 
+prudently be taken to minimise them. 
+I next consider whether the chargeback shouldve been defended.
+I can understand why K would have been disappointed a defence to the chargeback wasnt 
+attempted. Not least because when notifying K of the chargeback, WorldPay did ask for 
+evidence that might help mount a challenge. 
+Although the terms and conditions of Ks agreement with WorldPay states they arent obliged 
+to investigate the validity of any chargeback, we would think it reasonable to do so if there 
+was a reasonable chance of a successful outcome.  
+But WorldPay have explained they wouldnt have been able to successfully challenge the 
+chargeback on Ks behalf in any event. And that was because of a number of concerns 
+surrounding the transactions - including: 
+they were taken as CNP with all the associated risks;
+they were split as three payments  contrary to COI guidance; 
+it wasnt possible to confirm the goods were delivered to the cardholder  as 
+apparently, they were delivered to a sports centre playing fields; andit wasnt possible to prove the cardholder participated in the transactions.  
+Given these concerns, it does seem unlikely that a successful challenge to the chargeback 
+would have been possible. And in the circumstances, I do not find WorldPay treated K 
+unfairly when they decided not to go ahead with one.   
+I come finally to Ks argument that because, without prior notice, WorldPay debited their 
+account with the chargeback transactions, they didnt follow their procedures. In particular, 
+because WorldPay requested statements to show whether the deductions would be 
+affordable but went ahead anyway despite not being given the statements.  
+But the purpose behind WorldPays request for statements wasnt to safeguard Ks position 
+as the letter to K dated 7 November 2019 made clear. So, in my opinion failure to provide 
+the information didnt preclude WorldPays action in debiting Ks account. They had the right 
+to do so under the terms and conditions of their agreement with K. In the circumstances Im 
+unable to conclude WorldPay acted unfairly when they exercised that right. 
+My final decision
+My decision is that I do not uphold this complaint 
+Under the rules of the Financial Ombudsman Service, Im required to ask K to accept or 
+reject my decision before 16 April 2021.
+ 
+Asher Gordon
+Ombudsman

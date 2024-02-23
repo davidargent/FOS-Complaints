@@ -1,0 +1,138 @@
+DRN-4452587
+The complaint
+Mrs K has complained that Lloyds Bank PLC (Lloyds) didnt fairly or reasonably deal with 
+claims under the Consumer Credit Act 1974 (CCA) in relation to a holiday product bought 
+using her credit card.
+What happened
+In May 2015, Mrs K purchased holiday club membership from a business Ill call 
+Business C. It cost £5,598 and it was paid for by Mrs K  in part  using her Lloyds credit 
+card1.
+The purchase agreement entered into by Mrs K was made between her and Business C. 
+However, the credit card payment wasnt made directly to Business C, rather it went to a 
+different business Ill call Business F.
+Mrs K made three payments using her credit card to Business F as follows:
+05/07/2015 - £500
+04/08/2015 - £500
+03/09/2015 - £4,098
+In 2021, using a professional representative (PR), Mrs K made a claim to Lloyds under
+section 75 of the CCA. The reasons for the claim are familiar to both sides so I dont intend 
+to repeat them in detail here. But, in summary, Mrs K said Business C made 
+misrepresentations at the time of sale and that, under section 75 CCA, Lloyds was jointly 
+responsible to answer for them.
+Lloyds responded to the letter of claim by explaining that its section 75 team had not had the 
+opportunity to review a claim as there was no evidence of a claim having been made. It went 
+on to say that the relevant documents had been forwarded to its section 75 team and they 
+would be in touch in due course.
+Unhappy with this response, the complaint was referred to our service. 
+One of our investigators looked into matters and issued their findings in November 2023. In 
+short, our investigator said there wasnt the right arrangement in place to make such a claim 
+because Mrs K hadnt used her credit card to pay Business C directly. 
+PR disagreed with our investigators findings. And, as an informal resolution couldnt be 
+reached, the complaint was referred for an ombudsmans decision.
+ 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+1 Although the membership was in the names of Mr and Mrs K, as the credit card used was in Mrs Ks
+name, only she can make this complaint.
+reasonable in the circumstances of this complaint.
+When doing that, Im required by DISP 3.6.4R of the Financial Conduct Authoritys 
+Handbook to take into account the:
+(1) relevant:
+(a) law and regulations;
+(b) regulators rules, guidance and standards;
+(c) codes of practice; and
+(2) ([when] appropriate) what [I consider] to have been good industry practice at the relevant 
+time.
+Section 75(1) CCA states:
+If the debtor under a debtor-creditor-supplier agreement falling within section 12(b)
+or (c) has, in relation to a transaction financed by the agreement, any claim against
+the supplier in respect of a misrepresentation or breach of contract, he shall have a
+like claim against the creditor, who, with the supplier, shall accordingly be jointly and
+severally liable to the debtor
+Section 12(b) CCA states that a debtor-creditor-supplier (D-C-S) agreement is a regulated
+consumer credit agreement being:
+a restricted-use credit agreement which falls within section 11(1)(b) and is made by the
+creditor under pre-existing arrangements, or in contemplation of future arrangements,
+between himself and the supplier.
+An agreement is a s.11(1)(b) restricted-use credit agreement if it is a regulated CCA
+agreement used to finance a transaction between the debtor and a person (the supplier)
+other than the creditor.
+The upshot of this is that there needs to be a D-C-S agreement in place for the lender
+(Lloyds) to be liable to the borrower (Mrs K) for the alleged misrepresentations of the 
+supplier (Business C). But, on the face of it, there was no such arrangement in place at the 
+relevant time. 
+The law in this area was clarified by the High Court in Steiner v. National Westminster Bank 
+plc [2022] EWHC 2519 (KB) (Steiner).
+The late Mr Steiner (the Estate) paid for a timeshare provided by Club La Costa Vacation 
+Club Ltd (CLC) using his NatWest credit card. So, for the purposes of s.11(1)(b) of the 
+CCA, NatWest was the creditor, the late Mr Steiner was the debtor and CLC was the 
+supplier. But the payment of £14,000 was in fact taken by FNTC.
+The Estate initially argued that the right arrangements were in place because there was a 
+Deed of Trust between CLC and FNTC under which CLC would receive payment. But the 
+High Court was not persuaded by this. On appeal, the Estates claim sought to demonstrate 
+that the credit agreement was made under pre-existing arrangements, or in contemplation 
+of future arrangements and extended to CLC under section 12(b) CCA.
+But the High Court dismissed the appeal. And in doing so, the Court held that arrangements
+could not be stretched so far as to mean that NatWest made its agreement with the late Mr
+Steiner under the Deed of Trust (of which it was presumably unaware) as well as under theMastercard network. Therefore, the existence of the Trust Deed didnt help to create a valid 
+D-C-S agreement for the purposes of the CCA.
+The circumstances of Mrs Ks case are very similar to the circumstances in Steiner. In this
+case, Business F took payment for Mrs Ks purchase of Business Cs holiday club 
+memberships. So, based on the judgment in Steiner, I think a court would come to a similar 
+conclusion and say that there was no D-C-S agreement in place and, in turn, no valid section 
+75 CCA claim.
+I say this because it seems to me to be difficult to argue that Lloyds entered into the credit 
+agreement with Mrs K under, or in contemplation of, any arrangements other than the 
+relevant card network. And while there may well have been arrangements between Lloyds 
+and Business C (the relevant card network) and arrangements between Business F and 
+Business C (the Deed of Trust), as the High Court recognised in Steiner in the natural and 
+ordinary meaning of the words used in section 12(b) of the Act does not extend to saying 
+that NatWest made its agreement with Mr Steiner under both the Mastercard network and 
+the Trust Deed (or under both the Mastercard network and any other arrangements which 
+parties to the Mastercard network might have with third parties).
+Under section 187 of the CCA, there are also ways in which there might exist a D-C-S
+agreement even if a supplier isnt paid directly using a credit card. For example, if Business 
+F and Business C were associates as defined by section 184 of the CCA, there might have 
+been the right arrangement in place at the right time. I havent seen anything to persuade me 
+thats likely to have been the case here.
+PR has said that the court in Steiner was unaware of the nature of any contractual 
+relationship between CLC and FNTC and, therefore, for the purposes of this complaint, it 
+would be reasonable for our service to assume that the relationship was identical to the 
+relationship outlined in another decision made by our service. In other words, PR says it 
+seems reasonable to assume Business F was acting solely as a payment processor for 
+Business C and, therefore, there was a D-C-S agreement in place at the right time.
+However, I do not agree with this assumption. I say this because traditional payment 
+processors act as a way for a supplier to receive its money. In Steiner the court set out 
+various clauses within the Deed of Trust that indicate FNTC provided more than a financial 
+transaction service. For example, Clause 4.1 of the Deed of Trust provided as follows: 
+The Trustee shall hold the Property upon trust to secure for the Members the rights of 
+occupation in the Scheme Accommodation under and in accordance with and subject to the 
+provisions of the Articles.  
+Further, in Steiner the judge said:
+There was no evidence before me as to the general practice as to the structure of time 
+share arrangements, but it was not disputed that the use of a trustee in such an 
+arrangement, while not required by law, is common in the United Kingdom and has as its 
+purpose, as one would expect, the protection of consumers.
+I recognise PR has cited another decision made by our service, but it is important to be clear 
+that each case turns on its own facts. And, in this case, I havent been provided with 
+anything to suggest the services provided by Business F were any different to those set out 
+in Steiner. With that being the case, I havent seen anything to persuade me that Business F 
+were acting solely as a payment processor. It follows that, for the reasons Ive already 
+explained, I do not think the right arrangements were in place to give rise to a valid section 
+75 claim.Finally, in response to our investigators findings, PR said the Financial Ombudsman Service 
+is dealing with complaints, not legal causes of action. And PR went on to say that our service 
+is free to depart from the relevant case law when doing so would result in a fair and 
+reasonable answer being reached.
+ 
+Under the rules set out above, I explained that I must take into account the law, but come to 
+my own determination of what is fair and reasonable in any given complaint. Here, for the 
+reasons Ive explained, I dont think it would be fair to make Lloyds responsible for 
+Business Cs alleged failures when the law didnt impose such a liability.
+It follows that I dont think Lloyds needs to answer the claim made.
+My final decision
+My decision is that I dont uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mrs K to accept or 
+reject my decision before 10 January 2024.
+ 
+Ross Phillips
+Ombudsman

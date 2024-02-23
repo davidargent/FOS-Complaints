@@ -1,0 +1,127 @@
+DRN-4250878
+The complaint
+Mr M complained because Monzo Bank Limited refused to refund him for payments from his 
+account, which he said he hadnt authorised.
+What happened
+On 1 June 2022, a payment of £1.04 debited Mr Ms Monzo account, followed immediately 
+by another for £24.26. There were further payments in June and July, all to the same 
+recipient organisation. The total came to £165.65.
+On 1 August, Mr M completed a Monzo online dispute form to report that he hadnt made the 
+transactions. Monzo investigated. The payments had been made using a mobile payment 
+service, using ecommerce online. Monzo replaced Mr Ms card, after which there were no 
+more disputed payments. But Monzo didnt uphold Mr Ms complaint that the payments had 
+been fraudulent, and it refused to refund him. In its final response letter, Monzo said that the 
+decision was based on the data it had available, and the timeline of events. These 
+suggested it wasnt possible for the transactions to have been authorised by anyone else.
+Mr M didnt agree. He said hed been out cycling at the time of some of the transactions, 
+which he said he could prove by an app. He also said hed asked several times to speak to 
+Monzo, rather than use email. Monzo reopened the complaint, but still didnt uphold it. It told 
+Mr M that a phone call would serve no purpose as hed been through Monzos complaint 
+process. It gave him referral rights to this service. 
+Mr M wasnt satisfied and contacted this service. He set out what had happened, and said 
+hed lost £165.65 as a result of the fraudulent claims. He also asked for a formal apology 
+from Monzo and acceptance it had handled his case badly. 
+Our investigator upheld Mr Ms complaint. He said that it was likely that Mr M had been 
+scammed into signing up to a Continuous Payment Authority, but there was no evidence that 
+Mr M had authorised this. So he said Monzo should refund Mr M with the £165.65, plus 
+interest at 8% simple from 1 June 2022 to the date of payment.
+Monzo didnt agree. It said that the payments had been made using a mobile payment 
+service token, which Mr M had approved from his device. And this was the only device on 
+the account at the time, and Mr M had confirmed no-one else had access to this. The same 
+mobile payment service token had been used for genuine transactions, so Monzo believed 
+that Mr M had authorised the first transaction himself. The subsequent payments had been 
+authenticated using the credentials already on file which Mr M had authorised with the first 
+transaction.
+Monzo said there was no evidence of a scam having taken place as the investigator had 
+said. It explained that the recipient was a billing processor used for discretion by merchants 
+providing adult services or content. If Mr M had said hed made the first payment but didnt 
+believe he should be charged further, Monzo would have raised a chargeback with the 
+merchant for the later payments. But instead, Mr M had denied making any of the payments. 
+As no-one else could have authorised the payments, Monzo said it was right to refuse to 
+refund Mr M. And even if it had been a Continuous Payment Authority, there was no 
+evidence that the merchant hadnt been clear about the payment terms, nor that Mr M hadnt 
+fully understood and consented. Monzo asked for an ombudsmans decision.
+My provisional findings
+I issued a provisional decision on this complaint, because Id come to a different conclusion 
+to the investigator. Issuing a provisional decision gave both sides the opportunity to 
+comment on it, by the date set, before I issued a final decision  
+Before issuing the provisional decision, I considered all the available evidence and 
+arguments to decide what would be fair and reasonable in the circumstances of this 
+complaint.
+Regulations and who authorised the payments
+In my provisional decision, I explained that in these circumstances there are regulations 
+which govern disputed transactions. The relevant regulations here are the Payment Services 
+Regulations 2017. In general terms, the bank is liable if the customer didnt authorise the 
+payments, and the customer is liable if they did authorise them. 
+Monzo provided evidence which showed that the payments were made using a mobile 
+payment service. This uses a type of virtual card that can be used either in store or online. 
+The technical evidence here shows that the payments from Mr Ms account were made 
+online. The payments were then approved using the device PIN or biometric security such 
+as touch or face ID, according to what had been set up on the users device. Monzo 
+provided technical evidence to show that the device used for the payments was the only 
+device which was active on Mr Ms account at the time, and Mr M had confirmed that no-one 
+else had access. The first payment was authorised in this way, and subsequent ones on the 
+basis that the credentials were already on file. So it was hard to see how anyone other than 
+Mr M could have authorised the transactions.
+Mr M sent us app evidence to suggest he was on a bike ride at the time of one of the  
+transactions. But there was still some doubt about whether this demonstrated that he was 
+cycling at the time of the disputed transaction, so I wasnt persuaded by this. 
+So I thought it was more likely than not that Mr M authorised the transactions himself. 
+Continuous Payment Authority (CPA) 
+I went on to consider whether or not it was most likely that the subsequent payments were 
+part of a subscription which Mr M had signed up for, ie a Continuous Payment Authority 
+(CPA). A CPA is an agreement for a business to take regular payments from a bank 
+account, usually for a service such as a membership, ongoing service, subscription etc. In 
+2012, the Office of Fair Trading (OFT) issued principles for using CPAs. The OFT doesn't 
+exist anymore, but the Financial Conduct Authority (FCA) has said that these principles still 
+apply.
+The principles are designed to make sure customers are aware of the financial commitment, 
+and they include requirements that when a business is setting up a CPA, it should:
+- be transparent about the terms before the customer agrees;
+- ensure a customer has given informed consent to the use of a CPA. This includes 
+giving positive agreement to the amounts and frequency of the payments. Putting 
+these in the terms and conditions, or 'Opt-out' clauses, dont meet this requirement;
+- give adequate notice of any changes to the amount or timing of payments;- provide clear information about how to cancel a CPA.
+If these requirements arent met, the contract is unenforceable and the customer is entitled 
+to a refund. 
+I considered these principles in relation to the circumstances of Mr Ms complaint. But here, I 
+saw no persuasive evidence that there was a CPA at all. The payments were irregular, in 
+both amount and date. So it didnt look like, for example, a free trial where regular monthly 
+payments are charged in line with terms and conditions. It looked far more like a site which 
+the customer uses regularly, not a subscription. And Mr M himself didnt say, for example, 
+that hed made one payment but hadnt been properly informed about the ongoing nature of 
+the payments. Instead he said he hadnt authorised any of the payments. Ive dealt with that 
+above, and have found that the technical evidence indicates its likely that he did authorise 
+them. But when Mr M denied making any of the payments, and they dont look like a CPA 
+anyway, I could see no reason why Monzo should have considered that the payments were 
+a CPA. So Monzo had no reason to take action appropriate for a CPA, such as raising a 
+chargeback to find out whether what the merchant had provided to Mr M met the CPA 
+principles or not. 
+So I found that nothing in the evidence indicated there was a CPA here. It followed that 
+Monzo acted fairly in not treating the payments as such.
+Monzo pointed out that the merchant name on the debit was a billing processor name, used 
+for discretion on adult-content websites. It was possible that Mr M didnt recognise genuine 
+transactions because he was expecting the adult-content website name, not the billing 
+processor. But if so, Id have expected him to have realised this when Monzo explained.
+Finally, when Monzo sent its submissions to this service, it said that it noted that Mr M had 
+requested a call back on multiple occasions, but hadnt had one. It said that it couldnt have 
+discussed details about the rejection of his claim, but should still have followed up his 
+request. So Monzo offered Mr M £25 as a gesture of goodwill for its failure to call him back. I 
+found this was fair and reasonable.
+Responses to my provisional decision
+Monzo accepted the provisional decision.
+Mr M didnt reply by the date set for responses.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having reconsidered all the available evidence and arguments, I consider my original 
+decision was fair and reasonable in all the circumstances of this complaint
+My final decision
+My final decision is that:
+- I do not uphold Mr Ms claim for a refund for the disputed transactions;
+- Monzo offered Mr M £25 for not having phoned him back. I find this was fair and 
+reasonable and I order Monzo Bank Limited to pay Mr M this sum.Under the rules of the Financial Ombudsman Service, Im required to ask Mr M to accept or 
+reject my decision before 15 August 2023.
+ 
+Belinda Knight
+Ombudsman

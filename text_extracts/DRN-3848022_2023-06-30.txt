@@ -1,0 +1,138 @@
+DRN-3848022
+The complaint
+Mr B complains to Monecor (London) Ltd  then trading as ETX Capital  about losses on 
+his trading account flowing from a margin call he believes was triggered by an artificial price.
+ 
+What happened
+The background of this complaint is well known to both parties, so I wont go over it in great 
+detail. However, the key facts and arguments are as follows:
+- Mr B first opened a trading account with ETX in September 2020. He told them he 
+had relevant knowledge and experience in order to be considered an appropriate 
+candidate for trading. 
+- In March 2022, across three ETX accounts Mr B had several spread bet positions 
+open on a stock I will refer to as C. Shortly after 9am on 7 March 2022, Mr Bs 
+positions in C were closed due to margin requirement. 
+- Mr B was unhappy about this as he didnt think the price ETX said C had fallen to 
+was correct. So he complained to ETX later that month.
+- ETX looked into Mr Bs concerns and sent him their final response letter in April. 
+They pointed to their terms that allowed them to close trades when margin wasnt 
+maintained and referenced their margin call alert to him on 4 March. They set out the 
+levels of each account at the time and didnt think theyd done anything wrong. 
+- Unhappy with this, Mr B asked for our help. He still felt the price quoted was 
+inorganic and stressed that while he appreciated the margin requirements, he felt 
+ETX didnt have to close as many positions as they had  if theyd have left some, 
+hed have been able to manage his positions back to profit. 
+- One of our investigators had a look at what had happened but didnt agree ETX had 
+done anything wrong. They checked the ETXs liquidity providers price feed and 
+though there was brief fluctuation, they saw the price that triggered the margin call 
+and thought it to have been a valid bid price. For this reason, they didnt think ETX 
+had wrongly closed positions. 
+- Mr B remained unhappy  he still felt too many positions had been closed and had 
+ETX closed only as many as were necessary, hed have got a return. 
+- Our investigator took another look at the regulators rules but didnt think they 
+supported what Mr B was saying about closing less positions. Instead they thought 
+ETX had acted reasonably and explained the rules were in place to stop retail clients 
+from suffering unlimited losses  they didnt have the flexibility to wait to see if 
+positions recovered.
+As our investigator wasnt persuaded to change his mind and agreement wasnt reached, the 
+case was passed to me for review.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I appreciate Mr Bs complaint is two-fold  firstly, he doesnt agree the price 
+for C was actually hit and secondly, that ETXs actions went further than they needed to. Ill 
+look at both in turn. 
+Before I begin, I note that in offering a platform for spread betting, ETX as a regulated 
+business must follow relevant rules that flow from intervention in the sector by the European 
+Securities and Markets Authority (ESMA) in 2018. Relevant here was the requirement for Mr 
+B to have enough equity  being the total unrealised value of open positions and the account 
+balance  on his account to fund his running positions. 
+When considering the price of C at the time, ETX have shared data with us from their 
+liquidity provider  theyve explained that their price feeds flow from a system that pulls 
+valuations from another independent provider. This shows that at 9:05am on the day in 
+question, Cs price fell to 15.503. Until 9:10am the price remained around 15.798, before 
+recovering from 9:21am onwards. Mr Bs positions were closed at 15.462. While this was 
+fractionally lower than the independent price feed quote, Im satisfied that it was indicative of 
+the market at the time. For this reason, I dont agree with Mr B in that the price he was 
+closed at wasnt achieved. 
+As Im satisfied weve been able to verify the prices at the time, Ive also considered the 
+equity across Mr Bs three accounts in order to consider whether the positions were correctly 
+closed. Looking to ETXs terms applicable from October 2021, section 13 discussed margin 
+requirements. Of particular relevance here was 13.7 which reminded Mr B to ensure he was 
+always aware of the status of his accounts and to ensure he had sufficient trade funds 
+available to maintain positions. ETX considered trade funds available to be the amount of 
+money in a trading account that was free to be used for satisfying margin requirements. At 
+13.8, it said in part:
+If your Trade Funds Available balance is below zero (0) or we reasonably believe that 
+a fall below zero is imminent regardless of whether or not prior Margin Calls have 
+been issued, we may in our sole discretion close or terminate open Trade(s) on your 
+Trading Account without notice to you immediately
+And at 13.12, it said:
+If you do not have sufficient Trade Funds Available or a Margin Call is not met by you 
+ in accordance with this clause 13, depending on the trading platform we may in 
+our discretion: 
+(a) close out any or all (in whole or in part) of your open Trades; 
+(b) exercise our rights of set off and netting under this Agreement; or
+(c) close all of your Trading Accounts and not open any further Trades for you.
+Looking at the equity on each of Mr Bs three accounts at the time, we can see the following:
+Account one:
+- Balance of £662.06,
+- Margin requirement of £386.55,
+- Running profit and loss was -£497.76,
+- Meaning the trade funds available were -£222.25. 
+- As this was 43%, the positions were closed. The balance and trade funds available 
+then recovered to £370.75 and £1.95 respectively. 
+Account two:- Balance of £423.55,
+- Margin requirement of £248.17,
+- Running profit and loss was -£298.27,
+- Meaning the trade funds available were -£122.90. 
+- As this was 50%, the positions were closed. The balance and trade funds available 
+then recovered to £265.31 and £0.82 respectively. 
+Account three:
+- Balance of £348.58,
+- Margin requirement of £197.14,
+- Running profit and loss was -£268.35,
+- Meaning the trade funds available were -£116.91. 
+- As this was 41%, the positions were closed. The balance and trade funds available 
+then recovered to £175.95 and £2.95 respectively. 
+So from what Ive seen, each of Mr Bs accounts was at 50% or below when his positions 
+were closed. This was in line with ETXs terms at 13.12 and 13.8. These terms were also in 
+line with the regulators requirements, where at 22.5.13R the FCAs conduct of business 
+sourcebook said:
+Margin close out requirements for retail clients
+(1) A firm must ensure a retail clients net equity in an account used to trade 
+restricted speculative investments does not fall below 50% of the margin 
+requirement (as outlined in COBS 22.5.11R) required to maintain the retail 
+clients open positions.
+(2) Where a retail clients net equity falls below 50% of the margin requirement, 
+the firm must close the retail clients open position(s) on restricted speculative 
+investments as soon as market conditions allow.
+(3)In this rule, net equity means the sum of the retail clients net profit and loss 
+on their open position(s) and the retail clients deposited margin.
+I appreciate Mr B makes the point that ETX couldve closed some of his positions, and not all 
+of them  after all, this mightve been enough to satisfy margin and he thinks theyd have 
+gone on to be profitable. But their terms allowed them to close close out any or all (in whole 
+or in part) of your open Trades. The regulators rules didnt prescribe how firms must handle 
+margin calls or which positions should be closed, so ETX had discretion here  but from 
+everything Ive seen they acted reasonably and in line with their terms.
+Mr Bs positions were spread across three different accounts and all of them needed more 
+margin. But I dont think ETX could have only closed positions on one or two of the accounts 
+and relied on the balances there to run the other account(s)  the European Securities and 
+Markets Authority guidance told ETX they had to manage margin on a per account basis. It 
+wasnt for ETX to manage Mr Bs funds for him by moving a balance between accounts, nor 
+could they have been expected to take a higher level view of Mr Bs situation before 
+following their terms. 
+Though Mr B feels ETXs actions were disproportionate, they were required to take steps to 
+protect his account when he fell below 50% margin  even if only briefly as what happened 
+here. Though with hindsight we can see Cs price recovered, its important to remember the 
+regulations require firms to take action at 50% as the market couldve slipped lower and 
+lower. And the action ETX took was in line with what the regulator asks and what they said 
+theyd do. So from everything Ive seen, I dont think it would be fair to ask ETX to 
+compensate Mr B now.
+ My final decision
+For the reasons given above, I dont uphold Mr Bs complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr B to accept or 
+reject my decision before 28 July 2023.
+ 
+Aimee Stanton
+Ombudsman

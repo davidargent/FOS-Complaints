@@ -1,0 +1,120 @@
+DRN-1999849
+The complaint
+Mr B complained because Monzo Bank Ltd refused to refund him for payments which he 
+said he hadnt authorised from his account, and it then closed his account. 
+Mr B is a student and says he wants £1,259 paid back to him, because he cant pay his rent.
+What happened
+On 3 May 2019, Monzo contacted Mr B, because it had been notified that someone had paid 
+£650 to Mr Bs account by mistake the previous day. But Mr B had spent the £650 at a 
+betting company, within two minutes of it being credited. 
+Monzo sent a text message asking Mr B to pay in £650 to his account, so it could return the 
+money to the sender. But Mr B replied that it was a gift from God and refused to pay it 
+back.
+On 6 July 2019, Mr B contacted Monzo, saying he didnt recognise the 2 May £650 outgoing 
+transaction to the betting company. 
+Monzo reminded Mr B about the discussion in May, when Mr B had refused to return the 
+£650. It asked him to send a screenshot of his betting company account. Mr B did this, and it 
+showed that the betting company had suspended Mr Bs account. Mr B told Monzo that this 
+was because hed told the betting company that someone else had used money to bet on his 
+account. Mr B sent Monzo a copy of a letter from the betting company. In that letter, the 
+betting company said that its security team couldnt find any evidence of anyone 
+unauthorised accessing Mr Bs account. It suggested that Mr B should contact the police.
+On 4 January 2020, Mr B contacted Monzo again. He said that a couple of months ago £650 
+had been taken out of his account. Mr B said someone else had made transactions on his 
+account totalling £609. There were two bank transfer payments that day, one for £259 and 
+one for £350.
+Monzo blocked Mr Bs card, and arranged for a new card, new PIN, and also told him to 
+change his password. It investigated.
+The next day, Monzo wrote to Mr B and said it couldnt treat any of the £650, £259 or £350 
+payments as fraudulent. It told him it didnt believe theyd been carried out by a third party. 
+And it said it had decided to close Mr Bs account with one weeks notice, as it could do 
+under the terms and conditions of his account. Mr Bs account was closed on 13 January.
+Mr B wasnt satisfied and complained to this service. He said he wanted £1,259 back from 
+Monzo, and he hadnt been able to pay his student rent. Mr B said that he usually got a 
+notification before money went out of his Monzo account and he didnt for the three disputed 
+transactions. Mr B said hed always kept his card in his wallet, which was kept in his locked 
+student room. Mr B said no-one else knew his PIN, or phone passcode, or PIN for the app, 
+and no-one else had access to his phone. 
+The investigator didnt uphold Mr Bs complaint. She looked at the evidence and considered 
+that Mr B had carried out the transactions himself.
+Mr B didnt agree. He said that hed complained about the first transaction, the £650, in 2019 
+and Monzo hadnt looked at his complaint until hed complained about the two other 
+payments. Mr B said he was very upset and had suffered at university because of the 
+shortage of money.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Relevant regulations and authentication
+The relevant regulations for Mr Bs disputed transactions are the Payment Services 
+Regulations 2017. These say that the payment service provider (here, Monzo) must show 
+the payment was authenticated. Thats the technical part. Here:
+- the £650 payment to the betting company on 2 May 2019 was a card payment, 
+authorised by a 3D secure PIN. The PIN was sent to Mr Bs phone, and used on the 
+betting companys website to authorise the payment;
+- the two bank transfers on 4 January 2020 were authorised by the correct PIN being 
+entered onto Mr Bs phone. 
+So I find that all three payments were authenticated.
+Whether Mr B authorised the payments 
+The regulations also say that its necessary to look at whether the card holder authorised the 
+payments. In general terms, the bank is liable if the customer didnt authorise the payments, 
+and the customer is liable if he did authorise them. The regulations also say that account 
+holders can still be liable for unauthorised payments under certain circumstances  for 
+example if theyve failed to keep their details secure to such an extent that it can be termed 
+gross negligence.
+Payment on 2 May 2019 
+The payment on 2 May 2019 for £650 to Mr Bs betting account was made two minutes after 
+the £650 credit, which Monzo was later told had been sent by mistake to Mr B. Mr B said no-
+one had access to his phone or knew his PIN, and his card was also kept secure. I consider 
+its very unlikely that anyone other than Mr B would have known about the incoming £650 
+two minutes earlier, and would have had access to the relevant security information to enter 
+correctly to authorise the payment.
+I also note that when Mr B later told the betting company there had been unauthorised 
+activity on his account, the betting company didnt agree and suspended his account. That 
+was on 5 May, but Mr B didnt contact Monzo about the payment until 6 July, which is 
+surprising if he genuinely believed the payment had been unauthorised. 
+I also consider its unlikely someone else would transfer money into Mr Bs betting company 
+account, because they wouldnt be able to access any winnings.
+Taking these factors into account, I believe Mr B authorised the payment himself.Payments on 4 January 2020
+There are 18 transactions on Mr Bs Monzo account on 4 January between 9.18am and 
+11.13pm. These include receipt of his student loan, transfers to and from the savings pot 
+facility that formed part of his Monzo account, and other payments. The two disputed faster 
+payment bank transfers took place in between all these other activities. For example, there 
+was a £259 transfer from Mr Bs Monzo savings pot into his account at 9.49pm, and within 
+the same minute there was the bank transfer out for £259. There were then other, 
+undisputed transactions.
+Then at 10.20pm there was another  transfer in from Mr Bs savings pot followed 
+immediately by the other disputed debit, for £350. Ten minutes later there were other 
+undisputed transactions.
+If anyone else carried out these transactions, theyd have to have had access to Mr Bs 
+phone, which was the only device ever registered to Mr Bs Monzo account. And theyd have 
+had to have known his security details, which Mr B said he kept secure. And, given the 
+timing of the many other undisputed transactions that day, any fraudster who had managed 
+to obtain Mr Bs phone and security details would also have had to return Mr Bs phone, 
+without his knowledge, immediately after the first disputed payment, return it immediately, 
+then steal it again to do the second disputed payment, and return it again immediately. I find 
+that this is all most unlikely. So I consider Mr B authorised both faster payment transactions 
+himself. 
+Mr Bs complaint that Monzo didnt reply quickly enough about the May 2019 payment 
+Mr B complained to Monzo about the 2 May 2019 transaction on 6 July. Its surprising he 
+didnt complain earlier, especially because Monzo had contacted him the day after the 
+disputed payment, asking him to return the money which shouldnt have gone to Mr B. It 
+would seem natural to dispute it at the point they were discussing the corresponding 
+incoming £650 payment.
+But I do accept that Monzo didnt reply to Mr Bs 6 July complaint until after Mr B disputed 
+the 4 January payments. Thats outside the normal 56 day timescale for replying to 
+complaints. But the fact that Monzo should have replied more quickly to the first complaint, 
+doesnt change the outcome - that Mr B had authorised the payments himself. In practice 
+what the delay meant was that Mr Bs Monzo account was closed later than it might 
+otherwise have been. And Monzo was entitled to close Mr Bs account in these 
+circumstances under the terms and conditions of the account.
+So I dont consider there was any disadvantage to Mr B as a result of Monzos delay in 
+dealing with the first complaint.
+Taking all these factors into account, I consider that Mr B authorised all three of the disputed 
+transactions himself, and didnt suffer any disadvantage by Monzos failure to investigate the 
+first complaint within the set timescales. So I dont uphold his complaint.
+My final decision
+My final decision is that I do not uphold this complaint. Under the rules of the Financial Ombudsman Service, Im required to ask Mr B to accept or 
+reject my decision before 14 December 2020.
+ 
+Belinda Knight
+Ombudsman

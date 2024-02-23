@@ -1,0 +1,114 @@
+DRN-3591210
+The complaint
+Mr B complains about Trading 212 UK Limited voiding trades in his Contract for Differences 
+(CFD) trading account and freezing funds in his general investment trading account. 
+What happened
+Mr B opened an investment trading account with Trading 212 UK Limited (212) in June 
+2020. In November 2020, all his trading accounts were frozen which meant he was unable to 
+access his funds and was prevented from transferring these to another account. He says 
+212 voided all his positions and kept his accounts frozen so he complained to them in 
+December 2020.
+In their final response, 212 say they became aware of an issue with the price feeds on some 
+gold and silver pairs in November 2020 including XAG/JPY; XAG/RUB; XAG/TRY and 
+XAU/JPY. They say this meant that the prices quoted were incorrect and not an accurate 
+reflection of the underlying market price of the instrument at that time. They say they were 
+impacted by price latency as their system should not have executed orders on quotes that 
+had expired and were more than one minute old. They say this falls within their definition of a 
+manifest error in clause 6.7 of the client agreement.  
+They say Mr B had exploited the error in pricing to make profits of approximately €63,000 
+across 969 positions which were affected by these incorrect prices. They say they were 
+entitled under clause 6.8, to cancel the order and any relevant consequences immediately 
+upon detection of such manifest error. They also say, the clause applied as a breach of the 
+terms and conditions of his account regardless of whether Mr B acted in good faith or 
+intentionally; and so, they were correct in voiding all affected trades and were unwilling to 
+offer him the sum of money in his account. 
+Mr B also complained about server outage, and server connection issues. To resolve his 
+complaint, he would like the €12,500 funds in his general investment account to be released 
+to him.
+Our investigator said the terms and conditions of the agreement gave them the right to void 
+any transactions they believed were within the scope of the manifest error, so, believed they 
+had fairly exercised their right to do so. He also communicated with 212 to ensure they had 
+correctly dealt with the closure of the general investment trading account  which 212 
+confirmed would be closed after the available funds were offset against the sum, they say 
+Mr B still owed them. He concluded there was no evidence of wrongdoing on 212s part and 
+didnt uphold the complaint. 
+Mr B didnt agree so this has come to me for a final decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+I can see Mr B has taken considerable time to explain his position and Id like to reassure 
+him that Ive considered everything even though I havent specifically commented on each 
+point. Having done so, I am not upholding this complaint and for the same reasons as the 
+investigator.
+Manifest error
+Ive started my investigation looking at how 212 define a manifest error in their agreement. 
+Ive considered, in light of what 212 said, whether theyve acted fairly by applying their policy 
+and thereby voiding his trades. 
+The CFD client agreement says;
+Manifest error means an obvious error in the quotes of the Financial Instruments 
+which substantially deviated from the prevailing market price and which has occurred 
+as a result of a system or technical error.
+The definition is clear in the terms and conditions of the client agreement which Mr B agreed 
+he had read and understood when he signed up to the account. These terms apply to each 
+trade he placed with 212. Theyve identified 969 individual trades which they say were 
+affected by this manifest error and say clause 6.8 of the terms of the client agreement allows 
+them to cancel any order where there is a manifest error found. It says:-
+If Manifest error in a specific quote is found, we shall be entitled at our discretion to 
+cancel the Order and the relevant consequences  in terms of either a profit or a loss 
+for You  immediately upon detection of such Manifest error. We shall not be liable 
+for any damages or consequential loss incurred by You as a result of such 
+cancellation, except for damages resulting directly from our gross negligence or wilful 
+misconduct.
+I looked at Mr Bs trading history with 212, from account opening until September 2020, he 
+had closed 2708 positions and made an accumulative profit of around €68. When I compare 
+this to the 969 positions that enabled him to make a profit of around €63,000, I am 
+persuaded by what 212 say was obviously a manifest error. 
+I appreciate Mr B feels strongly about this matter that 212 were unfair in their application of 
+the right to void his trades, particularly as he says some of these positions were opened long 
+before the manifest error happened. It is not possible to do a forensic examination of the 
+thousands of trades Mr B has placed so it is necessary to look at overall impact on the 
+account. Any trades impacted by the manifest error in pricing would fall within the definition 
+of a manifest error in 212s terms and conditions and so 212 were within their rights to apply 
+their policy in this way. I dont think 212 have acted unfairly by applying their manifest error 
+policy and I think their decision to void those trades is reasonable.
+Where there is an allegation of wrongdoing against the account holder, 212 are entitled to 
+cease to offer its services to an investor. Clause 20.1 and 20.2 of the client agreement 
+allows 212 to unilaterally cancel and deem void any Order made in violation of clause 
+20.1, to close your (his) Account and to terminate the Agreement. In such case, we shall not 
+be held liable for any damages, loss of profits or any other real or contingent obligations 
+incurred by you. 212 made a business decision to terminate his positions and close his 
+account. They are entitled to make this decision and it is not within our remit to tell a 
+business who it should conduct business with.I have considered Mr Bs comments around server outages and connection issues. The 
+screen shots he provides offer a snap shot of an instance when this may have happened but 
+unfortunately the evidence doesnt offer any insight into the how long this was for or how 
+often nor does it demonstrate any impact to Mr B. So, Im unable to say there was any 
+wrongdoing on 212s part. 
+Access to funds
+Mr B also complained he was unable to access approximately €34,000 which was in his 
+general investment trading account. He says his accounts had unfairly been frozen despite 
+this account having nothing to do with the CFD account which was impacted by the manifest 
+errors. I understand that the funds were not in Mr Bs CFD account, but the general 
+investment trading account was still part of his portfolio with 212. It would be reasonable for 
+them to freeze access to any of the accounts they hold where there is an allegation of 
+wrongdoing by the account holder.
+As Ive explained above, 212 were within their rights to void his trades and the terms and 
+conditions clearly explain this. They say Mr B needs to return to them the profits he has 
+made from the manifest error, which he has already withdrawn from the account. They retain 
+the right to offset any funds within the accounts they hold against any outstanding balance 
+owed to them  and this is what theyd confirmed they would be doing. 
+Whilst I accept they did not specifically inform him of the action they would be taking until 
+June 2022, they did make it clear since the error came to light that he had benefited from the 
+manifest error and the terms outline what happens in this situation. Therefore, its 
+reasonable that he should have known he wouldnt be able to retain any of the profits. 
+Ultimately, it wouldnt be fair for him to have had the benefit of these profits by virtue of this 
+manifest error, so I think it was fair and reasonable under the circumstances that 212 did 
+offset the funds from his general investment account. Given the circumstances, I am not 
+persuaded that any wrongdoing on 212s part has been established so I will not be asking 
+them to do anything. 
+My final decision
+For the reasons given above, I dont uphold this complaint against Trading 212 UK Limited.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr B to accept or 
+reject my decision before 20 March 2023.
+ 
+Naima Abdul-Rasool
+Ombudsman

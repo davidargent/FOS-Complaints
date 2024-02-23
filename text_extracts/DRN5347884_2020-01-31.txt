@@ -1,0 +1,103 @@
+K820x#14complaint
+E, a company,  complains that GPUK LLP returned  two card payments of £265 and £610 to 
+the cardholders bank. GPUK LLP trades  as Global Payments and E is represented by its 
+director, Mr K. 
+background
+At the end of July 2018 E made two sales at one of its branches. The customer paid using  a 
+bank card. Global  Payments provides  merchant  card services to E, and credited its account.  
+Towards the end of October, however the cardholder  whose card had been used to make  
+the payments  contacted the card issuer to say they hadnt made  the payments; they were 
+fraudulent. The card issuer contacted Global Payments for more  information about the 
+payments. Global Payments in turn contacted E seeking proof that the genuine cardholder 
+had made  or authorised the payments. 
+Global Payments says it didnt receive the proof that it needed, and so was unable  to 
+demonstrate to the card issuer that the payments had in fact been made by the cardholder. 
+Mr K says that he didnt  find out about the request until December 2018, and contacted 
+Global Payments then to request the return of the payments. Global Payments said that E 
+hadnt provided the information it needed,  and that it was by then too late to submit it. The 
+card scheme rules  under which the cardholders claim  was being processed  required 
+that evidence  to be provided  within  45 days. 
+Mr K, on behalf of E, complained to this service, where  one of our investigators considered 
+the complaint.  She concluded  however that the payments hadnt been made using the cards 
+chip and PIN and so were  treated as if the card hadnt been present at all. The terms of the 
+merchant agreement between E and Global  Payments  meant  that E would bear liability if the 
+payments were not properly authorised by the cardholder. She didnt recommend that Global  
+Payments return the payments  to Es account. 
+Mr K didnt accept the investigators opinion and asked that an ombudsman review  the case.     
+my findings
+Ive considered all the available  evidence  and arguments to decide  whats  fair and 
+reasonable in the circumstances of this complaint.  Having done so, however, Ive come to 
+broadly the same conclusions as the investigator did, and for similar reasons. 
+Its important to understand first of all what actually happened when the payments were 
+made. The staff member of E who served  the customer in July 2018 has said that the 
+payments were processed  in the usual manner; she handed the card reader to the customer 
+who entered his PIN and handed the terminal back. 
+The transaction records, however, indicate that the transaction wasnt processed  in the 
+normal way. Usually, the electronic chip embedded in the card would be read by the card 
+terminal; this indicates that the genuine  card is present. But the transaction  records here 
+indicate that the cards details were entered manually; the chip wasnt  read.  The transaction 
+was therefore  processed  similarly to a card not present transaction  as it would  have been  
+if the sale had been made  online or over the phone. 
+The customer didnt have  the genuine  card; or, if they did, they didnt use it in the normal 
+way. They  clearly did have the genuine cards details though. Its possible too that they,  
+Ref: DRN53478842rather than the staff member, keyed  in those details manually; they might have done that 
+without the staff member  realising that was happening. Its likely that the customer had a 
+card, because the staff member recalls  that. It wasnt however the card that the customer  
+then used to make the payment. Further, if the actual cardholder  still had the genuine card, 
+they wouldnt have  known that their card details had been copied and were  being  used; the 
+card would not have  been  reported  as lost or stolen.  
+It appears that the card issuer authorised the payment. That doesnt  however mean  that the 
+payment was genuine. It indicated only that the card hadnt been reported  as lost or stolen 
+and that funds were  available  to make the payment.     
+In summary,  its unlikely that Es customer was the genuine cardholder or that they were 
+using the genuine card. They were committing fraud using the genuine cards details. I must 
+therefore consider  whether E should bear the loss resulting from that fraud. 
+The Terms of Service agreed between E and Global Payments set out their relationship. 
+Amongst other things, E agreed to follow  the Merchant Operating Instructions. Those 
+instructions set out how a merchant such as E should process transactions  in different 
+scenarios. In respect of key entered transactions (which this was),  those instructions 
+included: 
+Key-entered Transactions: When the cardholder is present,  and the electronic 
+terminal cannot read the card via the chip or magnetic  stripe, then you may key-enter  
+the details into your terminal. You must  still seek online  authorisation. 
+    
+To prove the card was present, always take an imprint of the card using your manual 
+imprinter, complete the voucher  in full and obtain the cardholders  signature  on the 
+paper voucher. This is in addition to key-entering the card details into the electronic 
+terminal. 
+
+Note: While  taking  an imprint of the card will help minimise your risk of financial 
+loss, if a chip and PIN card is accepted  using  this method and the transaction 
+turns out to be fraudulent, youll  be liable for a chargeback and financial loss 
+to your business. In this scenario, you may wish to ask for an alternative 
+method of payment.    
+As Ive indicated, its possible the staff member didnt realise the payments had been key-
+entered; she may have been  distracted by the customer or accomplices. Im satisfied 
+however that the evidence shows that the payments were processed  in that way and that E 
+should therefore have taken an imprint of the card. That would have shown whether or not 
+the embossed details  on the card (16-digit number,  name and expiry date) matched those 
+entered manually. But even then the operating instructions made clear that E wouldnt be 
+protected if in fact the payments were fraudulent  as they were.   
+In my view, the operating instructions said clearly that E would bear the loss for any fraud 
+committed in the manner Ive explained  here.  It is of course unfortunate that any of the 
+parties involved  the cardholder,  the card issuer,  Global  Payments  or E  should lose out. 
+The effect of Es agreement with Global Payments was however that E should do so. I would 
+observe that, however clever  the fraudsters may have been, E was best placed  to identify 
+what was happening,  since  it dealt with them and processed the fraudulent payments. 
+Ref: DRN53478843Mr K has been clear in his belief that the merchant terms mean that E cannot be held liable 
+unless it has acted  fraudulently. Im afraid  though that those terms are very much wider  than 
+that. They also set out who bears the loss when someone else acts fraudulently. 
+There was also, in the course of our investigation,  some discussion about when E became 
+aware of the dispute. However, I dont  believe that is significant  here.  E wasnt able to show 
+that the genuine cardholder had made  or authorised the payments and would never  have 
+been able to do so. 
+E and Mr K have my sympathy;  theyve been  the victim of what  appears to have been  a 
+clever fraud. But, for the reasons Ive explained,  it wouldnt be fair to make Global Payments 
+cover the loss E has suffered.
+my final decision
+My final decision is that I dont require GPUK  LLP to do anything more  to resolve Es 
+complaint. Under  the rules of the Financial Ombudsman Service,  Im required to ask E 
+(through Mr K) to accept  or reject  my decision before 1 March 2020.
+Michael Ingram
+ombudsman
+Ref: DRN5347884

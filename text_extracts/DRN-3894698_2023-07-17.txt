@@ -1,0 +1,120 @@
+DRN-3894698
+The complaint
+Mr C complains that he placed an order for opening a new position on IG Index 
+Limiteds platform but when the order was filled, it had incorrectly closed an existing position 
+instead.
+What happened
+Mr Cs position
+Mr C opened a Contracts for Difference (CFD) account with IG Index Limited (IG) in April 
+2022. He says he placed a buy order on IGs platform on 26 May 2022, but when the order 
+was filled it showed to have incorrectly closed an existing position instead. He says this 
+position closed without his permission and holds IG responsible for this change.
+He says his trading strategy was to trade at the peak and then re-hedge at a higher point if 
+the price continued to rise and this was not possible as the order netted off before he was 
+able to execute his strategy. He says he contact IG to reinstate his position, but they could 
+only do this at their original price levels. He says this resulted him not being to make a profit 
+and run a bigger loss which over a period cost him up to £50,000.
+After complaining to IG, it became clear he was using an old version of the mobile 
+application and says this was because he was never prompted to update the application. He 
+still maintains that he did not opt to net off. He feels strongly that as it is IGs application it 
+is their responsibility to ensure this application is accurate and up to date and should have 
+forced users to update this and this is what he says other providers do. 
+To resolve his complaint, he would like to be compensated for his losses.
+IGs position 
+They issued their final response in July 2022 saying they did not make any changes to the 
+account deal settings such as net off or force open. These are set by the client on the trading 
+platform and any amendments would have been done by the client alone.
+As neither party say they made the changes to his default settings, IG considered whether 
+any system/application updates would have resulted in a reset of the settings on the mobile 
+application. IG confirmed that it may be the case that if there is a network issue whilst the 
+application is being reinstalled, it may not retrieve all the default settings from the database.  
+However, where this situation does arise, IG say the following message would be displayed 
+on the deal page your force open/net off settings havent fully loaded. Please check them 
+below. before placing a trade. Check settings. This is displayed near the top of the deal 
+page in a coloured box and would be visible to anyone on this page. IG confirm that no 
+issues were reported on 26 May 2022 or when Mr C placed his deal. 
+IG also say any updates to the mobile application would automatically be prompted by 
+iPhone and is not something that would be prompted by them. They say any prompt or 
+request to update the application would be dependent on Mr Cs own phone settings and 
+whether this had been disabled. They say this is something outside of their control and is for 
+Mr C to manage himself.
+They say upon investigation they could not see anything to suggest there was a change 
+made by IG. They also established that when the order was placed at 16:29, Mr C used his 
+phone trading app on which the net off option was selected. 
+As a gesture of good will, IG agreed to reinstate the long and short positions at their original 
+price levels as well as refund the realised loss. They say there was no guarantee the trades 
+would have behaved as he had predicted and didnt agree to compensate him for any loss of 
+opportunity or potential loss of profit.  They also later agreed to offer a refund of the 
+overnight funding charged from 26 May 2022 to 16 August 2022 when the trade was closed. 
+This amounted to a total of £650.
+Mr C didnt accept the offer made as it didnt compensate him for the loss he incurred, and 
+he continued to dispute that the settings were working correctly. Unhappy with this outcome, 
+he brought his complaint to this service.
+Investigators view
+The investigator here didnt uphold his complaint. He said it was more likely that using an old 
+version of the application caused a change in default settings. He says any updates to the 
+application should have happened automatically unless the device Mr C used was set not to 
+install automatic updates and that there was no regulatory requirement for a firm to ensure 
+customers used the latest version of the application. He said the data suggested the force 
+open default was changed to net off by the customer and concluded there wasnt enough 
+evidence to suggest an error on IGs part let to the closure of Mr Cs positions.
+Mr C didnt accept the investigators view, so this has come to me for a decision. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+In deciding what is fair and reasonable, I must consider the relevant regulation and best 
+industry practice, but its for me to decide, based on the information and evidence that I have 
+been given, whats more likely than not to have happened. Having done so, I am not 
+upholding this complaint and for broadly similar reasons as the investigator. I will explain 
+further.
+In establishing what happened, I would expect firstly to see if any changes were made to the 
+default setting on the account which would have been force open. IG confirm there are two 
+ways to make changes to the force open/net off option. 
+1. Under default option in the main settings panel on the left had side on the main page. 
+This would set the default on all deals/order placed.
+2. When placing an individual deal/order, the force open and net off option is set there. 
+When a change is made from the default position, the mobile application would net off by 
+closing an already open position. Mr C and IG both confirm no changes were made by him 
+and IG also say theyve not made any changes to his account, and I am satisfied that no 
+changes were made to the main default settings as outlined in (1) above.The default preference staying as force open in the main settings doesnt guarantee that 
+this is what would have happened with all trades going forwards. This because this option 
+can also be changed on the individual deal ticket without making any changes to the default 
+preference. It would automatically show as being the default setting (as set in 1 above) but 
+can be manually changed for each individual deal/order without impacting the default setting 
+on any other deal/order placed. So, I looked at this screen to see what information was 
+visible. It is critical to note that the deal page specifically confirms When filled Net Off/Force 
+open before the deal is placed, but I accept this may not have been so clear to Mr C as he 
+was using an old version of the mobile application. 
+I considered Mr Cs position with using an old version of the application. He says IG should 
+be forcing its customers update the application, but Im not persuaded by this. I dont see 
+that this is within IGs control particularly when it is Mr C himself that would need to update 
+this from his iPhones application store. On balance, it is more likely as IG have explained 
+that Mr C may have disabled this function himself and he should look to review his phone 
+settings. I think it would be unreasonable to hold IG responsible for updates on personal 
+mobile phones that they have no control over.
+Whether this was the old version of the application or new, given the nature of this feature, 
+IG say the default setting would be irrelevant, and I agree with them. As the preference can 
+be changed when placing individual trades, it is more important to look at which option was 
+selected when trading rather than the default position of the account. On this occasion, the 
+evidence I have seen shows it is recorded as net off so this option was selected when he 
+placed his deal.
+IG have provided evidence of Mr Cs trading history showing 198 working orders. So, placing 
+these types of working orders that nets off positions on his account was not uncommon. His 
+trading history shows numerous positions where the force open option has been changed 
+to net off and the same can be said for his trades on 26 May 2022. The trading data for this 
+day shows he has made changes to the force open option on various positions. This change 
+would need to be done individually on each deal placed and explains why IG were unable to 
+see any change in the main default settings. On balance it is more likely than not, that Mr C 
+was responsible for these individual changes, whether intentionally or not. 
+I appreciate how disappointing this must be for Mr C particularly as hes lost considerable 
+money but looking at this complaint and the evidence provided to me, Im not persuaded that 
+any wrongdoing on IGs part has been established. If he does continue to have any concerns 
+in relation to the way in which IG operates, Mr C could refer his complaint to the regulators, 
+the Financial Conduct Authority.
+My final decision
+My final decision is that I am not upholding this complaint against IG Index Limited.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr C to accept or 
+reject my decision before 8 August 2023.
+ 
+Naima Abdul-Rasool
+Ombudsman

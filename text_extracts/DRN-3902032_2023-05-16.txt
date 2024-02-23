@@ -1,0 +1,121 @@
+DRN-3902032
+The complaint
+Mrs C complains that Bank of Scotland plc  trading as Halifax failed to refund transactions 
+she didnt recognise.
+What happened
+What Mrs C says
+Mrs C is represented in this complaint, but Ill mainly refer to her throughout as its her own 
+funds that were lost.
+Mrs C noticed several payments she didnt recognise had been made from her Halifax 
+account. She froze her card and later reported it to Halifax. Mrs C also said she noticed an 
+unauthorised user accessing her social media account and changed the password.
+Mrs C reported that further attempts were made to use her card but were unsuccessful 
+because shed frozen it. She was told by Halifax that her account was safe but noticed 
+further successful unidentified payments a few days later and an unrecognised direct debit 
+had been set up on her account.
+List of disputed transactions
+Date Merchant Amount
+01/09/2022 A £40.00
+01/09/2022 A £25.00
+01/09/2022 A £20.00
+01/09/2022 A £20.00
+01/09/2022 A £20.00
+01/09/2022 B £44.63
+02/09/2022 A £60.00
+02/09/2022 C £32.50
+02/09/2022 B £25.59
+05/09/2022 A £68.94
+Mrs C approached the merchant who had taken some of the payments, but they declined to 
+make any refund. Mrs C asked Halifax to refund those payments she disputed and a 
+temporary refund was made by Halifax . Later, Halifax reversed the refund and took the 
+money back, believing Mrs C was responsible for the transactions.
+Mrs C was unhappy and complained to them about the situation, eventually bringing her 
+complaint to the Financial Ombudsman Service after Halifax didnt uphold her complaint.
+What Halifax said
+Halifax received notification from Mrs C about the unrecognised transactions and made a 
+temporary refund while they investigated the issue. Halifax raised disputes with the various 
+merchants using the (Chargeback system) about the disputed payments and in each case, 
+all the transactions were defended by them. They provided various pieces of evidence about 
+the transactions that they believed pointed to the transactions being carried out by Mrs C.
+Halifaxs notes referred to Mrs C having made a small payment with her card on a social 
+media site, which may have been the cause of the card details being utilised.
+After reviewing the evidence, Halifax recovered the temporary refund from Mrs C and 
+considered her complaint about the situation. They came to the same conclusion about the 
+refunds but accepted they could have given her better service when she raised the direct 
+debit problem and paid her £55 compensation.
+The investigation so far
+Mrs Cs complaint was looked into by one of our investigators who considered evidence 
+provided by both parties and concluded that it was most likely that Mrs C was responsible for 
+the transactions because each of the disputed transactions utilised details including her 
+email address, post code for her home address and her card details. One of the payments 
+also included information about the IP address data which matched earlier transactions. 
+Some of the evidence included previous transactions to the same merchants that hadnt 
+previously been disputed.
+Mrs C, via her representative, disagreed with the investigators outcome and wished for one 
+of the transactions.
+I asked for clarification from Mrs C about several payments mentioned in the chargeback 
+response. These appeared to indicate previously successful transactions with some of the 
+same merchants. Mrs C was unable to remember them. Ive also sought an explanation that 
+shows a number of payments from merchant A made to Mrs Cs account a few months 
+after the disputed transactions were raised. These indicate that A made eight payments 
+back to Mrs C which appear to cover all the disputed transactions listed against A in the 
+above table. Unfortunately I havent received a response concerning this request.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+The relevant law surrounding authorisations are the Payment Service Regulations 2017. The 
+basic position is that Halifax can hold Mrs C liable for the disputed payments if the evidence 
+suggests that its more likely than not that she made them or authorised them. 
+Halifax can only refuse to refund unauthorised payments if it can prove Mrs C authorised the 
+transactions, but Halifax cannot say that the use of the card payment details conclusively 
+proves that the payments were authorised. 
+Unless Halifax can show that consent has been given, it has no authority to make the 
+payment or to debit Mrs Cs account and any such transaction must be regarded as 
+unauthorised. To start with, Ive seen the banks technical evidence for the disputed 
+transactions. It shows that the transactions were authenticated using the payment tools 
+issued to Mrs C. Ill now need to consider the information provided by both parties to 
+determine whether theres sufficient evidence to hold Mrs C responsible for the disputed 
+transactions or not.Halifax used the Chargeback system to gather evidence about the payments and dispute 
+them with the merchants on Mrs Cs behalf. Chargebacks are part of the payment system 
+used for card transactions and require the merchant to provide evidence if they wish to 
+challenge the dispute.
+As the disputed transactions referred to from merchant A have been repaid to Mrs C, Ill no 
+longer be considering them here. The payment to Merchant C was linked to a previous 
+transaction and the merchant provided details about it to Halifax when they disputed it 
+through the Chargeback. Those details included IP address data. This is information 
+concerning the device used to make the transaction or linked to the network used to channel 
+the request. Here, it showed a common IP address with other undisputed transactions. In 
+practice this generally means that the same location was used for both disputed and 
+undisputed transactions. It infers that whoever made it was present in the same location and 
+together with the other data, would indicate the transaction was authorised by Mrs C.
+The disputed payments under B were also defended by the merchant. They provided 
+details of Mrs Cs payment details, her address (via postcode) and her email address which 
+would normally be used to confirm any online order. Additionally, evidence was presented 
+that showed the same merchant had also been used successfully some months earlier. I 
+understand that Mrs C cant remember these earlier transactions but looking through the 
+statements that go back several months from the same year, I counted at least five 
+payments to the same merchant. 
+As these were before the suspect payment referred to in Halifaxs notes, I dont think this is 
+the answer for these particular disputed transactions (to B). Ive thought about the pattern 
+of the disputed transactions, if the card details had been used by an unauthorised third party, 
+Id expect more use of the card as such thefts are usually identified quickly so the thief would 
+tend to maximise usage. But here, the transactions to B are made over several months 
+with large gaps in between them. Not something Id expect to see with a stolen card.
+Overall here, there have been several disputed transactions that appear to have been repaid 
+by the merchant to Mrs C, so for the purpose of this complaint Ive not further considered 
+them. Regarding the other payment to merchant C (which Mrs C wanted considering 
+separately), the evidence points towards her having an ongoing relationship with that 
+merchant and had made earlier transactions to them. The evidence provided by them 
+indicates it was likely Mrs C who was responsible for the transaction.
+There are several earlier successful transactions from Mrs Cs account to the merchant B. 
+Mrs C hasnt been able to remember them but taking those undisputed transactions together 
+with the evidence supplied during the Chargeback, I think its more likely than not that Mrs C 
+was responsible for them or allowed another person to use her account. It follows that it was 
+reasonable for Halifax to hold Mrs C liable for them and I wont be upholding this complaint.
+My final decision
+My final decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mrs C to accept or 
+reject my decision before 13 June 2023.
+ 
+David Perry
+Ombudsman

@@ -1,0 +1,136 @@
+DRN-3438466
+The complaint
+Mrs B complains that Bank of Scotland plc (Halifax) failed to refund a transaction she didnt 
+recognise.
+What happened
+Mrs B explained that she received a call from a person who she thought was from Halifax. 
+She answered several questions about her account and was told there had been suspicious 
+transactions made from it. Mrs B was further told she needed to move her money to another 
+account to protect it (safe account).
+A transaction was then made from her account to a new account that had been set up in her 
+name at another bank. Mrs B then called Halifax to discuss her account, but they said no call 
+had been made by them and it appeared that Mrs B had been scammed.
+Mrs B denied making the transaction and said shed logged in to her mobile banking app to 
+check her overdraft during the call. Mrs B went on to explain that she didnt notice anything 
+unusual about her account and hadnt given the caller her security details that would be 
+needed to log in to her account and use it themselves.
+Halifax looked into the matter and contacted the receiving bank about the payment. Halifaxs 
+systems recorded the transaction had been authorised using Mrs Bs mobile banking system 
+from her registered device (mobile phone). It further showed that various warnings had been 
+displayed and that a check of the receiving account had identified it wasnt in Mrs Bs name. 
+The audit showed the payment was confirmed using Mrs Bs biometric information. 
+Halifax believed Mrs B had authorised the payment and didnt offer a refund. The disputed 
+transaction had used a portion of Mrs Bs overdraft and charges were incurred. Halifax 
+eventually refunded some of them but maintained that they were owed a debt due to some 
+of the overdraft being outstanding. Mrs B believed Halifax had harassed her about the debt.
+Ms B complained to Halifax about the situation and it was investigated by their complaints 
+section who didnt uphold it. Mrs B remained unhappy with how Halifax had handled her 
+situation and brought her complaint to the Financial Ombudsman Service for an independent 
+review. It was looked into by one of our investigators who asked both parties for information 
+about the transaction.
+Mrs B explained that she hadnt authorised the transaction and she believed her phone had 
+been mirrored by a scammer through the dark web after being advised of this possibility 
+by an anti-fraud organisation. Mrs B was left upset by the loss of her funds and how Halifax 
+had handled her situation. Mrs B told our service that it had also affected her medically. Mrs 
+B was critical of Halifaxs systems and believed they should have provided a warning about 
+the payment or stopped it because it was suspicious. 
+Halifax provided details of the payment including the audit log of Mrs Bs mobile banking 
+access. Our investigator thought it was reasonable for Halifax to hold Mrs B liable for the 
+payment and didnt uphold her complaint.
+Mrs B repeated that she hadnt authorised the payment and that it was unusual and should 
+have been identified by Halifax. She remained critical of how Halifax had dealt with the 
+outstanding debt and didnt think Halifax had followed up the payment with the receiving 
+bank with enough urgency. 
+Mrs B disagreed with the outcome and asked for a further review of her complaint which has 
+been passed to me for a decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+My focus is on what I think the key issues are as our rules allow me to do this and it reflects 
+the nature of our service as an informal alternative to the courts. So, if theres something Ive 
+not mentioned, it isnt because Ive ignored it, its because Im satisfied that I dont need to 
+comment on every individual argument to be able to reach what I think is the right outcome.
+Mrs Bs experience when she received a suspicious call is a fairly typical experience of 
+someone who is the victim of a scam. That is receiving a call from her bank who told Mrs B 
+that her account was at risk and she needed to move her funds to a safe account set up in 
+her name. What is unusual about this complaint is that Mrs B has denied making such a 
+payment and believes it was then carried out through her phone being mirrored or cloned 
+through the dark web. 
+Usually, the caller (scammer) is trying to persuade the account holder to move the money 
+themselves because theyre unable to breach the accounts security. If Mrs B had sent the 
+funds herself, the complaint would have been dealt with under a specific set of rules 
+designed to address scams such as this type (which is how Halifax investigated her 
+complaint). But here, Mrs B has denied making the transaction, which means the 
+investigation of it is undertaken with slightly different rules and the first matter for me to 
+consider is whether Mrs B was responsible for the transaction or not.
+The relevant law surrounding authorisations are the Payment Service Regulations 2017 and 
+the Consumer Credit Act 1974. The basic position is that Halifax can hold Mrs B liable for the 
+disputed payment if the evidence suggests that its more likely than not that she made it or 
+authorised it.
+Halifax can only refuse to refund unauthorised payments if it can prove Mrs B authorised the 
+transactions, but Halifax cannot say that the use of the internet banking facility conclusively 
+proves that the payments were authorised. 
+Unless Halifax can show that consent has been given, it has no authority to make the 
+payment or to debit Mrs Bs account and any such transaction must be regarded as 
+unauthorised. 
+To start with, Ive seen the banks technical evidence for the disputed transactions. It shows 
+that the transactions were authenticated using the payment tools issued to Mrs B. Ill now 
+need to consider the information provided by both parties to determine whether theres 
+sufficient evidence to hold Mrs B responsible for the disputed transactions or not.
+Mrs B described opening her banking app on her phone and checking her account when 
+speaking with the caller (scammer). She explained that she didnt carry out any action to set 
+up or authorise the payment. Mrs B explained she didnt see any other activity on her phone 
+and later believed, after being advised by another organisation, that her phone had been 
+mirrored or cloned.Halifaxs evidence shows that Mrs B used her phone to set up the payment, which included 
+a confirmation of payee check that was returned as no match (because the account was in 
+a different name than Mrs Bs). The payment was then authorised using Mrs Bs biometric 
+data. Halifax have no record of any other device accessing her account.
+So here we have the situation that starts out as a typical attempt to scam someone and get 
+them to move their funds, but then turns into a sophisticated hack from the dark web. I 
+dont think that two very different types of fraud are the likely explanation here. Theres no 
+evidence of any other device recorded against the activity on Mrs Bs account, and the 
+payment is authorised using Mrs Bs biometrics  something I think is unlikely to be carried 
+out by a hacker/scammer. The devices location (IP address) also remains consistent 
+throughout the activity on the account.
+If the answer was a sophisticated dark web attack that shielded the information from Mrs B, 
+Id question why a hacker would use a false name for the account? It wouldnt make sense if 
+a hacker was able to disguise their activity from the account user to then use a false name 
+for the account. Theyd likely know this would return a no match on the confirmation of 
+payee and increase the risk of the transaction coming to the attention of the bank. Much 
+easier to put the real account name on the transfer to reduce any risk, especially as Mrs B 
+would be unaware of what was happening with her account. 
+I appreciate that Mrs B was told of the dark web hack by another organisation, but as far as 
+Im aware they didnt carry out an investigation of the circumstances or have opportunity to 
+review any evidence. I dont know on what basis they made the comment, but its not 
+supported by the evidence Ive been able to review.
+Overdraft
+The transaction took Mrs Bs account into its overdraft which then incurred additional 
+charges. Halifax refunded some of these charges but continued to seek repayment of the 
+overdraft. Mrs B was under the impression that Halifax would stop chasing the outstanding 
+debt, but they continued to contact Mrs B about it. Ive reviewed the contacts carried out by 
+Halifax and their advice to Mrs B about making a token payment until the complaint was 
+finalised. Overall, I dont think Halifax acted unreasonably when they sought repayment of 
+the outstanding overdraft.
+Receiving Bank
+Mrs B was critical of Halifaxs action after she reported the transaction, in particular their 
+contact with the receiving bank. Having looked at the details of activity by Halifax, they 
+contacted the receiving bank within a few hours of Mrs B reporting the loss to her account. 
+Because Halifax investigated her issue under the scam rules, contact with the receiving bank 
+is a critical part of that, which was carried out here. So, I dont think that Halifax delayed any 
+contact with the receiving bank.
+Ive also thought about Mrs Bs comments regarding the suspicious nature of the transaction 
+and whether Halifax should have stopped it. I do recognise it was higher than her normal 
+payments, but in the context of her account, it didnt exceed her available balance and a 
+portion of her overdraft. I dont think the circumstances were so unusual to the extent that 
+Halifax should have intervened. Mrs B also explained that she didnt receive any 
+correspondence concerning the transaction, but Halifax records show that a confirmation 
+text was sent to Mrs Bs registered mobile phone at the time of the payment. 
+Overall, taking everything into account I think its more likely than not that Mrs B was 
+responsible for authorising this transaction and its reasonable for Halifax to hold her liable for it. 
+My final decision
+My final decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mrs B to accept or 
+reject my decision before 19 August 2022.
+ 
+David Perry
+Ombudsman

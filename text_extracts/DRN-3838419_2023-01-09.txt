@@ -1,0 +1,115 @@
+DRN-3838419
+The complaint
+Mr R complained because Santander UK plc refused to refund him for payments which he 
+said he didnt authorise.
+What happened
+On 23 April 2022, Mr R contacted Santander and reported that he hadnt authorised multiple 
+transactions from his account. There were around 40 transactions, all to the same payee, for 
+amounts ranging from £10 to £300. Theyd taken place between 22 December 2021 and 25 
+March 2022. Santander stopped Mr Rs card and issued him with a replacement card.
+On 16 May, Mr R contacted Santander again. He reported another six transactions, to a 
+different payee, for between £100 and £200. Theyd taken place between 30 April and 16 
+May, using the replacement card details.
+Santander stopped Mr Rs card and investigated both sets of transactions. The total amount 
+disputed by Mr R was £4,145.03.
+Santander turned down Mr Rs claims, and Mr R complained, saying he definitely hadnt 
+authorised the transactions. But Santander told Mr R that the IP addresses (a unique 
+computer identifier) matched what M R had previously used for undisputed transactions. And 
+the device used to authorise the disputed transactions on the app had been registered as Mr 
+Rs. Santander also said that the activity didnt match with normal fraudulent activity, 
+because it would expect a fraudster to try to empty the account. 
+Santander sent Mr R its final response letter on 23 May. This said that the transactions had 
+been performed at an IP address frequently used by Mr R, and had been authenticated in 
+the mobile app, using Mr Rs registered secure device and his security passcode. So the 
+evidence indicated they could only have been authorised by Mr R.
+Mr R wasnt satisfied and contacted this service. He told our investigator that he didnt check 
+his account statements regularly, and first noticed the payments when trying to make a 
+payment which didnt go through because the balance on his account was too low. He told 
+the investigator that both companies to which money had been set were companies for 
+sending money abroad, but he didnt know anyone abroad to send money to. He said he 
+hadnt lost his cards, and never let anyone else use his card. Mr R also explained that he 
+used mobile banking mainly to pay bills. He had a password on his phone, and a password 
+for Santander mobile banking. Mr R said a relative had helped him set up mobile banking, so 
+she knew the password, but shed told him she didnt make any of the payments. He said 
+hed always been careful to keep his banking details safe, and hadnt shared them through 
+calls or emails asking for his details.
+Our investigator didnt uphold Mr Rs complaint. She said that whoever carried out the 
+payments must have had access to Mr Rs card details. But theyd also have needed access 
+to his mobile banking app, and Mr R had said he hadnt shared his details. The investigator 
+didnt think it would have made any difference if Santander had blocked Mr Rs mobile 
+banking when it had cancelled his card in April, because having mobile banking wasnt 
+enough to make the payments  whoever made them knew Mr Rs new card. So the 
+investigator said she couldnt see how any unauthorised third party could have made the 
+transactions.
+Mr R didnt agree. He said he hadnt authorised any of the transactions, nor had he 
+authorised any one-time passwords for accessing his account. The investigator clarified that 
+the on-time passcode had been sent as an alternative to using the app for the 30 April 
+transaction. But in fact that particular payment had been confirmed using the app, rather 
+than through using a one-time passcode on the website.  So the code wouldnt have allowed 
+anyone to access Mr Rs online or mobile banking.
+Mr R asked for an ombudsmans decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+There are regulations which govern disputed transactions. The relevant regulations for 
+disputed transactions taking place between December 2021 and May 2022 are the Payment 
+Services Regulations 2017. These say that the payment service provider (here, Santander) 
+must show the transactions were authenticated. Thats the technical part, and here, 
+Santander has sent the technical evidence showing that the transactions were 
+authenticated.
+The regulations also say that its necessary to look at whether the card holder authorised the 
+payments. In general terms, the bank is liable if the customer didnt authorise the payments, 
+and the customer is liable if they did authorise them. The regulations also say that account 
+holders can still be liable for unauthorised payments under certain circumstances  for 
+example if theyve failed to keep their details secure to such an extent that it can be termed 
+gross negligence. 
+So Ive gone on to consider whether its more likely than not that Mr R authorised the 
+transactions.
+Ive seen the technical evidence which shows that the IP addresses used to make the 
+transactions were ones which had been used for previous transactions which Mr R hadnt 
+disputed. The disputed transactions had all been made using the device (phone) which had 
+been registered to Mr Rs account since early September 2021, and on which undisputed 
+transactions were made both before and after the disputed ones. The transactions had been 
+authorised using the app, and the passcode to access the app.
+Mr R has been very clear, to Santander and to our investigator, that he hadnt shared his 
+card, phone or security details, nor had he engaged with any scam calls, texts, or 
+downloaded any suspect software. He hadnt lost his phone. In view of the IP evidence in 
+particular, which showed that the disputed transactions took place in locations which Mr R 
+had used for undisputed transactions, its very hard to see how anyone other than Mr R 
+could have carried out these transactions. It might have been someone who he allowed to 
+use his phone, who knew his security details, and who carried out the transactions at Mr Rs 
+genuine IP address locations. But allowing someone else to carry out the transactions and 
+providing the necessary device and details would count as Mr R authorising the transactions 
+himself.
+Id also comment that the transactions werent typical of a third party fraudster. If someone 
+unknown to Mr R had stolen his card and phone, theyre much more likely to have emptied the account very quickly, rather than take sometimes quite small amounts over the course of 
+some seven months. 
+Ive also borne in mind that Santander stopped Mr Rs card on 23 April, and issued a 
+replacement with a different number. But the disputed payments re-started on 30 April, just a 
+week after Mr R reported a dispute on the previous card, and probably only a few days after 
+the replacement card would have arrived by post. So whoever carried out the transactions 
+would have had to have known the previous card had been stopped, and would have had to 
+have had access to the replacement card within a very short time of its arrival.
+Mr Rs statements also show that he was using the account very frequently for genuine 
+transactions, in between the disputed ones. There are very many undisputed transactions 
+between the disputed ones. I recognise that Mr R told our investigator that he didnt check 
+his statements very often. But as Mr R was using the account so much for genuine 
+transactions, I find it surprising that he didnt report the disputed transactions until more than 
+six months after they started. And when the replacement card was issued, it would have 
+been natural for a customer to have been wary, and kept an eye on their account. But the 
+first of the second batch of disputed transactions took place on 30 April, and again Mr R was 
+using the account for genuine transactions. But he didnt report the April and May disputed 
+transactions until 16 May. I find it surprising that Mr R didnt realise and report these sooner 
+than he did.  
+Taking all these factors into account, I consider its more likely than not that Mr R authorised 
+the disputed transactions himself. Its possible that he allowed someone else to carry them 
+out in locations he himself frequently used, allowing them access to his card and mobile and 
+relevant passcodes  but that would count as Mr R authorising them himself. So I dont 
+uphold Mr Rs complaint, and I dont require Santander to refund him. 
+My final decision
+My final decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr R to accept or 
+reject my decision before 6 February 2023.
+ 
+Belinda Knight
+Ombudsman

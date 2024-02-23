@@ -1,0 +1,158 @@
+DRN-4189094
+The complaint
+Mrs F has complained that the Bank of Scotland plc trading as Halifax (Halifax) will not 
+refund the money she lost as the result of a scam. 
+Mrs F has used a representative to bring her complaint to this service. For ease, I will refer 
+solely to Mrs F throughout this decision. 
+What happened
+Both parties are familiar with the details of the scam so I will provide only a summary here. 
+Mrs F contacted a scammer about marketing a product. The scammer introduced her to an 
+investment platform. My understanding is that Mrs F paid the investment platform via debit 
+card and the funds were then sent on to a scam company called B which purported to be a 
+crypto trading firm. Mrs F made the following transactions and the payments were made 
+using a debit card
+Transaction number Date Amount Merchant
+1 28/10/2020 £100 Igniter
+2 02/11/2020 £500 Igniter
+3 27/11/2020 £500 Igniter
+4 24/12/2020 £25 Igniter
+5 24/12/2020 £5,000 Igniter
+6 30/12/2020 -£300 credit Transferwise
+7 27/01/2021 -£400 credit Transferwise
+8 27/01/2021 -£50 credit Transferwise
+9 08/02/2021 -£250 credit Transferwise
+10 08/02/2021 £250 Transferwise
+Mrs F tried to withdraw some of her profits roughly a year after the scam started. She says 
+she was unable to do so and therefore she realised that she had been scammed. Some 
+years later Mrs F raised a fraud claim with Halifax. It rejected her claim. 
+Our investigator upheld the complaint in part because he thought that Halifax should have 
+intervened at transaction 5 and had it done so the scam would have been stopped. He 
+therefore thought that this transaction should be refunded. He did not consider transaction 
+10 as a credit was received on the same day so he did not think there was a loss in relation 
+to this. He did though after some back and forth decide that there should be a 50% reduction 
+to the refund as Mrs F used part of the proceeds of a loan to fund transaction 5 and that had 
+Mrs F told the loan provider of her intentions for the loan then it would not have been 
+granted. So, he thought that Mrs F contributed to her own loss.
+Halifax did agree with this proposed outcome. Mrs F via her representative did not agree as 
+they said that Mrs F was honest about the loan purpose as she intended the loan for 
+installing a new boiler which she did get done around this time. So, this complaint has been 
+passed to me to issue a decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Theres no dispute that Mrs F made and authorised the payments. Mrs F knew who she was 
+paying, and the reason why. At the stage she was making these payments, she believed she 
+was transferring funds to invest in crypto. I dont dispute Mrs F was scammed and she 
+wasnt making payments for the reason she thought she was, but I remain satisfied the 
+transactions were authorised.
+Its also accepted that Halifax has an obligation to follow Mrs Fs instructions. So, in the first 
+instance Mrs F is presumed liable for her loss. But there are other factors that must be 
+considered.
+To reach my decision I have taken into account the law, regulators rules and guidance, 
+relevant codes of practice and what was good industry practice at the time. To note, as the 
+payments were debit card payments the principles of the Contingent Reimbursement Model 
+(CRM) code do not apply in this case.
+This means I think that Halifax should have:
+been monitoring accounts and payments made or received to counter various risks, 
+including fraud and scams, money laundering, and the financing of terrorism.
+had systems in place to look out for unusual transactions or other signs that might 
+indicate that its customers were at risk of fraud (amongst other things). This is 
+particularly so given the increase in sophisticated fraud and scams in recent years, 
+which financial institutions are generally more familiar with than the average 
+customer.
+in some circumstances, irrespective of the payment channel used, taken additional 
+steps or made additional checks before processing a payment, or in some cases 
+declined to make a payment altogether, to help protect its customers from the 
+possibility of financial harm.
+Firstly, I should say that like the investigator given that payment 10 went to an account that 
+Mrs F held via a different bank and I cant see that this was listed as part of the scam by 
+Mrs F in her initial submissions so I dont think that it is part of this scam.
+I think Halifax should be liable for payments 5. Ill explain why.Payments 1,2,3 and 4
+There is a balance to be struck. Banks and building societies have obligations to be alert to 
+fraud and scams and to act in their customers best interests. But they cant reasonably be 
+involved in every transaction. In this instance the first four payments were not of an unusual 
+size or frequency that I think it should have prompted an intervention from Halifax. So, I dont 
+think that Halifax did anything wrong in relation to these payments.
+Payment 5
+I think Halifax ought to have carried out further checks and spoken to Mrs F before 
+processing this transaction. It was larger than the first four payments and was unusual 
+enough in itself compared to Mrs Fs normal account usage to have prompted an 
+intervention from Halifax.
+I also appreciate that Mrs Fs loss didnt materialise directly from her Halifax account in these 
+circumstances. But even though she was transferring funds to an account in her own name, I 
+still think that Halifax ought to have taken a closer look at payment 5  given the significant 
+risk of fraud associated with cryptocurrency investments at the time.
+The FCA and Action Fraud published warnings about cryptocurrency scams in mid-2018. 
+And by January 2019, cryptocurrency scams continued to increase in frequency. So, by the 
+time Mrs F started making her investments in October 2020, it is reasonable to say Halifax 
+ought to have had a good enough understanding of how crypto scams works  including the 
+fact that their customer often moves money to an account in their own name before moving it 
+on again to the scammers.
+Therefore, Im satisfied that Halifax shouldve had mechanisms in place to detect and 
+prevent this type of fraud at the time Mrs F was making this payment, and that it should have 
+led to it intervening to ask further questions about payment 5.
+I would expect Halifax to have intervened and asked Mrs F who the payment was for, what it 
+was for, and for the  surrounding context of the payment - it could, for example have, asked 
+how she had been contacted, whether shed parted with personal details in order to open a 
+trading account, whether she was being helped by any third parties e.g. a broker, and how 
+she had come across the investment.
+I have no reason to believe Mrs F wouldnt have been open with Halifax, and I think she 
+would have taken its intervention seriously. So, I think Halifax would have quickly learned 
+from its conversation with Mrs F the basic background to the payment instruction  that she 
+was buying cryptocurrency and then sending onto what she thought was a cryptocurrency 
+type trading investment which shed decided to pursue after learning about it via WhatsApp.
+Even though the conversation would have identified the payment was going to Mrs Fs own 
+account (before being sent onto the scammers), the conversation shouldnt have stopped 
+there on the basis that the money appeared to be going to somewhere safe and within 
+Mrs Fs control. This is because by 2020 Halifax was well aware  or ought to have been 
+well aware  of how scams like this work  including that the customer often moves money 
+onto an account in their own name before moving it on again to scammers. 
+So, I think Halifax would have been concerned by what the conversation would most likely 
+have revealed and so warned Mrs F, explaining the typical characteristics of scams like this. 
+Had it done so I think Mrs F would have listened and recognised she was at risk. I am 
+satisfied she would have had second thoughts if Halifax had intervened effectively. It therefore follows I think Mrs F would not have gone ahead with payment 5.
+Ive considered carefully whether Mrs F should hold some responsibility for her loss by way 
+of contributory negligence. In this instance the investigator said that Mrs F should be partially 
+responsible for her loss as she used the majority of the proceeds from a loan to make 
+transaction 5. And that during the loan application process Mrs F had not disclosed that her 
+loan was mainly being used for investment purposes. 
+Mrs Fs representative has argued that she gave the correct reason for the loan to the loan 
+provider and she did use the majority of the funds to install a new boiler. I have carefully 
+considered this but I think it likely given the timing of the loan and the payments to B that 
+when Mrs F took out the loan she did intend to use most of the proceeds to invest with B. I 
+also am satisfied that had she told this to the loan provider it would not have agreed to the 
+loan. So, I think that Mrs F did contribute to her own loss.
+I should also add for the sake of completeness that even had this not been the case I would 
+likely have made a 50% deduction for the redress. I say this because I have researched B 
+and I can see that around the time that Mrs F was scammed it was promising 1% to 2% a 
+day in returns along with other bonuses such as cars and watches. This is considerably too 
+good to be true and therefore I dont think anyone could reasonably have thought that this 
+was a legitimate company to deal with. I dont think that Mrs F did her due diligence prior to 
+investing with B.
+So overall and having considered everything I think that Mrs F contributed to her own loss 
+and therefore I feel that it would be appropriate to reduce the amount of compensation due 
+to Mrs F by 50%.
+I have thought about whether Halifax could have recovered the funds via a chargeback but 
+given the timescales between when the scam occurred and when Mrs F raised a complaint 
+about this matter I dont think a chargeback would have been successful. I also dont think 
+that there was any other way to recover the funds.
+In relation to interest added to the redress I note that the investigator recommended that no 
+interest be due as the loan was applied for prior to the scam payment and therefore had the 
+scam not occurred the loan and associated interest would still have to be paid. I am not sure 
+I completely agree with this, however I also note that Mrs F did receive credits from B that 
+were paid into her wise account and were forwarded to her Halifax account. So I would 
+usually think it appropriate to deduct these from the refund due (prior to the 50% reduction). 
+Given that roughly the interest that Mrs F would have earned would be commensurate with 
+the deduction that I would have proposed from the redress, I think for the sake of avoiding 
+further delays that the redress already proposed by the investigator and agreed to by Halifax 
+is fair and reasonable given the overall circumstances of this complaint.
+Putting things right
+Halifax therefore will have to
+Refund 50% of transaction 5
+My final decision
+I uphold this complaint in part and require Bank of Scotland plc trading as Halifax to pay the 
+redress outlined above.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mrs F to accept or reject my decision before 3 January 2024.
+ 
+Charlie Newton
+Ombudsman

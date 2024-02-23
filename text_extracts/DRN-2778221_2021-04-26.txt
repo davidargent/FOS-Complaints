@@ -1,0 +1,145 @@
+DRN-2778221
+The complaint
+Mr D complains that Marks & Spencer Financial Services plc (M & S Bank) lost his personal 
+data.
+What happened
+Mr D had a credit card account with M & S Bank.
+He raised a dispute about a purchase hed made. Hed paid a deposit using his credit card, 
+but he says the merchant didnt provide him with a secure or suitable means to pay the 
+balance. So, he wanted M & S Bank to refund the deposit to him.
+Mr D completed a Disputed card transaction form in relation to the payment thatd been 
+debited from his account. He submitted the form online, on 9 April 2020, together with 
+documentation evidencing the disputed transaction. He received a receipt from M & S Bank 
+confirming it had received the form.
+Mr D didnt get any response from M & S Bank. He contacted it again in July 2020, but it said 
+it hadnt received the form or the supporting evidence. And it said it wasnt aware thered 
+been any systems issues at the time that wouldve prevented it from having received the 
+form. When he provided the receipt to it, M & S Bank said there had been a system error at 
+the time. It didnt give him any explanation about what had happened.
+He complained to M & S Bank. He also complained about delays when hed tried to phone 
+M & S Bank in July.
+M & S Bank investigated his complaint. It initially said it hadnt received the disputed card 
+transaction form. After Mr D provided the receipt, M & S Bank acknowledged thered been a 
+system error at the time. It said the problem that had arisen meant that although the form 
+had been received by M & S Bank the data on the form hadnt been transmitted to its dispute 
+team. But it said thered not been any data breach because no third party wouldve been 
+able to access the data.
+M & S Bank accepted thered been delays answering the telephone when Mr D had 
+contacted it in July. It paid him £50 by way of compensation for this. It also credited his 
+account with an additional £75. It said this was compensation for the fact that Mr D had 
+submitted the documentation and, as it turned out, there had been an issue when it was 
+received by M & S Bank.
+Mr D didnt agree. He also said he was happy for M & S Bank to take back all compensation 
+ which hed never asked for. M & S Bank said it wouldnt do that. 
+Mr D complained to our service. Our investigator looked into his complaint. She said she 
+was satisfied M & S Bank had received the disputed card transaction form in April but thered 
+been a problem with its systems. She said the data hadnt been lost or mislaid by M & S 
+Bank and it hadnt gone outside of its systems. 
+Our investigator said the data that was on the form wasnt sensitive personal data. And, 
+although she accepted it wouldve been frustrating for Mr D she didnt think hed experienced 
+any significant impact as a result. She said M & S Bank had paid him £125 in total which she 
+thought was fair and reasonable compensation. 
+Mr D didnt accept what our investigator said. So, the complaint has been passed to me to 
+decide.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Mr Ds complaint relates to what hes told us about a data breach. He says hes spoken to 
+the Information Commissioners Office (ICO) in the area where he lives. Hes entitled to 
+discuss his concerns with the ICO where he thinks M & S Bank may have breached data 
+protection regulations and its entirely proper for him to decide whether he wants the ICO to 
+consider the concerns hes raised. This isnt a matter for me to decide.  But, I have taken into 
+account the relevant law and regulations when deciding whether M & S Bank has acted fairly 
+and reasonably in this case.
+It is now accepted by M & S Bank that Mr D did complete a disputed card transaction form 
+and that he sent this to it in April 2020. I can understand why Mr D was dissatisfied when 
+M & S Bank suggested he hadnt raised any dispute. And, it was only after he provided the 
+receipt that it accepted what hed told it. 
+It is the case that Mr D resubmitted the form and the supporting documentation in July and 
+he did subsequently receive the refund hed requested. He has raised issues about how his 
+claim was handled after July but Im not dealing with those issues here. Im only looking at 
+the complaint hes raised about what happened to the personal data he sent to M & S Bank 
+in April 2020. Other issues hes raised will need to be dealt with separately.
+What happened to the data sent to M & S Bank in April 2020?
+Ive looked at the information that appeared on the documentation sent to M & S Bank. It 
+does contain personal data such as Mr Ds name, address and signature. 
+M & S Bank has an obligation to keep Mr Ds personal data secure. Ive looked at its Privacy 
+Statement. This states that it uses a range of measures to keep information safe and secure, 
+including encryption and other forms of security. 
+Mr D says this didnt happen. He says M & S Bank lost his data and hasnt told him where it 
+is. He says this has caused him stress and hes worried it might be the reason why there 
+was some fraudulent activity on his account in May 2020. 
+M & S Bank says that, after Mr D provided it with the receipt, it was able to investigate what 
+had happened. It says his data was received by it. So, it didnt go to any third party. The 
+problem that arose was when its systems tried to submit the data internally to the Disputes 
+team. It says there was a software problem which meant that the data was essentially 
+wiped and as a result it wasnt sent to the Disputes team. It says that if there is any of the 
+data still on its systems, any such data would be encrypted, and it hasnt been transferred to 
+or shared with any third parties. 
+M & S Bank has also provided evidence to our service which shows that it has a data 
+retention policy for its webforms. Ive looked at the audit log for Mr Ds data and it shows that in line with that policy all of his documents (webforms) were deleted on 20 June 2020. So, 
+any information on the webform submitted in April 2020, which may still have been held on 
+M & S Banks systems, wouldve been deleted at that time.
+Mr D says that M & S Bank should be able to provide an incident log detailing what 
+happened to his data in April 2020. But, M & S Bank says there was no bank wide fault in 
+April 2020. Its confirmed that no other customers reported any issues at this time. It says 
+that what happened to Mr Ds form was an isolated incident. For that reason, no incident log 
+was produced.
+M & S Bank sent explanations about what had happened to his personal data in its emails to 
+Mr D dated 4 August and 5 August (which Ill comment further about below). It told him that 
+his data hadnt been transferred to any third parties and explained that, after it had received 
+the data, there was an issue which meant it hadnt been able to transfer the data to its 
+Disputes team. 
+Having thought about what M & S Bank has said and considered the evidence thats been 
+provided, Im satisfied, on balance, its done enough to explain to Mr D what happened to the 
+data he sent to it in April 2020. 
+Fraud attempt using his card details
+Ive also considered whether Mr D has suffered any loss as a result of what happened. 
+Mr D told us about the fraud on his card in May 2020. I can see at that time thered been an 
+unsuccessful attempt to make a purchase using his card details. His card details were on the 
+form thatd been submitted in April. But, it is the case that the attempt to use his card details 
+was not successful. And, M & S Bank cancelled his card and issued him with a new one at 
+that time. 
+M & S Bank told us that the data he submitted in April wasnt given to any third parties and 
+wasnt accessible by any third parties. So, although I can understand his concerns about the 
+attempted fraud, I dont think, on balance it was related to what happened when he 
+submitted the form in April. And, as Ive mentioned above, he didnt suffer any loss as a 
+result of his card details having been used.
+Compensation 
+Mr D has also told us about the stress he experienced because of what had happened to his 
+personal data. I can understand why he wouldve felt that way. So, Ive thought about the 
+compensation M & S Bank has already paid.
+M & S Bank paid Mr D £50 because of issues hed experienced contacting it by telephone in 
+July 2020. It acknowledged these issues in its letter of 24 July 2020. That amount was 
+credited to his account on 24 July 2020. I think this was fair and reasonable compensation 
+for the issues hed experienced when trying to contact M & S Bank.
+M & S Bank subsequently agreed to pay him a further £75 by way of compensation. That 
+compensation is referred to in its email dated 28 July 2020 where it says it was because of 
+further comments hed made to M & S Bank that day. It subsequently clarified in its email of 
+4 August 2020 that this payment was
+ actually based upon the fact that you had returned the documentation and there 
+may have been an issue at our end. As mentioned above, this did turn out to be 
+correct.So, I think this £75 compensation was paid because M & S Bank had accepted that the 
+dispute form had been submitted in April, but M & S Bank had an issue - which meant it 
+wasnt processed on receipt. 
+The email dated 4 August also explained to Mr D thered been a fault in its software which 
+meant the data on the form hadnt transmitted correctly. So, it hadnt reached its Disputes 
+team. Having read this explanation, I can understand why it didnt immediately allay Mr Ds 
+concerns about his personal data.  But, M & S Bank sent a further email the next day which 
+did set out further clarification. It said thered been a system error. The data hadnt been 
+transmitted correctly to the Disputes team, and essentially had been lost within M & S Banks 
+own system. It confirmed that no third party had been able to access the data and no third 
+party had received it.
+Having read the emails dated 4 August and 5 August Im satisfied M & S Bank did enough to 
+provide Mr D with assurances to help allay his concerns about the security of his personal 
+data. Its already paid him £75 by way of compensation because of this issue. I think thats 
+fair and reasonable. And, having considered everything here, I dont require it to have to do 
+anything more to resolve this complaint.
+My final decision
+For the reasons given above, I do not uphold this complaint about Marks & Spencer 
+Financial Services plc.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr D to accept or 
+reject my decision before 24 May 2021.
+ 
+Irene Martin
+Ombudsman

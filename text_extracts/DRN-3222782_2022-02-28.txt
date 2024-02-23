@@ -1,0 +1,162 @@
+DRN-3222782
+The complaint
+Miss A complains that Lloyds Bank PLC failed to refund transactions that she didnt 
+recognise.
+What happened
+Miss A has explained that when she tried to pay for lunch, her card was declined and after 
+checking her online banking, she noticed several payments had left her account earlier that 
+morning. She didnt recognise the recipient of the payments and notified Lloyds about the 
+transactions. Miss A also noticed that shed received a text message from Lloyds earlier that 
+morning whilst she was asleep. The text message advised that her phone number had been 
+changed and if this was incorrect, she should let Lloyds know.
+By the time that Miss A noticed the message, her account had almost been emptied, with the 
+majority of the payments using up her available overdraft. Miss A asked Lloyds for a refund 
+because she believed her account had been used by someone else without her authority. 
+Miss A confirmed that she hadnt given any of her security details to anyone else and that at 
+the time of these transactions, she was alone in her flat. She also confirmed that she hadnt 
+answered any suspicious messages or allowed anyone else to operate her account.
+Lloyds looked into the situation and thought that Miss A was responsible for making the 
+payments herself because there was no evidence of any compromise of her security 
+information needed to access her online banking. They also looked at the IP address data 
+related to the usage of her online and mobile banking which showed a matching address for 
+both Miss As legitimate banking activity and the suspect logons to her account.
+Note: IP addresses are a means to identify physical locations that online transactions are
+connected to and can be the actual physical location or other locations connected to the
+provider of the services.
+Miss A reported the incident to Action Fraud and complained to Lloyds. During the complaint 
+process Miss A told Lloyds that she may have given her phone to someone at a party to take 
+a picture with. This happened a week or two prior to the disputed transactions. Miss A later 
+confirmed that some online banking details were recorded on the phone but in another 
+language, although her password and username wasnt recorded.  After Lloyds considered 
+the circumstances, they didnt change their position. Miss A then brought her complaint to 
+our service for an independent review. It was looked into by one of our investigators who 
+asked for further information from Miss A.
+Miss A said that shed first logged on around lunchtime when she noticed her account was 
+almost empty and that was when she called the bank. Miss A said that Lloyds didnt want to 
+listen to her side of the story, and she confirmed that the details needed to access her online 
+banking werent available to anyone but herself. She thought she was alone when the 
+disputed transactions happened. Miss A said her laptop and phone were security protected 
+and she was genuinely at a loss how someone had managed to get into her account. Miss A 
+remembered leaving her laptop open in the library, but this was quite some time ago. Miss A 
+was concerned that Lloyds allowed her mobile number to be changed without first getting 
+her authority.
+Our investigator thought Miss As version of events had changed since she brought the 
+complaint to our service and there wasnt a logon to her online or mobile banking for several 
+hours after Miss A said shed noticed her account was almost emptied. There wasnt a point 
+of compromise identified that could explain how someone other than Miss A could have 
+logged on to her banking. Overall, our investigator thought Miss A was responsible for the 
+transactions and didnt uphold her complaint.
+Miss A, through her representative, disagreed and continued to raise the issue that Miss As 
+phone number could be changed without her specific authority. It was speculated that her 
+account was hacked or that Lloyds employees could have been involved. Miss A wanted to 
+know why Lloyds hadnt pursued the recipient of the funds.
+The complaint has now been passed to me for a decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+The relevant law surrounding authorisations are the Payment Service Regulations 2017 and 
+the Consumer Credit Act 1974. The basic position is that Lloyds can hold Miss A liable for 
+the disputed payments if the evidence suggests that its more likely than not that she made 
+them or authorised them. 
+Authorisation is made up of two parts. Authentication and consent. Authentication is usually 
+referred to as the technical evidence and in this case, Lloyds have supplied evidence that 
+shows the new payee was set up and the payments authorised using Lloyds online banking. 
+Im satisfied the evidence shows the disputed transaction was authenticated.
+Consent refers to the way in which Lloyds and Miss A agreed to operate the account to allow 
+Lloyds to make payments on Miss As behalf. For example, Lloyds terms and conditions set 
+out that if a payment is arranged through mobile/internet banking and the account holder 
+uses their security details to confirm the payment, then Lloyds accept that the instruction to 
+make the payment is authorised by the account holder. So, because Miss As online banking 
+was correctly logged into using her security information and the payments confirmed - Im 
+satisfied that consent was given and the disputed transactions were authorised. But, there 
+are exceptions where it wouldnt be appropriate for Lloyds to hold Miss A responsible, for 
+example if her online banking was used without her permission.
+Miss A told our investigator that she first noticed a problem when her debit card was 
+declined around lunch time, which prompted her to check her online banking. Miss A went 
+on to explain that she then called Lloyds about the problem. Lloyds audit records show when 
+Miss As online and mobile banking were used and theres no record of any check of the 
+systems until several hours later that day. Lloyds records show that Miss A first called them 
+that evening, which was a few hours after logging in to her banking app, rather than around 
+lunch time.
+The audit from Lloyds also lists the IP address data linked to the users activity. What this 
+means in practice is that the addresses can show a location where the user was operating 
+their device from or another location linked to the supplier of the online based activity. So, it 
+doesnt necessarily relate to where the person is. Whats relevant here is that the same IP 
+address is used by whoever logged on to the account early in the morning and sent the 
+disputed payments as that used by Miss A when she checked her mobile banking app later 
+that afternoon.The conclusion Id draw from this information is that the same location was used on both 
+occasions when Miss As online and mobile banking were accessed. It seems unlikely that 
+an unauthorised third party would be able to access the same IP address as Miss A. When 
+Miss A spoke with our investigator she confirmed the security surrounding her login details 
+and that no one else had access to her phone or laptop. Ive also thought about what Miss A 
+said to Lloyds during her complaint, that shed given her phone to someone to take a picture 
+with. Miss A had some banking information on her phone which was recorded in a different 
+language, although I dont think its plausible that whoever took the picture could obtain 
+these details from within the phone and then access her online banking. I say that because 
+Miss A confirmed some of the necessary detail needed to login wasnt recorded on her 
+phone.
+Whilst I appreciate Miss A has said shes genuinely unaware how this happened, an 
+objective assessment of the evidence shows it was unlikely to be anyone else who had 
+access to her information and could use the same IP addresses to access her account and 
+then check it later that same day.
+Miss As representative speculated that it could be the result of a hack or that Lloyds staff 
+were involved in her losses. I havent seen any evidence that would indicate this and the 
+data that Lloyds have provided shows a consistent use of the same IP address. It was also 
+suggested that spoofing of the IP address was responsible for the matching data.
+Spoofing is changing information to make it appear as something else, often seen in scam 
+cases where the account holder believes theyre talking to their bank because its the banks 
+phone number that appears on their screen  when its been deliberately altered by the 
+scammers. Whats been suggested here is that the IP address was spoofed to make it look 
+like Miss As usual IP address was being used to make these transfers. Whilst Ive no doubt 
+its technically possible to do that, Id question why someone would go to those lengths if 
+theyd already gained access to Miss As account. It seems an unnecessary step for a 
+fraudster to change the IP address to match Miss As. If the fraudster wanted to mask their 
+own IP address, it would be a simple matter to do that. But, to first identify Miss As correct 
+address and then manipulate the records to make it match Miss As seems unlikely.  
+I also considered if the security information could have been taken from her laptop when she 
+left it in the library, but as it was quite some time ago (approx. 2 years), I dont think this is 
+the likely reason for the loss of the funds. A fraudster would be unlikely to wait for such a 
+long time to use this information and Miss A hadnt recorded the password anywhere, so I 
+dont think this is a realistic possibility for the losses.
+Miss As representative suggested that she might have clicked on a link that led to someone 
+being able to access her account. Miss A confirmed that she hadnt done this, and it wouldnt 
+explain how someone would be able to get all the necessary detail required to log in to her 
+account. Theres no evidence to support this as the explanation for how the transfers were 
+made.  
+Miss A repeatedly raised the issue of the text she received early in the morning when she 
+said she was asleep. I understand the point being raised here  that the information 
+shouldnt be able to be changed without confirmation from the account holder. But, in order 
+for a phone number to be changed, the online account has first got to be logged into, which 
+requires various pieces of security information which should only be known to the account 
+holder. So, its not simply an issue of the receipt of a text before the number is changed, its 
+after a series of security information is entered before this option can be used. Because the 
+necessary security information wasnt available to anyone else, I dont think the text was as 
+a result of an unauthorised third party accessing her account.Miss As representative wanted to understand why Lloyds hadnt conducted any enquiries 
+with the receiving bank and having looked at the notes Lloyds sent to our service; they did 
+follow up with the receiving bank about the transfers. The receiving bank notified Lloyds that 
+the funds had been moved so Lloyds were unable to do anything further.
+Lloyds accepted that theyd let Miss A down when shed reported the disputed transactions 
+to them because they logged the complaint incorrectly which caused some delays. Miss A 
+was also unhappy with how Lloyds dealt with her. Lloyds complaint notes record 
+conversations with Miss A and there isnt any complaint made about how Miss A was dealt 
+with  just that she didnt believe she was responsible for the disputed transactions. The 
+calls werent available for me to listen to so I cant say what happened during them. Lloyds 
+told Miss A that theyd make a payment of £50 to compensate her for the service she 
+received. I think this was a reasonable way for them to deal with the situation and I wont be 
+asking Lloyds to do anything further.
+In summary Miss As account was used to make transfers to another account which she 
+denies authorising. The evidence Ive examined shows that theres no plausible or likely 
+explanation for the compromise of Miss As online banking details, her version of events isnt 
+supported by Lloyds audit information and the IP address data indicates the disputed 
+transactions occurred from the same location that Miss A also used to check her online 
+account. So, taking everything into account, I think that Miss A was more likely than not 
+responsible for making these transactions or allowing someone else to do them. I think it 
+was reasonable for Lloyds to hold Miss A liable for the transactions and I dont uphold this 
+complaint.
+My final decision
+My final decision is that I dont uphold this complaint against Lloyds Bank PLC.
+Under the rules of the Financial Ombudsman Service, Im required to ask Miss A to accept 
+or reject my decision before 28 March 2022.
+ 
+David Perry
+Ombudsman

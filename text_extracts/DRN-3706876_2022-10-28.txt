@@ -1,0 +1,120 @@
+DRN-3706876
+The complaint
+Mr W complains that Barclays Bank UK PLC failed to refund a transaction he didnt 
+authorise.
+What happened
+Mr W received a message from Barclays advising him of a suspicious transaction. He called 
+them and was told a large payment (£2,999.90) had been made from his account a few 
+minutes earlier which Mr W denied was him. Barclays advised Mr W that the payment was 
+pending but couldnt be stopped. It was further explained that Mr W had to wait for either 
+the payment to be claimed by the merchant or for it to be unclaimed and drop off the 
+system in which case it would return to Mr Ws account.
+Barclays told Mr W that if it was claimed by the merchant, then he could raise a fraud claim 
+and it would be investigated. The payment was in a pending state for some time and Mr W 
+kept in touch with Barclays about it. Barclays later sent him a letter about it, asking whether 
+he wished to raise a fraud claim. Mr W explained that he never followed up on this because 
+hed been told he didnt need to by a Barclays employee.
+It was noted by Barclays that when the payment was authorised, Mr Ws account had 
+recently received a large payment into it and the outgoing disputed transaction was within 
+the limits of Mr Ws account, but once the payment was claimed by the merchant, this 
+caused Mr Ws account to be overdrawn.
+Barclays believed Mr W had authorised the payment and declined to refund him. Mr W then 
+made a complaint to them which Barclays investigated. Barclays thought that Mr Ws version 
+of events was inconsistent, and their evidence showed it was Mr W whod authorised the 
+transaction. They didnt change their position regarding the disputed transaction but 
+accepted that theyd given Mr W conflicting information about his claim and credited his 
+account with £50.
+Mr W was unhappy with how Barclays had dealt with his complaint and brought it to the 
+Financial Ombudsman Service for an independent review. It was looked into by one of our 
+senior investigators who asked Mr W and Barclays for information about the complaint. Mr W 
+explained what had happened but couldnt be sure if hed had any unusual calls prior to the 
+payment leaving his account. He maintained that he hadnt made the transaction and was 
+critical of Barclays approach to his claim.
+Barclays provided details about the payment and the steps involved in the process. They 
+presented evidence that Mr W had logged on to his mobile banking app just before the 
+disputed transaction and then used it to confirm the payment. Evidence was provided that 
+showed the device used was registered to Mr W and was the one he usually used to 
+undertake mobile banking from his usual IP address. 
+Note: IP addresses are a means to identify physical locations that online transactions are
+connected to and can be the actual physical location or other locations connected to the
+provider of the data services.
+After considering the information, Mr Ws complaint wasnt upheld. Mr W disagreed with the 
+outcome and said:
+He believed that because Barclays gave him misleading advice, this prevented him 
+from stopping the payment. 
+He was adamant that he knew nothing about it when Barclays contacted him at the 
+time of the transaction.
+He believed the £50 payment was an admission of guilt by Barclays. 
+He explained that hed had several incidents of fraud and that recent coverage 
+concerning data breaches was similar to his experience.
+Mr W wanted a further review of his complaint by an Ombudsman, which has now been 
+passed to me for a decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Mr Ws complaint revolves around a large payment that left his account, paid for using his 
+debit card. Mr W denies making the payment whilst Barclays believe he was responsible. 
+Where there is a dispute about what happened, and the evidence is incomplete or 
+contradictory, I must reach my decision on the balance of probabilities  in other words, on 
+what I consider is most likely to have happened in light of the available evidence.
+The relevant law surrounding authorisations are the Payment Service Regulations 2017 and 
+the Consumer Credit Act 1974. The basic position is that Barclays can hold Mr W liable for 
+the disputed payments if the evidence suggests that its more likely than not that he made 
+them or authorised them. 
+Barclays can only refuse to refund unauthorised payments if it can prove Mr W authorised 
+the transaction, but Barclays cannot say that the use of the card/ banking app and online 
+payment details conclusively proves that the payment was authorised. 
+Unless Barclays can show that consent has been given, it has no authority to make the 
+payment or to debit Mr Ws account and any such transaction must be regarded as 
+unauthorised. To start with, Ive seen the banks technical evidence for the disputed 
+transactions. It shows that the transactions were authenticated using the payment tools 
+issued to Mr W. Ill now need to consider the information provided by both parties to 
+determine whether theres sufficient evidence to hold Mr W responsible for the disputed 
+transaction or not.
+Barclays provided technical evidence concerning the payment. This showed that Mr Ws 
+debit card was used to make a payment using the internet. During the authorisation process, 
+an additional security step was required to verify the payment. In this case, Mr Ws banking 
+app was used to confirm the payment was genuine. These additional steps are designed to 
+provide the account user with extra security in the case of an unauthorised transaction. 
+What that means here is that Mr Ws phone, using the banking app was opened and 
+additional steps were completed before the payment was authorised. Its difficult to see how 
+anyone else unknown to Mr W could have done that. I say that because the records show it was Mr Ws genuine phone, using his mobile banking app which required private security 
+information to open.
+This payment took place around midnight, so I dont think it was likely that Mr Ws phone 
+was taken without his knowledge. Mr W spoke with Barclays soon after the payment left his 
+account and there was no mention of anyone else who may have been with him at the time.
+I also looked at the account at the time of the payment and a large incoming payment that 
+had been received a few days before the disputed transaction was made. At that time, the 
+payment would have left nearly £1,000 in the account. If the payment was somehow made 
+by an unauthorised third party, Im not sure why they would then leave such a large amount 
+in the account when the main purpose for such activity is to steal as much as possible  but 
+that didnt happen here.
+Ive thought about the comments made by Mr W regarding other fraud and breaches and 
+whether they could be responsible for his loss. Barclays data shows it was Mr Ws device 
+that was used to confirm the payment whilst using it at his usual location (presumably his 
+home). Theres no evidence that other devices were present or registered on his account, 
+nor are there any indications that his Barclays account was hacked. 
+Ive also thought about whether Mr W was the victim of a scam, but theres no evidence that 
+Mr W was manipulated into giving either his logon details and access to his devices to 
+anyone else or persuaded to make the payment for some reason by a scammer. I dont think 
+Mr W was scammed here.
+Mr W also believed that the misleading information he was given at the time hindered him 
+from stopping the payment. Unfortunately thats not the case as once a debit card payment 
+has been authorised (following the procedure outlined above), it cant be stopped until its 
+either claimed by the merchant (as it was here) or they fail to claim it. So, whilst I accept that 
+Barclays gave a confusing picture to Mr W, I dont think it would have had any significant 
+impact on the outcome, only delayed it.
+Barclays acceptance of the misleading customer service was an admission that they let Mr 
+W down about this aspect of their dealings with him. I dont think its reasonable to say this 
+was an acceptance that theyd made an error about the disputed transaction as well. The 
+two things are quite different, and Barclays are required to address the different aspects of  
+Mr Ws complaint. Their payment here was, I think, a reasonable way to recognise this.
+So, taking everything into account, I think it more likely than not that Mr W was responsible 
+for making this payment and it was reasonable for Barclays to hold him liable for it.
+My final decision
+My final decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr W to accept or 
+reject my decision before 25 November 2022.
+ 
+David Perry
+Ombudsman

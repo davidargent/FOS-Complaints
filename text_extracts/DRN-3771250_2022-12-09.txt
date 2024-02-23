@@ -1,0 +1,296 @@
+DRN-3771250
+The complaint
+Mr O complains about how Interactive Brokers (UK) Ltd (IB) dealt with four trades he made 
+on his account.
+What happened
+The first trade that Mr O complained about was in 2008 but we decided that the complaint 
+wasnt within our jurisdiction, as it had been made too late. Of the other three trades, two of 
+these took place in February 2011 and the third in March 2020. 
+The first trade was a market order for purchase of shares in Fannie May (FNMA) Mr O made 
+on 7 February 2020 which in simple terms Mr O thinks was filled at a price higher than the 
+shares were trading at. The second trade was a trailing stop sale order for FNMA on the 8 
+February 2020, which he thinks should not have been executed when it was as the price had 
+increased after he placed the order. The third trade was a short position in FNMA that was 
+closed by IBUK due to a margin breach on 4 March 2020 which he thinks should have been 
+dealt with differently so that the whole position wasnt closed.
+One of our investigators considered the complaint and in short made the following key 
+findings:
+For the trade on 7 February 2011 Mr O had placed a limit order of $0.750 for 
+purchase of 6000 FNMA shares but then modified the order to a market order and 
+the order was executed properly at a higher market price.
+For the order of 8 February 2011 Mr O had placed a trailing stop sale order at 
+$0.8940 for FNMA but the order included an instruction that if an order at a price of 
+$0.894 or lower goes out an order to sell 10,000 FNMA shares at a limit price of 
+$0.86 per share should be entered and that instruction was followed. 
+On 4 March 2020 IBUK properly liquidated Mr Os positions due to margin breach in 
+accordance with its terms and conditions. One of his positions was a short position 
+for 700 FNMA shares, which in effect is a loan from IBUKt. Because the margin 
+account was below $2,000 IBUK isnt allowed to hold short stock so this had to be 
+closed by purchase of 700 FNMA shares.
+Mr O didnt agree with the investigators opinion. He made the following key points:
+There is no dispute that the figures he provided as to the prices for the 7 February 
+2011 trade are correct and he is shocked that that IBUK referred to the prices it 
+displayed as being indicative of the prices available in the market.
+The prices it showed should only have been actual prices of purchase orders and 
+sale orders showing the number of shares available for purchase or sale at the actual 
+price for both sales and orders.
+There is no dispute as to the trailing stop order price of $0.8940 for the sale order on 
+8 February 2011 and as the market price moved upwards after he placed the order 
+so the shares should not have been sold at $0.87.
+The margin close out of 4 March 2020 only arose because of the losses incurred 
+previously from IBs wrongdoing in 2008 and 2011 and any finding in his favour in 
+respect of those earlier events should lead to upholding this complaint as well.
+It has been overlooked that IB kept referring to US SEC rules and guidance in 
+correspondence and only later informed him his account was regulated in the UK.
+The market price of the shares on 4 March 2020 fell significantly immediately after 
+his shareholding was liquidated meaning he lost a potential large gain and he is still 
+sceptical about the timing of the liquidation.
+The investigator responded to Mr O and in summary made the following points:
+The IB Notice of Execution and Clearing Agreement (the customer agreement) 
+makes it clear that it doesnt guarantee a customer order will be executed at the best 
+posted price.
+She doesnt agree that she didnt address the relevant issues in relation to the events 
+of 8 February 2011 and 4 March 2020.
+Mr O then provided a further response in which he said that the part of the customer 
+agreement the investigator had quoted from was to do with where there was a high volume 
+of trades and/or high volatility, neither of which applied on 7 February 2011. 
+He said that In his case the shares were traded on the Over the Counter Bulletin Board 
+(OTCBB) and in a press release on 7 July 2010 it was stated that this was a regulated 
+quotation service that electronically transmits real-time quotes, price, and volume information 
+in over the counter securities. In his case there were relatively low volume of trades at the 
+time and his order went through relatively quickly with no change of price on the system until 
+several minutes after his trade went through. As such the price should have been at the 
+market price shown on the IBUK system.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so I agree with the conclusions reached by the investigator as to IBUK having 
+done nothing wrong in respect of the three trades that I am considering in my review of his 
+complaint. 
+However, before I set out my findings on those trades I think it appropriate to clarify a couple 
+of points about our role, given some of the comments made by Mr O.
+He has said that his complaint isnt about compensation for the specific issues referred to 
+but is significantly more serious than that and is evidenced by incorrect prices being applied 
+to trades and automated transactions going back to 2008 which resulted in large losses to 
+him. 
+He has said that either the IBUK automated real time system has serious flaws affecting all 
+account holder - in which case he says the system should be suspended pending a review - 
+or there was interference specifically with trades on his account - which he says would be a criminal offence. 
+We are not the regulator  this is the Financial Conduct Authority (FCA) as identified on 
+IBUKs website - but an alternative dispute resolution service. As such my role is to consider 
+the three trades Mr O has complained about and come to a fair and reasonable decision on 
+his complaint. In doing so my findings are made on a balance of probabilities  what is more 
+likely than not  based on the information available to me and taking account of the law, 
+regulation, and good industry practice, where relevant. 
+If I find IBUK did anything wrong in respect of any of the three trades Mr O has complained 
+about I will consider what, if any, redress is payable. But I have no power to direct that it 
+suspend its system and carry out a review and it is not for me to determine whether a 
+criminal offence has been committed. These wider issues that Mr O has referred to should 
+be directed at those bodies who have responsibility for such matters 
+Mr O has suggested he was misled as to who the regulatory body was in 2011. I appreciate 
+that he will have been frustrated that he wrote to IBLLC several times between 2011 and 
+2014 and to the US Securities and Exchange Commission between 2013 and 2014 without 
+getting any response.
+However, I dont think this is something I can make any findings on given the lack of 
+evidence about him being misled. The only evidence about this is what Mr O has said about 
+being told who the regulator was in a telephone call in 2011. IBUK say they have no record 
+of any such conversation and point out that there is no reference in any webchat to this. 
+In any event this doesnt have any bearing on whether, or not, IBUK did anything wrong in 
+relation to the three trades I am considering in this compliant.
+Mr O says that in 2020 Mr O says he asked three times who the regulator was before IBUK 
+confirmed it was the FCA. I dont know why IBUK didnt provide the information the first time 
+around but Mr O was given the information five days after making his first request. And again 
+I dont think this is something I need to comment further on in relation to what I am 
+considering in this complaint.
+Turning to the issues raised by Mr O about the three trades the subject of this complaint, my 
+findings are set out below.
+7 February 2011 trade 
+Mr O placed a buy order for 6000 shares in Fannie Mae (FNMA) which traded on the over 
+the counter market and quoted on the OTCBB. The order was initially a limit order at a price 
+pf $0.739 but then changed by Mr O to a market order. He said this was executed by IBUK 
+at a price of $0.786 per share, although this is the average price as from the information 
+IBUK has provided 4000 shares were sold at $0.779 and 2000 at $0.799.
+Mr O complaint is that the shares were offering at or around $0.750 per share at the time, so 
+he believes he paid more than he should have done. I am mindful that the only evidence I 
+have seen of the price of $0.750 Mr O refers to is his statement to IBUK to this effect some 
+two days later, on 9 February 2011.
+If Mr O placed his market order expecting a price of $0.750 he would have known at the time 
+his order was executed by IBUK that this wasnt what the trade achieved. However, he didnt 
+raise any issue on the day, only doing so two days later when he also complained about the 
+second trade the subject of this complaint. This would suggest that at the time the trade was 
+filled he didnt think there was anything untoward in the price. Having said that a price of $0.750 is consistent with what happened to the share price on the 
+day - as from the information I have considered it opened at $0.7145, reached a high of 
+$0.8340 and closed at $0.8190. So, it is quite possible that Mr O did see a price at around 
+$0.750 at some point during his trading that day. 
+However, even if he saw a price around $0.750 at the time he placed his market order IBUK, 
+as is the case with brokers generally, doesnt guarantee customers that they will get the 
+price shown. The customer agreement includes the following provision.
+3. Customer Orders
+B Order Routing:
+i..
+ii.
+iii. IBUK and its Affiliates cannot and do not warrant of guarantee that every Customer order 
+will be executed at the best posted price. Among other things: (a) neither IBUK nor its 
+affiliates may have access to every market at which a particular product may trade; (b) other 
+orders may trade ahead of Customers order and exhaust available volume at a posted 
+price; (c) exchanges or market makers may fail to honor their posted prices; (d) exchanges 
+may re-route customer orders out of automated execution systems for manual handling (in 
+which case, execution or representation of Customers order may be substantially delayed), 
+or (e) exchange rules or decisions or systems delays of failures may prevent Customers 
+order from being executed , may cause delay in Customers order, or may cause Customers 
+order not to be executed at the best posted price.
+Mr O has suggested that this only relates to where there was a high volume of trades and/or 
+high volatility. But there is nothing in the clause that suggests it only applies in such cases, 
+and the terms also include the following:
+20. Price quotations, Market Information, News, Research, and Internet Links:
+B. IBUK, its Affiliates and Third Party Information Providers do not guarantee the accuracy, 
+timeliness, or completeness of the Information. Reliance on the quotes, date and information 
+is at Customers own risk
+Which I think this reinforces the point that IBUK doesnt guarantee that its customers will get 
+the price that is shown.
+I note what Mr O has said about the relatively low number of shares being traded at the time 
+and that his order went through relatively quickly and that the price on the system didnt 
+change for several minutes. He says these factors are what makes him think there is 
+something wrong with the system or there was interference on his account. But what he has 
+referred to doesnt provide any persuasive evidence that supports his argument that IBUK 
+did something wrong when executing his market order.
+I come back to what I said at the outset, namely that my findings and decision are made on a 
+balance of probabilities based on the evidence provided by the parties. From what I have 
+seen IBUK executed the market order Mr O placed in accordance with his instruction and 
+there is no persuasive evidence that it did anything wrong when it did so. 
+8 February 2011 trade
+The order Mr O placed was a trailing stop sale order. The information IBUK provide about 
+sell trailing stop orders on its website is that this:sets the price at a fixed amount below the market price with an attached trailing amount. 
+As the market price rises, the stop price rises by the trail amount but if the stock price falls, 
+the stop loss price doesnt change and a market order is submitted when the stop price is 
+hit.
+Mr Os trade of 8 February 2011 was a trailing stop order sale for 10,000 FNMA shares 
+which included an instruction that if a price of $0.894 or lower goes out, an order to sell 
+10,000 FNMA shares at a limit price of £0.86 per share should be entered. 
+Mr O argues that the market moved up after he placed his trade but IBUK has said that at 
+the point he paced the trade the stop price was at the market price and so a trade was 
+triggered very quickly. 
+From the screen shot that IBUK provided it can be seen Mr O placed his order at 0.9.56.24 
+hours with the stop price of $0.894 being reached straightaway at 0.9.56.25 hours. This 
+triggered the execution of the order, which was filled at 0.9 56.50 hours, at a price of $0.87 
+per share.  I think the screenshot supports what IBUK has said about the stop price being at 
+the market price at the point Mr O placed his trade and that this resulted in his order being 
+filled almost immediately. 
+It may well be that the market rose after Mr O placed the trade, but I think the issue is that at 
+the point he first entered the trade on his account the market price was at the stop price he 
+selected, leading to his order being triggered almost instantaneously. 
+As with the 7 February 2011 trade, I have seen no persuasive evidence that IBUK did 
+anything wrong regarding the trade, or that there was a problem with its system. On the face 
+of the available evidence it simply acted on the order he had placed.
+4 March 2020 margin close out
+Mr O opened a short position for 700 FNMA shares which was closed by IBUK through the 
+purchase of 700 FNMA shares because of a margin breach, at the market price at that time. 
+Mr O has provided no evidence that he wasnt in breach and from the information I have 
+seen his account at the time had a liquid net value of $1,999.88 as against a maintenance 
+margin requirement of $2,082.38. It was therefore short of the necessary margin requirement 
+by $82.50. 
+Mr O has provided no evidence that suggests there wasnt a margin breach and his 
+argument has concentrated more on IBUKs actions before and after the breach. In the 
+circumstances I am satisfied that it is more likely than not there was a margin breach on 4 
+March 2020.
+In terms of what it did before the breach, Mr O raised a couple of issues. He has suggested 
+that it was losses from the events of 2008 and 2011 that led to the margin close out in 2020. 
+I have not upheld Mr Os complaints from 2011 and we have previously decided we dont 
+have jurisdiction to consider the complaint he made about what happened in 2008. In the 
+circumstances there are no losses arising from anything we have found IBUK did wrong to 
+be taken into account when considering what happened in 2020. 
+Even if I had been satisfied that IBUK had been responsible for losses from 2011, I can see 
+no basis on which I could reasonably find that these should be taken into account in relation 
+to a margin close out that took place nine years later.
+In his initial complaint to IBUK Mr O complained that he was given no notice in advance to enable him to transfer additional funds into his account. However, IBUK did contact him 
+about his margin three times the day before the margin close out and once on the day of the 
+margin close out.
+In any event, the terms of the customer agreement make it clear there was no obligation on 
+IBUK to contact Mr O before taking action in relation to a margin breach. The following terms 
+in the customer agreement are relevant in this regard:
+9 Margin. The following provisions apply to margin-enabled accounts:
+A.
+B: Requirement to Maintain Sufficient Margin: Customer margin Transactions are subject to 
+IBUK initial margin and maintenance margin in accordance with the margin requirements 
+which have been established by IBUK or the applicable exchange, whichever is greater 
+(Margin Requirements). IBUKs Margin Requirements may exceed the margin required by 
+any exchange or clearing house. IBUKs Margin Requirements shall be posted on the IBUK 
+website. The general formulas for calculating Margin Requirements provided on the IBUK 
+website are only indicative and may not accurately reflect the actual Margin Requirements in 
+effect at a particular time for Customers portfolio. Customer must at all times satisfy 
+whatever Margin Requirements are calculated by IBUK. Customer shall maintain, without 
+notice or demand from IBUK, IBLLC or their Affiliates, a sufficient account balance at all 
+times so s to continuously satisfy the applicable Margin Requirements. As set forth herein, 
+Customer shall submit all payments made by Customer to satisfy Margin Requirements 
+directly to IBLLC in accordance with the instructions then set forth on the IBUK website and 
+then in effect.
+..
+E. Failure to satisfy Margin Requirements: Customer shall monitor Customers account so 
+that, at all times, the account shall contain a sufficient account balance to continuously 
+satisfy the Margin Requirements, without notice or demand. IBUK or its Affiliates may reject 
+any Customer order if Customer does not have a sufficient account balance to satisfy the 
+Margin Requirements and may delay the processing of any order while determining the 
+correct margin status of Customers account. Failure by Customer to satisfy the Margin 
+Requirements constitutes an Event of Default and provides IBUK the right, but not the 
+obligation, to pursue all rights and remedies available to it pursuant to this Agreement, 
+including the right to liquidate Customers positions.
+F. IB UK Shall Not Issue Margin Calls: IBUK, IBLLC, and their Affiliates shall not have any 
+obligation to notify Customer of any failure to meet the Margin Requirements in Customers 
+account prior to IBUK, IBLLC or any of their Affiliates exercising any of their respective rights 
+and remedies under this Agreement. Customer understands that IBUK, IBLLC, and their 
+Affiliates shall not issue margin calls and that IBUK, IBLLC and their Affiliates shall not credit 
+Customers account to meet intraday margin deficiencies. Customer understands that IBUK 
+(through IBLLC or another IBUK Affiliate) is authorised to liquidate positions in Customers 
+account in order to satisfy the Margin Requirements without prior notice to Customer.
+Mr O was also provided on account opening with a document titled Disclosure of Risks of 
+Margin Trading which included the following:
+You should understand that pursuant to the IB Margin Agreement IB generally will not issue 
+margin calls, that IB will not credit your account to meet intraday margin deficiencies, and 
+that IB generally will liquidate positions in your account in order to satisfy margin 
+requirements without prior notice to you and without an opportunity for you to choose the positions to be liquidated or the timing or order of liquidation.
+There were other statements within the document which essentially made the same points  
+namely that IBUK could act immediately without notice and that it is for IBUK to decide which 
+position to sell.
+So, the customer agreement and the disclosure of risks document both make clear that; 
+IBUK didnt have to contact Mr O before closing his short position  although it did  and that 
+it was for it to decide what position/s to close.
+I note Mr O has argued that on previous occasions when he has breached the margin 
+requirement the issue had been rectified by sale of a few shares to restore the margin. In 
+other words, he is questioning why his short position in FNMA was closed in full. 
+I dont have details of the other occasions he refers to. But even if these previous breaches 
+were dealt with by IBUK without full closure of a position, as he seems to be suggest, it was 
+not bound to deal with the subsequent breach in March 2020 in the same way and Mr O had 
+no reasonable basis for expecting it to do so.
+Mr O has also questioned why his short trade in FNMA was closed to deal with the margin 
+breach. He did have another trade open on the day, but IBUK has explained that when the 
+available margin falls below $2,000 it loses its margin privileges and cannot borrow cash or 
+hold short stock. This is in accordance with the requirements of the Financial Industry 
+Regulatory Authority (FINRA) in the US, which is responsible for the OTCCB. 
+In other words, it appears IBUK could not keep Mr Os short position in FNMA open when his 
+available equity was below $2,000, as was the case here. I think this more likely than not 
+explains why the short trade in FNMA was closed.
+In any event, regardless of the issue over IBUK holding short stock, the margin breach was 
+an event of default  as stated in clause 9E of the terms as set out above and further in 
+clause 25A of the terms. As such IBUK could take the actions set out in the terms of the 
+customer agreement for such an event.
+Those actions are set out clause 25B of the terms. They include liquidating, selling, or 
+closing out any or any part of a transaction or open position in such manner it deems 
+necessary - including by entry of offsetting transactions  and borrowing and/or buying any 
+property required to make delivery against any sales, including short sales, effected for the 
+customer. 
+The terms of the customer agreement I have referred to above clearly allowed IBUK to close 
+Mr Os short position in FNMA in its entirety by way of purchasing 700 FNMA shares at the 
+then market price in response to the margin breach. Even if it could have dealt with the 
+margin breach in a different way, it wasnt required to do so.
+I acknowledge that it must have been frustrating for Mr O to have placed a short trade which 
+was automatically closed out for margin when the market moved in his favour a day or so 
+later. However, whist noting his scepticism about the timing, this isnt evidence that IBUK did 
+anything wrong. There is nothing to suggest that his short position in FNMA wasnt properly 
+closed following the margin breach in accordance with IBUKs regulatory obligations and the 
+terms of the customer agreement. 
+My final decision
+I dont uphold this complaint for the reasons I have set out aboveUnder the rules of the Financial Ombudsman Service, Im required to ask Mr O to accept or 
+reject my decision before 6 January 2023.
+ 
+Philip Gibbons
+Ombudsman

@@ -1,0 +1,159 @@
+DRN-2839995
+The complaint
+Mr S complained because Barclays Bank UK Plc refused to refund him for four transactions, 
+totalling £1,800, which he said he didnt make.
+What happened
+On 10 May 2020, there was a login to Mr Ss Barclays account at 20.33pm, using Mr Ss 
+Barclays Mobile Banking app. A new payee was then set up, and an online payment for 
+£300 was made at 20:34pm. As this was to a new payee, it needed Mr Ss debit card 
+information, including the long 16 digit card number, expiry code, and three digit security 
+code on the back of the card. The reference for the new payee  was one of Mr Ss first 
+names, but with a slightly different spelling.
+On 12 May, there was a login to Mr Ss Barclays account at 21:40pm, using Mr Ss Barclays 
+Mobile Banking app. Another new payee was set up, and an online payment for £400 was 
+made at 21:41. As this too was to a new payee, it would have needed the same information 
+as the one on 10 May. Mr S isnt disputing this payment. 
+On 13 May, there were more mobile logins followed by payments: £500 at 10:08 am; £500 at 
+10:24 am and £500 at 14:22pm. These payments went to the same payee as the payment 
+on 10 May. The four payments Mr S is disputing are those on the 10 May and 13 May.
+On 15 May, Mr S contacted Barclays. Mr S is deaf, and he went into the branch with his 
+brother to help him. Mr S said that he hadnt made the four transactions on 10 and 13 May. 
+He told Barclays no-one had access to his phone or to his Barclays account. 
+On 18 May, Barclays wrote to Mr S to say that it wasnt upholding his complaint. Mr S said 
+he didnt receive this letter, so Barclays sent another copy. Mr S complained, but Barclays 
+didnt uphold his complaint. In its final response letter, it said this was because no third party 
+access had been established on his account. Barclays said the disputed transactions had 
+been carried out with Mr Ss genuine device, debit card and Barclays Mobile Banking details. 
+There was no evidence that these had been compromised, so it couldnt accept Mr Ss 
+claim.
+Mr S had also complained that he hadnt received a text message when the 10 May payee 
+had been added. Barclays said it was sorry if Mr S didnt receive the 10 May text message, 
+but the disputed payment had been authorised on completion of the required security 
+checks. And it pointed out that Mr Ss undisputed transaction on 12 May had been carried 
+out with the same device as the one used for the disputed transactions.
+Mr S wasnt satisfied and complained to this service. He said he believed someone had 
+somehow got access to his account and had made the four disputed transactions. He said 
+he hadnt received a text saying the new 10 May payee had been set up  so he thought 
+Barclays lack of security was a reason why his money had been stolen from the account. He 
+said hed have notified Barclays sooner if hed had a text.
+Mr S also said that it would be unfair if he didnt receive a refund of the £1,800. He said that 
+he was deaf so it was hard for him to find a good paying job and save money, and losing 
+£1,800 would be a huge set-back for him.  
+Mr S also told our investigator that he had left his phone on his work desk for a moment, 
+around the time of the disputed transaction. He believed someone could have accessed the 
+phone without his knowledge. But he didnt know how anyone could have obtained his debit 
+card, which was still in his possession, or his mobile banking details. He told the investigator 
+hed first noticed the payments when he checked his mobile banking a few days later. Mr S 
+said he believed someone might have hacked into his phone to steal his bank details, or 
+physically obtained his banking details.
+Our investigator didnt uphold Mr Ss complaint. Among other things, he said that:
+- the disputed transactions had been carried out using Mr Ss genuine device, debit 
+card and Barclays Mobile Banking details;
+- all four disputed transactions had been made using the same device which Mr S had 
+used 17 times before, since October 2018;
+- the device ID linked to the transactions had been registered to Mr Ss account since 
+at least July 2019, and was regularly used for genuine payments and logins;
+- the mobile number used was also the same one which Barclays had registered to Mr 
+S;
+- before the payments were made, Mr Ss app had been accessed using either 
+fingerprint or face identification  which matched what was already registered for Mr 
+S;
+- when the new payment recipient was set up on 10 May, this was done using Mr Ss 
+debit card information, including expiry date and three digit security code. 
+The investigator didnt think it was likely that someone could have made the payments by 
+accessing Mr Ss phone when he left it on his desk at work. He said this because anyone 
+accessing the account and setting up a new payee would have needed a lot of information 
+about Mr Ss card and banking details. He thought it was most likely that Mr S had carried 
+out the transactions himself, or had consented to someone else making them on his behalf.
+Mr S didnt agree. He said the outcome had made him very angry and upset at Barclays. He 
+said it wasnt fair to lose this large amount of money. He said someone had taken advantage 
+of his deafness disability, perhaps someone at his workplace. He said that he struggled to 
+understand what colleagues said to him face-to-face, so perhaps they had plotted against 
+him behind his back to steal money from his account.
+Mr S also said that Barclays had focused on authorisation, but it had failed to understand 
+that these days authorisation could easily be hacked. He wanted Barclays to focus on the 
+recipient of these fraudulent payments, not on the authorisation of the disputed payments. 
+Mr S said that another reason he believed the payments were fraudulent was that they had 
+been labelled 3rd party payment and he didnt understand why Barclays couldnt 
+investigate these. And he said Barclays security measures had failed because he hadnt 
+received a text on 10 May about the new payee.
+Mr S asked for an ombudsman decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.What the regulations say
+There are regulations which set out what I need to consider when deciding a complaint 
+about a disputed transaction. 
+The relevant regulations for disputed transactions taking place in May 2020 are the Payment 
+Services Regulations 2017. These say that the payment service provider (here, Lloyds) must 
+first show the transactions were authenticated. Authentication is the technical part, and here, 
+Barclays has provided technical evidence which shows that all four disputed payments were 
+authenticated. 
+The regulations also say that its necessary to look at whether the card holder authorised the 
+payments. In general terms, the bank is liable if the customer didnt authorise the payments, 
+and the customer is liable if he did authorise them. The regulations also say that account 
+holders can still be liable for unauthorised payments under certain circumstances  for 
+example if theyve failed to keep their details secure to such an extent that it can be termed 
+gross negligence.
+I recognise that Mr S said that he believes the investigation into his complaint should focus 
+on the recipient, not the authorisation of the payments. But as these regulations show, its 
+who authorised the payments which determines whether or not Mr S gets a refund. If a third 
+party fraudster made the payments, Mr S would get a refund. But if Mr S authorised them 
+himself, or consented to someone else making them, or was grossly negligent about 
+security, then he wouldnt get a refund. It doesnt make a difference where the money went.
+Who authorised the disputed transactions
+If a fraudster third party carried out the four disputed transactions, theyd have had to have 
+access to all of the following:
+- the same Barclays Mobile Banking (BMB) device that Mr S had used since at least 
+July 2019;
+- the mobile number registered to Mr Ss account;
+- Mr Ss Barclays debit card, in order to enter the long 16 digit number, the expiry date 
+and three digit security code on the back;
+- the same IP address that was used for the undisputed £400 new payment on 12 
+May. The IP address shows, among other things, the location where a transaction 
+takes place;
+- I also note that for the authorisation of the disputed payments, the BMB app was 
+accessed via Touch ID  in other words, either the fingerprint or face ID which was 
+entered, matched what was already set up on Mr Ss account.
+Mr S has argued that Barclays fail to understand that these days authorisation can be easily 
+hacked. But he hasnt explained how he thinks any fraudster could have obtained, or 
+hacked, all the necessary security details Ive listed above. Mr S said that Barclays security 
+failed because he didnt receive a text about the setting up of the new payment on 10 May. 
+We cant know for sure what happened about the text Mr S said he didnt receive. But in any 
+case, all the items above are much greater security measures. And they give us a much 
+clearer picture about what actually happened. Texts arent an essential part of the security of 
+a payment. And third party payment which Mr S has questioned, just means the money 
+was going to a third partys account  as some of Mr Ss undisputed payments did. 
+So, looking at all the things a fraudster would have needed to complete these transactions, I 
+cant see how any fraudster could have obtained all the necessary information to carry out 
+the disputed transactions.Ive also noted that Mr S logged on to his account multiple times between 10 and 14 May. 
+The investigator listed some of these in his View. So Mr S would have seen the disputed 
+transactions. But Mr S didnt report the disputed transactions until 15 May. And in the 
+meantime, hed carried out an undisputed transaction  so Id have expected him to notice 
+the 10 May transaction when he made the undisputed one two days later. In terms of getting 
+in touch with Barclays, I recognise that Mr S has told us that hes deaf, which I do 
+understand can make communication more difficult. But Barclays website has a special 
+page which lists several ways in which it can make banking easier for deaf and hearing-
+impaired customers. This includes multiple ways to communicate.
+Mr S has also said that he left his phone on his work desk around the time of the disputed 
+transaction, and had to leave his desk for a brief moment so he believes someone could 
+have accessed his phone without his knowledge. He also said he didnt lose his phone, and 
+didnt have his security details written down. As Ive set out, any such person would have to 
+have had a lot more information than just being able to pick up Mr Ss phone for a short time.
+And the first disputed transaction was set up at 20:34pm on 10 May which in 2020 was a 
+Sunday night. I dont know what hours Mr S works, but the other disputed transactions to the 
+same recipient took place in daytime. So I find its unlikely that all four were carried out by 
+his colleagues when he was at work. 
+Ive also borne in mind that exactly the same security login details  including the IP address 
+showing where they took place - were used for the undisputed transaction on 12 May, in the 
+middle of the disputed ones on 10 and 13 May. 
+ 
+Taking all these factors into account, I consider its more likely than not that Mr S carried out 
+the transactions himself, or gave his consent for someone else to carry them out on his 
+behalf. So I dont require Barclays to do anything more.
+My final decision
+My final decision is that I do not uphold this complaint. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr S to accept or 
+reject my decision before 14 July 2021.
+ 
+Belinda Knight
+Ombudsman

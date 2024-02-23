@@ -1,0 +1,96 @@
+K820x#14complaint
+Mr L and Mrs K are directors of a company who Ill call, S Ltd. Mr L has brought  this 
+complaint to our service, on behalf of S Ltd. Mr L complains that First Merchant Processing  
+(Ireland) Limited (trading  as AIB Merchant Services) (who  Ill refer to as AIB)  have been 
+applying daily charges of $25.00 and $30.00 to monies being received into S Ltds  USD 
+account with its bank, who Ill call M. Mr L says he never agreed to pay these charges and 
+wasnt given any advance  notice  of them, before they were applied  by AIB. Mr L wants AIB 
+to refund all of the charges. 
+background
+On 10 March 2019, Mr L complained to AIB about a fee of $25 which was being  applied daily 
+to US dollar funds  received  into S Ltds bank account with M. In some instances,  the amount  
+of the fee increased to $30.
+AIB issued their final response  on 15 March  2019 confirming that they werent applying any 
+such charge. They  sent Mr L statements and a batch breakdown to show that all of the funds  
+received by AIB were  transferred  to S Ltds account  without any deduction. AIB couldnt say 
+which bank had been applying the charge  but observed that S Ltd was settling US dollar 
+transactions in a GBP bank account  and suggested  that might explain why the charges were 
+being applied.  
+Mr L wasnt happy with AIBs response  so he brought the complaint to this service. Our 
+investigator looked into the complaint  and obtained  detailed records from the different 
+financial businesses involved in the transactions. On 6 August 2019 our investigator  issued 
+her view not upholding the complaint, as, after carefully examining all of the evidence, she 
+didnt agree that AIB had applied the daily charges. She explained that the breakdown  of the 
+SWIFT transactions where US dollar  charges  had been applied, showed  the charges were  
+being applied  to the funds  by the sender or previous bank in the transaction chain.  She also 
+clarified that the details of the SWIFT  payment (which Ill call the SWIFT message) showed 
+that AIB sent the full payment amount theyd received on to S Ltds account with M. Because 
+AIB hadnt made an error or acted unfairly, our investigator concluded AIB wasnt 
+responsible for refunding any payments to S Ltd.
+Mr L didnt accept our investigators  view.  He emphasised that S Ltd had never been 
+informed the charge  would be levied nor was it published  to them.  He said that if theyd been 
+made aware  of the charges they wouldnt have preceded with the relationship with AIB. Mr L 
+said he remained of the view that the charges were  being taken by AIB, which in his view,  
+amounts to theft,  and he feels theyve been taken advantage of and cheated out of a 
+substantial amount of money. 
+Mr L requested an ombudsmans decision on the complaint. 
+my findings
+Ive considered all the available  evidence  and arguments to decide  whats  fair and 
+reasonable in the circumstances of this complaint.
+I understand Mr Ls frustration at being  charged  fees that he hasnt agreed to pay. I agree 
+that it would  be highly  irregular for a financial business to charge a fee to a customer, that 
+hadnt been previously agreed. However,  before I consider whether the terms and conditions  
+Ref: DRN39811582in place between  S Ltd and AIB, authorise AIB to apply such a charge, I first need  to be 
+satisfied that the charge is being  applied by AIB.
+Having carefully considered the case file, the most  useful evidence which sheds  light on 
+where these charges are being  applied  is the SWIFT messages. Ive considered  the SWIFT 
+message for two US dollar transactions where  a charge of $25 and $30 have been applied.  
+AIB have provided a copy of the SWIFT message and M have provided a copy of the 
+counterpart SWIFT message (which  Ill refer to as the counterpart  message) for the 
+transactions. There are at least three  financial businesses involved in these transactions: the 
+original sending bank,  AIB as the merchant acquirer, and M as S Ltds  receiving bank. This 
+means there  are three possible financial businesses who could be applying the $25 and $30 
+charges: the sending  bank, AIB; or M. Our investigator previously concluded  (under our 
+reference number  21630171) that the evidence showed M wasnt  applying the charges. So 
+Ive gone on to consider whether AIB is applying the daily charge.
+The SWIFT messages  and counterpart  messages Ive considered are: reference  
+SP19042310051203, dated  25 April 2019  for the sum of USD33925.80; and reference  
+SP19042610005504, dated  30 April 2019  for the sum of USD6676.20. I understand that 
+Mr L has been provided with a copy  of these SWIFT messages. 
+The explanation of the SWIFT messages and counterpart messages is the same for both 
+transactions. In my explanation  below,  Im referring to the first transaction  detailed above.
+The SWIFT message  provided by AIB shows  that both the original ordered amount and the 
+interbank settled  amount was USD33925.80, which  shows  AIB sent the same amount it 
+received, without deduction, to S Ltds account with M.
+However, the counterpart message shows that although the original ordered amount was  
+USD33925.80 the interbank settled amount, i.e., the amount received into S Ltds  account  
+was $30 less, i.e., USD33895.80.  The counterpart message also includes an entry  for the 
+inward sending  Bic (Business identification  code)  which belongs to Bank  of America in New 
+York, USA. And it includes an entry for an In Send Chg.1 of USD30.00.  Finally, the 
+counterpart message includes an entry: 71FUDS30 which  is a reference to a transaction 
+charge deducted  by the sender/previous banks in the transaction chain.
+The SWIFT message  provided by AIB shows  no deduction being made, so it follows the 
+USD30.00 transaction must have  been applied by a previous bank in the transaction  chain, 
+which the counterpart message identifies  as Bank  of America, based in New York, (which  is 
+outside of our territorial  jurisdiction). So I conclude that theres no evidence  to show  AIB 
+have been applying and $25 or $30 US dollar  charges  to the funds  theyve transferred to S 
+Ltds account with M.
+I also note that this conclusion is supported by other evidence on the case file. AIB have 
+provided copies  of the December 2018  and January / February 2019 statements setting out 
+processing details  and fees and charges. The statements  dont list any fees or charges in 
+the sum of $25 or $30, or any other SWIFT  charges. In addition, the list of fees and charges 
+in the application form that S Ltd completed with AIB also does not make reference to a $25 
+or $30 charge or any other SWIFT charge  or currency-related fee. So there is neither any 
+evidence of an agreement  for AIB to apply these charges  in the application  form, nor any 
+evidence on the statements  that any such charges have been  applied.
+Ref: DRN39811583Taking all of this into account,  my decision is that AIB is not responsible for the application  of 
+the $25 or $30 charges  to funds paid into S Ltds US dollar account with M, so I dont uphold 
+this complaint.
+my final decision
+My final decision is that I dont uphold this complaint against First Merchant Processing 
+(Ireland) Limited (trading  as AIB Merchant Services).
+Under the rules  of the Financial Ombudsman Service,  Im required to ask Mr L and Mrs K to 
+accept or reject my decision  before  23 April 2020.
+Carolyn Harwood
+ombudsman
+Ref: DRN3981158

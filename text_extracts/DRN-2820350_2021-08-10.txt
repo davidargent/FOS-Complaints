@@ -1,0 +1,108 @@
+DRN-2820350
+The complaint
+Miss S complains that Monzo Bank Ltd (Monzo) refused to refund a transaction taken 
+from her account that she didnt authorise.
+What happened
+Miss S was expecting to receive the funds as a result of a home business shed started 
+during lockdown. Shed received a similar amount a few days earlier and had taken the 
+money out at an ATM shortly after it arrived in her account. She was waiting for the latest 
+funds to arrive and then noticed her account balance was only a few pence.
+Miss S noticed a payment had left her Monzo account which she didnt recognise. She 
+reported it to Monzo shortly after seeing it and asked them for a refund. Monzo asked Miss S 
+whether shed given access to anyone else or forwarded emails allowing someone else to 
+log on to her account. Miss S said that no one else had access and she hadnt forwarded an 
+email to anyone to allow them to log in or given her PIN code to anyone else.
+Monzo secured the account and investigated the transaction. Monzo declined to refund it 
+because they considered Miss S authorised the transaction herself. Monzo noticed a secure 
+email had also been forwarded, which they considered as negligent because along with the 
+secure PIN code would give someone else access to the account. 
+Miss S strongly denied this and identified the recipient of the funds via social media. Miss S 
+entered into numerous conversations with this person who denied having anything to do with 
+a fraud against Miss S.
+Miss S complained to Monzo about their refusal to refund her money, Monzo looked into the 
+matter and wouldnt change the outcome. Unhappy with their response, Miss S brought her 
+complaint to our service for an independent review.
+An investigator looked into the complaint and didnt uphold it, she thought that there wasnt 
+any evidence that anyone else was involved in authorising the payment.
+Miss S disagreed and asked for her complaint to be looked at again. Its been passed to me 
+for a decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+The complaint that Miss S brought to us is that someone made a payment from her account 
+without her authorisation. The relevant law is contained in the Payment Service regulations 
+(2017). The basic position is that Monzo can hold Miss S liable for the disputed payment if 
+the evidence suggests its more likely than not that she made it or authorised it.
+Authorisation is made up of two parts  authentication and consent. Authentication refers to 
+the procedure used by the bank to verify that a payment was made and usually refers to the 
+technical evidence.
+Monzo have supplied evidence showing that on the day of the transaction, two different 
+devices were logged on to the account. The data indicates that a new payee was set up and 
+the disputed transaction was sent to another bank account. The evidence shows that strong 
+customer authentication (the PIN code for the banking app) was used on several occasions 
+to confirm access to the account.
+I don't know how a third party could have known the relevant information they did here to set 
+this payment up and then make it. They would have needed to have known Miss S's PIN 
+code and there are no records of this being entered with any mistakes in a way that might 
+suggest an unknown third party trying to gain unauthorised access to the account. Instead, 
+the PIN looks to have been entered correctly before the payments were made.
+Monzo havent been able to supply all the authentication data for this transaction, but Miss S 
+has also confirmed that a new payee was successfully set up on her account. From what Ive 
+explained above and Miss Ss own information, I think its more likely than not the 
+transaction was properly authenticated.
+But, I also have to consider the second part  consent. Miss S has denied making this 
+payment and Ive carefully considered the circumstances at the time. 
+Once Miss S noticed her expected payment hadnt arrived, she contacted Monzo and asked 
+them what had happened. Miss S realised shortly after that the money had been sent via a 
+faster payment bank transfer to another account which she didnt recognise. Monzo secured 
+her account and started to investigate. 
+Monzo identified a second device (using another operating system for a mobile phone) had 
+started logging into the account some days earlier. Miss S told Monzo that she didnt use this 
+type of device.
+Miss S supplied screenshots from her email system to Monzo to allow them to investigate 
+what had happened. This showed that a special login email received from Monzo had been 
+forwarded from Miss Ss account despite warnings from Monzo not to do this. This email, 
+along with the unique PIN code for the banking app gives complete control over the account.
+Miss S denied sending this to anyone but the evidence from her own email shows that it was 
+sent  although it doesnt indicate to who. The email was received shortly before the other 
+device logged in to the account for the first time. For this device to have logged in, it would 
+also need the unique PIN code used by Miss S, but shes denied giving this to anyone. I 
+cant see how someone unknown to Miss S wouldve been able to know this number though. 
+And I think its unlikely that an unknown third party would be able to guess the PIN code and 
+obtain the login email without Miss Ss knowledge.
+The other device continued to login to the account over the next few days. On the day of the 
+disputed transaction the funds arrived into the account at 18:01 and both devices were 
+logging into the account within minutes of each other, including Miss Ss device at 18:03 
+where the incoming payment would likely have been visible. The other device then takes 
+over at 18:04 and the payment leaves the account at 18:06. Whilst I appreciate Miss S 
+denies making the payment, the available evidence leads me to conclude that Miss S more 
+than likely consented to the payment. I say that because:
+the login email was forwarded just before a new device logged in for the first time - 
+despite Miss S telling Monzo she hadnt done this.
+Miss Ss email account was checked for other devices that may have interfered with 
+her emails and no unidentified devices were found.The user of the other device would also have needed Miss Ss unique PIN and Miss 
+S was the only one who knew this. I cant see how it could have been obtained 
+without Miss Ss knowledge or without Miss S passing this on.
+The timings of the activity suggest the other device user was aware that funds were 
+due in as they were moved within five minutes of their arrival into the account. 
+So, having considered all the evidence here  I think its unlikely that an unknown third party 
+could have gained access to the account without Miss Ss email and PIN, both of which she 
+controlled. On balance, the evidence leads me to conclude that Miss S more than likely 
+carried it out herself, or gave access to her account for someone else to complete the 
+payment. I realise that Miss S will disagree with this, but its what all the evidence Ive seen 
+here leads me to conclude.
+The relevant regulations here go on to say that Miss S can be held liable for a payment she 
+didnt make or authorise, if she acted with gross negligence in allowing it to be made. 
+Monzo has explained that it thinks she was. But as Im satisfied that its more likely than not 
+that she authorised the payment here  gross negligence isnt a relevant consideration in the 
+circumstances. 
+So, it follows that its reasonable for Monzo to hold Miss S responsible for the payment here. 
+If Miss S wishes to pursue the recipient of the funds through the authorities or the courts 
+then shes free to do so.
+My final decision
+My final decision is that I dont uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Miss S to accept 
+or reject my decision before 10 September 2021.
+ 
+David Perry
+Ombudsman

@@ -1,0 +1,238 @@
+DRN-4155324
+The complaint
+A company, which Ill refer to as E complain that WorldPay Limited (WorldPay) declined a 
+number of legitimate transactions on its account. 
+In bringing this complaint E is represented by its director, who Ill refer to as Mr B. 
+ 
+What happened
+In 2005 E signed a Merchant Services Agreement (the Agreement) with WorldPay to 
+process card payments made by its customers. 
+From March 2022 Mr B began to notice a significant increase in the number of 
+transactions that were being declined by WorldPay and returned to E with both soft 
+and hard decline statuses. E has made a separate complaint to this service about 
+the soft decline issue, and Ive reviewed that complaint under a separate reference. 
+This review, therefore, deals with the hard decline transactions only. 
+In March 2022 Mr B complained to WorldPay about those transactions. By way of 
+explanation, these were transactions that had been declined and remained unpaid in 
+spite of subsequent re-presentation.
+Mr B told WorldPay that the effect of their actions was that E had suffered financial 
+losses of approximately £30,000. 
+After looking into things WorldPay suggested various measures to try and fix the 
+problem  including, as I understand it, a substitution of various codes. WorldPay 
+believed that by around May 2022 this had achieved the desired result. In particular, 
+because according to WorldPay, they received correspondence from E saying that 
+after the introduction of the code theyd suggested, failure rates were much reduced. 
+However, according to WorldPay E contacted them again in August 2022 for 
+assistance with its website construction and launch.  Discussions then took place up 
+to December 2022 including in connection with the hard decline issue. During those 
+discussions WorldPay suggested yet more fixes which were implemented. 
+Mr B disagreed that Es issues were resolved. And he said that in fact WorldPay had 
+been unable to provide clear answers about why E was experiencing the problems it 
+was having. So, E had to engage IT experts to try and determine the reasons. In 
+doing so, Mr B said E incurred significant costs which he believed WorldPay should 
+cover. 
+In their final response to the complaint WorldPay acknowledged the hard declines 
+resulted from an error theyd made in the way Es security profile was configured 
+within their systems. They said this then led to problems when in March 2022, a new 
+and more robust customer authentication regime known as 3DSecure was 
+introduced to comply with the European Unions Payment Services Directive 2 
+(PSD2). 
+And because WorldPay had configured Es account incorrectly, transactions that 
+ought to have bypassed the new 3DSecure process as they were recurring 
+transactions were, instead being caught. In effect therefore, the correct process for 
+identifying recurring payment transactions which typified Es operations wasnt 
+working as it should. In other words, these recurring payments were being identified 
+as initial rather than recurring payments and as such were being caught by the 
+3DSecure authentication process rather than bypassing it. The result was that such 
+transactions ended up being hard declined. 
+WorldPay believed that having looked into the problem and suggested various fixes, 
+by December 2022 theyd been successful in resolving things for E. In other words, 
+E was able to accept recurring payments which previously had been declined owing 
+to the 3DSecure issue. And in addition, as part of their attempt to make sure the 
+problem was finally corrected, Es recurring transaction agreements were migrated 
+to a particular code. WorldPay said from that point onwards, there had been no 
+declined transactions arising from the 3DSecure profile on Es account. And 
+furthermore, that declined transactions that happened subsequently were for other 
+reasons. 
+That being said, WorldPay did nonetheless acknowledge that the problems E had 
+experienced meant that E hadnt received the level of service it rightly expected from 
+them. So, to compensate E, WorldPay refunded £1,200.00 to Es account and 
+additionally paid an extra £500 in recognition of the inconvenience this matter had 
+caused.  Beyond that, however, WorldPay didnt think they should pay further 
+compensation. 
+Es complaint remained unresolved however, and so, Mr B referred it to our service. 
+Our investigator looked into Es complaint. He observed that historically E had always 
+experienced high numbers of hard decline transactions. But he agreed with the parties that 
+from March 2022 there had been a spike. He noted nonetheless that the numbers shown 
+were artificially high, in part, because in some instances transaction attempts were 
+duplicated which in turn gave the impression that the decline were in excess of what they 
+truly were.
+Having noted WorldPays acknowledgement that their error contributed to the hard decline 
+numbers, he was satisfied by WorldPays evidence that those that were directly linked to that 
+error were10 transactions altogether. And furthermore, that they took place between March 
+and December 2022 by which time WorldPay had found a fix to correct things. The 
+investigator was satisfied that this equated to an overall transaction value of £1649.90 which 
+he believed WorldPay should refund to E.  
+Regarding Es claim for the costs of engaging IT experts, the investigator noted an invoice 
+dated 5 May 2022 for £72 that E submitted referencing work with WorldPay. He believed 
+WorldPay should refund the amount. 
+But the investigator didnt think that WorldPay should be held responsible for any other IT 
+costs.  In particular the more substantial amount Mr B said E incurred of around £12,000. He 
+wasnt persuaded those costs were incurred by E because of WorldPays error. Rather, he believed they were charges for IT work principally in connection with the building of Es 
+website that had been commissioned in 2021. 
+However, for what he believed would be a fair settlement of Es complaint the investigator 
+recommended that WorldPay pay E the following: 
+o£1,649.90 being the transactions that were unfairly declined
+o£72 being the IT fee that E incurred on 5 May 2022.
+oAn additional £500 compensation for the inconvenience caused to E, this being on 
+top of the £500 inconvenience payment WorldPay had already made. 
+WorldPay accepted the investigators conclusions. But E didnt. Mr B has asked for an 
+ombudsman to review Es case and it has therefore been passed to me for that purpose. 
+Mr B has provided further detailed submissions on behalf of E. However, those submissions 
+have largely expanded on the arguments hed originally made on Es behalf  including the 
+circumstances in which the IT experts came to be engaged and why WorldPay should cover 
+their costs.  
+I summarise what I regard as the key points Mr B has made - as follows: 
+It is unfair that the investigator should limit the date range for compensating E for 
+financial loss from March through to December 2022. Not least because although 
+WorldPay did attempt to remedy the problems E was experiencing, nonetheless they 
+persisted and have continued. So, E has incurred financial loss over a longer period. 
+Compensation should be awarded to reflect that. 
+Furthermore, the investigator understated the number of transactions that were 
+unfairly declined because of WorldPays error. They exceeded the 10 transactions 
+mentioned and valued at £1649.90.  And in any case the investigator had said in 
+correspondence the actual figure was 46. E subsequently discovered that the hard 
+declines issue had been occurring long before it was raised in March 2022 and they 
+persisted beyond December 2022. 
+E did engage various IT experts to build its website and it eventually settled on one in 
+particular. Nonetheless that companys remit extended to identifying and fixing the 
+payment processing issues E had been experiencing. Especially because WorldPay 
+were suggesting the problems were of Es own making. 
+Ultimately the IT company that conducted the bulk of the work was unable to fix the 
+hard decline problems. But it at least identified they were being caused by an 
+inherent defect at WorldPay. It took the company15 days at costs of £795 per day to 
+reach that assessment. 
+  
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.Before I come to my final decision in detail, I will make one or two general points.
+Firstly, although in the course of our investigation Mr B has sought to expand its scope to 
+encompass events both preceding March 2022 and beyond December 2022, I do not think 
+this would be fair. The events considered by WorldPay were those that took place between 
+those two dates. Matters that remain of concern to E beyond those dates should rightly be 
+referred to WorldPay to look into separately. They should then be the subject of a final 
+response letter separate from that which was issued on 13 January 2023 which covered the 
+March through to December 2022 period. 
+Secondly, Ive acknowledged above that Mr B has made lengthy submissions in support of 
+Es case. I thank him for the care with which hes prepared those submissions and the clarity 
+of his presentation. Indeed, that is unsurprising because it is clear how strongly Mr B feels 
+about this matter. Ive read and considered his submissions. But Ive confined my comments 
+to what I regard as relevant. If Ive omitted to comment on specific points that Mr B has 
+made it is not because I havent considered them. Rather, its because I dont think I need to 
+comment on such points in order to reach what I think is the fair and reasonable outcome in 
+all the circumstances of this case.   
+Finally, its worthwhile also adding that in the course of my review where the evidence is 
+incomplete or inconclusive (as indeed some of it is here) I reach my decision on the balance 
+of probabilities  in other words, what I consider is most likely to have happened in the light 
+of the available evidence and the wider circumstances. 
+I now turn to my review in more detail. 
+It is not in dispute that E experienced a number of hard decline transactions on its account. 
+Mr B said he first noticed and raised the issue of the increase with WorldPay in March 2022. 
+WorldPay have acknowledged that some of those declines shouldnt have happened and 
+resulted from an error they made, details of which Ive already mentioned. 
+  
+Theres broad agreement too that when the problem was first noticed in March 2022 and Mr 
+B complained to WorldPay, WorldPay attempted to find a fix to the problem.  But the parties 
+disagree on two main issues: 
+Firstly, the extent of the hard decline transactions that resulted from WorldPays 
+error. Mr B thinks the lost transactions were in excess of the 10 that have been 
+identified. WorldPay disagree.
+Secondly, whether WorldPay should reimburse E with the IT costs E said it incurred 
+by having to engage experts to determine why the declines were happening. 
+The extent of the hard decline transactions  
+WorldPay agree they were responsible for some of the spike in hard declines from March 
+2022. But they conclude there were 10 affected transactions linked to their error. They 
+arrived at that view having regard to certain indicative codes such as 6 and R1. In other 
+words, they were able to identify valid reasons for all the other declines apart from those 10. 
+That evidence has been presented in the form of a spreadsheets which is considerable and 
+detailed. It has been shared with E. The spreadsheet also shows re- presentations after 
+initial declines. An example on the spreadsheet of that occurring would be in June 2022 in 
+respect of a customer of E which I refer to as Mr W where multiple attempts were made to 
+get the transaction through 3DSecure. But it kept failing and thereby inflated the decline 
+numbers. So, having looked at the evidence and the wider circumstances, on balance I find it 
+persuasively indicates the 10 transactions were those that were inappropriately declined and 
+did represent losses that were incurred by E. I find that WorldPay should reimburse them to 
+E.  
+Although Mr B has challenged that number, Ive seen no persuasive evidence which 
+supports that challenge.  I note he has pointed to a higher figure of 46 declines which the 
+investigator had referred to in correspondence. But on close analysis of the 46 transactions, 
+as explained above, the spreadsheet shows there were a number of duplicates arising from 
+the multiple re-presentation of certain transactions.  
+I note Mr B has also stated WorldPay didnt find a fix to the problems by December 2022 as 
+they claimed. But I can see on the list of the inappropriate decline transactions that the last 
+of them took place on 22 November 2022 in respect of a customer of E which I refer to as Mr 
+R. That suggests on balance that between March and December 2022 the transaction 
+declines that were linked to WorldPays error had been solved.  
+Costs of hiring an IT company
+I dont doubt that E did commission IT experts and they did engage with WorldPay in 2022 to 
+find a fix to the hard decline problems. The question for me is whether that was the purpose 
+for which they were commissioned. Im not persuaded that was the case. 
+One particular company which I refer to as F seemed to have been the main expert that E 
+commissioned. But Mr B acknowledges that F was engaged in 2021 to work on building Es 
+website. And to that end work in association with WorldPay was envisaged. This doesnt 
+support Es submission that it was in the aftermath of the hard decline problems E was 
+experiencing, for which WorldPay had been unable to provide an explanation that experts 
+such as F were called in. 
+Evidence that E has shared regarding the commissioning of F shows the cost estimate for 
+their engagement was £20,475. And in that cost estimate F described aspects of the 
+intended work as:
+Make Payment/Integrate WP  
+That leads me to conclude that it was intended, that as well as the website construction, 
+work in association with WorldPay to integrate payments systems was also envisaged and 
+costs were already built in for that work.  
+I further understand from Mr B that F was engaged because a previous IT company - which 
+Ill refer to as G, was unable to fully carry out the work that was needed. 
+It was perhaps inevitable that F would come to be involved in the hard declines issue as it 
+spanned the period of its commission. And Im satisfied F did work with WorldPay to find a 
+solution - including implementing the fixes suggested by Worldpay. However, Ive seen no 
+evidence that F has submitted invoices to E for any extra costs over and above the £20,475 
+that had been agreed for the work it was undertaking on behalf of E.  
+In fact, invoices from F that E has shared with us described the work they were for as the 
+CMS rebuilt project. And they were dated:   
+25/10/21 for £9450
+02/12/2021 for 9,45013/01/22 for £9450
+23/11/22 for 9,990
+Ive also seen correspondence from E to F where Mr B challenges Fs October 2021 invoice. 
+He said : 
+I think you may have jumped the gun on issuing this to us as it is not yet due. This is 
+what was agreed with [name] your director  from his email dated 22 October 2021. 
+3. A condition precedent for the second payment will be completion of the payment 
+integration for (Worldpay). As at yesterdays date this condition has not been met.
+This in my opinion lends further support to the conclusion Fs costs were compiled in 
+anticipation of work that would be needed with WorldPay. I do not find that WorldPay should 
+cover such costs.
+By contrast the only separate invoice that E has provided for what seemed to be for work 
+with WorldPay concerning a fix was another IT company which I refer to as G. As noted 
+above it is dated 5 May 2022 for £72. G described the work in that invoice as being for: 
+Worldpay fix (reduced to 2 hrs)
+I find that it would be fair for WorldPay to cover this.
+That leaves the question of inconvenience. 
+Putting things right
+Mr B has explained he spent a considerable amount of time dealing with WorldPay in the 
+months following March 2022. Correspondence that Ive seen from F also explained that Mr 
+B acted as the go between in obtaining suggested solutions from WorldPay to fix the 
+problems. Im satisfied that the evidence points to significant inconvenience being caused to 
+E which WorldPays £500 compensation doesnt fully recognise. And so for the reasons 
+given by the investigator I consider that an increase by £500 in the amount is more 
+appropriate 
+My final decision
+My final decision is I uphold this complaint. In full and Final settlement I recommend that 
+WorldPay Limited pay E the following: 
+o£1,649.90 being the transactions that were unfairly declined
+o£72 being the IT fee that E incurred on 5 May 2022.
+o£500 compensation for the inconvenience caused to E  
+Under the rules of the Financial Ombudsman Service, Im required to ask E to accept or 
+reject my decision before 29 December 2023.
+ 
+Asher Gordon
+Ombudsman

@@ -1,0 +1,145 @@
+DRN-3333661
+The complaint
+Mr S, the sole director of T, a limited company, is unhappy that Metro wont refund
+transactions made from Ts account as part of a scam.
+What happened
+On 5 February 2021, Mr S was called by someone claiming to be a BT Openreach 
+engineer. They said his internet wasnt secure so they needed to install security 
+systems. To do that, they asked Mr S to download software so they could remotely 
+access his computer.
+They also said his email address wasnt secure so they would need to install security 
+systems wherever it was registered, including his bank. Mr S said he logged on to Ts 
+online banking to do this. Afterwards, the screen went black so he couldnt see what 
+happened.
+Its not clear how the rest unfolded. In calls with Metro from February 2021, Mr S 
+recalled receiving text messages from Metro with codes that he needed to relay to 
+fraudsters. He remembered being told they would his money to a secure place and 
+confirmed he was aware of the transactions. He later told our service that wasnt the 
+case  he was assured they couldnt do anything with his money and the codes were 
+to protect his account.
+The next day, Mr S realised that hed been a victim of a scam. Three payments had 
+left Ts account, totalling £10,708. I understand £19.16 was recovered from the banks 
+these funds were sent to.
+Metro declined to refund the remaining amount, as it believed Mr S acted with gross 
+negligence by allowing access to Ts account and sharing information without 
+checking it was BT. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+I issued a provisional decision on 22 February 2022 explaining why I didnt plan to 
+uphold Ts complaint. Metro didnt have anything further to add. Mr S responded  he 
+said Metro didnt warn him they were releasing the transactions or try to verify him. 
+He said they couldve called or text him.  
+Im satisfied I considered this in my provisional findings. Because T made similar 
+transactions in the past, I dont think Metro ought to have intervened. Afterall, they 
+shouldnt delay legitimate transactions, so Id only expect them to intervene if 
+something didnt look right. 
+Its worth adding that Metro did sent text messages to Mr S  these told him that the 
+codes were for setting up new payees and not to share them if hed not done that. 
+It follows that Ive not changed my mind about the outcome of this complaint. For 
+completeness, Ive included my provisional findings below. 
+Did Mr S authorise the payments?
+Under the Payment Services Regulations 2017 (PSRs), the starting position is that T 
+is liable for payments Mr S authorised.
+Mr Ss recollection of the scam has changed. He told our service that he didnt know 
+the fraudster was making payments. But Ive listened to his calls with Metro. In these, 
+he recalled how the fraudster said they would his money to a secure place and that 
+he was instructed to share the codes (which ultimately allowed them to set up the 
+new payees). He repeated this in later calls with Metro.
+Given his consistency with Metro and how these calls were closer to when the scam 
+happened, I think its more reliable than what he since told our service. It follows that 
+I think Mr S was aware that payments were being made.
+Under the PSRs, for a payment to be considered authorised, Mr S needed to only 
+consent to the execution of a payment transaction. So he didnt need to consent to 
+the details of each payment, like who the money goes to. And Mr S didnt need to go 
+through the steps himself to give that consent  he could give permission for 
+someone else to do that on his behalf.
+Here, by allowing someone to access his online banking and handing over codes 
+with the awareness that they were moving money, Im satisfied that he gave the 
+fraudster permission to make payments on his behalf. So, under the PSRs, the 
+transactions are authorised and the starting position is that T is liable.
+The Contingent Reimbursement Model
+As Mr S was the victim of an authorised push payment (APP) scam, my 
+considerations dont end with the PSRs. Thats because Metro is a signatory to the 
+Contingent Reimbursement Model (CRM). This requires Metro to refund victims of 
+APP scams in all but limited circumstances.
+Those exceptions are:
+o The customer ignored an effective warning in relation to the payment being made.
+o The customer made the payment without a reasonable basis for believing that:
+ the payee was the person the customer was expecting to pay;
+ the payment was for genuine goods or services; and/or
+ the person or business with whom they transacted was legitimate
+o The customer has been grossly negligent
+There are further exceptions within the CRM, but these arent relevant here.
+Did Mr S ignore an effective warning?
+Given the value of the individual transactions, Im satisfied Metro shouldve identified 
+a scam risk and provided an effective warning. And I think its unlikely that any warnings provided by Metro met the CRMs definition of effective. But even if they 
+had been, I dont think they wouldve prevented the scam that took place.
+Thats because Mr S wasnt directly involved in the payment journey. So he wouldnt 
+have seen any effective warning that couldve protected him from being defrauded.
+This also means that Mr S didnt ignore an effective warning. Afterall, Mr S must have 
+had the chance to see the warning to conclude that he ignored it.
+On this basis, Ive gone on to consider the next relevant exception under the CRM.
+Did Mr S make the payment without a reasonable basis of belief?
+Ive set out the three factors where Metro could establish that Mr S made the 
+payment without a reasonable basis for belief.
+Given the circumstances of this scam, its not materially relevant whether Mr S 
+reasonably believed the payee was the person he was expecting to pay. Thats 
+because he didnt set up or complete the payment. Similarly, I dont think it could be 
+argued that Mr S didnt reasonably believe that the payments were for genuine goods 
+or services because this wasnt the premise of the scam.
+However, I have considered whether Mr S had a reasonable basis for believing that 
+the business with whom he transacted was legitimate. I dont think he did. Ill explain 
+why.
+I can see how Mr S initially believed he was talking to BT and how the situation that 
+they presented  that his internet and email address werent secure so they needed 
+to install security systems  sounded plausible.
+But when they asked for one-time-passcodes from Metro on the basis that they were 
+moving Ts money to a secure place, I think the scam became less plausible, to the 
+extent that Mr S ought to have had doubts whether this was BT.
+Instead, it seems Mr S didnt question why a telecoms company would call under one 
+premise and then proceed to move his money to a secure place. Neither was it clear 
+where BT would move his money to, or how Mr S would get it back.
+Ive also considered that when Mr S logged on, his screen went blank. Given they 
+now had access to his online banking but Mr S couldnt see what they were doing, I 
+think he ought to have questioned their legitimacy before providing further 
+information.
+In saying this, Ive considered Mr Ss submissions to our service that he did question 
+them and was reassured they couldnt access his money. But thats not consistent 
+with what he told Metro that they were moving his money to a secure place. In any 
+event, Im not convinced it was reasonable for Mr S to take their word that BT had a 
+different level of access to Mr S, when he logged on while they had remote access.
+Im also mindful that the fraudsters hadnt gone to particularly sophisticated lengths to 
+establish that they were who they said they were. They called from a mobile number; 
+it seems that they didnt know any of Mr Ss personal details; nor did they provide 
+information about themselves that couldve shown they were a BT engineer.Taking this all into account, I think the payments were made without a reasonable 
+basis for believing that the business with whom Mr S transacted was genuine. So Im 
+persuaded that one of the exceptions to reimbursement applies.
+The outcome under the Contingent Reimbursement Model
+There are provisions under the CRM where T could receive some reimbursement, 
+despite Mr S not meeting his requisite level of care. But I dont think this applies here.
+The code explains thats only the case if Metros failures impeded Mr Ss ability to 
+avoid falling victim to a scam. As Ive explained, I do think Metro failed to provide an 
+effective warning. But, because Mr S didnt make the payment himself, I dont think 
+this would have prevented T from being defrauded.
+So, in all, Im satisfied that Metro acted fairly in not reimbursing these transactions 
+under the CRM.
+Were the disputed transactions unusual, out of character or otherwise suspicious?
+Separate to the CRM, I have also considered whether Metro shouldve noticed from 
+the payments that something didnt look right and intervened before the payment 
+went ahead.
+Having reviewed Ts statements before the transactions, Ive noted there are several 
+payments that are of a similar value to the ones disputed here. That means I dont 
+think these looked unusual to the point that Metro shouldve stepped in before 
+allowing them to go through.
+Conclusions
+I dont doubt that Mr S has been a victim here. But, having considered everything 
+carefully, I dont think Metro are responsible for refunding these disputed 
+transactions.
+My final decision
+For the reasons Ive explained, I dont uphold Ts complaint. 
+Under the rules of the Financial Ombudsman Service, Im required to ask T to accept or 
+reject my decision before 28 March 2022.
+ 
+Emma Szkolar
+Ombudsman

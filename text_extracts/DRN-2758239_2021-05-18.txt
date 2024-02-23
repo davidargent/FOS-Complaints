@@ -1,0 +1,104 @@
+DRN-2758239
+The complaint
+D complains about TransferWise Ltds actions when trying to recall a payment they made in 
+error. D doesnt think TransferWise have taken reasonable steps to get their money back, 
+which in turn has caused them financial distress.
+What happened
+In September 2019, D asked TransferWise to transfer around 7,000,000 JPY to a company 
+in Japan. Due to the way the information was presented to D by their supplier, D entered 
+incorrect information when asking TransferWise to make the payment.
+TransferWise executed the payment in line with the request made by D. However due to the 
+incorrect details being entered, the money was transferred to a third-party bank instead of 
+the intended recipient. The destination bank matched the account details with one of their 
+customers and credited it to the account.
+Around a month later, D was contacted by a third-party individual letting them know that they 
+had received the money in their account. D got in touch with TransferWise to explain what 
+had happened and asked for the money to be returned so it could be sent to the correct 
+recipient.
+TransferWises internal investigations highlighted the initial error made on the payment 
+transfer request. TransferWise, along with their partner bank, sent several SWIFT messages 
+to the third-party bank who received the credit in an attempt to recall it. TransferWise didnt 
+receive a response from the third-party bank and therefore D, and the intended recipient, is 
+still without the money.
+Ds solicitor contacted the third-party bank directly. They said they hadnt received any 
+SWIFT messages from TransferWise and asked that an indemnity be raised. D asked 
+TransferWise to raise the indemnity but TransferWise said they werent obliged to do that. 
+And they werent prepared to offer this to D as a solution to the matter, as they could then be 
+held liable for any future issues with the payment.
+D complained and said because of this issue, the company was struggling financially. D 
+brought the complaint to our service.
+The investigator who reviewed the complaint didnt ask TransferWise to do anything 
+differently. She said that TransferWise executed the payment in line with the instruction and 
+was satisfied that theyd made reasonable efforts to get it back by sending the SWIFT 
+messages. 
+D didnt agree. In summary, they said they dont think TransferWise took reasonable steps to 
+get the money back because:
+They didnt make telephone contact with the third-party bank, and
+They sent the money to an account which didnt match the details entered. D thinks 
+this is a breach of TransferWises contractual abilities.
+The investigator responded to D and explained that where international payments are made, 
+SWIFT messages are the recognised method of communication. And while she wasnt 
+aware of what D meant by the details not matching  she confirmed that the IBAN and 
+BIC/SWIFT codes did match  and thats all the regulations require. 
+D responded and asked if it was the role of the service to ensure the third-party bank 
+responded to the SWIFT messages. And they said that its unlikely the intended recipient of 
+the funds, and the business where the funds were actually sent could be a match because of 
+the different countries.
+As an agreement couldnt be reached, the complaint has been passed to me to review. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I wont be upholding Ds complaint. I know this will be disappointing for D so 
+Ive explained my reasons below. Its also important for me to point out that my decision only 
+focuses of the actions of TransferWise. Im aware D is also unhappy with the actions of the 
+third-party company involved who is holding on to their money and not responding to the 
+SWIFT messages sent by TransferWise. But I cant and wont comment on the actions of 
+that company.
+Ive reviewed the payment instruction which D sent to TransferWise  and Im satisfied 
+TransferWise made the payment in line with the instruction they received. While Im aware D 
+made an error when sending the payment instruction to TransferWise, I cant fairly uphold 
+Ds complaint on that point. 
+D has raised the inaccuracies between the intended recipient  a company in Japan  and 
+the actual recipient  a third-party account with another financial business. D has queried 
+why the payment was allowed to be transferred with these inaccuracies. In this case, the BIC 
+and IBAN numbers D provided acted as the unique identifiers. And TransferWise credited 
+the money to the correct account which D had specified, using those numbers. I cant fairly 
+hold TransferWise responsible for sending the money to an incorrect account when they 
+acted on the instructions given to them by D. And the investigator has helpfully explained 
+that theres no further checks which need to be carried out, such as the payee name 
+matching, for international payments. 
+Its important for me to consider TransferWises actions once they became aware the money 
+had been sent to the incorrect account. When D raised the issue with TransferWise, around 
+a month afterwards, TransferWise proceeded to send a SWIFT message to the destination 
+bank without any undue delays. TransferWise then went on to send a further two messages 
+when they hadnt received a response. I recognise that D thinks TransferWise should have 
+done more to get in touch with the third-party bank  like make a phone call. But I cant 
+reasonably ask TransferWise to do that. 
+SWIFT is an electronic messaging system used to send messages between financial 
+organisations and therefore TransferWise have used an appropriate and recognised method 
+of communication when trying to resolve the issue. Im satisfied, based on the evidence Ive 
+seen, that TransferWise acted promptly in sending the first SWIFT message  and the 
+subsequent SWIFT messages  in an attempt to recall the money which had been sent in 
+error. Im aware the destination bank hasnt responded to TransferWises SWIFT messages. 
+But that isnt the fault of TransferWise.D has explained that their solicitors got in touch with the third-party bank and they explained 
+theyd need an indemnity from TransferWise. But TransferWise have said they arent willing 
+to provide an indemnity as they could then be held liable for any future disputes with the 
+money. I appreciate why this would be extremely frustrating for D, but I cant fairly say 
+TransferWise have acted unreasonably by saying this. To explain, TransferWise have made 
+a payment based on the instructions they received from D. Therefore, if TransferWise were 
+to raise an indemnity and then the actual recipient raised a claim, TransferWise would be 
+liable to pay that money to the recipient. I dont agree its reasonable for D, or anybody else, 
+to expect TransferWise to take on that liability  especially when the initial error wasnt the 
+fault of TransferWise.
+Overall, I dont doubt this is a really difficult time for D, and no doubt it is causing a lot of 
+financial distress. But to fairly uphold this complaint Id need to be satisfied that 
+TransferWise have made an error or acted inappropriately. And based on the circumstances 
+of this complaint, I dont think they have. And therefore, I wont be asking TransferWise to do 
+anything to put things right.
+My final decision
+My final decision is that I dont uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask D to accept or 
+reject my decision before 15 June 2021.
+ 
+Hayley West
+Ombudsman

@@ -1,0 +1,372 @@
+DRN-4368530
+The complaint
+A company I will refer to as L, complains about the decision of QBE UK Limited in relation to 
+business interruption insurance claims L made as a result of the COVID-19 pandemic.
+What happened
+The following is intended merely as a brief summary of events and this decision focusses on 
+what I consider to be the key issues in this dispute.
+I will also add that L has previously raised other issues with this claim, but these are not 
+subject to this complaint which is effectively limited to considering whether multiple claim 
+periods should be included in the relevant claim settlement.
+L operates as an agent for serviced apartments. L does not own or manage any of these 
+apartments, and bookings are a variety of short and long term stays. I have referred to this 
+as a holiday accommodation business for simplicity, whilst I acknowledge this may be an 
+oversimplification. L held a commercial insurance policy underwritten by QBE. The policy 
+period was 29 July 2019 to 28 July 2020, inclusive. The policy provided cover for a number 
+of areas of risk including business interruption.
+Whilst I have considered the whole policy, it is seemingly accepted that the most relevant 
+cover in the circumstances says:
+We shall indemnify you in respect of interruption of or interference with the business 
+as insured by this section caused by::
+a) any human infectious or human contagious disease (excluding Acquired 
+Immune Deficiency Syndrome (AIDS) or an AIDS related condition) an 
+outbreak of which the local authority has stipulated shall be notified to them 
+manifested by any person whilst in the premises or within a twenty five (25) 
+mile radius of it;
+
+The insurance by this clause shall only apply for the period beginning with the 
+occurrence of the loss and ending not later than three (3) months thereafter during 
+which the results of the business shall be affected in consequence of the damage.
+As a result of the COVID-19 pandemic, L claimed for its losses and QBE agreed that the 
+above clause applied, offering a settlement in relation to the period from the start of the first 
+national lockdown. It limited this to three months in line with the final paragraph above.
+L was unhappy with this and thought that, effectively, the entire period when there were 
+manifestations of COVID-19 within the relevant radius should be covered up to the end of 
+the period of insurance. And that the three-month limit should apply from that point on. Its 
+argument, put simply, is that each manifestation of COVID-19 was a new claim event.
+QBE did not agree with this and said that whilst each manifestation was a potential new 
+cause for a claim, this will only be relevant if the manifestations caused a separate and 
+distinct loss. And that L was subject to the same indivisible effects of the manifestations 
+throughout the relevant period. So, there is only one valid claim, and this is limited to three 
+months losses.
+L brought its complaint to the Ombudsman Service, but our Investigator was unable to 
+resolve it. So, it was passed to me for a decision.
+I issued a provisional decision on 4 August 2023. The following is an extract from that 
+decision:
+Having considered the arguments of both L and QBE, I currently consider they are 
+both correct to an extent. But I also disagree with some of their reasoning and 
+conclusions.
+In order to make a successful claim there must be an insured event and an 
+identifiable consequence of that. The insured event relevant to Ls claim, as set out 
+above, is effectively that a relevant disease has manifested within 25 miles of the 
+relevant premises and this has caused an interruption or interference with Ls 
+business. (For the sake of simplicity, I will refer just to interruption from this point 
+on.) And this must have led to an identifiable loss.
+COVID-19 is a relevant disease in terms of this policy and, whilst I have seen no 
+evidence, given Ls location it seems highly likely there were many manifestations of 
+this disease within 25 miles throughout the period up to 28 July 2020. The question is 
+whether these caused an interruption that led to an identifiable loss. And, if so, how 
+many separate occasions of loss.
+It is true that the Supreme Court, in its judgment in the FCA test case1, said that the 
+effect of each manifestation (or occurrence) of COVID-19 was indivisible. However, it 
+should be noted that the Court was at this time considering the impact of the first 
+national lockdown. It was not considering whether there was any separate impact  
+or potential separate claim  after the conclusion of this lockdown.
+And I dont think it could be reasonably argued that the manifestations of COVID-19 
+in, for example, March 2020 were the proximate cause of the decision to introduce 
+the second national lockdown in November 2020. Those early manifestations would 
+not be of equal causal effect in the November decision-making process as more 
+recent manifestations in, for example, October 2020. So, had Ls policy still been in 
+force in November, it is likely this second lockdown period would form a separate 
+claim period.
+That separate claims can be made is also supported by other court judgments. 
+These include Stonegate Pub Company Ltd v MS Amlin Corporate Member Ltd and 
+others [2022] EWHC 2548 (Comm) (Stonegate), and Greggs PLC v Zurich 
+Insurance PLC [2022] EWHC 2545 (Comm) (Greggs).
+It is not necessary for cover to apply in Ls case that the cause of loss is, for 
+example, a government restriction  such as a national lockdown. Ls policy doesnt 
+specifically require there to have been restrictions imposed, and certainly not on L 
+itself. But the relevant manifestation(s) must have had some identifiable impact on 
+Ls business activities. 
+I dont consider it could be said that each manifestation of COVID-19 had a separate 
+impact or caused a separate loss. Whilst each manifestation of COVID-19, within a 
+relevant period, was an equal and proximate cause of the Governments response, 
+as the judge in Stonegate said at paragraph 140 of the judgment:
+It was only by reason of there being very many that they had the relevant 
+1 The Financial Conduct Authority & Ors v Arch Insurance (UK) Ltd & Ors [2021] UKSC 1causative effect, and because there were many and they together had that 
+causative effect, it was appropriate to regard each as an equally efficient 
+cause.
+The government-imposed restrictions are merely a useful indicator of when loss may 
+have arisen. And it is likely the different restrictions introduced were the result of  in 
+part  different manifestations of COVID-19. But other events or changes as a result 
+of different manifestations may also be relevant  such as changes in customer 
+behaviour for a particular reason, whether this be new guidance or some other 
+reason. Regardless of the change though, it is likely this was only as a result of the 
+multiple manifestations having occurred  at least one of which would need to be 
+within the 25 mile radius.
+This also does not mean that every change of restriction or guidance would lead to a 
+new claim though. As the judge in Greggs said, at paragraph 86 of the judgment:
+I do not consider that an informed observer would have regarded 
+announcements or measures which simply continued existing restrictions or 
+made trivial changes as being separate single occurrences for the purposes 
+of the SBIL definition. I do not believe that it conforms to the parties 
+intentions to have aggregation by reference to such matters, which effectively 
+continued a status quo rather than marking any significant change to it. Nor 
+would I consider that an informed observer would have regarded changes 
+which simply reduced restrictions as being separate single occurrences for 
+the purposes of the definition. They were such as would of their nature be 
+expected to reduce losses not to lead to them and thus would not constitute 
+the type of matter which would sensibly be regarded as a factor unifying 
+different losses.
+Put simply, I consider this means a manifestation would need to have had to increase 
+the impact on a claimant for a new claim event to have occurred. The renewal of the 
+first lockdown every few weeks would not satisfy this. Nor would a reduction in the 
+severity of a restriction  for example the change of social distance guidance from 
+2 metres to 1 metre plus, on 4 July 2020. This was a relaxation of an existing 
+potential cause of interruption.
+It should be noted that the policies being considered in Stonegate effectively required 
+the insured premises to have been closed by a public authority as a result of a 
+relevant disease.
+Ls policy does not require this, but I still consider the reasoning in these judgments 
+useful when thinking about Ls complaint. As Ive mentioned above, there needs to 
+have been an identifiable loss that arises from the manifestation of the disease 
+required by Ls policy.
+Exploring this briefly, this means for example that a manifestation of COVID-19 in 
+April 2020 would not have an identifiable impact on Ls business. By this point, L was 
+unable to operate its business as a result of the government-imposed restrictions, 
+which had been introduced as a result of manifestations in March 2020. 
+Manifestations that happened whilst the business was entirely interrupted due to a 
+particular set of restrictions did not create a new or different interruption unless they 
+caused a different or more onerous restriction (or some other identifiable 
+interruption).
+So, it follows that the first interruption to Ls business seemingly started in 
+March 2020 and continued until July 2020. And that only one claim is possible in 
+relation to this period. The maximum indemnity period for a claim under this clause of 
+Ls policy would only last for three months. So, there will be a period here in June to 
+July 2020 where L likely continued to be impacted as a result of the manifestation(s) of COVID-19 in March 2020 (and the restrictions introduced in consequence of this), 
+but where its losses fall outside of the maximum indemnity period and so would not 
+be covered as part of this claim.
+Given the likely impact of the first national lockdown on its business, it does not seem 
+that L would be able to make a new claim at least until the lockdown had ended on 
+4 July 2020. 
+It may be that an event occurred prior to this that, if there had been no national 
+lockdown, might have caused loss. But the proximate cause of loss during this period 
+will have most likely been the national lockdown.
+In terms of whether a new claim is then possible, QBE has said that L was subject to 
+restrictions from March 2020 throughout the rest of the period of insurance. QBE has 
+said that Ls business continued to be impacted by restrictions, of varying degree, 
+from March 2020 until after the policy period had ended. So, there is just one 
+continuous loss and hence one possible claim.
+It is notable though that the judge in Stonegate considered that, whilst renewals of 
+the lockdown period were not separate events that were capable of leading to a 
+claim, the introduction of a localised lockdown for the Leicester area was such a 
+separate event. For those businesses impacted by this localised lockdown, there was 
+a continuation of interruption. But there could nonetheless be more than one claim 
+event.
+So, taking this into account, it does not appear that a court would require there to 
+have been a period where a business stopped being interrupted, in order for a new 
+claim to be possible. 
+In terms of whether there were then any new claim events caused by further 
+manifestations within Ls 25 mile radius, L will need to provide QBE of evidence of 
+these manifestations and interruptions, and QBE will need to assess these potential 
+claims. Full consideration of these is not a part of this complaint and is the 
+responsibility of QBE as the insurer. My role is limited to directing QBE to take into 
+account certain points when doing so.
+That said, I will briefly comment on several of the potential claim events L has 
+referred to, as well as the following change to guidance on holiday accommodation. 
+Not all of these may amount to a valid claim in Ls circumstances, and there may be 
+others that do.
+On 4 July, the restrictions causing the first lockdown were completely removed as far 
+as they related to holiday accommodation businesses. Restrictions were continued in 
+relation to other types of business, such as indoor gyms, nightclubs, and beauty 
+salons. But, by law, the only restriction impacting holiday accommodation was that 
+groups of more than 30 people could not gather. I am not sure on the size of the 
+accommodation L arranges, but it does not seem likely this restriction would hugely 
+impact its business.
+However, the Government did provide advice for accommodation providers2. 
+Seemingly, this advice was introduced as a result of manifestations that took place in 
+June 2020, one of which may have been within Ls 25 mile radius. This guidance said 
+that people should not stay overnight with members of more than one other 
+household; effectively limiting the numbers of households staying in holiday 
+accommodation to two households at a time. This advice may have had an impact on 
+Ls ability to arrange bookings for larger premises. And if L can demonstrate that it 
+2 
+https://webarchive.nationalarchives.gov.uk/ukgwa/20200901154230/https://www.gov.uk/guidance/covi
+d-19-advice-for-accommodation-providerssuffered a loss as result of this advice, it may have a separate claim that QBE needs 
+to consider.
+L has referred to requirements around wearing facemasks as having had an impact 
+on its business. The requirements on facemasks did change over the relevant period, 
+but L will need to be able to demonstrate these changes caused an interruption to its 
+business. It is possible that such changes reduced the level of tourism. The first 
+changes would have been within the period of the national lockdown and, as above, 
+this is unlikely to be the proximate cause of loss at this time. It may also be difficult to 
+quantify the loss from any later changes or to separate this from existing causes of 
+interruption. But this is something QBE will need to consider based on the claim 
+evidence.
+L has also referred to restrictions on pubs, restaurants, theatres, etc. But it does not 
+appear any new restrictions were introduced during the period of insurance that 
+increased the impact on these types of business or that would have led to an 
+interruption of Ls business. 
+I have not been provided with details of any changes in the ability of maid servicing of 
+holiday accommodation throughout this period. But it would be open to L to provide 
+QBE with evidence of such a change, and that this caused an interruption to its 
+business.
+Presumably, it would need to be demonstrated that it was a change in this ability that 
+directly caused a decrease in bookings. This may depend in part on whether 
+potential customers were even aware of any change though, and that this led to a 
+decrease in bookings.
+Lastly, L has referred to vaccination requirements for visitors to the UK. There are a 
+couple of issues with this potential claim event. As well as demonstrating this caused 
+an interruption of Ls business, it will need to be shown that it was a manifestation 
+within Ls radius that, in part, led to these requirements, rather than manifestations in 
+other countries. If the requirements were introduced to limit further cases of 
+COVID-19 being brought into the UK, it does not seem likely to me that 
+manifestations that were already happening here were the cause of that.
+I make no definitive finding, provisional or otherwise, on each of these potential claim 
+events in relation to Ls circumstances. As I say, this is something QBE will need to 
+do in the first instance.
+It is recognised that quantifying losses in circumstances such as this will likely be 
+difficult. However, I do currently consider that Ls policy does not restrict it to making 
+only one claim and that losses from separate manifestations may be divisible.
+Claims are potentially possible in relation each manifestation of COVID-19, as long 
+as its impact can be identified and separated from the impact of other manifestations 
+that have already caused an insured loss. It is unlikely that this separation is possible 
+for every manifestation  as the Supreme Court indicated, government and public 
+actions will have been based on there having been a large number of cases of 
+COVID-19 at any one time, and so the loss from many of these individual cases is 
+indivisible.
+But I do currently consider that some of the losses experienced across the period of 
+insurance are divisible. For example, any loss attributable to a manifestation in 
+July 2020 could likely be divisible from a manifestation in March 2020. L will though 
+need to particularise and demonstrate its case for each claim event it considers to 
+have occurred. Where claim periods overlap, it will not be possible to claim for any 
+loss more than once.Both L and QBE responded to my provisional decision with additional comments. 
+L largely agreed with the reasoning in the provisional decision and much of its response was 
+in relation to how its business would have been impacted by various events. It queried 
+whether or not the Supreme Court judgment in the FCA test case would have also taken into 
+account the situation after the first national lockdown. And said that as customers often book 
+accommodation ahead, the timing of loss could be different to the cause of that loss. 
+QBE disagreed with the reasoning in the decision and maintained its position that only one 
+claim was possible under Ls policy in relation to the COVID-19 pandemic. QBE explained 
+that the differences between the policy in Stonegate and Ls policy meant that it was not as 
+straightforward as porting the commentary from that judgment into the circumstances of this 
+complaint. QBE considered that, as the clause in Ls policy provided potential cover for 
+diseases that could hang around within the reasonably large 25-mile radius of the premises, 
+responses (including those of a public authority) were likely to vary. So, it was a commercial 
+decision to limit the cover provided to a maximum of three months and allowing subsequent 
+claims made this commercial decision redundant. 
+QBE also said that, if I were not minded to come to a different decision, it would be of 
+assistance if I could set out some factors in relation to the claim calculation. These included 
+that L would need to prove that any particular case of COVID-19 within the 25-mile radius 
+had resulted in an impact that was distinguishable from the impact of previous cases and/or 
+that it suffered from a new or exacerbated form of loss going beyond what it had suffered 
+previously. QBE also considered that L would only be entitled to claim for the difference 
+between the first and second loss; i.e. that the second claim would only be for any increase 
+in loss, rather than be based on a comparison of a situation of there being no ongoing 
+pandemic. Finally, QBE said that the causal potency of any relevant COVID-19 
+manifestation should be limited to 14 days. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+I thank both parties for their submissions. I have tried to summarise the key points that I 
+consider most relevant above. But I have also considered all of the evidence provided  both 
+recently and throughout the course of the complaint. 
+Having done so, I have come to the same conclusions as in my provisional decision, largely 
+for the same reasons. 
+I note QBEs comments over the application of the Stonegate judgment to the current case. 
+And I do recognise that there are differences in the policy wording and circumstances. 
+However, I am not persuaded that these mean the underlying reasoning should not be taken 
+into account when thinking about this complaint. 
+L's policy is different to that in the Stonegate case. But, whilst I have somewhat 
+cherry-picked this quote from QBEs own submissions, I broadly agree with the following:
+The only relevant question under the QBE Policy is whether a separate occurrence 
+of the insured peril has caused a separate and distinct loss. The reality is that 
+businesses will have continued to be impacted each and every day, to a greater or 
+lesser extent, by the ongoing pandemic, with multiple new incidents of the insured 
+peril on a daily basis.
+I note that QBEs argument is based on there being a continuing and evolving response to the pandemic/outbreak of disease. However, the insured peril is, effectively, an interruption 
+or interference caused by a relevant manifestation of COVID-19. Many of the cases of 
+COVID-19 will have led to the same interruption  for example all of those that contributed to 
+the first national lockdown. But other cases will have led to different interruptions. 
+For example, as I have set out above, it is clear to me that it was different cases of 
+COVID-19 that led to the second national lockdown, than that led to the first. The cases in 
+March 2020 were not the proximate cause of the Governments decision in October 2020. It 
+was the later cases, in an around October, that were the proximate cause of this decision. 
+Ls claim does not involve this second national lockdown, but it does provide a useful and 
+clearly identifiable separate event of interruption due to different cases of COVID-19. And 
+there is no reason why this reasoning should not apply to other events that interrupted Ls 
+business within the period of insurance and which were proximately caused by 
+manifestations of COVID-19 within 25 miles of its premises. 
+That there will have been, undoubtably for many businesses, an ongoing impact of the 
+pandemic in general does not mean that there is only one event. I have referred to the 
+Leicester lockdown above as demonstrating this. The question is what the proximate cause 
+of any given interruption was. 
+I note QBEs argument that limiting cover for a three-month maximum period was a 
+commercial decision taken to minimise the potential liability. However, I am not persuaded 
+that, at the time the policy was entered, it was anticipated that there would be any disease 
+that hung around for a period longer than this which led to a varying approach from public 
+authorities, etc. I dont think the parties entering the contract, or a reasonable person 
+thinking about this at the time, would have anticipated a situation where customers would be 
+claiming in relation to separate manifestations of a single disease in the manner which 
+ultimately unfolded. 
+Additionally, the three-month maximum period also related to the other parts of this clause, 
+which deal with quite different situations. One of those is murder in the premises. To follow 
+QBEs argument through, this means it envisaged a likely situation where multiple murders 
+occurred at the premises over a period in excess of three months, and QBE felt it necessary 
+to limit the cover provided to only the first of these murders. This seems quite unlikely to me.
+The three-month maximum period, to my mind, is intended to minimise the length of time the 
+impact from a single insured event is covered. This could be a single murder or a single 
+manifestation of disease/COVID-19. In a situation where the premises were closed due to 
+investigations into the murder for more than three months, liability would be limited to that 
+period. However, were there to be a second murder at the premises, this would seemingly 
+be a new claim event  even if the murder was somehow related to the first. Similarly, where 
+there is a second manifestation of a relevant disease which causes an interruption, there is a 
+new claim event which is subject to a new three-month maximum indemnity period. That this 
+manifestation is part of the same pandemic as an earlier manifestation does not mean it is 
+not a separate insured event. 
+In a situation where there is an ongoing impact from lots of separate cases of disease, 
+identifying that a particular case  or one of a particular group of cases  has caused a 
+separate interruption from earlier cases is understandably difficult. But I have set out in my 
+provisional decision, as above, the factors an insurer would need to take into account when 
+considering a claim in such circumstances. And that it is for L to initially demonstrate that 
+there was a relevant manifestation and that this caused an interruption. 
+As set out in my provisional decision, I am not making any finding on which manifestations of 
+COVID-19, nor which wider consequences, have led to a valid claim. So, whilst I thank L for its submissions over how its business was impacted over different periods, these are largely 
+issues QBE will need to consider when assessing the claims. 
+In terms of what the FCA test case considered, whilst I appreciate the judgments were 
+handed down after the end of the first lockdown, this does not change was what being 
+considered within those cases. 
+I do note that L has said that it did cater for groups in excess of 30 people, so my comments 
+around this particular restriction not having a huge impact may not have been accurate. I 
+apologise if any of my comments, both this particular one and the others I made in relation to 
+the potential claim events, have been misleading or inaccurate. As I say though, I was not 
+making any findings in relation to these events. I was merely using them to highlight some of 
+the factors that will need to be taken into account when the claims are reassessed. This 
+reassessment will also have to take into account what losses relate to the indemnity 
+period(s).
+Similarly, I note QBEs request that I include a number of statements about what will need to 
+be demonstrated and what any claim would cover. I will say that I agree any new claim 
+would need to be based on L evidencing both a relevant manifestation of COVID-19 and that 
+this had a distinguishable impact. This is a point I have set out in my provisional decision 
+where I have stated that there must be an insured event and an identifiable consequence of 
+that. 
+In terms of the other two points QBE has requested I confirm, I will not go as far making any 
+distinct finding on these. They are not points that L has had the opportunity to comment on 
+and they do not specifically form part of this complaint. What I will though say is that the 
+Supreme Court judgment in the FCA test case included commentary on how loss should be 
+calculated once a claim has been generally accepted  particularly in relation to applying 
+trend clauses. Care will also need to be taken in considering what the proximate cause of 
+any claimed loss is. In terms of the timing of any relevant case of COVID-19, the insured 
+event is the interruption of business as a result of such a manifestation. As long as this 
+occurs within the period of insurance, a claim for a maximum of 3 months loss would appear 
+possible even if this period extends beyond the term of the policy.
+I acknowledge that there are likely to be some outstanding issues that have not been 
+resolved as a part of this complaint. I encourage both parties to work together in the spirit of 
+working through these. Without making any particular findings, I am doubtful that all of the 
+potential claim events L has referred to will lead to losses QBE should cover as separate 
+claims. And it is initially for L to demonstrate that is has suffered the separate claim events.
+But my ultimate conclusion is that Ls policy does allow for multiple claims to be made, 
+where it can be shown by the claimant that separate manifestations of COVID-19 have led to 
+an interruption which has had a distinct impact. 
+Putting things right
+L will need to particularise and demonstrate to QBE that it suffered interruptions, from 
+relevant manifestations of COVID-19, that had a distinct impact. And QBE should assess 
+these claims on the basis that the policy is capable of responding to multiple claim events, 
+taking into account the points above and the remaining terms of the policy.
+My final decision
+My final decision is that I uphold this complaint. QBE UK Limited should put things right in 
+the manner set out above. Under the rules of the Financial Ombudsman Service, Im required to ask L to accept or 
+reject my decision before 10 November 2023.
+ 
+Sam Thomas
+Ombudsman

@@ -1,0 +1,343 @@
+The complaint  
+T, a trust, complains that TTT Moneycorp Limited (Moneycorp) didnt do enough to prevent  
+the loss it suffered when it transferred money to an account held with it. Mr T brings the  
+complaint on behalf of the trust.  
+What happened  
+The detailed background to this complaint is well known to both parties. So, Ill only provide  
+a brief overview of so me of the key events here. T transferred funds to a company Ill refer to  
+as G. At the time T believed these to be in respect of the purchase of Loan Note Investments  
+(LNI). £20,000 was sent in March 2018 and a further £40,000 was sent on 5 March 2019.  
+Both payments arrived in an account in Gs name which was held with Moneycorp.  
+In October 2020 the Financial Conduct Authority (FCA) published a notice saying that G had  
+entered preliminary bankruptcy proceedings. T had complained to Moneycorp in September  
+2020. The crux of the complaint was that G had defrauded T and that Moneycorp were liable  
+as they had failed against various obligations to prevent this. They sought reimbursement of  
+the funds lost (plus interest) as a remedy to the complaint.  
+Moneycorp resp onded and in summary didnt agree theyd done anything wrong. The matter  
+was referred to our service and one of our Investigators didnt think we could consider all of  
+Ts complaint. And for what we could consider, she didnt recommend it should be upheld.  T 
+disagreed and asked for an Ombudsman to consider the complaint.  
+Ive already issued a decision setting out our jurisdiction and essentially that I can only make  
+a finding in relation to any act or omission by Moneycorp which took place on or after 31  
+January 2019. And in September 2023 I issued a provisional decision as to the merits of the  
+complaint. In that decision I said:  
+Ive considered all the available evidence and arguments to decide whats fair and  
+reasonable in the circumstances of this compla int. 
+T has made detailed submissions in support of its complaint. Ive read and considered all of  
+these, but I dont intend to respond in similar detail. Ive kept my findings to what I believe to  
+be the crux of the matter and in sufficient detail to expla in my decision. This isnt intended as  
+a discourtesy and is just a reflection of the informal nature of our service. We are intended to  
+be an informal alternative to the courts. We arent intended to forensically investigate matters  
+and are tasked with resolving complaints with minimal formality.  
+T have questioned how a determination can fairly be made when certain information cant be  
+shared, meaning it cant be challe nged. Our service isnt exempt from data protection law.  
+We are able to handle a wide range of data due to our statutory role and this can include  
+sensitive and third -party information. And the rules that apply to our service, allow us to  
+accept such evide nce in confidence. Where information relates to a third party, or is  
+commercially sensitive, it cant freely be shared. But T are correct that we must still follow  
+the principles of natural justice. As such, we can (and upon request do) share information  
+that weve relied upon in reaching our outcome. But this may be by describing what it is  
+DRN-4460850weve seen, or by providing limited or redacted parts of the evidence weve received. This  
+enables us to both provide each side with an opportunity to comment, and to e nsure we  
+process data in ways that are compliant with our obligations.  
+ 
+Much of Ts submissions to our service involve legal arguments including that Moneycorp  
+were acting as an agent of its accountholder G and that they owe T a duty of care. T holds  
+Mone ycorp responsible for being either complicit or reckless with regard to what it says are  
+misrepresentations by G.  
+I dont agree that an authorised payment institution (API) like Moneycorp can fairly be  
+considered as an agent of its customers. G had a custo mer relationship with Moneycorp, but  
+nothing Ive seen persuades me that the relationship between the parties was more than  
+that. What T seems to be suggesting would mean that in any case where an API provides a  
+payment service to those who are acting frau dulently, there is an agency relationship  
+between the parties such that the bank would be liable. This isnt the case.  
+ 
+Moneycorp provided an account and payment services to G. Moneycorp had various  
+obligations with regard to Anti -Money Laundering (AML) and  general obligations to be alert  
+to fraud and scams and to act in their customers best interests. But I dont agree that they  
+were required to conduct detailed investigations into or have oversight of the activity of their  
+customers as a matter of course, in the way that T seems to expect.  
+ 
+T have made much of the fact that Moneycorps details were included on the LNI offer form  
+as the account to receive funds. I agree this is the case. But Moneycorp have maintained  
+throughout that they had no knowledge of the LNI issued by G. And Ive seen nothing that  
+persuades me they would or should have known this. This was an offer note issue d by G,  
+not Moneycorp, whose details were included in the context of where money should be sent.  
+And if G misrepresented the account as an escrow account, I dont think that is something  
+that Moneycorp are responsible for, as G and Moneycorp are distinct a nd separate legal  
+entities, accountable for their own actions.  
+ 
+The details on the LNI form (and presumably included as part of the information transmitted  
+along with the payment to Moneycorp) stated: TTT Moneycorp Ltd GBP Client Safeguarding  
+Account. It also provided the relevant sort code, account number and international banking  
+account number (IBAN). The implication here seems to be that Moneycorp ought to have  
+known that the funds werent going into a client safeguarding account.  
+ 
+The Payment Service s Regulations 2017 (the PSRs) set out that a payment is sent  
+according to a unique identifier. This is the key information used to route the payment to the  
+correct destination and payee.  
+ 
+The PSRs define a unique identifier as follows:  
+ 
+ .. unique ident ifier means a combination of letters, numbers or symbols specified to the  
+payment service user by the payment service provider and to be provided by the payment  
+service user in relation to a payment transaction in order to identify unambiguously one or  
+both of 
+ 
+(a) another payment service user who is a party to the payment transaction;  
+(b) the other payment service users payment account  
+ 
+The effect of this is that for UK payments this is typically the account number and sort code.  
+Other inform ation may be provided as part of the payment instruction, but this is not part of  
+the unique identifier, unless it has been specified as such by the payment service provider  
+(PSP)  which is not the case here.  
+  
+A payee name is not unique. A PSP could hold multiple accounts for persons with the same  
+name, however, no two payment account s share the same account number and sort code  
+this is unique to that specific payment account. Therefore, typically these details (not a  
+payees name) are considered the unique identifier.  
+ 
+Section 90 of the PSRs states:  
+ 
+(1) Where a payment order is ex ecuted in accordance with the unique identifier, the  
+payment order is deemed to have been correctly executed by each payment service provider  
+involved in executing the payment order with respect to the payee specified by the unique  
+identifier  
+ 
+The impact o f this is that as long as the payees PSP processes the payment transaction in  
+accordance with the unique identifier provided and the funds are credited to the specified  
+account number and sort code the payment is considered to be executed correctly.  
+ 
+This is further supported by the introduction of, in more recent years, a system called  
+Confirmation of Payee (CoP) by the Payment Systems Regulator, who are the regulator for  
+the payment systems industry in the UK. If checking whether a name matched had alw ays 
+been a requirement under the PSRs there would not have been a need to introduce such a  
+system. However, at the material time CoP was not in place and Moneycorps systems like  
+most other PSPs wouldve been set up to automatically credit payments receiv ed to the  
+account with the corresponding unique identifier  checking the payees name or any  
+reference provided against the account holder name and or type of account would not have  
+been part of the process. Nor was it, as Ive explained above, a requirem ent under the  
+relevant regulations, the PSRs.  
+ 
+So I cant fairly say that Moneycorp didnt act reasonably when crediting Ts payment to the  
+relevant account in line with the unique identifier provided. And I dont agree that this is  
+something that Moneycorp  was required to check or verify in these specific circumstances.  
+This is likewise the case for any other payments received (during the time period relevant to  
+this complaint) in the account which may have included information beyond the unique  
+identifier.  
+ 
+I understand and accept Ts point that Moneycorp had an obligation to conduct ongoing due  
+diligence in relation to Gs account. But firstly, Im only able to consider a period of around  
+six weeks, that being between 31 January and mid -March 201 9 when the funds which T had  
+sent to G in March 2019 had been transferred out of its account. As prior to that time I have  
+no jurisdiction to comment on any alleged failure, and after that date it cant be said that any  
+alleged failure would have impacted the loss T has suffered. And given the sophistication  
+and scale of the scam here, which took place across Europe and over several years, Im not  
+persuaded that any reasonable level of scrutiny by Moneycorp of Gs relationship with them  
+would have revealed this in such a way that it would have prevented any of Ts loss from the  
+March 2019 funds.  
+ 
+Moneycorp has shared details of its policies with regard to its AML and know your customer  
+(KYC) considerations. In essence it has explained that existing customer a ctivities are  
+monitored both in real time and subsequent to payments taking place. Considerations  
+include but are not limited to adverse media information, erratic transaction volumes or  
+amounts, and unusual or out of character requests from an  account owner. Moneycorp have  
+described the nature of Gs business (obtained from the information taken when opening the  
+account) and that at all times the account activity was in line with what was expected for an  
+account and business of that nature.  
+ It says, were there to have been any flags raised, this would have prompted a more detailed  
+review. And this risk -based approach is compliant with the obligations upon them. Theyve  
+also stated that in the time period relevant to this complaint, they had no r eason to do more  
+than the standard ongoing monitoring that did take place. Ive no reason to doubt what  
+Moneycorp have said in this regard. And Im not persuaded that there is a basis upon which I  
+think they ought to have done more within this time period that would have made a  
+difference to the loss suffered by T.  
+ 
+T have suggested that Moneycorp ought to have done due diligence on other entities with  
+whom G were linked. Whilst there will be occasions where Moneycorp should look beyond  
+its own accountholder and into other linked entities, I dont agree this is the case in the  
+circumstances here. I can understand why, in hindsight, T believe this to be the case. But  
+there was no unusual, suspicious or uncharacteristic activity such that I  think Moneycorp  
+needed to do more. The accountholder was G, and that is who Moneycorp were required to  
+know and conduct ongoing due diligence on. In the circumstances of this complaint, Im  
+satisfied that during the six week period that I can consider u nder my jurisdiction there  
+wasnt any reason for Moneycorp to conduct a detailed investigation of other entities that G  
+may have been dealing with.  
+ 
+By the end of January 2019, the account in question had been in operation for some time.  
+The statements from  the previous year show that the activity on the account involved  
+frequent significant credits to and debits from the account.  
+ 
+In this context and with this background, I cant say there is anything in the activity on the  
+account that took place between 31  January 2019 and mid -March 2019 (when the last of Ts  
+funds were transferred from the account) which would have stood out as unusual, suspicious  
+or potentially indicative of fraud. The account usage continued in the pattern which was  
+already well establis hed by the previous activity. So, I dont think Moneycorp did anything  
+wrong in not intervening in the account (based on the activity) at that time. And it follows that  
+I dont think the loss T suffered was preventable in this way.  
+ 
+Similarly, the evidence is clear that the funds were spent from the account, prior to  
+Moneycorp receiving any notification that the payments had been made as the result of a  
+scam. So nothing Moneycorp did when responding to this impacted upon what could be  
+recovered.  
+ 
+I understand  that this will come as a disappointment to T, but as I dont think (within the  
+context of my jurisdiction to consider this complaint), that Moneycorp did anything that  
+caused or contributed to Ts loss, or hindered its recovery, there isnt a reasonable basis  
+upon which I can require them to do more.  
+ 
+T provided a response which Ill address below. Moneycorp didnt respond to my provisional  
+decision.  
+ 
+What Ive decided  and why  
+ 
+Ive considered all the available evidence and arguments to decide whats fair and  
+reasonable in the circumstances of this complaint.  
+ 
+Some of Ts further submissions relate to our services jurisdiction. Specifically that I have  
+wrongly restric ted my ability to consider the general conduct of Gs account to the date when  
+DISP 2.7.6R(2B) came into effect (31 January 2019). Ive already issued a jurisdiction  
+decision which was sent to T and so I dont have anything to add beyond what Ive already  
+said on this point which is that my jurisdiction only allows me to make a finding in relation to  
+acts or omissions by Moneycorp which took place on or after 31 January 2019.   
+I can and have taken account of information prior to that date where necessary to make a  
+finding on actions within my jurisdiction. An example of this being Ive reviewed and  
+considered the account activity prior to January 2019 to help me assess whether the activity  
+after that date would have been unusual or suspicious such that Moneyc orp ought to have  
+intervened. So I dont agree Ive unreasonably restricted myself or havent fairly considered  
+the wider circumstances. But the fact remains that I can only make a finding on an act or  
+omission within my jurisdiction which here, is on or a fter 31 January 2019.  
+T also submitted a document that G sent to investors dated in September 2017. They say  
+this shows that the relationship between G and Moneycorp had been ongoing for a number  
+of years. The document indicates to investors that the accou nt was some sort of escrow  
+account. T say that in light of this sort of communication it is inconceivable that Moneycorp  
+was unaware of the terms of the LNI. T believe that Moneycorp should be properly  
+interrogated on their records going back well before 3 1 January 2019. The implication seems  
+to be that if Moneycorp had previously been made aware of the terms of the LNI, that their  
+failure to act would have been ongoing in time beyond 30 January 2019.  
+ 
+Ive considered this and I understand the point T is mak ing. But in the circumstances here,  
+and for largely the same reasons as explained in my provisional decision, Im still not  
+persuaded that Moneycorp were aware of the terms of the LNI and there cant therefore  
+have been a failure to act on that basis on or  after 31 January 2019. Moneycorp have told  
+our service that they had no knowledge of the terms of the LNI. And it is very difficult to  
+provide evidence of a lack of knowledge of something. As Ive mentioned previously, our  
+service isnt required to forensically examine matters were intended to be an informal  
+alternative to the courts. So whilst I understand T thinks I should require Mone ycorp to  
+provide all correspondence between them and G for a number of years, I feel I have  
+sufficient evidence to decide this point. I accept, on balance, Moneycorps assertion that they  
+had no knowledge of the terms of the LNI. I have no reason to doubt Moneycorps testimony.  
+It is for each party to provide the evidence to support their position. T have had this  
+opportunity and havent submitted anything that persuades me otherwise.  
+ 
+T have made a similar point about the requirements for ongoing due dilige nce. Specifically, T  
+said: In summary, it is a mistake by the Ombudsman to consider evidence of lack of due  
+diligence, AML etc as restricted by the 31st January 2019 when DISP 2.7.6R(2B) became  
+effective. The act or omission referred to in the regulation refers to the payment and  
+disbursement of the £40,000, a transaction in respect of which, FOS was granted jurisdiction  
+on 31st January 2019. The terms ("act or omission") do not refer to a pre -existing, persistent  
+and overriding general obligation on [Mone yCorp] in respect of AML and KYC etc. They  
+simply make the transaction judiciable by the FOS from that point. The key point for the  
+Ombudsmans consideration is that 31st January 2019 relates to jurisdiction not to  
+evidence.  
+ 
+I have nothing further to add on this point. In these circumstances, I remain satisfied that it is  
+only acts or omissions by Moneycorp that took place on or after 31 January 2019 that can be  
+complained about (within our jurisdiction).  
+ 
+T say that the crux of the matter lies in the knowledge of Moneycorp at the date they  
+received the £40,000 in March 2019. To an extent I agree with this statement. If Moneycorp  
+knew or reasonably ought to have known that those funds were paid into its account as the  
+result of a fraud or scam, t hen Id have expected them to have taken action. But I dont agree  
+they reasonably could have known this at the time. T have questioned my conclusion that  
+any reasonable level of scrutiny (by Moneycorp of their relationship with G) wouldnt have  
+revealed t he alleged scam such that it would have prevented Ts loss.  
+ 
+T point out that:   
+ G failed to file accounts on time;  
+ There was a very complex structure with several changes of name between the  
+parties involved in the scam;  
+ G had numerous and extensive changes of directors as late as 2018.  
+ 
+ 
+Ive considered all of this. But I remain of the opinion that Ts expectations of Moneycorps  
+monitoring of G are too high. I dont agree that they were required to conduct detailed  
+investigations into or have oversight of the activity of G as a matter of course - in the way  
+that T seems to expect.  
+ 
+T say that I havent looked at the fees, charges and spreads on currency deals effected by G  
+for Moneycorp. They believe these are likely to be unusually profitable which they say would  
+be evidence that Moneycorp should have suspected all was not as it should be. Ive  
+reviewed Gs account a ctivity and maintain that (within the time period relevant to this  
+complaint) there wasnt anything so unusual or indicative of potential fraud such that  
+Moneycorp ought to have done more. And I consider the fees, charges and spreads to be a  
+matter of comm ercial discretion for Moneycorp.  
+ 
+T have highlighted a FCA final notice in which another regulated business B was fined. Part  
+of the reasoning for this was the FCA said that business had failed to finalise reviews of its  
+customer in a timely manner. T say  I havent identified Moneycorp as a high -risk entity. And  
+they rely on the report from the FCA to support that B treated money service providers as  
+high-risk clients. T have highlighted part of my provisional decision where Ive referred to the  
+ongoing du e diligence by Moneycorp and say that this refers to standard due diligence,  
+when it should have been enhanced due diligence alleging I have used the wrong test as  
+well as erroneously restricting my consideration to 31 January 2019 until mid -March 2019 . 
+ 
+Ive considered this. And obviously Moneycorps duties and obligations existed prior to 31  
+January 2019. But even if I were to accept that Moneycorp ought to have applied enhanced  
+due diligence due to the nature of Gs business, and that they didnt, thi s still wouldnt impact  
+the outcome of this complaint. I dont think any reasonable level of diligence would have  
+resulted in the conclusion that G were involved in a scam at that time or that this would have  
+made a difference to Ts loss. Ill expand on my reasoning for this below.  
+ 
+T have also referenced an expert report from an insolvency administrator and a dossier  
+prepared by a group of those with losses relating to G. Ive seen copies of both of these  
+which I thank T for providing. T points out that G hadnt bought property in some time. And  
+they say because Moneycorp knew G were a property investment firm, this is something that  
+should have been challenged. Again Im not persuaded Moneycorp should have don e more  
+in the time period relevant to this complaint. And even if they had, property can be a long  
+term investment, and Im not persuaded a period with no purchases would have resulted in  
+the discovery of the alleged scam. And I also dont think Moneycorp would be required to  
+involve itself in how another legal entity conducts its business. They arent there to police the  
+directors commercial decision making, only to attempt to identify potential misappropriation  
+of funds.  
+ 
+Summary  
+ 
+I understand T will be disappointed with my decision. But for me to fairly uphold this  
+complaint, Id need to be persuaded that there was a failure that took place between 31  
+January and mid -March 2019 and but for that failure, Ts loss would have been prevented. It  
+isnt enough just for there to have been a failure, Id need to be able to conclude that the  failure fairly and reasonably caused the loss.  
+ 
+So even if Im wrong with what Ive set out above and I were to accept all Ts submissions  
+and to accept that there we re multiple failures regarding their monitoring of the account and  
+relationship with G (which for clarity I dont). I still dont think this would have made a  
+material difference. Given the sophistication and complexity of what went on, I dont think  
+Money corp reasonably could have concluded G were operating a scam in 2019. The recent  
+reports that T have submitted include links to further reports from auditing professionals and  
+even they struggle to ascertain exactly what has gone on (in part due to incompl ete and  
+insufficient records being available). So I find it implausible that any reasonable level of  
+scrutiny that Moneycorp ought to have conducted would have impacted the loss T has  
+suffered. Its most likely, had Moneycorp had concerns about the account,  they would have  
+exercised their commercial discretion and exited their relationship with G. But there is  
+evidence (some of which is included in the reports that T have referenced) that G had  
+banking relationships with numerous providers in various territories. So, had Moneycorp  
+ended their relationship with G, its likely G or those it was associated with wou ld have  
+continued their activity through one of their other multiple accounts and T wouldnt have  
+ended up in a meaningfully different position. In essence Im not persuaded that, even if they  
+were accepted, the alleged failures can fairly and reasonably b e said to have caused the  
+loss to T.  
+ 
+Again, Im sorry T has suffered the loss they have. But as I dont think this is something  
+Moneycorp are responsible for, Im not going to direct that they need to do anything further  
+to resolve this complaint.  
+ 
+My final decision  
+ 
+For the reasons outlined above, my final decision is that I dont uphold this complaint.  
+Under the rules of the Financial Ombudsman Service, Im required to ask T to accept or  
+reject my decision before 15 December 2023.  
+ 
+ 
+ 
+Richard Annandale  
+Ombudsma n 

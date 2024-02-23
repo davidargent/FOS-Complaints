@@ -1,0 +1,156 @@
+DRN-2944442
+The complaint
+Miss K complains that TSB Bank plc declined to refund a payment she didnt recognise as 
+being made from her account.
+What happened
+Miss K was working from home and had a visit from her father. At one stage during his visit 
+he asked to borrow Miss Ks phone to make a call. The next morning, Miss K realised there 
+was a payment made from her account that she didnt recognise and contacted TSB about it.
+Miss K told TSB that she hadnt made the transaction and it happened while Miss K was 
+working from home and no-one else could have made the transaction.
+Miss K said that her phone wasnt working properly, and shed disabled the security controls 
+to access her phone. Miss K said that she had a difficult relationship with her father, and 
+hed taken money from her account before without her permission.
+TSB looked into the transaction and asked the receiving bank about the account the money 
+was sent to and they were told that no funds remained in the account. After further 
+investigation by TSB, they decided not to refund the money. TSB examined the audit 
+evidence related to the transaction and it showed that Miss Ks genuine device, using the 
+same Internet Protocol (IP) address as previous successful logins had been used to access 
+the mobile banking service. 
+TSB confirmed that biometric data (a fingerprint) had been used to open the banking app on 
+Miss Ks phone and was also used to authorise the new payee that received the money from 
+her account. Because this evidence was different to what Miss K told TSB, they closed the 
+account and made a report to Cifas  a national fraud prevention organisation. 
+Miss K complained to TSB about the lack of refund and after the complaint was further 
+investigated, TSB didnt change their decision about how theyd handled the situation.
+Miss K was unhappy with the outcome and brought her complaint to our service for an 
+independent review. Miss K told our service that shed had previous problems with 
+fraudulent transactions and TSB had refunded them. She also said that shed recently lost 
+her debit card just before the disputed transaction was made.
+Miss Ks complaint was looked into by one of our investigators who thought that it was 
+reasonable for TSB to hold Miss K responsible for making the transaction due to the 
+evidence provided by TSB, including the biometric evidence. The investigator pointed out 
+that Miss K had used her mobile banking app to access her phone several times before and 
+after the payment was made on the day of the payment. Whereas, Miss K had originally told 
+our service that she hadnt checked her account until the next day, when she first noticed the 
+missing money.
+Miss K disagreed with the outcome and stressed it wasnt her that made the payment and 
+that it may have been a scammer. She didnt recognise the beneficiary of the payment and 
+continued to make the point that her phone wasnt using the biometric security feature 
+because it wasnt working properly.
+The complaint has now been passed to me for a final decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+The relevant law surrounding authorisations are the Payment Service Regulations 2017. The 
+basic position is that TSB can hold Miss K liable for the disputed payment if the evidence 
+suggests that its more likely than not that she made it or authorised it.
+Authorisation is made up of two parts. Authentication and consent. Authentication is usually 
+referred to as the technical evidence and in this case, TSB have supplied evidence that 
+shows the new payee was set up and the payment authorised using biometric identification  
+in this case Miss Ks fingerprint. Im satisfied the evidence shows the disputed transaction 
+was authenticated.
+Consent refers to the way in which TSB and Miss K agreed to operate the account to allow 
+TSB to make payments on Miss Ks behalf. For example, TSBs terms and conditions set out 
+that if a payment is arranged through mobile/internet banking and the account holder uses 
+their security details to confirm the payment, then TSB accept that the instruction to make 
+the payment is authorised by the account holder. So, because Miss K used her fingerprint to 
+open the mobile app and confirm the payment- Im satisfied that consent was given and the 
+disputed transaction was authorised. But, there are exceptions where it wouldnt be 
+appropriate for TSB to hold Miss K responsible, for example if the mobile app was used 
+without her permission.
+Miss K has stressed that the relationship with her father was very difficult and hed taken 
+money from her before. On the day of the disputed payment, Miss K told us she was working 
+from home when her father visited and asked to use her mobile phone to make a call and 
+later returned the phone. Miss K isnt certain that it was her father who made the disputed 
+payment, but shes said that it couldnt have been anyone else in the house at the time. Miss 
+K thought it may have been a scammer who took the payment, but Ive seen no evidence 
+that it was anything other than Miss Ks device that was used to make the payment.
+So, from what Ive been told here - there were only two people present who could have 
+accessed the phone on the day the disputed transaction was made  Miss K and her father. 
+Miss Ks testimony is that she disabled the biometric security from her phone because the 
+phone wasnt working properly and has since replaced the phone. That would mean the 
+phone could be used by anyone for its basic function like making a phone call, but this isnt 
+the case for the banking app on her phone.
+Thats because TSB have explained that their banking app requires the user to input their 
+security credentials into the app to open it and again to confirm a payment to another 
+persons account. Miss K has said her father knew her passcodes because hed used her 
+phone before, but TSBs information shows that it wasnt a passcode that was used to open 
+and confirm the transaction, it was the fingerprint registered to the app  Miss Ks.
+Miss K wasnt aware of any other fingerprints registered on her device and Ive considered if 
+anyone else could have used the banking app. TSB confirmed that their system recognised Miss Ks unique fingerprint, so I dont think it was likely that anyone other than Miss K used 
+her mobile banking app.
+Also, I dont think anyone else was using it because Miss K has since said she was using the 
+app after the payment was sent out of her account, despite what she told our service when 
+she first reported the transaction  where she said she hadnt checked her phone until the 
+next morning. Miss K explained that she was waiting for two payments to come into her 
+account, which is why she was using her app. But, it was these two payments that funded 
+the transaction that Miss K is disputing. Prior to receiving these two payments the balance 
+was less than £50 and for the disputed transaction to leave the account, it must already have 
+been funded by the two incoming payments Miss K was expecting. 
+So, when Miss K used her mobile banking app later that evening, I think it would have been 
+apparent that the two payments had already arrived, and the disputed transaction left her 
+account. I say that because the reason Miss K gave for using the app later that night was to 
+check whether the two payments had been made, so I dont think its likely that she would 
+have failed to notice them in her account along with the transaction shes disputing, as it was 
+the sole reason for looking at her account.
+The audit data from TSB shows that Miss Ks registered device made the transaction from 
+the same IP address as previous successful transactions and that it was used in the evening 
+after the disputed transaction left the account. The evidence that Ive reviewed leads me to 
+the conclusion that because the banking app was opened by a fingerprint and the payment 
+authorised by a fingerprint, from Miss Ks registered device using a known IP address, its 
+more than likely this was done by Miss K.
+Miss K also informed us that she had been a previous victim of fraudulent activity on her 
+account and had two refunds from TSB. She also advised that just prior to the disputed 
+transaction, shed reported her debit card as lost and was waiting for a new one. Ive looked 
+into the details of these previous problems and they were related to unauthorised use of 
+Miss Ks debit card. Having possession of the debit card wouldnt automatically give access 
+to the bank account and I dont think its likely theyre related to the disputed transaction from 
+her bank account which was made using her registered mobile device, which wasnt lost or 
+stolen.
+Beneficiary Account
+Further enquiries were carried out with the beneficiary account holders bank by TSB at the 
+time of Miss Ks claim and they were told that no funds remained. When this was looked into 
+further, it was apparent that as soon as Miss Ks funds were received into the account, they 
+were transferred out. Miss K has said she doesnt know this person and the account 
+behaviour is certainly suggestive of fraudulent activity. Because I think it was more than 
+likely that Miss K was responsible for making the transaction in the first place, the activity on 
+the beneficiary account isnt evidence that Miss K didnt make the transaction.
+Account closure and Cifas
+TSB can choose to end their relationship with an account holder, just as Miss K can choose 
+to end her relationship with TSB. But, TSB must follow the terms and conditions of the 
+agreement between them when they do this. The terms set out when they can close the 
+account immediately and one of those reasons is if the account holder is acting fraudulently.
+TSB told Miss K that they were closing the account but didnt give a reason. Whilst theyve 
+said they didnt have to tell Miss K the reason for immediately closing the account, the fact 
+that theyve also made report to Cifas indicates they think Miss K was involved in fraud. As Ive made a finding that Miss K more than likely made the transaction herself, it follows that I 
+think TSB acted reasonably when they closed the account immediately.
+TSB also loaded a marker against Miss K with Cifas, who are a national fraud prevention 
+organisation. A marker cant be loaded unless TSB have sufficient evidence that they could 
+confidently report the conduct to the police and that it goes beyond mere suspicion. The 
+specific marker loaded by TSB is a Category 6  Misuse of Facility  False fraud claim.
+So, Ive looked at what evidence TSB have used to load the marker against Miss K, which 
+mainly consists of the authentication evidence that her fingerprint was used to make the 
+transaction, that it was made from her genuine device using a known IP address and 
+together with Miss Ks testimony that she didnt make the transaction. Ive already made a 
+finding about the authorisation of the payment and fingerprint evidence is unlikely to be 
+anyone other than the registered user, in this case, Miss K. So, I think TSB had more than 
+mere suspicion when they notified Cifas and I think it was reasonable for TSB to load a 
+Misuse of Facility marker against Miss K.  
+Im sure Miss K will disagree with my decision, but its based on an objective assessment of 
+the evidence from both parties. Miss Ks testimony isnt supported by the technical evidence 
+from TSB. I also didnt find the reason Miss K gave for accessing her mobile banking service 
+after both incoming payments and the disputed transaction had left her account to be likely. I 
+think that it was more likely than not that Miss K authorised the transaction herself and it was 
+reasonable for TSB to hold her liable for it.
+Because TSBs evidence is at odds with Miss Ks claim, they no longer wished to provide 
+banking services to her, and the closure of the account was a reasonable decision for them 
+to make. Im also satisfied TSB met the test for loading a Cifas marker and wont be 
+instructing them to change it.
+My final decision
+My final decision is that I dont uphold this complaint against TSB Bank Plc.
+Under the rules of the Financial Ombudsman Service, Im required to ask Miss K to accept 
+or reject my decision before 12 November 2021.
+ 
+David Perry
+Ombudsman

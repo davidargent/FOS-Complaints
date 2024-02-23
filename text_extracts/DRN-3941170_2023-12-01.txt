@@ -1,0 +1,158 @@
+DRN-3941170
+The complaint
+Mr and Mrs M complain that Nationwide Building Society (Nationwide) wont refund the 
+money they lost as part of a scam.
+What happened
+The background to this complaint is well known to both parties, so Ill only refer to some key 
+events here. The transactions listed below were from an account held jointly between Mr and 
+Mrs M. But it seems Mrs M had all of the contact with the scammer, so I will mainly refer just 
+to her actions from now on.
+In August 2020, Mrs M clicked on an advert for investing. She says that she was contacted 
+by a number of companies, including someone purporting to be from a crypto trading firm 
+which had an office in London. Mrs M was persuaded to make the following payments to a 
+crypto exchange (Bitstamp), via bank transfer. My understanding is that the funds were then 
+transferred on to the scammer, that I will call B.
+Transaction 
+Number Date Amount Merchant Running Total
+1 10/08/2020 £9,000 Bitstamp ltd £9,000
+2 14/08/2020 £380 credit Bitstamp ltd £8,620
+3 25/08/2020 £10,000 Bitstamp ltd £18,620
+4 25/08/2020 £6,780 Bitstamp ltd £25,400
+5 27/08/2020 £10,000 Bitstamp ltd £35,400
+6 27/08/2020 £2,000 Bitstamp ltd £37,400
+7 16/09/2020 £10,000 Bitstamp ltd £47,400
+When Mrs M was unable to withdraw the profits that she could see on B, she contacted 
+Nationwide on 11/09/2020 to report that she thought she had been scammed. During this 
+call Mrs M was advised not to make further payments to B. She however, made one more 
+payment in an attempt to recover the funds that she had lost. When this still did not allow her 
+to withdraw her profits, she eventually realised she had been scammed.
+Several years later, Mr and Mrs M made a complaint via a representative to Nationwide and 
+requested that the above transactions be refunded. Nationwide declined to do this.
+I issued a Provisional Decision on 15 November 2023 in which I said the following
+Ive considered all the available evidence and arguments to provisionally decide 
+whats fair and reasonable in the circumstances of this complaint.
+At the time Mrs M made her payments, Nationwide was expected to process 
+payments a customer authorised it to make; but as a matter of good industry 
+practice, it should have taken proactive steps to identify and help prevent 
+transactions  particularly unusual or uncharacteristic transactions  that could 
+involve fraud or be the result of a scam.
+There is a balance to be struck: Nationwide had (and have) obligations to be alert to 
+fraud and scams and to act in their customers best interests. But they cant be 
+involved in every transaction.
+All of the payments in dispute were Faster Payments sent to a well-known crypto 
+exchange. So, its reasonable for me to conclude that Nationwide ought to have 
+known that Mr and Mrs M were likely purchasing crypto at the time they sent these 
+payments. Ive also thought about whether there was anything else about the 
+payments which ought to have concerned Nationwide.
+The first three payments
+I dont think I can fairly say that the first three payments were unusual enough for 
+Nationwide to have intervened. I say this because, prior to those payments, the 
+account had been used for large one off payments before - such as one for £18,000 
+earlier in 2020. So I think that these payments done on separate days were in line 
+enough with the way the account had been used before to not have prompted 
+Nationwide to have intervened.
+Payment four
+I do however think payment four, when taken cumulatively with payment three ought 
+to have warranted an intervention from Nationwide. Payment four represented a total 
+of £16,780 on the same day to a relatively new payee for Mr and Mrs M. Multiple 
+large payments in a day to a new payee was unusual from what I can see on their 
+account.
+Nationwide has said Mr and Mrs M would have seen a warning when they sent the 
+Faster Payments. Ive read the contents of the warning Mr and Mrs M would have 
+seen and I dont think it was relevant to the investment scam theyd fallen victim to.
+Nationwide confirmed it didnt intervene until Mrs M contacted them and I think it was 
+a missed opportunity to do so. If Nationwide had intervened (as I think it ought 
+reasonably to), Id have expected it to query with Mr and Mrs M what the purpose of 
+the payment was. Given what Mrs M shared during her call with Nationwide on 11 
+September 2020, I think theyd have likely explained they were purchasing crypto to 
+send it on to a third-party trading platform; where a third party would trade on their 
+behalf; that they had allowed a third-party access to their computer; and that they 
+were told there was zero risk in losing money whilst they were making large profits. 
+Furthermore, B was not regulated by the FCA either. I think this would have 
+prompted Nationwide to highlight that they were being scammed. I say this because 
+there were clear signs that they were being scammed such as being told an 
+investment is zero-risk and included a high reward and investments that are carried 
+out through a non-regulated company which requires them to give a third-party 
+remote access to their computer.
+I then need to consider what would have happened had such an intervention 
+occurred. It could be argued that Mrs M would have continued regardless of such a 
+warning as she did so after the 11 September 2020 call. But having listened to that 
+call, I dont think the Nationwide call went far enough. It was clear that what Mrs M 
+was describing was almost certainly a scam, yet the member of staff did not say this 
+they advised not sending further funds to B.
+ 
+In general, in situations like this, as Nationwide should be more aware of scams than 
+their customers, when Nationwide should really know a scam is happening it should prevent further transactions from happening to the scammer. Also, had a more 
+strident warning been provided earlier in the scam, I am satisfied that this would have 
+had more of an effect then someone desperate to recover the funds that they had 
+already sent.
+So, before payment four was actually processed, Mr and Mrs M would probably have 
+stopped in their tracks. But for Nationwides failure to act on clear triggers of potential 
+fraud or financial harm, Mr and Mrs M would probably have not lost this and the 
+subsequent payments.
+Ive also thought about whether Mr and Mrs Ms actions contributed to their losses. 
+Despite regulatory safeguards, there is a general principle that consumers must still 
+take responsibility for their decisions.
+In this instance, I do think that Mr and Mrs M should take some responsibility for their 
+loss. Mrs M during her call with Nationwide had made it clear that she had done no 
+real research, did not really understand what she was investing in and Mrs M also 
+sounded like she had doubts from the start about B saying that it was a hard sell and 
+it made her feel uncomfortable. Also I need to bear in mind that Mrs M did send a 
+further payment to B despite being warned not to do so. So overall I feel it is 
+appropriate to reduce the amount of redress I am proposing Nationwide to pay by 
+50%.
+Ive considered whether Nationwide could have recovered any of Mr and Mrs Ms 
+payments. But given that the payments were sent to a crypto exchange and were 
+then forwarded on to B, I dont think that any recovery could have been made or that 
+the Contingent Reimbursement Model applies in this instance.
+Putting things right
+Refund 50% of payments 4,5,6 and 7
+Pay 8% simple interest, per year, on this amount from the date of each 
+payment to date of settlement (less any tax lawfully deductible)
+In response to my provisional decision Mr and Mrs M agreed with what I had recommended. 
+Nationwide did not agree and raised the following points.
+They do not believe that an intervention at payment 4 would have altered Mr and Mrs Ms 
+decision to carry on with the transactions. They say that this is because when warned in the 
+11 September 2020 call, Mrs M still carried on with transaction 7. They also have added that 
+if I did still feel that an intervention during payment 4 would have prevented the scam, I 
+should not include payment 7 within the redress, as Mrs M  was solely responsible for the 
+loss as she had already been warned prior to making it that it was likely to be a scam.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+I have carefully considered the points that Nationwide has raised in response to my 
+provisional decision. But I remain of the opinion that the outcome that I have proposed is fair 
+and reasonable. Let me explain why.Nationwide have said that Mrs Ms actions after the call, during transaction 7, would have 
+been the same as if a call had occurred during transaction 4. I disagree, as a warning given 
+early on in the scam, in my opinion, carries more weight than one made after someone has 
+lost most of their available funds. By transaction 7, Mrs M was desperate to recover the 
+funds she had lost and it was the promise of recovering all that she had lost that led her to 
+make the final payment, despite the warning provided by Nationwide. So I think overall, 
+albeit on balance, had Mrs M been warned during transaction 4, she would have heeded the 
+warning and the scam would have been stopped at this point.
+In relation to Mrs M being solely liable for transaction 7, I dont think that it is reasonable in 
+this instance for Nationwide to have allowed Mrs M to make further scam payments when it 
+knew Mrs M was being scammed. 
+In any event I should also add that the discussion around payment 7 would not have 
+happened if the scam had already been stopped. So but for Nationwides failure to intervene 
+and likely stop the scam at transaction 4 transaction 7 would never have occurred. So in this  
+instance, I think that both parties share responsibility for this transaction. 
+Overall, I think that Nationwide should have intervened at payment 4 and that had it done so 
+the scam would have been prevented at that point. I believe that Mr and Mrs M are partly 
+responsible for their loss for the reasons set out above, so the redress that Nationwide 
+should pay should be reduced by 50%. 
+Putting things right
+So I am upholding this complaint in part and require Nationwide Building Society to do the 
+following:
+Refund 50% of payments 4,5,6 and 7; and
+Pay 8% simple interest, per year, on this amount, from the date of each payment to 
+date of settlement (less any tax lawfully deductible).
+My final decision
+Because of the reasons given above and in my provisional decision, my final decision is that 
+I uphold this complaint in part an require Nationwide Building Society to pay the redress 
+outlined above, in full and final settlement of this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mrs M and Mr M to 
+accept or reject my decision before 05 January 2023.
+ 
+Charlie Newton
+Ombudsman

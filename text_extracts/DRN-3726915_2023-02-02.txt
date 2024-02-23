@@ -1,0 +1,75 @@
+DRN-3726915
+The complaint
+J, a limited company, is represented here by Mr S. Mr S complains that Starling Bank 
+Limited wont refund a transaction of £2,352 made from Js business account that he says 
+was not authorised. 
+What happened
+Mr S says he received a phone call on 30 March 2022 that appeared to be from Starling. He 
+didnt answer this call but had some concerns about its legitimacy and so he contacted 
+Starling and checked Js business current account. Mr S says at this time he realised that a 
+payment for £2,352 had just been made from Js business account using a mobile wallet 
+service. He says he had not authorised this payment and asked Starling to stop it from 
+debiting the account.
+Starling was unable to stop the transaction form debiting the account. It then also looked into 
+Mr Ss claim that the transaction was unauthorised. Starling declined to refund the money as 
+it said there wasnt evidence to support that it was fraudulent. 
+Mr S disagreed, so he referred Js complaint to us. Our Investigator didnt uphold the 
+complaint. As Mr S said he had not shared any security details, she didnt think there was 
+enough evidence to show that Mr S, acting on behalf of J, had not authorised the disputed 
+payment, as there was no plausible explanation for how the account had been 
+compromised. So she thought the payment had most likely been authorised. 
+Mr S disagreed, so the matter has been passed to me for a decision. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, my review of the evidence has led me to the same overall conclusions as 
+the Investigator previously set out. 
+The relevant law here is the Payment Services Regulations 2017, and broadly speaking J is 
+responsible for any payments that were authorised and isnt responsible for unauthorised 
+payments. So Ive considered whether or not the evidence shows that J authorised the 
+payments. This is important because a customer will usually be liable for payments theyve 
+authorised and, generally speaking, a bank will be liable for any unauthorised payments. 
+In this instance, the disputed transaction was facilitated by a mobile wallet which had been 
+set up on Js account the day the transaction was made. Mr S says he did not set this up 
+himself. But having considered the evidence, Im satisfied the more likely explanation is that 
+he authorised the use of the mobile wallet and therefore the subsequent transaction it was 
+used to pay for. Ill explain why. 
+Starlings systems show that when the mobile wallet was set up, this was only able to 
+happen because the request to add it to Js account was approved via a PIN sent to the 
+mobile number Starling held for Mr S. Starling has only ever had one mobile number on file 
+for Mr S, the same number he is currently using, and so the text message with the PIN 
+would have been sent to that number. Whoever set up the mobile wallet would also need to 
+have had the card details for Js account.
+So this payment could have only been made if Mr S had either set up the mobile wallet 
+himself, or shared the card details and the PIN that was sent to his mobile device with 
+someone else in order to facilitate it being set up on another device. Mr S has maintained 
+that no one else had access to his device or card details. Hes suggested that his mobile 
+may have been hacked. However, theres nothing to suggest that remote access was 
+gained of his device, and theres seemingly no other explanation as to how Js card details 
+came to be compromised. 
+So, given Mr S didnt share his details or device with anyone else, the only plausible 
+conclusion is that either Mr S set up the mobile wallet on Js account and made the 
+transactions himself, or gave his details to somebody else, thereby giving his consent and 
+authority for payments to be made on Js behalf. 
+I understand that an old phone  an iPhone 7  was also linked to Js account, and that this 
+was deactivated as a result of Mr Ss call to Starling on 30 March 2022. Mr S says he has 
+never owned a phone of this model, but his correspondence with Starling suggests 
+otherwise, and this phone had been linked to the account since 2020, several years before 
+the disputed payment. In any case, Starling has confirmed that the PIN to authorise the 
+mobile wallet was sent to Mr Ss current mobile number, and so to his current device. The 
+fact that an old phone was still linked to Js account at the time of the payment doesnt 
+change my findings that there is not enough evidence to support that a fraud has taken place 
+here.
+Mr S has also questioned whether we have investigated the business that the payment was 
+made to, but thats not our role here. Our role is to determine whether Starling acted fairly in 
+declining to refund the disputed payment, and as Ive explained, I consider that with the 
+evidence it had seen, it was fair for Starling to refuse to refund this payment to J.
+I appreciate this will come as a disappointment to Mr S, but I wont be asking Starling to take 
+any further action. 
+My final decision
+I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask J to accept or 
+reject my decision before 2 March 2023.
+ 
+Sophie Mitchell
+Ombudsman

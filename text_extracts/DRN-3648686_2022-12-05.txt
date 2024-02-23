@@ -1,0 +1,124 @@
+DRN-3648686
+The complaint
+Mr C complains that Revolut Ltd had a technical issue which led to his card declining at a 
+shop multiple times.
+What happened
+Mr C says he had a new Revolut card which he had been using overseas. He says that 
+Revolut had changed the security settings of the card, but he wasnt made aware of this. He 
+says he had been using the card overseas for a number of weeks in the same overseas 
+country, but his card declined several times, which resulted in him having to unpack and 
+repack his shopping and caused him a lot of embarrassment as a disabled person, which he 
+says Revolut were aware of. Mr C made a complaint to Revolut.
+Revolut did not uphold his complaint. They said that his card was declined due to the 
+geolocation security settings, and they provided him with the steps to turn the feature off. 
+They signposted their website which says that they compare the last known location of Mr 
+Cs device and the location where he is making a payment in order to protect him. They said 
+this way, if a card gets stolen, and someone tries to use it in a very different location, the 
+payment is automatically declined, and a notification is issued in the application (app), so the 
+user is aware. Mr C brought his complaint to our service. He said the card had been used in 
+the same geographical location since 2019 and it had worked faultlessly in that location up 
+until the sequence of failed transactions. He said that it has since worked after this date 
+without him altering any settings on the app in the same location and the issue was likely to 
+be with the app updating.
+Our investigator did not uphold the complaint. He said hed reviewed the transaction data for 
+each declined transaction which Revolut have supplied. Hed also looked at the transaction 
+data for successful card payments prior to this and compared them with Mr Cs declined 
+transactions and the difference between the two is that the geolocation mismatch was 
+causing the transactions to be declined on 3 May 2022. He said Revolut confirmed that
+the geolocation security feature has been available since 2020 and they guided Mr C to the 
+relevant information about this on their website after he had a chat with them. He said the 
+evidence suggested it more likely than not that there was a Global Positioning System (GPS) 
+issue with Mr Cs device at the time, which was causing the mismatch.
+Our investigator said that he had asked Revolut for evidence of any similar issues being 
+reported at the same time due to an app update. He said Revolut sent him a screenshot of 
+their notifications between 1-7 May 2022 about app related incidents which affected the 
+geolocation feature, but they had no other reports at this time. He said Revolut explained 
+that the location may not have updated due to loss of signal which could be network or 
+device related. They said at the time of the transaction, they compare the last
+location received from their customers device against the merchants location. If the system 
+identified a mismatch, then the payment is declined. Mr C asked for an Ombudsman to 
+review his complaint as he felt very strongly that Revolut were at fault.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Id like to explain to Mr C that it is not within this services remit to tell a business how to run 
+their security procedures. It would be the role of the regulator  the Financial Conduct 
+Authority, who have the power to instruct Revolut to make changes to their policies and 
+procedures, if necessary. Our service acts as an informal dispute resolution service for 
+complaints about financial businesses. We look at the circumstances of individual complaints 
+and, on a case by case basis, taking into account relevant industry guidance for example, 
+make findings about whether a financial business has failed their customer.
+Banks and building societies have an obligation to try and keep their customers accounts 
+safe and prevent fraudulent transactions. Sometimes they identify and block legitimate 
+payments that a customer wants to take place. This can cause distress and inconvenience 
+to a customer  but it doesnt necessarily mean they have acted incorrectly. Ive read 
+everything that Mr C has said about the impact the events had on him on 3 May 2022, 
+especially as he is disabled, so I know why this issue is important to him.
+Mr C had six transactions which declined at the same location, for the same amount. As 
+Revolut have explained the transactions had declined due to geolocation reasons, Ive had 
+an in depth look at the audit of the transactions. As the geolocation security feature 
+compares Mr Cs phones last known location with the location of the card terminal at the 
+point of the time of the payment, and if the two locations do not match the transaction will be 
+declined, Ive had a look at what locations were reported by the GPS showing on the audit 
+from the last successful card payment Mr C made and the location which was reported by 
+the GPS where the transactions were declined. Its important to note that Revolut do not 
+provide the GPS information as theyve already explained it is the phones last known 
+location and the location of the card terminal at the time of payment which gives them the 
+GPS information.
+Mr Cs last successful card payment prior to the declined payments was on 30 April 2022 at 
+9:33pm for 50.07EUR. The in depth audit of this payment shows a number of items of 
+information about what the merchant (shop) has reported. One of these pieces of information 
+is the city. So Ive looked at the city the payment was reporting and compared this to the in 
+depth audit of the declined payments. But the declined payments were being reported by the 
+merchant in a different city completely. Ive looked online at the distance between the two 
+cities where the successful transaction happened on 30 April 2022 and the declined 
+transactions on 3 May 2022 happened and these locations appear to be 491km apart. So on 
+this basis, it appears that Revoluts security feature acted in the way it should have done and 
+the transactions were declined. 
+It's been suggested that it could be Mr Cs phone that might have been displaying an 
+incorrect GPS location or that there could have been network issues. But Im persuaded that 
+the evidence shows the merchants card terminal was showing an incorrect location in a city 
+which Mr C wasnt in at the time, based on him saying he uses his card in the same location. 
+Ive considered what Mr C has said about the card working faultlessly in that location since 
+2019, up until the sequence of failed transactions. Ive looked at his account transactions for 
+2022, up until the date that the sequence of failed transactions happened. The transactions 
+show the name of the shop is the same. The description shows the same name followed by 
+different wording. So this could mean that Mr C has visited the same shop where his card 
+was accepted on 30 April and it was declined on 3 May, but due to how at least one of the 
+merchant terminals are displaying the merchant location and description on his transactions, this is why he may be able to use the same shop but have a different outcome in the 
+transactions being approved on these two dates.
+Ive also had a look at the previous ten successful transactions prior to his declined 
+transactions, to see what city the merchants were showing in. And all of them were showing 
+in the same city. This was a different city to the merchant involved with the declined 
+transactions. So Im not persuaded the fault was with Revolut here as it appears the declines 
+were a result of at least one of the card terminals in the shop that Mr C attempted to pay for 
+his shopping on 3 May, for the reasons Ive already given. 
+Ive considered the strength of feeling that Mr C has that the issue was likely to be with 
+Revolut and with their app updating. But as our investigator has explained to him, Revolut 
+have proved they had no known geolocation issues with the app around and on the date that 
+the transactions were declined. So Ive not seen any evidence to show the declines were 
+due to an app error - or any Revolut error, as opposed to the in depth audit showing the 
+merchant location being reported in a different city and thats why the payments were 
+declined. 
+I have also seen evidence that Revolut sent Mr C a notification to his phone on six occasions 
+ after each declined transaction, that the transactions had declined due to the geolocation 
+mismatch. So Mr C would have been aware at the time that this was the reason for the 
+declined transactions unless he had turned notifications off for the app or had any network 
+issues. But if he had turned his push notifications off or had any network issues, it would not 
+be reasonable to hold Revolut responsible for this as this would be outside of their control, 
+when theyve proved they sent the push notifications. 
+Theres no doubt that Mr C was distressed as a result of the events which happened on 3 
+May 2022, as his card was declined several times due to issues outside of his control, 
+especially based on his health situation at that time adding to the distress he had. But in 
+order to uphold this complaint, Id need to be satisfied that Revolut made an error in how 
+theyve applied their geolocation security measures that they detail on their website. Based 
+on the reasons Ive already given, the evidence shows that the reason for the declines is at 
+least one of the merchant terminals at the shop he visited on 3 May showed a location in 
+another city. So it follows I wont be asking Revolut to do anything further.
+My final decision
+I do not uphold this complaint. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr C to accept or 
+reject my decision before 2 January 2023.
+ 
+Gregory Sloanes
+Ombudsman

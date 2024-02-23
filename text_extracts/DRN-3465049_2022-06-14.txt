@@ -1,0 +1,163 @@
+DRN-3465049
+The complaint
+Mr K complains Monzo Bank Ltd didnt reimburse the money he lost when he was tricked 
+into paying for an item he did not receive.
+What happened
+Both parties are aware of the circumstances of the complaint, so I wont repeat them all 
+here. But briefly, both parties accept that Mr K was the victim of a scam after he made a 
+faster payment of £440. He made this payment for a used mobile phone hed seen 
+advertised for sale on a popular social media platform.
+Mr K explains hed used this same marketplace to purchase several other items before and 
+had never had a problem. Hed typically arrange to collect in person, but on this occasion the 
+seller was located too far from him. So, he arranged for the seller to arrange delivery 
+instead. The seller provided Mr K with a picture of the phone, and they agreed a price to 
+include delivery. 
+Mr K asked to pay using an e-money service, but the seller told him they didnt have an 
+account with that provider. She asked him for payment by bank transfer instead. The seller 
+provided Mr K with a copy of her driving licence to act as proof of identity and Mr K noted 
+that all the details on the licence appeared correct. In particular, the payee name hed been 
+given matched the identification, which reassured him. Mr K then sent payment via his 
+mobile app. 
+Mr K was told hed be sent tracking details the following day. When these didnt arrive, he 
+tried to contact the seller, but didnt get any reply. He then found the seller had blocked him. 
+Mr K realised hed been the victim of a scam and contacted Monzo to report it.
+The Lending Standards Board Contingent Reimbursement Model (CRM Code) requires firms 
+to reimburse customers who have been the victims of APP scams in all but a limited number 
+of circumstances. Monzo isnt a signatory of the CRM Code but it has stated that it is 
+committed to applying the principles set out in it. Monzo said one or more of the exceptions 
+to reimbursement applies in Mr Ks case and didnt agree to refund Mr K. It said it had given 
+Mr K a scam warning and didnt consider hed taken sufficient steps to verify he was paying 
+a legitimate seller for a legitimate item.
+One of our investigators looked into Mr Ks complaint and thought it ought to be upheld.
+The investigator didnt believe Monzo had fairly applied the CRM Code when it considered 
+his scam claim. She didnt think that Monzo had provided an effective warning. She also 
+didnt agree that Monzo had been able to establish Mr K had made the payment without a 
+reasonable basis for believing he was making a legitimate purchase from a legitimate seller.
+Monzo maintained its position. In summary, it said:
+- it said the CRM Code required the sending bank to supply a warning but the code 
+didnt require the warning to be specific, nor was it was not obligated to describe 
+scams in its warnings;
+- it was satisfied its warnings met the requirements of the CRM code based on 
+machine learning and experience;
+- it wasnt permitted to include messages in these warnings about alternative ways to 
+make payments that might be safer than bank transfer;
+- Mr K had met the person via social media and he hadnt seen that the seller had 
+access to the phone being sold - the photos provided by the seller could have been 
+stock photos;
+- Mr K hadnt done enough research into who exactly he was paying;
+- While it was nearly diligent to have requested payment by a different method, when 
+that alternate method was not possible it should have been a red-flag to Mr K;
+- Overall, this had been a simple scam with no due diligence by Mr K. He hadnt done 
+enough to check that the item was legitimately available and that the seller did have 
+the device.
+In light of this disagreement, I have been asked to make a final decision on the outcome of 
+Mr Ks complaint.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I am satisfied that:
+Under the terms of the CRM Code, Monzo should have refunded the money Mr K 
+lost. I am not persuaded any of the permitted exceptions to reimbursement apply in 
+the circumstances of this case.
+In the circumstances Monzo should fairly and reasonably refund the money Mr K lost.
+The money was sent from Mr Ks personal current account. It is not clear how Mr K 
+would have used the money if Monzo had refunded it when it should have done. But 
+if Monzo had refunded the money when it ought reasonably to have done, Mr K 
+would not have been deprived of it for the time he has. So, Monzo should also pay 
+interest on the balance not yet refunded at a rate of 8% simple per year. This interest 
+should apply from the date Monzo first declined to refund Mr K, to the date of 
+settlement.
+Im satisfied that Monzo has not shown that Mr K ignored an effective scam warning or made 
+the payment without a reasonable basis for believing that he was paying a legitimate seller 
+for a legitimate item. It follows that I am not persuaded that Monzo has been able to 
+establish those exceptions to reimbursement can fairly be applied to Mr Ks claim. I will 
+explain why I have reached this finding.
+The warning Monzo says it gave Mr K was not tailored to any particular scam type, being 
+generic in nature. In its response to the investigator Monzo said that the CRM Code doesnt 
+require that an effective warning needs to be specific or describe scams. 
+I understand the challenge that Monzo faces in designing effective warnings, and fulfilling 
+the requirements set out in the CRM Code. But I dont agree with Monzos argument that the 
+CRM Code doesnt require such warnings to be specific. Id point Monzo to section SF1(2) in 
+the CRM Code which covers (under the heading Prevention) the standards expected of the 
+sending bank when providing an effective warning. At SF1(2)(e) it states As a minimum, 
+Effective Warnings should meet the following criteria [] (iv) Specific  tailored to the 
+customer type and the APP scam risk identified by analytics during the Payment Journey, 
+and/or during contact with the Customer. In short, the CRM Code does require as part of 
+the minimum standard that an effective warning should be specific. The CRM Code also states at SF1(2)(d) that Effective Warnings should enable the 
+Customer to understand what actions they need to take to address the risk, such as 
+more appropriate payment methods which may have additional protections, and the 
+consequences of not doing so. So, I cant agree with Monzo that it isnt possible or 
+permitted for the warnings it gives to mention alternative ways to make payments.
+In short though, the CRM Code specifies that as a minimum an effective warning message 
+needs to be tailored to the type of scam risk identified by the firm during the payment journey 
+ for example that of a typical purchase scam. The warning message Monzo says it provided 
+to Mr K did not meet that specification.
+Further, the CRM Code requires an effective warning to be impactful - in its ability to help 
+reduce the likelihood of such an APP scam succeeding. The warning Monzo says it gave 
+relied on the reader already having doubts that this might be a scam - but in many such APP 
+scams, the consumer has already been persuaded the payment is legitimate. I dont find the 
+warning given met the requirement to be impactful. So again, I find the warning fell short of 
+the minimum requirements given in the CRM Code for an effective warning.
+It follows that I am not satisfied that Monzo has established that Mr K ignored an effective 
+warning given in compliance with the CRM Code: the warning message provided did not 
+meet the minimum requirements of such a warning.
+Even if I had found the warning given was effective in terms of the CRM Code specification 
+(which I do not), I dont consider Mr Ks actions in response were inappropriate. I say this 
+because the message recommended clicking a link for further advice if a customer had 
+doubts that the payee might be trying to scam them  giving one example as being if the 
+offer sounded too good to be true. But in the circumstances here, the offer wasnt too good 
+to be true, and Mr K didnt have such doubts. Ive gone onto consider whether his belief in 
+the legitimacy of this transaction was a reasonable one.
+The sellers explanation about the choice of payment method was simply that she didnt hold 
+an account with the e-money provider Mr K would otherwise have used. While not a 
+particularly sophisticated or detailed explanation I dont think there was anything implausible 
+about the seller not having such an account. And in such a circumstance it is hard to see 
+what alternatives were open to Mr K to suggest. Id not expect a private seller to be in a 
+position to accept card payments instead. Of course, had he been collecting the item in 
+person, he could have paid in cash, but the lack of proximity made this impractical.
+In saying that, regardless of whether alternative methods of payment were or werent 
+possible, implicit in Monzos argument is that Mr K could have simply chosen not to go 
+ahead. Had there been grounds for Mr K to be concerned that the seller might not be 
+genuine, Id agree that would have been the reasonable course of action for him to take. But 
+in the absence of such grounds, I am not persuaded that the choice of payment method in 
+itself established that Mr K could not have reasonably thought the seller legitimate. So Ive 
+considered the other circumstances surrounding the payment.
+Firstly, I think it relevant that the price he was paying was broadly in line with the second-
+hand item being offered  it wasnt too good to be true. The contact Mr K had with the seller 
+didnt raise any concerns for him, and Ive seen nothing to suggest that it should have. 
+I consider the information and photos provided by the seller appeared in line with what might 
+be expected were the seller legitimate  in other words while these didnt prove beyond 
+doubt that the seller or item must be legitimate they didnt in themselves raise any 
+reasonable concerns or doubts for Mr K. Mr K says the seller was too far away for him to 
+collect in person - I dont find it particularly unusual to pay for an item online and have it delivered rather than necessarily seeing it in person first, nor a necessary cause for concern 
+on Mr Ks part.
+I accept Monzos point that anyone can post an advert for an item and so an advert, in itself, 
+is no guarantee that a seller is legitimate, and that the photos displayed do not prove the 
+seller had the item. But that evidence is not wholly irrelevant  when someone is buying an 
+item, I think it is reasonable to believe that the picture they form of the reliability of the seller 
+will typically be based on multiple pieces of evidence. And while I think in isolation nothing 
+typically proves beyond doubt that the seller is or is not genuine, this evidence is 
+nonetheless all that a customer can base their actions on, and I dont find that inherently 
+unreasonable or careless.
+As Ive detailed above, Mr K didnt place sole reliance on the advert or photo of the item. His 
+belief in the sellers legitimacy and that of the item . While none of these was conclusive 
+proof of that legitimacy, Im satisfied that Mr K carried out checks proportionate to the 
+purchase he was undertaking.
+In short, taking account of all the circumstances here, on balance Im not satisfied that 
+Monzo has been able to establish that Mr K made the payment without a reasonable basis 
+for believing he was paying a genuine seller for a genuine item. Neither do I find Monzo has 
+established that Mr K ignored an effective warning it gave in compliance with the CRM Code. 
+It follows that Monzo cannot fairly apply the relevant exceptions to reimbursing Mr K under 
+the CRM Code.
+My final decision
+For the reasons outlined above, Ive decided it is fair and reasonable to uphold Mr Ks 
+complaint about Monzo Bank Ltd. I therefore require Monzo Bank Ltd to pay Mr K:
+The balance of the money lost through this scam, being the sum of £440.00 less any 
+sums already reimbursed or otherwise refunded; and,
+8% simple interest per year on that amount calculated from the date the bank 
+originally declined Mr Ks claim until the date of settlement.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr K to accept or 
+reject my decision before 12 July 2022.
+ 
+Stephen Dickie
+Ombudsman

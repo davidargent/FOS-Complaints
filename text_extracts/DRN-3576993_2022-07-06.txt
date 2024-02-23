@@ -1,0 +1,270 @@
+DRN-3576993
+The complaint
+Mr K complains that Gain Capital UK Limited didnt allow him to take any action on the long 
+position in US Oil he opened on 20 April 2020.
+What happened
+On 20 April 2020 Mr K opened a long position in US Oil for the May 2020 futures contract at 
+19.02 UK time. The market for the US Oil May futures contract was due to expire that day at 
+19.30 UK time.
+The underlying market for US Oil is West Text Intermediate (WTI) crude oil. The price went 
+negative at around 19.08 UK time for the first time in its history, so shortly after Mr K opened 
+his position. Once US Oil turned negative no further trades were possible on Gains platform 
+and it also didnt provide any pricing information for US Oil. The reason for this was that 
+Gains platform doesnt operate with negative pricing, something it says it was unaware of at 
+the time of Mr Ks trade.
+Mr Ks trade was initially shown to have settled at 0.1 on expiry, which meant he made a 
+small loss on his trade. However, Gain subsequently adjusted all client trades that had been 
+affected. For those that had short positions, these were adjusted so the price at close was 
+the correct price on expiry of the market at 19.30 GMT - which was minus $37.63. For clients 
+such as Mr K who had long positions, these were adjusted so that close out was at the point 
+the margin would have dropped below 50% of margin. In Mr Ks case this meant his losses 
+were $27,937.99.
+In response to his complaint Gain said that it was satisfied the adjustment to his account was 
+correct and in line with its general terms and conditions (terms) that governed his account. 
+It referred to clause 14 (Manifest error) and clause 15 (events outside our control and 
+market disruption events) in this regard. It also referred to the limitation of liability clause in 
+the terms.
+Mr K referred his complaint to our service and one of our investigators considered it. In short, 
+she said the following:
+WTI going negative was an unprecedented event and the associated market 
+volatility were outside of Gains control.
+However, its platform being able to cope with negative pricing was within its 
+control and whilst negative pricing may be rare, it does happen.
+One of the terms that Gain rely on which sets out what it can do in relation to 
+Manifest Error doesnt apply as there was no error in pricing, Gain simply 
+stopped pricing the product.
+The terms relating to events outside of Gains control and market disruption 
+events is relevant in part. 
+One of the options it has under that term is to close any open positions, 
+cancel and/or fill any Order, and/or make adjustments to the price and/or limit 
+the Quantity of any Trade, Open Positions and Orders.
+Mr K opened positions in anticipation that the market would move in one 
+direction and instead it moved against him and this was down to his trading 
+decisions which Gain werent responsible for.
+In the circumstances it wouldnt be fair for Gain to have to refund the full 
+adjustment it made.
+On balance Mr K would have closed his positions at 19.09 hours if he had 
+been able to and the pricing on the platform accurately reflected the 
+underlying market, so his losses up to that time should be repaid.
+Mr K agreed with what the investigator said but Gain didnt. It provided the external tick data 
+for the US Crude Oil price for the 20 April 2020 which confirmed that the price had turned 
+negative at 19.08 UK time and continued to fall until expiry at 19.30 GMT when the price was 
+-$37.
+It referred to the information it had provided showing the clients activity on his account at the 
+time. It said that even if the buttons were greyed out if Mr K had made a failed trade this 
+would show up and a reason for the failure would have been recorded. It said the only record 
+it had of Mr K trying to make a trade was at 19.28 UK time and that there was no record of 
+him placing a trade at 19.09 GMT when the investigator says he would have closed his 
+trades.
+The investigator asked for Mr Ks comments on what Gain had said. He responded and said 
+that not long after he had placed the trade the options for editing the trade or closing out 
+went grey. He said at no point did the system notify him of a negative value and no service 
+from Gain that allowed him to ascertain the price was negative.
+ 
+Mr K said he is sure he pressed the grey values to see if they were working, but to no avail. 
+He said that by 19.28 UK time he was aware of what was happening with the price having 
+found a feed from another provider but would not have attempted to close at that time as the 
+price was well beyond the margin call level. He said it was believed that the trade could not 
+go negative due to the restrictions of the platform.
+I asked Gain to explain why it thought Mr K would have been aware of negative pricing given 
+its system couldnt cope with this and didnt show the price going negative. It said if Mr K 
+was logged in and looking at the platform he would have seen the live news feed which 
+undoubtedly would have shown what was happening with the price of US Oil.
+I issued a provisional decision the findings from which are set out below. 
+There is no dispute that Gains platform didnt show the price for US Oil and didnt allow any 
+trades once the price turned negative. It said this was due to the platforms design including 
+inbuilt logic based on it being more likely than not that negative pricing would suggest a 
+system error. It said that this wasnt an IT error but a risk mitigation control that was built into 
+the system which it was unaware of until the events of 20 April 2020.
+Mr K opened his position knowing that the market was volatile and hoping to capitalise on 
+that. The market went against him and he no doubt accepted that possibility at the time he 
+opened his position and Gain obviously isnt responsible for the market going against him.
+However, what Mr K could not have anticipated and taken into account when placing his 
+trade was that he would be unable to see the current price or take any action - such as 
+placing a stop loss order  when the price turned negative, as there was nothing to forewarn 
+him that the platform couldnt deal with negative pricing or any process put in place to deal 
+with this if it did happen.Gain is entitled to provide a platform that does not operate with negative pricing  as is still 
+the case with its platform now. The difference with the position now as opposed to 20 April 
+2020 is that Gain has explained to clients what will happen if oil markets turn negative and 
+has a process in place to deal with this.
+In short, after 20 April 2020 Gain informed clients in relation to its US Oil and UK Oil markets 
+that if the price dropped below $5 a barrel it may not allow any new opening orders or 
+trades. It also said that if the price dropped below $5 existing positions would be switched to 
+close only with no ability to add to the position until the price went back above $5.
+Gain further stated that if the price dropped to or below $0 it will close any positions on that 
+market at the current available market price  although warned the underlying price could be 
+negative at the time of closing and that it would adjust the account accordingly.
+I think the main issue in this complaint is whether Gain did anything wrong because it didnt 
+have such a process in place to deal with negative pricing before 20 April 2020. So it is 
+clear, the fact that Gain doesnt appear to have been aware of the limitations of its own 
+platform isnt a basis for finding it did nothing wrong.
+Im mindful that US Oil turning negative has been called unprecedented in some articles I 
+have seen. However, I am not persuaded that it is unreasonable to have expected Gain to 
+provide clients with information about the limitations of the platform  such as it not operating 
+with negative pricing  and/or providing a process that would be followed because the 
+platform would not operate when prices are negative.
+I am mindful that whilst the negative pricing of crude oil has been called unprecedented 
+there had been some warning of this possibility before the 20 April 2020. For example as 
+early as 19 March 2020 Blomberg had written about some traders talking about this 
+possibility and around a week later it wrote about one obscure crude oil market having 
+already turned negative.
+I think it is also of note that CME Group provided an advisory notice to its clearing member 
+firms on 15 April 2020 warning of the possibility that certain NYMEX energy futures could 
+trade at negative trade prices or settle at negative values. So, there seems to have been 
+information that pointed towards the possibility of negative prices for crude oil before 20 April 
+2020. I acknowledge that US Oil turning negative caught many brokers by surprise but 
+nevertheless I think Gain should have been aware of the possibility and ensured its clients 
+were aware of the impact this would have on any trades they placed through its platform.
+I am not satisfied that Gain provided Mr K with the information it should have done about its 
+US Oil market and the fact that the platform wouldnt accept negative pricing. It failed to put 
+in place any process to deal with the situation if prices did turn negative and in effect, as a 
+result, clients were held in limbo until the market expired.
+Gain allowed Mr K to open a trade at 19.02 GMT which the platform then didnt allow him to 
+close or place a stop loss for, not because of any action that it had to take as a result of what 
+was happening, but because its platform couldnt deal with negative prices  something 
+Gain itself was unaware of at the time.
+I note that Gain has sought to argue that clause 14  Manifest Error - of its terms allowed it 
+to do what it did. Clause 14.2 sets out in what circumstances manifest error is relevant. It 
+states:14.2 If a trade is based on a Manifest error (regardless of whether you or we gain from the 
+error) and/or closed on the basis of Manifest Error we may act reasonably and in good faith 
+to:
+14.2.1 void the Trade as if it had never taken place;
+14.2.2 close the Trade or any Open Position resulting from it; or
+14.2.3 amend the Trade, or place a new Trade , as the case may be, so that 
+(in either case ) its terms are the same as the Trade which would have bene 
+placed and/or continued if there had been no Manifest Error.
+I dont think this has any relevance to the findings I have made about Gain failing to provide 
+the information it should have done to clients about the platform being unable to cope with 
+negative pricing and its failure to have a process in place to deal with this.
+Gain have also referred to clause 15 of the terms  Events Outside Our Control and Market 
+Disruption Events. The clause allows Gain to take various steps if it determines such an 
+event exists. As with the previous clause I dont think has any relance to the findings I have 
+made about what Gain did wrong.
+I am not satisfied that either clause is relevant to what happened between when Mr K 
+opened his trade at 19.02 GMT and the expiry of the market less than 30 minutes later. The 
+platforms failure to show the price when it turned negative and preventing Mr K taking any 
+action in that period was nothing to do with Gain exercising rights under the clauses I have 
+referred to above.
+By its own admission it was unaware beforehand that the platform software didnt permit 
+trading when the price turned negative, so I dont think it can reasonably argue that what 
+happened before expiry was the result of action it took under the clauses I have referred to. 
+Those clauses may have some relevance to what it then did in adjusting client trades to 
+reflect what happened in the market. However I dont think that is relevant to my findings 
+because Mr K should never have been put in the position that such an adjustment was 
+necessary in the first place.
+I awarded redress on the basis that Gain pay the difference between the readjusted position 
+it put him in and the position he would have been in if his trade had been closed when it 
+reached zero. 
+I gave both parties the opportunity of responding and providing any further information they 
+wanted me to consider before making my final decision. 
+Mr K responded and accepted the decision. He noted that I have referred to USD rather than 
+GBP.
+Gain responded and, in summary, made the following key points:
+When the demand in oil slumped, trading in oil slowed down. This coincided with the 
+expiration of the futures contract, so there were fewer participants willing to trade.
+Because the value of the futures contract is derived from the underlying market, if 
+there are not enough participants willing to buy or sell, the number of prices goes 
+down. When the volume of prices quoted are low and there is lot of volatility, brokers 
+cannot set prices which actively reflect the market.
+The contract was not priced so if Mr K was trying to sell between 19.08 UK time and 
+19.30 UK time of 20 April 2020  and there is no evidence he was  the client could 
+not be closed out because there was no price available to close the positions.The market was greyed out on the market due to the system not being able to price 
+negatively but this wasnt the reason why clients could not trade the contracts.
+This was not an IT error but a rare market event which affected the margin 
+calculations and therefor pricing. At the time negative pricing created challenges for it 
+and the US Crude Oil contract settled at $0.01 which did not accurately reflect the 
+price of the underlying market.
+Its terms allow it to make adjustments to an account and it reviewed all trades to 
+ensure proper alignment with the underlying market.
+A feature of volatile markets is gapping where there is a significant change to price 
+between consecutive quotes. And in this case the market gapped to a price of -
+$37.64.
+It could have closed out all clients at this price but as a gesture of goodwill simulated 
+the close out as if the market had not gapped and the clients close out level had 
+reached 50%.
+Mr K was closed out at -$13.96 rather than the market price of - £37.64 which was far 
+more favourable.
+Whilst this was a rare market event the condition and outcomes for trades is very 
+familiar as price adjustments in periods of high volatility are common as is gapping. 
+Trading a futures contract close to expiry in an attempt to capitalise on extreme 
+volatility comes with a very high level of risk and in this case it didnt go Mr Ks way.
+Mr K entered his position looking to speculate on the price WTI Oil was trading at and 
+if the price had gone the other way and the system had limited the price from going 
+above a certain level.
+The notice from CME Group was sent to clearing members of CME and it wasnt one 
+and did not receive or see the notice before 20 April 2020 according to its Head of 
+Trading.
+In any event the notice states that recent market events have raised the possibility 
+that certain NYMEX energy futures contracts could trade at negative, or zero trade 
+prices be settled at negative or zero values.
+There are a few reasons why it would not have been feasible to implement a 
+contingency plan for negative pricing between 15 April and 20 April 2020 for example 
+it would take a month of development and testing to change the logic to calculate 
+margin for zero or negative pricing.
+It did take risk mitigation measures after the event, in that it decided to refuse orders 
+when the price falls below $5 and close out positions at zero.
+Mr K provided some further which I have considered. He repeated what he said previously 
+about not being able to set buy/sell orders or a stop loss below zero which made him think 
+this was the floor of the trade and the point at which he would be closed out. He made some 
+comments on what Gain has said which I have not set out as they provide no new 
+information or evidence which I need to comment on.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+I have taken account of the various points raised by Gain in response to my provisional 
+decision. Having done so I am not persuaded that I should change the findings in my 
+provisional decision.
+I acknowledge the point Gain has made, about low volumes of prices and high volatility and 
+that this means brokers are unable to set prices that accurately reflect the market and that 
+Mr K couldnt have closed his position once the price turned negative because there was no price available.
+However, I have not upheld this complaint on the basis Mr K was prevented from closing his 
+position once the price turned negative. I have upheld it on the basis that Gain provides an 
+execution only trading service that is not available to clients when prices are negative but 
+didnt inform clients of this limitation in its service or put in place a process to deal with it 
+before 20 April 2020.
+I accept it may not have been aware of this limitation before 20 April 2020 but this was its 
+system and I think it reasonable to have expected it be aware of and be responsible for 
+limitations in its service that could affect clients. The fact that negative pricing was very 
+unlikely doesnt mean it wasnt possible such that Gain should not have made clients aware 
+its system would not operate with negative prices and put in place a process to deal with this 
+at the outset. 
+Even if I am wrong and that Gain couldnt reasonably have been expected to put in place a 
+process to deal with the limitation in its service from the outset I think it is reasonable to find 
+it was aware or should have been aware that negative prices were a possibility shortly 
+before 20 April 2020 as I think there were indications this could happen  as referred to in 
+my provisional decision. So, I think it should have put in place a process to deal with this 
+before 20 April 2020 in any event.
+I have noted what Gain has said about not being a clearing member of CME Group and as 
+such not receiving the notice sent to members on 15 April 2020. However, I referred to what 
+the CME Group sent out because I thought it and other information, such as the article from 
+Bloomberg referred to in my provisional decision - which Gain has not made reference to - 
+showed there was some general awareness of the possibility of negative prices before 20 
+April 2020. 
+I have noted that Gain has said it didnt get the notice, it has not said that it was unaware of 
+what had been happening regarding crude oil and the possibility of negative prices before 20 
+April 2020.
+Gain has sought to argue that it would have taken some time to implement a contingency 
+plan for negative prices and referred to a period of around a month to do this. At the same 
+time it has also pointed to the risk mitigation steps it took after the 20 April 2020  which 
+steps it took within a matter of days. 
+I can see no reason it could not have put these in place before 20 April 2020. If it had done 
+so Mr Ks position would have been closed at zero. I acknowledge that he would not 
+necessarily have gotten this price but I think it is fair and reasonable to use this price when 
+calculating redress.
+Putting things right
+I think Gain should put Mr K in the position he would have been in if his trade had been 
+closed at zero. So, it should compare the readjusted figure it calculated for Mr K with the 
+position he would have been if his trade had been closed at zero and pay the difference 
+together with simple interest at 8% each year on the figure it calculates is payable. 
+I also think that Mr K has been caused distress and inconvenience because of what 
+happened. He spent a long time on the phone trying to find out what had happened as well 
+as trying to resolve matters through an online chat facility and was clearly frustrated by the 
+time it took and the lack of clarity as to what was happening. I think an award of £300 for this 
+is fair and reasonable.My final decision
+I uphold this complaint for the reasons I have explained. Gain Capital UK Limited must 
+calculate and pay redress as set out above. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr K to accept or 
+reject my decision before 3 August 2022.
+ 
+Philip Gibbons
+Ombudsman

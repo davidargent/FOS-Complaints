@@ -1,0 +1,76 @@
+K820x#14Complaint
+Mr Z complains Wirex Limited failed  to prevent payments out of digital wallets  he holds on its 
+platform. He asks Wirex to refund the money he lost.
+Background
+The background to Mr Zs complaint is well known to both parties.  But to summarise:
+-Mr Z is a customer of Wirex. He holds digital wallets for pounds  sterling  (a fiat wallet) 
+and a wallet for bitcoin, a cryptocurrency.
+-On 9 December  2018, a payment was made  from the fiat wallet to exchange pounds  
+to bitcoin, which was then held in the bitcoin wallet. Shortly  afterwards, two bitcoin 
+payments were made  to an external wallet held by an unknown  party.  The payments 
+used up all of the bitcoin in the wallet.
+-Mr Z says he didnt  make the transfer or payments, and he mustve been hacked.  
+Hed received emails shortly before the payments were  made.  One was from Wirex, 
+stating there was an attempt to access  his account from an operating system Mr Z 
+says he doesnt  use. And another was from his email account provider informing him 
+a new device had accessed his email  account. The device  also used the same  
+operating system.  
+-Wirex  found Mr Z liable for the payments. It says the device used to make the 
+payments is one Mr Z used regularly.  Payment emails for each  payment  were also 
+sent to Mr Zs genuine email address. To confirm  the payments, the emails needed 
+to be opened  and responded to. Wirex  received  confirmation. Given  the amount of 
+information and access needed  to make  the payments, Mr Z likely  made  them.
+-Mr Z disagreed. He says, as a matter of good  industry practice, Wirex ought to have 
+restricted his account for at least 24 hours  when it knew there was an attempt to 
+access his account from a new device. If Wirex  had blocked  his account  Mr Z 
+wouldve seen the payment attempts,  and his loss wouldve  been  prevented.
+An investigator considered Mr Zs complaint and didnt uphold it. They found:
+-The payments  on the Wirex account were made using a device Mr Z used  before.  
+And the change to Mr Zs Wirex  password was also made from a device used by Mr 
+Z before.
+-A third party wouldve needed access to Mr Zs devices. But the device used to make 
+the payments  was secured by facial ID and a password.  A third party wouldve also 
+needed to know  Mr Zs Wirex and email  accounts usernames and passwords, but Mr 
+Z had never given  his details to anyone or written them  down. So, without there  being  
+a clear point of compromise,  its most  likely Mr Z made the payments.
+Mr Z disagreed with the outcome  the investigator reached and asked for a final decision from 
+an ombudsman. So, the complaint has been passed  to me to decide.  
+Ref: DRN65512262Mr Z highlighted he thinks Wirex  didnt have sufficient security in place  to prevent him from 
+falling victim to fraud. He says he was the victim of a hacker  who was able to access  his 
+accounts and make the payments.
+My findings
+Ive considered all the available  evidence  and arguments to decide  whats  fair and 
+reasonable in the circumstances of this complaint.  Having done so, Ive decided to not 
+uphold Mr Zs complaint for similar reasons given by the investigator.  Ill explain why:
+-Wirexs records  show the device used to make the payments was the same one Mr Z 
+used to access his accounts on numerous occasions in the past.  The identifier for Mr 
+Zs device  is unique   and Im satisfied this is reliable evidence.
+-To make the payments, a third party wouldve needed access  to Mr Zs device and 
+security information. They needed to bypass  his device security  and have known  his 
+username and password  for both his email and Wirex accounts. Mr Z suggests  this is 
+all possible  for a hacker. And it may be possible, but Ive not seen sufficient evidence 
+to demonstrate this most likely explains  what  happened.
+-Instead, given  the extent  of compromise needed  to access  both Mr Zs device, Wirex 
+account and email account,  its more likely  he made  the payments or allowed  
+someone else to. Wirexs records indicate  the same device continued  to be used 
+after the 9 December 2018, which lends  weight to the payer being Mr Z.
+-Mr Z says the device he received an email about was not previously registered on his 
+Wirex account. But this wasnt the device used to make the payments,  so I dont find 
+this shows Mr Z didnt  instruct Wirex  to make the payments on the device he owned.
+-Ive seen no evidence  to suggest a failure with Wirexs security protocols or 
+technology at the time the payments were  made.  Mr Z says Wirex ought to have 
+restricted his account after another device attempted  to access  his Wirex account. 
+But the evidence  points to Mr Z making the payments, so I dont find Wirex  were  at 
+fault by processing  the payments.
+-Ive considered Mr Zs point that any device can access a Wirex account if the 
+username and password  is known. He also says IP addresses might show a device 
+being used from a location he doesnt  frequent. But this doesnt explain why his 
+specific device was logged by Wirex as making  the payments. And IP addresses can 
+be masked to give unreliable location data.
+My final decision
+For the reasons  Ive given above,  Ive decided not to uphold  Mr Zs complaint.
+Under the rules  of the Financial Ombudsman Service,  Im required to ask Mr Z to accept or 
+reject my decision  before 19 March  2021.
+Ref: DRN65512263Liam King
+ombudsman
+Ref: DRN6551226

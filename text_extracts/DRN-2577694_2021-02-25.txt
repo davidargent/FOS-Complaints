@@ -1,0 +1,73 @@
+DRN-2577694
+The complaint
+Mr M complains that transactions placed with Barclays Bank UK PLC (Barclays) did not 
+execute as he thought they should and has suffered a financial loss. Mr M is looking for 
+Barclays to refund him £3,600 which he says he has lost.
+What happened
+Mr M held an execution only account with Barclays which contained a stock which I will call 
+Company A. On 20 July 2020, Mr M placed an order to sell 10,000 shares in Company A 
+with two conditions attached  a stop value of 225p and a stop limit of 224.99p.
+Mr M says that the price moved below 225p, but the stop loss order did not trigger and he 
+called Barclays. During this call, the price rose and Mr M set up another stop loss order for 
+218p. Mr M says that the price dropped to 200p and the stop loss did not trigger.
+Mr M says that he tried to sell at this point but wasnt successful so placed another stop loss 
+order for 180p. The sale went through at 180p. Mr M says that the sale should have 
+triggered at his original stop loss price of 225p.
+Mr M complained to Barclays but they did not think that they had done anything wrong and 
+the system had worked as designed. Barclays did not uphold Mr Ms complaint.
+Unhappy with Barclays decision, Mr M referred his complaint to the service and one of our 
+investigators reviewed his complaint. The investigator didnt think that Barclays had made 
+any error and didnt uphold the complaint.
+Unhappy with the investigators view, Mr M has asked for an ombudsman to look at his 
+complaint.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Im sorry to disappoint Mr M but I agree with the outcome reached by the investigator and 
+wont be upholding the complaint. I will explain why I have reached this decision.
+Mr M was using a stop order when he was selling his shares. A stop order is described by 
+Barclays as:
+This is an Order you may give us to buy or sell a Security when the price of that Security has 
+been reached or passed. Stop Orders will only be Executed by us when the conditions set 
+by you related to your Order have been met. This means that at the point a price equal to 
+your Stop Price has been reached or passed for the Security specified, the Stop Order will 
+be Executed by us as an At Best Order. If the Stop Price is not communicated to us by the 
+relevant market or exchange in the period specified in the Order, the Order will lapse.
+A stop order will generally be used to provide some protection if the price of a stock moves 
+and the client wishes to buy or sell at a particular price.
+Barclays have said in their submission that the market conditions of the first order meant that 
+the order did not trigger. They said the price that Mr M had input was not held for the time 
+which would have allowed them to execute the instruction. The price of 224.99 was achieved 
+but for one second. This would not have been enough time to execute the deal.
+Barclays have said that the second order did trigger but did not execute. They said that 
+when they attempted to trade, they could not find a market counterparty who was willing to 
+execute the trade.
+I have looked at the terms and conditions for the service. They say:
+Normally any Order placed will be Executed at the time of receipt or fulfilment of conditions 
+subject to market, exchange or Order conditions. Not all Orders will be Executed. An Order 
+is monitored by us and presented for Execution when its conditions are met unless it expires, 
+is cancelled or rejected or not accepted by a Counterparty. 
+We will maintain our record of the date and time that you place an Instruction and all relevant 
+price movements between when the Order is placed and when it is dealt, rejected, cancelled 
+or expires. These records will be conclusive when determining whether an Order should be 
+dealt, if challenged. Demand for the service and market conditions may fluctuate. We do not 
+accept any responsibility for any actual or potential financial loss or expense you incur if for 
+any reason (other than our negligence) there is a delay or change in market conditions 
+before Execution of your Order. 
+Although I sympathise with Mr M that his stop order limits were met, the first limit price was 
+not available for the length of time which would have allowed Barclays to send the order to 
+the market for execution. The second limit was met but Barclays could not reach a market 
+counterparty to execute the instruction.
+Both events are covered by Barclays terms and conditions and although Mr M would have 
+seen his price limits met, I cant say that Barclays have acted unfairly.
+In his submission to the service, Mr M has said that he had another instance where his stop 
+loss was not triggered on an instruction, but Barclays refunded him. Mr M feels that its 
+because of the value of this complaint that they are not refunding him. Im sorry to disappoint 
+Mr M Im only able to look at the evidence presented on this complaint and its own merits.
+My final decision
+For the reasons set out above, I do not uphold the complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr M to accept or 
+reject my decision before 25 March 2021.
+ 
+Brian Gray
+Ombudsman

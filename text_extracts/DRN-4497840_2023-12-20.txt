@@ -1,0 +1,164 @@
+DRN-4497840
+Complaint
+Miss A is unhappy that Monzo Bank Ltd didnt reimburse her after she fell victim to a scam.
+Background
+In mid-2023, Miss A was contacted on social media by someone promoting an investment 
+opportunity. In order to persuade her that the opportunity was a genuine one, this individual 
+showed Miss A examples of the extraordinary returns that had been earned by other clients. 
+Unfortunately, this wasnt a legitimate investment opportunity but a scam.
+She was told to open up an account with a third-party cryptocurrency platform. She made 
+deposits into her e-wallet with that platform. Those deposits were then converted into 
+cryptocurrency which she transferred to the scammer. In a period of five days, she 
+transferred £6,200 to that account. This was split into four payments of £300, £1100, £1800 
+and £3000 respectively.
+When she wanted to withdraw the returns on her investment, she was told that there were 
+fees that would need to be paid. Each time Miss A made one of these payments, the 
+scammer would then introduce another (previously undiscussed) fee that needed to be paid. 
+She recognised at that point that she mustve fallen victim to a scam.
+She notified Monzo, but it didnt agree to uphold her complaint. It made reference to the 
+warning message displayed during the payment process and also argued that Miss A hadnt 
+carried out enough checks or taken reasonable steps to protect herself.
+Miss A was unhappy with the response from Monzo and so she referred her complaint to this 
+service. It was looked at by an Investigator who upheld it in part. The Investigator said that, 
+by the time Miss A attempted to make the final payment of £3,000, Monzo ought to have 
+recognised that there was a greater than normal risk of fraud. It shouldnt have processed 
+that payment without first contacting Miss A to satisfy itself that she wasnt at risk of financial 
+harm. If it had done so, she was persuaded that it couldve prevented her from making the 
+payment.
+Monzo disagreed with the Investigators view. 
+It said:
+- Payments such as these fall outside the scope of the Contingent Reimbursement 
+Model Code because Miss A made payments from her Monzo account to another 
+account that she controlled. 
+- Its speculative to say that Miss A wouldve acted any differently even if Monzo had 
+intervened, particularly given that she was persuaded by the legitimacy of the 
+investment.
+- It didnt agree that the payments were in quick succession. It might have accepted 
+that argument if theyd been punctuated by minutes, but there were days between 
+the payments here.
+- Where a customer is investing money in cryptocurrency, one would expect those 
+payments to be larger than the typical payments from their account.
+- The Investigators view is contrary to the approach outlined by the Supreme Court in 
+the case of Phillip v Barclays.
+- Finally, it made reference to the forthcoming changes regarding reimbursement 
+following a scam that have been proposed by the Payment Systems Regulator.
+Because Monzo disagreed with the Investigators view, the complaint has been passed to 
+me to consider and come to a final decision.
+Findings
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+In broad terms, the starting position at law is that a firm is expected to process payments 
+and withdrawals that a customer authorises, in accordance with the Payment Services 
+Regulations and the terms and conditions of the customers account. However, that isnt the 
+end of the story. Good industry practice required that Monzo be on the lookout for payments 
+that were out of character or unusual to the extent that they might have indicated a fraud 
+risk. On spotting such a payment, Id expect it to intervene in a manner proportionate to the 
+risk identified.
+Should Monzo have intervened?
+The Investigator said that it shouldve recognised that risk when Miss A made the fourth 
+payment and Id agree with that conclusion. By processing that payment, it meant Miss A 
+had moved £6,200 to a cryptocurrency platform in a period of less than one week. While I 
+accept that, where a customer is legitimately investing their money in cryptocurrency, one 
+might expect larger than normal payments, that doesnt change the fact that this was activity 
+that was significantly out of keeping with the way Miss A operated her account and was 
+consistent with a recognised fraud pattern.
+This was a relatively new account and so there wasnt much data on Miss As typical 
+spending patterns to serve as a basis of comparison. Nonetheless, the payment of £3,000 
+was significantly more than any other payment on her account and the way that the four 
+payments were clustered in a period of five days meant it matched a pattern of payments 
+commonly associated with scams.
+I have taken into account the Supreme Courts decision in Philipp v Barclays Bank UK PLC 
+[2023] UKSC 25. In that case, the Supreme Court considered the nature and extent of the 
+contractual duties owed by banks when making payments.  Among other things, it said, in 
+summary:
+- The starting position is that it is an implied term of any current account contract that, 
+where a customer has authorised and instructed a bank to make a payment, the 
+bank must carry out the instruction promptly. It is not for the bank to concern itself 
+with the wisdom or risk of its customers payment decisions. 
+- The express terms of the current account contract may modify or alter that position. 
+For example, in Philipp, the contract permitted Barclays not to follow its consumers 
+instructions where it reasonably believed the payment instruction was the result of APP fraud; but the court said having the right to decline to carry out an instruction 
+was not the same as being under a duty to do so.   
+In this case, Monzos terms and conditions gave it rights to:
+- Block payments where it suspectd criminal activity on the account, or to protect the 
+customer from fraud.
+- Refuse to make a payment if it suspects the customer is a victim of fraud.
+So the starting position at law was that:
+- Monzo was under an implied duty at law to make payments promptly.
+- It had a contractual right not to make payments where it suspected fraud.
+- It had a contractual right to delay payments to make enquiries where it suspected 
+fraud.
+- It could therefore refuse payments, or make enquiries, where it suspected fraud, but 
+it was not under a contractual duty to do either of those things.
+Whilst the current account terms did not oblige Monzo to make fraud checks, I do not 
+consider any of these things (including the implied basic legal duty to make payments 
+promptly) precluded it from making fraud checks before making a payment.  
+And whilst Monzo was not required or obliged under the contract to make checks, I am 
+satisfied that, taking into account longstanding regulatory expectations and requirements,  
+and what I consider to have been good practice at the time, it should fairly and reasonably 
+have been on the look-out for the possibility of APP fraud and have taken additional steps, or 
+made additional checks, before processing payments in some circumstances  as in practice 
+all banks, including Monzo, do. 
+In this case for the reasons I have explained, I am satisfied it should have intervened here at 
+the point Miss A was attempting to make the £3,000 payment. 
+Would an intervention have made a difference?
+As Ive explained, I dont think it shouldve agreed to make that final payment without first 
+contacting Miss A to ask her about it. In particular, it couldve asked her about whether she 
+had control of the cryptocurrency she was purchasing, whether there was someone 
+managing the investment on her behalf, the returns she was promised and how she found 
+out about the opportunity. Theres no reason to believe that Miss A wouldnt have been 
+candid in answering these questions and those answers wouldve revealed that she was 
+falling victim to a commonly occurring scam.
+Monzo has argued that this is speculation and that its unreasonable to conclude that shed 
+have been dissuaded from making that finally payment. The truth is that its impossible to 
+know with certainty what Miss A wouldve done if Monzo had responded differently. 
+Nonetheless, I have to decide this case on the balance of probabilities  i.e., whether it is 
+more likely than not that Miss A wouldve changed course.
+I think there are two important factors here. First, her explanation of events doesnt indicate 
+that she was told to mislead the bank if questioned about the payments. Theres no other 
+evidence that contradicts that claim, nor is it inherently implausible. Second, relatively little 
+information would need to be exchanged between Monzo and Miss A for an employee of the 
+bank to recognise that it was extremely likely shed been targeted by a scammer. Overall, I 
+dont find it unreasonable to conclude that an intervention on Monzos part wouldve 
+dissuaded her from making the final payment  instead, I think the weight of the evidence supports such a conclusion.
+Can Monzo be fairly held liable for Miss As loss?
+Ive also taken into account that Miss A transferred the money to an account in her own 
+name, rather than directly to the fraudster, so she remained in control of her money after she 
+made the payments from her Monzo account, and it took further steps before the money was 
+lost to the fraudsters. But for the reasons I have set out above, I am satisfied that it would be 
+fair to hold Monzo responsible for Miss As losses (subject to a deduction for Miss As own 
+contribution). As I have explained, the potential for multi-stage scams ought to have been 
+well known to Monzo and as a matter of good practice it should fairly and reasonably have 
+been on the look-out for payments presenting an additional scam risk including those 
+involving multi-stage scams. 
+Im satisfied Monzo should fairly and reasonably have made further enquiries before the 
+£3,000 payment and, if it had, it is more likely than not that the scam would have been 
+exposed. In those circumstances I am satisfied it is fair to hold Monzo responsible for Miss 
+As loss.      
+To what extent is Miss A responsible for her own losses?
+Ive also considered whether Miss A can be considered partially responsible for her own 
+losses here. In doing so, Ive taken into account what the law says about contributory 
+negligence, but kept in mind that I must decide this case based on what I consider to be fair 
+and reasonable in all the circumstances. Having done so, Im persuaded that it is fair and 
+reasonable for her to be considered partially responsible here. 
+The returns she was promised by the scammer were clearly too good to be true  she was 
+told that an investment of £300 would produce a return of £20,000 in a matter of days. I also 
+think she ought to have been more sceptical of an investment opportunity that was promoted 
+to her on social media, particularly given that she was contacted out of the blue by the 
+scammer. For these reasons, I think Monzo should be free to deduct 50% from the 
+compensation it pays her.
+Other issues
+I have also considered Monzos observation about the PSRs proposed mandatory 
+reimbursement scheme, which  as currently proposed  would not require that it reimburse 
+Miss A. However, those proposals are not yet in force and are not relevant to my decision 
+about what is fair and reasonable in this complaint.  
+Final decision
+For the reasons Ive explained above, I uphold this complaint in part.
+If Miss A accepts my decision, Monzo Bank Ltd needs to pay her £1,500. It also needs to 
+add 8% simple interest per annum to that sum calculated to run from 18 August 2023 until 
+the date any settlement is paid.
+Under the rules of the Financial Ombudsman Service, Im required to ask Miss A to accept 
+or reject my decision before 17 January 2024.
+ 
+James Kimmitt
+Ombudsman

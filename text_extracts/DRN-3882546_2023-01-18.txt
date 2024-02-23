@@ -1,0 +1,87 @@
+DRN-3882546
+The complaint
+B, a limited company, complains Barclays Bank Plc treated it unfairly in relation to its 
+merchant services agreement.
+B is represented, but for ease Ill refer to the actions of Bs director and representatives 
+collectively as Bs actions. 
+What happened
+In January 2020 Barclays contacted B to say there had been an alert from Visa about a 
+security issue  the concern was that card details entered on Bs website were later being 
+used for fraudulent transactions. Barclays explained there was a need for urgent action, 
+including the need to engage a Payment Card Industry (PCI) Forensic Investigator (PFI). 
+A PFI wasnt engaged, and B started using a different merchant services provider. Barclays 
+then, around mid-2020, told B it needed to pay a penalty from Visa of about €67,000 and the 
+agreement between them would be terminated. Barclays withheld the money B held with it 
+(about £23,000) and asked B to arrange to pay it the rest.
+B considers Barclays has treated it unfairly. It says, in summary, that:
+B didnt take action initially because it was suspicious about the emails Barclays sent 
+it;
+Barclays hasnt shown B did anything wrong;
+Barclays should have notified B there was a problem much sooner;
+Barclays shouldnt have withheld its money; and
+B is a small business, and this matter could affect its viability.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+B entered into a merchant services agreement with Barclays in 2018. Barclays has shown 
+the agreement between the parties included the following provision:
+If we or any affiliate are passed any fees (including registration fees if they apply), fines, 
+costs, claims or liabilities by any regulatory body (including a scheme) arising out of our 
+relationship with you or as a result of you breaking this agreement, we will request that
+you, and you will have to, pay them and refund us the amount due when we request.
+It has also shown guidance about the importance of Payment Card Industry Security 
+Standard (PCI DSS) requirements. The following guidance was included:
+What could happen if you are not PCI DSS complaint?
+If customer cardholder data, which you or your third parties have handles is proven to have
+been compromised, stolen, or used fraudulently your business is liable to substantial
+associated costs e.g. (but not limited to) forensic investigations, Card Scheme compromise
+fines, issuer losses, and reputational damage.
+Additionally, the Card Schemes may decide to levy further fines for non-compliance and
+storage of sensitive authentication data. Barclaycard may also impose non-compliance
+charges on merchants that are not PCI DSS compliant.
+Provisions and information such as the above are common in merchant services agreements 
+and I find them clear, fair and not misleading. Im therefore satisfied Barclays did enough to 
+make B aware of the risks involved in accepting payments from cardholders.
+Barclays contacted B in January 2020. This was because of an alert from Visa, which it 
+received the day before it contacted B. Until Barclays received this alert, it didnt know there 
+was an issue. So Im not persuaded Barclays could have notified B sooner. 
+B says it thought Barclays emails were suspicious. I dont find thats the case. The initial 
+email specifically addressed how it could be perceived as such and set out verification 
+advice. Nor did B respond to the emails in a way which would demonstrate suspicion. I note 
+it wasnt long before B was communicating with Barclays, so its alleged suspicions were 
+short lived. And I can see Barclays offered to arrange calls and did send a headed letter. It 
+follows Im not persuaded Barclays communication methods had a material bearing on this 
+matter.
+Having reviewed the email correspondence between the parties I find Barclays was 
+proactive, responsive and helpful. It made clear what was needed, followed things up and 
+made B aware of the importance of acting. For example, in February 2020 Barclays 
+explained the penalty from Visa would likely be about €63,000 and that this could possibly 
+be reduced if a PFI was engaged.
+B says Barclays hasnt shown it did anything wrong. I havent seen anything to suggest 
+Barclays has said it has. Barclays was made aware by Visa of a security concern  that card 
+details used on Bs website had likely been compromised. This required an investigation, 
+which is why B was told it needed to engage a PFI. By not doing this, Barclays didnt have 
+legitimate reasons to challenge Visa. And while I accept B questions whether the security 
+concern was justified, it was Visa which demanded action and Im satisfied Barclays did what 
+it reasonably could to show B, through data, why Visa had concerns.
+B is understandably worried about having to pay such a large penalty. However, Visa 
+charged the penalty to Barclays because of a security concern on Bs website and because, 
+it seems, there wasnt enough done to show either there wasnt a security issue, or the 
+impact of the security issue had been mitigated. I cant fairly conclude Barclays is 
+responsible for the penalty being as large as it is given it didnt calculate it, and it did what it 
+reasonably could to encourage B to take steps to address the matter, and B didnt take 
+them. 
+As set out in the information Ive referenced above, Barclays can pass on costs such as 
+Visas penalty to B. That, combined with the specific circumstances as set out above, means 
+Im satisfied it was fair and reasonable for Barclays to ask B to pay it back. And I find it was 
+fair and reasonable for Barclays to withhold the money B held with it in part payment. 
+I sympathise with the situation B finds itself in. But its financial position isnt a relevant 
+consideration. What I must decide is whether Barclays has treated it fair and reasonably. 
+And for the reasons set out above, I find it has.
+ My final decision
+I dont uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask B to accept or 
+reject my decision before 15 February 2023.
+ 
+James Langford
+Ombudsman

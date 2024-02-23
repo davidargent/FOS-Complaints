@@ -1,0 +1,104 @@
+DRN-4091009
+The complaint
+A company, which I will refer to as P, complains that Elavon Financial Services Designated 
+Activity Company trading as Elavon Merchant Services failed to transfer payments made by 
+one of Ps customers to its business account.
+Mr K, who is a director of P, complains on its behalf.
+What happened
+Mr K told us:
+In early July 2022 a customer visited Ps premises and explained that he would like 
+to make several large purchases from P. However, the customer said that his card 
+had an issue and so he must pay with forced sales. 
+He asked advice from his accountant, and was told that he could accept payment in 
+that way. His accountant recommended that he check the customers ID, which he 
+did.
+For several weeks, up until the middle of August 2022, P made sales to the 
+customer. The customer would give his order, P would buy the goods from its 
+wholesale supplier, and then the customer would visit Ps premises to make payment 
+using his debit card. The customer would provide an authorisation code, and all the 
+transactions were verified by PIN.
+He then noticed that Elavon wasnt transferring the payments from this customer to 
+Ps business account. 
+Elavon later told him about chargebacks on 36 transactions. Elavon charged around 
+£900 for processing the chargebacks, but the main problem for P was the 
+chargebacks themselves  which were for more than £30,000.
+He does not believe the chargebacks are valid. He has since been in touch with the 
+company that supplied the card terminal machine (which was an Independent Sales 
+Organisation, or ISO), and that company explained that chip and pin sales cannot be 
+processed as chargebacks.
+Elavon has referred him to its terms of service (TOS), specifically the section headed 
+Transactions. However, he says that he had never previously received these TOS 
+from Elavon. In any event, he believes that if there was a problem with the card, 
+Elavon should have said so straightaway  it should not have waited for around 45 
+days after the first transaction.
+Elavon subsequently terminated Ps contract, without even fully considering all the 
+documents he sent.
+Overall, this issue should not be Ps problem. P supplied the products to its 
+customer, and this issue should be between Ps customer and their bank.
+Elavon told us:
+During July and August 2022 P accepted 36 transactions on the same card number, 
+with transaction amounts ranging from £10 to £1,800. The issuing bank later raised 
+chargebacks against all these transactions, on the grounds that no valid authorisation 
+code was obtained at the time.
+Mr K has since confirmed that all the transactions were forced sales. This means P 
+cannot defend the chargebacks.
+Ps account was opened via an ISO which does not include Elavons TOS in the 
+bundle that it sends to its customers. However, the ISO does inform its customers 
+about important points during the sale, and says that Elavons TOS are available 
+online to view. In addition, when Ps director signed the application form for Ps 
+Elavon account, he agreed that the TOS formed part of the agreement between P 
+and Elavon. 
+One of our investigators looked at this complaint, but did not uphold it. She agreed with 
+Elavon that P could not possibly have a valid defence to the chargebacks, so she didnt think 
+Elavon had done anything wrong.
+Mr K did not accept our investigators findings, and asked for the matter to be referred to an 
+ombudsman.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+I want to start by making clear that I can only consider Ps complaint that Elavon should not 
+have processed the chargebacks. I cannot comment on any dispute P might have with its 
+own customer, and I cannot comment on whether any legal claim P might have against its 
+own customer would be successful. My role is limited to deciding whether, in the context of 
+these chargeback claims, Elavon has treated P fairly and reasonably.
+The chargeback process was run by the card scheme, and operated according to the card 
+schemes rules. Elavon did not operate the scheme, and was not responsible for deciding 
+whether the chargebacks should be successful  but it was responsible for deciding whether 
+or not to attempt to defend the chargebacks.
+In these circumstances, I am satisfied that Elavon is right to say that it could not defend the 
+chargebacks. All of the transactions were forced sales (also called offline sales), which allow 
+a merchant to accept a payment even when the card terminal isnt connected to the internet, 
+and even when it is not possible for a PIN to be checked or validated. The merchant will be 
+prompted to enter an authorisation code, which should be obtained by the merchant (and not 
+the customer) by calling the relevant Authorisation Centre. If the merchant does not obtain 
+an authorisation code, then any subsequent chargeback cannot be defended.
+In this case, Mr K has said the authorisation codes were provided by Ps customer. But 
+Authorisation Centres only provide codes to merchants, not to customers, and the codes the 
+customer had were not valid. That would not have been apparent immediately, because the 
+codes are only checked at a later stage.Mr K may not have seen Elavons Terms of Service before making this complaint, but that 
+doesnt change whether the chargebacks can be defended under the card scheme rules. I 
+think the TOS, which formed part of Ps agreement with Elavon, did make clear that it was 
+for the merchant rather than the customer to obtain an authorisation code. I am also satisfied 
+that Elavon did do enough to bring the TOS to Ps attention. 
+ 
+Similarly, whilst it is unfortunate that P was not informed about the chargebacks earlier, 
+Elavon is still unable to defend those chargebacks.
+I am aware Mr K believes that chip and pin sales cannot be processed as chargebacks but, 
+for clarity, that is not the case. He has also said his accountant told him P could process 
+payments in the way it did, and that the ISO told him Elavon was wrong not to defend the 
+chargebacks. He may have been misinformed by a third party, but Ive seen nothing to 
+suggest that he was given any incorrect or misleading information by Elavon or by anyone 
+acting as an agent of Elavon.
+It appears P may have been a victim of fraud. I have every sympathy for Mr K and P, but I 
+cannot say that Elavon has done anything wrong in processing the chargebacks.
+I understand P knows who its customer is, and that it retained evidence of his identity. P may 
+wish to consider taking legal advice to see if it is possible to recover any of its funds directly 
+from its customer. 
+My final decision
+My final decision is that I do not uphold this complaint against Elavon Financial Services 
+Designated Activity Company trading as Elavon Merchant Services.
+Under the rules of the Financial Ombudsman Service, Im required to ask P to accept or 
+reject my decision before 19 May 2023.
+ 
+Laura Colman
+Ombudsman

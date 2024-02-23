@@ -1,0 +1,164 @@
+DRN-4504262
+The complaint
+Ms N, as the director of a limited company C, complains that ClearBank Limited wont 
+refund transactions she didnt authorise.  
+C has business banking accounts with Tide. Tides bank accounts are provided by 
+ClearBank, and so ClearBank is the respondent business here. For the most part, Ive 
+referred to it for actions of both businesses. But where necessary, Ive referred to Tide 
+specifically. 
+What happened
+The full details of this complaint are well known to both parties, so I wont repeat them again 
+here. Instead, Ill recap the key points and focus on giving my reasons for my decision:
+In July 2022, while unwell with Covid-19, Ms N received a call from an individual who 
+claimed they were calling from a high street bank whom she also banks with. Ms N 
+says the caller, who we now know was a scammer, knew personal information about 
+her and had spoofed the banks genuine phone number. The scammer said that 
+multiple payments had left the account and they had sent her an email asking her to 
+install a help tool to enable them to recover the money. Ms N says the email 
+appeared to have come genuinely from the bank and she followed the instructions. 
+Ms Ns laptop screen went dark and while she thought the caller was helping her 
+safeguard the account, they used remote access software to send payments. 
+The scammer then told Ms N that all her business accounts, including those with 
+Tide, were compromised. She says she had already been logged on to her Tide 
+account just prior to receiving the call. Having had remote access already, the 
+scammer made two payments  for £6,100 and £3,900  from Cs Tide account while 
+leading Ms N to believe that they were cancelling the fraudulent payments. 
+The call ended and Ms N felt something wasnt right. She checked her accounts with 
+the high street bank and Tide and realised shed been scammed. Ms N reported the 
+matter to both businesses. She says the high street bank refunded the transactions 
+following its investigation. ClearBank considered the payments were authorised by 
+Ms N as they were completed on the Tide app on her phone. But it accepted that 
+once it had been notified of the scam, the payment for £3,900 could have been 
+recoverable from the beneficiary account had it acted sooner in attempting a recall. In 
+response to her complaint, ClearBank reimbursed Cs account with that amount 
+along with £100 compensation for the poor service provided at the time the scam 
+was reported. 
+Ms N remained unhappy that she didnt receive a full refund and referred her 
+complaint to our service. Our investigator didnt agree with ClearBank that Ms N had 
+authorised the payments. They recommended it to refund the full disputed amount, 
+less any credits or funds recovered, along with interest and pay the £100 
+compensation already offered. ClearBank said it had already paid £3,900 and £100 
+into Cs account but it disagreed to refund the remaining loss. So, the complaint was 
+passed to me to decide.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I agree with the conclusions reached by the investigator for the following 
+reasons:
+The starting point for any complaint about unauthorised transactions is the Payment 
+Services Regulations 2017 (PSRs). C isnt liable for payments it didnt authorise, 
+unless Ms N (acting on Cs behalf) failed with intent or gross negligence to comply 
+with the terms of the account or keep the account security details safe. 
+To consider a payment authorised, the PSRs explain that Ms N must have given her 
+consent to the execution of the payment transaction  and that consent must be in 
+the form, and in accordance with the procedure, agreed between C and Tide.
+To establish the agreed form and procedure for the two payment transactions, which 
+were completed via the Faster Payment service, Ive reviewed the terms and 
+conditions of Cs accounts. Briefly, they say that consent can be provided by using 
+the identified method for giving consent, typically a Make Payment button and 
+verification which could include a fingerprint scan or submission of a code. ClearBank 
+has said both payments were approved via the Tide app on Ms Ns phone.
+Ms N submits that she didnt complete the steps involved in creating a payee and 
+instructing the payment. She believes the scammer initiated the payments when they 
+had remote access to her laptop. When asked by the investigator whether she recalls 
+doing anything on her phone under the scammers instructions and whether she 
+remembers reading anything on the screen, Ms N said she couldnt recall and that it 
+all happened all very quicky. Ms N said shed been unwell with Covid-19 already and 
+she felt pressured and worried about fraud.  
+ClearBank hasnt disputed Ms Ns claim that remote access was used and that the 
+transactions were initiated on her laptop by the scammer. Looking at the audit history 
+from the day in question, I can see the account was accessed via a web browser 
+around that time. In the absence of anything to suggest otherwise, Im not persuaded 
+that Ms N completed all the steps in the form, and in accordance with the procedure, 
+required to consent to making the payment. It seems more likely that the scammer 
+initiated the transactions on Ms Ns laptop through remote access and then tricked 
+her into verifying them on the Tide app on her phone. 
+At the time, Ms N thought the scammer was helping her cancel the transactions. 
+I dont think she could reasonably be described as having given someone else 
+permission to go through the form and procedure to make the payments on her 
+behalf either. From what shes told us about what she can recall from the time, Im 
+persuaded that she likely completed verification believing that it was part of 
+cancelling the transactions, not for payments to be sent to third parties. So, under the 
+PSRs, each payment transaction is considered unauthorised.
+Given this, ClearBank would be required to refund the transactions unless Ms N 
+acted fraudulently (which theres been no suggestion of) or failed to comply with the terms of the account with intent or gross negligence. Im satisfied there was no intent 
+on Ms Ns part here, so the question is whether she failed to comply with the terms of 
+the account with gross negligence  something which, if proven, would mean C 
+wouldnt be entitled to a refund under the PSRs.
+ClearBank says it appreciates the circumstances here, but the clear and concise 
+nature of the warnings plus the fact that Ms N is a long-standing payment service 
+user means she ought to have known that initiating a payment doesnt imply funds 
+are being returned. 
+When the scammer called, Ms N said they knew several pieces of personal 
+information about her  and how her accounts had been compromised and someone 
+was making fraudulent payments. Ms N says the email that appeared to come from 
+her bank looked genuine. Given their familiarity with her information and the fact that 
+the call appeared to have come from a genuine number for the bank, I can see why 
+Ms N trusted she was genuinely speaking to her bank and why she became 
+concerned she was a victim of fraud. I think lots of people would have done the same 
+in these deceptive circumstances.
+ 
+I can see that the investigator questioned Ms N why she believed the caller, who 
+claimed to work for a different business, would have knowledge that the Tide account 
+was also under threat. Ms Ns explained she had been panicking at the time given a 
+large sum of money had left the account with the other business. She says that point 
+didnt register at the time. I accept that Ms N might not have acted perfectly 
+reasonably  its possible to criticise her actions with the benefit of hindsight. But 
+given that the scam was designed to engineer its victims in acting hastily, and that is 
+what seems to have happened here, I dont consider Ms N acted with very significant 
+carelessness to conclude that she failed with gross negligence. I think lots of people 
+would have acted in the same way as Ms N did. 
+Ive also thought about the warnings that ClearBank has referred to. It has provided a 
+sample of a warning it says would have been displayed at the time the transactions 
+were initiated. It relates to a Confirmation of Payee (CoP) check. ClearBank has also 
+provided an example of the OTP it says it would have sent to Ms Ns phone at the 
+time. Ive carefully reviewed the technical audit history, and, unlike previous 
+transactions not in dispute, I cant see that an OTP or a CoP check happened at the 
+time of the relevant transactions. The technical data does show that the transactions 
+were approved through the app  which is in line with what ClearBank has said. Our 
+services understanding of that process is that the customer receives a notification on 
+their device to approve a transaction in the app. They then access the approvals 
+screen on the app to complete the payment journey. 
+Ms N doesnt recall approving any transactions, but looking at the evidence, I think 
+its more likely than not she was tricked into approving the transactions under the 
+guise of cancelling or reversing the payments. I accept that the screen refers to 
+approving payments. But I can appreciate how, in the heat of the moment, talking 
+with someone she trusted, Ms N found it plausible that shed need to do this for the 
+payment to be returned. I acknowledge ClearBanks point that Ms N had used these 
+steps before, so should have known it was for making payments rather than 
+cancelling or receiving them. But, like most people, Ms N wasnt an expert in fraud  
+so I can see why it wasnt obvious to her that these steps couldnt also be used for 
+other purposes.It follows that, in line with the PSRs, I dont consider C can be fairly held liable for the 
+unauthorised payments and ClearBank needs to put things right. It has already 
+refunded the smaller transaction for another reason. It now needs to refund the larger 
+transaction, along with interest to compensate C for being without the funds all this 
+time. I note that ClearBank has included the £100 compensation in the financial loss 
+that it says remains outstanding. But as it has acknowledged itself, that amount was 
+paid to recognise its service failures, i.e., a non-financial loss. That amount therefore 
+doesnt form part of the financial loss C is claiming and so ClearBank needs to refund 
+the transaction amount of the payment that is yet to be refunded, i.e., £6,100. If it 
+didnt do this at the time of refunding the smaller transaction, ClearBank can of 
+course make a deduction for £45.62 which it says it recovered from the beneficiary 
+accounts and which I can see was paid into Cs account on 5 August 2022. 
+Ive also thought about the compensation paid by ClearBank. The complainant in this 
+case is a limited company. Although I recognise Ms N has suffered some distress in 
+her personal capacity, I can only consider the impact this has had on C here. Based 
+on the information available to me about the impact of the remaining funds not being 
+returned to C earlier and keeping in mind that Im awarding compensatory interest on 
+that amount, Im satisfied that £100 which ClearBank has already paid is fair 
+compensation in the circumstances.   
+Putting things right
+To put things right, ClearBank Limited needs to:
+reimburse C the unauthorised transaction of £6,100 less the amount recovered from 
+the beneficiary accounts if a deduction hasnt already been made during the previous 
+refund; and
+pay 8% simple interest per year on the amount refunded, from the date of the 
+unauthorised transaction to the date of settlement (less any tax lawfully deductible) 
+My final decision
+For the reasons given, my final decision is that I uphold this complaint. I require ClearBank 
+Limited to put things right as set out above.
+Under the rules of the Financial Ombudsman Service, Im required to ask Ms N  as the 
+director of C  to accept or reject my decision before 8 January 2024.
+ 
+Gagandeep Singh
+Ombudsman

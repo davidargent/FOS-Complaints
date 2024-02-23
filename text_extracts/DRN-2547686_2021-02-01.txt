@@ -1,0 +1,97 @@
+DRN-2547686
+The complaint
+Mr and Mrs J are unhappy Bank of Scotland plc (trading as Halifax) declined a transaction 
+whilst Mr J was in the supermarket. 
+This complaint involves a joint account, but Mr J is leading the complaint so I will mostly refer 
+to him throughout my decision. 
+What happened
+On 9 October 2020 Mr J attempted to make a payment in a supermarket for £18.11. This 
+was declined. Mr J tried three more times, but the payment continued to be declined. He 
+rang Halifax whilst in the supermarket and it told him the first payment had been approved 
+and so the issue wasnt at its end. However, the supermarket continued to tell Mr J that the 
+payment wasnt successful, therefore he couldnt have the shopping.
+Mr J said he paid for his shopping with a different card in the end. But this was only after he 
+was in the shop for a long period of time, whilst his children were waiting for him in the car 
+getting cold. 
+Mr J also explained that the £18.11 was pending for several days afterwards.
+Mr J complained to Halifax. Halifax said it hadnt made an error as the payment had been 
+correctly approved at its end. However, it acknowledged the service Mr J received when he 
+called to raise the issue fell below what it would expect. As a result, it paid Mr J £50 for the 
+distress and inconvenience caused and £40 to cover his call costs. 
+Mr J remained unhappy so referred his complaint to our service. Our investigator didnt 
+uphold the complaint. She was satisfied Halifax wasnt responsible for Mr Js payment being 
+declined. She said it was most likely a technical fault at the supermarkets end. Based on this 
+she didnt think Halifax should pay any compensation for this and was happy that what it had 
+already paid for the customer service issues was fair. 
+Mr J disagreed. He feels Halifax should be responsible for making sure its customers 
+payments are processed correctly and is frustrated no one can give him a guarantee the 
+situation wont happen again. Mr J doesnt feel the £90 Halifax paid reflects the 
+inconvenience caused to him and his children at the supermarket that day. 
+Because Mr J disagreed, the complaint has been passed to me to decide. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Declined transaction 
+I appreciate Mr Js strength of feeling about what happened. Its clear he was 
+inconvenienced whilst in the supermarket and most importantly to him, his children suffered 
+as a result. My decision is in no way meant to belittle this. However, Im afraid I dont believe 
+Halifax made an error on this occasion and as a result, I wont be asking it to do anything 
+more on this point. 
+There are multiple parties involved when a card payment is processed. It is broken down as 
+below:
+1) The cardholder presents their card to the merchant for payment. 
+2) The merchant uses their card machine to submit details of the transaction to their 
+acquiring bank, or the banks processor.
+3) The acquiring bank (or its processor) captures that information and routes it through 
+the relevant card network (VISA/Mastercard).
+4) The cardholders bank receives the information and makes the decision on whether to 
+approve the transaction or not  this can be based on whether there is enough 
+money in the customer account for example.
+5) The cardholders bank sends a response code back through the appropriate network 
+(VISA/Mastercard) to the acquiring bank (or its processor).
+6) The response code is then passed onto the merchant and the transaction will appear 
+as approved or declined on the card machine. 
+This is a lengthy chain, but in reality, it takes a matter of seconds for the above to happen  
+all whilst the customer is standing at the till. 
+Taking the above into account, Ive looked to see whether Halifax completed its part of the 
+process, which is to approve the transaction. From the audit report provided by Halifax, I can 
+see that Mr Js payment of £18.11 was approved. The subsequent attempts were declined 
+due to insufficient funds in the account. 
+We cant know for sure where the glitch in the above chain occurred, but from what Ive 
+seen, it doesnt seem likely it was with Halifax. It approved Mr Js payment, and this is 
+strengthened further by the fact it didnt approve the subsequent ones due to their being 
+insufficient funds in the account. This suggests to me its systems were working as they 
+should at the time. So, the glitch couldve occurred in this message making its way back 
+through the card network and the merchants acquiring bank, back to the merchant. 
+Mr Js payment was pending for several days after this. The next part of the payment 
+process would be for the merchant, through their acquiring bank (or its processor) and the 
+card network, to claim the payment. So, until this is completed the payment will stay as 
+pending with the cardholders bank. In Mr Js case, because there had been a glitch, rather 
+than the payment clearing as would usually happen with a successful payment, it stayed 
+pending because the merchant didnt claim the payment. Ultimately this was the glitch 
+working itself out, as it wouldve been incorrect for the merchant to claim the payment. 
+Taking this into consideration, Im satisfied the fact the payment remained pending for a few 
+days was not an error on Halifaxs part.  
+I appreciate this may seem wholly unsatisfactory to Mr J as he was impacted by what was 
+essentially a computer glitch. No one can guarantee this situation wont happen again, but 
+hopefully Mr J can take some comfort from the fact this had never happened to him before 
+this particular incident and hasnt happened since  so it is a rarity. Unfortunately, we face certain inconveniences in everyday life. I understand Mr J wants 
+someone to blame for what happened, but Im afraid given the evidence, it wouldnt be fair 
+for me to hold Halifax responsible and ask it to compensate Mr J for his inconvenience on 
+this occasion. 
+Customer service 
+Halifax has admitted it didnt provide the best service to Mr J when he called to query why 
+his transaction had been declined. It has acknowledged Mr J was given conflicting 
+information and spent longer than necessary on the phone. 
+I can see Halifax paid Mr J £50 compensation for this and made sure his call costs were 
+covered by crediting him with a further £40. I think this is fair and reasonable for the service 
+failings here. 
+ 
+My final decision
+My final decision is that I dont uphold Mr and Mrs Js complaint against Bank of Scotland plc 
+(trading as Halifax). 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mrs J and Mr J to 
+accept or reject my decision before 1 March 2021.
+ 
+Sarah Brimacombe
+Ombudsman

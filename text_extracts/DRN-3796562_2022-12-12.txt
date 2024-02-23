@@ -1,0 +1,110 @@
+DRN-3796562
+The complaint
+Mr L complained because Revolut Ltd refused to refund him for transactions he said he 
+didnt make.
+What happened
+On 2 July 2022, Mr L contacted Revolut through in-app chat. He told Revolut that he and his 
+wife had been robbed while abroad, and the thieves had taken their phones, wallets, bag 
+and some personal items. His Revolut card had been among the items stolen, so after going 
+to the police, Mr L logged in to his Revolut account to check it, and blocked the account. But 
+there had already been several transactions which Mr L said he hadnt authorised, totalling 
+1393.61 Canadian dollars. Mr L waited a long time on chat for an adviser, and had difficulties 
+when he did get through. He asked Revolut to raise a chargeback for the fraudulent 
+transactions.
+Mr L sent Revolut a copy of the police report, and completed Revoluts chargeback 
+application forms on 7 July. On 26 July, Revolut told Mr L that it wasnt going to refund him. 
+It said that it hadnt been able to find any traces of fraudulent activity on his account. But 
+Revolut said that it appreciated the difficulties Mr L had had, and refunded his annual 
+Premium subscription fee.
+Mr L wasnt satisfied and contacted this service. He set out what had happened with the 
+robbery, and said that hed been trying to get Revolut to resolve the issue since the day it 
+happened, but it had shown no sign of wanting to help, and had not been empathetic. 
+Our investigator didnt uphold Mr Ls complaint. Mr L had told her that he hadnt written 
+down, or stored, his PIN, and he hadnt shared it with anyone. He said hed been careful to 
+protect the PIN when entering it. As the last genuine transaction had been over an hour 
+before the disputed transactions, the investigator thought it was unlikely that anyone had 
+obtained Mr Ls PIN by watching him enter it. There hadnt been any incorrect PIN attempts, 
+so it was likely that whoever carried out the disputed transactions knew the PIN.
+The investigator noted that Mr L had said his phone was secured using Face ID and a 
+passcode, and no-one else had access to his Revolut app. The investigator also commented 
+that the online banking records showed that Mr L regularly logged into his watch, and hed 
+enabled push notifications before the disputed transactions  so Mr L would have known 
+what had happened immediately. As the disputed transactions had been authorised using Mr 
+Ls genuine card and PIN, the investigator couldnt establish how any third party could have 
+known carried out the transactions. She thought it was likely Mr L had authorised the 
+disputed transactions himself. 
+Mr L didnt accept this. He said that the thieves who had stolen his phone, had accessed it 
+after Mr L had blocked it and deleted it from his iCloud account. Mr L had received social 
+media notifications a few hours after hed blocked and deleted the phone, saying that 
+someone had accessed his accounts and had started using them using a different sort of 
+phone from the one stolen from Mr L. Mr L also said that he didnt have a smart watch.
+The investigator contacted Revolut. Revolut explained that the document it had sent us 
+which referred to Mr L logging on using watch wasnt a reference to a smart watch. 
+Watch referred instead to a name which Revolut used for one of its feature which enabled 
+customers to see multiple currencies to keep track of rates etc. So Mr L logging in to watch 
+didnt mean hed been logging in using a smart watch.
+The investigator apologised to Mr L about the misunderstanding about the watch app.  But 
+she said that there was still no plausible compromise for the PIN, which was how the 
+disputed transactions had been carried out.
+Mr L asked for an ombudsmans decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+There are regulations which govern disputed transactions. The relevant regulations for 
+disputed transactions taking place in July 2022 are the Payment Services Regulations 2017. 
+These say that the payment service provider (here, Revolut) must show the transaction was 
+authenticated. Thats the technical part, and here, Revolut has provided computer evidence 
+and shown that Mr Ls genuine card with its chip, and the correct PIN, were used. So the 
+disputed payments were authenticated.
+The regulations also say that its necessary to look at whether the card holder authorised the 
+payments. In general terms, the bank is liable if the customer didnt authorise the payments, 
+and the customer is liable if they did authorise them. So Ive considered whether or not its 
+more likely than not that a third party, or Mr L himself, authorised the transactions.
+I recognise that Mr L reported theft to the local police, and Ive seen the translated police 
+report which Mr L made, about having multiple items stolen while on the beach in front of a 
+hotel. The key element in deciding who authorised the disputed transactions, however, is 
+technical computer evidence. The disputed transactions were carried out using Mr Ls 
+registered phone. And that was secured using biometric data  in other words, Mr Ls 
+personal physical characteristics. I cant see how a third party could have accessed Mr Ls 
+account and carried out the transactions, even if theyd been in possession of the phone.
+Technical evidence also shows that the authentication for the disputed transactions was 
+done using Mr Ls correct PIN. Mr L said his PIN wasnt written down, or stored anywhere. 
+Revolut also told us that in order to see a cards PIN code on the app, theyd have had 
+successfully to sign in using biometric data, then carry out various processes including 
+inputting Mr Ls Revolut passcode. Revolut provided us with technical evidence which shows 
+that no-one accessed Mr Ls cards PIN in this way. And in any case, the phone and the app 
+were protected by Mr Ls biometric data. 
+So I cant see how any third party can have carried out the disputed transactions. As I 
+consider its more likely than not that Mr L carried out the transactions himself, I do not 
+uphold Mr Ls complaint and do not require Revolut to refund him.
+For completeness, Ill also deal with another point which Mr L raised. He said that all Revolut 
+had to do was to raise a chargeback to the credit card scheme for the disputed transactions, 
+and the cost would then be covered by the card schemes insurance. He said hed talked to 
+other banks who had said theyd have reimbursed him, and Revolut seemed to be the only 
+one who wouldnt help, even though it wouldnt have been the one paying for the charges. But it isnt just a matter of Revolut forwarding Mr Ls claim to the credit card scheme,  and 
+their insurers automatically picking up the cost. A chargeback is the process by which 
+settlement disputes are resolved between a card issuer (here, Revolut) and merchants (the 
+businesses to which the customer made the card payment) under the relevant card scheme. 
+It can also be used to try to resolve some settlement disputes, without needing to resort to 
+more formal resolution like court action. Examples would be if goods never arrived; or goods 
+were faulty; or it a merchant processed a payment twice. The card issuer looks at the list of 
+potential reasons under the chargeback scheme, to assess whether a successful claim is 
+likely. Card issuers dont have to raise a chargeback. Its a voluntary scheme, and the card 
+issuer would normally take into account whether theres any reasonable prospect of success 
+ because chargebacks arent always successful. Given the circumstances here, with no 
+clear way in which anyone other than Mr L could have authorised the disputed transactions, I 
+dont consider Revolut had to raise a chargeback when it considered there was no 
+reasonable prospect of success.
+Finally, I can see that Mr L did have difficulties when he reported the incident to Revolut. For 
+example, it was more than four hours into the chat before an advisor started to take full 
+details of the disputed transactions, and I can see that Mr L wasnt happy about subsequent 
+service either. In Revoluts final response did, however, refund him for his annual Premium 
+Subscription fee, which I find was fair and reasonable in all the circumstances of this 
+complaint.
+My final decision
+My final decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr L to accept or 
+reject my decision before 9 January 2023.
+ 
+Belinda Knight
+Ombudsman

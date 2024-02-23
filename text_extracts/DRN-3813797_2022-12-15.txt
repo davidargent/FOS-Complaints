@@ -1,0 +1,102 @@
+DRN-3813797
+The complaint
+Mr S complains that Monzo Bank Ltd (Monzo) wont refund transactions of £1,196 made 
+from his account that he says he didnt authorise.
+What happened
+Mr S says he received a phone call from someone on a withheld number on 
+30 January 2022 claiming to be from Monzo, asking if he had set up two direct debits. He 
+says he declined to talk to the caller as he knew Monzo does not call its customers. Mr S 
+says that between 17:55 and 18:00 he was called several times again by the caller and 
+eventually answered, where he was then asked about Apple Pay and told that he could 
+receive notifications for this. Mr S says he again declined and hung up the phone. After 
+ending the call, he says he opened his Monzo app to check his account, where he 
+discovered a notification to use Apple Pay, which he said he didnt have set up on his 
+device. 
+After restarting his phone, Mr S says he discovered that two transactions had been made 
+from his account for £1,196 that he didnt authorise, along with a further two attempted 
+transactions that failed due to a lack of funds. Mr S reported the unauthorised transactions to 
+Monzo, but it declined to refund the money as it said he hadnt taken care of his account 
+details. 
+Mr S complained that this was unfair as he says he didnt click on any links or share any of 
+his security credentials, but he had no explanation for how his account came to be 
+compromised. 
+Our investigator didnt uphold the complaint. As Mr S said he had not shared any of his 
+security details, she didnt think there was enough evidence to determine that a scam had 
+actually taken place, as there was no plausible explanation for how his details had otherwise 
+been compromised. So she thought they had most likely been authorised by him. Mr S 
+disagreed, so the matter has been escalated to me to determine.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I agree with the conclusions reached by the investigator and have decided 
+not to uphold it. 
+When considering whats fair and reasonable, I am required to take into account relevant law 
+and regulations; the regulators rules, guidance and standards, the codes of practice; and, 
+where relevant, what I consider to have been good industry practice at the relevant time.
+The disputed transactions complained about took place in January 2022, so of particular 
+relevance to my decision are the Payment Services Regulations 2017 (PSRs)  which apply 
+to transactions like the one made from Mr Ss account.
+The PSRs say that a payment transaction is authorised by the payer where they have given 
+their consent to the execution to the payment transaction. Such consent must be given in the 
+form and in accordance with the procedure agreed between the payer and the payment 
+service provider.
+Unless the payment service provider can show consent has been given, it has no authority 
+to make a payment or debit the customers account. Where a payment service user denies 
+having authorised a payment transaction, it is for the payment service provider to prove that 
+the payment transaction in question were authorised by the customer.
+Having considered the facts before me as well as the relevant law, it seems to me that the 
+key question I need to determine here is whether it is more likely than not that Mr S 
+authorised the transactions. In other words, I need to decide whether Mr S made the 
+transactions himself or gave someone permission to do so. This is important because a 
+customer will usually be liable for payments theyve authorised and, generally speaking, a 
+bank will be liable for any unauthorised payments.
+In this instance, the disputed transactions were contactless payments facilitated by Apple 
+Pay which had been set up on Mr Ss account the day the transactions were made. 
+However, Mr S said he did not set this up himself. But having considered the evidence, Im 
+satisfied the more likely explanation is that he authorised the use of Apple Pay and the 
+subsequent transactions it was used to pay for. Ill explain why.  
+The testimony Mr S has provided does not correlate with the sequence of events as shown 
+by the evidence. He said he received a phone call from a scammer pretending to be from 
+Monzo at 5:56PM which his call log shows lasted for 51 seconds. He said they spoke to him 
+about Apple Pay, but that he didnt receive any texts or emails about it, and that the first he 
+saw any mention of Apple Pay was after the call when he opened his Monzo app and 
+received a notification about Apple Pay. 
+However, I can see that Mr S did receive a text message from Monzo informing him that his 
+card had been successfully set up for Apple Pay at 5:23PM, i.e. before any of the scam calls 
+took place. Further, the first transaction made via Apple Pay was completed at 17:56  the 
+time Mr S says he picked up the call to the scammer  so it seems more likely than not that 
+Apple Pay had been set up and authenticated before Mr S said he received a call about it. 
+However, no explanation has been offered by Mr S about this discrepancy.   
+Mr S says he did not share any of his details or approve any Apple Pay requests. But this 
+form of payment could have only been made if he had either set up Apple Pay himself, or 
+shared his card details or PIN with someone else in order to facilitate it being set up on 
+another device.
+Mr S has maintained that no one else had access to his device or account details, and that 
+he did not enter his details in response to any text messages or emails. However, theres 
+nothing to suggest that remote access was gained of his device, and theres seemingly no 
+other explanation as to how his details came to be compromised. The evidence provided by 
+Monzo in the form of its mobile banking logs also does not suggest that anyone else was 
+able to gain access to his banking app to authorise the use of Apple Pay, as it shows that all 
+logins were made using the same fingerprint ID. 
+So, given Mr S didnt share his details or device with anyone else, the only plausible 
+conclusion is that either Mr S set up Apple Pay on his account and made the transactions 
+himself, or gave his details to somebody else, thereby giving his consent and authority for 
+payments to be made on his behalf. I appreciate that Mr S disputes this but given no one 
+else had access to his details or device, there is no other more plausible explanation for how the payments could have otherwise been made. 
+I understand that Mr S received calls from a potential scammer pretending to be Monzo, but 
+that does not explain how Apply pay came to be linked to his account for the payments to 
+then be made. He has not said that he was tricked into sharing his security details for 
+example, so it seems unlikely that anyone else could have set up this payment method in 
+these circumstances. 
+As a result, there isnt enough evidence to suggest that a scam has taken place here, so I 
+dont consider Monzo has acted unfairly by declining to refund the disputed transactions, as I 
+consider they were more likely than not to have been authorised by Mr S. I appreciate this 
+will likely come as a disappointment to Mr S, but I wont be asking Monzo to take any further 
+action.
+My final decision
+For the reasons given above, I do not uphold this complaint. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr S to accept or 
+reject my decision before 12 January 2023.
+ 
+Jack Ferris
+Ombudsman

@@ -1,0 +1,130 @@
+DRN-3815317
+The complaint
+Mr Y complains that HSBC UK Bank Plc hasnt refunded card transactions which he says he 
+didnt make or authorise. Hes also unhappy with how HSBC handled his complaint.
+Mr Y is represented by Mrs Y, but Ill only refer to him throughout this decision.
+ What happened
+On 4 August 2021 four transactions were made using Mr Ys debit card details. The 
+payments went to a merchant which mostly offers an international money transfer service.
+This is a list of the disputed payments, along with other account activity from the time:
+Time Transfer or payment Amount
+14:12:20 Payment to merchant £352.99
+16:21:34 Transfer from savings £90
+16:28:55 Payment to merchant £192.99
+17:18:09 Transfer from savings £1,000
+17:36:54 Payment to merchant £502.99
+17:44:22 Payment to merchant £502.99
+18:33:50 Transfer from savings £500
+18:35 Cash machine withdrawal £250
+Mr Y has said he didnt make these transactions himself and had no knowledge of them. 
+Hes explained that hed recently had a new card following attempted transactions to the 
+same merchant a week or so before. 
+Mr Y said he noticed the transactions pending on his account either late on 4 August or in 
+the very early hours of 5 August 2021. He wanted to report them to HSBC right away, but its 
+phone lines were closed. Mr Y has explained how, when he noticed the transactions pending 
+on his account, he transferred money from his savings to stop himself going into an 
+overdraft.
+Mr Y told the bank hed been out for a walk when the transactions occurred and that hed not 
+had his card on him. He also said hed not used or looked at his phone at all during this time 
+because it was pouring with rain.
+HSBC investigated the transactions after Mr Y contacted it on 5 August 2021. It concluded 
+that it would be unable to treat the transactions as unauthorised. In summary, it said:
+the transactions were made using Mr Ys new card details;
+it sent a one-time passcode (OTP) to Mr Ys registered mobile phone number each 
+time a transaction was being made. These OTPs were used to auhtorise each 
+individual transaction;
+Mr Y had moved funds from his savings to fund each of the transactions;
+IP addresses matched across the banks and the merchants records for the device 
+used to initiate and auhtorise the payments. The IP address also matched activity 
+Mr Y hadnt disputed; and
+information supplied by the merchant matched the banks records of Mr Ys personal 
+details.
+Mr Y wasnt happy with HSBCs findings and requested more information from the bank, 
+including details of the OTPs and call recordings. This ongoing contact with the bank gave 
+rise to complaints about several different aspects of how HSBC was handling things. HSBC 
+recognised it could have handled some aspects of the complaint better and offered Mr Y 
+compensation totalling £250. Most of that was paid to Mr Y, with £50 outstanding for a 
+particular issue around misinformation given on the phone, as Mr Y didnt accept the offer.
+As Mr Y wasnt happy with the answers given by HSBC, he brought the complaint to our 
+service. One of our investigators considered the complaint and found HSBC had acted fairly 
+and reasonably. She believed the evidence provided by HSBC was persuasive in 
+establishing that the disputed transactions were more likely than not authorised by Mr Y.
+Our investigator explained how the evidence showed that the OTPs were sent to Mr Ys 
+correct phone number and then used to verify each payment. She also explained that she 
+could see Mr Ys online banking had been used to fund each of the payments, with transfers 
+being made from his savings account each time.
+She didnt believe HSBC had acted unfairly in not reversing the disputed payments and went 
+on to explain it couldnt simply take the money back once fraud was reported. 
+Our investigator considered the customer service and complaint handling issues raised by 
+Mr Y, but ultimately said the bank had done enough where it had acknowledged errors and 
+offered compensation.
+Mr Y remained unhappy and so the complaint has been passed to me for a final decision. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so Im not upholding Mr Ys complaint. Ill explain why.
+The issue at the heart of this complaint is that of the disputed payments. I know Mr Y feels 
+there have been other significant errors on the banks part, but it is true to say that all stems 
+from the fact Mr Y flagged payments out of his account as being unauthorised. So that is the 
+issue I will address first.
+The regulations of particular relevance to this complaint are the Payment Service 
+Regulations 2017. Broadly speaking, they say a customer is responsible for any transactions 
+on their account that they authorise, meaning they make the transaction(s) themself or allow 
+someone else use of their account. 
+When a claim of fraud is raised a bank must investigate and, if it is to hold its customer 
+responsible, show evidence that the disputed transactions were authorised. 
+Where evidence is incomplete or where the circumstances of a complaint are in dispute, as 
+is the case here, I must make my findings on the balance of probabilities. That is to say, I 
+must determine what I believe is more likely than not to have happened.
+I can see that Mr Ys card details were used to make four payments to the same merchant. 
+The correct details were used each time and theres nothing to suggest the payments 
+werent properly authenticated. The evidence also shows that the payments were more likely than not consented to. My 
+reasons for saying so are along the same lines as those presented by both the bank and our 
+investigator.
+First, its evident that Mr Y was sent an OTP which had to be used before each payment 
+would go through. Im satisfied these OTPs were sent to Mr Ys phone, which he has 
+confirmed he had on him at the time of the payments. So, the only person who could have 
+accessed and used them was Mr Y himself. That means he must have been aware of the 
+payments being made at the time.
+Second, it is true that the transfers from Mr Ys savings accounts take place in amongst the 
+disputed payments out. This shows that his account was being funded in order to make the 
+payments out. This shows an awareness of the payment values that were about to be made. 
+Im not persuaded that Mr Y was only aware of a reducing balance around the same time of 
+each transaction, and that he wanted to avoid going into an overdraft. The transfers into the 
+account pre-empt the payments out.
+Since our investigator started looking at the complaint its been suggested that Mr Y was 
+aware that some payments needed to be made from his account for work he was having 
+done on his bathroom. But its difficult to see how the use of the OTPs or the transfers from 
+his savings might have been linked to this work. There doesnt seem to be anything to 
+suggest they might have been connected, such as contact from the tradesmen involved and 
+a request for payment.
+These two points  regarding the OTPs and the transfers  are significant and even in 
+isolation would likely lead to my not upholding the complaint. But it is true there are other 
+pieces of evidence that show its more likely than not Mr Y authorised the transactions 
+himself. It is true that the merchant had the same personal information as HSBC and this 
+service. And a common IP address was used with the merchant and HSBC for both disputed 
+and undisputed activity. 
+With all of the above in mind I find its more likely than not Mr Y authorised the payments 
+himself. Im not saying here that its impossible for an unknown fraudster to have been 
+involved. I know Mr Y has raised the suggestion someone might have hacked his phone. But 
+theres little to no evidence to suggest thats the more likely than not explanation. 
+Im aware of failed attempts to make payments to the same merchant a week before, which 
+prompted the replacement of Mr Ys card. But this doesnt persuade me that an unknown 
+third party was involved. The transfers from Mr Ys savings account, which he has confirmed 
+he made, show that he must have been aware of his reducing balance and therefore the 
+payments being made to the merchant.
+I know there are a number of customer service and complaint handling issues raised by 
+Mr Y. Many of these, in isolation, would be outside of our power to issue findings on. 
+Customer service and complaint handling are not regulated activities in their own right. And 
+as Ive not upheld the main part of Mr Ys complaint, I cant go on to make an award of 
+compensation for the issues that are ancillary to that complaint. 
+I do note, however, that the bank has already agreed to pay Mr Y compensation for different 
+issues hes highlighted as his complaint has progressed. Im not persuaded theres anything 
+more that HSBC ought fairly and reasonably do, in light of the evidence and version of 
+events presented, in resolution of this complaint. 
+My final decision
+I dont uphold this complaint against HSBC UK Bank Plc.Under the rules of the Financial Ombudsman Service, Im required to ask Mr Y to accept or 
+reject my decision before 24 March 2023.
+ 
+Ben Murray
+Ombudsman

@@ -1,0 +1,108 @@
+DRN-3321977
+The complaint
+Mr H complains that Santander UK Plc (Santander) have failed to refund £30,000 he says 
+he lost as part of a scam.
+The details of this complaint are well known, so I will not repeat everything again here. 
+Instead, I will focus on giving the reasons for my decision. 
+What happened
+I issued my provisional decision on this complaint in March 2022. I said I was minded not to 
+uphold it, as I didnt think Santander had done anything substantially wrong by failing to 
+intervene in the payments he made, and neither did I think they ought to have done anything 
+further with his chargeback claim. I set out the following reasons:
+The company Mr H paid  Infinox Capital  is a legitimate company trading from the 
+Bahamas and regulated by the Securities Commission of the Bahamas. No adverse 
+information about this company had been published by either the International 
+Organisation of Securities Commissions (IOSCO) or the Financial Conduct 
+Authority, so Im not persuaded that the merchant can be described as fraudulent.
+I appreciate that Mr H was under the impression that he would be trading under 
+Infinox Capitals FCA regulated branch based in the UK. I also understand there has 
+been a lot of media coverage and warnings issued about GS3 who managed the 
+trades on Mr Hs behalf. 
+But given that the merchant he actually paid (i.e. the Bahamian arm of Infinox 
+Capital) is still a legitimate merchant, there would have been no reason for Santander 
+to have automatically blocked his payment pending further enquiry. The banks duty 
+is to guard against the risk of fraud and scams  it is not to provide investment advice 
+or to protect customers from the impact of making a bad bargain. So, although I 
+appreciate Mr H feels he has been defrauded by GS3, that was not the company he 
+paid, so Im not persuaded there was any reason for Santander to have intervened in 
+these circumstances.
+Ive also considered whether Santander acted reasonably in its handling of Mr Hs 
+chargeback claims for the payments made to Infinox. Santander said the chargeback 
+was declined at pre-arbitration stage, and that it declined to pursue the matter further 
+after reviewing the evidence Mr H had provided.
+It appears that Santander took the decision to process Mr Hs chargeback claim 
+under reason code 13.3 (services not as described). For claims under this reason 
+code to have succeeded at Visas final stage of arbitration, Santander would have 
+needed to provide evidence that Infinox made written representations to Mr H 
+guaranteeing an amount of profit/return he was due to receive. I have not seen any 
+evidence that Mr H received any such representations from Infinox, so Im satisfied 
+Santander was correct to conclude that it didnt have any prospect of success at 
+arbitration under reason code 13.3.
+However, I am mindful that the Visa chargeback rules did cover binary options (or 
+investment) trading from 14 October 2017, i.e. after the disputed transactions: see 
+Visa Business News 26 October 2017:
+Effective 14 October 2017, issuers may use Reason Code 53 to address cases whereby a 
+binary options (or forex) merchant has imposed obstacles to prevent cardholders from 
+withdrawing funds. This chargeback right is limited to the amount available in the binary 
+option account at the time funds are requested. Issuers cannot charge back more than the 
+original transaction amount, so capital gains from binary options trades cannot be paid out via 
+the chargeback process.
+It does not appear that Santander pursued a claim under Reason Code 53 (later re 
+coded by Visa to 13.5). But I note that the Visa rules required Santander to present 
+evidence that Mr H had an available balance and that he tried to withdraw sums 
+equal to, or less than, his available balance on the same day. Visa required evidence 
+in the form of a dated screenshot on the day the withdrawal was requested, but they 
+have also confirmed to this service that they would consider a dated 
+acknowledgement from the merchant advising that the withdrawal request will be 
+processed, which includes the amount of the request, as sufficient evidence to 
+support the chargeback for reason code 13.5, and an additional screenshot would 
+not be required if this information was presented.
+I can see that Santander requested evidence of Mr H making a withdrawal request to 
+Infinox on 30 January 2020:
+We just need a bit more information so we can look into your claim
+**Provide a dated copy of the withdrawal request **Response to withdrawal 
+request (copies if available or confirmation that there was no response) **A 
+copy/screen print of the trading account showing the available balance (must 
+be the same date as the withdrawal request)
+However, I have not seen any evidence that Mr H provided this information to 
+Santander, and neither has he demonstrated that he had the specific evidence 
+required for a chargeback under reason code 13.5 to have been successful. 
+Therefore, I do not think Santander acted unreasonably by failing to pursue a 
+chargeback claim under this particular code in these circumstances.
+I appreciate this will likely come as a disappointment to Mr H, and I sympathise with 
+him as I can see that he has lost a significant amount of money. But for the reasons 
+set out above, I do not consider Santander to be liable for the loss he has incurred.
+I invited further comments and evidence from both parties in response to my provisional 
+decision. 
+Mr H responded with further evidence in the form of a dated withdrawal request that he 
+made to Infinox on 7 November 2019 for an amount of £20,000. I asked Mr H whether he 
+sent this to Santander in response to their request for information made on 30 January 2020, 
+to which he said he sent it via post as requested. However, he has not been able to provide 
+any evidence to show that he did in fact sent the withdrawal request to the bank.
+Our investigator forwarded the information to Santander asking if they had received the 
+evidence at the time. But the bank confirmed that they had never received the withdrawal 
+request Mr H has since submitted. What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, Ive decided not to uphold it.
+I appreciate that Mr H has shown that he was in possession of the evidence that could have 
+seen a successful chargeback claim be presented to Visa. However, Im not persuaded that 
+this was ever received by Santander in order for them to proceed with the chargeback, and it 
+would also now be too late for a claim to be submitted due to the time limits under the Visa 
+scheme rules. 
+I accept that Mr H may have posted the evidence to the bank. But he hasnt got any 
+contemporaneous evidence to substantiate this (such as postage receipt or recorded 
+delivery slip) and neither did he receive any acknowledgment from Santander, which one 
+could have reasonably expected upon correspondence being received. I also havent seen 
+any evidence to suggest that Mr H chased a response in this regard. So, on balance, Im not 
+satisfied that Santander ever came into possession of the evidence at the time. 
+Therefore, I see no reason to depart from the conclusions reached in my provisional 
+decision, as I do not consider Santander to have acted unreasonably by failing to pursue 
+Mr Hs chargeback claim any differently in the absence of the evidence they requested.
+My final decision
+For the reasons given above, I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr H to accept or 
+reject my decision before 2 May 2022.
+ 
+Jack Ferris
+Ombudsman

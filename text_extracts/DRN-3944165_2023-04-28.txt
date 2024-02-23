@@ -1,0 +1,61 @@
+DRN-3944165
+The complaint
+Mr W complains that National Westminster Bank Plc have held him liable for payments from 
+his account which he says he didnt make or otherwise authorise. 
+What happened
+The detailed background to this complaint is well known to both parties. So, Ill only provide 
+a brief overview of some of the key events here. In September 2022 a new payee was 
+created through Mr Ws mobile banking. There was then a series of payments, made over a 
+few days, through mobile banking to the new payee which totalled £1,397. 
+On 29 September 2022 Mr W contacted NatWest to report that he hadnt set up the new 
+payee nor made any of the payments. NatWest investigated but ultimately held Mr W liable 
+for the transactions. Mr W complained and NatWest say they paid him £200 as a gesture of 
+goodwill but maintained their position on the disputed transactions. The complaint was 
+referred to our service and one of our Investigators didnt recommend it should be upheld. In 
+a broad summary she thought the outcome NatWest had reached was fair. Mr W disagrees 
+and has asked for an Ombudsman to review his complaint. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, Ive reached the same outcome as our Investigator and for largely the same 
+reasons. I know this will be disappointing for Mr W, so Ill explain why. 
+Mr Ws testimony is that he didnt set up the new payee nor make any of the payments. The 
+technical evidence from NatWest shows that each of the payments was instructed through 
+Mr Ws mobile banking. NatWest say the IP address from which the instructions came is one 
+that Mr W had commonly used for transactions he hadnt disputed. The evidence also shows 
+that the device ID used to make the payments was Mr Ws phone as it had been used for 
+other transactions (which havent been disputed) both before and after the payments 
+relevant to this complaint. 
+Mr W has provided some evidence from his phones manufacturer which indicates that his 
+device hadnt been compromised and suggesting that the IP address may have been the 
+source. Hes also shared that one of his social media accounts was hacked. Ive considered 
+this and have taken it into account when making my decision. 
+But overall, Im more persuaded by NatWests technical evidence. Specifically, the device ID 
+to show that the payment instructions came from Mr Ws physical device. The evidence from 
+the manufacturer supports that the device itself hadnt been compromised and Mr Ws own 
+testimony is that no-one else has access to his phone. There also isnt a plausible point of 
+compromise for the security details that would have been needed to log in to mobile banking, 
+set up a new payee and instruct a number of payments. 
+Mr W has made much of the fact that he says he didnt get a SMS message when the new 
+payee was set up. Ive considered this and all the evidence from NatWest supports that a 
+message would have been sent. But in any case, even if it could conclusively be shown that 
+a message wasnt sent when it should have been, that wouldnt change my mind as to the 
+outcome of this complaint. 
+Im also aware of declined card transactions to a crypto-currency exchange which were 
+attempted shortly prior to the disputed payments made through mobile banking. Mr W says 
+he didnt attempt those payments either. But as they were declined by NatWest for policy 
+reasons and didnt therefore leave his account, Ill not comment further on them as there was 
+no loss to Mr W as a result. For clarity these declined card payments dont influence my 
+thoughts on the disputed payments that did leave Mr Ws account, and which form the crux 
+of his complaint.
+Taking all the evidence into consideration, I dont think NatWest acted unfairly when 
+concluding that Mr W had most likely made or given permission for another to make the 
+payments he disputes. It follows that their £200 payment as a gesture of goodwill is more 
+than fair and Im not going to require them to do anything further to resolve this complaint.
+My final decision
+For the reasons outlined above, my final decision is that I dont uphold this complaint. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr W to accept or 
+reject my decision before 26 May 2023.
+ 
+Richard Annandale
+Ombudsman

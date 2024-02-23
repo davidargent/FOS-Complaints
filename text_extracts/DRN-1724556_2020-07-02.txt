@@ -1,0 +1,128 @@
+The complaint
+Mr As complaint is about his execution only spread-bet account with CMC Spreadbet Plc 
+(CMC). He has raised a number of matters related to his trading in 2019. The matters have 
+been addressed under two separate cases. The present case addresses the application of 
+Close-Outs in his account. He says they were applied unfairly and without transparency. 
+What happened
+CMC disputes the complaint. In the main, it broadly says that Mr As account equity had to 
+be above 50% of its total margin in the account and if this was breached a close-out could 
+automatically be applied; and that where close-outs were applied in his account they were 
+done in a manner consistent with the terms of the account and relevant regulations.
+One of our investigators looked into the complaint, he broadly agreed with CMC and he 
+concluded that the complaint should not be upheld. He highlighted the following:
+The trading platform displays the relevant close-out level and Account Revaluation
+Amount (ARA); and the close-out process can be triggered when the latter falls
+below the former.
+The ARA is based on the relevant Level 1 Mid Price.
+Close-out orders are executed at the relevant buy or sell price(s), not the mid price.
+Changes between the price(s) at the start of the close-out process and the price(s) at
+the point of execution might occur in fast price moving markets; in addition, the same
+or similar could happen where there is insufficient market volume to fill close-out
+orders of a particular size.
+Mr A disagreed with this outcome. He responded to the points highlighted by the adjudicator 
+as follows:
+The platforms reference to the relevant close-out level does not include any
+quantitative or qualitative description which transparently explains when this occurs.
+It was inappropriate for the investigator to say the close out process begins when
+the ARA falls below the close-out level because there is evidence in his account and
+in which the ARA has fallen below that level and nothing happened; this inflated
+crystalized losses in his case; CMC has no excuse for this, the platforms reaction
+should have been immediate given the advances in trading technology.
+CMC is able to provide millisecond tick prices to execute the opening of trades at
+exact prices, yet it unreasonably applies close-outs of trades in an uncertain manner.
+Is the investigators reference to the execution pricing approach for close-outs
+expressed in the terms for the account?
+CMC has not said there were market gaps or liquidity problems related to his
+complaint; in this context and given, again, the advances in trading technology it is
+unreasonable for the investigator to accept that price changes can occur between the
+DRN-1724556beginning of the close-out process and the point of execution in fast price moving 
+markets; reference to fast in this respect is redundant as CMC is able to execute 
+opening trades and stop losses in such an environment, so this should not be 
+different for close-outs.
+An investigation into the available tick data and available prices relevant to the close-
+outs in his case  which were not executed at the correct trigger levels (or were 
+executed at delayed trigger levels)  should be conducted.
+CMC reiterated that close-outs are executed automatically by the platform, after being 
+triggered, but it does not guarantee execution at a specific level and it has no obligation to 
+give such a guarantee. It also referred us to clause 8.1 of its Risk Warning notice which, it 
+says, repeats this message. Mr A says he does not recall this clause ever being brought to 
+his attention and that there was nothing in the platform (or messages from the platform) that 
+explained the prospect of close-outs in this fashion.
+The investigator was not persuaded to change his view and the matter was referred to an 
+ombudsman.
+What Ive decided  and why
+I have considered all the available evidence and arguments to decide what is fair and 
+reasonable in the circumstances of this complaint.
+CMCs terms of business  applicable from January 2018 and available from its website  
+include a Schedule of terms for spread bets and, within that, a section about account close-
+outs. The terms also include a Schedule of definitions, within which:
+Account close-outs are defined as A procedure by which our Platform may close the 
+whole or a portion of your Bets  and a close-out level is defined as  the 
+applicable level at which our Platform may close the whole or a portion of your Bets 
+as necessary. [my emphasis]
+The ARA is defined as The sum of your Cash and any net Unrealised Profit Or Loss 
+(as applicable), where net Unrealised Profit or Loss is calculated using the mid-price 
+between the first Buy Price and Sell Price displayed on the price ladder on the 
+Platform, that is displayed on our Platform and updated in real time.
+The section in the Schedule, about account close-outs, includes the following lead 
+explanation:
+You must ensure that for each Account your Account Revaluation Amount is at all times 
+above the applicable Close-Out Level for your Account displayed on our Platform. Where 
+your Account Revaluation Amount is less than the applicable Close-Out Level, our Platform 
+may automatically initiate Account CloseOut in accordance with your Account settings. 
+Further details on the applicable Close-Out Level for your Account, and the methods of 
+Account Close-Out, can be found on our Platform. Account Close-Out does not and is not 
+intended to limit your entire liability to us in respect of your Bets. [my emphasis]
+Section 8.1 of CMCs Risk Warning notice  also applicable from January 2018 and 
+available on its website  said:
+The automatic closure of your Bets and/or Positions by our Platform and/or our client 
+management team (if we have agreed to provide you with the sales trader service) is 
+intended to prevent you incurring further losses and we may close all Bets and/or Positions 
+on your Account, not just Bets that are making a loss. However, we do not guarantee such 
+closure and you must not rely on it. It is your responsibility to monitor your Positions and 
+your Account Revaluation Amount closely. Our Platform and/or our client management team 
+will attempt to notify you when your Account Revaluation Amount reaches a specific level, although you should not rely on our Platform and/or our client management team giving you 
+this warning. To prevent Account Close-Out, you should keep an amount in your Account 
+that allows sufficient headroom to keep your Positions open in case of sudden changes to 
+the required Margin amount resulting from Price movements. It is important to note that an 
+amount deposited into your Account (which appeared to be sufficient) can very quickly 
+become insufficient, due to rapidly changing market conditions. [my emphasis]
+CMCs Order Execution Policy (OEP)  also applicable from January 2018 and available 
+from its website  confirms that pricing and order execution is fully automated within its 
+platform. It also differentiates between trades closed upon instructions (and the different 
+procedures that apply depending on the relevant instructed order) and trades closed in the 
+absence of instructions where CMC has a right to do so (such as account close-outs).
+Overall, individually and collectively, the document references I have made above support 
+CMCs position in disputing the complaint and its reasons for doing so. 
+I am persuaded that the documents would have been accessible to Mr A as a CMC account 
+holder, that they defined the terms of his account, that they were expressly or implicitly 
+agreed by him (otherwise he is unlikely to have been grated use of the account) and that 
+they were documents CMC was reasonably entitled to expect him to be aware of. A terms of 
+business document, a risk warning document and an OEP document are fundamental 
+materials that a trading account holder would be reasonably expected to be given (or given 
+access to) and to be familiar with (or at least aware of). 
+Even if Mr A maintains that he does not recall the Risk Warning notice (or section 8.1 within 
+it) that does not mean he was not made aware of it or he was not invited to be familiar with it 
+or he could not access it. On balance, I consider that he would have been made aware of it 
+and would have been invited to be familiar with its contents, given that risks are inherent 
+considerations in trading. It is also a publicly accessible document. The same applies to the 
+other documents I have mentioned. Individually and collectively  and in response to Mr As 
+main points  these documents: 
+Sufficiently define and describe close-out levels, account close-outs and ARAs.
+Show that it was Mr As primary and sole responsibility to manage and monitor his 
+account in a manner that avoided them and/or mitigated them.
+Show that close-outs were not guaranteed to apply at a particular time or price level 
+after the ARA breached the close-out level.
+Show that close outs were/are not comparable, in treatment, to the other types of 
+trading orders Mr A mentioned  as those orders are based on instructions and the 
+OEP explains that close-outs are not based on instructions (instead, they are based 
+on an exercising of CMCs contractual right to close trades). 
+Show that Mr As examples of delayed close-outs were not in breach of the relevant 
+close-out terms.
+Overall, on balance and for the reasons given above, I am not persuaded to uphold Mr As 
+complaint.
+My final decision
+For the reasons given above, I do not uphold Mr As complaint. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr A to accept or 
+reject my decision before 30July2020.Roy Kuku
+Ombudsman

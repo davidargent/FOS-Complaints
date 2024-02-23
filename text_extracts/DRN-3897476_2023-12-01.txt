@@ -1,0 +1,120 @@
+DRN-3897476
+The complaint
+A company, which Ill refer to as E complain that following the introduction of a new customer 
+authentication security system by WorldPay Limited, a number of its transactions were 
+unfairly declined.
+In bringing this complaint, E is represented by its director who Ill refer to as Mr B 
+ 
+What happened
+The background to this complaint is well known to the parties. So, I wont repeat it in detail.
+Briefly, Mr B has told us that:
+In 2005 E signed a Merchant Services Agreement (the Agreement) with WorldPay to 
+process card payments made by its customers.
+In March 2022, he began noticing an increase in the number of transactions that 
+were being declined and returned to E with a soft-decline transaction status. In 
+general, this meant that although the transactions had been declined, they were, 
+nonetheless, capable of being re-presented. 
+In March 2022 alone for example, transactions that were declined on that basis 
+totalled 61. This was over twice the number of such declines for the previous two 
+months of January and February 2022 where the combined total was 24.
+So, on Es behalf Mr B complained to WorldPay.
+WorldPay issued their final response letter to the complaint on 30 March 2022. 
+WorldPay acknowledged there had been an increase in the soft decline transactions. But 
+they said this was due to the historic set up of Es account. This meant that when in March 
+2022 a new stronger customer authentication regime, known as 3DSecure came into 
+operation in order to comply with the European Unions Payment Services Directive 2 
+(PSD2) regulations, Es account wasnt configured appropriately. Therefore, it was unable to 
+accommodate the change. 
+In short Es account was set up as an e-commerce account to accommodate one off 
+customers. Whereas E used its account for recurring payments in connection with recurring 
+orders. These transactions shouldnt have been subjected to the newly introduced 3DSecure 
+checks. But they were and were failing to pass them. 
+In any case WorldPay implemented a fix to the problem which resulted in the number of soft 
+decline transactions decreasing. Also, WorldPay compensated E by paying £200 in 
+recognition of the inconvenience caused to E owing to the historic set up of its account. The 
+reimbursed £8.70 in fees also. 
+WorldPay said that while going forward Es account was set up to accommodate the new 
+security regime, nonetheless soft decline' transaction cannot ever be eliminated as they are 
+a part of the e-commerce transaction landscape.
+Es complaint remained unresolved, and therefore Mr B referred it to this service to look into. 
+Our investigator didnt think WorldPay were at fault for introducing 3DS in March 2022 since 
+this was a mandatory requirement under PSD2. And whilst he acknowledged this had led to 
+E experiencing an increase in soft decline transactions, nonetheless, he was satisfied 
+WorldPay had taken steps in March 2022 to fix the problem. 
+He observed that in the months after March 2022 soft declines had returned to the levels 
+experienced in the months before March 2022. Furthermore, having noted WorldPay had 
+refunded fees that E had incurred arising from the soft decline issue, as well as paying E 
+£200 compensation for the inconvenience that had been caused to E, he felt WorldPay had 
+done enough to put things right. 
+WorldPay accepted the investigators conclusion. But E did not and has asked for an 
+ombudsmans review of its case. 
+On Es behalf, Mr B has provided further detailed submissions on behalf of E.  I summarise 
+what I regard as the key points Mr B has made  as follows: 
+There were many exchanges of e-mails with WorldPays technical support team 
+when the error arose. 
+The investigator estimated there were 85 soft declines between January and March 
+2022. Adjusting for normal expectation of such declines to be around 20, E has 
+suffered financial loss of around 65 in total averaging £160. So Es suffered financial 
+loss of around £10,400. 
+Moreover, when extrapolated across a period of three years, the loss is even greater. 
+Taking into account that (a) customers would have continued with recurring 
+payments until their card expired and (b) that typically 70% of customers generally 
+renewed their payments, the likely loss to E would be more in the order of £23,000.   
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Ive acknowledged above that Mr B has made lengthy submissions in support of Es case. I 
+thank him for the care with which hes prepared those submissions and the clarity of his 
+presentation. Indeed, that is unsurprising because it is clear how strongly Mr B feels about 
+this matter. 
+Ive read and considered them. But Ive confined my comments to what I regard as relevant. 
+If Ive omitted to comment on specific points that Mr B has made it is not because I havent 
+considered it but because I dont think I need to comment on it.  Rather its because I dont 
+think I need to comment on such points in order to reach what I think is the fair and 
+reasonable outcome in all the circumstances of this case.   
+Its worthwhile adding also that in the course of my review where the evidence is incomplete 
+or inconclusive (as indeed some of it is here) I reach my decision on the balance of probabilities  in other words, what I consider is most likely to have happened in the light of 
+the available evidence and the wider circumstances. 
+I now turn to my review in more detail. 
+At the heart of this case is the question of compensation. WorldPay have acknowledged E 
+experienced an increase in soft declines in March 2022 which it reported to WorldPay.  The 
+cause of the issue is noted above, and I have no reason to challenge that. In any case it was 
+quickly identified and put right in the same month. 
+I am satisfied E did experience some inconvenience by the fact Mr B did have to raise the 
+matter with WorldPay, and liaise with the relevant department to find a fix. 
+That being said, a fix did appear to have been found. The result was that between the 
+months of April to November 2022 the combined total of Es soft decline transactions had 
+fallen to 20.
+E however believes that in addition to the £200 WorldPay paid as compensation for the 
+inconvenience this caused, and the refund of the £8.70 fees charged to E for the soft 
+declines, WorldPay should also compensate E for financial loss. 
+But for me to require WorldPay to compensate E for financial loss as is claimed, I need to be 
+satisfied E did sustain those losses. 
+To begin with I dont think it would be fair for me to consider compensation by reference to 
+the 85 soft declines that happened between January and March 2022. E had always 
+experienced such declines. I am satisfied that the issue which confronted E in March 2022 
+and which led to a spike in the levels of soft declines was the introduction of 3DSecure 
+authentication procedure. But, for which, given the nature of the transactions that were being 
+processed on E behalf its account was unprepared in light of WorldPays error. 
+But I have to be sure that E did suffer a loss arising from those increased soft decline 
+transactions. On balance, however, I cant be. I say that because those soft decline 
+transactions were capable of re-presentation. I cant be sure that none of them were for 
+which E received the intended benefit. In other words, I dont have anything to indicate that 
+the customers whose transactions were declined were lost to E. And in the circumstances it 
+wouldnt be fair for me to speculate. 
+Im not persuaded either that it would be fair to compensate E by reference to the likely 
+actions of those customers who were affected by the soft declines. Not least because Id 
+have not only to make the assumption, they did not re-present their repayment, but had 
+ceased being customers of E who then was no longer able to benefit from their renewed 
+repayments.  I have to base any award of compensation on actual rather than speculative 
+losses which these would be. 
+ 
+My final decision
+My final decision is I do not uphold this complaint in the sense that Im satisfied the £200 
+WorldPay Limited paid E for inconvenience and the £8.70 refund of charges mean that in the 
+circumstances of this case they have fairly compensated E. I do not therefore require them 
+to take any further action.  Under the rules of the Financial Ombudsman Service, Im required to ask E to accept or 
+reject my decision before 29 December 2023.
+ 
+Asher Gordon
+Ombudsman

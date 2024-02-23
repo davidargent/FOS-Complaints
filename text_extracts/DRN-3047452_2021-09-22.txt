@@ -1,0 +1,140 @@
+DRN-3047452
+The complaint
+Miss L complains that Monzo Bank Ltd wont refund disputed transactions she says she 
+didnt make or authorise. 
+What happened
+Miss L had a bank account with Monzo. She also held an account with another bank, which I 
+will refer to as bank B. 
+In April 2020, Miss L was out of work, so she made a benefit claim via the Department of 
+Work and Pensions (DWP). DWP paid Miss Ls benefit funds into her account held with bank 
+B, which was the registered account with DWP.
+Following this, Miss L says she fell victim to a scam. Shes said that she received several 
+calls from fraudsters purporting to be from DWP. And that she was offered an advance 
+benefit payment. Miss Ls explained that during the calls she provided the fraudsters with 
+details of her email address, bank account, and passwords associated with her DWP 
+account. But she never provided her PIN relating to her Monzo bank account.
+On 14 May 2020, Miss L logged into her Monzo account and transferred her entire balance 
+of just over £760 out of her account and into her account with bank B.  Within a couple of 
+hours of Miss L doing this, two payments of £340 and £1,130 were paid into the account 
+Miss L had with bank B from DWP.
+ 
+Miss L says remembers receiving a text alert from bank B, and that she wanted to put the 
+money aside to save. So, she moved the money shed received from DWP into her Monzo 
+bank account. Soon after doing this, the funds were transferred out of her Monzo account, in 
+three separate transactions. Miss L says she never made these transactions.
+DWP contacted Miss L and asked her to repay the money it had given her in May 2020. 
+Miss L told DWP that shed never made the claims and had been the victim of a scam. She 
+checked her DWP account and discovered that two claims had been made with false 
+information. DWP said it couldnt do anything and told her to contact her bank. And said she 
+still had to repay the money. So, Miss L went to Monzo and asked them to investigate. 
+Monzo looked into the transactions and said it thought  Miss L authorised them. So, it didnt 
+refund her. In summary, Monzo said:
+ the payments were authenticated using Miss Ls PIN and there was no plausible 
+explanation for how an unknown third party had become aware of the PIN
+ Miss Ls PIN was needed to set up and authorise the three payments on 14 May 
+2020 that she disputed
+ a new device, which hadnt previously been verified by Miss L, accessed her 
+account on 14 May 2020 
+ Email links known as magic links were sent to Miss Ls email address which were 
+needed to login to Miss Ls account via the mobile banking app to make the disputed 
+transactions
+ Miss L didnt contact Monzo to report the fraudulent activity until 30 June 2020, 
+despite logging into her account prior to this date
+ Miss L moved her entire balance shortly before the DWP payments came into her 
+account, which suggested the activity was planned and done with Miss Ls 
+knowledge and consent
+Miss L disagreed with Monzos decision. She said she didnt authorise the transactions and 
+was the victim of a cruel scam. She said she is now having to repay the money to DWP, 
+which is going to take her a number of years to clear. She wants Monzo to refund her the 
+money so that she can return it to DWP.  So, she brought her complaint to this service where 
+one of our investigators looked into the matter.
+ 
+In summary the investigator said that:
+to make the payments access via the Monzo banking app was needed which 
+required a magic link to be sent to the email address registered to the account
+two magic links were sent to Miss Ls email address a few minutes before the 
+disputed transactions were made
+a new device was used to make the disputed transactions from a different IP address 
+normally associated with Miss L, was set up on Miss Ls account shortly before the 
+transactions were made
+Monzos security processes required Miss Ls card PIN to be entered into the 
+banking app to set up new payees and authenticate them. Only then could payments 
+be made
+Miss L said she hadnt disclosed her PIN to anyone  including during the phone 
+calls Miss L said shed had with the fraudsters. So, theres no plausible explanation 
+for how an unknown third party could have set up the new payees and make the 
+disputed transactions
+Miss L hadnt provided any evidence of her phone calls with the alleged fraudsters 
+and there was no evidence that her account with bank B was compromised
+theres no explanation for how an unknown third party wouldve known Miss L 
+intended to move the DWP funds from bank B into her Monzo account
+Miss L hasnt provided any explanation for why she moved her entire Monzo account 
+balance out of the account into her account with bank B just before the DWP 
+payments credited the account and the disputed transactions were made
+Overall, the investigator concluded that it was more likely than not that Miss L had 
+authorised the disputed transactions.
+Miss L disagreed. She said the evidence clearly showed a third party had accessed her 
+account and made the transactions. She maintained that she had been the victim of fraud 
+and had reported what happened to Action Fraud. 
+As no agreement could be reached the matter has come to me to decide. 
+What Ive decided  and whyIve considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+The investigator wrote a detailed view that sets out the full facts, the disputed transactions, 
+the relevant regulations and the evidence. Both Miss L and Monzo have read the 
+investigators view. So, I wont repeat every detail here, only those which form the basis of 
+my decision. However, I can assure  Miss L that Ive read the file, including her comments 
+and evidence. 
+Where the evidence is incomplete, inconclusive and contradictory, I have to make a decision 
+of the balance of probabilities  on what I consider to be more likely than not to have 
+happened.
+Generally speaking, Monzo can hold  Miss L liable for the disputed transactions if the 
+evidence suggests its more likely than not that Miss L made them or authorised them. The 
+relevant regulations, to this effect, are the Payment Services Regulations 2017 (the PSRs 
+2017). The PSRs also say that someone acting as an agent on behalf of  Miss L can be 
+treated as acting with apparent authority when making transactions on her account. 
+Miss L says she didnt make the disputed transactions. She says shes been the victim of 
+fraud and was duped into disclosing personal information during phone calls. And that she 
+was tricked into believing she was entitled to receive a DWP benefit advance. So, my 
+primary concern is to come to a view about whether or not I think Miss L authorised the 
+transactions.
+For each transaction Monzo has been able to provide evidence to show the payments were 
+appropriately authenticated using Miss Ls PIN. But thats not enough to hold Miss L liable. I 
+also need to consider whether the evidence suggests she consented to the transactions. or 
+whether she is the victim of fraud as shes alleged.
+ 
+Having looked at all the evidence, Im not persuaded that Miss L has been the victim of fraud 
+as shes suggested. And Im satisfied that  its more likely than not that Miss L authorised  
+the transactions she is disputing. I say this because:
+in order to set up new payees on Miss Ls account, her PIN had to be entered and 
+verified. This means that whoever made the transactions needed to be in possession 
+Miss Ls PIN. And Miss L has said she never disclosed this to anyone  including 
+during her alleged phone calls with the DWP fraudsters
+Miss L moved the DWP payments out of the account linked to her DWP profile and 
+into her Monzo account. But there is no plausible explanation for how an unknown 
+third party would be aware that Miss L had done this. And would have needed to 
+access another of Miss Ls account to get their hands on the cash. The only person 
+who was aware of this, was Miss L. Ive also kept in mind that according to Miss L, 
+the fraudsters wouldve been aware of Miss Ls account with bank B, because this 
+was linked to her DWP profile. So, they already had access to the account the money 
+was paid into. But theres no evidence that this account was compromised
+on 14 May 2020 between 1.08pm and 1.11pm, Miss L transferred her entire Monzo 
+balance of just over £760, into her bank B account. When asked for an explanation 
+about why she did this, Miss L said she couldnt remember. However, of significance 
+is that just after Miss L did this, the alleged fraudulent activity commenced. Between 
+1.19pm and 1.51pm the DWP payments were approved. At 1.28pm and 1.31pm 
+magic links were sent to Miss Ls email address. At 1.32pm an unknown device is linked to Miss Ls Monzo account. At 1.59pm Miss L transferred the two DWP 
+payments into her Monzo account from her bank B account. At 2.10pm, 2.34pm and 
+2.49pm the funds were transferred out to three new payees. I think the timing of 
+these actions is quite telling. And shows that the series of events were planned, well-
+co-ordinated and protected Miss Ls existing funds. I think its therefore unlikely this 
+couldve been achieved without Miss Ls knowledge and consent
+So, when I weigh everything up, I find on balance, that  Miss L made or otherwise authorised 
+the disputed transactions. It follows that Monzo is entitled to hold her liable for them. I know 
+Miss L will be disappointed, but for the reasons Ive given I cant ask the bank to refund her.
+My final decision
+For the reasons Ive explained, I dont uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Miss L to accept or 
+reject my decision before 20 October 2021.
+ 
+Sharon Kerrison
+Ombudsman

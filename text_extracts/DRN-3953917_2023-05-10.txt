@@ -1,0 +1,157 @@
+DRN-3953917
+The complaint
+Mr W complained because Starling Bank Limited refused to refund him for payments hed 
+made from his account as a result of a scam.
+What happened
+On 30 April 2022, Mr W received a text saying hed missed a parcel delivery. He was 
+expecting a parcel, so he clicked on the link, which took him to a website which looked like 
+the post office website. This said he needed to pay £1.15 for pre-delivery, and Mr W paid 
+£1.15 using his Starling account.
+The next day, Mr W had a call from someone who said they were a Starling employee, and 
+that there had been suspicious activity on Mr Ws account. Mr W googled the number which 
+was calling him, which matched Starlings published customer contact number. The caller 
+told Mr W that he needed to transfer money to various accounts to prevent any further 
+suspicious transactions. Mr W said the caller applied pressure and said this was urgent. Mr 
+W only had around £370 in his Starling account, and the caller told him hed need to transfer 
+a higher amount in order to make his Starling account safe. Mr W then transferred £24,790 
+from another bank into his Starling account.
+The caller asked Mr W if he had an account with another financial company, a foreign 
+exchange financial technology company which Ill call C. Mr W did have an account with 
+company C. The caller said Mr W needed to change his password with company C, and Mr 
+W told the caller his new password.  Mr W then went ahead and made two payments to his 
+own account with the other financial organisation.  One was a card payment for £5,015 and 
+the other a faster payment for £20,000, totalling £25,015.
+Immediately after the money had arrived in Mr Ws account with company C, three 
+transactions debited that account, debiting almost all the amount Mr W had transferred there 
+from Starling. The caller then cut the contact with Mr W, who realised hed been scammed.
+Mr W rang Starling straightaway and told them what had happened. It took all the details, 
+and said it would contact the recipient company to see whether any money was left, and if so 
+theyd be returned. If the payments were found to be ones which were categorised under the 
+CRM [Contingent Reimbursement Model] code, this would be investigated to determine 
+whether reimbursement was due. 
+Starling didnt agree to refund Mr W. It said this was because the money had been sent to 
+Mr Ws own account, not direct to the scammers. Starling also recommended that Mr W 
+should report this to Action Fraud, and to company C about his account there, from which 
+the money had gone to the scammers.
+Mr W, represented by a solicitor, complained to Starling. He said he was unhappy that 
+Starling wouldnt refund him, and also that Starlings systems hadnt prevented him from 
+being a victim of the scam.
+In Starlings final response to Mr Ws complaint, it said that it had a number of measures in 
+place to counteract fraud. Its systems confirmed that Mr W had approved the transactions 
+within the Starling app by using biometric authentication. It also pointed out that Starlings 
+systems had given warnings to Mr W, both for the card payment and for the faster payment.  
+Starling said that the card payment warning had said:
+Starling bank will never contact you and ask you to use this screen. If someone is telling 
+you to approve this transaction, please tap reject and contact our customer services.
+and the faster payment warning had said:
+WARNING Are you being told to make this payment?  Anyone telling you what buttons to 
+click, or asking you to read the text on this screen out loud is a criminal. You must not make 
+the payment if you are being told how to answer the questions or explain the payment. Read 
+each questions carefully and answer truthfully otherwise you could lose all the money sent.  
+Mr W had selected I understand and went on to answer the following questions as follows:
+Q    Please tell us what this payment is for?
+A    Transfer to my account elsewhere
+Q    Where are you transferring money to?
+A    Another current account
+Q    Have you been told by someone to move this money unexpectedly or urgently?
+A    No
+Q   Have you previously accessed the account you are making a payment to?
+A   Yes
+Q   When did you open the account youre paying?
+A   More than one month ago
+Q   Warning: Fraudsters will tell you how to answer these questions to scam you. A genuine 
+organisation will never do this. A bank or any other organisation will never tell you to move 
+money to a new, safe bank account. Fraudsters can make phone calls appear to come 
+from a different number. Are you speaking with who you think you are? If in doubt, call us on 
+[number]
+A    I understand.  
+Starling went on to explain that Mr W had completed the transfers to his own account with 
+company C. This meant that Starling couldnt dispute the transactions, or the subsequent 
+payments from Mr Ws company C account. Starling explained that these circumstances fell 
+outside the CRM Code for Authorised Push Payments (APPs).
+Mr W wasnt satisfied with Starlings final response. He contacted this service, using a 
+solicitor to represent him as he had with Starling. In the complaint form, Mr W said that as an 
+outcome he wanted Starling to pay him the £25,015 that hed lost, plus £500 compensation, 
+and he also wanted Starling to indemnify him for all his legal costs which hed incur as a 
+result of the scam.
+Our investigator didnt uphold Mr Ws complaint. He said that Starling should have had 
+systems in place to look for unusual transactions, so he considered whether it had acted 
+fairly. It was agreed that the payments from Mr Ws Starling account had been unusual, so 
+he considered whether Starling had done enough to protect Mr W. The investigator pointed 
+out that Mr W had been warned, and hed been specifically asked whether hed been told to 
+move his money  but Mr W had dishonestly answered no. And there had been another 
+warning that a bank would never tell a customer to move money to a new safe account, 
+but Mr W had done so even though this was exactly what the scammer had told him. 
+So the investigator considered that Starling had taken reasonable steps to protect its 
+customer. But Mr W had been contributorily negligent. Hed only had £373 initially in his Starling account, but had moved money in there from a different bank, when there was 
+nothing to show that money had been at risk. And hed also told the scammer his password 
+with company C  when even if the caller had been a genuine Starling employee, they 
+should never have asked for his password with another organisation.
+Mr W wasnt satisfied. His solicitor said that Mr W had been acting under pressure from the 
+scammer and genuinely believed both his bank accounts were under threat. He had believed 
+it was legitimate. Mr W couldnt recall questions or warnings from Starling, but said if it had 
+given more questions or warnings, that would have been more effective. 
+Mr W asked for an ombudsmans decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+A scam is where a customer was deceived into making a payment to another person for 
+what they thought were legitimate purposes, but turned out to be fraudulent. The scam in Mr 
+Ws case is called an Authorised Push Payment (APP), which is where the customer 
+makes a payment themselves because they were tricked into doing so by a scammer.
+There are regulations governing disputed transactions, and the relevant regulations here are 
+the Payment Services Regulations 2017. In general terms, the bank is liable if the customer 
+didnt authorise the payments, and the customer is liable if they did authorise them. Here, its 
+not disputed that the payment was technically authenticated, and that Mr W authorised the 
+payments, using his biometric data. So the starting point is that Mr W wouldnt be liable as 
+he authorised the payments. However, there are other factors which banks have to take into 
+consideration.
+These payments arent covered by the Lending Standards Boards Contingent 
+Reimbursement Model (CRM) Code. That Code specifically only covers payments made 
+from a customers account to an account controlled by another person, but in this case Mr W 
+made the payment to his own account with C.
+However, banks should have systems in place to look for out of character or unusual 
+transactions, or other signs that might indicate a customer is at risk of fraud. There is a 
+balance to be struck between preventing fraud, and the risk of unnecessarily delaying 
+legitimate transactions, but a bank should intervene when it considers it appropriate. So Ive 
+looked at what Starling did here.
+Ive set out in detail above the warnings which Starling gave Mr W, both for the card 
+payment and for the faster payment. I consider that the warnings contained enough 
+information to put Mr W on notice that this was unlikely to be a genuine request from 
+Starling. I note that Mr Ws representative said that Mr W couldnt recall questions or 
+warnings, but that if Starling had given more questions or warnings, that would have been 
+more effective. I dont agree with what Mr Ws representative argues.  
+Its clear from the warnings above that not only did Starling provide clear information, to 
+which Mr W had selected I understand, but it also required active responses to a further 
+six questions. In particular:
+- one of the questions was have you been told by someone to move this money 
+unexpectedly or urgently? to which Mr W replied no. In the light of what he later 
+said, this was dishonest;- the final question set out that fraudsters would tell customers how to answer 
+questions to scam them; and a bank would never ask a customer to move money to 
+a new, safe, account; and that fraudsters can make calls appear to come from a 
+different number. It provided a number to call to check, which Mr W didnt ring, even 
+though the circumstances were exactly what he later said had happened.  Instead he 
+replied I understand.
+So Mr W didnt answer all the questions honestly, and ignored the warnings in both the 
+general messages, and in the question and answer section. He didnt just ignore or not read 
+the warnings, because he had to respond in order to proceed. Mr W may not recall the 
+warnings, but at the time hed had to read and actively respond to multiple questions.
+Ive considered whether Starling could have done more  for example, contacted Mr W by 
+telephone to ask him about these payments. However, Im satisfied that its intervention was 
+proportionate to the risk, particularly given that the payment was going to his own account. In 
+any case, Im not persuaded that, however many warnings and questions Starling had 
+provided, Mr W would have taken any notice at all.  
+In conclusion, I find that Starling fulfilled its obligations to have systems in place to look for 
+out of character or unusual transactions, and to step in. Its not Starlings fault that Mr W 
+didnt answer all the questions honestly, and ignored the warnings. It follows that I dont 
+uphold Mr Ws claim for Starling to reimburse his loss, nor for it to pay compensation. It was 
+Mr Ws choice to incur legal costs against Starling, when he didnt need to do so to complain, 
+and similarly a consumer doesnt have to use a legal representative to seek the help of this 
+service.
+My final decision
+My final decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr W to accept or 
+reject my decision before 7 June 2023.
+ 
+Belinda Knight
+Ombudsman

@@ -1,0 +1,205 @@
+DRN-2923776
+The complaint
+Mr S says CMC Spreadbet Plc (CMC) did as follows:
+Wrongly liquidated his open trades/positions in October 2020, without notice and 
+without cause to do so. [issue 1]
+Manipulated and defrauded his trading account, including the manipulation of a trade 
+and of trade related settings (stop loss settings). [issue 2]
+Granted him an inappropriate Contracts for Differences (CFD) and spread-betting 
+trading account, upon information it falsified, that should not have been opened for 
+him. [issue 3]
+What happened
+CMC disputes the complaint and all the issues within it. Issues 2 and 3 emerged during the 
+course of this services investigations, and CMC appears to have consented to having them 
+addressed within the same complaint. Initially, CMC addressed issue 1 in its final response 
+to Mr S. In the main, it said:
+It provided/provides an execution only service in which Mr S, as an account holder, 
+retained sole responsibility to monitor and manage his account, his trading within it 
+and the margin requirements associated with his trading.
+The terms and Order Execution Policy (OEP) agreed by Mr S for the account  and 
+information prominently presented on the trading platform  informed him of that 
+equity in his account was the cash balance (including realised profits and/or losses) 
+in the account plus any unrealised profit in his open positions and/or minus any 
+unrealised loss in his open positions (based on mid-prices, to avoid the impact of the 
+relevant spread and/or slippage); that this equity stood/stands as the Account 
+Revaluation Amount (ARA); that the ARA must be above 50% of the total margin 
+required to sustain open positions in the account at any given time; and that a close-
+out level (at which open positions can/will be forcibly liquidated/closed) automatically 
+applied where the ARA fell to or below 50% of the total margin requirement in the 
+account.
+It was/is not obliged to give prior notice of a close-out and was/is not obliged to delay 
+the application of a close-out, for any reason, once it has been triggered.
+Issue 1 is about the liquidation triggered by events in Mr S US30 (Cash) open 
+position on 16 October 2020. The overall position had been hedged, not completely 
+but to the extent of a net short exposure of £0.50 per point. This meant a margin 
+requirement of £715 which was met by his ARA at the time. However, he then closed 
+one of the [buy] bets within the position which increased his net short exposure to 
+£1.60 per point. This increased the accounts margin requirement to around £2,286. 
+Even though it was not obliged to warn of a close-out, Mr S received such a warning 
+as he closed the buy bet. After the bet was closed, his ARA was £1,039.35, but 50% 
+of the margin requirement was £1,143. As the former was less than the latter, the 
+close-out automatically applied. 
+In investigating and considering issue 1, one of our investigators concluded that it should not 
+be upheld. He reached this view for broadly the same reasons (as summarised above) given 
+by CMC. He noted that CMCs application of the close-out, on the basis of the 50% of total 
+margin requirement level, was/is consistent with relevant regulations set out by the 
+European Securities and Markets Authority (ESMA) and that available evidence confirms 
+the state of the account as described by CMC. However, he considered that evidence of 
+CMCs staff inappropriately encouraging Mr S to get back into the market despite his distress 
+about the close-out that had happened showed service below the standard he was entitled 
+to. For the trouble and upset caused to him by this, the investigator said CMC should pay 
+him £200.
+CMC queried this outcome but, for the sake of resolving the complaint, it then confirmed it 
+was prepared to make the £200 payment. Mr S queried the outcome too, in terms of the 
+finding that issue 1 would not be upheld and, in response, the investigator elaborated on his 
+reasoning. Mr S wider comments then prompted the investigator to look into issues 2 and 3. 
+He provided a second view in which he affirmed his finding on issue 1 and then, with regards 
+to issue 2, he mainly said:
+There is no evidence of the manipulation that Mr S alleges. Contrary to his claim that 
+CMCs staff were incentivised to manipulate trades for additional commission, there 
+is no evidence to support this and CMC has confirmed that it does not charge any 
+commission for the trades  the client only incurred the cost of the spread. 
+Specific examples given by Mr S  a position allegedly opened in Tesla, a 
+guaranteed stop loss order allegedly placed in July 2020 that he says he did not 
+place, three stop loss orders executed in August 2020 that he disputes and a 
+guaranteed stop loss order executed in September 2020  are not supported by 
+evidence. Based on his accounts trading history, there is no record of a position 
+opened in Tesla; with regards to the disputed placement of the guaranteed stop loss 
+in July, it is not clear that Mr S did not place it and evidence shows that he closed the 
+relevant position ahead of its price reaching the stop loss level so no detriment 
+resulted from it; with regards to the stop loss orders executed in August, evidence is 
+that they were placed as he opened the relevant positions; and with regards to the 
+guaranteed stop loss order executed in September, evidence is that he amended the 
+position after opening it in order to place the order. Log-on evidence shows that he 
+was logged on to his account (and was trading) at each point the orders were placed.
+Whilst Mr S feels strongly about the allegations in issue 2, the balance of available 
+evidence does not support them.
+With regards to issue 3, the investigator referred to the regulators rules on assessing 
+appropriateness and mainly said:
+Available evidence is that Mr S submitted an application for the account in which he 
+presented himself as retired; with income between £50,000 and £99,999; with 
+savings and investments worth between £100,000 and £500,000; with experience in 
+trading shares and derivatives; with some work experience relevant to trading; with 
+prior understanding of market volatility and liquidity; with an understanding of an 
+account holders responsibility to manage and monitor the account; and with the 
+objective to engage in short-term intraday trading. 
+Mr S disputes the above, he says he was unemployed and in receipt of universal 
+credit, he says his profile was significantly different (with much less affordability) and 
+he says CMC falsified the profile information in order to deem the account 
+appropriate for him. However, there is insufficient evidence to support Mr S position 
+and nothing to suggest or show that CMC falsified the profile as he says it did. The 
+regulators rules on the assessment of appropriateness permit a firm to rely on 
+information provided by a client unless it is aware the information is inaccurate, incomplete or out of date. Though Mr S provided a copy of his bank statement to 
+CMC during the application and though that could have been viewed as conflicting 
+with the profile information, CMCs explanation that the statement was used only to 
+verify his address at the time means, on balance, it relied on the profile information 
+as it was.
+In addition, there is also evidence that Mr S had traded extensively in a previous 
+account with a previous firm, so he had the knowledge and experience to understand 
+the risks in the CMC account; and the volume of his combined trading in both 
+accounts suggests that he would have sought an account elsewhere in order to 
+trade, even if CMC had rejected his application.
+It cannot be concluded that the account should have been deemed inappropriate for 
+Mr S.
+Mr S asked for an ombudsmans decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Issue 1
+I endorse the investigators findings on this issue  I also incorporate his findings (as 
+summarised above and as set out in his views to both parties) into this decision. As he said, 
+evidence stands in support of the execution only nature of Mr S account; in support of his 
+responsibility to monitor and manage the account (and the margin requirement within it); in 
+support of how the ARA, the margin requirement (which fluctuated in line with trading 
+activities) and the close-out levels (which fluctuated in line with the changing margin 
+requirement) were defined; in support of the facts within his account at the time of the 
+liquidations in October 2020; and in support of the close-out applied in response to his 
+accounts breach of the minimum margin requirement stipulated by the terms for his account 
+and by ESMA.
+This issue is mainly dependent on evidence of the state of Mr S account at the time of the 
+liquidation he disputes. I do not consider that there is a credible basis to say he was 
+unaware of the workings of margin in his account and of the workings of the automatic close-
+outs that applied where the minimum margin requirement was breached. As CMC says, 
+there was no contractual (or regulatory) requirement upon it to give prior notice of the close-
+out  because primarily and solely, it was for Mr S to monitor and manage the account 
+sufficiently to avoid such an occurrence  and, for the same reason, no obligation on its part 
+to allow time for Mr S to repair a margin breach before a close-out applied.
+Evidence shows that by altering the hedge within his overall US30 position  after closing 
+the buy bet  Mr S unfortunately triggered the margin breach that led to the liquidation. On 
+balance, and for the above reasons, I do not consider a wrongdoing on CMCs part in this 
+respect. However, as the investigator identified, CMC mishandled  either intentionally or 
+negligently  its customer service to Mr S thereafter and as he was still in a state of distress 
+about the liquidation. For the trouble and upset caused to him in this respect, I endorse the 
+investigators proposal and I order that CMC pay Mr S £200. To its credit, I acknowledge that 
+CMC agreed to this payment shortly after the investigators proposal (and its brief query) and 
+that it has recently affirmed that its agreement remains in place.
+Issue 2
+This issue is also mainly dependent on evidence and is also faced with a body of evidence which, overall and on balance, does not support Mr S allegations. The investigators second 
+view set out his findings clearly and I do not consider that anything meaningful can be added 
+to them. Again, I endorse and incorporate those findings into this decision. As presented in 
+my summary (above) of the investigators findings, there is a lack of evidence to establish, 
+on balance, the manipulation that Mr S alleges and in terms of his specific examples of 
+manipulation, the first cannot be determined but shows no detriment to him and the others 
+are not supported by documentary and log-on related evidence. 
+I have noted from Mr S early correspondence with CMC, that he referred to reporting his 
+allegations of manipulation and fraud to the regulator and to the police. If that has been 
+done, both authorities bear the remit to investigate such claims on their relevant terms and 
+he can refer back to them in that respect. If that has not been done and with regards to our 
+treatment of his allegations, Mr S is reminded that we can only determine complaints based 
+on available evidence and such evidence does not support his claims. If he considers that a 
+more forensic style investigation is required, he retains discretion to consider his earlier 
+references to approaching the regulator and/or the police.
+Issue 3
+The regulators Conduct of Business Sourcebook (COBS) rules address, amongst other 
+matters, a firms regulatory responsibilities with regards to appropriateness and suitability of 
+investment products and services for retail clients. The COBS rules apply differently for 
+appropriateness than they do for suitability. The rules for the former apply to an execution 
+only service but the rules for the latter do not apply to such a service because advice does 
+not form a part of the service, so there is no obligation upon a firm to ensure a product or 
+service is suitable for the client. 
+I mention the above because some attention has been given to Mr S affordability status at 
+the time he applied for the CMC account and with regards to the application profile that was 
+submitted in arguable contrast to what his bank statement showed. First, I consider it 
+plausible that, given evidence that the request for identification proof was made after the 
+account had been granted (so after appropriateness had been assessed), the bank 
+statement submitted in response to the request was relevant only to identification, was not 
+considered in the context of appropriateness and was received after appropriateness had 
+been concluded. Second, and perhaps more importantly, it should be noted that affordability 
+is usually a feature of the assessment of suitability, not of appropriateness (as set out further 
+below). As such, I am not persuaded that CMC was obliged, in terms of assessing 
+appropriateness of the account for Mr S, to take on board matters of affordability.
+Appropriateness is assessed on information, from a client to a firm, used to determine 
+whether (or not) the client has sufficient knowledge and experience to understand the risks 
+involved in the service or product offered by the firm. In this respect, information about the 
+type of service(s) and investment(s) the client is familiar with is important; and the same 
+applies to information about the nature, volume, frequency and length of the clients 
+experience in the familiar service(s) and investment(s). 
+The COBS rules include the following  An investment firm shall be entitled to rely on the 
+information provided by its clients or potential clients unless it is aware or ought to be aware 
+that the information is manifestly out of date, inaccurate or incomplete. CMC was not 
+required to probe and verify the information it received from Mr S, and as I have addressed 
+above it does not appear that it had his bank statement at the time of its appropriateness 
+assessment. Despite Mr S challenges, there is a lack of evidence to show that, as he 
+alleges, the profile information considered by CMC was not from him and that it was falsified 
+by CMC. The balance of available evidence is that the profile information was what CMC received from his application for the account. I have not seen evidence that CMC had, at the 
+time of the assessment, knowledge  or that it ought to have had knowledge  that the 
+profile information was out of date, inaccurate or incomplete, so, on balance, it was entitled 
+to rely on it. Furthermore, and as the investigator noted, Mr S had previous trading 
+experience. That stands broadly consistent with the trading experience depicted in the profile 
+information presented to CMC.
+Overall and on balance, the information presented to CMC in the course of Mr S application 
+ and information it was entitled to rely on  confirmed an applicant profile with relevant and 
+broadly requisite trading knowledge and experience, enough to safely conclude that he 
+understood the risks associated with the account. On this basis, I do not find that the 
+account should have been deemed inappropriate for him.
+Putting things right
+CMC must pay Mr S £200 for the trouble and upset caused to him in issue 1.
+My final decision
+For the reasons given above, I uphold Mr S complaint but only with regards to the trouble 
+and upset caused to him in issue 1. I order CMC Spreadbet Plc to pay him £200 in that 
+respect.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr S to accept or 
+reject my decision before 31 August 2021.
+ 
+Roy Kuku
+Ombudsman

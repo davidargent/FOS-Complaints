@@ -1,0 +1,117 @@
+DRN-3927979
+The complaint
+Ms K is unhappy Caxton Payments Limited wont refund money she lost as a result of a 
+payment she didnt authorise.
+What happened
+It is undisputed that, in June 2021, Ms Ks email account was accessed by a third party. That 
+third party was able to reset her Caxton account password and instruct a number of 
+payments from her account. Only one of those payments has not been returned to Ms K  a 
+payment of £9,850. 
+The following day Ms K noticed an email from Caxton relating to the fraudulent instruction. 
+She contacted Caxton and the matter came to light. 
+It said that it wasnt responsible for her loss because it had acted in line with its terms and 
+conditions and its security systems had not been compromised. 
+Ms K argued that Caxton didnt provide adequate protection to its clients as there was no 
+additional security check on the payments. She also pointed out that the fraudulent 
+instructions ran contrary to her stated intentions for the money, something Caxton was fully 
+aware of.
+Ms K referred the matter to our service and one of our investigators upheld it. They thought 
+that under the relevant regulations Caxton, rather than Ms K, was responsible for the 
+payment. So, they recommended that it refunded Ms K in full.
+Caxton didnt agree. It maintained that its terms and conditions meant it wasnt responsible 
+for the loss. Ms K said that shed like a final decision to be clear that Caxton had a 
+responsibility to keep her funds safe and it failed to do this by not listening to her intentions, 
+not having the correct protocols in place and not noticing that the fraudulent instruction did 
+not match her normal way of making a payment. She was also disappointed with the way in 
+which Caxton handled her claim and felt it was very dismissive.
+ 
+As no agreement could be reached, the case was passed to me for a final decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Under the relevant regulations, the Payment Services Regulations 2017, Ms K is only 
+responsible for transactions shes authorised.
+Theres no dispute that Ms K didnt ask Caxton to make the transaction. But Caxton seeks to 
+rely on clause 5.4 of its terms and conditions to argue that any instruction it receives from a 
+users account can be treated as authorised. That clause demands that:
+"The Client shall keep all passwords and authorisations issued to it by CFX confidential and 
+secure and CFX shall be entitled to rely on all instructions or Orders received by it using 
+those passwords and authorisations as if they were received from the Client, without 
+conducting any further checks as to the identity of the person making the instruction or 
+Order."
+A transaction can still be considered authorised if an account holder has given authority to 
+another person (intentionally or otherwise) to act on their behalf. But a business cannot treat 
+any instruction as authorised merely because it has been authenticated using the account 
+holders personalised security information. It also needs to demonstrate that the person 
+instructing the payment either was, or had the authority of, the payment service user 
+(whether that authority was apparent or actual).
+In this case, Ms K didnt give any authority to another person (intentionally or otherwise). Her 
+email account was accessed fraudulently and her Caxton password was reset.
+ 
+So, Im satisfied the transaction in dispute wasnt authorised by Ms K and that means, as a 
+starting point, Caxton is responsible for the loss.
+Under the PSR 2017, an account holder can be held responsible for an unauthorised 
+payment if theyve failed with intent or gross negligence to comply with Regulation 72 or the 
+terms of their account. Theres no definitive definition of gross negligence but it suggests a 
+very significant degree of carelessness and a serious disregard to an obvious risk.
+ 
+Reg. 72 PSR 2017 sets out that:
+(1) A payment service user to whom a payment instrument has been issued must
+(a)use the payment instrument in accordance with the terms and conditions governing its 
+issue and use; and
+(b)notify the payment service provider in the agreed manner and without undue delay on 
+becoming aware of the loss, theft, misappropriation or unauthorised use of the payment 
+instrument.
+(2) Paragraph (1)(a) applies only in relation to terms and conditions that are objective, non-
+discriminatory and proportionate.
+(3) The payment service user must take all reasonable steps to keep safe personalised 
+security credentials relating to a payment instrument or an account information service.
+In addition to the clause Ive already set out, Caxton also rely on clause 11.3 of their terms. 
+That clause explains that:
+"You must maintain up to date anti-virus protection on the device from which You access 
+Your Caxton account. You must also remain vigilant and check that You are accessing only 
+the proper Caxton website at all times."
+Ive already explained that Ms K did not intentionally share any sensitive account 
+information. Its clear that the fraudster was able to access her account by resetting her 
+password. So, Im satisfied that her loss was not as a result of an intentional disregard of the 
+terms or her obligations in Reg. 72. Ive gone onto consider whether Ms K failed with gross 
+negligence. 
+It isnt enough for Caxton to show that either clause was breached, it needs to show that any 
+breach was grossly negligent. But, in any case, theres no evidence that Ms K didnt have up 
+to date anti-virus protection and, as far as I know, such software wouldnt necessarily 
+prevent a third-party gaining access to an email account. So, Caxton cannot rely on clause 
+11.3 to decline her claim.In relation to clause 5.4, its undisputed that the third party obtained access to Ms Ks 
+account by resetting her Caxton password. There is nothing to suggest Ms K failed to keep 
+her password secure. Whether Ms Ks email account password was also kept secure is 
+unknown to me, but also not relevant. It wasnt issued to her by Caxton and, in these 
+circumstances, would not constitute a payment instrument under the PSR 2017 (as it was 
+not used, and seemingly could not be used, to instruct the payment).
+So, Caxton havent satisfied me that its terms were breached and I certainly havent seen 
+anything to suggest they were breached with intent or gross negligence. It follows that 
+Caxton are responsible for Ms Ks loss. 
+Turning to Ms Ks points, I understand why shes unhappy that the transaction was ever 
+allowed to proceed. It isnt my role to instruct Caxton as to what security procedures it ought 
+to have in place. But I can consider whether a financial business ought to have identified that 
+an instruction it received was fraudulent. I agree that the fraudulent instruction which 
+seemed to be contrary to Ms Ks intention for the money and the fact the payment was 
+instructed in a way that wasnt typical for her account, might have caused some concern but 
+Im also sympathetic to the arguments raised by Caxton  that it is a large business dealing 
+with many clients and instructions. In any case, such a finding makes no difference to the 
+outcome of this case.
+Finally, turning to interest, Ms Ks intention was to invest the money in stocks and shares. 
+Understandably, shes not able to demonstrate how her investment would have performed 
+over the period since her loss. Taking that into account, our investigator recommended 
+interest at the Bank of Englands published rate for one year fixed-rate bonds for the month 
+of June 2021. That rate is 0.24%. As Ms K has accepted this and its not possible for me to 
+accurately calculate how any investments might have performed, I think this award of 
+interest is fair. 
+My final decision
+I uphold this complaint and instruct Caxton Payments Limited to pay Ms K:
+- £9,850
+- Simple interest per annum on that amount at the rate of 0.24% from the date of loss 
+to the date of settlement. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Ms K to accept or 
+reject my decision before 23 February 2023.
+ 
+Rich Drury
+Ombudsman

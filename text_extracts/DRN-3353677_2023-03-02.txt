@@ -1,0 +1,89 @@
+DRN-3353677
+The complaint
+Mr C is complaining that Saxo Capital Markets UK Limited closed out his foreign exchange 
+(forex) positions, causing him a significant financial loss.
+What happened
+Mr C held a number of forex positions with Saxo. He anticipated that there might be margin 
+calls in March 2020 and tried several times to fund his account using his credit card. But his 
+payments werent accepted. He says this is because of a problem with Saxos systems. 
+Mr C then closed one of his positions on 18 March 2020 in a further attempt to avoid a 
+margin call. But there was still a margin call, with Saxo closing out all of Mr Cs forex 
+positions, crystallising a loss of around 6,000 euros. Mr C says Saxo incorrectly calculated 
+his margin utilisation and the close-out should not have happened. 
+In response, Saxo said the credit card payments didnt go through because of risk issues 
+raised by the credit card providers  they said this wasnt their fault. And they said theyd 
+correctly calculated Mr Cs margin utilisation and it was appropriate to close his positions.
+Because Mr C wasnt happy with Saxos response he brought his complaint to our service. 
+The investigator concluded that Saxo hadnt acted unfairly and didnt uphold the complaint. 
+But Mr C remained unhappy. He didnt think our investigator had properly considered his 
+calculations. He said that Saxos calculations had used values from different points in time. 
+And he felt Saxo hadnt acted reasonably as required by their own terms and conditions  he 
+pointed out that Saxo could have closed one of his positions to meet the margin 
+requirements instead of all of them. Mr C asked for a decision  so its come to me.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, Im not upholding Mr Cs complaint. I appreciate this will be very 
+disappointing for Mr C but Ill explain why. 
+Failed credit card payments
+From what Ive seen, it seems like Saxo were having some issues with their credit card 
+system at the time Mr C was trying to fund his account  on a call, one of Saxos 
+representatives said the credit card module wasnt opening. And in a later email she said: 
+ has confirmed that the issue with depositing via card is solved. You can try to deposit via 
+card again.
+However, I dont think this accounts for all of the failed credit card payments. Saxos system 
+print shows three attempts which successfully came into their system but were then refused 
+because the risk score was high. This happens when incorrect information has been entered 
+ whether its the wrong dates or card security code, or multiple password attempts. 
+Saxos system also shows about ten other payments which are shown as redirected. Saxo 
+explained that this is where the payment is not completed properly from the clients bank 
+side of things or there are other issues while executing this payment. Its not clear therefore 
+exactly why these payment attempts didnt succeed, but I cant say its Saxos fault that all 
+Mr Cs payment attempts were unsuccessful.
+Accuracy of margin calculations
+Ive reviewed Saxos margin calculations. I know Mr C thinks there are timing differences 
+within the calculation. He also thinks Saxo havent taken account of the position he closed 
+shortly before the margin call. But from everything Ive seen, Im satisfied Saxo calculated 
+margin correctly at the time of the margin call. Im not explaining this further here because 
+our investigator set out and explained the calculation in detail in his view.
+I can see Mr C has attempted to calculate the margin himself and would like our service to 
+comment on his calculations. Mr Cs calculation is more a reverse engineering exercise so 
+cant be directly compared. It isnt entirely clear and seems to include some inconsistencies. 
+I have considered it carefully but Im not persuaded by it. I can understand Mr Cs view that 
+the margin utilisation percentages moved more quickly than expected. But the markets do 
+often move quickly and, having reviewed both calculations, Im persuaded thats whats 
+happened here. The margin call has been caused by the market movements and not by 
+incorrect calculations. 
+Saxos decision to close all positions
+Saxos terms and conditions allow them to close a clients positions when their account 
+doesnt meet the margin requirement. The relevant term says: It is your responsibility to 
+ensure that sufficient Margin is available on your Account at any timeyou are obliged to 
+reduce the amount of open Margin Trades or transfer adequate funds to us. Even if you take 
+steps to reduce the size of open Margin Trades or to transfer sufficient funds to us, if we 
+reasonable [sic] consider that you may not be able to meet your obligations to us under 
+these terms we reserve the right to close one, several or all of your Margin Trades or part of 
+a Margin Trade and/or liquidate or sell Securities or other property on your Account.
+Its common practice on contract for difference accounts like Mr Cs that all trades are closed 
+when a customer fails to meet their margin requirements. And Saxos terms allow for that. 
+When I asked them in what circumstances they might not close all positions, they said this 
+would only apply if a clients account was on partial liquidation setup. So although the 
+wording refers to one, several or all, Saxos practice in Mr Cs circumstances would always 
+be to close all positions. 
+I can understand Mr Cs perspective  he felt he was doing everything he could to try to fund 
+his account, and had given Saxo no reason to think he might not. But, given that his account 
+breached the margin requirements and Saxo acted within their terms, I cant say that they 
+acted unfairly or unreasonably in closing Mr Cs positions. The close-out will have been 
+automated and it wouldnt be reasonable to expect Saxo to consider each individual clients 
+margin calls on a position by position basis.
+Summary
+Taking everything together, I cant say Saxo have acted unfairly or unreasonably. Its 
+unfortunate that Mr Cs credit card deposits didnt work, and that the markets moved 
+significantly in a short space of time which led to the margin call  but I cant say that was 
+Saxos fault. My final decision
+As Ive explained above, Im not upholding Mr Cs complaint about Saxo Capital Markets UK 
+Limited.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr C to accept or 
+reject my decision before 30 March 2023.
+ 
+Clare King
+Ombudsman

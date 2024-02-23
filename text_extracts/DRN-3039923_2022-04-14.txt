@@ -1,0 +1,161 @@
+DRN-3039923
+The complaint
+Miss T is unhappy that Monzo Bank Ltd wont refund payments she didnt authorise.
+What happened
+On 16 July 2020, Miss T received a text that appeared to be from Monzo telling her to expect 
+a call about suspicious activity on her account. She later received this call and has recalled 
+that:  
+They went through transactions that she did and didnt make. 
+She was asked for her PIN to verify her identity.
+They asked her to move money from a different account to her Monzo account, so 
+they could transfer it back to see if the account was OK or if she needed a new one. 
+She was told to delete her Monzo app and check back in later, so her account could 
+be secured. 
+The next day, Miss T reported that money had been taken from her account. Monzo declined 
+to refund this because they didnt think shed done enough to keep her PIN safe. 
+The complaint has come to me for a final decision. For ease, Ive included a timeline of the 
+relevant events from 16 July: 
+5.25pm Miss T was sent the text that appeared to be from Monzo. 
+5.40pm Monzo sent an email to Miss T, with a link to log into her Monzo account. 
+5.41pm The log-in email was forwarded from Miss Ts email account to a monzoteam 
+address.
+5.42pm An iOS device was used to access Miss Ts Monzo account. 
+5.43pm An Android device was used to access Miss Ts Monzo account, which continued 
+until 5.50pm. 
+5.43pm Miss Ts screenshot of an incoming call from No Caller ID 
+5.46pm A faster payment was sent to a third party for £360. 
+5.48pm £1 was received from Miss Ts account with another bank. 
+5.48pm £400 was received from Miss Ts account with another bank.
+5.49pm £1 was sent to Miss Ts account with another bank.
+5.49pm A faster payment was sent to a third party for £400. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+How the scam unfolded 
+Before I come to the key considerations that apply to this case, Ive noted Monzos concerns 
+and confusion with how this scam unfolded. It appears these boil down to two things: how 
+the email with the log-in link was forwarded to the fraudsters; and how this was sent before 
+the call with the fraudster. 
+I cant say for certain what happened. But all civil disputes, like this one, are decided on the 
+balance of probabilities. In other words, whats more likely than not to have happened. 
+Miss T denied sharing any log-in emails. But there were two emails stored in her trash: one 
+from Monzo with the link and another from Miss T to monzoteam@consultant.com that 
+forwarded Monzos email. 
+Im not persuaded someone hacked Miss Ts email account. The screenshots provided dont 
+show that anyone else had access. And if they did, they wouldnt have needed to forward 
+Monzos email. They couldve just clicked on the link. So I think its more likely than not that 
+Miss T forwarded Monzos email to the fraudster.
+Monzo are concerned she tried to hide this from them. I share their concerns. But Im mindful 
+that victims of scams arent always entirely open with what happened  often down to 
+embarrassment. And here, even treating Miss Ts testimony with caution, theres evidence to 
+support what shes said. Weve screenshots of the spoofed text message and call; an email 
+shared to someone purporting to be Monzo, at an address thats been used in other scams; 
+and funds went to an account which was emptied straightaway. So Im satisfied that Miss T 
+was a victim of a scam. And I think this came about because she was trying to show what 
+happened in a better light.
+Monzo have also questioned how the email link was sent before the call took place. Our 
+investigator set out why they thought there was another call before, and I broadly agree with 
+those reasons. Miss T recalled getting a call five minutes later, whereas the record we have 
+is nearly 20 minutes later. While the screenshot looks like there was one call, my 
+understanding is that multiple calls wouldnt appear when the number is withheld  that 
+would be a separate record. 
+In saying that, I appreciate Miss T said there was just one call. But I also note that Monzo 
+didnt probe her on this. And Im satisfied this is a plausible, persuasive explanation. The flip 
+side is that there wasnt a call and Miss T has engineered a situation to make it look like she 
+was scammed. I accept its possible, but given the rest of the evidence Ive described, Im 
+not persuaded that its more likely. 
+Ive kept these points in mind while deciding the case. 
+Did Miss T authorise the transactions? In line with the Payment Service Regulations 2017 (PSRs), Miss T isnt liable for payments 
+she didnt authorise, unless she failed with intent or gross negligence to comply with the 
+terms of the account or keep their personalised security details safe. 
+ 
+Ive considered whether Miss T authorised these transactions  and so, in line with the 
+PSRs, whether she gave her consent to make the payments, using the form and procedure 
+that was agreed with Monzo. Or, whether she gave someone else permission to consent to 
+these payments on their behalf.  
+ 
+Ive reviewed the accounts terms and conditions to see how it was agreed for payments to 
+be made. For those in place at the time, theres a link how to make different payments. This 
+link says that to send money, you need to tap the Payments icon in the menu bar  and that 
+youll need the recipients name, their account number and their sort code.  
+Ive thought about whether Miss T took any of these steps. Miss T explained she has an 
+iPhone, which matches Monzos data of the device that was used before this happened. 
+Whereas the payments made on 16 July came from an Android device that hadnt been 
+used before. 
+So Im not satisfied that Miss T used the form and procedure that was agreed to consent to 
+the payments. 
+Im also not satisfied she gave permission for someone else to consent to the payments on 
+her behalf. In saying that, Ive thought carefully about Miss Ts recollection that she had to 
+send money from another account to her Monzo account, which theyd send back to check 
+everything was OK. But Im not persuaded that meant she understood and, therefore, 
+allowed someone else to access her account and make faster payments using the form and 
+procedure Ive set out. Instead, it seems this was a ploy to get her to top up her account and 
+she thought money would be returned internally by her bank. 
+So, in all, I dont think Miss T used the form and procedure to consent to these payments, 
+and I dont think she gave someone else permission to consent to payments on her behalf. It 
+follows that the payments were unauthorised. 
+Did Miss T fail with intent or gross negligence to keep her personalised security details safe 
+or the 
+I dont think Miss T intentionally failed to keep her details safe. I accept that what she was 
+doing was because shed been alerted to suspicious activity on her account.  
+Im also not satisfied Miss T failed with gross negligence. She received a text that appeared 
+to be from Monzo alerting her to suspicious activity on her account and to expect a call. So 
+when she received that call, I can see how she felt comfortable that she was speaking with 
+her bank. Particularly as it seems that they knew details about her and went through a 
+process  checking what transactions she made  that felt familiar to her.     
+As part of verifying her, they asked for her PIN. Miss T said this didnt alarm her at the time 
+because the PIN is what Monzo generally use for security  they dont have other things like 
+passwords or memorable information. So, in the moment, I can see how she thought that it 
+was part of telephone security. Alongside her trust in who she was speaking to, I dont think 
+it meant she fell far below what a reasonable person wouldve done. 
+Ive set out earlier in the decision why I think Miss T did forward Monzos email with the log-
+in link. Because Miss T has denied this, its difficult to know what happened. But we know from the text message that the premise of the scam related to suspicious activity on the 
+account. And our experience dealing with similar scams shows that victims are often 
+coached into sharing information for verification or as part of protecting their account. I 
+think its likely thats what happened here. And given the circumstances  that Miss T 
+believed this was her genuine bank trying to help her and that her account wasnt secure  I 
+can see why she followed their instructions. Im not persuaded she was significantly careless 
+for doing so. 
+In saying this, Ive seen theres a warning in the email not to share it with anyone, including 
+Monzo. But it looks like Miss T was acting quickly  the email was forwarded one minute 
+after it was received. So I can see how she may have missed this  and focused more on 
+the instructions she was given from someone she thought was trying to help. I dont think it 
+meant Miss T seriously disregarded an obvious risk. Indeed, weve seen many others who 
+have acted in the same way she did. 
+Monzo have also highlighted the length of the call, and that they dont think its long enough 
+to establish trust. Ive explained why I think there was another call. But even if I thought 
+differently, Im not convinced it would change things. Afterall, a key component of Miss Ts 
+trust rested on how the fraudsters cleverly sent a text message that looked legitimate telling 
+her to expect a call. That meant this wasnt a cold call in Miss Ts eyes, which might have 
+raised more suspicion  and that the caller was working from a position of trust, as opposed 
+to having to build it. 
+Taking this all into account, I dont think Miss T failed with gross negligence. So, in line with 
+the PSRs, I conclude that she isnt liable for the transactions. 
+Putting things right
+In deciding how to put things right, I have reflected on my concerns that Miss T wasnt as 
+open as she ought to have been with Monzo about how this unfolded  and whether that 
+should impact the money that is returned. But my findings have explained that, even if shed 
+been forthcoming with the details, Im persuaded she wouldnt be liable under the PSRs. So I 
+dont think its led to her gaining anything she wouldnt have otherwise fairly been entitled to. 
+It follows that its not changed my award to reimburse the transactions. 
+Monzo should, therefore, refund the disputed transactions (totalling £760) less any amount 
+recovered. It should add 8% simple interest per year on this amount from the date of loss to 
+the date of settlement (less any tax lawfully deductible).
+Miss T said she took out a payday loan because of these losses, but shes not provided 
+further details. So Im satisfied that 8% interest is a fair way to compensate Miss T for the 
+time shes been out of pocket. 
+Monzo shouldve refunded this sooner, which meant Miss T was very stressed and worried 
+about how shed afford to live. Although I acknowledge that Monzos investigation was made 
+harder by Miss Ts responses. Taking this all into account, I think Monzo should also pay 
+£100 to reflect her non-financial losses. 
+Monzo also offered to refund £4, the balance of Miss Ts account when it was closed, plus 
+£25 for not doing it sooner. Miss T didnt bring a complaint about this to our service, so it 
+doesnt form part of my award. Miss T should contact Monzo separately if she wishes to 
+pursue that. My final decision
+For the reasons Ive explained, I uphold Miss Ts complaint. Monzo Bank Ltd must settle the 
+complaint in the way Ive set out under Putting things right. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Miss T to accept or 
+reject my decision before 12 May 2022.
+ 
+Emma Szkolar
+Ombudsman

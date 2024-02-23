@@ -1,0 +1,74 @@
+DRN-4173869
+The complaint
+Mr D has complained that Revolut Ltd failed to carry out an international transfer correctly 
+and that it has still not returned the funds to him.
+What happened
+In January 2022 Mr D transferred £7,000 from his Revolut account to his bank account 
+abroad but the funds didnt arrive.
+Revolut says it has tracked the funds as arriving at the recipient bank, who then rejected the 
+payment for unspecified reasons. The payment was therefore shown as being on hold at the 
+recipient bank on 24 January 2022. Usually in such cases the payment would bounce back 
+within five days. When that didnt happen, it put a recall on the payment but it has never 
+received any response from either the recipient bank nor its correspondent bank.
+The recipient bank has told Mr D that it did not reject the payment. It says it never received it 
+because Revolut didnt send the cover message that would allow the money to be credited. 
+So the payment sat with its correspondent bank. More recently the recipient bank has told 
+Mr D that Revolut asked for the funds to be returned and so he should contact Revolut.
+Our investigator said she was unable to conclude that Revolut was at fault. Mr D disagrees 
+with the investigators opinion and so the complaint has been passed to me for a decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+This is a very difficult situation as Mr D has still not had his money back. But in looking at this 
+complaint my focus is on whether Revolut is responsible for what has gone wrong.
+International transfers often involve the money passing through lots of different hands. In this 
+case it originated with Revolut who forwarded it to its partner bank. The money is then 
+transferred to the recipient banks correspondent bank and then finally on to the recipient 
+bank. A system called SWIFT is used to carry out the transfer. In this case a SWIFT process 
+called the cover method was used. 
+The cover method is a two-step process. Firstly, a message is sent to announce that the 
+funds are coming. Then a second cover message is sent which allows the funds to move 
+between the correspondent accounts.
+Although the recipient bank has said that the cover message was not sent, Revolut has 
+provided copies of the necessary SWIFT messages being sent. Also, there is a tracker 
+system that shows the funds arriving at the recipient bank.
+Revolut is responsible for the transaction up to the point when it arrives at the recipients 
+correspondent bank, when it then becomes the recipient banks responsibility. The cover 
+message is what would have allowed the money to move from Revoluts partner bank to the 
+correspondent bank. Without it the funds would have stayed with the partner. And the 
+recipient bank has confirmed that the funds arrived at its correspondent bank. So from that 
+its possible to conclude that its more likely than not that Revolut carried out the transaction 
+correctly, including providing the cover message.
+Based on the available evidence, Im satisfied that the funds did arrive at the recipient bank 
+or its correspondent bank. So, Im unable to conclude that there was an error in the way that 
+Revolut carried out the transfer.
+Revolut then tried to recall the payment. Ive seen the SWIFT message that it sent to its 
+partner bank asking them to do that. Ive also seen copies of numerous messages that both 
+the partner bank and Revolut sent to the recipient bank and its correspondent. There has 
+never been any response to any of these messages. As I understand it, Revolut also wrote 
+to the recipient bank but, again, with no response.
+As Mr D was able to make contact with the recipient bank, Revolut asked him to get an 
+explanation from them about why it wasnt responding to its SWIFT messages. It also gave 
+him the reference number so that he could ask the recipient bank to respond. Im unsure 
+whether Mr D asked the recipient bank these direct questions but there has certainly been 
+no response from them about this issue.
+I can also see that Mr D asked the recipient bank to contact its correspondent bank about 
+locating the funds. But again, I havent seen that they did that or that they advised Mr D of 
+any outcome about that, beyond saying that Revolut had asked for a recall.
+In telling Mr D that and suggesting he should therefore contact Revolut to find out where the 
+money is, they gave Mr D a copy of the SWIFT recall request. But that only proves that 
+Revolut did ask for the recall. It is not proof that the recipient bank actioned it. 
+As it stands, Revoluts investigations cannot find any record of the refund being made. 
+Clearly this situation has been made much more difficult due to the recipient bank and its 
+correspondent bank failing to respond to any approaches by Revolut. The latest situation is 
+that Revolut has asked Mr D to liaise with the recipient bank to provide the SWIFT message 
+from them confirming that the recall was done. Or, if the refund was done via a different 
+method, to provide proof of that. Is that evidence is provided, Revolut will use it to try and 
+locate the funds. I think this is a reasonable response by Revolut.
+My final decision
+For the reasons set out above, I do not uphold the complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr D to accept or 
+reject my decision before 13 July 2023.
+ 
+Carole Clark
+Ombudsman

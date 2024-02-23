@@ -1,0 +1,153 @@
+DRN-3073495
+The complaint
+Mr C complains to Saxo Capital Markets UK Limited about an options trade he was closed 
+out of due to margin. He doesnt think the margin requirement was correctly applied and 
+seeks compensation for the money lost. 
+What happened
+Mr C has a trading account with Saxo. He was short a FTSE contract option but got closed 
+out at 8:17am on 1 September 2020 when his equity on account fell below the margin 
+required. Mr C was unhappy about this as he didnt think he ought to have got stopped out at 
+that level. He thought there might have been a system error as hed tried to trade his way out 
+himself and had tried calling Saxo to speak to a trader but couldnt get through. 
+Mr C lost around £800 so he made a complaint. Saxo looked into Mr Cs concerns but didnt 
+agree theyd done anything wrong. They said theyd told him about margin requirements 
+when he opened his account and shared the figures for the margin requirement and his 
+equity position at the time of the stop out  having considered those numbers they said the 
+stop out was executed correctly. They also confirmed there hadnt been any system failure, 
+instead Mr C couldnt buy back the option as the margin had already been breached and the 
+system was already working an order to buy back. 
+Unhappy with this, Mr C asked for our help. One of our investigators had a look at what had 
+happened, but she didnt think Saxo had done anything wrong and instead thought Mr C had 
+been fairly stopped out in line with the terms of the account. Though she noted Mr C said 
+hed been told by the account opening member of staff that the margin requirement was 50% 
+not 100%, Saxo didnt have call recordings which confirmed that. She acknowledged Mr Cs 
+concerns about not being able to trade out of the position himself, and not being able to call 
+the trading desk, but didnt think this changed anything. 
+Mr C didnt agree. He made a number of further submissions to our service and said, in 
+summary:
+Saxo closed his position prematurely and contrary to verbal and email 
+communication in relation to margin requirements being standard across the 
+derivatives industry and exchange. 
+He hadnt agreed to a 100% margin with Saxo  other firms only require 50% in line 
+with EU rules which is the industry standard. He shared a link to Saxos website to 
+highlight that a 100% requirement wasnt clearly stated. 
+Instead, Saxos terms concerning margin on short options included a complex 
+formula of their own making which was vague and unquantifiable  he didnt think it 
+was in line with the industry standard and felt itd only be understandable to Saxo. 
+He was short, with no direct ownership and exchange margins wouldnt close a 
+position out if the market moved less than 1%  this wasnt explained to him or made 
+clear. Had it have been clearer, he wouldnt have opened the position in question 
+given what was set to be an onerous margin requirement. 
+He had an email from Saxo that confirmed they acted in line with exchange margin 
+parameters but in his case, they hadnt. 
+If hed have opened the position with another firm, the exchange margins would have 
+applied and his position would have been successful retaining 100% of the sold 
+option premium. 
+Saxo failed to offer the telephone trading service which had been a pre-requisite to 
+him opening his account.
+And that thered be many phone calls where Saxo explained their focus as a firm on 
+options, repeatedly saying how competitive they were and how they worked in line 
+with exchange margins. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+The crux of Mr Cs complaint concerns the disclosure and application of what he considers 
+to be non-industry standard margin requirements. In thinking about these points, I have 
+carefully considered his account set up, activity and evidence he has shared. 
+When Mr C opened his account he told Saxo he was an experienced trader and indicated he 
+had several years of experience in the options market. In order to open the account, he had 
+to agree to Saxos terms and conditions. These covered a number of points, including the 
+fact he needed to maintain margin or his positions could be closed out. The terms also 
+mentioned Mr C could monitor his margin utilization in real time on the platform, that 
+movement in the market price would affect the amount of margin required and that different 
+margin requirements applied to different investments traded. 
+Saxos website also included their commissions, charges and margin schedule. This covered 
+margin utilisation and made clear, It is not just vital but also your responsibility to effectively 
+manage and monitor your account at all times to ensure that it does not breach 100% margin 
+utilisation. If your account breaches 100% margin utilisation, then automatic margin close-
+out may commence, and consequently positions may be closed and existing orders may be 
+cancelled. In June 2020, Mr C opted up to the advanced profile so he could sell contract 
+options  to do so required confirming understanding of an additional disclaimer for clients 
+who wanted to write options and receive margin benefits on options strategies. He confirmed 
+to Saxo he agreed with their additional disclaimer which said, in part:
+Losses on a short option position can be substantial when the market moves against 
+the position. We will therefore charge premium margin to ensure sufficient account 
+value to be available to close the short position and additional margin to cover 
+overnight shifts in the underlying value. The margin charges are monitored in real-
+time for changes in market values and a stop out can be triggered when the total 
+margin charge for all margined positions exceeds the clients margin call profile.
+The generic formula for the short option margin charge is: 
+Short Option Margin = Premium Margin + Additional Margin
+Ive considered the trade data from the day Mr C was closed out. Mr Cs cash balance was 
+£4,478.04 but his running loss was £790, with a cost to close of £3.30  his net equity 
+available for margin was therefore £3,684.74, just over £10 short of the £3,695.44 required  
+or at 100.3% of the margin utilisation  so thats why he was closed out. 
+But I appreciate that it isnt the numbers Mr C challenges. It is instead the grounds for why 
+Saxo required £3,695.44 on account. Mr C tells us that when he opened his Saxo account, 
+he was quite careful to make sure he understood it fully and assured himself that the service 
+provided would meet his expectations as an experienced trader. Mr C had made repeated 
+references to a Saxo employee who was involved in the account opening process, had explained margin requirements and had described a different level of service than was 
+ultimately provided. Unfortunately, of the call recordings Saxo were able to share with our 
+service none covered these points so I have been unable to consider whether Mr C was 
+indeed told conflicting information. 
+Mr C has told us that Saxo requiring 100% margin differs to the 50% required elsewhere. He 
+also shows us emails where Saxo confirm they are aligned with the Intercontinental 
+Exchange and points out that Saxo werent clear about what margin hed need for a position 
+like his. But Mr C seems to be referring to the 2018 measures introduced by the European 
+Securities and Markets Authority (ESMA) which sought to protect retail clients against 
+negative account balances  this doesnt apply here as Mr Cs position doesnt constitute a 
+restricted speculative investment. Whats different here is that given the product in question, 
+Saxo werent able to set a basic percentage as to what margin would be required  the 
+figure was dependent on a combination of factors and Saxo gave examples of options 
+margins on their website. 
+In Mr Cs case, the margin for a short put index option was the amount (1), multiplied by the 
+figure size (10), and then the maximum of either the underlying overnight value and 
+underlying spot (8% * 5,902.67) minus the difference in spot price and strike price (or out the 
+money) (102.67), or the minimum underlying value (4%) multiplied by the strike option 
+(5,800). So ((8% * 5,902.67)  102.67; 4% * 5,800) which gives 369.5436; 290 with each 
+being multiplied by the figure size (10)  3,695.436; 2,900. As 3,695.436 is the larger of 
+these two numbers, Mr Cs margin requirement was therefore £3,695.44.
+I appreciate the formula is not straightforward, but I dont agree with Mr C in that Saxo 
+werent transparent or clear about the margin requirement needed. The trade ticket screen 
+shown when Mr C wouldve opened his position set out the margin requirement and whether 
+viewed on his desktop or his app, hed have been able to track the impact of maintenance 
+margin against his margin utilization. So Saxo didnt require Mr C to have worked this out for 
+himself  its systems will have tracked it in real time for him. After Mr C opened his position 
+on Wednesday 26 August, I can see he received margin calls twice on Friday 28 August 
+letting him know he was at 75.1% utilization and then again early on Tuesday 1 September 
+where he passed through 81.2%, 90.2% and 100.3% before being closed out. Saxos logs 
+show Mr C saw these margin call pop ups and they also have notes to show emails were 
+sent. 
+So from everything Ive seen, though the manner in which margin was calculated wasnt a 
+simple percentage I dont agree Saxo did anything wrong. Mr C was able to monitor his 
+position and see what margin was needed, he was also warned ahead of the weekend about 
+the utilization of his available cash. Ultimately, his position faced a higher margin 
+requirement due to the option becoming closer to being in the money along with running 
+losses. And from the emails hes shared, I havent seen anything from the account opening 
+employee that gave a different impression of what Mr C ought to expect. 
+Mr Cs ancillary points to his complaint are that there was a system error that prevented him 
+from trading out of the position ahead of the stop out, and that Saxo failed to offer the 
+telephone support hed been promised. But from what Ive seen, between 8:03am and 
+8:13am it seems Mr C tried to cover his position with five different orders, however none of 
+these were executed given the limits he input. I can see he will have faced a technical issue 
+as he cites, however I can see this was due to overlapping orders. Thereafter, Mr C was too 
+close to his maximum margin utilization to meet the requirements of the second option and 
+as Saxo explained, the system had begun working a buy back to close him out. 
+I mentioned before that we dont have evidence that supports Mr Cs claims of telephone 
+trading being available. Saxo instead say this is only the case when there is an issue with the system  but even if it had of been, Im not persuaded the overall outcome would differ 
+given the prices Mr C was prepared to buy back at and the impending closure of his position. 
+I appreciate Mr C will remain unhappy with my decision, but I am satisfied that his contract 
+with Saxo means their margin requirements, rather than those of the exchange, apply here. 
+The key point is that Saxos platform allowed Mr C to see what margin was required, so even 
+if he hadnt worked out to be what hed expected, he ought to have been aware in the days 
+prior the close out and could have taken mitigating action himself. I also note Mr C says 
+other firms work differently, but as I am sure he will appreciate, in this case we must 
+consider the relationship he has with Saxo.
+ 
+My final decision
+For the reasons explained, I dont uphold Mr Cs complaint. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr C to accept or 
+reject my decision before 28 July 2022.
+ 
+Aimee Stanton
+Ombudsman

@@ -1,0 +1,175 @@
+DRN-3600511
+The complaint
+Mr L complains that HSBC UK Bank Plc failed to refund transactions he didnt recognise.
+What happened
+Mr L explained that he was the victim of a phone theft and over the next few days his HSBC
+account was used to transfer his funds to an account that he didnt recognise. Mr L reported
+the theft of his phone to the police, his mobile phone provider and cancelled Apple Pay for
+two of his other banking accounts. Mr L didnt contact HSBC until he received notification
+from them about his account balance, which was several days after the loss of his phone.
+Mr L then told HSBC about the loss of his phone and that he was using it at the time it was
+taken, he also thought he was logged into his HSBC mobile banking app at the time. HSBC
+later said that there were no records of Mr L using his online banking that day. Mr L sought a
+refund from HSBC, but they declined because they couldnt see how a thief could access the
+online banking because they would need to know the private security details for the online
+banking app.
+Mr L complained to HSBC about the lack of a refund and was also unhappy at the time it
+took them to deal with his complaint. He was also told that hed receive a refund by HSBC
+which they later said was a mistake. HSBCs final answer to Mr L was to decline him a
+refund for the disputed transactions, but they recognised hed been misled when he was told
+hed receive a refund and paid £30 to his account as compensation.
+Mr L remained unhappy with how HSBC had dealt with his complaint and brought it to the
+Financial Ombudsman Service for an independent review. It was looked into by one of our
+investigators who asked both parties for information about the complaint. Mr L confirmed in a
+call with the investigator that he had biometric access set up on his online banking app and
+didnt have any of his banking login details recorded on his phone. Mr L said he used similar
+passwords for his accounts and the criminals may have seen him entering them. Mr L also
+confirmed that he didnt record any other banking accounts login details on his phone. He
+was unable to offer an explanation about how his account was accessed but reported that
+another of his accounts (with a different payment provider) had had multiple attempts to
+access it without success.
+HSBC provided details of how the payments were made and a record of access to Mr Ls
+mobile banking app from his device (mobile phone). HSBC explained that if Mr L had
+recorded his banking logon details on his phone then this was a breach of their terms and
+grossly negligent.
+Our investigator considered the evidence and thought that because there was no point of
+compromise for how the thieves obtained the security details to access the banking app, it
+was likely Mr L who had authorised the payments. She thought that the pattern of fraudulent
+payments was unusual, and that Mr L hadnt acted to protect his account when he knew his
+phone had been taken. It was thought that biometric identification had been used to access
+the banking app.
+Mr L disagreed with the outcome and was certain that biometrics couldnt have been used.
+Mr L then suggested that he may have recorded his banking logon details on his phone. He
+was also concerned that HSBC had blocked some payments but not others.
+Mr L asked for a further review of his complaint which has now been passed to me. I issued 
+a provisional decision where I said:
+Ive considered all the available evidence and arguments to decide whats fair and
+reasonable in the circumstances of this complaint.
+There are two principal considerations related to this complaint. One is whether the evidence
+shows it was Mr L who authorised the transactions or not. Secondly whether by delaying his
+notice to HSBC about the loss of his phone  Mr L has breached his terms, denying HSBC
+the opportunity to protect his funds. Ill also deal with the assertion that recording banking
+logon details on the phone was grossly negligent.
+Authorisation
+The relevant law surrounding authorisations are the Payment Service Regulations 2017
+(PSRs). The basic position is that HSBC can hold Mr L liable for the disputed payments if the
+evidence suggests that its more likely than not that he made them or authorised them.
+HSBC can only refuse to refund unauthorised payments if it can prove Mr L authorised the
+transactions, but HSBC cannot say that the use of the internet banking app conclusively
+proves that the payments were authorised.
+Unless HSBC can show that consent has been given, it has no authority to make the
+payment or to debit Mr Ls account and any such transaction must be regarded as
+unauthorised. To start with, Ive seen the banks technical evidence for the disputed
+transactions. It shows that the transactions were authenticated using the payment tools
+issued to Mr L. Ill now need to consider the information provided by both parties to
+determine whether theres sufficient evidence to hold Mr L responsible for the disputed
+transactions or not.
+When Mr L reported the loss of his phone to HSBC, he thought he was logged on to his
+banking app. HSBC showed that Mr L hadnt logged on that day, so its reasonable to
+conclude here that when Mr Ls phone was taken, the banking app wasnt open and would
+have required either biometric or security information to open it. HSBCs audit data doesnt
+specify which one of these it was that accessed the app, but reviewing Mr Ls comments, I
+dont think its likely that it was done via biometrics because hed already reported the phone
+stolen before the banking app was opened. When Mr L first spoke to our investigator, he
+said that he hadnt recorded his logon details on his phone and went on to say that he hadnt
+recorded any of his other logon details for his different banking apps. So, its difficult to see
+how a thief could determine the correct security details known only to Mr L to open the
+banking app.
+Mr L later said he may have recorded those details on the phone, which would explain how it
+was accessed. Its apparent that Mr Ls recollection has changed from when he first reported
+it, so Ive also thought about the timings of the outgoing disputed transactions. Ordinarily, a
+thief wouldnt know when a bank account was to be blocked following the theft of a phone
+but would anticipate it would happen quite quickly. Here that wasnt evident in the manner of
+the payments. The first one didnt take place until the following day and then others were
+made two days later.
+Whilst I wouldnt assess a complaint purely based on what a thief would typically do, it doesform part of my considerations and the spacing out of the payments is not how wed normally
+see such payments made. Often, the account is emptied as soon as possible to try and beat
+the banks actions in blocking the account. So, even if I was to accept that Mr L had written
+his security details on his phone, the disputed transactions dont fit a typical pattern of a
+stolen device.
+I currently think its implausible to conclude they werent authorised without stronger
+evidence to the contrary. That means I think its more likely than not that Mr L carried out
+these transactions himself  or that someone else with consent did so.
+Gross Negligence
+HSBC have stated that recording the login details on a phone is grossly negligent. This is a
+high bar and without understanding more about what was recorded and in what manner, its
+not possible to determine if it was grossly negligent. The situation here is that Mr L had his
+phone taken from him, so ordinarily the security of the phone may well be enough to protect
+the banking details. But, its not clear if those details were recorded or in what format, so I
+dont think that HSBC can rely on gross negligence here.
+Notification to HSBC
+The PSRs explain that:
+Obligations of the payment service user in relation to payment instruments and personalised
+security credentials
+72.(1) A payment service user to whom a payment instrument has been issued must
+(a)use the payment instrument in accordance with the terms and conditions governing its
+issue and use; and
+(b)notify the payment service provider in the agreed manner and without undue delay on
+becoming aware of the loss, theft, misappropriation or unauthorised use of the payment
+instrument
+Here the payment instrument relates to the banking app and any security information related
+to it. HSBCs terms also describe these obligations on the account user.
+When Mr Ls phone was stolen he notified the police and two of his other payment providers
+to cancel his Apple Pay from his phone. He didnt contact HSBC until they informed him that
+a direct debit had failed due to the level of funds in his account which was about four days
+later. By this time the account had almost been emptied. I asked Mr L about why he hadnt
+contacted HSBC sooner and he said:
+The overarching point is the fact I blocked and let my phone provider and the police know
+with 30 minutes of the device being taken, I also pressumed my device was locked and
+blocked within this fast time period including my Apple Pay deactivation within 24 hours also
+offering some relief . Which also meant I believed nothing was accessible and my security
+would prevail. 
+Mr Ls previous explanation was that his phone was unlocked when it was stolen, not locked
+and blocked. Its apparent that Mr L was concerned about his finances because he notified
+two other banks about his Apple Pay shortly after his phone was stolen. But, I dont
+understand why he didnt contact HSBC straight away. From his testimony  he believed he
+was logged in to his HSBC account when it was stolen  so I would have thought one of his
+priority calls would be to notify HSBC that his phone had been stolen with his banking app
+open.That didnt happen here and over the next few days his funds were moved out of his
+account. If Mr L had notified HSBC about the loss of his phone at the same time he notified
+the other businesses, which the terms of his account require him to do so, then the likelihood
+is that HSBC would have blocked access to his account and prevented the loss of his funds.
+By not advising HSBC  he prevented them from protecting his account. So, even if I
+received evidence that the disputed transactions werent authorised by Mr L, Im currently
+minded not to not uphold his complaint because he failed to act to prevent his own losses,
+so I dont think it would be fair to expect HSBC to refund Mr L in these circumstances.
+Blocked transactions
+Mr L questioned what had happened to payments that were blocked on his account. HSBC
+explained that their system identified transactions and they sent a fraud text to his phone.
+There was no answer to the text, so the payments were stopped. The other disputed
+transactions didnt trigger their security systems, which is why they were allowed to proceed.
+As they were authenticated from the registered device and HSBC werent aware that it had
+been stolen, I dont think it was unreasonable for HSBC to proceed with the payments.
+Customer Service
+Its apparent from Mr Ls testimony that he was frustrated by the information he was
+receiving from HSBC. Mr L was later paid £30 into his account for the misinformation he
+received about his claim. In the circumstances I think this was an appropriate amount for
+HSBC to pay and I dont intend to ask them to do anything further.
+I invited Mr L and HSBC to give me any more evidence and information they wanted me to
+consider before issuing my final decision. HSBC didnt have anything further they wanted to 
+add and Mr L commented that the delay in the disputed transactions was likely due to the 
+criminals using technology to beat the banking password, which took until the next day to 
+crack the code. Additional comments were received from Mr L which didnt add any new 
+evidence to the complaint, although he stressed he wasnt responsible for the disputed 
+transactions and was a victim of crime.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, Ive not seen anything that would change the outcome of my provisional 
+decision. Regarding Mr Ls comments about technology being used to crack the code to his 
+banking app  even if I was to accept this is what happened, I wouldnt uphold the complaint 
+based on Mr Ls delay in reporting the theft to the bank.
+I understand Mr L believed his notice to the phone provider was sufficient to block his phone 
+and protect his bank account, but they werent the ones who were providing his banking 
+services, HSBC were. As Ive already mentioned, if HSBC had been notified of the loss of 
+the device then Mr Ls funds would have been protected from that point onwards. Its 
+unfortunate that he chose not to speak with them when hed already notified other banking 
+providers about his theft, but I dont think it would be fair or reasonable in these 
+circumstances to require HSBC to refund the losses when there was clear opportunity to 
+report the device stolen and block further use of the account.My final decision
+My final decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr L to accept or 
+reject my decision before 11 November 2022.
+ 
+David Perry
+Ombudsman

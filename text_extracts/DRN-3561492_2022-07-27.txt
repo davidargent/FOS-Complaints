@@ -1,0 +1,74 @@
+DRN-3561492
+The complaint
+Mrs W and Mr W complain about a failed CHAPS transfer by The Royal Bank of Scotland 
+Plc (RBS).
+What happened
+Mrs W and Mr W say they asked RBS to transfer funds from their RBS account to an 
+account they held with a separate bank. They say the first transfer was attempted 
+electronically but wasnt successful, so the second transfer was carried out manually, but 
+this also wasnt successful  and its the second transfer theyre complaining about. Mrs W 
+and Mr W say, to ensure the CHAPS transfer details were correct, they carried out a Faster 
+Payment one day prior to the second transfer and this was successful. Mrs W and Mr W say, 
+because the second transfer wasnt successful, they then had to make nine Faster 
+Payments to transfer the funds. Mrs W and Mr W then complained to RBS. RBS explained 
+they carried out the transfer in line with the paper request made by Mrs W and Mr W. 
+Our investigator looked into things for Mrs W and Mr W. He thought there hadnt been any 
+errors by RBS in relation to the transfer. Mrs W and Mr W disagreed so the matter has come 
+to me for a decision. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, Ive decided not to uphold the complaint. I understand Mrs W and Mr W will 
+be disappointed by this but Ill explain why I have made this decision. 
+Ive seen a copy of the CHAPS payment request form which has been signed by Mr W. This 
+includes details of the beneficiary bank, sort code and account number. RBS have provided 
+the SWIFT payment message showing the outbound transfer. The information here matches 
+the details showing on the payment request form in relation to the beneficiary bank and 
+account number. The SWIFT payment message doesnt show the sort code so I understand 
+why Mrs W and Mr W queried this. But, the SWIFT payment message contains a payment 
+reference and RBS have provided audit details linked to the payment reference which shows 
+the sort code and this matches the sort code on the payment request form. Im persuaded 
+the audit details relate to the transaction in question as the payment reference appears on 
+there. So, I believe its more likely than not that RBS did use the sort code shown on the 
+payment request form when transferring the funds. 
+The SWIFT payment message also shows a return code. Ive looked on SWIFTs website 
+and this shows the return code relates to Identification of end customer is not consistent 
+with associated account number. RBS also say the beneficiary bank told them the reason 
+for rejecting the payment was because the account name and number differed. Im 
+persuaded this was the case as its supported by the return code reason. I can see Mrs W 
+and Mr W complained to the beneficiary bank and their response says RBS didnt include 
+the sort code when making the second payment and this is why the funds were returned. 
+Where evidence is inconclusive or contradictory  as some of it is in this case - Ill make my 
+decision on the balance of probability, thats to say what I consider more likely to have 
+happened. Ill also keep in mind what I consider to be fair and reasonable to both parties.
+In this case, from the information Ive seen, and in particular the SWIFT payment message, 
+audit details and the return code, I believe its more likely than not RBS did include the sort 
+code. I can see Mrs W and Mr W point out that the SWIFT payment message they received 
+from RBS shows their account number at the recipient bank but not the sort code. I have 
+considered this but Im not persuaded this alone suggests the sort code wasnt used, 
+particularly when I weigh this up against the information Ive seen which shows that it was 
+used in the transfer and the information Ive seen relating to the return code.    
+I understand Mrs W and Mr W will be disappointed, and I do acknowledge why a consumer 
+will want to know specifically who is at fault if theres a problem. But, despite there being 
+conflicting accounts, I havent seen any evidence there has been an error by RBS. I wish to 
+reassure Mrs W and Mr W Ive read and considered everything theyve sent in, but if I 
+havent mentioned a particular point or piece of evidence, it isnt because I havent seen it or 
+thought about it. Its just that I dont feel I need to reference it to explain my decision. This 
+isnt intended as a discourtesy and is a reflection of the informal nature of our service.
+I understand Mrs W and Mr W are concerned RBS didnt respond to three emails following 
+their complaint response. RBS say the further emails didnt warrant a reactivation of the 
+complaint so no further action was taken. I do understand why Mrs W and Mr W will have 
+been frustrated at not receiving a response, but complaint handling isnt a regulated or other 
+covered activity. So as a general rule, and in line with the law, if the complaint is solely about 
+complaint handling, we wouldnt be able to look into things. Where complaint handling forms 
+a part of a customers complaint, then we can take into account complaint handling when 
+looking at the overall customer experience. In this case, I cant say the issues which Mrs W 
+and Mr W raise about the complaints handling are an extension of the issues which relate to 
+regulated activities, so I cant look into the complaint handling part of the complaint.      
+My final decision
+For the reasons I have given, it is my final decision that the complaint is not upheld. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mrs W and Mr W 
+to accept or reject my decision before 24 August 2022.
+ 
+Paviter Dhaddy
+Ombudsman

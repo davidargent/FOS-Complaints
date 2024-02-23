@@ -1,0 +1,92 @@
+DRN-3763795
+The complaint
+A, a limited company, complains that First Data Europe Limited (trading as Clover) has 
+refused to refund a transaction which it didnt authorise.
+This complaint is brought on As behalf by Mr A, the companys sole director.
+What happened
+The circumstances that led to this complaint are well known to both parties, so I wont repeat 
+them in detail here but, in summary:
+A has an agreement with First Data to process card payments made by, and refunds 
+made to, its customers.
+Mr A has complained to First Data that on 14 March 2021 a £10,000 refund was 
+processed without the authority or consent of anyone appointed to act on As behalf. A 
+£5,000 refund was put through the terminal later that day, but was rejected by First 
+Data. And a £900 refund was put through, but also rejected,, on 16 March 2021. 
+First Data refused to reverse the £10,000 refund. They said Mr A told them he had 
+changed the security code on the terminal. Hed also said the merchant terminal had 
+been snatched out of his employees hands. Mr A failed to report this or complete the 
+end-of-day process, which prevented them from stopping the payment. 
+Our investigator didnt think First Data had provided sufficient supporting evidence. Nor 
+did he think A had authorised the transactions or been grossly negligent. So he 
+recommended that the £10,000 be returned with interest. Mr A accepted this on behalf of 
+A. But First Data didnt reply. So the matter has come to me to decide.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+First Data initially sent us some limited evidence relating to this case. But they havent 
+replied to any of the investigators subsequent requests for information or his opinion. I think 
+theyve been given ample opportunity to put forward their arguments.
+Overall, like the investigator, I dont think First Data has shown that A (or anyone appointed 
+on behalf of A) authorised the disputed £10,000 refund. Or that A failed in some other way 
+such that First Data can hold it liable for the refund. I say this having taken the following into 
+account.
+The Payment Services Regulations 2017 say that a payer (A in this case, or anyone 
+appointed to act on its behalf) authorises a payment transaction when they consent to 
+that transaction in line with the form and procedure agreed with the Payment Service 
+Provider (or PSP  First Data in this case). And if a payer denies having authorised a 
+payment transaction that has taken place, their PSP must prove the payment was 
+authenticated.
+First Data has provided a copy of a Merchant Agreement and Card Acceptance 
+Operating Guide as well as the Merchant Conditions. But neither document explains the 
+form and procedure for making refunds or talks about the necessity for a security code to 
+be entered. Nor do these documents warn about this particular fraud risk or how to 
+prevent it, in particular, that amending the code from the default can help prevent 
+fraudulent refunds. 
+First Data hasnt provided the supporting evidence we asked for to show a security code 
+was entered in relation to this particular refund. They say Mr A altered the code when he 
+took possession of the merchant terminal but he told us that he hadnt changed the code 
+and First Data hasnt given us a recording of the call in which he, allegedly, said he had 
+changed it.
+In my experience, its not unusual for a security code to be needed when processing 
+refunds through merchant terminals. But Im also aware that merchant terminals are 
+often issued with a standard, default 4-digit code and this might also be known by 
+fraudsters. 
+Mr A has provided CCTV footage that he says relates to the disputed £10,000 refund. 
+And it appears from this that the payment terminal was handed over (rather than being 
+snatched) by As employee to a customer so they could pay for some goods. The 
+customer had the terminal for longer than I would usually expect  either to enter their 
+own 4-digit PIN or to touch their card to the terminal. And, during that time the customer 
+appears to be doing something with the terminal while his companion distracted the 
+employee. I think its entirely possible the customer carried out the fraudulent refund 
+during that time. And I dont think the employee ought to have realised what had 
+happened at that point in time or prevented it.
+First Data say Mr A should be held liable for the disputed refund because he didnt 
+complete the end-of-day process. The Operating Guide tells the reader to follow the 
+end-of-day banking procedure detailed in your Terminal User Guide to make sure you 
+receive payment for all transactions. But also that Its essential that all transactions are 
+submitted for payment within two (2) working days of being accepted. This seems to 
+suggest theres some lee-way and the reader actually has two working days to complete 
+the end-of-day process. Theres also no warning here that the process is important in 
+detecting fraudulent refunds. And First Data hasnt provided a copy of the Terminal User 
+Guide. In any event, First Data hasnt shown that completing such a process some time 
+after the event would have prevented the refund from being made to the fraudsters card.
+First Data says it has fraud prevention measures in place, but it doesn't monitor live 
+transactions. Its not entirely clear what First Data means by this. But I do note it 
+managed to reject the two subsequent refunds and prevent additional losses to A. Those 
+refunds were both of a significantly lower value than the £10,000 refund. Its not clear to 
+me why the first refund wasnt also rejected, particularly given that it was for such a large 
+amount and Mr A says it didnt match any previous payments and was extremely 
+unusual given the usual merchant terminal activity. 
+My final decision
+My final decision is that First Data Europe Limited should return the £10,000 to A and also 
+pay interest calculated at 8%pa simple from 14 March 2021 to the date settlement is made.If First Data Europe Limited considers that theyre required by HM Revenue & Customs to 
+deduct income tax from the interest award, they should tell Mr A how much has been taken 
+off. They should also give him a tax deduction certificate if he asks for one, so he can 
+reclaim the tax from HM Revenue & Customs if appropriate.
+First Data Europe Limited should settle the matter within 28 days of receiving notification of 
+Mr As (on behalf of C) acceptance of my final decision
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr A (on behalf of 
+A) to accept or reject my decision before 28 March 2023.
+ 
+Ruth Hersey
+Ombudsman

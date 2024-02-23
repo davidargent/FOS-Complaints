@@ -1,0 +1,164 @@
+DRN-3418845
+The complaint
+Mr R complains about how TSB Bank plc managed his mortgage at the end of a coronavirus 
+payment deferral. He complains that it took two payments in error, gave him misleading 
+information and recorded incorrect information with the credit reference agencies. 
+What happened
+Mr R has mortgage with TSB Bank plc. Unfortunately his income was affected by the covid-
+19 pandemic and he took a payment deferral, ending in September 2020.
+Mr R was unable to start making payments again when the payment deferral ended. So he 
+agreed with TSB that he would not make payments in October, November or 
+December 2020. TSB explained at the time that while it would accept this arrangement, the 
+missed payments would be treated as arrears and show as such on his credit file.
+In December 2020, Mr R found himself able to start making payments again, but missed 
+making his payment by the due date. But a few days later, he made the full December 
+payment, plus a very small overpayment. This brought his mortgage down to just under two 
+months payments in arrears.
+In January 2021, Mr R made a manual payment. He spoke to TSB and he says TSB told him 
+that no further payment would be collected until February. But despite this, TSB collected his 
+regular direct debit a few days later  meaning Mr R had made two payments in January. He 
+said that this meant that he didnt have the money he needed to pay other bills and had to 
+borrow from friends and family.
+Mr R checked how his mortgage was being reported to the credit reference agencies. One 
+agency, Clearscore, showed that he had missed payments in October November and 
+December 2020, and in January 2021  four months missed payments in total.
+Mr R complained. He said that TSB had given him misleading information. It had taken two 
+payments in January. And it had mis-reported his mortgage to the credit reference agency.
+TSB accepted that it hadnt communicated well with Mr R. It offered £375 compensation. But 
+it said it had given accurate information to the credit reference agencies, and it wasnt 
+responsible for how Clearscore had shown it.
+Our investigator thought TSBs offer of compensation was fair. He said that TSB had given 
+correct information to the agencies and that Mr R might need to complain to Clearscore if it 
+had not displayed what TSB had told it correctly.
+Mr R didnt agree. He asked for an ombudsman to review his complaint. He said TSB had a 
+responsibility to make sure his mortgage was being reported correctly. It should work with 
+Clearscore to ensure that happened, and shouldnt be allowed to escape responsibility for 
+how Mr Rs mortgage was being reported. 
+I took a different view of the complaint to the investigator, so I issued a provisional decision 
+to allow the parties to comment on my thinking.
+My provisional decision
+In my provisional decision, I said:
+Ive reviewed what TSB submitted to the credit reference agencies, and Im not persuaded it 
+was accurate.
+This was the reporting for the period in question:
+Period Payment status Account status Balance
+Sep 2020 0 OK 466321
+Oct 2020 1 AA 467127
+Nov 2020 2 AA 467908
+Dec 2020 1 AA 465403
+Jan 2021 1 AA 432846
+Feb 2021 1 AR 460258
+The number in the payment status column means the number of monthly payments by 
+which the account is in arrears. In September it was not in arrears because Mr R was in a 
+coronavirus payment deferral, so 0. In October he did not make his payment, so it was one 
+month in arrears  1. In November the same, so 2. In December, he paid very slightly 
+more than the monthly payment, which was enough to reduce the arrears to just below the 
+equivalent of two months payment  so back to 1 (the figure is rounded down not up). This 
+continued as Mr R cleared the arrears over the following months, until it was back to 0.
+The account status column contains codes that give the current status of the account. OK 
+means the account is performing as expected, AA means it is in arrears, and AR means it 
+is in arrears with an arrangement in place.
+OK is correct for September 2020 because of the payment deferral. 
+When the deferral ended in September, Mr R couldnt yet resume payments. Under the 
+regulators tailored support guidance for borrowers coming off payment deferrals, TSB 
+agreed a payment arrangement of nil payments for three months  in other words, it agreed 
+that it would not expect any payment in those months, but that this would be treated as 
+arrears not as a deferral. Mr R understood and accepted this at the time and TSB confirmed 
+the arrangement to him in a letter dated 7 October 2020.
+In fact, Mr R did not need the full three months and resumed making payments in December. 
+In January 2021, TSB called Mr R to discuss the arrears. Mr R wanted to put an 
+arrangement in place of making the monthly payment plus £500. TSBs adviser explained 
+that they would need to go through his income and expenditure to see whether that was affordable, but according to TSBs notes Mr R didnt want to do that so no formal 
+arrangement was put in place.
+On 16 February 2021, TSB called Mr R again and this time Mr R did go through his income 
+and expenditure and a payment plan of £500 plus the monthly payment was put in place.
+Its reasonable for TSB to want to discuss Mr Rs income and expenditure. He had recently 
+been unable to pay his mortgage, so it needed to make sure that increased monthly 
+payments were affordable and sustainable for him.
+Therefore, its reasonable that TSB reported AA rather than AR for January 2021  since 
+Mr R was in arrears and not in an arrangement. He was in arrears because he hadnt yet 
+made up the payments he had missed in October and November. And he was not in an 
+arrangement since the previous one had ended in December, and he hadnt wanted to 
+discuss his income and expenditure so TSB couldnt agree a new one.
+However, its not in my view fair that TSB reported AA in October November and 
+December 2020, since in those months Mr R was in an arrangement  TSB had agreed he 
+did not need to make any payments. Even though Mr R did not need the arrangement in 
+December it still existed. In those months it should have reported AR not AA.
+Therefore, I think TSB should amend its reporting to the credit reference agencies. I have 
+highlighted in bold where I think changes should be made:
+Period Payment status Account status Balance
+Sep 2020 0 OK 466321
+Oct 2020 1 AR 467127
+Nov 2020 2 AR 467908
+Dec 2020 1 AR 465403
+Jan 2021 1 AA 432846
+Feb 2021 1 AR 460258
+Im satisfied that this has caused Mr R some further upset beyond the mistake with collecting 
+his January direct debit and the earlier communication difficulties. I note TSB has already 
+offered £375 compensation, and I intend to increase that to £500.
+However, while TSB is responsible for how it reports to the agencies, it is not responsible for 
+how the agencies display information about Mr Rs credit history.
+Mr R is particularly concerned about what appears on his Clearscore file. Clearscore is not 
+one of the three main agencies that lenders report to direct. Its a free service that takes and 
+simplifies data from one of the main agencies.
+Clearscore doesnt show the detailed data I have put in the table above. It simply shows a 
+coloured dot for each month. Black for payment made, and pink for missed payment, on the 
+example of his file Mr R gave us. Mr R had black dots for all months apart from 
+October 2020 to January 2021, which were pink.It may be that Clearscore interprets OK and AR as payment made  black dot  and AA 
+as payment missed  pink dot. If thats so, then when TSB corrects its reporting to the three 
+main agencies, the dots for October November and December may switch to black.
+As Ive set out above, Mr R did in fact make his payment for January. And TSB reported as 
+such to the agencies (the balance reduced and the payment status remained at 1). If 
+Clearscore continues to interpret AA for January as a pink dot despite that, then that is not 
+something TSB is responsible for and something Mr R will need to take up with Clearscore.
+The responses to my provisional decision
+TSB accepted my provisional decision. 
+Mr R said that he broadly agreed. But he said that he had tried to reinstate the direct debit in 
+mid-November so that his December payment would be collected as normal. TSB did not do 
+this and so he had to make a manual payment. And in January 2021, when the direct debit 
+was collected, that meant he had made a double payment which he had to recover through 
+the direct debit guarantee, which caused him inconvenience.
+Mr R said that he would complain directly to Clearscore, but he wanted TSB to work with him 
+and Clearscore to make sure Clearscore reports information accurately. He has complained 
+to Clearscore, to the main credit reference agencies and to TSB many times and each refers 
+him to the other and refuses to take responsibility. He said that as a result he had spent over 
+120 hours trying to resolve this complaint. He didnt think £500 compensation fairly reflected 
+that, and suggested that £1,200  his time at £10 an hour  was the minimum that could be 
+considered fair. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Ive also considered again what I said in my provisional decision in light of the responses to 
+it. Both parties accepted the substance of my decision, in terms of how to correct Mr Rs 
+credit file. What remains at issue is the level of fair compensation in this case  and to what 
+extent TSB is responsible for what Clearscore reports.
+Ive thought carefully about what Mr R has said, and Ive noted his comments about the level 
+of compensation. Im sure this has been a frustrating experience for him. But at least part of 
+his frustration  and the time hes put into resolving things  has been because of his 
+dealings with the credit reference agencies rather than TSB. 
+I also dont think its appropriate to award compensation based on the amount of time Mr R 
+says hes spent at a notional hourly rate. Mr R hasnt suggested that theres been actual 
+financial loss  for example, that hes been unable to work because of this complaint. 
+Rather, hes attached a notional value to the time hes spent outside working hours.
+In those circumstances, I dont think an hourly rate is appropriate. The appropriate way to 
+determine compensation for his non-financial losses  for the upset and the inconvenience 
+this issue has caused  is to step back and look at matters in the round. In doing so, Ive 
+taken account of the overall impact this matter has had on Mr R, and Ive thought about it 
+more broadly in the context of the sorts of awards made by the Financial Ombudsman 
+Service in cases like this. Im satisfied that £500 represents fair compensation.I dont think it would be right for me to direct TSB to take any particular action in respect of 
+Clearscore. TSBs obligation is to provide correct information to the main credit reference 
+agencies. Once the changes I have outlined above have been made, it will have done that. 
+It's not responsible for what other companies then do with that data, or how they choose to 
+interpret or display it. If Mr R remains unhappy about that, he will need to take that up with 
+Clearscore himself.
+My final decision
+For the reasons Ive given, my final decision is that I uphold this complaint and direct TSB 
+Bank plc to:
+Correct its reporting to the credit reference agencies to show AR for October 
+November and December 2020; and
+Increase the total compensation offered to Mr R to £500. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr R to accept or 
+reject my decision before 20 May 2022.
+ 
+Simon Pugh
+Ombudsman

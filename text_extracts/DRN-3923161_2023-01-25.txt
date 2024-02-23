@@ -1,0 +1,181 @@
+DRN-3923161
+The complaint
+Mr A complains that TSB Bank plc will not refund transactions that he says were fraudulently 
+made from his account.
+In summary, a month or so after opening his TSB account, a series of payments were made
+which Mr A says he didnt authorise. The transactions were instructed via his online banking
+facility, beginning from 21 November 2021, and totalling around £6,700. All but £5 of this
+sum went to the same beneficiary, who for the purposes of this decision Ill refer to as S.
+Mr A said he doesnt know S, or the other individual who received the £5. He explained to
+the bank that he does let his daughter use the account on his behalf given his health and
+accepted that he hadnt made TSB aware of that. Still, Mr A maintained that it definitely was
+not him or his daughter who made these payments. Rather, he claimed his account must
+have been hacked, so the bank should refund the unauthorised transactions.
+When Mr A raised a complaint, TSB decided not to reimburse the account. It said that Mr A
+had breached the terms of agreement by allowing a third party to make payments without
+first notifying the bank. TSB also drew out some inconsistencies with Mr As version of
+things. Namely, that the account had received £300 which was paid in from S after the last of
+the disputed transactions took place. Mr A could not explain why he had been paid this
+money by someone he alleged had received stolen funds from him.
+Based on the security measures it has in place, TSB was not persuaded that the account
+had been hacked. Overall, TSB said that the circumstances of what happened did not mean
+it should be liable for the £6,700 or so being claimed for.
+Upon referring the matter to our service, one of our investigators agreed that TSB should not
+have to reimburse Mr A. Because Mr A does not agree, the case has been escalated to me
+to decide.
+Provisional decision
+I issued a provisional decision on this case on 11 January 2023. I have copied the findings 
+section of my decision below:
+Ive considered all the available evidence and arguments to decide whats fair and
+reasonable in the circumstances of this complaint.
+Our investigator concluded that TSB had made a fair decision to not refund Mr A,
+considering what its terms and conditions say about allowing someone else access 
+to the account without first notifying the bank.
+This is a point Ive thought about carefully. But given what Ive seen so far, I am 
+minded to decide that there are not reasonable grounds to direct TSB to reimburse 
+these contended transactions, based on different reasoning.
+Pursuant to the relevant rules, obligations and various principles of good practice 
+TSB ought to follow, the bank should return payments if they were made without     
+Mr As consent. In the circumstances of this case, the starting point is that 
+reimbursement of the disputed payments would only be given by TSB if Mr As 
+account had been used fraudulently, i.e. he was the victim of a scam. In my 
+judgment, before turning to whether the relevant terms of the account have been 
+adhered to, I must first be persuaded that fraud occurred. It follows that, in order to 
+fairly expect TSB to return the money Mr A says was taken, I would need to be
+convinced that it was paid out without his permission or involvement.
+Looking at what we know about the payments, its evident Mr As online banking 
+facility was used to set up the first payment to S as a new recipient to send money to. 
+Secondly, following this instruction, TSB enacted a security precaution to send a one 
+time passcode (OTP) to the mobile number registered to the account. Without this 
+OTP, the transaction could not go ahead. Finally, again as part of TSBs fraud 
+protection system, a text message was sent to the same mobile number which 
+required a positive response to allow the payment to proceed.
+Suffice to say, whoever made these payments must have had certain access to the 
+account; the details of which should have been secure. Its not enough for someone 
+to have intercepted the means to pass one layer of security  all of the steps must 
+have been taken to go ahead with this first payment to S (and a similar process 
+needed to make the subsequent transactions). Without the ability to log into the 
+accounts online banking (which requires a password, amongst other private 
+information), together with the means to receive and respond to messages to the 
+registered mobile device, the transaction simply could not have happened.
+Its common in fraud and scams that a consumer can be tricked into sharing certain
+information which means they unwittingly permit a fraudster to make payments. This 
+can present an explanation for how payments can be made without the necessary 
+consent  which may make it reasonable for that consumer to be reimbursed.
+However, Mr A submits that he hasnt divulged his security information to anyone 
+other than his daughter, whom he trusts to make only the transactions he consents 
+to. Nor has he communicated with an individual that looking back now may have 
+actually been a fraudster. Theres no mention of a third party acting in such a way.  
+Mr A also maintains that he did not make the payments himself.
+Consequently, based on what Mr A has submitted, this leaves only his accusation 
+that the account was hacked. I interpret this as someone somehow being able to get 
+around the security steps Ive described without detection by him or TSB. Its 
+important to note that Mr A has provided no compelling evidence to support this 
+explanation.
+On the other hand, TSB has come up with a host of technical information to support 
+that its systems remained intact and without fault for these payments. Ive already 
+described that there were differing layers of security, meaning that a perpetrator 
+would need to compromise multiple facilities protected by the bank. As I understand 
+it, there are no reported errors that can be directly linked to Mr As account or that 
+would have impacted these systems at the material time. Everything considered, 
+there is a distinct lack of evidence to support that Mr As account was hacked.On 21 November 2021, the same day as the first payment that was made to S, there 
+was a call made to TSB. During which, security details were verified, and the caller 
+changed the mobile number linked to the account. Because the caller was able to 
+pass the steps needed, TSB was satisfied that it was Mr A it was speaking to. It had 
+no suspicions of him being impersonated and therefore it granted the change.
+I accept that its possible for someone to have masqueraded as Mr A to alter his 
+recorded contact number. This could potentially have allowed access to the OTP that 
+TSB sent and the corresponding text message that needed a reply. Still, I must reach 
+my decision based on the balance of probabilities  that is, what I find more likely 
+than not to have happened. And as things stand, I do not find it probable that 
+someone changed Mr As registered mobile device without his permission. I say so 
+because, there remains no persuasive explanation for how someone was able to 
+satisfy security to allow the changed to be made. Confidential information (that Mr A 
+would have agreed to when opening the account) had to be given to TSB during this 
+call to authenticate it was Mr A that was calling (or someone with his permission). As 
+Ive explained, based on what Mr A has put forward, there is no plausible
+explanation for how this was obtained.
+Whats more, I must consider that the documentary evidence that TSB has of this
+conversation is in keeping with Mr As statement that, at the time, he was in and out 
+of hospital due to his health. The notes recorded by the bank clearly show the caller 
+wanted to change the mobile number in order to make payments for food while in 
+hospital.
+On balance, I find it unlikely that a fraudster would know and use this specific 
+information about Mr A as part of a ploy to exploit his account. There would appear 
+no logical reason why an unauthorised third party would reveal these particular 
+details in general conversation when it wasnt necessary to  all that was needed 
+was the requisite security credentials, which had already been given. As well as this, 
+there is no suggestion of further changes to the account that might facilitate it being 
+the subject of a scam. Such as, for example, a change to the security credentials, or 
+a new card or PIN being issued to a different address  which is what I might expect 
+to see from an account that had been compromised.
+In simpler terms, the conversation that took place when the mobile number was 
+updated on the account seems somewhat at odds with it being used fraudulently. 
+Besides, even with access to OTPs and/or text messages from TSB, we know that it 
+was Mr As online banking facility that was used to make the payments in question 
+(which requires different security details other than a mobile number).
+Moreover, TSB has been able to provide IP address history, a method commonly 
+used to identify the general location of the use of an internet network, such as the 
+one available to TSB consumers who use online banking. This demonstrates that the 
+online banking logins for the relevant payments were made in locations similar to that 
+of transactions that Mr A is not disputing. I have no reason to doubt the accuracy of 
+this evidence. Indeed, IP addresses are often used in cases of this kind given their 
+objectivity. The records persuade me that the approximate geolocation of whoever 
+made the payments in question was within the close vicinity to where Mr As account 
+normally used online banking to perform transactions.
+In my opinion, the consistent whereabouts of the genuine payments made from the 
+account to that of the ones being contended here casts doubt on how probable it is 
+that these were fraudulent transactions.My role isnt to determine exactly how the payments were made. Rather, as Ive set 
+out, what I need to decide is whether I find it more likely than not that Mr A was the 
+victim of a scam with payments made without his consent. When reviewed against all 
+the available evidence, I am not currently persuaded this call in November 2021, or 
+the counter arguments Mr A has made, are enough to substantiate his account was 
+used fraudulently.
+I have also borne in mind that some of the other circumstances of what happened 
+call into question that fraud occurred here. Undoubtedly, its highly unlikely that an 
+alleged fraudster would send money back to where it was stolen from. The very 
+nature of a scam is to extract money away for ones gain  normally to the extent that 
+there are no funds left to take.
+Yet, Mr As account was credited with £300 by the very same individual(s) that 
+allegedly received the proceeds of the supposed scam. Naturally, it does not make 
+sense to me why Mr As account would be given this money back at a time when he 
+claims it had been dishonestly drained. I cannot fathom why a perpetrator, having 
+just all but emptied an account, would return some of those funds to it. Without 
+question, this conflicts with Mr As claim and is a point that, so far, there has been no 
+plausible justification for.
+Likewise, the £5 payment bears out another irregularity. This low-value transaction 
+was made the day after the first three payments and was paid to a different 
+beneficiary to S. This begs the question as to why a fraudster would break the 
+pattern of crediting an account which had already successfully received just under 
+£6,000. Especially, when considering that such a nominal amount was taken 
+compared to the funds available.
+Finally, there appears similar unexplained characteristics of the last disputed 
+transaction. This took place several days after the £5 payment and switched back to 
+paying S. It does not make sense to me why a fraudster with the means to access an 
+account would wait for this length of time to steal once more. Delaying would seem to 
+only increase the chances of being caught or prevented from taking what was left in 
+the account  which seems an unnecessary risk to take.
+Under all of the circumstances of this case, my current judgment is that I cannot 
+safely conclude its fair for TSB to return these payments to Mr As account, based on 
+the relevant obligations and standards of good practice. So, in the absence of new 
+evidence that changes my view, I intend to decide that TSB is not required to issue a 
+refund here.
+My provisional decision
+For the reasons given above, I am currently minded not to uphold this complaint.
+Responses to my provisional decision
+Both parties did not respond to my provisional decision, meaning that no further submissions 
+were made. It follows that there is no new evidence or arguments for me to consider.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.Given that neither Mr A nor TSB accepted or disputed my provisional findings by the 
+deadline given, and no new information has been presented for me to consider, I see no 
+reason to depart from my intended decision. To that end, the way in which I was minded to 
+decide the complaint remains the same.
+My final decision
+For the reasons given above and before, my final decision is that I do not uphold this 
+complaint. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr A to accept or 
+reject my decision before 22 February 2023.
+ 
+Matthew Belcher
+Ombudsman

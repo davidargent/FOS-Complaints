@@ -1,0 +1,121 @@
+DRN-3114239
+The complaint
+Mr A complains that HSBC UK Bank Plc failed to refund transactions he didnt recognise.
+What happened
+Mr A reported that he noticed a text from HSBC about a new payee on his account and after 
+he checked his online banking, there were two bank transfers to an account that he didnt 
+recognise. They took Mr As account into an overdraft. Mr A explained to HSBC that he 
+hadnt made these payments and he hadnt authorised them. He confirmed to HSBC that he 
+hadnt given out any of his security information, nor had he lost his phone or lent it to 
+anyone. Mr A told HSBC that he hadnt had any unusual messages or conversations with 
+anyone discussing his online banking.
+HSBC looked into the transactions and found that they were made by logging in to their 
+internet portal from a device that was different to Mr As registered phone. The transfers 
+were authorised using Mr As secure key. HSBC declined to refund Mr A, believing him 
+responsible for making these transactions. 
+Note: The secure key is either a physical device or an app that generates codes to assist 
+with logging in to HSBCs online account and to confirm setting up new payees. In this case 
+Mr A used an app registered to his phone.
+Mr A complained to HSBC about the way theyd handled the issue and maintained that he 
+hadnt carried out these transactions and didnt know the holder of the account where the 
+money was sent to. HSBC looked into Mr As complaint but didnt change their position as 
+they continued to believe he was responsible for the transactions. 
+Mr A brought his complaint to the Financial Ombudsman for an independent review where it 
+was looked into by one of our investigators. Both HSBC and Mr A supplied information about 
+the events leading up to the disputed transactions. Mr A explained that his laptop was stolen 
+a few weeks prior to the payments leaving his account. He also confirmed his secure key 
+was registered to his mobile phone. Mr A said he didnt know the person whose account 
+received his funds. HSBC provided notes of their investigation and data about the payment. 
+Our investigator thought it was reasonable for HSBC to hold Mr A liable for the payments 
+because they were made using Mr As secure key and also noted some incoming 
+payments into Mr As account just after the disputed transactions were made.
+Mr A disagreed with the outcome and maintained that he hadnt authorised these payments. 
+Mr A explained that he hadnt given permission for another device to use his online account. 
+He believed that another mobile phone was registered without his knowledge and the 
+incoming payments he received were unrelated to the outgoing payments. Mr A was critical 
+of HSBC because some of their audit data was missing and thought their security might 
+have been compromised. Mr A thought his side of the story wasnt being given the same 
+weight as HSBCs and wanted the recipients account traced.
+Mr A asked for a further review of his complaint which has now been passed to me for a 
+decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+The relevant law surrounding authorisations are the Payment Service Regulations 2017 and 
+the Consumer Credit Act 1974. The basic position is that HSBC can hold Mr A liable for the 
+disputed payments if the evidence suggests that its more likely than not that he made them 
+or authorised them. 
+Authorisation is made up of two parts. Authentication and consent. Authentication is usually 
+referred to as the technical evidence and in this case, HSBC have supplied some evidence 
+that shows the two payments were sent via access to Mr As internet banking account. 
+Theyve also supplied information explaining how the secure key was needed to confirm 
+the transactions. Id normally expect to examine more detailed information concerning 
+transactions such as these, but HSBC have been unable to provide them. The information 
+they have provided, when looked at overall, satisfies me that the disputed transactions were 
+authenticated.
+Consent refers to the way in which HSBC and Mr A agreed to operate the account to allow 
+HSBC to make payments on As behalf. For example, HSBCs terms and conditions set out 
+that if a payment is arranged through mobile/internet banking and the account holder uses 
+their security details to confirm the payment, then HSBC accept that the instruction to make 
+the payment is authorised by the account holder. So, because the transactions used a 
+secure key to confirm the payment - Im satisfied that consent was given, and the disputed 
+transaction was authorised. But, there are exceptions where it wouldnt be appropriate for 
+HSBC to hold Mr A responsible, for example if his internet banking account was used 
+without his permission.
+When Mr A first notified HSBC about the disputed transactions, they investigated what had 
+happened and recorded notes about this. Later, when asked for their evidence to support 
+their position, they were able to provide some data, but not as in as much detail as I would 
+usually expect. HSBC explained the two disputed payments couldnt have been authorised 
+without the secure key and their systems hadnt registered any change of the secure key 
+from Mr As registered mobile phone. So, HSBCs case is that because Mr A maintained 
+control of his phone and hadnt given any information to anyone else, they believed he was 
+responsible for the two disputed payments.
+Mr A was critical of the lack of information supplied by HSBC and I can see why he felt this 
+way. It does leave an element of doubt when certain parts of audit data arent available. But, 
+were often faced with situations where some of the information is missing or conflicting and 
+where thats the case, I must reach my decision on the balance of probabilities  in other 
+words, on what I consider is most likely to have happened in light of the available evidence.
+Mr A reported his laptop was lost prior to the incident and he explained this was the only 
+possible time some of his banking information could have been compromised. I can accept 
+that certain pieces of data could be available from Mr As laptop, although what specific 
+information was on it isnt clear. But, in order for someone other than Mr A to access his 
+internet banking, they would need very specific information known only to him. This includes 
+a passcode and access to his secure key, from which unique codes are generated to login 
+in and set up a new payee. Whilst some of the required information could have been 
+contained within his laptop, the secure key wasnt available to anyone other than Mr A. He 
+confirmed he hadnt lost his phone (with the secure key on it) and had it in his possession when the disputed transactions occurred. So, I think it unlikely that the specific information 
+needed to authorise the two disputed payments could have been made without the secure 
+key. What that means here is I dont think an unauthorised third party was responsible for 
+these transactions.
+Mr A was under the impression that a second device was authorised to use his secure key, 
+but thats not what happened here. HSBCs evidence is that his account was logged into 
+from a different device and from the data Ive seen it was an internet banking login  rather 
+than a mobile banking login using the banking app. The login from the new device used Mr 
+As secure key that generated the unique codes from the app on his phone.
+Mr A didnt agree with the investigators assertion that later payments into his account were 
+linked to the disputed transactions. I dont think theres any particular relevance to the 
+payment of funds into Mr As account and I dont draw any inference from them. 
+Mr A speculated that HSBCs security was the cause of the losses. Theres no evidence to 
+support that assertion and the security information required to authorise the payment 
+wouldnt be known to HSBC, including the passcode required to use the security key. So, I 
+think it unlikely that HSBC were themselves involved with the payments.
+Because HSBC believed Mr A responsible for the transactions, they didnt pursue the 
+recipient of his funds. The recipients account was also with HSBC and in their report to the 
+Financial Ombudsman they confirmed that no funds remained in the account. I dont think 
+HSBC needed to do anything further with the recipients account once theyd completed their 
+investigation and believed Mr A authorised the payments.
+I appreciate Mr A thinks he wasnt being given equal weight when his complaint has been 
+considered. My role is to assess the evidence from both parties, and Id like to assure Mr A 
+that all his submissions and evidence have been considered before I came to my decision.
+Whilst Im sure Mr A will disagree with me, the evidence Ive considered from both parties 
+leads me to the objective conclusion that Mr A was more likely than not responsible for 
+making these transactions. I say that because no one other than Mr A had access to the 
+secure key, which was needed to generate the unique codes required to authorise the 
+transactions.
+My final decision
+My final decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr A to accept or 
+reject my decision before 8 April 2022.
+ 
+David Perry
+Ombudsman

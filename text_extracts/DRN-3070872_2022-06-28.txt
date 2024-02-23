@@ -1,0 +1,76 @@
+DRN-3070872
+The complaint
+Mr H complains that Interactive Brokers (UK) Ltd (IB) failed to correctly execute a 
+combination risk reversal options trade he placed. He believes that the call part of the trade 
+wasnt executed at the best price, as IB routed it to a different exchange. He says this was 
+incorrect and led to loss of $445.
+What happened
+In June 2020 Mr H placed the trade in question in Adidas stock, to buy 1 ADS-COMB 
+consisting of a combination of a buy of one option contract of ADS 18DEC20 180.0 Put with 
+a sell of one option contract of ADS 18DEC20 220.0 Call.
+Mr H says that when he placed the trade the put was quoted at $7.20 and the call at $29.25, 
+so a difference of 22.05. He says he set a limit of 23, with an expectation of execution at 
+around a difference of 22. However, once submitted, the trade executed immediately, with 
+the put at the expected $7.20, but the call at -$24.80, resulting in a difference of -17.60. 
+As a single option contract was worth 100 shares, this execution led to a credit on Mr Hs 
+account of $1,760. But he said he had expected to receive an amount that reflected the call 
+side executing at, or around, the indicative $29.25, so a higher credit of $2,205, which is 
+where his claim for around $445 comes from. 
+IB looked into Mr Hs complaint but concluded the trade had been executed correctly. It 
+explained that this type of trade was executed on a separate book, as explained on its 
+website, and also as a single trade, not two distinct trades as Mr H had believed was the 
+case. 
+As such, the limit of 23 that Mr H had set was for the ratio of the put purchase price paid 
+and amount received as the call sale price. The limit of 23 was not, as Mr H appeared to 
+understand, a limit on one part of the trade. 
+So, as Mr H set a single limit price as a positive 23, this had indicated that he wanted the 
+trade to execute at a ratio better than (ie less than) 23 points between the put price and call 
+price. In other words, any trade that led to him owing less than $2,300 (or receiving a credit, 
+as actually transpired) would be within the limit hed set. 
+IB added that it was possible Mr H had intended to set a limit of minus 23. But it pointed out 
+that if he had done, based on the indicative prices that showed a difference of minus 22.05, 
+the trade wouldnt have executed in any event as minus 22.05 was greater that minus 23.  
+Mr H referred the complaint to this service, but our investigator reached broadly the same 
+conclusions as IB. He was satisfied the order as submitted by Mr H had been correctly 
+executed. He said, in brief:
+IB provided information that made clear this type of combination risk reversal options 
+trade would be executed on a separate book, and this was also explained in IBs 
+Knowledge Base on its website.
+It was reasonable to conclude that if Mr H had been under the impression there 
+would be two separate trades, then two limits wouldve been required (although he 
+accepted that Mr H may have simply have wished to set a limit on the call side).
+Regardless of Mr Hs actual intention, the order was submitted with a limit that meant 
+he would not have to pay out more than $2,300. As the trade resulted in him instead 
+receiving $1,760, the execution was consistent with the limit as set.
+As IB had highlighted, if Mr H had set the limit as minus 23, the trade wouldnt have 
+executed. 
+Mr H didnt accept the investigators view. He said, in brief, that he felt IB had invented a 
+price on a different book that he wasnt aware of and further, it may have traded internally to 
+his disadvantage. 
+The investigator wasnt persuaded to change his opinion, so the matter was referred to me 
+to review.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, Ive come to the same conclusion as the investigator and for broadly the 
+same reasons. As such theres little I can usefully add to whats already been said.  
+It appears that Mr Hs complaint is based on a misunderstanding of how the combination 
+trade would be executed. I understand why he might have expected the outcome to be as 
+hes suggested. But Im satisfied the explanation given by IB as to how the trade actually 
+executed is correct.
+Information regarding how this this type of trade worked and how associated limits should be 
+set was available on IBs website. As an execution-only service, it was Mr Hs responsibility 
+to ensure he fully understood the process and what the order as submitted meant. 
+I accept that in the context of the indicative pricing at the time of the order a limit of positive 
+23 might have seemed unusual, hence the speculation that he may have intended to enter 
+minus 23. But there was no requirement on IB to check Mr Hs intention. Providing the trade 
+as executed was within the limit as set, which it was, IB was correct to execute it. And 
+further, Ive seen nothing that supports Mr H suggestion that the trade was executed 
+internally, or in any other manner contrary to the information provided on its website. 
+My final decision
+For the reasons given, my final decision is that I dont uphold the complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr H to accept or 
+reject my decision before 26 July 2022.
+ 
+James Harris
+Ombudsman

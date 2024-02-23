@@ -1,0 +1,137 @@
+K820x#14complaint
+Mr H has complained that Equiniti Financial Services Limited (trading as Selftrade) cancelled 
+a number of trailing  stop loss orders he placed in his share  dealing  account.
+background
+Mr H had a share dealing account  with Selftrade. In September  2018 Mr H contacted  
+Selftrade to advise that it had cancelled a number of trailing stop loss orders  which  had 
+caused him a loss.
+In October  2018 Mr H complained as he hadnt  received any explanation and that orders  
+continued to be cancelled. Mr H said the cancelled orders werent authorised  by him and the 
+messages he received  about the orders didnt allow him to identify which had been  
+cancelled. He also complained that complaint  records held in Selftrades secure messaging 
+system were being deleted despite  him marking them as do not delete.
+Selftrade told Mr H on 1 November 2018  that it had identified a defect with trailing stop loss 
+orders. It said such orders would likely continue to be cancelled  and suggested  Mr H set 
+stop losses instead of trailing  stop losses in the meantime. Mr H continued to update  
+Selftrade as to the number of orders cancelled and that he intended to seek damages. 
+Selftrade advised its investigations  into the issue were continuing.
+In January 2019 Selftrade provided its final response to Mr Hs complaint. It said a change in 
+the format of the price provided by its price feed supplier had caused the issue  this had 
+affected limit orders between 11 September 2018 and 6 November 2018.  Selftrade said it 
+had reviewed the orders Mr H placed during this period  and had identified  two that may have 
+been executed had the trailing stop loss orders not been cancelled. It calculated  Mr Hs loss 
+to be £182.52.  It also addressed  the issues Mr H had raised  about his messages kept in the 
+secure messaging system and the issues  he had viewing  contract  notes and cancellation 
+notices. Selftrade  offered  Mr H a total of £622.52 compensation covering the losses  and the 
+trouble and upset  caused. It also offered him the opportunity to leave  Selftrade  without 
+paying any associated  fees.
+Mr H didnt accept this and referred  his complaint  to our service. He added  that he believed 
+the problem with the cancelled orders started  before September  2018. He also said 
+Selftrade hadnt kept to the standards set out in its complaint  handling process. 
+Our investigator didnt  uphold Mr Hs complaint. He acknowledged Mr Hs belief that his 
+losses were greater, but he was satisfied that Selftrade had demonstrated Mr Hs loss only 
+amounted to £182.52. He also thought the additional compensation offered and the option  to 
+exit the service without  any fees was reasonable for the trouble and upset caused. In the 
+absence of further evidence from Mr H, the investigator  thought Selftrades total offer was 
+fair. The investigator also explained  that we couldnt  consider the concerns  Mr H had raised 
+about Selftrades complaint handling  as it wasnt a regulated activity.
+Mr H didnt accept the investigators view because he didnt believe Selftrades  explanation 
+for the error.  He said hed identified 344 cancelled trailing stop loss orders  between 
+10 November 2014 and 3 March 2019  which hadnt  been explained.  Mr H thought he should 
+be compensated at the same rate (which hed calculated as £4 per cancelled  order) for all of 
+the cancelled  orders between these dates. He said because cancelled  order notifications  
+didnt trigger a transaction email or identify  the affected trades,  hed needed to log on several 
+Ref: DRN17440812times a day to find out what had happened. Overall, he believed  he should  receive  additional 
+compensation of around £4,000. He added that he expected his wife to be compensated 
+similarly as shed experienced the same  issues with her account.
+The investigator contacted Selftrade  to ask whether any orders placed  before 
+11 September 2018 couldve  been  affected by the IT error. He also asked why the earlier  
+trailing stop loss orders had been  cancelled if they hadnt been caused by an IT error.
+Selftrade advised that it had reviewed all trailing stop loss orders  that were  active  after 
+11 September 2018 (including those placed  before this date) in its initial review. So it said 
+Mr H had been compensated for all affected  orders. It explained that when a trailing  stop 
+loss order is cancelled it doesn't necessarily  mean  it's caused by an IT error  or issue.  It 
+referred to the terms and conditions of the service, which state under section 12 titled 'Limit 
+Orders, Stop Orders, US Securities and Complex Instruments' that it doesnt guarantee that 
+any orders placed will be executed, even if the price  is met.
+The investigator explained the above  to Mr H, but he didnt accept it. He said there wasnt 
+any evidence to show the problem started on 11 September 2018 and hed supplied 
+evidence showing it started before then. As no agreement could be reached, the complaint 
+has been passed to me to make a final decision.
+my findings
+Ive considered all the available  evidence  and arguments to decide  whats  fair and 
+reasonable in the circumstances of this complaint.  Having done so, Im not upholding it as 
+I think Selftrade has already offered fair compensation to put things right.  I realise Mr H will 
+be disappointed  with this so Id like to explain why.
+cancelled trailing  stop loss orders
+Selftrade has explained why the orders were cancelled between September and 
+November 2018;  I dont intend  to repeat this here as its well known to both parties. Mr H 
+disputes this is the actual  cause of the problem. But I dont believe that the reason for the 
+error is important, instead it is the impact of the error on Mr Hs account that needs to be 
+considered.
+Selftrade has carried out an audit of the trailing  stop loss orders that were active during  the 
+period from 11 September 2018  to 6 November 2018. In this period it said 126 orders were 
+cancelled, but it only identified two orders that wouldve likely been executed if they hadnt 
+been cancelled.  This was confirmed by comparing all orders  which hit the trigger range to 
+manual trades.  Selftrade provided  evidence  of all of the affected  orders, showing that Mr H 
+experienced a total loss of £182.52.
+I appreciate that Mr H disputes this, but he hasnt  provided evidence showing Selftrades  
+calculations are incorrect. So, in the absence of any evidence  to the contrary,  Im satisfied 
+that Selftrade has identified the losses Mr H experienced as a result of the IT error. And 
+I think the £182.52 adequately compensates  him for these losses.  I also think  its offer to 
+allow Mr H to leave Selftrade  without paying any associated fees is reasonable in the 
+circumstances. I will address the trouble and upset caused by the IT error  separately.
+Mr H believes  the IT error started much earlier than September  2018.  He says the fact that 
+numerous trailing stop loss orders were cancelled between 10 November 2014 and 
+Ref: DRN174408133 March 2019 is evidence of this. He says Selftrade hasnt explained why these orders were 
+cancelled.
+Selftrade said it migrated  to Equiniti Financial Services Limited on 26 January 2015.  So, it 
+cant provide any information  relating to orders placed prior to migration. I also wont be 
+commenting on the orders cancelled before this date as it isnt an issue  I can consider under 
+this complaint against Equiniti.
+I dont think the fact that Mr H has had trailing stop loss orders cancelled in the past is 
+evidence of errors on Selftrades part. Selftrade  has confirmed there werent  any known 
+errors with the software during the period identified by Mr H  apart  from the period from 
+September to November  2018. So, it says the orders identified  by Mr H were most likely 
+cancelled because of market conditions, other clients having made similar orders or other  
+factors outside of its control. It says cancellation of orders in these circumstances is 
+consistent the terms and conditions  of Mr Hs share dealing account.  Section 12 says:
+12.1 If you decide  to place a Limit Order or a Stop Order (which  includes any type of Limit  or 
+Stop Order, including a Trailing  Stop Order)  with us you accept  that:
+
+b)we do not promise that Limit Orders or Stop Orders will be executed even if the price 
+is met
+d)special risks apply to Limit Orders such as Stop  Loss, Stop Buy and Trailing 
+Stop Orders and these orders are placed entirely at your own risk.
+In the absence of any evidence demonstrating  fault on Selftrades part, I dont think  it needs 
+to carry out any further investigation of the other  cancelled orders. As per the terms and 
+conditions, it is an inherent risk of the type of orders placed by Mr H that they wont 
+necessarily be executed, even if the price is met. So, I dont think  Mr H is owed any further 
+compensation for losses he says he experienced as a result of the cancelled  orders.
+compensation for trouble  and upset
+Mr H believes  he should be paid additional  compensation in light of the issues he 
+experienced. Clearly  the service provided  by Selftrade fell short  of what I would expect. 
+Selftrade has paid Mr H around £440 for the trouble  and upset caused by the cancelled 
+trailing stop loss orders.
+Overall I think  this sum fairly compensates Mr H. Although  Mr H says he needed to check  his 
+accounts several times a day, I can see Selftrade  acknowledged his complaint quickly,  
+apologised for the inconvenience and told him his concerns were  being investigated. 
+Selftrade also told Mr H it didnt require  further  contact unless he considered  the information 
+would assist with their enquiries. So even  though  Mr H may have felt he needed to check  his 
+account frequently and update Selftrade  as to number of orders  affected, I dont think  he 
+necessarily needed  to do this.
+I also think Selftrade kept Mr H updated  regarding the investigation,  and note it was able to 
+provide an interim explanation on 1 November  2018. I think the sum awarded  by Selftrade 
+shows it took Mr Hs concerns seriously  and recognised the impact of its error in terms of the 
+time Mr H spent  on it and the frustration  caused. For this reason, I dont think it needs to do 
+any more to put things right.
+Ref: DRN17440814my final decision
+I am aware  that Equiniti  Financial Services Limited has made an offer to pay Mr H £622.52.  
+I conclude that such an offer is fair and reasonable in all the circumstances. My decision is 
+that Equiniti Financial Services Limited should pay Mr H £622.52 (if it hasnt already done 
+so).
+Under the rules  of the Financial Ombudsman Service,  Im required to ask Mr H to accept or 
+reject my decision  before 4 July 2019.
+Hannah Wise
+ombudsman
+Ref: DRN1744081

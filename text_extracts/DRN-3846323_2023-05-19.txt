@@ -1,0 +1,89 @@
+DRN-3846323
+The complaint
+A company which I will refer to as R, complains that National Westminster Bank Plc wont 
+reimburse the money the company lost following an Authorised Push Payment (APP) scam.
+What happened
+The background to the complaint is known to both parties and so I wont repeat it at length 
+here. 
+Briefly, in September 2021, R made a payment of about £115,000 in the belief that the funds 
+were being paid to their supplier. Unfortunately, it turned out that they had fallen victim to a 
+scam.  By the time the scam was discovered and reported, hardly any money remained in 
+the account to which the money had gone. R could however recover about £48,000 through 
+their insurance. So, the net loss to R is about £67,000.
+R said that NatWest could have done more to prevent their loss. In particular, they feel that 
+they were not made aware that imported payments didnt have a Confirmation of Payee 
+(CoP) check. They say that had they known this they would not have allowed the payment to 
+be imported but processed it manually. This would have enabled the CoP check to happen 
+and that would have alerted them to the fraud (as there would have been a mismatch of the 
+payee name). R wanted their loss to be reimbursed by the bank under the Contingent 
+Reimbursement Model Code (the CRM Code).
+One of our investigators considered the complaint and concluded that it couldnt be upheld. 
+In summary they said:
+Rs claim isnt eligible to be considered under the CRM Code as the company together 
+with its parent organisation was too big for its claim to be considered under the Code.
+Compared to the prior account activity, the disputed payment wasnt out of character or 
+unusual to conclude that the bank should have intervened.
+The CoP check wasnt required to be implemented for the type of payment carried out by 
+R. And because CoP wasnt implemented for these payments, there wasnt an obligation 
+on the bank to reference CoP during the payment journey.
+On being advised of the scam, NatWest immediately reported it to the recipient bank and 
+therefore there was no failure in this regard as well.
+The investigator said that given all of the above, they couldnt recommend that the complaint 
+be upheld.
+R did not agree. They reiterated that the bank ought to have warned them that there was no 
+CoP check on imported payments. They also said that the payment was large and unusual 
+and therefore the bank ought to have intervened.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, I agree with the Investigator, essentially for the same reasons. 
+In broad terms, the starting position in law is that a bank is expected to process payments 
+and withdrawals that its customer authorises it to make. However, there are circumstances 
+where it might be appropriate for banks to take additional steps  as for example have 
+systems in place to look out for unusual transactions or other signs that might indicate that 
+its customers were at risk of fraud.
+R says that the disputed payment was large and unusual and therefore the bank ought to 
+have intervened and checked the payment with R. However occasional higher payments 
+could happen on an account.  So, what I need to consider is the overall account activity 
+before deciding whether the bank ought to have intervened in this instance.
+I have reviewed Rs account statements for the six months prior to the payment to the 
+fraudster, to understand the general account activity.  I see that this was an active account 
+with multiple large payments, ranging from £20,000 to £50,000. There have been some 
+higher payments too. For example, there was a prior payment of about £72,000, which was 
+in fact was made to the genuine supplier to whom the disputed payment was intended. 
+Further, I also see that after the disputed payment was made, the account balance was 
+around its typical level. So, I dont think there was any cause for concern in that regard as 
+well.  
+After taking all of the above into account, I cant say that the disputed payment stood out 
+sufficiently from the prior account activity to reasonably have prompted NatWest to take 
+further action. I am not persuaded that there is enough here for me to find NatWest at fault 
+for carrying out Rs payment instruction in line with its primary obligation to do so.
+R says that the bank ought to have specifically drawn their attention to the fact that no CoP 
+check would be carried out for the relevant payment, as it was an imported payment.
+NatWest say that this type of payment is exempt from CoP checking requirements imposed 
+by the Payment Systems Regulator (PSR), which was why the CoP check wasnt offered on 
+this occasion. It does seem that this type of payment falls under one of the several 
+exceptions allowed by the PSR when it gave its direction to certain payment service 
+providers (PSPs), including NatWest, to implement the CoP check. 
+From what I can see, when allowing those exceptions, the PSR didnt say that the relevant 
+provider must notify the payer that CoP check is exempted for that type of payment when 
+they make the payment. So, whilst I acknowledge that it is always helpful if the bank could 
+provide as much warning and information as possible, I agree with the Investigator that the 
+bank wasnt obliged to reference lack of CoP during the payment journey in this instance.
+Further, it seems to me that R had made similar imported payments in the past. So, it is 
+reasonable to conclude that they would have noted (or ought to have noted) that no CoP 
+checks were being carried out for such payments.  
+Finally, as explained by the Investigator, Rs claim isnt covered under the CRM code given 
+its size. And on being advised of the scam NatWest immediately reported it to the recipient 
+bank. Therefore, I dont think there was a failure by the bank in this regard.In summary, I understand the points made by R and I am very sorry that they were victim to 
+a callous scam. As Rs claim isnt covered by the CRM Code, I can ask NatWest to 
+reimburse Rs loss only if I find that the bank had done something wrong and had that not 
+happened the loss could have been prevented. However, for the reasons given, I cant say 
+that NatWest has made an error here and so it should reimburse Rs loss.
+My final decision
+My final decision is that I do not uphold this complaint. 
+Under the rules of the Financial Ombudsman Service, Im required to ask R to accept or 
+reject my decision before 15 June 2023.
+ 
+Raj Varadarajan
+Ombudsman

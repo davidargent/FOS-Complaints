@@ -1,0 +1,102 @@
+DRN-3614868
+The complaint
+Mrs B complains that Barclays Bank UK PLC failed to refund a transaction she didnt 
+recognise.
+What happened
+Mrs B became aware of a transaction to a seller on a popular internet marketplace Ill refer to 
+as G. The payment was handled by a separate financial business Ill refer to as J. Mrs B has 
+an account with G and makes purchases with them.
+Mrs B explained to Barclays that there was a purchase for an item that she hadnt made, and 
+Barclays used a process called Chargeback to challenge the transaction. Chargebacks are a 
+system operated by the payment channel used to make the payment  here VISA. They are 
+subject to strict rules to how they operate and theres no absolute right to use the system, 
+although we would expect it to be used if there was a reasonable chance of success.
+Barclays provided a temporary refund to Mrs B whilst they looked into the claim. Barclays 
+received a reply from J who provided information about the transaction, including details of 
+the IP address associated with the location of the device used to make the transaction. This 
+matched Mrs Bs usual IP address and was the same one that Barclays recorded when Mrs 
+B used her internet banking. The information contained other details of the purchase and 
+various other matching pieces of information, including the home address for Mrs B. J had 
+defended their position and the information they provided required (under the Chargeback 
+rules) a further response with evidence from Mrs B.
+Note: IP addresses are a means to identify physical locations that online transactions are
+connected to and can be the actual physical location or other locations connected to the
+provider of the data services.
+Barclays wrote to Mrs B and asked her to provide further information about the transaction 
+with a 10-day time limit for a response. Hearing nothing back, Barclays closed the 
+Chargeback enquiry and removed the temporary credit from her account.
+Mrs B tried to provide evidence that the purchase was never delivered to her and pointed out 
+differences in the delivery tracking information compared to that provided by J. Mrs B 
+explained that she never received Barclays letter requesting further information. Mrs B 
+complained to Barclays about what had happened, and Barclays carried out an investigation. 
+Barclays then wrote to Mrs B declining her complaint. Mrs B was unhappy with how the 
+complaint was handled and brought it to the Financial Ombudsman Service for and 
+independent review.
+It was looked into by one of our investigators who asked both parties for information about 
+the complaint. Mrs B provided details of the tracking delivery information and explained that 
+the delivery address was different to her home address. 
+Barclays provided details of how the transaction was made, Js response and other 
+information about the complaint. After considering the information, our investigator didnt 
+think that Barclays were at fault with how they handled the Chargeback and she also thought 
+it was likely that Mrs B had authorised the transaction herself.
+Mrs B disagreed and asked for a further review. Mrs B recognised that the IP address data 
+matched her normal usage, but thought that because she didnt receive the goods, she 
+should still receive a refund. Mrs B remarked that she would be disappointed if it turned out 
+to be anyone else in her family responsible for the transaction. Mrs B explained that the 
+delivery information showed the address to be a nearby hospital and she also thought the 
+seller was a fraudster.
+Mrs Bs complaint has now been passed to me for a decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+When Mrs B raised her complaint, it was on the basis that she hadnt authorised the 
+transaction, not that there was a problem with the delivery. Thats an important distinction for 
+how Barclays dealt with her original claim and for what considerations Ill make when 
+reviewing the complaint.
+The relevant law surrounding authorisations are the Payment Service Regulations 2017. The 
+basic position is that Barclays can hold Mrs B liable for the disputed payment if the evidence 
+suggests that its more likely than not that she made it or authorised it.
+Barclays can only refuse to refund unauthorised payments if it can prove Mrs B authorised 
+the transaction, but Barclays cannot say that the use of the card details conclusively proves 
+that the payment was authorised. 
+Unless Barclays can show that consent has been given, it has no authority to make the 
+payment or to debit Mrs Bs account and any such transaction must be regarded as 
+unauthorised. To start with, Ive seen the banks technical evidence for the disputed 
+transaction. It shows that the transaction was authenticated using the payment tools issued 
+to Mrs B. Ill now need to consider the information provided by both parties to determine 
+whether theres sufficient evidence to hold Mrs B responsible for the disputed transaction or 
+not.
+J provided details of the transaction including payment information and delivery details. This 
+information showed a consistent IP address was used to make the purchase which matched 
+other non-disputed purchases made by Mrs B. The same IP address is registered by 
+Barclays when Mrs B uses her online banking. 
+Mrs B confirmed she hadnt given her card details to anyone else or access to her banking 
+information, so its difficult to see how an unauthorised third party could have used her 
+payment details from the same location that she normally uses. So, as far as the question of 
+authorisation stands, I think its more likely than not that Mrs B was responsible for the 
+transaction and it was reasonable for Barclays to hold her liable for it.
+I appreciate Mrs B has shown that certain delivery details are different to that shown on Js 
+paperwork, but the issue here, as Ive explained earlier, is related to the authorisation of the 
+transaction rather than whether it was delivered. When Mrs B took her claim to Barclays, 
+they dealt with it as a fraudulent transaction rather than a failure to deliver goods. The 
+information they received back indicated Mrs B was likely responsible and to pursue it 
+further, they needed additional evidence from her. I understand Mrs B says she didnt receive the letter, but theres no evidence of any failure from the postal services and my 
+understanding is that earlier correspondence was sent to the same address.
+The Chargeback system operates on strict timetables and certain requirements to provide 
+information at each stage. Once the time for a response had elapsed, Barclays couldnt have 
+then gone back to J using the Chargeback process. Thats why the temporary credit was 
+removed because the evidence indicated Mrs B was responsible and Barclays had no 
+further information with which to challenge the transaction.  
+I do recognise that information obtained about the delivery is confusing, including some of 
+the timings. I realise Mrs B thinks the seller was fraudster, but what the delivery evidence 
+does show is that the item was delivered to an address nearby  rather than something that 
+didnt exist. I cant know what actually went on with the delivery, but it doesnt affect the 
+issue of authorisation. I dont think Barclays could reasonably have done more at the time 
+and I wont be asking them to do anything more about the complaint.
+My final decision
+My final decision is that I do not uphold this complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mrs B to accept or 
+reject my decision before 28 August 2022.
+ 
+David Perry
+Ombudsman

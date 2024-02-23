@@ -1,0 +1,94 @@
+DRN-2602190
+The complaint
+Mr D complains that he was charged for failed payments by Starling Bank Limited (Starling).
+What happened
+In May 2020, Mr D tried to make two payments from his account with Starling. Both were 
+rejected by Starling and were credited back to his account at the spot exchange rate. Fees 
+were charged.
+Time Debit/Credit GBP USD Fee Comments
+Payment 1
+03.10 Debit £2,900 $3,583.70 £17.10 Payment from account
+11.04 Starling told of failure 
+by processor
+12.46 In-app message 
+advising payment 
+failed
+12.46 Credit £2,908.64 Refund to account  
+small profit
+Payment 2
+13.09 Debit £2,000 $2,445.94 £13.50 Payment from account
+13.40 Starling notified of 
+failure by processor
+14.02 In-app message 
+advising payment 
+failed
+16.54 Credit £1,975.08 Refund to account - 
+loss
+In the case of the first payment, the exchange rate had moved in Mr Ds favour and so more 
+money was received back than was sent. For the second payment, less money was received 
+than had been sent.
+Mr D complained. In the message sent by Starling, he was advised that payments to the 
+beneficiary had been blocked and yet they allowed the second payment attempt. And hed 
+been charged fees for payments that werent made  and lost out on the exchange rate on 
+the second payment when it was returned.
+Starling said they hadnt made an error. The payments had been rejected as they were 
+outside the risk appetite of their payment provider. Theyd advised Mr D that the payments 
+had been rejected. The conversion back to Mr Ds account was made at the exchange rate 
+at the time. Because the reasons for the rejection of the payment was outside their control, 
+any costs or losses had to be stood by customers  including the fees paid. There was a 
+delay in sending money back to Mr Ds account due to their operation processes.
+Mr D brought his complaint to this service. Our investigator upheld Mr Ds complaint. She 
+asked why the payments had failed  and was told they were outside the risk appetite of 
+Starlings third-party processor. They couldnt give anymore information. She could accept 
+that Starling could reject the first payment. But not the second one as their message to Mr D 
+said that any further payments to the same beneficiary would be blocked  but it wasnt. She 
+asked Starling why there was a long delay  of three hours  before the money for the 
+second payment was returned to Mr Ds account  and asked what the exchange rate 
+wouldve been if it had been processed earlier, when the message was sent to Mr D  at 
+14.02. Starling couldnt provide that information. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Starlings general terms and conditions cover what happens with failed payments. They say 
+..it may be that the payment is rejected or returned for reasons outside our control. If thats 
+the case, you may receive less money back into your account than you originally paid, 
+because of fluctuating exchange rates. If its our fault that the payment was rejected, we will 
+refund any difference back into your account, so that you receive the full amount back.
+And Starling said that the payments were rejected by their third-party processor  so this 
+would mean this was outside their control. So  they argue that the fees and costs due to the 
+change in exchange rates should be paid by Mr D. But it wouldve been helpful to Mr D if 
+Starling couldve explained more fully why the payments were blocked  as far as they 
+could.
+We asked Starling why there was a time lag between the rejection of the second payment 
+and the refund to Mr Ds account  three hours later. Starling showed us their operational 
+procedures, and it does confirm that such a delay is possible due to the way they deal with 
+these refunds.
+But  the key issue here is that Starling when advised Mr D that the first payment had failed 
+ they said that further payments would also be blocked. The in-app message to Mr D said 
+this payment has failed as it sits out of our international payment providers risk appetite. 
+As a result you will not be able to make a payment to this beneficiary again. Mr D asked for 
+more information seven minutes later Can you give more information why it doesnt 
+work?  I cant see that Starling replied. Mr D wouldve seen the refund of £2,908.64 in his 
+account at the same time  and made the second payment attempt. It seems quite 
+reasonable for him to do this under the circumstances  he was puzzled as to what was 
+going on. But then  even though Starling said that further payments would be blocked  
+they allowed the second payment attempt. And this caused Mr D to pay a further fee and 
+lose out on the exchange rate.We asked Starling several questions about what happened  such as why the second 
+payment wasnt blocked, and why there wasnt a warning to Mr D when the second payment 
+was attempted  but they couldnt tell us. 
+Like our investigator, I can see that it was OK for Starling to reject the first payment. But, on 
+balance, I dont think Starling have treated Mr D fairly and reasonably here in the way the 
+second payment was dealt with.  
+Putting things right
+ Mr D shouldnt have to be out of pocket as a result of what happened. He lost £24.92 on the 
+exchange rate on the second payment, and he paid a fee of £13.50. So, Starling should pay 
+compensation of £50 to Mr D. This amount will cover the costs of the second payment, plus 
+a sum for distress and inconvenience.
+My final decision
+I uphold this complaint.
+Starling Bank Limited must pay £50 to Mr D. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr D to accept or 
+reject my decision before 13 April 2021.
+ 
+Martin Lord
+Ombudsman

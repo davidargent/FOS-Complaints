@@ -1,0 +1,155 @@
+DRN-2881282
+The complaint
+Miss D complains about Revolut Ltds actions in relation to a scam in which she lost over 
+£4,000.
+What happened
+The background to this case is well known to both parties, so Ill just summarise it here.
+In January 20201, Miss D received an automated call directing her to press 1 to accept a 
+call from the police, or else face arrest. She was put through to someone who identified 
+themselves as a police offer, and provided their badge number. They also knew her name 
+address. Unfortunately, they were a scammer. 
+The scammer said they were calling Miss D as her tax was overdue. Shed started her tax 
+return the previous day, but hadnt finished it. She said she thought she had more time, but 
+the scammer told her she didnt. They sent her a notice, allegedly from the Royal Courts of 
+Justice saying that criminal action was being taken against her and there was a warrant for 
+her arrest due to non-payment. And that is who the phone number appeared to relate to  it 
+had been spoofed to appear legitimate. 
+Miss D says that, as a foreign national, she wasnt very familiar with the UK tax system. She 
+thought she must have done something wrong, and that shed be arrested and convicted if 
+she didnt make payment as instructed. Within half an hour, she made five transfers totalling 
+£4,339 to three accounts. This left only £15.05 in her Revolut account. The scammer tried to 
+pressure her into transferring more, prompting her to reach out to a friend to ask for money. 
+He queried whether it could be a scam. She still thought it was a legitimate, but her friend 
+was able to show her where the money was going and help her understand why it might be a 
+scam. She ended the call and tried to cancel the payments  but theyd already gone 
+through. She reported the scam to Revolut and the police. 
+Revolut tried unsuccessfully to recall the payments. It said it wouldnt refund Miss Ds loss as 
+shed authorised the payments despite the warnings it had sent her that the transactions 
+were highly suspicious.
+Unhappy with Revoluts response, Miss D referred the matter to our service. Our investigator 
+thought Revolut should refund her loss, with interest, and pay £150 compensation. Given 
+that it identified the payments as suspicious, he didnt think it had intervened appropriately. 
+Had it done so, he thought this would likely have prevented the loss.
+Revolut doesnt agree. It says its common knowledge that HMRC doesnt call people. It also 
+argues that, had it intervened further, Miss D would still have made the payments out of fear. 
+Our investigator has reiterated that he doesnt think Miss D is partly to blame for what 
+happened  and does think further intervention would have made a difference. As no 
+agreement has been reached, the case has been passed to me.  
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, Ive reached the same conclusions as the investigator. Ill explain why.
+I accept the transactions were authorised payments, even though Miss D was the victim of a 
+sophisticated scam. She used her security credentials to request the payments. So, although 
+she didnt intend the money to go to the scammers, under the Payment Services 
+Regulations 2017 and the terms and conditions of her account, Miss D is presumed liable for 
+the loss in the first instance.  
+However, taking into account the law, regulators rules and guidance, relevant codes of 
+practice and what I consider to have been good industry practice at the time, I consider 
+Revolut should fairly and reasonably:
+Have been monitoring accounts and any payments made or received to counter 
+various risks, including anti-money laundering, countering the financing of terrorism, 
+and preventing fraud and scams.
+Have had systems in place to look out for unusual transactions or other signs that 
+might indicate that its customers were at risk of fraud (among other things). This is 
+particularly so given the increase in sophisticated fraud and scams in recent years, 
+which banks are generally more familiar with than the average customer.
+In some circumstances, irrespective of the payment channel used, have taken 
+additional steps, or made additional checks, before processing a payment, or in 
+some cases declined to make a payment altogether, to help protect customers from 
+the possibility of financial harm from fraud.
+My understanding is that Revolut identified the first transfer (and some others) as suspicious. 
+I consider that reasonable. I say this because this was a series of relatively large payments, 
+utilising over 99% of Miss Ds funds, made in quick succession to several new payees. 
+These are common indicators of fraud or scams. So what Ive gone on to consider is 
+whether Revolut did enough in response to the risk it identified. 
+Did Revolut respond appropriately to the risk of financial harm from fraud that it identified?
+Revolut has explained that it blocked the first payment (and some of the subsequent 
+payments) and displayed a message which said:
+Review transfer
+Our systems have identified your transaction as highly suspicious. We declined it to 
+protect you.
+If you decide to make the payment again anyway, you can, and we wont decline it. 
+As we have warned you this payment is highly suspicious and to not make the 
+payment, if the person you pay turns out to be a fraudster, you may lose all you your 
+money and never get it back.
+You can learn more about how to assess this payment and protect yourself from this 
+link: https://takefive-stopfraud.org.uk/
+Miss D says she doesnt recall this, but she would have needed to click OK to proceed to 
+make the payments. Once shed done that, no further payments to that particular payee 
+were blocked. Revolut considers this response sufficient in the circumstances. But as a matter of good 
+industry practice, I think it ought fairly and reasonably to have done more. While I appreciate 
+that banks are generally expected follow payment instructions, that isnt an unfettered duty. 
+Reasonable checks and balances are also required as part of the broad regulatory 
+landscape to treat customers fairly and to safeguard against the risk of fraud or financial 
+harm. I accept theres a limit to what a bank can reasonably do; and I still expect consumers 
+to take responsibility for their own decisions  and possibly bear some of the loss if there is 
+clear evidence of blame on their own part (see below). But in this case, Im conscious that 
+Revolut had already disrupted the payment journey by blocking the payment. And Im not 
+persuaded that the subsequent action it took was enough to meet its obligations to protect its 
+customer from financial harm from fraud. 
+I appreciate that Revolut warned Miss D that it considered the transactions to be highly 
+suspicious. But an important feature of the type of scam Miss D fell victim to is that the 
+consumer is induced to make the payments themselves, and that theyre unaware of the 
+scam. That affects the impact of a warning like the one Revolut used. It didnt give any 
+further information about why the payments appeared suspicious  or any information about 
+the type of scam Miss D was at risk from (or really any scams). And Revolut allowed her to 
+re-make each blocked transaction immediately afterwards, whilst she was still under the 
+influence of the scammers coaching her through the process, without knowing anything 
+more about the purpose of the payments or the circumstances surrounding them. 
+In the circumstances, I think Revolut should have done more. For example, after blocking 
+the payments, it would have been more appropriate to contact Miss D, or require her to get 
+in touch, so it could make further enquiries before deciding how to proceed. 
+Would appropriate intervention have affected Miss Ds loss?
+It doesnt appear that Miss D was given a cover story for these payments. So if asked by 
+Revolut, I think she would have explained that shed been called by the police and told to 
+make immediate tax payments, and that shed be arrested if she didnt. I would then have 
+expected Revolut, which would have more awareness of common scams than Miss D, to 
+have realised this was a scam. As the financial professional in this situation, I consider it 
+likely that, if it had explained its concerns to Miss D, this would have broken the spell  as 
+happened when her friend set out to her why it didnt seem legitimate. So, if Revolut had 
+responded appropriately to the risk it identified from the first transfer, I think that would likely 
+have revealed the scam and prevented the loss. I therefore think it should refund the 
+transactions and pay interest for the loss of use of those funds.  
+Should Miss D hold some responsibility for her loss?
+Ive considered whether Miss D should hold some responsibility for her loss by way of 
+contributory negligence. I think the unfortunate timing of her having started her tax return the 
+previous day made it seem more likely that HMRC would be contacting her. Im also 
+conscious that, as a foreign national, Miss D wasnt as familiar and confident about HMRCs 
+process. I think a reasonable person, in the circumstance of facing the threat of legal action 
+for unpaid tax, in a foreign country, might be similarly persuaded that the call was legitimate. 
+Particularly bearing in mind the social engineering and pressure tactics (such as the threat of 
+arrest) used in the call to make it more difficult for her to identify and reflect on any warning 
+signs. Whilst she mentioned feeling suspicious towards the end, my understanding from 
+her contact with us is that she felt pressured  but was still under the spell of the scam and 
+persuaded it was legitimate due to the tactics used by the scammers. Her chat with Revolut 
+immediately afterwards also mentions that she was suspicious due to being asked to get 
+more money from a friend  and no further payments were made from that point.  For the reasons Ive set out above, I also dont think the warning  with no details about why 
+the payments were suspicious or about the scam  would have reasonably alerted Miss D to 
+the risk. Considering her circumstances and the tactics of the scammers, I consider it 
+reasonable that she was still persuaded that the payments were legitimate. In all the 
+circumstances, I dont think there was contributory negligence here. Miss D was simply a 
+victim of a sophisticated scam, which her circumstances made her vulnerable to, and wasnt 
+partly to blame for what happened.
+Distress and inconvenience
+As well as the financial loss Revolut failed to prevent, I think its handling of her fraud claim 
+caused her avoidable distress and inconvenience. Im mindful it was the scammers, rather 
+than Revolut, who put Miss D in this difficult and upsetting position in the first place. That 
+said, Ive found that Revolut could have done more to prevent the scam from going ahead  
+which would have reduced the stress and financial pressure on Miss D. I can also see she 
+found it difficult to deal with Revolut during the fraud claim. She efficiently compiled all the 
+relevant information she was asked for, and was kept waiting for responses. Its clear from 
+her contact with Revolut that this was difficult and upsetting for her. So, in the 
+circumstances, I consider it fair and reasonable that Revolut should pay Miss D £150 
+compensation for the distress and inconvenience it caused. 
+My final decision
+For the reasons given above, I uphold this complaint and direct Revolut Ltd to:
+Refund the £4,339 Miss D transferred to the scammers, less any funds recovered;
+Pay 8% simple interest on this amount from the date the payments left the account to 
+the date of settlement; and 
+Pay £150 compensation. 
+Under the rules of the Financial Ombudsman Service, Im required to ask Miss D to accept 
+or reject my decision before 14 October 2021.
+ 
+Rachel Loughlin
+Ombudsman

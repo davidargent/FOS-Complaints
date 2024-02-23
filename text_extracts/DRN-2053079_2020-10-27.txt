@@ -1,0 +1,85 @@
+DRN-2053079
+The complaint
+Mr H complains that Lloyds Bank PLC wont refund disputed transaction made on his 
+account. 
+What happened
+Mr H says that he stayed overnight in a hotel, and during the night a transfer of almost 
+£14,000 was made via his mobile phone app that he didnt authorise. Mr H explained that he 
+was with a friend and fell asleep due to being very tired, and his mobile phone was with him 
+at the time. 
+Lloyds said it wasnt possible for them to stop the pending payment, they didnt refund the 
+money because a fraudster would need to know Mr Hs details to access his mobile app and 
+text messages would have to be sent to Mr H when any payment is made via the app. 
+Mr H didnt accept Lloyds response so complained to our service. He said you gain access 
+to online banking app via either face recognition or a passcode and its possible his friend 
+knows this. He last logged in at midnight and nobody knows his online banking details. And 
+he didnt get any calls or text messages from the bank. 
+One of our investigators looked into Mr Hs complaint, but they didnt uphold it. They said 
+they couldnt see how a fraudster gained access to his mobile banking without his 
+knowledge and it seems odd that the fraudster accessed Mr Hs mobile app earlier in the 
+morning but didnt transfer the funds until later. 
+Mr H didnt accept our investigators view. In summary he said:
+-He didnt get any messages from the bank.
+-He doesnt have biometrics on his phone.
+-He thinks the IP addresses, where the transfers were carried out from, look strange 
+some coming from outside of the UK.
+Our investigator contacted the bank to confirm that the mobile banking was accessed via 
+biometrics on the day before the fraud  and Lloyds explained that way the information is 
+recorded it can mean either biometrics or face ID. On balance she thought he likely received 
+the text and although the IP address for part of the morning was outside of the UK, when the 
+transfer occurred the IP address was close to Mr Hs location. 
+Mr H reiterated his original points that there were lots of different IP addresses which he 
+thinks the bank should have picked up on and he didnt receive any messages to notify him 
+about the setting up of a new payee. And hes also been to the police and theyd confirmed 
+the money had been transferred to numerous accounts.
+As Mr H didnt accept our investigators outcome its been passed to me to decide. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+Having done so, my review of the evidence has led me to the same overall conclusions as 
+the investigator previously set out and for much the same reasons. 
+Generally, Lloyds can hold Mr H liable for the disputed transaction if the evidence suggests 
+that its more likely than not that he made or authorised them himself. 
+Im satisfied from the banks technical evidence that Mr Hs genuine online banking details 
+were used to make the disputed transaction. But the regulations relevant to this case say 
+that is not, on its own, enough to enable Lloyds to hold him liable. So I also need to think 
+about whether the evidence suggests that its more likely than not that Mr H consented to the 
+transaction being made.
+From what Ive seen, I dont think its unreasonable for Lloyds to conclude that Mr H 
+authorised the transactions. This is because:
+-To carry out the disputed transactions a fraudster would need to gain access to 
+Mr Hs mobile phone and his app. To gain access to Mr Hs mobile app theyd need 
+his log in details, his memorable information and his password. Mr H explained that 
+he didnt write his online banking details down, hadnt shared them with anyone and 
+the day prior to the disputed transaction he accessed his online banking via face ID  
+so his security details couldnt have been overlooked. Therefore I cant see how a 
+fraudster could have accessed his account. 
+-A text message was sent to Mr Hs mobile phone number to confirm the transfer.
+ 
+-Mr H said he last accessed his mobile banking at midnight immediately prior to the 
+disputed transactions. There were a large number of mobile app log ins after 
+midnight but the funds werent transferred out of Mr Hs account until 4am  I find it 
+surprising that a fraudster would take the risk of logging into Mr Hs account on so 
+many occasions before transferring out the funds. 
+-At 1:23am £15,000 was moved from Mr Hs savings account to his current account 
+before £14,557 was moved back a short time later. This left Mr H with a zero balance 
+and not in his overdraft in his current account. I cant see why a fraudster would 
+ensure that Mr H wasnt in his overdraft or in fact make either transfer between 
+Mr Hs own accounts. 
+-I struggle to understand why a fraudster wouldnt have transferred out all of Mr Hs 
+funds if theyd gained access to his online banking app. Mr H was left with just over a 
+£1,000 remaining in his savings account after the disputed transfer.  
+Mr H responded to our investigators view by saying that prior to and after the disputed 
+transaction there were a number of IP address changes. I agree that the IP addresses prior 
+to the disputed transaction appear unusual  indicating log ins were carried out outside of 
+the UK. But this doesnt change my overall conclusions. I say this because due to the factors 
+Ive outlined above, in particular the difficulties a fraudster would have in accessing Mr Hs 
+online banking app and the unusual behaviour of the fraudster on balance I think Mr H 
+authorised the transaction. And therefore Im satisfied Lloyds can hold him liable for the 
+transaction. My final decision
+My final decision is I dont uphold Mr Hs complaint.
+Under the rules of the Financial Ombudsman Service, Im required to ask Mr H to accept or 
+reject my decision before 24 November 2020.
+ 
+Jeff Burch
+Ombudsman

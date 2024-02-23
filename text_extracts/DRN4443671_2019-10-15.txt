@@ -1,0 +1,81 @@
+K820x#14complaint
+Mr F complains that Lloyds Bank PLC failed to prevent an authorised push payment fraud.
+background
+In August  2017  Mr F visited a branch of Lloyds and instructed staff to make a CHAPS 
+payment of £120,000 to an account  with another bank. He believed that account to belong to 
+his solicitor, but the solicitors email had been intercepted by a fraudster who had changed  
+the account details. The next day, a second  fraudulent email was sent to confirm that the 
+funds had been received, presumably to allow the fraudster as much time as possible to 
+withdraw the funds,  which took place over the next six days.
+When the fraud came to light a few days later, Mr F immediately contacted Lloyds. Lloyds 
+contacted the other bank, but was told that all of the money had already been withdrawn or 
+spent, and there was nothing left to recover.
+Mr F complained to Lloyds, and later to this service, that Lloyds had been negligent in 
+allowing the payment to go through. He said that Lloyds should have spotted that the name  
+on the receiving account  did not match the name on his written payment instruction. He said 
+that Lloyds had not carried out proper checks, even though it had had time to do so 
+(because the payment had cleared a few hours  after he requested  it). He also complained  
+that Lloyds branch staff had not warned  him about the risks of making a CHAPS  payment 
+using account  details provided  to him in an email. Had it done so, he would have called his 
+solicitor before authorising the payment.
+Lloyds said it didnt  have  the ability to check the name on the receiving account, and it had 
+complied with the relevant rules.
+Our investigator did not uphold this complaint. He said that Lloyds had been under no 
+obligation to do more than check the account  number and sort code. It hadnt  had to check  
+the name on the account. It had tried to get the money back  once it was told about the fraud, 
+but the money had already gone.  He didnt  think Lloyds had had to do more than that.
+Mr M, who works at a claims management  company acting for Mr F, asked for an 
+ombudsmans decision. He argued  that Lloyds branch staff should  have asked  Mr F 
+questions, or more  questions, about the payment to check  it was valid.  He also argued that 
+new anti-fraud measures  announced in 2016  should have been implemented sooner.  So this 
+complaint has been passed to me.
+my findings
+I have considered all the available evidence  and arguments to decide what is fair and 
+reasonable in the circumstances of this complaint.  I do not uphold it. I will explain why.
+I accept that the fraudulent email was convincing, and I attach no blame to Mr F for not 
+spotting it. This was a mean and vicious fraud which could  have happened  to anyone.
+The legislation which applied to CHAPS  payments at the time was a statutory instrument 
+called the Payment Services Regulations 2009. These regulations  set out what Lloyds was 
+required to do when  processing a payment. In summary, Lloyds was only required to 
+Ref: DRN44436712consider the account number and sort code  collectively called the unique identifier in the 
+regulations.
+Regulation 74, entitled Incorrect  unique identifiers,  said that if a person making a payment  
+provided his bank with the unique identifier for the wrong account, then the bank  would not 
+be liable  for sending the money to that account instead of to the right account. If the person 
+provided any additional information, such as the name of the intended account holder, then 
+this would not affect the banks liability  it only had to send the money  to the account  
+identified by the unique identifier.
+I recognise that that may sound harsh,  but the reason  for that rule is that the CHAPS system  
+did not allow banks  to check whether the name they had been given for the destination 
+account matched  the name  actually  on that account.
+As Mr M has pointed out, there are plans  to change this, but Lloyds is not responsible  for the 
+fact that this did not happen in time to help Mr F. Lloyds  cannot unilaterally change  the way 
+that the entire banking industry  operates.  The change had to be led by the Financial Conduct 
+Authority (the regulator) or by the Bank of England (which operates  the CHAPS clearing 
+system).
+A banks  only other duty under regulation 74 was that it must make  reasonable efforts  to 
+recover the funds. Lloyds  contacted the receiving bank, but it was too late, as the money  
+had already gone. I therefore accept that Lloyds complied with the rules.
+Mr M hasnt  said what questions  Lloyds  staff should  have asked Mr F to establish that his 
+payment instructions were valid. I think that if they had asked him if he was sure he had 
+provided the correct  account details, he would have shown them  the email as proof   which, 
+of course, would not have avoided the problem.
+I have no doubt  that if the branch staff had warned Mr F that the email  could be fraudulent, 
+then he would have  contacted his solicitor to confirm the details, and the fraud  could have 
+been avoided.  But the thought may simply  not have occurred to the staff,  as they may not 
+have known about this kind of fraud at the time,  or received training about it. It was not as 
+well-known then as it is now. I asked Lloyds about  what procedures  its branch staff were 
+trained to follow at the time. I cant share  the details of its response  with Mr F, as naturally its 
+procedures are confidential, since they could  be useful to fraudsters. But having considered 
+what the bank  sent me, I have seen nothing  to suggest that its branch staff did not follow the 
+relevant procedures.
+It follows that I am unable  to uphold this complaint. I regret  that this will come  as a bitter 
+disappointment to Mr F.
+my final decision
+My decision  is that I do not uphold  this complaint.
+Ref: DRN44436713Under the rules  of the Financial Ombudsman Service,  Im required to ask Mr F to accept or 
+reject my decision  before 15 November  2019. But if we dont hear from him, then we will 
+presume that he rejects it.
+Richard Wood
+ombudsman
+Ref: DRN4443671

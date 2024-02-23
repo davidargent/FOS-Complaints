@@ -1,0 +1,83 @@
+K821x#15complaint
+Ms F complains that Bank of Scotland  plc, trading as Halifax, wont refund three  payments 
+from her account through online banking that she didnt  make or authorise.
+background
+Ms F says that she thinks that an unknown third party hacked  into her bank account  and 
+made three payments from it, totalling  £1,150.  She doesnt know  how this happened as she 
+hasnt shared her security  details with anyone. She thinks that if Halifax  had additional 
+security measures in place the money wouldnt have been taken or, at least  the amount 
+taken would have  been limited. She says that this unknown person tried to do the same 
+again the following month, but Halifaxs system stopped the payments. Shed like the money  
+refunded as the loss is causing  her financial difficulties.
+Halifax investigated but declined to refund the money. It said that the payments were  made  
+through Miss Fs online  banking app and it couldnt  see any point  of compromise for her 
+security details.
+Our investigator didnt  think this complaint  should  be upheld. He couldnt see how an 
+unknown third party could  have accessed  Ms Fs mobile phone,  logged  into her banking app, 
+set up a new payee and made the disputed payments without Ms Fs knowledge.
+Ms F didnt agree.
+my provisional findings
+After considering all the evidence,  I issued my provisional decision on this complaint to Ms F 
+and Halifax on 11 September 2020. I summarise my findings:
+Halifax can hold Ms F liable for the disputed payments if the evidence suggests its more  
+likely than not that she made or authorised them.
+I was satisfied that the payments  were  authenticated.  Authentication is the use of a 
+procedure by which a bank is able to verify the use of a specific  payment instrument,  
+including its personalised security features.
+The payments  were made using Ms Fs mobile banking app. But that on its own isnt 
+enough for Halifax to hold Ms F liable.
+The mobile banking  data evidence provided by Halifax appeared to show  that two 
+different mobile  devices  with different IP addresses were  used to access the banking  app 
+and often they appeared to be in use at the same time.
+Whilst Halifax says that it isnt possible for two sessions to be active as only one is 
+allowed, I found that on 29 January 2018  the regular (genuine) IP address was used to 
+log into the app and the next action was by another IP address and phone  ID just 16 
+seconds later. Two minutes  later Halifax systems detected  malware  when there was an 
+attempt to increase  the overdraft limit. A minute  after that Ms F reset  her password  using  
+the regular IP address.
+Ref: DRN57863792Halifax said it couldnt find a point of compromise to Ms Fs security details, so it 
+considered Ms F made or authorised the payments.  But Halifaxs  systems detected  
+malware again on 9 February 2018  when another unsuccessful attempt was made  by the 
+unknown device  to increase the overdraft limit.
+I considered it possible for unknown  third party to remotely  watch and take over Ms Fs 
+banking session without her knowing and so they could  have seen the password reset, 
+particularly as malware was detected  at the time Ms F reset  her password.
+On 28 February 2018 Ms Fs account  is accessed by both mobile devices. Ms F used 
+finger biometric validation  when  she logged in to her account but within  10 minutes  of her 
+doing this there was a forced  log off from her session and the other device was used to 
+set up a new payee.
+Although Ms F says that she didnt  receive  a text I see that Halifax  sent one to her 
+genuine mobile phone number about making a payment of £0 to a new payee.  A few 
+minutes later, from the second  device, three  payments totalling £1,150 were made to the 
+new payee. Halifax didnt send any texts about these payments. 
+Halifax accepts that there was malware  on Ms Fs device but hasnt  been  able to say 
+what it was or if it took any action.
+I thought it likely that the malware  was activated  on 29 January  2018  when Ms F tried to 
+log in and this was when the security information could have been compromised. So, I 
+think it was possible that the malware allowed an unknown  third party to remotely hijack  
+Ms Fs banking sessions and then gather  the required  information to later make the 
+transactions. As the third party  hadnt  been successful in increasing Ms Fs overdraft 
+limit, they had to wait until she received  her next salary before being able to make  the 
+payments
+Subject to any further representations from Ms F or Halifax, my provisional decision was that 
+there wasnt enough evidence to show that Ms F authorised the transactions  so I didnt 
+consider that Halifax could hold her liable. I considered Halifax should  refund the three  
+disputed transactions  and any related charges and pay simple interest at 8% on the amount 
+refunded.
+Halifax accepted  my provisional decision  and Ms F had nothing further to add.
+my findings
+Ive considered all the available  evidence  and arguments to decide  whats  fair and 
+reasonable in the circumstances of this complaint.
+As neither Ms F nor Halifax  has provided  any fresh information or evidence in response to 
+my provisional decision, I find no basis to depart  from my earlier conclusions.
+my final decision
+My final decision is that I uphold this complaint. I require Bank of Scotland plc, trading as 
+Halifax, to:
+refund  the three disputed transactions totalling  £1,150 and any related charges
+Ref: DRN57863793add simple interest at a rate of 8% per annum  from the date of the transactions to the 
+date of settlement.
+Under the rules  of the Financial Ombudsman Service,  Im required to ask Ms F to accept or 
+reject my decision  before 2 December 2020.
+Karen Wharton
+ombudsman
+Ref: DRN5786379

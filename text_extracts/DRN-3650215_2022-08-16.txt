@@ -1,0 +1,136 @@
+DRN-3650215
+The complaint
+A company which Ill refer to as T complains that First Data Europe Limited (trading as
+Clover Merchant Services) didnt set up its account correctly leading to incorrect charges
+being applied to certain transactions.
+The complaint is brought on Ts behalf by its director, Mr L.
+What happened
+For ease of understanding Ive set out list of the parties involved in the complaint as follows:
+Clover  The merchant services provider responsible for processing transactions on
+Ts behalf.
+P  the service provider of the card terminal for card present transactions working
+on Clovers behalf to fulfil its contractual obligations to T.
+S  the service provider for Ts card not present transactions including e-commerce,
+mail order and telephone order transactions (MOTO).
+Mr L told us:
+In March 2019, T signed an agreement with Clover to provide it with merchant
+banking services for card present transactions. This meant T would hire a card
+terminal from Clover. This part of the contract was fulfilled on Clovers behalf by P.
+Due to the nature of the business, T also wanted to be able to accept transactions
+through mail order and telephone order (MOTO). T wanted to process these 
+transactions through a different company, S, and didnt think this would be an issue
+as Clover dealt with numerous transaction providers, including S. In April 2019, the
+agreement with S was signed and Clover would provide the services for all Ts
+transactions received from both providers.
+In around June 2020, he noticed that T was being charged an incorrect fee for its
+payments through Ss system. It appeared that all the payments were being
+processed through Ps system - which then charged an additional fee because T
+didnt have the agreement for these payments.
+He initially raised a complaint against P, but it wasnt responsible for how the
+payments were processed and couldnt help. He then approached S and Clover for a
+refund of the charges. S explained that it had received confirmation from Clover that
+its merchant ID had been set up successfully before it started processing Ts
+payments. When he didnt get a satisfactory response from Clover, he asked this
+service to look into Ts complaint.
+This service asked Clover for information by email and phone every couple of weeks from
+October 2021 until June 2022, when the investigator issued her view, but it didnt respond.
+So our investigator recommended the complaint be upheld. She said that based on what she
+could see from the evidence Mr L had provided, Clover had used the wrong merchant ID for
+S when processing Ts MOTO transactions, and used Ps merchant ID for all transactions
+received for T. So she recommended that Clover refund all the charges and the fees that
+Clover had applied in error for transactions that should have been processed through Ss
+merchant ID.
+T accepted the investigators view but Clover didnt say whether it accepted or rejected the
+view. This was despite the investigator calling Clover, who acknowledged the view had been
+received. As an agreement couldnt be reached, the case was passed to me to decide.
+I issued a provisional decision on 4 August 2022. I said the following:
+Ive considered all the available evidence and arguments to decide whats fair and
+reasonable in the circumstances of this complaint.
+Looking at the information provided from Mr L, it appears that the key complaint here 
+is that Ts e-commerce and MOTO transactions had the wrong fee type applied. I can 
+see that Clover says it wasnt responsible for this, but Im not persuaded thats the 
+case. Ill explain why.
+When a merchant services provider undertakes transactions on a customers behalf, 
+there are two different types which can be applied, qualifying or non-qualifying 
+transactions. The charges for a qualifying transaction are less than the charges for a 
+non-qualifying transaction.
+For a MOTO transaction to be treated as qualifying, the three-digit card verification 
+value (CVV) on the back of a card and the registered address need to be input 
+correctly. Its also important that the merchant account for the customer needs to be 
+set up to process MOTO transactions, if not all these transactions would be treated 
+as non-qualifying and a higher fee will be applied.
+In simple terms, the process here looks to be as follows:
+T receives a card present transaction.
+This is received through Ps card terminal using its merchant ID and Clover
+processes the payment applying the relevant charges.
+T receives an e-commerce, mail, or telephone order transaction.
+This is received through Ss system/terminal using its merchant ID and Clover
+processes the payment using these details. If all payment details are correct 
+in line with the terms and conditions, it is processed as qualifying if the 
+payment details are not present/correct it is processed as non-qualifying.
+However, Clover says that it didnt have an agreement in place with T to process 
+MOTO transactions, and therefore any transactions it processed in this way were 
+treated as non-qualifying and the higher fee was charged. Looking at the evidence, I 
+think all payments received by Clover from T were processed through Ps merchant 
+system ID rather than just the card present transactions. And because T didnt have an agreement with P to process these transactions, they were charged the non-
+qualifying rate.
+Ive seen email correspondence between S and Mr L which said that Ts customer 
+account with S was set up for MOTO transactions. It also said that Ss merchant ID 
+for these transactions on Ts behalf had been confirmed with Clover, along with the 
+card terminal IDs and that Clover would have had to confirm this information was 
+correct before any transactions could be used through S. Ive also seen screen shots 
+of Ss secure set up with Clover at 16:06 on 7 April 2019. So based on all the 
+evidence available, I think Clover agreed to accept MOTO transactions for T through 
+Ss systems, and therefore it hasnt processed these types of transactions correctly.
+Clovers operating guide says that even if its merchant services system is set up to 
+receive e-commerce and MOTO transactions, they are only treated as qualifying 
+transactions in the following circumstances Card Not Present MOTO: MOTO 
+transactions that capture the Card Security Code (CSC) submitted for processing 
+within two business days of the transaction and Card Not Present eCommerce: 3D 
+secure enabled eCommerce transactions submitted for processing within two 
+business days of the transactions. Mr L has provided evidence of all the transactions 
+he believes were incorrectly treated as non-qualifying from April 2019. And based 
+on what Ive seen I think Clover has applied the incorrect fee and treated T unfairly in 
+how its processed the MOTO transactions.
+Ive seen numerous emails from Mr L to Clover asking why T was charged a non-
+qualifying fee for MOTO transactions, and Mr L was repeatedly referred to P to 
+discuss the fees when T didnt have an agreement with P for this type of transaction. 
+This meant T was caused inconvenience as Mr L wasnt able to resolve the error with 
+Clover despite numerous calls and emails and trying to explain that this appeared to 
+be a processing error  rather than an issue with the cost of the fees being applied.
+From what Ive seen, I think Clover misunderstood the error which had taken place 
+with Ts MOTO transactions. Clover continually referred Mr L back to P as the card 
+provider acting on its behalf, rather than identifying that T had two different providers 
+for the different types of transactions. I dont think Clover identified that S hadnt been 
+set up correctly on its systems, and that all MOTO transactions should have been 
+processed through S not P. So I think Clover are responsible for the error here and 
+need to put things right.
+Looking at the information received on the complaint, it appears that the issue is 
+ongoing. Therefore I think Clover needs to review Ts account and ensure that both P 
+and S are set up correctly on its system so future transactions are applied correctly. I 
+also think Clover should review all Ts transactions since 4 April 2019 until the matter 
+is resolved, recalculate all the charges and refund those that were applied incorrectly. 
+Its also clear that Clover has caused T inconvenience over a period of several years, 
+so I think it should pay £300 compensation.
+I invited T and Clover to give me any more evidence and information they wanted me to 
+consider before issuing my final decision. T accepted the decision and said it had nothing 
+further to add. Clover didnt say whether it agreed or disagreed with the decision.
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.Having done so, as T responded to say it accepted the decision and had nothing further to 
+add and Clover hasnt responded with any further information, I see no reason to reach a 
+different conclusion. So this final decision confirms the findings set out in my provisional 
+decision.
+My final decision
+My final decision is that I uphold this complaint. I instruct First Data Europe Limited to:
+Update its system records for T so that transactions are processed through P and Ss
+different merchant IDs correctly.
+Re-calculate all the charges correctly and refund T for the transactions which have
+been incorrectly charged non-qualifying transaction fees from the start of the
+agreement in April 2019 until the date the error is resolved, and
+Pay H £300 compensation for the inconvenience caused.
+Under the rules of the Financial Ombudsman Service, Im required to ask T to accept or 
+reject my decision before 13 September 2022.
+ 
+Jenny Lomax
+Ombudsman

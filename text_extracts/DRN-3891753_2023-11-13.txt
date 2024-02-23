@@ -1,0 +1,122 @@
+DRN-3891753
+The complaint
+Mrs S complains about the way CMC Markets UK plc closed some of her trades, causing her 
+a financial loss. She says there was an error by CMCs platform and she has lost out as a 
+result. 
+What happened
+Mrs S had a Contracts for Difference (CFD) trading account with CMC Markets. On 26 
+November 2011 Mrs S had a number of long and short positions open on the SP500 cash 
+market  her overall net exposure was 96 units long. Although Mrs S was running an overall 
+unrealised loss, she continued to have sufficient margin to keep here positions open. 
+At 16:11 a short position of 100 units on the same market was closed. This led to her 
+account being net long by 196 units, increasing her overall margin requirement to around 
+£33,823.66. This meant that her target close-out level (that is, 50% of her margin 
+requirement) was £16,911.83  and as her account equity was only £16,678.39 her positions 
+were liquidated by CMC Markets. 
+Mrs S initially telephoned CMC Markets and asked for her account to be reinstated. In her 
+call she explained that her closeout level was not £16,000 but £11,000, and she didnt 
+understand what had happened. She said it wasnt fair that all her positions were closed. 
+CMC Markets initially considered her request, but explained that as she was overall net long, 
+her account had been liquidated correctly. It offered to reinstate her trades, but only if she 
+was able to add more margin to the account, as her account would otherwise be liquidated 
+again. CMC Markets also explained that in any event, the price had continued to drop, 
+meaning that if she wanted to open more long positions she could do so at a cheaper price 
+than the one she had been liquidated at. Mrs S said she couldnt add any more money. She 
+reiterated her complaint that she had been liquidated incorrectly, and raised a complaint.  
+Before responding to her complaint, CMC Markets offered Mrs S a goodwill gesture in full 
+and final settlement of the complaint which it said represented the best possible relative 
+outcome for your account from this point. Mrs S accepted this goodwill gesture, and was 
+able to withdraw this sum from her trading account. 
+Shortly after this, CMC Markets issued a final response to her complaint. It considered that it 
+hadnt done anything wrong. It said she had closed a short position at 16:11 and this had 
+triggered the closeout. It explained how account hedging worked, and what happened when 
+Mrs S had closed her trade at 16:11. 
+Mrs S referred her complaint to this service. In summary, she said one of her short positions 
+was closed at 16:11, which triggered the liquidation of her account, closing all of her 
+positions. However, she said she had never closed that trade and in fact had opened 
+another short position 4 minutes earlier. She said that her overall position was long 96 
+units, which meant that the liquidation level shouldve been at £10,000 not £16,000. She 
+initially asked CMC Markets to reinstate her trades because of his, and confirmed that the 
+liquidation had been carried out incorrectly. She said that she wouldnt have closed the short 
+position herself because she was aware of the effect this would have on her account  she 
+explained there was a clear stop sign, saying if you close this position your account will be 
+closed. 
+She also referred to previous problems CMC Markets had on its platform, and said she 
+believed those same problems affected her trades on 26 November. She also complained 
+that she was originally told that CMC Markets would look into the issue and could carry on 
+opening trades, but she was then later told her trades wouldnt be reinstated because of 
+further activity on the account. Finally she complained that the price she received for her 
+S&P500 trade was different to other live charts she had looked at and believed that CMC 
+Markets had stolen her money. 
+One of our investigators looked into Mrs Ss complaint, but didnt think CMC Markets had 
+done anything wrong. In short, she said that CMC Markets was clear about margin 
+requirements, and what would happen in the event of insufficient margin. She said that the 
+evidence showed that Mrs Ss account did not have sufficient margin at the time, and 
+therefore CMC Markets was correct in closing her open trades. 
+Mrs S didnt agree with the investigator. She said that CMC Markets had previously had 
+problems with its platform, and this should be taken into account. She also maintained that 
+she didnt close the relevant trade. She also said that she telephoned CMC Markets 
+immediately and was told her positions would be reinstated. 
+CMC Markets provided additional evidence. This showed:
+Mrs S was logged in at the relevant times. The logs showed that she had placed a 
+short order of 100 units of SPX500 cash on 26 November 2021, and this was closed 
+at 16:11 on the same day. It explained that Mrs S wouldve clicked on the X button 
+next to the relevant order in order to close it. 
+It said that if it had been CMC Markets that had closed this trade, rather than Mrs S, 
+a different source channel wouldve showed on the internal logs and it provided an 
+example of this. 
+It also explained that Mrs S was initially told that her positions could be reinstated if 
+she was able to add additional equity to the account, but Mrs S was unable to do this. 
+It offered her a goodwill payment of £1,690 in order to resolve the issue, which Mrs S 
+accepted. 
+The investigator reviewed this evidence, and provided her final assessment. She concluded 
+that CMC Markets had provided persuasive evidence that Mrs S had closed the relevant 
+trade, and that her account was liquidated fairly and reasonably. She didnt consider there 
+was sufficient evidence to conclude CMC Markets had done anything wrong, and therefore 
+did not consider Mrs Ss complaint should be upheld. 
+Mrs S didnt agree. She maintained she had never closed that trade, and that was the only 
+reason she needed to add further money to the account. As agreement couldnt be reached 
+the case was passed to me to decide. 
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.I understand Mrs Ss strength of feeling about what happened, and how adamant she is that 
+she never closed the relevant trade that sparked the liquidation of her account. 
+Unfortunately, however, the evidence Ive seen persuasively shows that the trade was 
+closed by her, on her phone, and not CMC Markets. This evidence includes internal logs of 
+her account which persuasively show that she closed that trade and not CMC Markets. 
+Whilst I accept she disputes this evidence, Im sorry to say that her testimony is not enough 
+to outweigh the evidence CMC Markets has provided. 
+Ultimately, Im persuaded that the closure of that trade was likely not something Mrs S was 
+intending on doing. She may have done this by error, or had perhaps misunderstood the 
+overall net position of her account in relation to the market she was trading on. But whatever 
+the reasons behind this closure, Im satisfied it isnt something that I can hold CMC Markets 
+responsible for. 
+CMCs platform worked as intended  it received a market order from Mrs S, and it executed 
+it. So in terms of the trade itself, for the reasons Ive given, I agree with the investigator and 
+conclude there was no error in CMC Markets execution of it. I should say that Ive also seen 
+insufficient evidence that the price it gave Mrs S was not representative of the market. 
+Having accepted that this trade was placed by Mrs S, it automatically follows that I dont 
+uphold the remainder of her complaint. This is because once that trade was executed, the 
+margin required for Mrs S to keep her trades open increased substantially. 
+Im satisfied the evidence shows that the level of unrealised losses on Mrs Ss account was 
+such that she immediately had less than 50% of the required margin available  and this 
+triggered the automatic closeout of her trades. As she has already been told, this wasnt 
+something CMC Markets could do anything about  it was an automatic process that it was 
+legally required to carry out. 
+Ive also listened to the calls Mrs S had with CMC Markets immediately after the liquidation. 
+Im satisfied it never told her it had made an error, and in fact Mrs S was repeatedly told that 
+the liquidation had been carried out correctly. 
+Furthermore, I agree she was offered a reinstatement of her trades  but only in the event 
+she add more margin, which she was not willing to do. I accept that she says she was only 
+asked to add more margin because of the closure of the short position that she disputes  
+but even before that, her account was net long on the S&P500. And since the value of the 
+S&P500 was dropping, she wouldve been at risk of closeout in any event. 
+For all these reasons, Im satisfied CMC Markets acted fairly and reasonably when it 
+liquidated Mrs Ss open positions. Im sorry to disappoint Mrs S, but I dont uphold her 
+complaint. 
+My final decision
+My final decision is that I dont uphold this complaint. Under the rules of the Financial Ombudsman Service, Im required to ask Mrs S to accept or 
+reject my decision before 11 December 2023.
+ 
+Alessandro Pulzone
+Ombudsman

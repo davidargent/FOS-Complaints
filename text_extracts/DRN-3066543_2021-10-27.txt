@@ -1,0 +1,106 @@
+DRN-3066543
+The complaint
+Company A complains that Barclays Bank UK PLC didnt do enough to prevent the 
+companys loss or help them recover money it had sent to one of Barclays customers as a 
+result of a scam. 
+What happened
+The background to the complaint is known to both parties and so I wont repeat it at length 
+here. Briefly, in March 2020, Company A made a payment of €10,412.67 on an invoice 
+which they believed was from their supplier. Unfortunately, unknown to them the invoice had 
+been intercepted by a fraudster who had changed the payment details. As a result, the 
+payment went to a different account with Barclays instead of the intended recipient. 
+The scam came to light several days later. A contacted their bank who in turn contacted 
+Barclays. 
+Barclays informed A that there were no funds remaining in the account where the
+payment went into by the time the sending bank advised them of the scam. 
+Company A feel that Barclays could have done more to prevent the fraud. In particular, they 
+say that the bank ought to have checked the name of the recipient against the name of the 
+intended payee. Barclays say that the inbound payment was formatted correctly in that the 
+IBAN matched the account and so the funds were credited automatically. 
+One of our investigators reviewed the case and concluded that Barclays neednt do anything 
+further apart from refunding £24.51 the bank recovered from its customer. Overall, they 
+didnt think that As loss was caused by any act or omission by Barclays when opening the 
+recipients account or when responding to notification of fraud. So, they didnt think Barclays 
+needed to provide A with a refund for their loss.
+A did not agree. Through its representative it insisted that Barclays ought to have verified the 
+name of the recipient against the name of the intended payee.
+  
+What Ive decided  and why
+Ive considered all the available evidence and arguments to decide whats fair and 
+reasonable in the circumstances of this complaint.
+ Having done so, I agree with our investigator and for essentially the same reasons. I know 
+this will be disappointing for A, so Ill explain why.
+I am sorry to hear that A has been an innocent victim of a callous scam. From their 
+perspective I can see why they feel that Barclays should reimburse them for their loss. 
+However, an account found to have received funds which were made as a result of 
+authorised push payment fraud doesnt automatically entitle the payer (victim) to a refund 
+nor does it indisputably mean that the recipient bank failed reasonably to prevent the loss.
+In this instance, firstly I havent seen anything to suggest that Barclays could reasonably 
+have foreseen when the account was opened that it would later be used to receive 
+fraudulent credit.
+I am also satisfied that the payment Company A made into the account was broadly in line 
+with the account activity. As such, I dont think Barclays ought reasonably to have had 
+concerns where Id have expected it to have intervened. So again, I cant fairly conclude that 
+Barclays missed an opportunity here to prevent As loss.
+And finally, upon notification of the scam, a receiving bank is expected to take action 
+immediately to prevent any further loss of funds. In this instance, by the time Barclays were 
+notified of the scam their customer had already removed most of the money from their 
+account. So, there wasnt much Barclays could do to prevent As loss. Nevertheless, I can 
+see that the bank did place an immediate block on the account and removed the balance of 
+£24.51 that remained in the account. And following its investigation it went on to close the 
+account. 
+That said, I can see no reason why the recovered amount of £24.51 wasnt returned to A. 
+So, Barclays should return this amount to A together with interest. The refund should be 
+made at no cost to A.
+Company A strongly feels that Barclays ought to have checked the name of the recipient 
+against the intended payee name and had it done so the fraud would have come to light 
+straightaway thereby preventing the loss to A.
+In this regard, Company As representative has referred us to a consultative document 
+issued in September 2008 by Basel Committee on banking supervision titled Due diligence 
+and transparency regarding cover payment messages related to cross border wire transfer. 
+As representative has referred us in particular to paragraphs 26, 27 and 28 in the document 
+which is about the responsibilities of beneficiaries banks.
+I have considered this document, together with the final version of this document that was 
+released in 2009 where the corresponding section about responsibilities of beneficiaries 
+banks is under paragraphs 32 and 33.
+The relevant section essentially states that: The bank of the beneficiary must identify the 
+beneficiary, and verify its identity, in accordance with the standards governing customer due 
+diligence.  
+The representative has also referred us to the footnote to paragraph 26 of the consultative 
+document and says that the beneficiary bank has to repeatedly identify and verify the 
+identity of each customer every time that a customer conducts a transaction. 
+But the footnote actually states that the above requirement do not imply that financial 
+institutions have to repeatedly identify and verify the identity of each customer every time 
+that a customer conducts a transaction. An institution is entitled to rely on the identification 
+and verification steps that it has already undertaken unless it has doubts about the veracity 
+of that information
+Thus, the provisions essentially require the beneficiary bank to carry out its due diligence in 
+verifying the identity of the beneficiary and it doesnt necessarily have to do this every time the customer carries out a specific transaction unless it has doubts about the veracity of the 
+information.
+I have already considered whether there was any failure on part of Barclays in this regard 
+when the account was opened. And I have also considered whether Barclays ought 
+reasonably to have had concerns in relation to the specific transaction and have concluded it 
+wasnt the case.
+Further, as explained by the investigator, whilst the payment instruction included the name of 
+the intended payee, the unique identifier was IBAN. So, the payment would be received into 
+the account so long as the IBAN was correct, which was the case here. 
+The Payment Systems Regulator who are the regulator for the payment systems industry in 
+the UK, have last year introduced a system called Confirmation of Payee (CoP). This 
+provides for the checking - by the payers bank - of the recipients name against the intended 
+payee in certain circumstances. However, the CoP was not in place at the time this 
+transaction happened and in any case it doesnt apply to international transfers such as this.
+In summary, I am sorry to have to disappoint A. But I can only make an award against a 
+bank if that bank has done something wrong which has led to a loss. In this case, from what 
+Ive seen there hasnt been a failing by Barclays which has resulted in As loss. And as such 
+I cant fairly or reasonably ask it to refund their loss.
+ 
+My final decision
+For the reasons given above, my final decision is that in full and final settlement of this 
+complaint Barclays should return the £24.51 to A, together with interest at 8% simple p.a. 
+Interest should be paid from the date A raised its fraud claim with Barclays to the date of 
+payment. The refund should be made at no cost to A.
+Under the rules of the Financial Ombudsman Service, Im required to ask A to accept or 
+reject my decision before 24 November 2021.
+ 
+Raj Varadarajan
+Ombudsman
